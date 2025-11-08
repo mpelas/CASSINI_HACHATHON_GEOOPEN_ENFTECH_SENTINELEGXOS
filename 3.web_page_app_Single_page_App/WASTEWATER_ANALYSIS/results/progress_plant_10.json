@@ -1,0 +1,1887 @@
+{
+  "processed": 40,
+  "successful": 40,
+  "results": [
+    {
+      "plant_name": "\u0391\u03a1\u03a4\u0391",
+      "date_from": "2022-08-01",
+      "date_to": "2022-08-07",
+      "visualization_path": "WASTEWATER_ANALYSIS_20251107_112258\\visualizations\\\u0391\u03a1\u03a4\u0391_2022-08-01_visualization.png",
+      "data_path": "WASTEWATER_ANALYSIS_20251107_112258\\raw_data\\\u0391\u03a1\u03a4\u0391_2022-08-01_metrics.tiff",
+      "metrics_viz_path": "WASTEWATER_ANALYSIS_20251107_112258\\metrics\\\u0391\u03a1\u03a4\u0391_2022-08-01_metrics.png",
+      "polluted_areas": {
+        "Chl_a": {
+          "area_m2": 249200.0,
+          "area_km2": 0.2492,
+          "num_pixels": 2492,
+          "threshold": 6
+        },
+        "Cya": {
+          "area_m2": 279500.0,
+          "area_km2": 0.2795,
+          "num_pixels": 2795,
+          "threshold": 10
+        },
+        "Turb": {
+          "area_m2": 237000.0,
+          "area_km2": 0.237,
+          "num_pixels": 2370,
+          "threshold": 4
+        },
+        "CDOM": {
+          "area_m2": 230400.0,
+          "area_km2": 0.2304,
+          "num_pixels": 2304,
+          "threshold": 1
+        },
+        "DOC": {
+          "area_m2": 220100.0,
+          "area_km2": 0.2201,
+          "num_pixels": 2201,
+          "threshold": 5
+        },
+        "Color": {
+          "area_m2": 191700.0,
+          "area_km2": 0.1917,
+          "num_pixels": 1917,
+          "threshold": 10
+        }
+      },
+      "processed_at": "2025-11-07 11:23:06"
+    },
+    {
+      "plant_name": "\u0391\u03a1\u03a4\u0391",
+      "date_from": "2023-08-01",
+      "date_to": "2023-08-07",
+      "visualization_path": "WASTEWATER_ANALYSIS_20251107_112258\\visualizations\\\u0391\u03a1\u03a4\u0391_2023-08-01_visualization.png",
+      "data_path": "WASTEWATER_ANALYSIS_20251107_112258\\raw_data\\\u0391\u03a1\u03a4\u0391_2023-08-01_metrics.tiff",
+      "metrics_viz_path": "WASTEWATER_ANALYSIS_20251107_112258\\metrics\\\u0391\u03a1\u03a4\u0391_2023-08-01_metrics.png",
+      "polluted_areas": {
+        "Chl_a": {
+          "area_m2": 197800.0,
+          "area_km2": 0.1978,
+          "num_pixels": 1978,
+          "threshold": 6
+        },
+        "Cya": {
+          "area_m2": 213000.0,
+          "area_km2": 0.213,
+          "num_pixels": 2130,
+          "threshold": 10
+        },
+        "Turb": {
+          "area_m2": 192200.0,
+          "area_km2": 0.1922,
+          "num_pixels": 1922,
+          "threshold": 4
+        },
+        "CDOM": {
+          "area_m2": 185000.0,
+          "area_km2": 0.185,
+          "num_pixels": 1850,
+          "threshold": 1
+        },
+        "DOC": {
+          "area_m2": 175600.0,
+          "area_km2": 0.1756,
+          "num_pixels": 1756,
+          "threshold": 5
+        },
+        "Color": {
+          "area_m2": 153600.0,
+          "area_km2": 0.1536,
+          "num_pixels": 1536,
+          "threshold": 10
+        }
+      },
+      "processed_at": "2025-11-07 11:23:13"
+    },
+    {
+      "plant_name": "\u0391\u03a1\u03a4\u0391",
+      "date_from": "2024-08-01",
+      "date_to": "2024-08-07",
+      "visualization_path": "WASTEWATER_ANALYSIS_20251107_112258\\visualizations\\\u0391\u03a1\u03a4\u0391_2024-08-01_visualization.png",
+      "data_path": "WASTEWATER_ANALYSIS_20251107_112258\\raw_data\\\u0391\u03a1\u03a4\u0391_2024-08-01_metrics.tiff",
+      "metrics_viz_path": "WASTEWATER_ANALYSIS_20251107_112258\\metrics\\\u0391\u03a1\u03a4\u0391_2024-08-01_metrics.png",
+      "polluted_areas": {
+        "Chl_a": {
+          "area_m2": 212900.0,
+          "area_km2": 0.2129,
+          "num_pixels": 2129,
+          "threshold": 6
+        },
+        "Cya": {
+          "area_m2": 235700.0,
+          "area_km2": 0.2357,
+          "num_pixels": 2357,
+          "threshold": 10
+        },
+        "Turb": {
+          "area_m2": 206200.0,
+          "area_km2": 0.2062,
+          "num_pixels": 2062,
+          "threshold": 4
+        },
+        "CDOM": {
+          "area_m2": 202400.0,
+          "area_km2": 0.2024,
+          "num_pixels": 2024,
+          "threshold": 1
+        },
+        "DOC": {
+          "area_m2": 185400.0,
+          "area_km2": 0.1854,
+          "num_pixels": 1854,
+          "threshold": 5
+        },
+        "Color": {
+          "area_m2": 132600.0,
+          "area_km2": 0.1326,
+          "num_pixels": 1326,
+          "threshold": 10
+        }
+      },
+      "processed_at": "2025-11-07 11:23:20"
+    },
+    {
+      "plant_name": "\u0391\u03a1\u03a4\u0391",
+      "date_from": "2025-08-01",
+      "date_to": "2025-08-07",
+      "visualization_path": "WASTEWATER_ANALYSIS_20251107_112258\\visualizations\\\u0391\u03a1\u03a4\u0391_2025-08-01_visualization.png",
+      "data_path": "WASTEWATER_ANALYSIS_20251107_112258\\raw_data\\\u0391\u03a1\u03a4\u0391_2025-08-01_metrics.tiff",
+      "metrics_viz_path": "WASTEWATER_ANALYSIS_20251107_112258\\metrics\\\u0391\u03a1\u03a4\u0391_2025-08-01_metrics.png",
+      "polluted_areas": {
+        "Chl_a": {
+          "area_m2": 239900.0,
+          "area_km2": 0.2399,
+          "num_pixels": 2399,
+          "threshold": 6
+        },
+        "Cya": {
+          "area_m2": 250400.0,
+          "area_km2": 0.2504,
+          "num_pixels": 2504,
+          "threshold": 10
+        },
+        "Turb": {
+          "area_m2": 234800.0,
+          "area_km2": 0.2348,
+          "num_pixels": 2348,
+          "threshold": 4
+        },
+        "CDOM": {
+          "area_m2": 200500.0,
+          "area_km2": 0.2005,
+          "num_pixels": 2005,
+          "threshold": 1
+        },
+        "DOC": {
+          "area_m2": 185300.0,
+          "area_km2": 0.1853,
+          "num_pixels": 1853,
+          "threshold": 5
+        },
+        "Color": {
+          "area_m2": 153900.0,
+          "area_km2": 0.1539,
+          "num_pixels": 1539,
+          "threshold": 10
+        }
+      },
+      "processed_at": "2025-11-07 11:23:26"
+    },
+    {
+      "plant_name": "\u039c\u0391\u039b\u0395\u03a3\u0399\u039d\u0391",
+      "date_from": "2022-08-01",
+      "date_to": "2022-08-07",
+      "visualization_path": "WASTEWATER_ANALYSIS_20251107_112258\\visualizations\\\u039c\u0391\u039b\u0395\u03a3\u0399\u039d\u0391_2022-08-01_visualization.png",
+      "data_path": "WASTEWATER_ANALYSIS_20251107_112258\\raw_data\\\u039c\u0391\u039b\u0395\u03a3\u0399\u039d\u0391_2022-08-01_metrics.tiff",
+      "metrics_viz_path": "WASTEWATER_ANALYSIS_20251107_112258\\metrics\\\u039c\u0391\u039b\u0395\u03a3\u0399\u039d\u0391_2022-08-01_metrics.png",
+      "polluted_areas": {
+        "Chl_a": {
+          "area_m2": 701000.0,
+          "area_km2": 0.701,
+          "num_pixels": 7010,
+          "threshold": 6
+        },
+        "Cya": {
+          "area_m2": 499400.0,
+          "area_km2": 0.4994,
+          "num_pixels": 4994,
+          "threshold": 10
+        },
+        "Turb": {
+          "area_m2": 607200.0,
+          "area_km2": 0.6072,
+          "num_pixels": 6072,
+          "threshold": 4
+        },
+        "CDOM": {
+          "area_m2": 582600.0,
+          "area_km2": 0.5826,
+          "num_pixels": 5826,
+          "threshold": 1
+        },
+        "DOC": {
+          "area_m2": 562000.0,
+          "area_km2": 0.562,
+          "num_pixels": 5620,
+          "threshold": 5
+        },
+        "Color": {
+          "area_m2": 524400.0,
+          "area_km2": 0.5244,
+          "num_pixels": 5244,
+          "threshold": 10
+        }
+      },
+      "processed_at": "2025-11-07 11:23:44"
+    },
+    {
+      "plant_name": "\u039c\u0391\u039b\u0395\u03a3\u0399\u039d\u0391",
+      "date_from": "2023-08-01",
+      "date_to": "2023-08-07",
+      "visualization_path": "WASTEWATER_ANALYSIS_20251107_112258\\visualizations\\\u039c\u0391\u039b\u0395\u03a3\u0399\u039d\u0391_2023-08-01_visualization.png",
+      "data_path": "WASTEWATER_ANALYSIS_20251107_112258\\raw_data\\\u039c\u0391\u039b\u0395\u03a3\u0399\u039d\u0391_2023-08-01_metrics.tiff",
+      "metrics_viz_path": "WASTEWATER_ANALYSIS_20251107_112258\\metrics\\\u039c\u0391\u039b\u0395\u03a3\u0399\u039d\u0391_2023-08-01_metrics.png",
+      "polluted_areas": {
+        "Chl_a": {
+          "area_m2": 644500.0,
+          "area_km2": 0.6445,
+          "num_pixels": 6445,
+          "threshold": 6
+        },
+        "Cya": {
+          "area_m2": 94700.0,
+          "area_km2": 0.0947,
+          "num_pixels": 947,
+          "threshold": 10
+        },
+        "Turb": {
+          "area_m2": 564200.0,
+          "area_km2": 0.5642,
+          "num_pixels": 5642,
+          "threshold": 4
+        },
+        "CDOM": {
+          "area_m2": 56600.0,
+          "area_km2": 0.0566,
+          "num_pixels": 566,
+          "threshold": 1
+        },
+        "DOC": {
+          "area_m2": 51400.0,
+          "area_km2": 0.0514,
+          "num_pixels": 514,
+          "threshold": 5
+        },
+        "Color": {
+          "area_m2": 41400.0,
+          "area_km2": 0.0414,
+          "num_pixels": 414,
+          "threshold": 10
+        }
+      },
+      "processed_at": "2025-11-07 11:23:53"
+    },
+    {
+      "plant_name": "\u039c\u0391\u039b\u0395\u03a3\u0399\u039d\u0391",
+      "date_from": "2024-08-01",
+      "date_to": "2024-08-07",
+      "visualization_path": "WASTEWATER_ANALYSIS_20251107_112258\\visualizations\\\u039c\u0391\u039b\u0395\u03a3\u0399\u039d\u0391_2024-08-01_visualization.png",
+      "data_path": "WASTEWATER_ANALYSIS_20251107_112258\\raw_data\\\u039c\u0391\u039b\u0395\u03a3\u0399\u039d\u0391_2024-08-01_metrics.tiff",
+      "metrics_viz_path": "WASTEWATER_ANALYSIS_20251107_112258\\metrics\\\u039c\u0391\u039b\u0395\u03a3\u0399\u039d\u0391_2024-08-01_metrics.png",
+      "polluted_areas": {
+        "Chl_a": {
+          "area_m2": 712400.0,
+          "area_km2": 0.7124,
+          "num_pixels": 7124,
+          "threshold": 6
+        },
+        "Cya": {
+          "area_m2": 131500.0,
+          "area_km2": 0.1315,
+          "num_pixels": 1315,
+          "threshold": 10
+        },
+        "Turb": {
+          "area_m2": 607300.0,
+          "area_km2": 0.6073,
+          "num_pixels": 6073,
+          "threshold": 4
+        },
+        "CDOM": {
+          "area_m2": 240400.0,
+          "area_km2": 0.2404,
+          "num_pixels": 2404,
+          "threshold": 1
+        },
+        "DOC": {
+          "area_m2": 215900.0,
+          "area_km2": 0.2159,
+          "num_pixels": 2159,
+          "threshold": 5
+        },
+        "Color": {
+          "area_m2": 164300.0,
+          "area_km2": 0.1643,
+          "num_pixels": 1643,
+          "threshold": 10
+        }
+      },
+      "processed_at": "2025-11-07 11:24:00"
+    },
+    {
+      "plant_name": "\u039c\u0391\u039b\u0395\u03a3\u0399\u039d\u0391",
+      "date_from": "2025-08-01",
+      "date_to": "2025-08-07",
+      "visualization_path": "WASTEWATER_ANALYSIS_20251107_112258\\visualizations\\\u039c\u0391\u039b\u0395\u03a3\u0399\u039d\u0391_2025-08-01_visualization.png",
+      "data_path": "WASTEWATER_ANALYSIS_20251107_112258\\raw_data\\\u039c\u0391\u039b\u0395\u03a3\u0399\u039d\u0391_2025-08-01_metrics.tiff",
+      "metrics_viz_path": "WASTEWATER_ANALYSIS_20251107_112258\\metrics\\\u039c\u0391\u039b\u0395\u03a3\u0399\u039d\u0391_2025-08-01_metrics.png",
+      "polluted_areas": {
+        "Chl_a": {
+          "area_m2": 734100.0,
+          "area_km2": 0.7341,
+          "num_pixels": 7341,
+          "threshold": 6
+        },
+        "Cya": {
+          "area_m2": 89700.0,
+          "area_km2": 0.0897,
+          "num_pixels": 897,
+          "threshold": 10
+        },
+        "Turb": {
+          "area_m2": 654100.0,
+          "area_km2": 0.6541,
+          "num_pixels": 6541,
+          "threshold": 4
+        },
+        "CDOM": {
+          "area_m2": 55600.0,
+          "area_km2": 0.0556,
+          "num_pixels": 556,
+          "threshold": 1
+        },
+        "DOC": {
+          "area_m2": 50800.0,
+          "area_km2": 0.0508,
+          "num_pixels": 508,
+          "threshold": 5
+        },
+        "Color": {
+          "area_m2": 41500.0,
+          "area_km2": 0.0415,
+          "num_pixels": 415,
+          "threshold": 10
+        }
+      },
+      "processed_at": "2025-11-07 11:24:06"
+    },
+    {
+      "plant_name": "\u039b\u0399\u039c\u039d\u0397",
+      "date_from": "2022-08-01",
+      "date_to": "2022-08-07",
+      "visualization_path": "WASTEWATER_ANALYSIS_20251107_112258\\visualizations\\\u039b\u0399\u039c\u039d\u0397_2022-08-01_visualization.png",
+      "data_path": "WASTEWATER_ANALYSIS_20251107_112258\\raw_data\\\u039b\u0399\u039c\u039d\u0397_2022-08-01_metrics.tiff",
+      "metrics_viz_path": "WASTEWATER_ANALYSIS_20251107_112258\\metrics\\\u039b\u0399\u039c\u039d\u0397_2022-08-01_metrics.png",
+      "polluted_areas": {
+        "Chl_a": {
+          "area_m2": 190200.0,
+          "area_km2": 0.1902,
+          "num_pixels": 1902,
+          "threshold": 6
+        },
+        "Cya": {
+          "area_m2": 2681300.0,
+          "area_km2": 2.6813,
+          "num_pixels": 26813,
+          "threshold": 10
+        },
+        "Turb": {
+          "area_m2": 163100.0,
+          "area_km2": 0.1631,
+          "num_pixels": 1631,
+          "threshold": 4
+        },
+        "CDOM": {
+          "area_m2": 5774500.0,
+          "area_km2": 5.7745,
+          "num_pixels": 57745,
+          "threshold": 1
+        },
+        "DOC": {
+          "area_m2": 5481400.0,
+          "area_km2": 5.4814,
+          "num_pixels": 54814,
+          "threshold": 5
+        },
+        "Color": {
+          "area_m2": 4828800.0,
+          "area_km2": 4.8288,
+          "num_pixels": 48288,
+          "threshold": 10
+        }
+      },
+      "processed_at": "2025-11-07 11:24:13"
+    },
+    {
+      "plant_name": "\u039b\u0399\u039c\u039d\u0397",
+      "date_from": "2023-08-01",
+      "date_to": "2023-08-07",
+      "visualization_path": "WASTEWATER_ANALYSIS_20251107_112258\\visualizations\\\u039b\u0399\u039c\u039d\u0397_2023-08-01_visualization.png",
+      "data_path": "WASTEWATER_ANALYSIS_20251107_112258\\raw_data\\\u039b\u0399\u039c\u039d\u0397_2023-08-01_metrics.tiff",
+      "metrics_viz_path": "WASTEWATER_ANALYSIS_20251107_112258\\metrics\\\u039b\u0399\u039c\u039d\u0397_2023-08-01_metrics.png",
+      "polluted_areas": {
+        "Chl_a": {
+          "area_m2": 162200.0,
+          "area_km2": 0.1622,
+          "num_pixels": 1622,
+          "threshold": 6
+        },
+        "Cya": {
+          "area_m2": 138700.0,
+          "area_km2": 0.1387,
+          "num_pixels": 1387,
+          "threshold": 10
+        },
+        "Turb": {
+          "area_m2": 153900.0,
+          "area_km2": 0.1539,
+          "num_pixels": 1539,
+          "threshold": 4
+        },
+        "CDOM": {
+          "area_m2": 112100.0,
+          "area_km2": 0.1121,
+          "num_pixels": 1121,
+          "threshold": 1
+        },
+        "DOC": {
+          "area_m2": 107100.0,
+          "area_km2": 0.1071,
+          "num_pixels": 1071,
+          "threshold": 5
+        },
+        "Color": {
+          "area_m2": 96400.0,
+          "area_km2": 0.0964,
+          "num_pixels": 964,
+          "threshold": 10
+        }
+      },
+      "processed_at": "2025-11-07 11:24:21"
+    },
+    {
+      "plant_name": "\u039b\u0399\u039c\u039d\u0397",
+      "date_from": "2024-08-01",
+      "date_to": "2024-08-07",
+      "visualization_path": "WASTEWATER_ANALYSIS_20251107_112258\\visualizations\\\u039b\u0399\u039c\u039d\u0397_2024-08-01_visualization.png",
+      "data_path": "WASTEWATER_ANALYSIS_20251107_112258\\raw_data\\\u039b\u0399\u039c\u039d\u0397_2024-08-01_metrics.tiff",
+      "metrics_viz_path": "WASTEWATER_ANALYSIS_20251107_112258\\metrics\\\u039b\u0399\u039c\u039d\u0397_2024-08-01_metrics.png",
+      "polluted_areas": {
+        "Chl_a": {
+          "area_m2": 184600.0,
+          "area_km2": 0.1846,
+          "num_pixels": 1846,
+          "threshold": 6
+        },
+        "Cya": {
+          "area_m2": 154700.0,
+          "area_km2": 0.1547,
+          "num_pixels": 1547,
+          "threshold": 10
+        },
+        "Turb": {
+          "area_m2": 174500.0,
+          "area_km2": 0.1745,
+          "num_pixels": 1745,
+          "threshold": 4
+        },
+        "CDOM": {
+          "area_m2": 2063700.0,
+          "area_km2": 2.0637,
+          "num_pixels": 20637,
+          "threshold": 1
+        },
+        "DOC": {
+          "area_m2": 1990900.0,
+          "area_km2": 1.9909,
+          "num_pixels": 19909,
+          "threshold": 5
+        },
+        "Color": {
+          "area_m2": 1736200.0,
+          "area_km2": 1.7362,
+          "num_pixels": 17362,
+          "threshold": 10
+        }
+      },
+      "processed_at": "2025-11-07 11:24:51"
+    },
+    {
+      "plant_name": "\u039b\u0399\u039c\u039d\u0397",
+      "date_from": "2025-08-01",
+      "date_to": "2025-08-07",
+      "visualization_path": "WASTEWATER_ANALYSIS_20251107_112258\\visualizations\\\u039b\u0399\u039c\u039d\u0397_2025-08-01_visualization.png",
+      "data_path": "WASTEWATER_ANALYSIS_20251107_112258\\raw_data\\\u039b\u0399\u039c\u039d\u0397_2025-08-01_metrics.tiff",
+      "metrics_viz_path": "WASTEWATER_ANALYSIS_20251107_112258\\metrics\\\u039b\u0399\u039c\u039d\u0397_2025-08-01_metrics.png",
+      "polluted_areas": {
+        "Chl_a": {
+          "area_m2": 156100.0,
+          "area_km2": 0.1561,
+          "num_pixels": 1561,
+          "threshold": 6
+        },
+        "Cya": {
+          "area_m2": 136600.0,
+          "area_km2": 0.1366,
+          "num_pixels": 1366,
+          "threshold": 10
+        },
+        "Turb": {
+          "area_m2": 149800.0,
+          "area_km2": 0.1498,
+          "num_pixels": 1498,
+          "threshold": 4
+        },
+        "CDOM": {
+          "area_m2": 109200.0,
+          "area_km2": 0.1092,
+          "num_pixels": 1092,
+          "threshold": 1
+        },
+        "DOC": {
+          "area_m2": 105400.0,
+          "area_km2": 0.1054,
+          "num_pixels": 1054,
+          "threshold": 5
+        },
+        "Color": {
+          "area_m2": 96800.0,
+          "area_km2": 0.0968,
+          "num_pixels": 968,
+          "threshold": 10
+        }
+      },
+      "processed_at": "2025-11-07 11:25:00"
+    },
+    {
+      "plant_name": "\u039d\u0395\u0391 \u0391\u03a1\u03a4\u0391\u039a\u0397",
+      "date_from": "2022-08-01",
+      "date_to": "2022-08-07",
+      "visualization_path": "WASTEWATER_ANALYSIS_20251107_112258\\visualizations\\\u039d\u0395\u0391 \u0391\u03a1\u03a4\u0391\u039a\u0397_2022-08-01_visualization.png",
+      "data_path": "WASTEWATER_ANALYSIS_20251107_112258\\raw_data\\\u039d\u0395\u0391 \u0391\u03a1\u03a4\u0391\u039a\u0397_2022-08-01_metrics.tiff",
+      "metrics_viz_path": "WASTEWATER_ANALYSIS_20251107_112258\\metrics\\\u039d\u0395\u0391 \u0391\u03a1\u03a4\u0391\u039a\u0397_2022-08-01_metrics.png",
+      "polluted_areas": {
+        "Chl_a": {
+          "area_m2": 126200.0,
+          "area_km2": 0.1262,
+          "num_pixels": 1262,
+          "threshold": 6
+        },
+        "Cya": {
+          "area_m2": 2002900.0,
+          "area_km2": 2.0029,
+          "num_pixels": 20029,
+          "threshold": 10
+        },
+        "Turb": {
+          "area_m2": 107900.0,
+          "area_km2": 0.1079,
+          "num_pixels": 1079,
+          "threshold": 4
+        },
+        "CDOM": {
+          "area_m2": 2014500.0,
+          "area_km2": 2.0145,
+          "num_pixels": 20145,
+          "threshold": 1
+        },
+        "DOC": {
+          "area_m2": 2013900.0,
+          "area_km2": 2.0139,
+          "num_pixels": 20139,
+          "threshold": 5
+        },
+        "Color": {
+          "area_m2": 2011700.0,
+          "area_km2": 2.0117,
+          "num_pixels": 20117,
+          "threshold": 10
+        }
+      },
+      "processed_at": "2025-11-07 11:25:05"
+    },
+    {
+      "plant_name": "\u039d\u0395\u0391 \u0391\u03a1\u03a4\u0391\u039a\u0397",
+      "date_from": "2023-08-01",
+      "date_to": "2023-08-07",
+      "visualization_path": "WASTEWATER_ANALYSIS_20251107_112258\\visualizations\\\u039d\u0395\u0391 \u0391\u03a1\u03a4\u0391\u039a\u0397_2023-08-01_visualization.png",
+      "data_path": "WASTEWATER_ANALYSIS_20251107_112258\\raw_data\\\u039d\u0395\u0391 \u0391\u03a1\u03a4\u0391\u039a\u0397_2023-08-01_metrics.tiff",
+      "metrics_viz_path": "WASTEWATER_ANALYSIS_20251107_112258\\metrics\\\u039d\u0395\u0391 \u0391\u03a1\u03a4\u0391\u039a\u0397_2023-08-01_metrics.png",
+      "polluted_areas": {
+        "Chl_a": {
+          "area_m2": 94200.0,
+          "area_km2": 0.0942,
+          "num_pixels": 942,
+          "threshold": 6
+        },
+        "Cya": {
+          "area_m2": 95600.0,
+          "area_km2": 0.0956,
+          "num_pixels": 956,
+          "threshold": 10
+        },
+        "Turb": {
+          "area_m2": 92000.0,
+          "area_km2": 0.092,
+          "num_pixels": 920,
+          "threshold": 4
+        },
+        "CDOM": {
+          "area_m2": 95600.0,
+          "area_km2": 0.0956,
+          "num_pixels": 956,
+          "threshold": 1
+        },
+        "DOC": {
+          "area_m2": 95600.0,
+          "area_km2": 0.0956,
+          "num_pixels": 956,
+          "threshold": 5
+        },
+        "Color": {
+          "area_m2": 95600.0,
+          "area_km2": 0.0956,
+          "num_pixels": 956,
+          "threshold": 10
+        }
+      },
+      "processed_at": "2025-11-07 11:25:11"
+    },
+    {
+      "plant_name": "\u039d\u0395\u0391 \u0391\u03a1\u03a4\u0391\u039a\u0397",
+      "date_from": "2024-08-01",
+      "date_to": "2024-08-07",
+      "visualization_path": "WASTEWATER_ANALYSIS_20251107_112258\\visualizations\\\u039d\u0395\u0391 \u0391\u03a1\u03a4\u0391\u039a\u0397_2024-08-01_visualization.png",
+      "data_path": "WASTEWATER_ANALYSIS_20251107_112258\\raw_data\\\u039d\u0395\u0391 \u0391\u03a1\u03a4\u0391\u039a\u0397_2024-08-01_metrics.tiff",
+      "metrics_viz_path": "WASTEWATER_ANALYSIS_20251107_112258\\metrics\\\u039d\u0395\u0391 \u0391\u03a1\u03a4\u0391\u039a\u0397_2024-08-01_metrics.png",
+      "polluted_areas": {
+        "Chl_a": {
+          "area_m2": 72000.0,
+          "area_km2": 0.072,
+          "num_pixels": 720,
+          "threshold": 6
+        },
+        "Cya": {
+          "area_m2": 72500.0,
+          "area_km2": 0.0725,
+          "num_pixels": 725,
+          "threshold": 10
+        },
+        "Turb": {
+          "area_m2": 70300.0,
+          "area_km2": 0.0703,
+          "num_pixels": 703,
+          "threshold": 4
+        },
+        "CDOM": {
+          "area_m2": 72500.0,
+          "area_km2": 0.0725,
+          "num_pixels": 725,
+          "threshold": 1
+        },
+        "DOC": {
+          "area_m2": 72500.0,
+          "area_km2": 0.0725,
+          "num_pixels": 725,
+          "threshold": 5
+        },
+        "Color": {
+          "area_m2": 72500.0,
+          "area_km2": 0.0725,
+          "num_pixels": 725,
+          "threshold": 10
+        }
+      },
+      "processed_at": "2025-11-07 11:25:18"
+    },
+    {
+      "plant_name": "\u039d\u0395\u0391 \u0391\u03a1\u03a4\u0391\u039a\u0397",
+      "date_from": "2025-08-01",
+      "date_to": "2025-08-07",
+      "visualization_path": "WASTEWATER_ANALYSIS_20251107_112258\\visualizations\\\u039d\u0395\u0391 \u0391\u03a1\u03a4\u0391\u039a\u0397_2025-08-01_visualization.png",
+      "data_path": "WASTEWATER_ANALYSIS_20251107_112258\\raw_data\\\u039d\u0395\u0391 \u0391\u03a1\u03a4\u0391\u039a\u0397_2025-08-01_metrics.tiff",
+      "metrics_viz_path": "WASTEWATER_ANALYSIS_20251107_112258\\metrics\\\u039d\u0395\u0391 \u0391\u03a1\u03a4\u0391\u039a\u0397_2025-08-01_metrics.png",
+      "polluted_areas": {
+        "Chl_a": {
+          "area_m2": 90200.0,
+          "area_km2": 0.0902,
+          "num_pixels": 902,
+          "threshold": 6
+        },
+        "Cya": {
+          "area_m2": 92600.0,
+          "area_km2": 0.0926,
+          "num_pixels": 926,
+          "threshold": 10
+        },
+        "Turb": {
+          "area_m2": 87500.0,
+          "area_km2": 0.0875,
+          "num_pixels": 875,
+          "threshold": 4
+        },
+        "CDOM": {
+          "area_m2": 92600.0,
+          "area_km2": 0.0926,
+          "num_pixels": 926,
+          "threshold": 1
+        },
+        "DOC": {
+          "area_m2": 92600.0,
+          "area_km2": 0.0926,
+          "num_pixels": 926,
+          "threshold": 5
+        },
+        "Color": {
+          "area_m2": 92600.0,
+          "area_km2": 0.0926,
+          "num_pixels": 926,
+          "threshold": 10
+        }
+      },
+      "processed_at": "2025-11-07 11:25:25"
+    },
+    {
+      "plant_name": "\u039a\u0391\u039c\u0395\u039d\u0391 \u0392\u039f\u03a5\u03a1\u039b\u0391",
+      "date_from": "2022-08-01",
+      "date_to": "2022-08-07",
+      "visualization_path": "WASTEWATER_ANALYSIS_20251107_112258\\visualizations\\\u039a\u0391\u039c\u0395\u039d\u0391 \u0392\u039f\u03a5\u03a1\u039b\u0391_2022-08-01_visualization.png",
+      "data_path": "WASTEWATER_ANALYSIS_20251107_112258\\raw_data\\\u039a\u0391\u039c\u0395\u039d\u0391 \u0392\u039f\u03a5\u03a1\u039b\u0391_2022-08-01_metrics.tiff",
+      "metrics_viz_path": "WASTEWATER_ANALYSIS_20251107_112258\\metrics\\\u039a\u0391\u039c\u0395\u039d\u0391 \u0392\u039f\u03a5\u03a1\u039b\u0391_2022-08-01_metrics.png",
+      "polluted_areas": {
+        "Chl_a": {
+          "area_m2": 136800.0,
+          "area_km2": 0.1368,
+          "num_pixels": 1368,
+          "threshold": 6
+        },
+        "Cya": {
+          "area_m2": 163500.0,
+          "area_km2": 0.1635,
+          "num_pixels": 1635,
+          "threshold": 10
+        },
+        "Turb": {
+          "area_m2": 75200.0,
+          "area_km2": 0.0752,
+          "num_pixels": 752,
+          "threshold": 4
+        },
+        "CDOM": {
+          "area_m2": 192100.0,
+          "area_km2": 0.1921,
+          "num_pixels": 1921,
+          "threshold": 1
+        },
+        "DOC": {
+          "area_m2": 154500.0,
+          "area_km2": 0.1545,
+          "num_pixels": 1545,
+          "threshold": 5
+        },
+        "Color": {
+          "area_m2": 118000.0,
+          "area_km2": 0.118,
+          "num_pixels": 1180,
+          "threshold": 10
+        }
+      },
+      "processed_at": "2025-11-07 11:25:31"
+    },
+    {
+      "plant_name": "\u039a\u0391\u039c\u0395\u039d\u0391 \u0392\u039f\u03a5\u03a1\u039b\u0391",
+      "date_from": "2023-08-01",
+      "date_to": "2023-08-07",
+      "visualization_path": "WASTEWATER_ANALYSIS_20251107_112258\\visualizations\\\u039a\u0391\u039c\u0395\u039d\u0391 \u0392\u039f\u03a5\u03a1\u039b\u0391_2023-08-01_visualization.png",
+      "data_path": "WASTEWATER_ANALYSIS_20251107_112258\\raw_data\\\u039a\u0391\u039c\u0395\u039d\u0391 \u0392\u039f\u03a5\u03a1\u039b\u0391_2023-08-01_metrics.tiff",
+      "metrics_viz_path": "WASTEWATER_ANALYSIS_20251107_112258\\metrics\\\u039a\u0391\u039c\u0395\u039d\u0391 \u0392\u039f\u03a5\u03a1\u039b\u0391_2023-08-01_metrics.png",
+      "polluted_areas": {
+        "Chl_a": {
+          "area_m2": 1047600.0,
+          "area_km2": 1.0476,
+          "num_pixels": 10476,
+          "threshold": 6
+        },
+        "Cya": {
+          "area_m2": 2191800.0,
+          "area_km2": 2.1918,
+          "num_pixels": 21918,
+          "threshold": 10
+        },
+        "Turb": {
+          "area_m2": 663000.0,
+          "area_km2": 0.663,
+          "num_pixels": 6630,
+          "threshold": 4
+        },
+        "CDOM": {
+          "area_m2": 2191800.0,
+          "area_km2": 2.1918,
+          "num_pixels": 21918,
+          "threshold": 1
+        },
+        "DOC": {
+          "area_m2": 2191600.0,
+          "area_km2": 2.1916,
+          "num_pixels": 21916,
+          "threshold": 5
+        },
+        "Color": {
+          "area_m2": 1967500.0,
+          "area_km2": 1.9675,
+          "num_pixels": 19675,
+          "threshold": 10
+        }
+      },
+      "processed_at": "2025-11-07 11:25:37"
+    },
+    {
+      "plant_name": "\u039a\u0391\u039c\u0395\u039d\u0391 \u0392\u039f\u03a5\u03a1\u039b\u0391",
+      "date_from": "2024-08-01",
+      "date_to": "2024-08-07",
+      "visualization_path": "WASTEWATER_ANALYSIS_20251107_112258\\visualizations\\\u039a\u0391\u039c\u0395\u039d\u0391 \u0392\u039f\u03a5\u03a1\u039b\u0391_2024-08-01_visualization.png",
+      "data_path": "WASTEWATER_ANALYSIS_20251107_112258\\raw_data\\\u039a\u0391\u039c\u0395\u039d\u0391 \u0392\u039f\u03a5\u03a1\u039b\u0391_2024-08-01_metrics.tiff",
+      "metrics_viz_path": "WASTEWATER_ANALYSIS_20251107_112258\\metrics\\\u039a\u0391\u039c\u0395\u039d\u0391 \u0392\u039f\u03a5\u03a1\u039b\u0391_2024-08-01_metrics.png",
+      "polluted_areas": {
+        "Chl_a": {
+          "area_m2": 989300.0,
+          "area_km2": 0.9893,
+          "num_pixels": 9893,
+          "threshold": 6
+        },
+        "Cya": {
+          "area_m2": 2161700.0,
+          "area_km2": 2.1617,
+          "num_pixels": 21617,
+          "threshold": 10
+        },
+        "Turb": {
+          "area_m2": 696200.0,
+          "area_km2": 0.6962,
+          "num_pixels": 6962,
+          "threshold": 4
+        },
+        "CDOM": {
+          "area_m2": 1911500.0,
+          "area_km2": 1.9115,
+          "num_pixels": 19115,
+          "threshold": 1
+        },
+        "DOC": {
+          "area_m2": 1710400.0,
+          "area_km2": 1.7104,
+          "num_pixels": 17104,
+          "threshold": 5
+        },
+        "Color": {
+          "area_m2": 1444700.0,
+          "area_km2": 1.4447,
+          "num_pixels": 14447,
+          "threshold": 10
+        }
+      },
+      "processed_at": "2025-11-07 11:25:43"
+    },
+    {
+      "plant_name": "\u039a\u0391\u039c\u0395\u039d\u0391 \u0392\u039f\u03a5\u03a1\u039b\u0391",
+      "date_from": "2025-08-01",
+      "date_to": "2025-08-07",
+      "visualization_path": "WASTEWATER_ANALYSIS_20251107_112258\\visualizations\\\u039a\u0391\u039c\u0395\u039d\u0391 \u0392\u039f\u03a5\u03a1\u039b\u0391_2025-08-01_visualization.png",
+      "data_path": "WASTEWATER_ANALYSIS_20251107_112258\\raw_data\\\u039a\u0391\u039c\u0395\u039d\u0391 \u0392\u039f\u03a5\u03a1\u039b\u0391_2025-08-01_metrics.tiff",
+      "metrics_viz_path": "WASTEWATER_ANALYSIS_20251107_112258\\metrics\\\u039a\u0391\u039c\u0395\u039d\u0391 \u0392\u039f\u03a5\u03a1\u039b\u0391_2025-08-01_metrics.png",
+      "polluted_areas": {
+        "Chl_a": {
+          "area_m2": 857000.0,
+          "area_km2": 0.857,
+          "num_pixels": 8570,
+          "threshold": 6
+        },
+        "Cya": {
+          "area_m2": 498900.0,
+          "area_km2": 0.4989,
+          "num_pixels": 4989,
+          "threshold": 10
+        },
+        "Turb": {
+          "area_m2": 605000.0,
+          "area_km2": 0.605,
+          "num_pixels": 6050,
+          "threshold": 4
+        },
+        "CDOM": {
+          "area_m2": 274000.0,
+          "area_km2": 0.274,
+          "num_pixels": 2740,
+          "threshold": 1
+        },
+        "DOC": {
+          "area_m2": 201700.0,
+          "area_km2": 0.2017,
+          "num_pixels": 2017,
+          "threshold": 5
+        },
+        "Color": {
+          "area_m2": 149800.0,
+          "area_km2": 0.1498,
+          "num_pixels": 1498,
+          "threshold": 10
+        }
+      },
+      "processed_at": "2025-11-07 11:25:50"
+    },
+    {
+      "plant_name": "\u0391\u0399\u0394\u0397\u03a8\u039f\u03a3",
+      "date_from": "2022-08-01",
+      "date_to": "2022-08-07",
+      "visualization_path": "WASTEWATER_ANALYSIS_20251107_112258\\visualizations\\\u0391\u0399\u0394\u0397\u03a8\u039f\u03a3_2022-08-01_visualization.png",
+      "data_path": "WASTEWATER_ANALYSIS_20251107_112258\\raw_data\\\u0391\u0399\u0394\u0397\u03a8\u039f\u03a3_2022-08-01_metrics.tiff",
+      "metrics_viz_path": "WASTEWATER_ANALYSIS_20251107_112258\\metrics\\\u0391\u0399\u0394\u0397\u03a8\u039f\u03a3_2022-08-01_metrics.png",
+      "polluted_areas": {
+        "Chl_a": {
+          "area_m2": 112300.0,
+          "area_km2": 0.1123,
+          "num_pixels": 1123,
+          "threshold": 6
+        },
+        "Cya": {
+          "area_m2": 152100.0,
+          "area_km2": 0.1521,
+          "num_pixels": 1521,
+          "threshold": 10
+        },
+        "Turb": {
+          "area_m2": 103300.0,
+          "area_km2": 0.1033,
+          "num_pixels": 1033,
+          "threshold": 4
+        },
+        "CDOM": {
+          "area_m2": 8035700.0,
+          "area_km2": 8.0357,
+          "num_pixels": 80357,
+          "threshold": 1
+        },
+        "DOC": {
+          "area_m2": 6990600.0,
+          "area_km2": 6.9906,
+          "num_pixels": 69906,
+          "threshold": 5
+        },
+        "Color": {
+          "area_m2": 4754500.0,
+          "area_km2": 4.7545,
+          "num_pixels": 47545,
+          "threshold": 10
+        }
+      },
+      "processed_at": "2025-11-07 11:25:57"
+    },
+    {
+      "plant_name": "\u0391\u0399\u0394\u0397\u03a8\u039f\u03a3",
+      "date_from": "2023-08-01",
+      "date_to": "2023-08-07",
+      "visualization_path": "WASTEWATER_ANALYSIS_20251107_112258\\visualizations\\\u0391\u0399\u0394\u0397\u03a8\u039f\u03a3_2023-08-01_visualization.png",
+      "data_path": "WASTEWATER_ANALYSIS_20251107_112258\\raw_data\\\u0391\u0399\u0394\u0397\u03a8\u039f\u03a3_2023-08-01_metrics.tiff",
+      "metrics_viz_path": "WASTEWATER_ANALYSIS_20251107_112258\\metrics\\\u0391\u0399\u0394\u0397\u03a8\u039f\u03a3_2023-08-01_metrics.png",
+      "polluted_areas": {
+        "Chl_a": {
+          "area_m2": 84100.0,
+          "area_km2": 0.0841,
+          "num_pixels": 841,
+          "threshold": 6
+        },
+        "Cya": {
+          "area_m2": 88300.0,
+          "area_km2": 0.0883,
+          "num_pixels": 883,
+          "threshold": 10
+        },
+        "Turb": {
+          "area_m2": 77400.0,
+          "area_km2": 0.0774,
+          "num_pixels": 774,
+          "threshold": 4
+        },
+        "CDOM": {
+          "area_m2": 72900.0,
+          "area_km2": 0.0729,
+          "num_pixels": 729,
+          "threshold": 1
+        },
+        "DOC": {
+          "area_m2": 67200.0,
+          "area_km2": 0.0672,
+          "num_pixels": 672,
+          "threshold": 5
+        },
+        "Color": {
+          "area_m2": 55800.0,
+          "area_km2": 0.0558,
+          "num_pixels": 558,
+          "threshold": 10
+        }
+      },
+      "processed_at": "2025-11-07 11:26:03"
+    },
+    {
+      "plant_name": "\u0391\u0399\u0394\u0397\u03a8\u039f\u03a3",
+      "date_from": "2024-08-01",
+      "date_to": "2024-08-07",
+      "visualization_path": "WASTEWATER_ANALYSIS_20251107_112258\\visualizations\\\u0391\u0399\u0394\u0397\u03a8\u039f\u03a3_2024-08-01_visualization.png",
+      "data_path": "WASTEWATER_ANALYSIS_20251107_112258\\raw_data\\\u0391\u0399\u0394\u0397\u03a8\u039f\u03a3_2024-08-01_metrics.tiff",
+      "metrics_viz_path": "WASTEWATER_ANALYSIS_20251107_112258\\metrics\\\u0391\u0399\u0394\u0397\u03a8\u039f\u03a3_2024-08-01_metrics.png",
+      "polluted_areas": {
+        "Chl_a": {
+          "area_m2": 112300.0,
+          "area_km2": 0.1123,
+          "num_pixels": 1123,
+          "threshold": 6
+        },
+        "Cya": {
+          "area_m2": 87200.0,
+          "area_km2": 0.0872,
+          "num_pixels": 872,
+          "threshold": 10
+        },
+        "Turb": {
+          "area_m2": 106500.0,
+          "area_km2": 0.1065,
+          "num_pixels": 1065,
+          "threshold": 4
+        },
+        "CDOM": {
+          "area_m2": 117100.0,
+          "area_km2": 0.1171,
+          "num_pixels": 1171,
+          "threshold": 1
+        },
+        "DOC": {
+          "area_m2": 85200.0,
+          "area_km2": 0.0852,
+          "num_pixels": 852,
+          "threshold": 5
+        },
+        "Color": {
+          "area_m2": 61200.0,
+          "area_km2": 0.0612,
+          "num_pixels": 612,
+          "threshold": 10
+        }
+      },
+      "processed_at": "2025-11-07 11:26:17"
+    },
+    {
+      "plant_name": "\u0391\u0399\u0394\u0397\u03a8\u039f\u03a3",
+      "date_from": "2025-08-01",
+      "date_to": "2025-08-07",
+      "visualization_path": "WASTEWATER_ANALYSIS_20251107_112258\\visualizations\\\u0391\u0399\u0394\u0397\u03a8\u039f\u03a3_2025-08-01_visualization.png",
+      "data_path": "WASTEWATER_ANALYSIS_20251107_112258\\raw_data\\\u0391\u0399\u0394\u0397\u03a8\u039f\u03a3_2025-08-01_metrics.tiff",
+      "metrics_viz_path": "WASTEWATER_ANALYSIS_20251107_112258\\metrics\\\u0391\u0399\u0394\u0397\u03a8\u039f\u03a3_2025-08-01_metrics.png",
+      "polluted_areas": {
+        "Chl_a": {
+          "area_m2": 331800.0,
+          "area_km2": 0.3318,
+          "num_pixels": 3318,
+          "threshold": 6
+        },
+        "Cya": {
+          "area_m2": 313000.0,
+          "area_km2": 0.313,
+          "num_pixels": 3130,
+          "threshold": 10
+        },
+        "Turb": {
+          "area_m2": 252100.0,
+          "area_km2": 0.2521,
+          "num_pixels": 2521,
+          "threshold": 4
+        },
+        "CDOM": {
+          "area_m2": 7142900.0,
+          "area_km2": 7.1429,
+          "num_pixels": 71429,
+          "threshold": 1
+        },
+        "DOC": {
+          "area_m2": 6238000.0,
+          "area_km2": 6.238,
+          "num_pixels": 62380,
+          "threshold": 5
+        },
+        "Color": {
+          "area_m2": 4168700.0,
+          "area_km2": 4.1687,
+          "num_pixels": 41687,
+          "threshold": 10
+        }
+      },
+      "processed_at": "2025-11-07 11:26:26"
+    },
+    {
+      "plant_name": "\u0391\u0393\u0399\u0391",
+      "date_from": "2022-08-01",
+      "date_to": "2022-08-07",
+      "visualization_path": "WASTEWATER_ANALYSIS_20251107_112258\\visualizations\\\u0391\u0393\u0399\u0391_2022-08-01_visualization.png",
+      "data_path": "WASTEWATER_ANALYSIS_20251107_112258\\raw_data\\\u0391\u0393\u0399\u0391_2022-08-01_metrics.tiff",
+      "metrics_viz_path": "WASTEWATER_ANALYSIS_20251107_112258\\metrics\\\u0391\u0393\u0399\u0391_2022-08-01_metrics.png",
+      "polluted_areas": {
+        "Chl_a": {
+          "area_m2": 36800.0,
+          "area_km2": 0.0368,
+          "num_pixels": 368,
+          "threshold": 6
+        },
+        "Cya": {
+          "area_m2": 38000.0,
+          "area_km2": 0.038,
+          "num_pixels": 380,
+          "threshold": 10
+        },
+        "Turb": {
+          "area_m2": 35600.0,
+          "area_km2": 0.0356,
+          "num_pixels": 356,
+          "threshold": 4
+        },
+        "CDOM": {
+          "area_m2": 38000.0,
+          "area_km2": 0.038,
+          "num_pixels": 380,
+          "threshold": 1
+        },
+        "DOC": {
+          "area_m2": 37800.0,
+          "area_km2": 0.0378,
+          "num_pixels": 378,
+          "threshold": 5
+        },
+        "Color": {
+          "area_m2": 37800.0,
+          "area_km2": 0.0378,
+          "num_pixels": 378,
+          "threshold": 10
+        }
+      },
+      "processed_at": "2025-11-07 11:26:32"
+    },
+    {
+      "plant_name": "\u0391\u0393\u0399\u0391",
+      "date_from": "2023-08-01",
+      "date_to": "2023-08-07",
+      "visualization_path": "WASTEWATER_ANALYSIS_20251107_112258\\visualizations\\\u0391\u0393\u0399\u0391_2023-08-01_visualization.png",
+      "data_path": "WASTEWATER_ANALYSIS_20251107_112258\\raw_data\\\u0391\u0393\u0399\u0391_2023-08-01_metrics.tiff",
+      "metrics_viz_path": "WASTEWATER_ANALYSIS_20251107_112258\\metrics\\\u0391\u0393\u0399\u0391_2023-08-01_metrics.png",
+      "polluted_areas": {
+        "Chl_a": {
+          "area_m2": 33800.0,
+          "area_km2": 0.0338,
+          "num_pixels": 338,
+          "threshold": 6
+        },
+        "Cya": {
+          "area_m2": 37500.0,
+          "area_km2": 0.0375,
+          "num_pixels": 375,
+          "threshold": 10
+        },
+        "Turb": {
+          "area_m2": 33200.0,
+          "area_km2": 0.0332,
+          "num_pixels": 332,
+          "threshold": 4
+        },
+        "CDOM": {
+          "area_m2": 37500.0,
+          "area_km2": 0.0375,
+          "num_pixels": 375,
+          "threshold": 1
+        },
+        "DOC": {
+          "area_m2": 37500.0,
+          "area_km2": 0.0375,
+          "num_pixels": 375,
+          "threshold": 5
+        },
+        "Color": {
+          "area_m2": 37500.0,
+          "area_km2": 0.0375,
+          "num_pixels": 375,
+          "threshold": 10
+        }
+      },
+      "processed_at": "2025-11-07 11:26:38"
+    },
+    {
+      "plant_name": "\u0391\u0393\u0399\u0391",
+      "date_from": "2024-08-01",
+      "date_to": "2024-08-07",
+      "visualization_path": "WASTEWATER_ANALYSIS_20251107_112258\\visualizations\\\u0391\u0393\u0399\u0391_2024-08-01_visualization.png",
+      "data_path": "WASTEWATER_ANALYSIS_20251107_112258\\raw_data\\\u0391\u0393\u0399\u0391_2024-08-01_metrics.tiff",
+      "metrics_viz_path": "WASTEWATER_ANALYSIS_20251107_112258\\metrics\\\u0391\u0393\u0399\u0391_2024-08-01_metrics.png",
+      "polluted_areas": {
+        "Chl_a": {
+          "area_m2": 15200.0,
+          "area_km2": 0.0152,
+          "num_pixels": 152,
+          "threshold": 6
+        },
+        "Cya": {
+          "area_m2": 15200.0,
+          "area_km2": 0.0152,
+          "num_pixels": 152,
+          "threshold": 10
+        },
+        "Turb": {
+          "area_m2": 15200.0,
+          "area_km2": 0.0152,
+          "num_pixels": 152,
+          "threshold": 4
+        },
+        "CDOM": {
+          "area_m2": 15200.0,
+          "area_km2": 0.0152,
+          "num_pixels": 152,
+          "threshold": 1
+        },
+        "DOC": {
+          "area_m2": 15200.0,
+          "area_km2": 0.0152,
+          "num_pixels": 152,
+          "threshold": 5
+        },
+        "Color": {
+          "area_m2": 15200.0,
+          "area_km2": 0.0152,
+          "num_pixels": 152,
+          "threshold": 10
+        }
+      },
+      "processed_at": "2025-11-07 11:26:44"
+    },
+    {
+      "plant_name": "\u0391\u0393\u0399\u0391",
+      "date_from": "2025-08-01",
+      "date_to": "2025-08-07",
+      "visualization_path": "WASTEWATER_ANALYSIS_20251107_112258\\visualizations\\\u0391\u0393\u0399\u0391_2025-08-01_visualization.png",
+      "data_path": "WASTEWATER_ANALYSIS_20251107_112258\\raw_data\\\u0391\u0393\u0399\u0391_2025-08-01_metrics.tiff",
+      "metrics_viz_path": "WASTEWATER_ANALYSIS_20251107_112258\\metrics\\\u0391\u0393\u0399\u0391_2025-08-01_metrics.png",
+      "polluted_areas": {
+        "Chl_a": {
+          "area_m2": 37900.0,
+          "area_km2": 0.0379,
+          "num_pixels": 379,
+          "threshold": 6
+        },
+        "Cya": {
+          "area_m2": 41800.0,
+          "area_km2": 0.0418,
+          "num_pixels": 418,
+          "threshold": 10
+        },
+        "Turb": {
+          "area_m2": 36900.0,
+          "area_km2": 0.0369,
+          "num_pixels": 369,
+          "threshold": 4
+        },
+        "CDOM": {
+          "area_m2": 41800.0,
+          "area_km2": 0.0418,
+          "num_pixels": 418,
+          "threshold": 1
+        },
+        "DOC": {
+          "area_m2": 41800.0,
+          "area_km2": 0.0418,
+          "num_pixels": 418,
+          "threshold": 5
+        },
+        "Color": {
+          "area_m2": 41800.0,
+          "area_km2": 0.0418,
+          "num_pixels": 418,
+          "threshold": 10
+        }
+      },
+      "processed_at": "2025-11-07 11:26:51"
+    },
+    {
+      "plant_name": "\u03a7\u03a9\u03a1\u0399\u03a3\u03a4\u0397",
+      "date_from": "2022-08-01",
+      "date_to": "2022-08-07",
+      "visualization_path": "WASTEWATER_ANALYSIS_20251107_112258\\visualizations\\\u03a7\u03a9\u03a1\u0399\u03a3\u03a4\u0397_2022-08-01_visualization.png",
+      "data_path": "WASTEWATER_ANALYSIS_20251107_112258\\raw_data\\\u03a7\u03a9\u03a1\u0399\u03a3\u03a4\u0397_2022-08-01_metrics.tiff",
+      "metrics_viz_path": "WASTEWATER_ANALYSIS_20251107_112258\\metrics\\\u03a7\u03a9\u03a1\u0399\u03a3\u03a4\u0397_2022-08-01_metrics.png",
+      "polluted_areas": {
+        "Chl_a": {
+          "area_m2": 38000.0,
+          "area_km2": 0.038,
+          "num_pixels": 380,
+          "threshold": 6
+        },
+        "Cya": {
+          "area_m2": 38400.0,
+          "area_km2": 0.0384,
+          "num_pixels": 384,
+          "threshold": 10
+        },
+        "Turb": {
+          "area_m2": 37600.0,
+          "area_km2": 0.0376,
+          "num_pixels": 376,
+          "threshold": 4
+        },
+        "CDOM": {
+          "area_m2": 38400.0,
+          "area_km2": 0.0384,
+          "num_pixels": 384,
+          "threshold": 1
+        },
+        "DOC": {
+          "area_m2": 38400.0,
+          "area_km2": 0.0384,
+          "num_pixels": 384,
+          "threshold": 5
+        },
+        "Color": {
+          "area_m2": 38400.0,
+          "area_km2": 0.0384,
+          "num_pixels": 384,
+          "threshold": 10
+        }
+      },
+      "processed_at": "2025-11-07 11:26:57"
+    },
+    {
+      "plant_name": "\u03a7\u03a9\u03a1\u0399\u03a3\u03a4\u0397",
+      "date_from": "2023-08-01",
+      "date_to": "2023-08-07",
+      "visualization_path": "WASTEWATER_ANALYSIS_20251107_112258\\visualizations\\\u03a7\u03a9\u03a1\u0399\u03a3\u03a4\u0397_2023-08-01_visualization.png",
+      "data_path": "WASTEWATER_ANALYSIS_20251107_112258\\raw_data\\\u03a7\u03a9\u03a1\u0399\u03a3\u03a4\u0397_2023-08-01_metrics.tiff",
+      "metrics_viz_path": "WASTEWATER_ANALYSIS_20251107_112258\\metrics\\\u03a7\u03a9\u03a1\u0399\u03a3\u03a4\u0397_2023-08-01_metrics.png",
+      "polluted_areas": {
+        "Chl_a": {
+          "area_m2": 41000.0,
+          "area_km2": 0.041,
+          "num_pixels": 410,
+          "threshold": 6
+        },
+        "Cya": {
+          "area_m2": 41900.0,
+          "area_km2": 0.0419,
+          "num_pixels": 419,
+          "threshold": 10
+        },
+        "Turb": {
+          "area_m2": 40400.0,
+          "area_km2": 0.0404,
+          "num_pixels": 404,
+          "threshold": 4
+        },
+        "CDOM": {
+          "area_m2": 41900.0,
+          "area_km2": 0.0419,
+          "num_pixels": 419,
+          "threshold": 1
+        },
+        "DOC": {
+          "area_m2": 41900.0,
+          "area_km2": 0.0419,
+          "num_pixels": 419,
+          "threshold": 5
+        },
+        "Color": {
+          "area_m2": 41900.0,
+          "area_km2": 0.0419,
+          "num_pixels": 419,
+          "threshold": 10
+        }
+      },
+      "processed_at": "2025-11-07 11:27:04"
+    },
+    {
+      "plant_name": "\u03a7\u03a9\u03a1\u0399\u03a3\u03a4\u0397",
+      "date_from": "2024-08-01",
+      "date_to": "2024-08-07",
+      "visualization_path": "WASTEWATER_ANALYSIS_20251107_112258\\visualizations\\\u03a7\u03a9\u03a1\u0399\u03a3\u03a4\u0397_2024-08-01_visualization.png",
+      "data_path": "WASTEWATER_ANALYSIS_20251107_112258\\raw_data\\\u03a7\u03a9\u03a1\u0399\u03a3\u03a4\u0397_2024-08-01_metrics.tiff",
+      "metrics_viz_path": "WASTEWATER_ANALYSIS_20251107_112258\\metrics\\\u03a7\u03a9\u03a1\u0399\u03a3\u03a4\u0397_2024-08-01_metrics.png",
+      "polluted_areas": {
+        "Chl_a": {
+          "area_m2": 25500.0,
+          "area_km2": 0.0255,
+          "num_pixels": 255,
+          "threshold": 6
+        },
+        "Cya": {
+          "area_m2": 27400.0,
+          "area_km2": 0.0274,
+          "num_pixels": 274,
+          "threshold": 10
+        },
+        "Turb": {
+          "area_m2": 25200.0,
+          "area_km2": 0.0252,
+          "num_pixels": 252,
+          "threshold": 4
+        },
+        "CDOM": {
+          "area_m2": 27400.0,
+          "area_km2": 0.0274,
+          "num_pixels": 274,
+          "threshold": 1
+        },
+        "DOC": {
+          "area_m2": 27400.0,
+          "area_km2": 0.0274,
+          "num_pixels": 274,
+          "threshold": 5
+        },
+        "Color": {
+          "area_m2": 27400.0,
+          "area_km2": 0.0274,
+          "num_pixels": 274,
+          "threshold": 10
+        }
+      },
+      "processed_at": "2025-11-07 11:27:10"
+    },
+    {
+      "plant_name": "\u03a7\u03a9\u03a1\u0399\u03a3\u03a4\u0397",
+      "date_from": "2025-08-01",
+      "date_to": "2025-08-07",
+      "visualization_path": "WASTEWATER_ANALYSIS_20251107_112258\\visualizations\\\u03a7\u03a9\u03a1\u0399\u03a3\u03a4\u0397_2025-08-01_visualization.png",
+      "data_path": "WASTEWATER_ANALYSIS_20251107_112258\\raw_data\\\u03a7\u03a9\u03a1\u0399\u03a3\u03a4\u0397_2025-08-01_metrics.tiff",
+      "metrics_viz_path": "WASTEWATER_ANALYSIS_20251107_112258\\metrics\\\u03a7\u03a9\u03a1\u0399\u03a3\u03a4\u0397_2025-08-01_metrics.png",
+      "polluted_areas": {
+        "Chl_a": {
+          "area_m2": 50500.0,
+          "area_km2": 0.0505,
+          "num_pixels": 505,
+          "threshold": 6
+        },
+        "Cya": {
+          "area_m2": 51300.0,
+          "area_km2": 0.0513,
+          "num_pixels": 513,
+          "threshold": 10
+        },
+        "Turb": {
+          "area_m2": 49900.0,
+          "area_km2": 0.0499,
+          "num_pixels": 499,
+          "threshold": 4
+        },
+        "CDOM": {
+          "area_m2": 51300.0,
+          "area_km2": 0.0513,
+          "num_pixels": 513,
+          "threshold": 1
+        },
+        "DOC": {
+          "area_m2": 51300.0,
+          "area_km2": 0.0513,
+          "num_pixels": 513,
+          "threshold": 5
+        },
+        "Color": {
+          "area_m2": 51300.0,
+          "area_km2": 0.0513,
+          "num_pixels": 513,
+          "threshold": 10
+        }
+      },
+      "processed_at": "2025-11-07 11:27:17"
+    },
+    {
+      "plant_name": "\u0396\u0391\u03a7\u0391\u03a1\u03a9",
+      "date_from": "2022-08-01",
+      "date_to": "2022-08-07",
+      "visualization_path": "WASTEWATER_ANALYSIS_20251107_112258\\visualizations\\\u0396\u0391\u03a7\u0391\u03a1\u03a9_2022-08-01_visualization.png",
+      "data_path": "WASTEWATER_ANALYSIS_20251107_112258\\raw_data\\\u0396\u0391\u03a7\u0391\u03a1\u03a9_2022-08-01_metrics.tiff",
+      "metrics_viz_path": "WASTEWATER_ANALYSIS_20251107_112258\\metrics\\\u0396\u0391\u03a7\u0391\u03a1\u03a9_2022-08-01_metrics.png",
+      "polluted_areas": {
+        "Chl_a": {
+          "area_m2": 1021200.0,
+          "area_km2": 1.0212,
+          "num_pixels": 10212,
+          "threshold": 6
+        },
+        "Cya": {
+          "area_m2": 1367900.0,
+          "area_km2": 1.3679,
+          "num_pixels": 13679,
+          "threshold": 10
+        },
+        "Turb": {
+          "area_m2": 707400.0,
+          "area_km2": 0.7074,
+          "num_pixels": 7074,
+          "threshold": 4
+        },
+        "CDOM": {
+          "area_m2": 1792600.0,
+          "area_km2": 1.7926,
+          "num_pixels": 17926,
+          "threshold": 1
+        },
+        "DOC": {
+          "area_m2": 1532600.0,
+          "area_km2": 1.5326,
+          "num_pixels": 15326,
+          "threshold": 5
+        },
+        "Color": {
+          "area_m2": 1052900.0,
+          "area_km2": 1.0529,
+          "num_pixels": 10529,
+          "threshold": 10
+        }
+      },
+      "processed_at": "2025-11-07 11:27:23"
+    },
+    {
+      "plant_name": "\u0396\u0391\u03a7\u0391\u03a1\u03a9",
+      "date_from": "2023-08-01",
+      "date_to": "2023-08-07",
+      "visualization_path": "WASTEWATER_ANALYSIS_20251107_112258\\visualizations\\\u0396\u0391\u03a7\u0391\u03a1\u03a9_2023-08-01_visualization.png",
+      "data_path": "WASTEWATER_ANALYSIS_20251107_112258\\raw_data\\\u0396\u0391\u03a7\u0391\u03a1\u03a9_2023-08-01_metrics.tiff",
+      "metrics_viz_path": "WASTEWATER_ANALYSIS_20251107_112258\\metrics\\\u0396\u0391\u03a7\u0391\u03a1\u03a9_2023-08-01_metrics.png",
+      "polluted_areas": {
+        "Chl_a": {
+          "area_m2": 971100.0,
+          "area_km2": 0.9711,
+          "num_pixels": 9711,
+          "threshold": 6
+        },
+        "Cya": {
+          "area_m2": 418200.0,
+          "area_km2": 0.4182,
+          "num_pixels": 4182,
+          "threshold": 10
+        },
+        "Turb": {
+          "area_m2": 708400.0,
+          "area_km2": 0.7084,
+          "num_pixels": 7084,
+          "threshold": 4
+        },
+        "CDOM": {
+          "area_m2": 365400.0,
+          "area_km2": 0.3654,
+          "num_pixels": 3654,
+          "threshold": 1
+        },
+        "DOC": {
+          "area_m2": 308900.0,
+          "area_km2": 0.3089,
+          "num_pixels": 3089,
+          "threshold": 5
+        },
+        "Color": {
+          "area_m2": 249600.0,
+          "area_km2": 0.2496,
+          "num_pixels": 2496,
+          "threshold": 10
+        }
+      },
+      "processed_at": "2025-11-07 11:27:33"
+    },
+    {
+      "plant_name": "\u0396\u0391\u03a7\u0391\u03a1\u03a9",
+      "date_from": "2024-08-01",
+      "date_to": "2024-08-07",
+      "visualization_path": "WASTEWATER_ANALYSIS_20251107_112258\\visualizations\\\u0396\u0391\u03a7\u0391\u03a1\u03a9_2024-08-01_visualization.png",
+      "data_path": "WASTEWATER_ANALYSIS_20251107_112258\\raw_data\\\u0396\u0391\u03a7\u0391\u03a1\u03a9_2024-08-01_metrics.tiff",
+      "metrics_viz_path": "WASTEWATER_ANALYSIS_20251107_112258\\metrics\\\u0396\u0391\u03a7\u0391\u03a1\u03a9_2024-08-01_metrics.png",
+      "polluted_areas": {
+        "Chl_a": {
+          "area_m2": 1564100.0,
+          "area_km2": 1.5641,
+          "num_pixels": 15641,
+          "threshold": 6
+        },
+        "Cya": {
+          "area_m2": 3051400.0,
+          "area_km2": 3.0514,
+          "num_pixels": 30514,
+          "threshold": 10
+        },
+        "Turb": {
+          "area_m2": 1221600.0,
+          "area_km2": 1.2216,
+          "num_pixels": 12216,
+          "threshold": 4
+        },
+        "CDOM": {
+          "area_m2": 2407000.0,
+          "area_km2": 2.407,
+          "num_pixels": 24070,
+          "threshold": 1
+        },
+        "DOC": {
+          "area_m2": 2080000.0,
+          "area_km2": 2.08,
+          "num_pixels": 20800,
+          "threshold": 5
+        },
+        "Color": {
+          "area_m2": 1581100.0,
+          "area_km2": 1.5811,
+          "num_pixels": 15811,
+          "threshold": 10
+        }
+      },
+      "processed_at": "2025-11-07 11:27:40"
+    },
+    {
+      "plant_name": "\u0396\u0391\u03a7\u0391\u03a1\u03a9",
+      "date_from": "2025-08-01",
+      "date_to": "2025-08-07",
+      "visualization_path": "WASTEWATER_ANALYSIS_20251107_112258\\visualizations\\\u0396\u0391\u03a7\u0391\u03a1\u03a9_2025-08-01_visualization.png",
+      "data_path": "WASTEWATER_ANALYSIS_20251107_112258\\raw_data\\\u0396\u0391\u03a7\u0391\u03a1\u03a9_2025-08-01_metrics.tiff",
+      "metrics_viz_path": "WASTEWATER_ANALYSIS_20251107_112258\\metrics\\\u0396\u0391\u03a7\u0391\u03a1\u03a9_2025-08-01_metrics.png",
+      "polluted_areas": {
+        "Chl_a": {
+          "area_m2": 1118800.0,
+          "area_km2": 1.1188,
+          "num_pixels": 11188,
+          "threshold": 6
+        },
+        "Cya": {
+          "area_m2": 3022600.0,
+          "area_km2": 3.0226,
+          "num_pixels": 30226,
+          "threshold": 10
+        },
+        "Turb": {
+          "area_m2": 788300.0,
+          "area_km2": 0.7883,
+          "num_pixels": 7883,
+          "threshold": 4
+        },
+        "CDOM": {
+          "area_m2": 1956600.0,
+          "area_km2": 1.9566,
+          "num_pixels": 19566,
+          "threshold": 1
+        },
+        "DOC": {
+          "area_m2": 1735000.0,
+          "area_km2": 1.735,
+          "num_pixels": 17350,
+          "threshold": 5
+        },
+        "Color": {
+          "area_m2": 1371900.0,
+          "area_km2": 1.3719,
+          "num_pixels": 13719,
+          "threshold": 10
+        }
+      },
+      "processed_at": "2025-11-07 11:27:45"
+    },
+    {
+      "plant_name": "\u039c\u0395\u0398\u03a9\u039d\u0397",
+      "date_from": "2022-08-01",
+      "date_to": "2022-08-07",
+      "visualization_path": "WASTEWATER_ANALYSIS_20251107_112258\\visualizations\\\u039c\u0395\u0398\u03a9\u039d\u0397_2022-08-01_visualization.png",
+      "data_path": "WASTEWATER_ANALYSIS_20251107_112258\\raw_data\\\u039c\u0395\u0398\u03a9\u039d\u0397_2022-08-01_metrics.tiff",
+      "metrics_viz_path": "WASTEWATER_ANALYSIS_20251107_112258\\metrics\\\u039c\u0395\u0398\u03a9\u039d\u0397_2022-08-01_metrics.png",
+      "polluted_areas": {
+        "Chl_a": {
+          "area_m2": 325900.0,
+          "area_km2": 0.3259,
+          "num_pixels": 3259,
+          "threshold": 6
+        },
+        "Cya": {
+          "area_m2": 10262400.0,
+          "area_km2": 10.2624,
+          "num_pixels": 102624,
+          "threshold": 10
+        },
+        "Turb": {
+          "area_m2": 246200.0,
+          "area_km2": 0.2462,
+          "num_pixels": 2462,
+          "threshold": 4
+        },
+        "CDOM": {
+          "area_m2": 10261000.0,
+          "area_km2": 10.261,
+          "num_pixels": 102610,
+          "threshold": 1
+        },
+        "DOC": {
+          "area_m2": 10257100.0,
+          "area_km2": 10.2571,
+          "num_pixels": 102571,
+          "threshold": 5
+        },
+        "Color": {
+          "area_m2": 10212700.0,
+          "area_km2": 10.2127,
+          "num_pixels": 102127,
+          "threshold": 10
+        }
+      },
+      "processed_at": "2025-11-07 11:27:53"
+    },
+    {
+      "plant_name": "\u039c\u0395\u0398\u03a9\u039d\u0397",
+      "date_from": "2023-08-01",
+      "date_to": "2023-08-07",
+      "visualization_path": "WASTEWATER_ANALYSIS_20251107_112258\\visualizations\\\u039c\u0395\u0398\u03a9\u039d\u0397_2023-08-01_visualization.png",
+      "data_path": "WASTEWATER_ANALYSIS_20251107_112258\\raw_data\\\u039c\u0395\u0398\u03a9\u039d\u0397_2023-08-01_metrics.tiff",
+      "metrics_viz_path": "WASTEWATER_ANALYSIS_20251107_112258\\metrics\\\u039c\u0395\u0398\u03a9\u039d\u0397_2023-08-01_metrics.png",
+      "polluted_areas": {
+        "Chl_a": {
+          "area_m2": 526500.0,
+          "area_km2": 0.5265,
+          "num_pixels": 5265,
+          "threshold": 6
+        },
+        "Cya": {
+          "area_m2": 6744700.0,
+          "area_km2": 6.7447,
+          "num_pixels": 67447,
+          "threshold": 10
+        },
+        "Turb": {
+          "area_m2": 413200.0,
+          "area_km2": 0.4132,
+          "num_pixels": 4132,
+          "threshold": 4
+        },
+        "CDOM": {
+          "area_m2": 9056600.0,
+          "area_km2": 9.0566,
+          "num_pixels": 90566,
+          "threshold": 1
+        },
+        "DOC": {
+          "area_m2": 8997100.0,
+          "area_km2": 8.9971,
+          "num_pixels": 89971,
+          "threshold": 5
+        },
+        "Color": {
+          "area_m2": 8765200.0,
+          "area_km2": 8.7652,
+          "num_pixels": 87652,
+          "threshold": 10
+        }
+      },
+      "processed_at": "2025-11-07 11:28:00"
+    },
+    {
+      "plant_name": "\u039c\u0395\u0398\u03a9\u039d\u0397",
+      "date_from": "2024-08-01",
+      "date_to": "2024-08-07",
+      "visualization_path": "WASTEWATER_ANALYSIS_20251107_112258\\visualizations\\\u039c\u0395\u0398\u03a9\u039d\u0397_2024-08-01_visualization.png",
+      "data_path": "WASTEWATER_ANALYSIS_20251107_112258\\raw_data\\\u039c\u0395\u0398\u03a9\u039d\u0397_2024-08-01_metrics.tiff",
+      "metrics_viz_path": "WASTEWATER_ANALYSIS_20251107_112258\\metrics\\\u039c\u0395\u0398\u03a9\u039d\u0397_2024-08-01_metrics.png",
+      "polluted_areas": {
+        "Chl_a": {
+          "area_m2": 460300.0,
+          "area_km2": 0.4603,
+          "num_pixels": 4603,
+          "threshold": 6
+        },
+        "Cya": {
+          "area_m2": 7910300.0,
+          "area_km2": 7.9103,
+          "num_pixels": 79103,
+          "threshold": 10
+        },
+        "Turb": {
+          "area_m2": 383900.0,
+          "area_km2": 0.3839,
+          "num_pixels": 3839,
+          "threshold": 4
+        },
+        "CDOM": {
+          "area_m2": 7986700.0,
+          "area_km2": 7.9867,
+          "num_pixels": 79867,
+          "threshold": 1
+        },
+        "DOC": {
+          "area_m2": 7959500.0,
+          "area_km2": 7.9595,
+          "num_pixels": 79595,
+          "threshold": 5
+        },
+        "Color": {
+          "area_m2": 7826900.0,
+          "area_km2": 7.8269,
+          "num_pixels": 78269,
+          "threshold": 10
+        }
+      },
+      "processed_at": "2025-11-07 11:28:06"
+    },
+    {
+      "plant_name": "\u039c\u0395\u0398\u03a9\u039d\u0397",
+      "date_from": "2025-08-01",
+      "date_to": "2025-08-07",
+      "visualization_path": "WASTEWATER_ANALYSIS_20251107_112258\\visualizations\\\u039c\u0395\u0398\u03a9\u039d\u0397_2025-08-01_visualization.png",
+      "data_path": "WASTEWATER_ANALYSIS_20251107_112258\\raw_data\\\u039c\u0395\u0398\u03a9\u039d\u0397_2025-08-01_metrics.tiff",
+      "metrics_viz_path": "WASTEWATER_ANALYSIS_20251107_112258\\metrics\\\u039c\u0395\u0398\u03a9\u039d\u0397_2025-08-01_metrics.png",
+      "polluted_areas": {
+        "Chl_a": {
+          "area_m2": 405700.0,
+          "area_km2": 0.4057,
+          "num_pixels": 4057,
+          "threshold": 6
+        },
+        "Cya": {
+          "area_m2": 7516200.0,
+          "area_km2": 7.5162,
+          "num_pixels": 75162,
+          "threshold": 10
+        },
+        "Turb": {
+          "area_m2": 341000.0,
+          "area_km2": 0.341,
+          "num_pixels": 3410,
+          "threshold": 4
+        },
+        "CDOM": {
+          "area_m2": 7640100.0,
+          "area_km2": 7.6401,
+          "num_pixels": 76401,
+          "threshold": 1
+        },
+        "DOC": {
+          "area_m2": 7622900.0,
+          "area_km2": 7.6229,
+          "num_pixels": 76229,
+          "threshold": 5
+        },
+        "Color": {
+          "area_m2": 7526400.0,
+          "area_km2": 7.5264,
+          "num_pixels": 75264,
+          "threshold": 10
+        }
+      },
+      "processed_at": "2025-11-07 11:28:13"
+    }
+  ],
+  "failed": []
+}

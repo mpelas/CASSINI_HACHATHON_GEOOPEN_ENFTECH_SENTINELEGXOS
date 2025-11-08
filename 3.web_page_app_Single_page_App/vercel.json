@@ -1,0 +1,9 @@
+{
+  "rewrites": [
+    {
+      "source": "/(.*)",
+      "destination": "/wastewaterLeaflet_index.html"
+    }
+  ],
+  "headers": []
+}

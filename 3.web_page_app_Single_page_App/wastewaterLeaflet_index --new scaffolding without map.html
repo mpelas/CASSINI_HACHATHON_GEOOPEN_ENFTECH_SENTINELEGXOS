@@ -1,0 +1,303 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>SentinElegxos - Sea Water Quality Application</title>
+    <style>
+        body {
+            font-family: sans-serif;
+            margin: 0;
+            display: flex;
+            flex-direction: column;
+            min-height: 100vh;
+        }
+        .header {
+            display: flex;
+            align-items: center;
+            padding: 10px 20px;
+            background-color: #f8f9fa;
+            border-bottom: 1px solid #dee2e6;
+        }
+        .header img {
+            height: 50px;
+            margin-right: 20px;
+        }
+        .header h1 {
+            font-size: 1.5em;
+            margin: 0;
+        }
+        .tab-navigation {
+            display: flex;
+            background-color: #e9ecef;
+        }
+        .tab-button {
+            padding: 14px 20px;
+            cursor: pointer;
+            border: none;
+            outline: none;
+            background-color: #e9ecef;
+            transition: background-color 0.3s;
+        }
+        .tab-button:hover {
+            background-color: #d1d5da;
+        }
+        .tab-button.active {
+            background-color: #fff;
+            border-bottom: 2px solid #007bff;
+        }
+        .tab-content {
+            display: none;
+            padding: 20px;
+            flex-grow: 1;
+        }
+        .tab-content.active {
+            display: block;
+        }
+        #home {
+            color: white; /* Readable font color for the first page */
+            background-image: url('background.jpg');
+            background-size: cover;
+            background-position: center;
+            padding: 40px;
+            text-shadow: 1px 1px 2px black; /* Add shadow for better readability */
+        }
+        .footer {
+            background-color: #343a40;
+            color: #f8f9fa;
+            padding: 20px;
+            text-align: center;
+            font-size: 0.9em;
+            margin-top: auto;
+        }
+        .footer p {
+            margin: 5px 0;
+        }
+        .footer .disclaimer {
+            font-size: 0.8em;
+            color: #adb5bd;
+            margin-top: 15px;
+        }
+        .team-container {
+            display: flex;
+            flex-wrap: wrap;
+            gap: 30px;
+        }
+        .team-member {
+            text-align: center;
+            width: 200px;
+        }
+        .team-member img {
+            width: 150px;
+            height: 150px;
+            border-radius: 50%;
+            object-fit: cover;
+            border: 3px solid #dee2e6;
+        }
+        .team-member h3 {
+            margin: 10px 0 5px 0;
+        }
+        .team-member p {
+            margin: 0;
+            color: #6c757d;
+        }
+        .wastewater-section select, .wastewater-section button {
+            padding: 8px;
+            margin-right: 10px;
+        }
+        .image-gallery {
+            margin-top: 20px;
+            display: flex;
+            flex-wrap: wrap;
+            gap: 15px;
+        }
+        .image-gallery div {
+            width: calc(25% - 15px);
+        }
+        .image-gallery img {
+            width: 100%;
+            border: 1px solid #ddd;
+            border-radius: 4px;
+        }
+        .image-gallery p {
+            text-align: center;
+            margin-top: 5px;
+        }
+    </style>
+</head>
+<body>
+
+    <header class="header">
+        <!-- NOTE: You need to provide 'Geopen LOGO - small.png' -->
+        <img src="Geopen LOGO - small.png" alt="Geopen Logo">
+        <h1>SentinElegxos - Sea Water Quality Application</h1>
+    </header>
+
+    <nav class="tab-navigation">
+        <button class="tab-button active" onclick="openTab(event, 'home')">Home</button>
+        <button class="tab-button" onclick="openTab(event, 'users')">REGISTERED USERS ONLY</button>
+        <button class="tab-button" onclick="openTab(event, 'team')">Team</button>
+        <button class="tab-button" onclick="openTab(event, 'radio')">Radiopropagation Assistant</button>
+    </nav>
+
+    <main>
+        <div id="home" class="tab-content active">
+            <h2>Welcome to SentinElegxos</h2>
+            <p>Monitoring Sea Water Quality with advanced tools.</p>
+        </div>
+
+        <div id="users" class="tab-content">
+            <h2>Wastewater Analysis</h2>
+            <div class="wastewater-section">
+                <label for="plant-select">Select Treatment Plant:</label>
+                <select id="plant-select">
+                    <!-- Options will be populated by JavaScript -->
+                </select>
+            </div>
+            <div id="plant-images" class="image-gallery">
+                <!-- Images will be populated by JavaScript -->
+            </div>
+        </div>
+
+        <div id="team" class="tab-content">
+            <h2>Our Team</h2>
+            <div class="team-container">
+                <div class="team-member">
+                    <img src="mpaigni.jpg" alt="Michalis Paignigiannis">
+                    <h3>Michalis Paignigiannis</h3>
+                    <p>Founder, GIS & DevSecOps</p>
+                </div>
+                <div class="team-member">
+                    <img src="David.jpg" alt="David Roth">
+                    <h3>David Roth</h3>
+                    <p>Business Analyst, MSc Environmental Expert Engineer</p>
+                </div>
+                <div class="team-member">
+                    <!-- Placeholder for member without an image -->
+                    <img src="placeholder.png" alt="Ioanna Triantafyllopoulou">
+                    <h3>Ioanna Triantafyllopoulou</h3>
+                    <p>Angel Investor, Retired Chemist</p>
+                </div>
+            </div>
+        </div>
+
+        <div id="radio" class="tab-content">
+            <h2>Radiopropagation Assistant</h2>
+            <p>This tool aids in the positioning of the flotile sensor / buoy in the area under investigation.</p>
+            <p>The link between a buoy and a nearby transmitter antenna (licenced antennas are included in the online map). The communication link of the buoy / realtime sensor in sea water area shows the 1st Fresnel zone and its obstructions from the Digital Elevation of the terrain.</p>
+        </div>
+    </main>
+
+    <footer class="footer">
+        <p>Copyright @2025 Authored by Michail Paignigiannis</p>
+        <p>mpaigni@gmail.com | Menelaou Lountemi street, Athens (Pefki), Greece</p>
+        <div class="disclaimer">
+            <p>Data gathered from government webpages remain propriety of the effective administration. Data errors and ambiguities are the sole responsibility of their owners. In case we locate such discrepancies we alert the competent authorities accordingly.</p>
+            <p>Data for SE2WAQ filters and DEM were derived from COPERNICUS and SENTINEL DATASETS by EU 2025.</p>
+        </div>
+    </footer>
+
+    <script>
+        function openTab(evt, tabName) {
+            // Get all elements with class="tab-content" and hide them
+            const tabcontent = document.getElementsByClassName("tab-content");
+            for (let i = 0; i < tabcontent.length; i++) {
+                tabcontent[i].style.display = "none";
+            }
+
+            // Get all elements with class="tab-button" and remove the class "active"
+            const tablinks = document.getElementsByClassName("tab-button");
+            for (let i = 0; i < tablinks.length; i++) {
+                tablinks[i].className = tablinks[i].className.replace(" active", "");
+            }
+
+            // Show the current tab, and add an "active" class to the button that opened the tab
+            document.getElementById(tabName).style.display = "block";
+            evt.currentTarget.className += " active";
+
+            // Special handling for home tab to make it take full height if needed
+            if (tabName === 'home') {
+                 document.getElementById(tabName).classList.add('active');
+            } else {
+                // Ensure home tab loses active class if another tab is chosen
+                document.getElementById('home').classList.remove('active');
+            }
+        }
+
+        // Set the default tab
+        document.addEventListener("DOMContentLoaded", function() {
+            document.querySelector('.tab-button').click();
+            populatePlantSelector();
+        });
+
+        // --- Logic for "REGISTERED USERS ONLY" Tab ---
+
+        // This is a mock data structure. You would need to get the actual file list.
+        const wastewater_images = [
+            "Thessaloniki_viz_2022.png", "Thessaloniki_viz_2023.png", "Thessaloniki_viz_2024.png", "Thessaloniki_viz_2025.png",
+            "Thessaloniki_metric_band1.png", "Thessaloniki_metric_band2.png", "Thessaloniki_metric_band3.png", "Thessaloniki_metric_band4.png",
+            "Athens_viz_2022.png", "Athens_viz_2023.png", "Athens_viz_2024.png", "Athens_viz_2025.png",
+            "Athens_metric_band1.png", "Athens_metric_band2.png", "Athens_metric_band3.png", "Athens_metric_band4.png",
+        ];
+
+        function getPlantNameFromFilename(filename) {
+            return filename.split('_')[0];
+        }
+
+        function populatePlantSelector() {
+            const plantSelect = document.getElementById('plant-select');
+            const plants = new Set(wastewater_images.map(getPlantNameFromFilename));
+            
+            plants.forEach(plant => {
+                const option = document.createElement('option');
+                option.value = plant;
+                option.textContent = plant;
+                plantSelect.appendChild(option);
+            });
+
+            plantSelect.addEventListener('change', (event) => {
+                displayImagesForPlant(event.target.value);
+            });
+            
+            // Display images for the first plant by default
+            if (plantSelect.options.length > 0) {
+                displayImagesForPlant(plantSelect.options[0].value);
+            }
+        }
+
+        function displayImagesForPlant(plantName) {
+            const imageGallery = document.getElementById('plant-images');
+            imageGallery.innerHTML = ''; // Clear previous images
+
+            const plantImages = wastewater_images.filter(img => img.startsWith(plantName));
+
+            // NOTE: You need to place your images in a structured way, e.g., inside an 'assets' folder.
+            // The paths below assume an 'assets/WASTEWATER_ANALYSIS/' subfolder structure.
+            const vizImages = plantImages.filter(img => img.includes('_viz_')).sort();
+            const metricImages = plantImages.filter(img => img.includes('_metric_')).sort();
+
+            const allImages = [...vizImages, ...metricImages];
+
+            allImages.forEach(imageName => {
+                const folder = imageName.includes('_viz_') ? 'visualisations' : 'metrics';
+                // This path is an example. Adjust it to your actual folder structure.
+                const imagePath = `assets/WASTEWATER_ANALYSIS/${folder}/${imageName}`;
+                
+                const imgContainer = document.createElement('div');
+                const imgElement = document.createElement('img');
+                imgElement.src = imagePath;
+                imgElement.alt = imageName;
+                
+                const pElement = document.createElement('p');
+                pElement.textContent = imageName.replace(/_/g, ' ').replace('.png', '');
+
+                imgContainer.appendChild(imgElement);
+                imgContainer.appendChild(pElement);
+                imageGallery.appendChild(imgContainer);
+            });
+        }
+
+    </script>
+
+</body>
+</html>

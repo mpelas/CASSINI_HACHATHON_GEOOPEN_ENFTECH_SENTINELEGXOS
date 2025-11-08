@@ -1,0 +1,1050 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>SentinELEGXOS - Sea Water Quality Application</title>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css" />
+    <link rel="stylesheet" href="https://unpkg.com/leaflet.markercluster@1.5.3/dist/MarkerCluster.css" />
+    <link rel="stylesheet" href="https://unpkg.com/leaflet.markercluster@1.5.3/dist/MarkerCluster.Default.css" />
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+
+        body {
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            background: linear-gradient(135deg, #1e3c72 0%, #2a5298 50%, #7e8ba3 100%);
+            min-height: 100vh;
+        }
+
+        /* Navigation */
+        nav {
+            background: rgba(30, 60, 114, 0.95);
+            padding: 0.5rem 2rem;
+            box-shadow: 0 4px 20px rgba(0,0,0,0.3);
+            position: sticky;
+            top: 0;
+            z-index: 1000;
+            backdrop-filter: blur(10px);
+        }
+
+        nav .container {
+            max-width: 1400px;
+            margin: 0 auto;
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            flex-wrap: wrap;
+        }
+
+        nav .logo-title {
+            display: flex;
+            align-items: center;
+            gap: 1rem;
+        }
+
+        nav .logo-title img {
+            height: 60px;
+            width: auto;
+        }
+
+        nav h1 {
+            font-size: 1.4rem;
+            color: #ffffff;
+            font-weight: 600;
+            text-shadow: 2px 2px 4px rgba(0,0,0,0.3);
+        }
+
+        nav ul {
+            list-style: none;
+            display: flex;
+            gap: 1rem;
+            flex-wrap: wrap;
+        }
+
+        nav a {
+            text-decoration: none;
+            color: #e0e7ff;
+            font-weight: 500;
+            transition: all 0.3s;
+            padding: 0.5rem 1rem;
+            border-radius: 5px;
+        }
+
+        nav a:hover, nav a.active {
+            color: #ffffff;
+            background: rgba(255,255,255,0.1);
+            transform: translateY(-2px);
+        }
+
+        /* Pages */
+        .page {
+            display: none;
+        }
+
+        .page.active {
+            display: block;
+        }
+
+        /* Home Page */
+        .home-page {
+            min-height: calc(100vh - 100px);
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            padding: 2rem;
+            background: url('https://wastewater_plants_spa.storage.googleapis.com/BACKGROUND.jpg') no-repeat center top;
+            background-size: cover;
+            position: relative;
+        }
+
+        .home-page::before {
+            content: '';
+            position: absolute;
+            top: 0;
+            left: 0;
+            right: 0;
+            bottom: 0;
+            background: rgba(30, 60, 114, 0.7);
+        }
+
+        .hero {
+            background: rgba(255, 255, 255, 0.95);
+            border-radius: 20px;
+            padding: 3rem;
+            max-width: 900px;
+            box-shadow: 0 20px 60px rgba(0,0,0,0.4);
+            text-align: center;
+            position: relative;
+            z-index: 1;
+        }
+
+        .hero h2 {
+            font-size: 2.5rem;
+            background: linear-gradient(135deg, #1e3c72 0%, #2a5298 100%);
+            -webkit-background-clip: text;
+            -webkit-text-fill-color: transparent;
+            background-clip: text;
+            margin-bottom: 1rem;
+        }
+
+        .hero p {
+            font-size: 1.1rem;
+            color: #2c3e50;
+            line-height: 1.8;
+            margin-bottom: 2rem;
+        }
+
+        .feature-grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+            gap: 1.5rem;
+            margin-top: 2rem;
+        }
+
+        .feature-card {
+            background: linear-gradient(135deg, #2a5298 0%, #1e3c72 100%);
+            color: white;
+            padding: 1.5rem;
+            border-radius: 10px;
+            transition: all 0.3s;
+            box-shadow: 0 5px 15px rgba(0,0,0,0.2);
+        }
+
+        .feature-card:hover {
+            transform: translateY(-10px) scale(1.02);
+            box-shadow: 0 15px 30px rgba(0,0,0,0.3);
+        }
+
+        .feature-card h3 {
+            margin-bottom: 0.5rem;
+        }
+
+        .cta-button {
+            display: inline-block;
+            background: linear-gradient(135deg, #2a5298 0%, #1e3c72 100%);
+            color: white;
+            padding: 1rem 2rem;
+            border-radius: 50px;
+            text-decoration: none;
+            font-weight: 600;
+            margin-top: 1rem;
+            transition: all 0.3s;
+            box-shadow: 0 5px 15px rgba(42, 82, 152, 0.4);
+        }
+
+        .cta-button:hover {
+            transform: translateY(-3px);
+            box-shadow: 0 10px 30px rgba(42, 82, 152, 0.5);
+        }
+
+        /* Map Page */
+        .map-page {
+            height: calc(100vh - 80px);
+            position: relative;
+        }
+
+        #map {
+            height: 100%;
+            width: 100%;
+        }
+
+        .info, .legend {
+            padding: 10px;
+            background: white;
+            border-radius: 5px;
+            box-shadow: 0 0 15px rgba(0,0,0,0.2);
+        }
+
+        .legend h4 {
+            margin-bottom: 8px;
+        }
+
+        .legend-item {
+            display: flex;
+            align-items: center;
+            gap: 8px;
+            margin: 4px 0;
+        }
+
+        .legend-color {
+            width: 20px;
+            height: 20px;
+            border-radius: 3px;
+        }
+
+        /* Data Analysis Page */
+        .data-page {
+            min-height: calc(100vh - 100px);
+            padding: 2rem;
+            max-width: 1400px;
+            margin: 0 auto;
+        }
+
+        .data-page h2 {
+            color: white;
+            text-align: center;
+            margin-bottom: 2rem;
+            font-size: 2.5rem;
+            text-shadow: 2px 2px 4px rgba(0,0,0,0.3);
+        }
+
+        .control-panel {
+            background: rgba(255, 255, 255, 0.95);
+            padding: 2rem;
+            border-radius: 15px;
+            margin-bottom: 2rem;
+            box-shadow: 0 10px 30px rgba(0,0,0,0.2);
+        }
+
+        .control-panel label {
+            display: block;
+            font-weight: 600;
+            margin-bottom: 0.5rem;
+            color: #1e3c72;
+        }
+
+        .control-panel select {
+            width: 100%;
+            padding: 0.75rem;
+            border: 2px solid #2a5298;
+            border-radius: 8px;
+            font-size: 1rem;
+            background: white;
+            cursor: pointer;
+            transition: all 0.3s;
+        }
+
+        .control-panel select:focus {
+            outline: none;
+            border-color: #1e3c72;
+            box-shadow: 0 0 0 3px rgba(42, 82, 152, 0.1);
+        }
+
+        .images-grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+            gap: 2rem;
+            margin-top: 2rem;
+        }
+
+        .image-card {
+            background: white;
+            border-radius: 15px;
+            overflow: hidden;
+            box-shadow: 0 10px 30px rgba(0,0,0,0.2);
+            transition: all 0.3s;
+        }
+
+        .image-card:hover {
+            transform: translateY(-5px);
+            box-shadow: 0 15px 40px rgba(0,0,0,0.3);
+        }
+
+        .image-card img {
+            width: 100%;
+            height: auto;
+            display: block;
+        }
+
+        .image-card .caption {
+            padding: 1rem;
+            background: linear-gradient(135deg, #2a5298 0%, #1e3c72 100%);
+            color: white;
+            font-weight: 600;
+            text-align: center;
+        }
+
+        /* Team Page */
+        .team-page {
+            min-height: calc(100vh - 100px);
+            padding: 2rem;
+            max-width: 1200px;
+            margin: 0 auto;
+        }
+
+        .team-page h2 {
+            color: white;
+            text-align: center;
+            margin-bottom: 3rem;
+            font-size: 2.5rem;
+            text-shadow: 2px 2px 4px rgba(0,0,0,0.3);
+        }
+
+        .team-grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+            gap: 2rem;
+        }
+
+        .team-member {
+            background: white;
+            border-radius: 20px;
+            padding: 2rem;
+            text-align: center;
+            box-shadow: 0 10px 30px rgba(0,0,0,0.2);
+            transition: all 0.3s;
+        }
+
+        .team-member:hover {
+            transform: translateY(-10px);
+            box-shadow: 0 20px 40px rgba(0,0,0,0.3);
+        }
+
+        .team-member img {
+            width: 150px;
+            height: 150px;
+            border-radius: 50%;
+            object-fit: cover;
+            margin-bottom: 1rem;
+            border: 5px solid #2a5298;
+        }
+
+        .team-member h3 {
+            color: #1e3c72;
+            margin-bottom: 0.5rem;
+        }
+        .team-member h4 {
+            color: #abc8d8;
+            line-height: 1.6;
+        }
+
+        .team-member p {
+            color: #555;
+            line-height: 1.6;
+        }
+
+        /* Radio Propagation Page */
+        .radio-page {
+            min-height: calc(100vh - 100px);
+            padding: 2rem;
+            max-width: 1200px;
+            margin: 0 auto;
+        }
+
+        .radio-page h2 {
+            color: white;
+            text-align: center;
+            margin-bottom: 2rem;
+            font-size: 2.5rem;
+            text-shadow: 2px 2px 4px rgba(0,0,0,0.3);
+        }
+
+        .info-box {
+            background: rgba(255, 255, 255, 0.95);
+            padding: 2rem;
+            border-radius: 15px;
+            box-shadow: 0 10px 30px rgba(0,0,0,0.2);
+        }
+
+        /* BAckground Operations Propagation Page */
+        .background-page {
+            min-height: calc(100vh - 100px);
+            padding: 2rem;
+            max-width: 1200px;
+            margin: 0 auto;
+        }
+         .background-page h2 {
+            color: white;
+            text-align: center;
+            margin-bottom: 2rem;
+            font-size: 2.5rem;
+            text-shadow: 2px 2px 4px rgba(0,0,0,0.3);
+        }
+
+
+        .info-box p {
+            color: #2c3e50;
+            line-height: 1.8;
+            font-size: 1.1rem;
+        }
+
+        /* Footer */
+        footer {
+            background: rgba(30, 60, 114, 0.95);
+            color: white;
+            padding: 2rem;
+            text-align: center;
+            margin-top: 2rem;
+        }
+
+        footer .disclaimer {
+            font-size: 0.9rem;
+            line-height: 1.6;
+            max-width: 1200px;
+            margin: 0 auto 1rem;
+            color: #e0e7ff;
+        }
+
+        footer .copyright {
+            font-size: 0.85rem;
+            color: #cbd5e1;
+            margin-top: 1rem;
+            padding-top: 1rem;
+            border-top: 1px solid rgba(255,255,255,0.2);
+        }
+
+        /* Mobile Responsive */
+        @media (max-width: 768px) {
+            nav h1 {
+                font-size: 1rem;
+            }
+
+            nav .logo-title img {
+                height: 40px;
+            }
+
+            nav ul {
+                gap: 0.5rem;
+            }
+
+            .hero {
+                padding: 2rem;
+            }
+
+            .hero h2 {
+                font-size: 1.8rem;
+            }
+
+            .feature-grid {
+                grid-template-columns: 1fr;
+            }
+        }
+    </style>
+</head>
+<body>
+    <!-- Navigation -->
+    <nav>
+        <div class="container">
+            <div class="logo-title">
+                <img src="https://wastewater_plants_spa.storage.googleapis.com/Geopen%20LOGO%20-%20small.png" alt="GeoOpen Logo">
+                <h1>SentinElegxos - Sea Water Quality Application</h1>
+            </div>
+            <ul>
+                <li><a href="#home" class="nav-link active">Home</a></li>
+                <li><a href="#map" class="nav-link">Interactive Map</a></li>
+                <li><a href="#data" class="nav-link">Registered Users</a></li>
+                <li><a href="#team" class="nav-link">Team</a></li>
+                <li><a href="#radio" class="nav-link">Radio Propagation</a></li>
+            </ul>
+        </div>
+    </nav>
+
+    <!-- Home Page -->
+    <div id="home" class="page active">
+        <div class="home-page">
+            <div class="hero">
+                <h2>SentinelEgxos - Sea Water Quality Application</h2>
+                <p>
+                    Welcome to the comprehensive environmental monitoring system for Greece. 
+                    This platform provides real-time visualization of critical infrastructure 
+                    including wastewater treatment facilities and telecommunications antenna locations.
+                    This is part of the GeoOpen EnfTech Platform created by the Cassinians 4 for the 
+                    10th Cassini Hackathon in Greece.
+                </p>
+                <p style="font-size: 0.95rem; font-style: italic; margin-top: 1rem;">
+                    <strong>Disclaimer:</strong> All data aggregated from their respective public sources and agencies. 
+                    Automated collection methodology was performed at low traffic hours, respecting the 
+                    Terms of Use and the relative robots.txt. Accuracy of the initial raw data is the 
+                    responsibility of the Competent Authority of the subject.
+                </p>
+                
+                <div class="feature-grid">
+                    <div class="feature-card">
+                        <h3> Wastewater Zones</h3>
+                        <h4>Track compliance status of no-swim zones</h4>
+                    </div>
+                    <div class="feature-card">
+                        <h3> Licensed Wireless Antennas</h3>
+                        <h4>View telecommunications infrastructure across Greece (collected 2025.07.27)</h4>
+                    </div>
+                    <div class="feature-card">
+                        <h3> Interactive Maps</h3>
+                        <h4>Explore data with layered visualizations</h4>
+                    </div>
+                    <div class="feature-card">
+                        <h3> SE2WAQ Analysis</h3>
+                        <h4>Sentinel-2 Water Quality filtering and analysis</h4>
+                    </div>
+                </div>
+
+                <a href="#map" class="cta-button nav-link">Explore the Map →</a>
+            </div>
+        </div>
+    </div>
+
+    <!-- Map Page -->
+    <div id="map-page" class="page map-page">
+        <div id="map"></div>
+    </div>
+
+    <!-- Data Analysis Page - REGISTERED USERS ONLY -->
+    <div id="data-page" class="page data-page">
+        <h2>Water Quality Analysis - Registered Users Only</h2>
+        <div class="control-panel">
+            <label for="plant-select">Select Wastewater Treatment Plant:</label>
+            <select id="plant-select">
+                <option value="">-- Choose a Treatment Plant --</option>
+            </select>
+        </div>
+        <div id="viz-images" class="images-grid"></div>
+        <div id="metrics-images" class="images-grid"></div>
+
+
+      <div class="info-box">
+    <p>
+        These are the background links that will fire up an update of the DATASETS used in the current application page.
+        Data is being scraped from the website of the Ministry of Environment:
+        <a href="http://astikalimata.ypeka.gr/wtp" target="_blank" rel="noopener noreferrer">http://astikalimata.ypeka.gr/wtp</a>
+    </p>
+    <p>
+        This specific page is problematic when opening the details of each treatment plant. The map does not have any basemap layers,
+        making it impossible to understand the location of the plant outlet because human perception needs a basemap for reference.
+    </p>
+    <p>
+        The link to use to scrape the data again is here:
+        <a href="https://mpelas-wastewater-scrape-203451079784.europe-west1.run.app" target="_blank" rel="noopener noreferrer">https://mpelas-wastewater-scrape-203451079784.europe-west1.run.app</a>
+        <br>
+        On a successful run, you get the HTML reply: <strong>Analysis complete. New GeoJSON saved. KML GCS sync: uploaded.</strong>
+        <br>
+        On a successful run where nothing needs to be updated, you get the HTML reply: <strong>No data changes. KML GCS sync: uploaded.</strong>
+        <br>
+        The link to scrape the <strong>keraies.eett.gr</strong> website is:
+        <a href="https://apify.com/store/categories?search=Keraies%20scraper%20from%20keraies.eett.gr" target="_blank" rel="noopener noreferrer">Apify Keraies Scraper</a> (small charge of $5 per day).
+        <br>
+        Our future products: <a href="https://sites.google.com/view/geopen/home" target="_blank" rel="noopener noreferrer">https://sites.google.com/view/geopen/home</a>
+    </p>
+    <p style="margin-top: 1rem;">
+        The link to verify that the API is working fine is to inspect the Psitallia plant outlet:
+        <a href="https://mpelas-wastewater-203451079784.europe-west1.run.app/?latitude=37.936966667&longitude=23.586672222" target="_blank" rel="noopener noreferrer">https://mpelas-wastewater-203451079784.europe-west1.run.app/?latitude=37.936966667&longitude=23.586672222</a>
+        for Ψυτάλλεια.
+    </p>
+</div>
+
+    </div>
+
+    <!-- Team Page -->
+    <div id="team-page" class="page team-page">
+        <h2> Our Team</h2>
+        <div class="team-grid">
+            <div class="team-member">
+                <img src="https://wastewater_plants_spa.storage.googleapis.com/mpaigni.jpg" alt="Michalis Paignigiannis">
+                <h3>Michalis Paignigiannis</h3>
+                <p><strong>Founder</strong></p>
+                <p>GIS & DevSecOps</p>
+            </div>
+            <div class="team-member">
+                <img src="https://wastewater_plants_spa.storage.googleapis.com/david.jpg" alt="David Roth">
+                <h3>David Roth</h3>
+                <p><strong>Business Analyst</strong></p>
+                <p>MSc Environmental Expert Engineer</p>
+            </div>
+            <div class="team-member">
+                <img src="https://wastewater_plants_spa.storage.googleapis.com/mama.jpg" alt="Ioanna Triantafyllopoulou">
+                <h3>Ioanna Triantafyllopoulou</h3>
+                <p><strong>Angel Investor</strong></p>
+                <p>Retired Chemist</p>
+            </div>
+        </div>
+    </div>
+
+    <!-- Radio Propagation Page -->
+    <div id="radio-page" class="page radio-page">
+        <h2> Radio Propagation Assistant</h2>
+
+        <div class="info-box">
+            <p>
+                This tool aids in the positioning of the flotilla sensor/buoy in the area under investigation. 
+                The link between a buoy and a nearby transmitter antenna (licensed antennas are included in the online map) 
+                enables real-time monitoring of water quality parameters.
+            </p>
+            <p style="margin-top: 1rem;">
+                The communication link of the buoy/real-time sensor in sea water areas shows the 1st Fresnel zone 
+                and its obstructions from the Digital Elevation Model (DEM) of the terrain. This helps ensure optimal 
+                signal transmission between the floating sensors and the nearest communication tower.
+            </p>
+            <p style="margin-top: 1rem; font-style: italic;">
+                <strong>Note:</strong> DEM data and SE2WAQ filters are derived from COPERNICUS and SENTINEL DATASETS 
+                provided by the European Union (2025).
+            </p>
+
+            <p> Aitoloakarnania Water Treatment Plant Sea Area - Buoy / Sensor Propagation Analysis Test</p>
+            <p> <strong> 1st Fresnel Zone is significantly obscured. 
+                    Please consider changing location in order to have better signal to noise ratio (SNR)
+                    You may consider changing the Radio Network Tower to find another one with better Line-of-Sight to the specific sensor,  </strong></p>
+            <div style="text-align: center; margin-top: 1.5rem;">
+                <img src="https://wastewater_plants_spa.storage.googleapis.com/rf_propagation_analysis_complete.png" alt="Rf propagation example" width="800" height="600" style="max-width: 100%; height: auto;">
+            </div>
+        </div>
+      
+        
+    </div>
+
+    <!-- Backhground Dataset Renewal Page -->
+    <div id="background-page" class="page background-page">
+        <h2> Backhground Dataset Renewal Page</h2>
+
+        <div class="info-box">
+            <p>
+                These are the background links that will fire up an update of the DATASETS used in the the current application Page
+                Data is being scraped from the website of Ministry of Environment http://astikalimata.ypeka.gr/wtp 
+            </p>
+
+            <p>  This specific page is problematic when opening up the details of each treatment plant  the map does not have
+                any basemap layers thus making the location of the respective of the outlet of the plant impossible to understand its location
+                because human perception needs a basemap to refer to.
+            </p>
+
+            <p> The link to use to scrape again the data is here:  https://mpelas-wastewater-scrape-203451079784.europe-west1.run.app
+                On a successful run you get the html reply: Analysis complete. New GeoJSON saved. KML GCS sync: uploaded.
+                On a succesful run that nothing needs to be updated you get an html reply: No data changes. KML GCS sync: uploaded.
+
+                The link to scrape the keraies.eett.gr website is : https://apify.com/store/categories?search=Keraies%20scraper%20from%20keraies.eett.gr small charge of 5$ per day
+            
+                Our future products:  https://sites.google.com/view/geopen/home  
+            </p>   
+                
+            
+            <p style="margin-top: 1rem;">
+                 The link to verify that the API is working fine is to inspect the Psitallia plant outlet: https://mpelas-wastewater-203451079784.europe-west1.run.app/?latitude=37.936966667&longitude=23.586672222    for Ψυτάλλεια 
+                
+            </p>
+            
+        </div>
+      
+        
+    </div>
+
+    <!-- Footer -->
+    <footer>
+        <div class="disclaimer">
+            <strong>Disclaimer:</strong> Data gathered from government webpages remain property of the respective administration. 
+            Data errors and ambiguities are the sole responsibility of their owners. In case we locate such discrepancies, 
+            we alert the competent authorities accordingly. Data for SE2WAQ filters and DEM were derived from COPERNICUS 
+            and SENTINEL DATASETS by EU 2025.
+        </div>
+        <div class="copyright">
+            © 2025 Authored by GEoOpen EnfTECH Corp, legal representative: Michail Paignigiannis | mpaigni@gmail.com | Menelaou Lountemi Street, Athens Pefki, Greece
+        </div>
+    </footer>
+    
+    <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script>
+    <script src="https://unpkg.com/leaflet-omnivore@0.3.4/leaflet-omnivore.min.js"></script>
+    <script src="https://unpkg.com/leaflet.markercluster@1.5.3/dist/leaflet.markercluster.js"></script>
+    
+    <script>
+        // Treatment plant names from JSON data
+        const treatmentPlants = [
+            "ΑΡΤΑ", "ΜΑΛΕΣΙΝΑ", "ΛΙΜΝΗ", "ΝΕΑ ΑΡΤΑΚΗ", "ΚΑΜΕΝΑ ΒΟΥΡΛΑ", "ΑΙΔΗΨΟΣ", "ΑΓΙΑ",
+            "ΧΩΡΙΣΤΗ", "ΖΑΧΑΡΩ", "ΜΕΘΩΝΗ", "ΠΥΛΟΣ", "ΜΟΝΕΜΒΑΣΙΑ", "ΚΟΡΙΝΟΣ", "ΦΟΥΡΚΑ",
+            "ΠΑΛΑΙΟ ΤΣΙΦΛΙΚΙ", "ΚΑΒΑΛΑ", "ΠΑΡΑΛΙΑ ΟΦΡΥΝΙΟΥ", "ΛΕΥΚΙΜΜΗ", "ΜΩΡΑΪΤΙΚΑ",
+            "ΚΕΡΚΥΡΑ", "ΝΙΚΑΙΑ", "ΠΑΝΑΓΙΑ-ΠΟΤΑΜΙΑ ΘΑΣΟΥ", "ΘΑΣΟΣ", "ΤΥΜΠΑΚΙΟ", "ΜΑΤΑΛΑ",
+            "ΙΕΡΑΠΕΤΡΑ", "ΑΓΙΟΣ ΝΙΚΟΛΑΟΣ ΚΡΗΤΗΣ", "ΚΥΜΙΝΑ", "ΛΕΩΝΙΔΙΟ", "ΚΙΣΣΑΜΟΣ",
+            "ΧΑΝΙΑ", "ΝΕΑ ΚΥΔΩΝΙΑ ΚΡΗΤΗ", "ΚΑΡΠΑΘΟΣ", "ΘΗΡΑ (ΦΗΡΑ)", "ΚΑΡΤΕΡΑΔΟΣ",
+            "ΕΜΠΟΡΕΙΟ ΘΗΡΑΣ", "ΟΙΑ", "ΜΕΣΑΡΙΑ-ΚΑΜΑΡΙ ΘΗΡΑΣ", "ΣΕΡΙΦΟΣ", "ΝΑΞΟΣ",
+            "ΝΑΟΥΣΑ-ΠΑΡΟΣ", "ΠΑΡΟΣ (ΠΑΡΟΙΚΙΑ)", "ΛΕΡΟΣ", "ΚΑΛΥΜΝΟΣ", "ΠΑΤΜΟΣ", "ΠΡΕΒΕΖΑ",
+            "ΘΕΣΣΑΛΟΝΙΚΗ - ΤΟΥΡΙΣΤΙΚΕΣ ΖΩΝΕΣ", "ΜΥΤΙΛΗΝΗ", "ΚΟΡΙΝΘΟΣ-ΛΟΥΤΡΑΚΙ", "ΠΑΡΓΑ"
+        ];
+
+        // SPA Navigation
+        const pages = {
+            'home': document.getElementById('home'),
+            'map': document.getElementById('map-page'),
+            'data': document.getElementById('data-page'),
+            'team': document.getElementById('team-page'),
+            'radio': document.getElementById('radio-page'),
+            'background-page': document.getElementById('background-page')
+
+        };
+
+        let mapInitialized = false;
+        let map, wastewaterLayer, antennasLayer, layerControl;
+
+        // Populate treatment plant dropdown
+        const plantSelect = document.getElementById('plant-select');
+        treatmentPlants.forEach(plant => {
+            const option = document.createElement('option');
+            option.value = plant;
+            option.textContent = plant;
+            plantSelect.appendChild(option);
+        });
+
+        // Handle plant selection
+        plantSelect.addEventListener('change', function() {
+            const selectedPlant = this.value;
+            if (!selectedPlant) {
+                document.getElementById('viz-images').innerHTML = '';
+                document.getElementById('metrics-images').innerHTML = '';
+                return;
+            }
+
+            // Generate visualization images
+            const vizContainer = document.getElementById('viz-images');
+            vizContainer.innerHTML = '<h3 style="grid-column: 1/-1; color: white; text-align: center; margin: 2rem 0;">Visualizations</h3>';
+            
+            const years = ['2022', '2023', '2024', '2025'];
+            years.forEach(year => {
+                const imageCard = document.createElement('div');
+                imageCard.className = 'image-card';
+                imageCard.innerHTML = `
+                    <img src="https://wastewater_plants_spa.storage.googleapis.com/WASTEWATER_ANALYSIS/vizualisations/${encodeURIComponent(selectedPlant)}_${year}-08-01_visualization.png" 
+                         alt="${selectedPlant} ${year}" 
+                         onerror="this.parentElement.style.display='none'">
+                    <div class="caption">${selectedPlant} - ${year} Visualization</div>
+                `;
+                vizContainer.appendChild(imageCard);
+            });
+
+            // Generate metrics images
+            const metricsContainer = document.getElementById('metrics-images');
+            metricsContainer.innerHTML = '<h3 style="grid-column: 1/-1; color: white; text-align: center; margin: 2rem 0;">SE2WAQ Metrics (6 Bands)</h3>';
+            
+            years.forEach(year => {
+                const imageCard = document.createElement('div');
+                imageCard.className = 'image-card';
+                imageCard.innerHTML = `
+                    <img src="https://wastewater_plants_spa.storage.googleapis.com/WASTEWATER_ANALYSIS/metrics/${encodeURIComponent(selectedPlant)}_${year}-08-01_metrics.png" 
+                         alt="${selectedPlant} ${year} Metrics" 
+                         onerror="this.parentElement.style.display='none'">
+                    <div class="caption">${selectedPlant} - ${year} Metrics</div>
+                `;
+                metricsContainer.appendChild(imageCard);
+            });
+        });
+
+        function showPage(pageId) {
+            // Hide all pages
+            Object.values(pages).forEach(page => page.classList.remove('active'));
+            
+            // Show selected page
+            if (pages[pageId]) {
+                pages[pageId].classList.add('active');
+                
+                // Initialize map only once when first viewed
+                if (pageId === 'map' && !mapInitialized) {
+                    initMap();
+                    mapInitialized = true;
+                }
+            }
+            
+            // Update nav links
+            document.querySelectorAll('.nav-link').forEach(link => {
+                link.classList.remove('active');
+                if (link.getAttribute('href') === '#' + pageId) {
+                    link.classList.add('active');
+                }
+            });
+        }
+
+        // Handle navigation clicks
+        document.querySelectorAll('.nav-link').forEach(link => {
+            link.addEventListener('click', (e) => {
+                e.preventDefault();
+                const pageId = link.getAttribute('href').substring(1);
+                showPage(pageId);
+                history.pushState({page: pageId}, '', '#' + pageId);
+            });
+        });
+
+        // Handle browser back/forward
+        window.addEventListener('popstate', (e) => {
+            const pageId = location.hash.substring(1) || 'home';
+            showPage(pageId);
+        });
+
+        // Initialize based on URL hash
+        const initialPage = location.hash.substring(1) || 'home';
+        showPage(initialPage);
+
+        function initMap() {
+            // Initialize map
+            map = L.map('map').setView([40.6401, 22.9444], 16);
+
+            // Add base map
+            L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
+                attribution: '© OpenStreetMap',
+                maxZoom: 19
+            }).addTo(map);
+            // Try to get user's location
+            if (navigator.geolocation) {
+                navigator.geolocation.getCurrentPosition(
+                    function(position) {
+                        console.log("Geolocation success:", position);
+                        const userLat = position.coords.latitude;
+                        const userLon = position.coords.longitude;
+                        console.log("Latitude:", userLat, "Longitude:", userLon);
+
+                        // Center map on user's location
+                        map.setView([userLat, userLon], 16);
+
+                        // Optional: Add a marker showing user's location
+                        L.marker([userLat, userLon])
+                            .addTo(map)
+                            .bindPopup('📍 You are here')
+                            .openPopup();
+                    },
+                    function(error) {
+                        console.error("Geolocation error:", error);
+                        // Keep default view if geolocation fails
+                    },
+                    {
+                        enableHighAccuracy: true, // Request high accuracy (GPS if available)
+                        timeout: 10000,           // Wait up to 10 seconds
+                        maximumAge: 0             // Do not use a cached position
+                    }
+                );
+            } else {
+                console.error("Geolocation is not supported by this browser.");
+            }
+
+            // Info box
+            const info = L.control({position: 'topright'});
+            info.onAdd = function() {
+                this._div = L.DomUtil.create('div', 'info');
+                this._div.innerHTML = '<h4>Loading data...</h4>';
+                return this._div;
+            };
+            info.addTo(map);
+
+            // Layer Groups
+            wastewaterLayer = L.layerGroup();
+            
+            // Use MarkerClusterGroup for antennas
+            antennasLayer = L.markerClusterGroup({
+                chunkedLoading: true,
+                chunkInterval: 50,
+                chunkDelay: 50
+            });
+
+            // Custom Icon for Wastewater Outfall Points
+            const wastewaterPointIcon = L.icon({
+                iconUrl: "https://wastewater_plants_spa.storage.googleapis.com/waste_symbol.svg",
+                iconSize: [25, 25],
+                iconAnchor: [12.5, 12.5],
+                popupAnchor: [0, -12.5]
+            });
+
+            const loadPromises = [];
+
+            // Load Wastewater Zones KML
+            const zonesUrl = 'https://wastewater_plants_spa.storage.googleapis.com/wastewater_no_swim_zones.kml';
+            
+            const zonesPromise = new Promise((resolve) => {
+                fetch(zonesUrl)
+                    .then(response => response.text())
+                    .then(kmlText => {
+                        const kmlLayer = omnivore.kml.parse(kmlText);
+                        
+                        kmlLayer.eachLayer(layer => {
+                            if (layer.feature && layer.feature.properties) {
+                                const isCompliant = layer.feature.properties['Column1.compliance'] !== 'false';
+                                
+                                layer.setStyle({
+                                    fillColor: isCompliant ? '#3388ff' : '#ff0000',
+                                    fillOpacity: 0.5,
+                                    color: 'white',
+                                    weight: 2
+                                });
+                                
+                                const props = layer.feature.properties;
+                                layer.bindPopup(`
+                                    <strong>💧 Zone: ${props.name || 'Wastewater Zone'}</strong><br>
+                                    Status: ${isCompliant ? '✓ Compliant' : '⚠️ Non-Compliant'}
+                                `);
+                            }
+                        });
+                        
+                        kmlLayer.addTo(wastewaterLayer);
+                        info._div.innerHTML = '<h4>✓ Zones loaded</h4>Loading outfalls...';
+                        resolve(kmlLayer);
+                    })
+                    .catch(error => {
+                        console.error('Error loading wastewater Zones KML:', error);
+                        info._div.innerHTML = `<h4>Error</h4>Failed to load wastewater zones`;
+                        resolve(L.layerGroup());
+                    });
+            });
+            loadPromises.push(zonesPromise);
+
+            // Load Wastewater Outfall Points KML
+            const outfallsUrl = 'https://wastewater_plants_spa.storage.googleapis.com/wastewaterTreatmentPlants_export_2025.09_-_%CE%91%CF%80%CE%BF%CE%BB%CE%AE%CE%BE%CE%B5%CE%B9%CF%82.kml';
+
+            const outfallsPromise = new Promise((resolve) => {
+                fetch(outfallsUrl)
+                    .then(response => response.text())
+                    .then(kmlText => {
+                        const kmlLayer = omnivore.kml.parse(kmlText, {
+                            pointToLayer: function (feature, latlng) {
+                                return L.marker(latlng, {
+                                    icon: wastewaterPointIcon
+                                });
+                            }
+                        });
+
+                        kmlLayer.eachLayer(layer => {
+                            if (layer.feature && layer.feature.properties) {
+                                const props = layer.feature.properties;
+                                layer.bindPopup(`
+                                    <strong>💧 Outfall: ${props.name || 'Unknown Outfall'}</strong><br>
+                                    Location: ${props.description || 'N/A'}
+                                `);
+                            }
+                        });
+
+                        kmlLayer.addTo(wastewaterLayer);
+                        info._div.innerHTML = '<h4>✓ Outfalls loaded</h4>Loading antennas...';
+                        resolve(kmlLayer);
+                    })
+                    .catch(error => {
+                        console.error('Error loading wastewater Outfalls KML:', error);
+                        info._div.innerHTML = `<h4>Error</h4>Failed to load wastewater outfalls`;
+                        resolve(L.layerGroup());
+                    });
+            });
+            loadPromises.push(outfallsPromise);
+
+            // Load Antennas GeoJSON
+            const antennasUrl = 'https://wastewater_plants_spa.storage.googleapis.com/APIFY_KERAIES_GR_2025.07.27_without_files_with_symbology.geojson';
+            
+            const antennasPromise = new Promise((resolve) => {
+                fetch(antennasUrl)
+                    .then(response => response.json())
+                    .then(geoJsonData => {
+                        const antennaIcon = L.icon({
+                            iconUrl: "https://wastewater_plants_spa.storage.googleapis.com/radio-station-svgrepo-com.svg",
+                            iconSize: [25, 25],
+                            iconAnchor: [12.5, 12.5],
+                            popupAnchor: [0, -12.5]
+                        });
+
+                        const geoJsonLayer = L.geoJSON(geoJsonData, {
+                            pointToLayer: function (feature, latlng) {
+                                return L.marker(latlng, {icon: antennaIcon});
+                            },
+                            onEachFeature: function (feature, layer) {
+                                if (feature.properties) {
+                                    const props = feature.properties;
+                                    let popupContent = '<strong>📡 Antenna</strong><br>';
+                                    
+                                    Object.keys(props).forEach(key => {
+                                        if (props[key] && key !== 'description') {
+                                            popupContent += `${key}: ${props[key]}<br>`;
+                                        }
+                                    });
+                                    layer.bindPopup(popupContent);
+                                }
+                            }
+                        });
+                        
+                        antennasLayer.addLayer(geoJsonLayer);
+                        
+                        info._div.innerHTML = '<h4>✓ All data loaded!</h4>Toggle layers to explore';
+                        resolve(geoJsonLayer);
+                    })
+                    .catch(error => {
+                        console.error('Error loading antennas GeoJSON:', error);
+                        info._div.innerHTML = `<h4>Partial Load</h4>Antennas failed to load`;
+                        resolve(L.layerGroup());
+                    });
+            });
+            loadPromises.push(antennasPromise);
+
+            // Wait for all promises to resolve before setting bounds
+            Promise.all(loadPromises).then(() => {
+                const allLayers = L.featureGroup([wastewaterLayer, antennasLayer]);
+                
+                if (allLayers.getLayers().length > 0) {
+                    map.fitBounds(allLayers.getBounds().pad(0.1));
+                } else {
+                    map.setView([40.6401, 22.9444], 6);
+                }
+            });
+
+            // Add both layers to map by default
+            wastewaterLayer.addTo(map);
+            antennasLayer.addTo(map);
+
+            // Layer control
+            const overlays = {
+                "💧 Wastewater Data (Zones + Outfalls)": wastewaterLayer,
+                "📡 Antenna Locations": antennasLayer
+            };
+
+            layerControl = L.control.layers(null, overlays, {
+                position: 'topleft',
+                collapsed: false
+            }).addTo(map);
+
+            // Legend
+            const legend = L.control({position: 'bottomright'});
+            legend.onAdd = function() {
+                const div = L.DomUtil.create('div', 'legend');
+                div.innerHTML = `
+                    <h4>Legend</h4>
+                    <div class="legend-item">
+                        <div class="legend-color" style="background: #3388ff;"></div>
+                        <span>Compliant Zone</span>
+                    </div>
+                    <div class="legend-item">
+                        <div class="legend-color" style="background: #ff0000;"></div>
+                        <span>Non-Compliant Zone</span>
+                    </div>
+                    <div class="legend-item">
+                        <span><img src="${wastewaterPointIcon.options.iconUrl}" style="height: 18px; width: 18px; vertical-align: middle;"></span>
+                        <span>Wastewater Outfall Point</span>
+                    </div>
+                    <div class="legend-item">
+                        <span>📡</span>
+                        <span>Antenna Location</span>
+                    </div>
+                `;
+                return div;
+            };
+            legend.addTo(map);
+        }
+    </script>
+</body>
+</html>
