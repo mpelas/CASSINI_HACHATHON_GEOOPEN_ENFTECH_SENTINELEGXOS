@@ -1,0 +1,75 @@
+{
+  "antenna_id": "144977",
+  "address": "ΕΠΙΤΑΛΙΟ ΗΛΕΙΑΣ",
+  "position_code": 220038,
+  "municipality": "Πύργου",
+  "code_name": "ΚΕΠΑ ΑΓΟΥΛΙΝΙΤΣΑ",
+  "region": "Δυτικής Ελλάδας",
+  "latitude": 37.605833,
+  "company": "OTE",
+  "longitude": 21.488056,
+  "permit_status": "Από τα στοιχεία που τηρούνται στην Ενημερωτική Πύλη προκύπτει ότι, για τη θέση \"ΕΠΙΤΑΛΙΟ ΗΛΕΙΑΣ\" στον Δήμο Πύργου Περιφέρειας  Δυτικής Ελλάδας \n\t(κωδικός αριθμός θέσης 0220038, κωδική ονομασία \"ΚΕΠΑ ΑΓΟΥΛΙΝΙΤΣΑ\") χορηγήθηκε, με την Απόφαση της ΕΕΤΤ \n38055/Φ610/18-11-2020, άδεια κατασκευής κεραίας στην εταιρία OTE. \nΑπό τo έγγραφο της άδειας μπορείτε να ενημερωθείτε για τις σχετικές εγκρίσεις των συναρμόδιων φορέων, καθώς και εάν πρόκειται για τροποποίηση παλαιότερης άδειας.\nΗ άδεια χορηγήθηκε με τη διαδικασία αδειοδότησης που ορίζει ο ν. 4635/2019, κατόπιν της με αριθ. πρωτ. 35222/30-10-2019 \n\tαίτησης, και βάσει σχετικής δήλωσης του κατόχου της περί υπαγωγή της κατασκευής κεραίας στο άρθρο 34 του ν. 4635/2019.",
+  "measurements_eaee": "-",
+  "documents": [
+    {
+      "document_number": "381553/30-10-2019",
+      "protocol_number": "ΜΕΣΩ ΣΗΛΥΑ/",
+      "type": "Τοπογραφικό",
+      "file_url": "https://silia.eett.gr/silia/download/8a6c88a1-e13b-4cd2-abad-a3d3ad9132ee"
+    },
+    {
+      "document_number": "381554/30-10-2019",
+      "protocol_number": "ΜΕΣΩ ΣΗΛΥΑ/",
+      "type": "Αρχιτεκτονικά Σχέδια",
+      "file_url": "https://silia.eett.gr/silia/download/c78243c2-9fd9-4cc2-8a01-0d7a6d2b9ebe"
+    },
+    {
+      "document_number": "381555/30-10-2019",
+      "protocol_number": "Δ3/Δ/50470/7722/11-12-1997",
+      "type": "Γνωμάτευση ΥΠΑ",
+      "file_url": null
+    },
+    {
+      "document_number": "381556/30-10-2019",
+      "protocol_number": "ΜΕΣΩ ΣΗΛΥΑ/14-05-2019",
+      "type": "Αίτηση - Μελέτη Ραδιοεκπομπών ΕΕΑΕ",
+      "file_url": "https://silia.eett.gr/silia/download/6eadac59-aee4-46f7-be11-b46e03b3e41f"
+    },
+    {
+      "document_number": "381579/30-10-2019",
+      "protocol_number": "Αρχείο Αίτησης/",
+      "type": "Αίτηση Άδειας Κατασκευής Κεραίας ΕΕΤΤ",
+      "file_url": "https://silia.eett.gr/silia/download/d2ee5505-74ed-4187-a56d-976515d690ab"
+    },
+    {
+      "document_number": "385443/04-12-2019",
+      "protocol_number": "Δ3/Δ/48791/3-12-2019/04-12-2019",
+      "type": "Γνωμάτευση ΥΠΑ",
+      "file_url": "https://silia.eett.gr/silia/download/d852e811-46d0-4086-ba44-403b79393346"
+    },
+    {
+      "document_number": "400207/27-03-2020",
+      "protocol_number": "Μι/411/4281/2020/24-03-2020",
+      "type": "Γνωμάτευση ΕΕΑΕ",
+      "file_url": "https://silia.eett.gr/silia/download/4f9d37c2-cd8a-4f5c-b879-35164d1a69f3"
+    },
+    {
+      "document_number": "423313/26-11-2020",
+      "protocol_number": "38055/Φ610/18-11-2020",
+      "type": "Άδεια Κατασκευής  Κεραίας",
+      "file_url": "https://silia.eett.gr/silia/download/1d7fcb0a-795a-4464-abe3-21ad861fcf9a"
+    },
+    {
+      "document_number": "416778/18-09-2020",
+      "protocol_number": "ΣΥΝΟΔΕΥΤΙΚΑ ΕΓΓΡΑΦΑ/",
+      "type": "Δήλωση υπαγωγής σε ΠΠΔ και Συνοδευτικά Έγγραφα",
+      "file_url": "https://silia.eett.gr/silia/download/5bfe2557-c3dc-4964-86be-6540eade3b51"
+    },
+    {
+      "document_number": "417429/28-09-2020",
+      "protocol_number": "Αρχείο Αίτησης/",
+      "type": "Δήλωση ΠΠΔ",
+      "file_url": "https://silia.eett.gr/silia/download/7685062a-9dd2-45da-b11c-1e44e5c88c22"
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "antenna_id": "152527",
+  "address": "ΤΣΙΤΑΛΙΑ ΔΗΜΟΣ ΝΟΤΙΑΣ ΚΥΝΟΥΡΙΑΣ ΠΕΡ. ΠΕΛΟΠΟΝΝΗΣΟΥ",
+  "position_code": 3207201,
+  "municipality": "Νότιας Κυνουρίας",
+  "code_name": "ΤΣΙΤΑΛΙΑ-Δ",
+  "region": "Πελοποννήσου",
+  "latitude": 37.110833,
+  "company": "ΕΡΤ ΑΕ",
+  "longitude": 22.868333,
+  "permit_status": "Από τα στοιχεία που τηρούνται στην Ενημερωτική Πύλη προκύπτει ότι για τη  θέση \"ΤΣΙΤΑΛΙΑ ΔΗΜΟΣ ΝΟΤΙΑΣ ΚΥΝΟΥΡΙΑΣ ΠΕΡ. ΠΕΛΟΠΟΝΝΗΣΟΥ\" στον Δήμο Νότιας Κυνουρίας Περιφέρειας  Πελοποννήσου έχει κατατεθεί από την εταιρία ΕΡΤ ΑΕ δήλωση δομικών κατασκευών κεραιών  \nμε αριθ. πρωτ. ΣΗΛΥΑ 38154/09-04-2020 κατά τα οριζόμενα στην παρ. 7 του άρθρου 34 του Ν.4635/2019.",
+  "measurements_eaee": "-",
+  "documents": [
+    {
+      "document_number": "400176/26-03-2020",
+      "protocol_number": "δορυφορική λήψη και στοιχεία δομικών κατασκευών/",
+      "type": "Άλλο",
+      "file_url": "https://silia.eett.gr/silia/download/e1ac77a3-d2ab-49ab-89f5-16f1430da674"
+    },
+    {
+      "document_number": "400461/30-03-2020",
+      "protocol_number": "απογραφή 1987/",
+      "type": "Άλλο",
+      "file_url": "https://silia.eett.gr/silia/download/09720dce-ff8a-4c9a-8f20-c9b6e3870c03"
+    },
+    {
+      "document_number": "400462/30-03-2020",
+      "protocol_number": "πίνακας 49 απογραφής ΕΡΤ 1987/",
+      "type": "Άλλο",
+      "file_url": "https://silia.eett.gr/silia/download/5ff57773-0f0d-4b27-af74-556062d4d525"
+    },
+    {
+      "document_number": "401823/09-04-2020",
+      "protocol_number": "Αρχείο Αίτησης/",
+      "type": "Δήλωση Δομικών ΕΡΤ",
+      "file_url": "https://silia.eett.gr/silia/download/0b779004-f586-41fc-9778-8b3ec972db15"
+    }
+  ]
+}

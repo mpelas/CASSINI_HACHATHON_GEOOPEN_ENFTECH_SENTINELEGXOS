@@ -1,0 +1,33 @@
+{
+  "antenna_id": "174364",
+  "address": "ΘΕΣΗ ΒΑΡΙ ΜΑΤΣΙ ΑΣΠΡΟΠΥΡΓΟΣ ΑΤΤΙΚΗΣ",
+  "position_code": 1496869,
+  "municipality": "Ασπροπύργου",
+  "code_name": "SPANAKOS_ASP",
+  "region": "Αττικής",
+  "latitude": 38.084444,
+  "company": "OTE",
+  "longitude": 23.594722,
+  "permit_status": "Από τα στοιχεία που τηρούνται στην Ενημερωτική Πύλη προκύπτει ότι, για τη θέση \"ΘΕΣΗ ΒΑΡΙ ΜΑΤΣΙ ΑΣΠΡΟΠΥΡΓΟΣ ΑΤΤΙΚΗΣ\" στον Δήμο Ασπροπύργου Περιφέρειας  Αττικής \n\t(κωδικός αριθμός θέσης 1496869, κωδική ονομασία \"SPANAKOS_ASP\") έχει κατατεθεί από την εταιρία OTE\tδήλωση εγκατάστασης κατασκευής κεραίας (αριθ. πρωτ. \n\t60691/16-04-2025) που εμπίπτει στις διατάξεις της νομοθεσίας για Εγκαταστάσεις Κατασκευών Κεραιών Χαμηλής Ηλεκτρομαγνητικής Περιβαλλοντικής Όχλησης (ΕΚΚΧΟ).",
+  "measurements_eaee": "-",
+  "documents": [
+    {
+      "document_number": "520925/17-07-2024",
+      "protocol_number": "ΦΩΤΟΓΡΑΦΙΑ/17-07-2024",
+      "type": "Φωτογραφικό Υλικό - Σκαρίφημα",
+      "file_url": "https://silia.eett.gr/silia/download/Sa3LhTEcI7bGDeNkObPltiXmRmwEM8LyG0Uu"
+    },
+    {
+      "document_number": "546410/09-04-2025",
+      "protocol_number": "ΜΕΛΕΤΗ/09-04-2025",
+      "type": "Αίτηση - Μελέτη Ραδιοεκπομπών ΕΕΑΕ",
+      "file_url": "https://silia.eett.gr/silia/download/2ggUvDZtR5XF3Q3PBY1LfeCgYh73ybcmu0k3"
+    },
+    {
+      "document_number": "547151/16-04-2025",
+      "protocol_number": "Αρχείο Αίτησης/16-04-2025",
+      "type": "Δήλωση ΕΚΚΧΟ",
+      "file_url": "https://silia.eett.gr/silia/download/x1r0GfZFenNxRWky397HqW6ruAdcIt00ivbC"
+    }
+  ]
+}

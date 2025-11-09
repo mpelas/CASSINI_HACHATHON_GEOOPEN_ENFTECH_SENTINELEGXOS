@@ -1,0 +1,63 @@
+{
+  "antenna_id": "171025",
+  "address": "PROMYRI_",
+  "position_code": 1442592,
+  "municipality": "Νοτίου Πηλίου",
+  "code_name": "PROMYRI_TK",
+  "region": "Θεσσαλίας",
+  "latitude": 39.190833,
+  "company": "OTE",
+  "longitude": 23.285278,
+  "permit_status": "Από τα στοιχεία που τηρούνται στην Ενημερωτική Πύλη προκύπτει ότι, για τη θέση \"PROMYRI_\" στον Δήμο Νοτίου Πηλίου Περιφέρειας  Θεσσαλίας \n\t(κωδικός αριθμός θέσης 1442592, κωδική ονομασία \"PROMYRI_TK\") έχει κατατεθεί από την εταιρία OTE\tδήλωση εγκατάστασης κατασκευής κεραίας (αριθ. πρωτ. \n\t53802/15-11-2023) που εμπίπτει στις διατάξεις της νομοθεσίας για Εγκαταστάσεις Κατασκευών Κεραιών Χαμηλής Ηλεκτρομαγνητικής Περιβαλλοντικής Όχλησης (ΕΚΚΧΟ).",
+  "measurements_eaee": "-",
+  "documents": [
+    {
+      "document_number": "500572/15-11-2023",
+      "protocol_number": "126715/14-11-2023",
+      "type": "Αίτηση ΓΕΑ",
+      "file_url": "https://silia.eett.gr/silia/download/2f30c277-d3bb-4b17-99e4-19c51269512e"
+    },
+    {
+      "document_number": "500573/15-11-2023",
+      "protocol_number": "ΜΕΣΩ ΣΗΛΥΑ/",
+      "type": "Αίτηση - Μελέτη Ραδιοεκπομπών ΕΕΑΕ",
+      "file_url": "https://silia.eett.gr/silia/download/1f55dacb-c5b5-4812-b68c-2e5ba1b8171a"
+    },
+    {
+      "document_number": "500574/15-11-2023",
+      "protocol_number": "ΦΩΤΟΓΡΑΦΙΑ/",
+      "type": "Φωτογραφικό Υλικό - Σκαρίφημα",
+      "file_url": "https://silia.eett.gr/silia/download/8c48faf8-2451-4f44-9521-37c520019c29"
+    },
+    {
+      "document_number": "500575/15-11-2023",
+      "protocol_number": "ΣΚΑΡΙΦΗΜΑ/",
+      "type": "Φωτογραφικό Υλικό - Σκαρίφημα",
+      "file_url": "https://silia.eett.gr/silia/download/58074dca-1c06-4b52-95c6-60f2395543c0"
+    },
+    {
+      "document_number": "500576/15-11-2023",
+      "protocol_number": "ΣΚΑΡΙΦΗΜΑ/",
+      "type": "Φωτογραφικό Υλικό - Σκαρίφημα",
+      "file_url": "https://silia.eett.gr/silia/download/c5d3fced-a000-4400-bb12-9a52dfd0bf4a"
+    },
+    {
+      "document_number": "500577/15-11-2023",
+      "protocol_number": "ΣΚΑΡΙΦΗΜΑ/",
+      "type": "Φωτογραφικό Υλικό - Σκαρίφημα",
+      "file_url": "https://silia.eett.gr/silia/download/c7ef4a56-1753-42d5-8f7d-57a0bc563311"
+    },
+    {
+      "document_number": "500581/15-11-2023",
+      "protocol_number": "Αρχείο Αίτησης/",
+      "type": "Δήλωση ΕΚΚΧΟ",
+      "file_url": "https://silia.eett.gr/silia/download/1251c05a-e63e-4a5a-82e6-b745c9db11a7"
+    },
+    {
+      "document_number": "506017/30-01-2024",
+      "protocol_number": "ΜΕΣΩ ΣΗΛΥΑ/",
+      "type": "Άλλο",
+      "file_url": "https://silia.eett.gr/silia/download/d15d0380-8411-4f98-92bb-0631106b5393"
+    }
+  ]
+}

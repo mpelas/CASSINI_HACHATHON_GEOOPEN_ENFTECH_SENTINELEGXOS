@@ -1,0 +1,63 @@
+{
+  "antenna_id": "177872",
+  "address": "ΑΓ. ΓΛΥΚΕΡΙΑΣ 36 & ΣΟΛΩΜΟΥ - ΠΕΤΡΟΥΠΟΛΗ",
+  "position_code": 1292019,
+  "municipality": "Πετρούπολης",
+  "code_name": "PANORAMA PETROUPOLIS NORTH",
+  "region": "Αττικής",
+  "latitude": 38.042222,
+  "company": "NOVA Μ.Α.Ε.",
+  "longitude": 23.690278,
+  "permit_status": "Από τα στοιχεία που τηρούνται στην Ενημερωτική Πύλη προκύπτει ότι, για τη θέση \"ΑΓ. ΓΛΥΚΕΡΙΑΣ 36 & ΣΟΛΩΜΟΥ - ΠΕΤΡΟΥΠΟΛΗ\" στον Δήμο Πετρούπολης Περιφέρειας  Αττικής \n\t(κωδικός αριθμός θέσης 1292019, κωδική ονομασία \"PANORAMA PETROUPOLIS NORTH\") έχει κατατεθεί από την εταιρία NOVA Μ.Α.Ε.\tδήλωση εγκατάστασης κατασκευής κεραίας (αριθ. πρωτ. \n\t59643/28-02-2025) που εμπίπτει στις διατάξεις της νομοθεσίας για Εγκαταστάσεις Κατασκευών Κεραιών Χαμηλής Ηλεκτρομαγνητικής Περιβαλλοντικής Όχλησης (ΕΚΚΧΟ).",
+  "measurements_eaee": "-",
+  "documents": [
+    {
+      "document_number": "542517/28-02-2025",
+      "protocol_number": "Ψηφιακή προβολή χάρτη με προβολή της θέσης ΕΚΚΧΟ/28-02-2025",
+      "type": "Φωτογραφικό Υλικό - Σκαρίφημα",
+      "file_url": "https://silia.eett.gr/silia/download/kShWlnVFFPresxkT8PfM9QGyW0L4DlaMUwdD"
+    },
+    {
+      "document_number": "542518/28-02-2025",
+      "protocol_number": "ΟΨΗ/28-02-2025",
+      "type": "Φωτογραφικό Υλικό - Σκαρίφημα",
+      "file_url": "https://silia.eett.gr/silia/download/uPPoSIL2oVFoFs2qbSGgNGXaXwz4rItuGqda"
+    },
+    {
+      "document_number": "542519/28-02-2025",
+      "protocol_number": "ΚΑΤΟΨΗ/28-02-2025",
+      "type": "Φωτογραφικό Υλικό - Σκαρίφημα",
+      "file_url": "https://silia.eett.gr/silia/download/a1TeUuMgF3DyTl2LsGgAwdT9I9XZ5XA2P2dK"
+    },
+    {
+      "document_number": "542520/28-02-2025",
+      "protocol_number": "Μελέτη ΕΚΚΧΟ/27-02-2025",
+      "type": "Άλλο",
+      "file_url": "https://silia.eett.gr/silia/download/qxpEqwhudtL7C6vGYcgv782MdwYYUXE9eayn"
+    },
+    {
+      "document_number": "542521/28-02-2025",
+      "protocol_number": "Κοινοποιηση EMC/27-02-2025",
+      "type": "Αποτελέσματα μελέτης στη ζώνης 2.6GHz για ΥΠΑ/ΓΕΕΘΑ",
+      "file_url": "https://silia.eett.gr/silia/download/KoL5sioAaD5GmDqFcWDvlQge4OZIEIXfTRHW"
+    },
+    {
+      "document_number": "542522/28-02-2025",
+      "protocol_number": "Μελέτη Συμβατότητας/27-02-2025",
+      "type": "Μελέτη για τη ζώνη  2,6GHz",
+      "file_url": "https://silia.eett.gr/silia/download/sXqdawSsIQzL0EHZFL2zqG2fG5DvHC9h4Qd3"
+    },
+    {
+      "document_number": "542528/28-02-2025",
+      "protocol_number": "Οριζοντιο Διάγραμμα Κεραιών/28-02-2025",
+      "type": "Φωτογραφικό Υλικό - Σκαρίφημα",
+      "file_url": "https://silia.eett.gr/silia/download/GAwg0Bdhf2lg10ffCrvQRtCohZ6pIRdcDTOe"
+    },
+    {
+      "document_number": "542529/28-02-2025",
+      "protocol_number": "Αρχείο Αίτησης/28-02-2025",
+      "type": "Δήλωση ΕΚΚΧΟ",
+      "file_url": "https://silia.eett.gr/silia/download/GS9iWo1TR4RrcRa8QaE4oDPfSoDQ417YPVXF"
+    }
+  ]
+}

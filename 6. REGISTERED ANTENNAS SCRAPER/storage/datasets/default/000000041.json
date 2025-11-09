@@ -1,0 +1,87 @@
+{
+  "antenna_id": "104208",
+  "address": "ΧΑΡΙΛΑΟΥ ΤΡΙΚΟΥΠΗ 21",
+  "position_code": 1115309,
+  "municipality": "Αγίας Βαρβάρας",
+  "code_name": "ΑΦΡΟΔΙΤΗΣ - ΑΓΙΑ ΒΑΡΒΑΡΑ",
+  "region": "Αττικής",
+  "latitude": 37.993056,
+  "company": "VODAFONE",
+  "longitude": 23.653889,
+  "permit_status": "Από τα στοιχεία που τηρούνται στην Ενημερωτική Πύλη προκύπτει ότι, για τη  θέση \"ΧΑΡΙΛΑΟΥ ΤΡΙΚΟΥΠΗ 21 \" στον Δήμο Αγίας Βαρβάρας Περιφέρειας  Αττικής \n(κωδικός αριθμός θέσης 1115309, κωδική ονομασία \"ΑΦΡΟΔΙΤΗΣ - ΑΓΙΑ ΒΑΡΒΑΡΑ\") έχει κατατεθεί από την εταιρία VODAFONE δήλωση \nεγκατάστασης Τυποποιημένης Κατασκευής Κεραίας-ΤΚΚ με αριθ. πρωτ. ΣΗΛΥΑ 8592/23-12-2014.",
+  "measurements_eaee": "-",
+  "documents": [
+    {
+      "document_number": "193546/19-12-2014",
+      "protocol_number": "Απόσπασμα Χάρτη για ΥΠΑ/30-10-2014",
+      "type": "Απόσπασμα Χάρτη ΓΥΣ 1:50.000",
+      "file_url": "https://silia.eett.gr/silia/download/0c29959b-4a1c-4dbe-9fe6-245a9bcf544f"
+    },
+    {
+      "document_number": "193608/19-12-2014",
+      "protocol_number": "Μελέτη Ρ/Ε/02-12-2014",
+      "type": "Αίτηση - Μελέτη Ραδιοεκπομπών ΕΕΑΕ",
+      "file_url": "https://silia.eett.gr/silia/download/18386330-a39d-4cdb-b90b-3f587597a9a5"
+    },
+    {
+      "document_number": "193609/19-12-2014",
+      "protocol_number": "Τοπογραφικό Διάγραμμα/30-10-2014",
+      "type": "Τοπογραφικό",
+      "file_url": "https://silia.eett.gr/silia/download/d6979eec-b97b-40bf-b055-c4e4260db28a"
+    },
+    {
+      "document_number": "193610/19-12-2014",
+      "protocol_number": "ΦΩΤΟΓΡΑΦΙΕΣ/",
+      "type": "Άλλο",
+      "file_url": "https://silia.eett.gr/silia/download/4e11934d-fb5c-4d65-8f59-e03366448a53"
+    },
+    {
+      "document_number": "193692/23-12-2014",
+      "protocol_number": "Αρχείο Αίτησης/",
+      "type": "Αίτηση Άδειας Κατασκευής Κεραίας ΕΕΤΤ",
+      "file_url": "https://silia.eett.gr/silia/download/7dacc6fa-0a79-4a42-9c14-214d902f6353"
+    },
+    {
+      "document_number": "195542/29-01-2015",
+      "protocol_number": "604/29-01-2015",
+      "type": "Επιστολή Ενημέρωσης προς Αρμόδιο Φορέα",
+      "file_url": "https://silia.eett.gr/silia/download/7f6fba0d-d88d-4a53-ab5b-73318082f46d"
+    },
+    {
+      "document_number": "195543/29-01-2015",
+      "protocol_number": "18146/27-01-2015",
+      "type": "Επιστολή Ενημέρωσης προς Αρμόδιο Φορέα",
+      "file_url": "https://silia.eett.gr/silia/download/8d218235-f88b-4498-a2df-efbb7a6168e7"
+    },
+    {
+      "document_number": "199961/13-03-2015",
+      "protocol_number": "Δ3/Δ/6633/1910/11-3-2015/13-03-2015",
+      "type": "Γνωμάτευση ΥΠΑ",
+      "file_url": "https://silia.eett.gr/silia/download/319994d6-93ab-4736-b029-642aae0e9815"
+    },
+    {
+      "document_number": "219493/09-07-2015",
+      "protocol_number": "ΜΕΛΕΤΗ Ρ-Ε ΣΥΜΠΛΗΡΩΜΑΤΙΚΗ (& ΣΧΕΔΙΑ)/09-07-2015",
+      "type": "Αίτηση - Μελέτη Ραδιοεκπομπών ΕΕΑΕ",
+      "file_url": "https://silia.eett.gr/silia/download/f6a40b63-d620-44c4-9919-73c7d64ca72e"
+    },
+    {
+      "document_number": "220002/14-07-2015",
+      "protocol_number": "Μ.ι./411/1337/14-07-2015",
+      "type": "Γνωμάτευση ΕΕΑΕ",
+      "file_url": "https://silia.eett.gr/silia/download/b953808b-17b5-4545-8989-f45e9d733548"
+    },
+    {
+      "document_number": "258259/28-04-2016",
+      "protocol_number": "ΜΕΛΕΤΗ ΕΣΔΕΦΡ/27-04-2016",
+      "type": "Άλλο",
+      "file_url": "https://silia.eett.gr/silia/download/e5b47aab-c0cb-47bb-ac24-37b9b33d7603"
+    },
+    {
+      "document_number": "266517/20-07-2016",
+      "protocol_number": "1115309-Δ-860/20-07-2016",
+      "type": "Βεβαίωση ΤΚΚ",
+      "file_url": "https://silia.eett.gr/silia/download/a669518f-8cb0-4557-9839-ecd506b78f02"
+    }
+  ]
+}

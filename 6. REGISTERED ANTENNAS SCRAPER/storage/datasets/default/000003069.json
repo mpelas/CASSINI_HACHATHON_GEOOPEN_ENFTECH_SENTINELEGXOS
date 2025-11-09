@@ -1,0 +1,81 @@
+{
+  "antenna_id": "146425",
+  "address": "ΥΨΩΜΑ \"ΣΚΟΙΝΟΣ\"",
+  "position_code": 1406218,
+  "municipality": "Σάμου",
+  "code_name": "ΚΑΡΛΟΒΑΣΙ - Χ",
+  "region": "Βορείου Αιγαίου",
+  "latitude": 37.788889,
+  "company": "OTE",
+  "longitude": 26.675833,
+  "permit_status": "Από τα στοιχεία που τηρούνται στην Ενημερωτική Πύλη προκύπτει ότι, για τη θέση \"ΥΨΩΜΑ \"ΣΚΟΙΝΟΣ\"\" στον Δήμο Σάμου Περιφέρειας  Βορείου Αιγαίου \n\t(κωδικός αριθμός θέσης 1406218, κωδική ονομασία \"ΚΑΡΛΟΒΑΣΙ - Χ\") χορηγήθηκε, με την Απόφαση της ΕΕΤΤ \n37470/Φ610/29-10-2020, άδεια κατασκευής κεραίας στην εταιρία OTE. \nΑπό τo έγγραφο της άδειας μπορείτε να ενημερωθείτε για τις σχετικές εγκρίσεις των συναρμόδιων φορέων, καθώς και εάν πρόκειται για τροποποίηση παλαιότερης άδειας.\nΗ άδεια χορηγήθηκε με τη διαδικασία αδειοδότησης που ορίζει ο ν. 4635/2019, κατόπιν της με αριθ. πρωτ. 36910/10-02-2020 \n\tαίτησης, και βάσει σχετικής δήλωσης του κατόχου της περί υπαγωγή της κατασκευής κεραίας στο άρθρο 34 του ν. 4635/2019.",
+  "measurements_eaee": "-",
+  "documents": [
+    {
+      "document_number": "389985/20-01-2020",
+      "protocol_number": "ΜΕΣΩ ΣΗΛΥΑ/",
+      "type": "Τοπογραφικό",
+      "file_url": "https://silia.eett.gr/silia/download/e92ef18f-74d2-4a85-925f-7dd094946a17"
+    },
+    {
+      "document_number": "389986/20-01-2020",
+      "protocol_number": "ΜΕΣΩ ΣΗΛΥΑ/",
+      "type": "Αρχιτεκτονικά Σχέδια",
+      "file_url": "https://silia.eett.gr/silia/download/04059dec-45ed-4c12-86a4-27b47523a5b8"
+    },
+    {
+      "document_number": "389989/20-01-2020",
+      "protocol_number": "Δ3/Δ/29586/6201/11-07-2001",
+      "type": "Γνωμάτευση ΥΠΑ",
+      "file_url": "https://silia.eett.gr/silia/download/ae0300a4-d484-435d-abcb-bc0c47804410"
+    },
+    {
+      "document_number": "389990/20-01-2020",
+      "protocol_number": "Δ3/Δ/7124/27-09-2013",
+      "type": "Γνωμάτευση ΥΠΑ",
+      "file_url": "https://silia.eett.gr/silia/download/a011f7d9-1b67-4491-bc73-e4da435a101e"
+    },
+    {
+      "document_number": "389991/20-01-2020",
+      "protocol_number": "ΜΕΣΩ ΣΗΛΥΑ/20-09-2019",
+      "type": "Αίτηση - Μελέτη Ραδιοεκπομπών ΕΕΑΕ",
+      "file_url": "https://silia.eett.gr/silia/download/e996cbe1-a5d2-48f2-a2cb-d860a2b7a73c"
+    },
+    {
+      "document_number": "389992/20-01-2020",
+      "protocol_number": "ΥΠ.ΔΗΛΩΣΗ ΣΥΝΕΓΚΑΤΑΣΤΑΣΗΣ ΟΤΕ/20-01-2020",
+      "type": "Άλλο",
+      "file_url": "https://silia.eett.gr/silia/download/31387718-5406-4f5c-9f77-f779a7f514c9"
+    },
+    {
+      "document_number": "392997/10-02-2020",
+      "protocol_number": "Αρχείο Αίτησης/",
+      "type": "Αίτηση Άδειας Κατασκευής Κεραίας ΕΕΤΤ",
+      "file_url": "https://silia.eett.gr/silia/download/2edacd03-b0cd-4768-ac2c-aa7ba9f3f579"
+    },
+    {
+      "document_number": "401401/07-04-2020",
+      "protocol_number": "Μι/411/4684/06-04-2020",
+      "type": "Γνωμάτευση ΕΕΑΕ",
+      "file_url": "https://silia.eett.gr/silia/download/43c8fb29-3b39-4fba-b00a-c42f07e28ed0"
+    },
+    {
+      "document_number": "420374/29-10-2020",
+      "protocol_number": "37470/Φ610/29-10-2020",
+      "type": "Άδεια Κατασκευής  Κεραίας",
+      "file_url": "https://silia.eett.gr/silia/download/c97d1b4f-b682-424e-9ec2-f2417e93eb1d"
+    },
+    {
+      "document_number": "392800/09-02-2020",
+      "protocol_number": "ΣΥΝΟΔΕΥΤΙΚΑ ΕΓΓΡΑΦΑ/",
+      "type": "Δήλωση υπαγωγής σε ΠΠΔ και Συνοδευτικά Έγγραφα",
+      "file_url": "https://silia.eett.gr/silia/download/ca1b5477-1871-4c92-9d07-fd9482737796"
+    },
+    {
+      "document_number": "393039/10-02-2020",
+      "protocol_number": "Αρχείο Αίτησης/",
+      "type": "Δήλωση ΠΠΔ",
+      "file_url": "https://silia.eett.gr/silia/download/38ccfadf-c72a-45f4-90fc-9443a68e017a"
+    }
+  ]
+}

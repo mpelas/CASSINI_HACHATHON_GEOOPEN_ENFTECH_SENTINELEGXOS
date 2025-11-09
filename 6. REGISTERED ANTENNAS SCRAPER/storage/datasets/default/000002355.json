@@ -1,0 +1,69 @@
+{
+  "antenna_id": "175014",
+  "address": "ΑΓΡ.208 ΑΓΡΟΚΤ. ΜΕΣΩΡΟΠΗ ΑΝΑΔΑΣΜΟΣ 1977-1980, ΘΕΣΗ \"ΠΑΛΙΟΣ ΔΡΟΜΟΣ\",Δ.ΔΙΑΜ.ΜΕΣΟΡΟΠΗΣ",
+  "position_code": 1204546,
+  "municipality": "Παγγαίου",
+  "code_name": "ΜΟΥΣΘΕΝΗ",
+  "region": "Ανατ. Μακεδονίας και Θράκης",
+  "latitude": 40.840278,
+  "company": "NOVA Μ.Α.Ε.",
+  "longitude": 24.088056,
+  "permit_status": "Από τα στοιχεία που τηρούνται στην Ενημερωτική Πύλη προκύπτει ότι, για τη θέση \"ΑΓΡ.208 ΑΓΡΟΚΤ. ΜΕΣΩΡΟΠΗ ΑΝΑΔΑΣΜΟΣ 1977-1980, ΘΕΣΗ \"ΠΑΛΙΟΣ ΔΡΟΜΟΣ\",Δ.ΔΙΑΜ.ΜΕΣΟΡΟΠΗΣ\" στον Δήμο Παγγαίου Περιφέρειας  Ανατ. Μακεδονίας και Θράκης \n\t(κωδικός αριθμός θέσης 1204546, κωδική ονομασία \"ΜΟΥΣΘΕΝΗ\") χορηγήθηκε, με την Απόφαση της ΕΕΤΤ \n51918/07-01-2025, άδεια κατασκευής κεραίας στην εταιρία NOVA Μ.Α.Ε.. \nΑπό τo έγγραφο της άδειας μπορείτε να ενημερωθείτε για τις σχετικές εγκρίσεις των συναρμόδιων φορέων, καθώς και εάν πρόκειται για τροποποίηση παλαιότερης άδειας.\n\tΣύμφωνα με τα στοιχεία που έχουν υποβληθεί στο ΣΗΛΥΑ, ο κάτοχος της κατασκευής κεραίας έχει δηλώσει ότι θα προβεί σε έκδοση έγκρισης δομικών κατασκευών \n\t\tκεραίας μέσω του e-Άδειες \n\t\tμετά την έκδοση της άδειας κατασκευής κεραίας / δημοσιοποίηση της δήλωσης τροποποίησης της κατασκευής κεραίας",
+  "measurements_eaee": "-",
+  "documents": [
+    {
+      "document_number": "524014/29-08-2024",
+      "protocol_number": "ΤΟΠΟΓΡΑΦΙΚΟ & ΑΡΧΙΤΕΚΤΟΝΙΚΑ/29-08-2024",
+      "type": "Αρχιτεκτονικά Σχέδια",
+      "file_url": "https://silia.eett.gr/silia/download/KI6EbrkREC5P0SfaQMOzy7nIwmho0GnI3wPW"
+    },
+    {
+      "document_number": "524015/29-08-2024",
+      "protocol_number": "ΜΕΣΩ ΣΗΛΥΑ/07-08-2024",
+      "type": "Αίτηση - Μελέτη Ραδιοεκπομπών ΕΕΑΕ",
+      "file_url": "https://silia.eett.gr/silia/download/orxegmx7tyxq5UTdIDKaUagBGgMr1ZCrdcdl"
+    },
+    {
+      "document_number": "524016/29-08-2024",
+      "protocol_number": "ΥΔ ΚΟΙΝΗΣ ΧΡΗΣΗΣ VODAFONE/26-08-2024",
+      "type": "Άλλο",
+      "file_url": "https://silia.eett.gr/silia/download/QRdgiHq3UA98c67BR2LpcGcItflrG66kTQ0k"
+    },
+    {
+      "document_number": "524017/29-08-2024",
+      "protocol_number": "ΥΔ ΔΙΑΣΥΝΔΕΣΗΣ VODAFONE/26-08-2024",
+      "type": "Άλλο",
+      "file_url": "https://silia.eett.gr/silia/download/w1GwsnWGxbmgV8w4ZktEqBP1CYMCC11wHGWv"
+    },
+    {
+      "document_number": "524025/29-08-2024",
+      "protocol_number": "Αρχείο Αίτησης/29-08-2024",
+      "type": "Αίτηση Άδειας Κατασκευής Κεραίας ΕΕΤΤ",
+      "file_url": "https://silia.eett.gr/silia/download/ETurgQGIN2UFqpGqy4pfiHO8oRKuSQP8xWP2"
+    },
+    {
+      "document_number": "529150/17-10-2024",
+      "protocol_number": "ΚΓ/Δ3/Δ/20546/17-10-2024",
+      "type": "Γνωμάτευση ΥΠΑ",
+      "file_url": "https://silia.eett.gr/silia/download/Fcl6oXU1vcmNdvxM0gGA0DoMGbVQmUmiGrBA"
+    },
+    {
+      "document_number": "532485/14-11-2024",
+      "protocol_number": "ΤΜΙΑ/411/16158/2024/13-11-2024",
+      "type": "Γνωμάτευση ΕΕΑΕ",
+      "file_url": "https://silia.eett.gr/silia/download/Fq19qUsNVTG7ROPAepTXLtXXc1YputhcXKA9"
+    },
+    {
+      "document_number": "537499/10-01-2025",
+      "protocol_number": "51918/07-01-2025",
+      "type": "Άδεια Κατασκευής  Κεραίας",
+      "file_url": "https://silia.eett.gr/silia/download/gL87XyevhaDxAhNfaWONHwBYLgyfXlMgWINR"
+    },
+    {
+      "document_number": "524026/29-08-2024",
+      "protocol_number": "Αρχείο Αίτησης/29-08-2024",
+      "type": "Δήλωση ΠΠΔ",
+      "file_url": "https://silia.eett.gr/silia/download/ApmYGndQgzkRIyrsyuqKl0a2Pf00ZuZCFNNR"
+    }
+  ]
+}

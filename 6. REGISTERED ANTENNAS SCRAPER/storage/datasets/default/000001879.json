@@ -1,0 +1,21 @@
+{
+  "antenna_id": "112554",
+  "address": "PENINSULA HOTEL, ΑΓΙΑ ΠΕΛΑΓΙΑ",
+  "position_code": 1147126,
+  "municipality": "Ηρακλείου Κρήτης",
+  "code_name": "PENINSULA HOTEL IRAKLIO KRITI",
+  "region": "Κρήτης",
+  "latitude": 35.415278,
+  "company": "VODAFONE",
+  "longitude": 25.018611,
+  "permit_status": "Από τα στοιχεία που τηρούνται στην Ενημερωτική Πύλη προκύπτει ότι, για τη θέση \"PENINSULA HOTEL, ΑΓΙΑ ΠΕΛΑΓΙΑ\" στον Δήμο Ηρακλείου Κρήτης Περιφέρειας  Κρήτης \n\t(κωδικός αριθμός θέσης 1147126, κωδική ονομασία \"PENINSULA HOTEL IRAKLIO KRITI\") έχει κατατεθεί από την εταιρία VODAFONE\tδήλωση εγκατάστασης κατασκευής κεραίας (αριθ. πρωτ. \n\t17748/02-06-2015) που εμπίπτει στις διατάξεις της νομοθεσίας για Εγκαταστάσεις Κατασκευών Κεραιών Χαμηλής Ηλεκτρομαγνητικής Περιβαλλοντικής Όχλησης (ΕΚΚΧΟ).",
+  "measurements_eaee": "-",
+  "documents": [
+    {
+      "document_number": "225215/23-07-2015",
+      "protocol_number": "17748/02-06-2015",
+      "type": "Δήλωση ΕΚΚΧΟ",
+      "file_url": "https://silia.eett.gr/silia/download/5e6de6e6-e5a3-4f81-b974-b20fc01bccc3"
+    }
+  ]
+}

@@ -1,0 +1,51 @@
+{
+  "antenna_id": "177571",
+  "address": "ΒΙΠΕ ΗΡΑΚΛΕΙΟΥ",
+  "position_code": 1144422,
+  "municipality": "Ηρακλείου Κρήτης",
+  "code_name": "3034422 FAITAKIS STYLIANOS ALIKARNASOS",
+  "region": "Κρήτης",
+  "latitude": 35.324444,
+  "company": "VODAFONE",
+  "longitude": 25.178056,
+  "permit_status": "Από τα στοιχεία που τηρούνται στην Ενημερωτική Πύλη προκύπτει ότι, για τη θέση \"ΒΙΠΕ ΗΡΑΚΛΕΙΟΥ\" στον Δήμο Ηρακλείου Κρήτης Περιφέρειας  Κρήτης \n\t(κωδικός αριθμός θέσης 1144422, κωδική ονομασία \"3034422 FAITAKIS STYLIANOS ALIKARNASOS\") έχει κατατεθεί από την εταιρία VODAFONE\tδήλωση εγκατάστασης κατασκευής κεραίας (αριθ. πρωτ. \n\t59315/07-02-2025) που εμπίπτει στις διατάξεις της νομοθεσίας για Εγκαταστάσεις Κατασκευών Κεραιών Χαμηλής Ηλεκτρομαγνητικής Περιβαλλοντικής Όχλησης (ΕΚΚΧΟ).",
+  "measurements_eaee": "-",
+  "documents": [
+    {
+      "document_number": "540243/07-02-2025",
+      "protocol_number": "Φωτορεαλιστική απεικόνιση κεραίας ΕΚΚΧΟ/07-02-2025",
+      "type": "Φωτογραφικό Υλικό - Σκαρίφημα",
+      "file_url": "https://silia.eett.gr/silia/download/PcgRsEPudiozmgSIYS95p4CodtXUx8VfYPg1"
+    },
+    {
+      "document_number": "540244/07-02-2025",
+      "protocol_number": "Ψηφιακός χάρτης με προβολή της θέσης ΕΚΚΧΟ/07-02-2025",
+      "type": "Φωτογραφικό Υλικό - Σκαρίφημα",
+      "file_url": "https://silia.eett.gr/silia/download/qGzgR3SxvYKihvVGlxDT6OMGt4PhPG1ZGAHT"
+    },
+    {
+      "document_number": "540245/07-02-2025",
+      "protocol_number": "Σκαρίφημα θέσης κεραίας ΕΚΚΧΟ/07-02-2025",
+      "type": "Φωτογραφικό Υλικό - Σκαρίφημα",
+      "file_url": "https://silia.eett.gr/silia/download/1YPGnMvZdZclgWcXZGMg1WRXeRIgzesh0SCI"
+    },
+    {
+      "document_number": "540246/07-02-2025",
+      "protocol_number": "ΜΕΛΕΤΗ ΕΚΚΧΟ/07-02-2025",
+      "type": "Άλλο",
+      "file_url": "https://silia.eett.gr/silia/download/gFrDnpqDMB4q338cUBxhAa8asv8SNUgUbSIU"
+    },
+    {
+      "document_number": "540247/07-02-2025",
+      "protocol_number": "Αρχείο Αίτησης/07-02-2025",
+      "type": "Δήλωση ΕΚΚΧΟ",
+      "file_url": "https://silia.eett.gr/silia/download/Qw7q7sB4UoF2RR8vEDfZAz73tLm4tCATImhT"
+    },
+    {
+      "document_number": "545613/01-04-2025",
+      "protocol_number": "ΥΔ ΕΓΚΑΤΑΣΤΑΣΗΣ/01-04-2025",
+      "type": "Άλλο",
+      "file_url": "https://silia.eett.gr/silia/download/9GrRtGWPRbB2p81XFVPsRd1GMwG0SDNyhxDK"
+    }
+  ]
+}

@@ -1,0 +1,69 @@
+{
+  "antenna_id": "155854",
+  "address": "Γραβιάς 23, Αγία Παρασκευή.",
+  "position_code": 1005599,
+  "municipality": "Αγίας Παρασκευής",
+  "code_name": "DEREE ATHENS",
+  "region": "Αττικής",
+  "latitude": 38.004722,
+  "company": "VODAFONE",
+  "longitude": 23.831389,
+  "permit_status": "Από τα στοιχεία που τηρούνται στην Ενημερωτική Πύλη προκύπτει ότι, για τη θέση \"Γραβιάς 23, Αγία Παρασκευή.\" στον Δήμο Αγίας Παρασκευής Περιφέρειας  Αττικής \n\t(κωδικός αριθμός θέσης 1005599, κωδική ονομασία \"DEREE ATHENS\") έχει κατατεθεί από την εταιρία VODAFONE\tδήλωση εγκατάστασης κατασκευής κεραίας (αριθ. πρωτ. \n\t40569/11-09-2020) που εμπίπτει στις διατάξεις της νομοθεσίας για Εγκαταστάσεις Κατασκευών Κεραιών Χαμηλής Ηλεκτρομαγνητικής Περιβαλλοντικής Όχλησης (ΕΚΚΧΟ).",
+  "measurements_eaee": "-",
+  "documents": [
+    {
+      "document_number": "415168/18-08-2020",
+      "protocol_number": "ΣΚΑΡΙΦΗΜΑ ΘΕΣΗΣ ΙΣΤΟΥ ΕΚΚΧΟ - ΚΑΤΟΨΗ/",
+      "type": "Φωτογραφικό Υλικό - Σκαρίφημα",
+      "file_url": "https://silia.eett.gr/silia/download/d614e056-2e7a-445a-963a-6e18e2df2771"
+    },
+    {
+      "document_number": "415169/18-08-2020",
+      "protocol_number": "ΦΩΤΟΓΡΑΦΙΑ ΘΕΣΗΣ ΚΕΡΑΙΑΣ ΕΚΚΧΟ ΑΠΟ GOOGLE EARTH/",
+      "type": "Φωτογραφικό Υλικό - Σκαρίφημα",
+      "file_url": "https://silia.eett.gr/silia/download/a5480757-dee8-4b02-b37c-53a301c38ac2"
+    },
+    {
+      "document_number": "415173/19-08-2020",
+      "protocol_number": "ΣΚΑΡΙΦΗΜΑ ΘΕΣΗΣ ΚΕΡΑΙΩΝ ΕΚΚΧΟ 1 ΚΑΙ 2/",
+      "type": "Φωτογραφικό Υλικό - Σκαρίφημα",
+      "file_url": "https://silia.eett.gr/silia/download/afe61ec5-7aff-4b4e-b0c3-51228da02774"
+    },
+    {
+      "document_number": "415183/20-08-2020",
+      "protocol_number": "Μελέτη συμβατότητας 2700 MHz VODAFONE/",
+      "type": "Μελέτη για τη ζώνη  2,6GHz",
+      "file_url": "https://silia.eett.gr/silia/download/c208aeaf-ff9b-4182-b39f-48c53f9cface"
+    },
+    {
+      "document_number": "415184/20-08-2020",
+      "protocol_number": "Μελέτη συμβατότητας 2700 MHz WIND/",
+      "type": "Μελέτη για τη ζώνη  2,6GHz",
+      "file_url": "https://silia.eett.gr/silia/download/193699e7-5cd0-4697-942e-fc2d80a05b6b"
+    },
+    {
+      "document_number": "415185/20-08-2020",
+      "protocol_number": "54557/20-08-2020",
+      "type": "Αποτελέσματα μελέτης στη ζώνης 2.6GHz για ΥΠΑ/ΓΕΕΘΑ",
+      "file_url": "https://silia.eett.gr/silia/download/881cf0e6-5ee0-4baa-9408-0159a782b1de"
+    },
+    {
+      "document_number": "416355/11-09-2020",
+      "protocol_number": "ΣΚΑΡΙΦΗΜΑ / ΚΑΤΟΨΗ ΘΕΣΗΣ ΕΚΚΧΟ/",
+      "type": "Φωτογραφικό Υλικό - Σκαρίφημα",
+      "file_url": "https://silia.eett.gr/silia/download/afbd1c67-3a3b-4469-b5e4-097cfff69445"
+    },
+    {
+      "document_number": "416356/11-09-2020",
+      "protocol_number": "Αρχείο Αίτησης/",
+      "type": "Δήλωση ΕΚΚΧΟ",
+      "file_url": "https://silia.eett.gr/silia/download/49e168d7-04be-474a-8187-4505800a55b0"
+    },
+    {
+      "document_number": "425800/18-12-2020",
+      "protocol_number": "85221/17-12-2020",
+      "type": "Αποτελέσματα μελέτης στη ζώνης 2.6GHz για ΥΠΑ/ΓΕΕΘΑ",
+      "file_url": "https://silia.eett.gr/silia/download/8842b3e3-d96b-4b84-b6f5-a80a380bb219"
+    }
+  ]
+}

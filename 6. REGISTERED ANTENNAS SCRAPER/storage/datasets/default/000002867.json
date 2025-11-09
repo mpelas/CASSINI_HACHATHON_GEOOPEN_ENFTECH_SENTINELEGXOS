@@ -1,0 +1,51 @@
+{
+  "antenna_id": "179878",
+  "address": "ΛΕΩΦ. ΕΙΡΗΝΗΣ 27, ΠΡΕΒΕΖΑ",
+  "position_code": 1292083,
+  "municipality": "Πρέβεζας",
+  "code_name": "PREVEZA TOWN 1 MICRO",
+  "region": "Ηπείρου",
+  "latitude": 38.958611,
+  "company": "NOVA Μ.Α.Ε.",
+  "longitude": 20.751389,
+  "permit_status": "Από τα στοιχεία που τηρούνται στην Ενημερωτική Πύλη προκύπτει ότι, για τη θέση \"ΛΕΩΦ. ΕΙΡΗΝΗΣ 27, ΠΡΕΒΕΖΑ\" στον Δήμο Πρέβεζας Περιφέρειας  Ηπείρου \n\t(κωδικός αριθμός θέσης 1292083, κωδική ονομασία \"PREVEZA TOWN 1 MICRO\") έχει κατατεθεί από την εταιρία NOVA Μ.Α.Ε.\tδήλωση εγκατάστασης κατασκευής κεραίας (αριθ. πρωτ. \n\t61437/30-05-2025) που εμπίπτει στις διατάξεις της νομοθεσίας για Εγκαταστάσεις Κατασκευών Κεραιών Χαμηλής Ηλεκτρομαγνητικής Περιβαλλοντικής Όχλησης (ΕΚΚΧΟ).",
+  "measurements_eaee": "-",
+  "documents": [
+    {
+      "document_number": "551172/30-05-2025",
+      "protocol_number": "Ψηφιακός χάρτης με προβολή της θέσης ΕΚΚΧΟ/30-05-2025",
+      "type": "Φωτογραφικό Υλικό - Σκαρίφημα",
+      "file_url": "https://silia.eett.gr/silia/download/lIYlXrOdGz3PoelxA4WUDEY7k9WWOZ0gKoaO"
+    },
+    {
+      "document_number": "551173/30-05-2025",
+      "protocol_number": "Φωτορεαλιστική Απεικόνιση/30-05-2025",
+      "type": "Φωτογραφικό Υλικό - Σκαρίφημα",
+      "file_url": "https://silia.eett.gr/silia/download/g7a2TUsYmLg6ls82qIzeKqbdO7CG634aBa1X"
+    },
+    {
+      "document_number": "551174/30-05-2025",
+      "protocol_number": "ΜΕΣΩ ΣΗΛΥΑ/30-05-2025",
+      "type": "Φωτογραφικό Υλικό - Σκαρίφημα",
+      "file_url": "https://silia.eett.gr/silia/download/175umIEr7MoWvsFRM3CgwxGY6bynbGBbNgKN"
+    },
+    {
+      "document_number": "551175/30-05-2025",
+      "protocol_number": "ΜΕΣΩ ΣΗΛΥΑ/30-05-2025",
+      "type": "Φωτογραφικό Υλικό - Σκαρίφημα",
+      "file_url": "https://silia.eett.gr/silia/download/SIGcK7GlG5s1ePIlqYFav3gwqW1M2cIWapSO"
+    },
+    {
+      "document_number": "551176/30-05-2025",
+      "protocol_number": "Μελέτη ΕΚΚΧΟ/29-05-2025",
+      "type": "Άλλο",
+      "file_url": "https://silia.eett.gr/silia/download/h927NiTLhqRChOx0VHTrCb7l9DHG1WiSYr2D"
+    },
+    {
+      "document_number": "551177/30-05-2025",
+      "protocol_number": "Αρχείο Αίτησης/30-05-2025",
+      "type": "Δήλωση ΕΚΚΧΟ",
+      "file_url": "https://silia.eett.gr/silia/download/UtSqY8xkuek57mHl4WAQ4m6AU8GUq6hfWD3y"
+    }
+  ]
+}

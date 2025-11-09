@@ -1,0 +1,81 @@
+{
+  "antenna_id": "160413",
+  "address": "ΑΓΙΟΣ ΠΑΝΤΕΛΕΗΜΩΝ, ΜΕΘΑΝΑ",
+  "position_code": 1405440,
+  "municipality": "Τροιζηνίας",
+  "code_name": "ΜΕΘΑΝΑ - Χ",
+  "region": "Αττικής",
+  "latitude": 37.591667,
+  "company": "OTE",
+  "longitude": 23.369722,
+  "permit_status": "Από τα στοιχεία που τηρούνται στην Ενημερωτική Πύλη προκύπτει ότι, για τη θέση \"ΑΓΙΟΣ ΠΑΝΤΕΛΕΗΜΩΝ, ΜΕΘΑΝΑ\" στον Δήμο Τροιζηνίας Περιφέρειας  Αττικής \n\t(κωδικός αριθμός θέσης 1405440, κωδική ονομασία \"ΜΕΘΑΝΑ - Χ\") χορηγήθηκε, με την Απόφαση της ΕΕΤΤ \n43266/24-02-2022, άδεια κατασκευής κεραίας στην εταιρία OTE. \nΑπό τo έγγραφο της άδειας μπορείτε να ενημερωθείτε για τις σχετικές εγκρίσεις των συναρμόδιων φορέων, καθώς και εάν πρόκειται για τροποποίηση παλαιότερης άδειας.",
+  "measurements_eaee": "-",
+  "documents": [
+    {
+      "document_number": "441856/27-09-2021",
+      "protocol_number": "ΜΕΣΩ ΣΗΛΥΑ/",
+      "type": "Τοπογραφικό",
+      "file_url": "https://silia.eett.gr/silia/download/fda61e30-329f-4bfe-ace7-6317e58c4c4a"
+    },
+    {
+      "document_number": "441857/27-09-2021",
+      "protocol_number": "ΜΕΣΩ ΣΗΛΥΑ/",
+      "type": "Αρχιτεκτονικά Σχέδια",
+      "file_url": "https://silia.eett.gr/silia/download/c51314f6-9199-4be5-85d3-26ca7ef2e0f4"
+    },
+    {
+      "document_number": "441858/27-09-2021",
+      "protocol_number": "ΜΕΣΩ ΣΗΛΥΑ/08-04-2021",
+      "type": "Αίτηση - Μελέτη Ραδιοεκπομπών ΕΕΑΕ",
+      "file_url": "https://silia.eett.gr/silia/download/a730ff72-5fc1-4523-afe2-ace813a2ef99"
+    },
+    {
+      "document_number": "441859/27-09-2021",
+      "protocol_number": "Δ3/Δ/15273 /3443 /18-4 -2002\t/",
+      "type": "Γνωμάτευση ΥΠΑ",
+      "file_url": null
+    },
+    {
+      "document_number": "441860/27-09-2021",
+      "protocol_number": "ΜΕΣΩ ΣΗΛΥΑ/27-09-2021",
+      "type": "Αίτηση ΥΠΑ",
+      "file_url": "https://silia.eett.gr/silia/download/235dea31-d0c0-47f1-8f38-589755f63831"
+    },
+    {
+      "document_number": "441862/27-09-2021",
+      "protocol_number": "Αρχείο Αίτησης/",
+      "type": "Αίτηση Άδειας Κατασκευής Κεραίας ΕΕΤΤ",
+      "file_url": "https://silia.eett.gr/silia/download/d6858d20-1df6-4cb9-9f58-5ce582cab46f"
+    },
+    {
+      "document_number": "445399/01-11-2021",
+      "protocol_number": "Μ.ι./411/19715/2021/01-11-2021",
+      "type": "Γνωμάτευση ΕΕΑΕ",
+      "file_url": "https://silia.eett.gr/silia/download/ff619c9e-25d1-4056-84c3-a6542cf88cb9"
+    },
+    {
+      "document_number": "445426/02-11-2021",
+      "protocol_number": "Δ3/Δ/15273/3443/18-04-2002",
+      "type": "Γνωμάτευση ΥΠΑ",
+      "file_url": "https://silia.eett.gr/silia/download/b8cdd67f-a381-4475-ab6a-71405c2d07a8"
+    },
+    {
+      "document_number": "452261/01-03-2022",
+      "protocol_number": "Άδεια/",
+      "type": "Άδεια Κατασκευής  Κεραίας",
+      "file_url": "https://silia.eett.gr/silia/download/b9d10a98-1e06-4cef-a6d1-1bd5d7f4189a"
+    },
+    {
+      "document_number": "441861/27-09-2021",
+      "protocol_number": "ΣΥΝΟΔΕΥΤΙΚΑ ΕΓΓΡΑΦΑ/",
+      "type": "Δήλωση υπαγωγής σε ΠΠΔ και Συνοδευτικά Έγγραφα",
+      "file_url": "https://silia.eett.gr/silia/download/19157a83-1763-4509-a171-ca2847d382cf"
+    },
+    {
+      "document_number": "441863/27-09-2021",
+      "protocol_number": "Αρχείο Αίτησης/",
+      "type": "Δήλωση ΠΠΔ",
+      "file_url": "https://silia.eett.gr/silia/download/8263859d-6452-4750-8ddb-5598608ca12f"
+    }
+  ]
+}

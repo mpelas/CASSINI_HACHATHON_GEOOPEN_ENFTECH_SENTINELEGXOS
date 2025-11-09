@@ -1,0 +1,45 @@
+{
+  "antenna_id": "171873",
+  "address": "ΕΥΑΓΓΕΛΙΣΜΟΣ ΛΑΡΙΣΑΣ",
+  "position_code": 1151704,
+  "municipality": "Τεμπών",
+  "code_name": "3031704 SYZEFXIS AT TEMPON LARISA",
+  "region": "Θεσσαλίας",
+  "latitude": 39.833611,
+  "company": "VODAFONE",
+  "longitude": 22.514167,
+  "permit_status": "Από τα στοιχεία που τηρούνται στην Ενημερωτική Πύλη προκύπτει ότι, για τη θέση \"ΕΥΑΓΓΕΛΙΣΜΟΣ ΛΑΡΙΣΑΣ\" στον Δήμο Τεμπών Περιφέρειας  Θεσσαλίας \n\t(κωδικός αριθμός θέσης 1151704, κωδική ονομασία \"3031704 SYZEFXIS AT TEMPON LARISA\") έχει κατατεθεί από την εταιρία VODAFONE\tδήλωση εγκατάστασης κατασκευής κεραίας (αριθ. πρωτ. \n\t54564/31-01-2024) που εμπίπτει στις διατάξεις της νομοθεσίας για Εγκαταστάσεις Κατασκευών Κεραιών Χαμηλής Ηλεκτρομαγνητικής Περιβαλλοντικής Όχλησης (ΕΚΚΧΟ).",
+  "measurements_eaee": "-",
+  "documents": [
+    {
+      "document_number": "505554/24-01-2024",
+      "protocol_number": "Φωτορεαλιστική απεικόνιση κεραιας ΕΚΚΧΟ/",
+      "type": "Φωτογραφικό Υλικό - Σκαρίφημα",
+      "file_url": "https://silia.eett.gr/silia/download/d6771a76-ed60-48de-9e5a-76cb6536d08d"
+    },
+    {
+      "document_number": "505560/24-01-2024",
+      "protocol_number": "Ψηφιακός Χάρτης με προβολή της θέσης της κεραίας ΕΚΚΧΟ/",
+      "type": "Φωτογραφικό Υλικό - Σκαρίφημα",
+      "file_url": "https://silia.eett.gr/silia/download/bf838dd5-e7dc-4ed9-805f-e553d175493b"
+    },
+    {
+      "document_number": "506191/31-01-2024",
+      "protocol_number": "Μελέτη ΕΚΚΧΟ/24-01-2024",
+      "type": "Άλλο",
+      "file_url": "https://silia.eett.gr/silia/download/b3440874-486c-4ad9-9acf-bb6689a4503a"
+    },
+    {
+      "document_number": "506192/31-01-2024",
+      "protocol_number": "Αρχείο Αίτησης/",
+      "type": "Δήλωση ΕΚΚΧΟ",
+      "file_url": "https://silia.eett.gr/silia/download/c4fb60e8-18ad-4305-b7b1-1a45c6993150"
+    },
+    {
+      "document_number": "512024/03-04-2024",
+      "protocol_number": "ΥΔ Εγκατάστασης/03-04-2024",
+      "type": "Άλλο",
+      "file_url": "https://silia.eett.gr/silia/download/uXnCiq4u0HbEwkO7hDk6M8RsvfZZirDLg7Hd"
+    }
+  ]
+}

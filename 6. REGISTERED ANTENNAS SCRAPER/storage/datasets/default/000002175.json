@@ -1,0 +1,33 @@
+{
+  "antenna_id": "144275",
+  "address": "Οδός Ελλησπόντου 25, Άνω Νέα Σμύρνη.",
+  "position_code": 1110755,
+  "municipality": "Νέας Σμύρνης",
+  "code_name": "ANO NEA SMIRNI REP.",
+  "region": "Αττικής",
+  "latitude": 37.942222,
+  "company": "VODAFONE",
+  "longitude": 23.721667,
+  "permit_status": "Από τα στοιχεία που τηρούνται στην Ενημερωτική Πύλη προκύπτει ότι, για τη θέση \"Οδός Ελλησπόντου 25, Άνω Νέα Σμύρνη.\" στον Δήμο Νέας Σμύρνης Περιφέρειας  Αττικής \n\t(κωδικός αριθμός θέσης 1110755, κωδική ονομασία \"ANO NEA SMIRNI REP.\") έχει κατατεθεί από την εταιρία VODAFONE\tδήλωση εγκατάστασης κατασκευής κεραίας (αριθ. πρωτ. \n\t35689/25-11-2019) που εμπίπτει στις διατάξεις της νομοθεσίας για Εγκαταστάσεις Κατασκευών Κεραιών Χαμηλής Ηλεκτρομαγνητικής Περιβαλλοντικής Όχλησης (ΕΚΚΧΟ).",
+  "measurements_eaee": "-",
+  "documents": [
+    {
+      "document_number": "384424/25-11-2019",
+      "protocol_number": "ΦΩΤΟΓΡΑΦΙΑ ΘΕΣΗΣ ΚΕΡΑΙΩΝ ΕΚΚΧΟ 1 ΚΑΙ 2./",
+      "type": "Φωτογραφικό Υλικό - Σκαρίφημα",
+      "file_url": "https://silia.eett.gr/silia/download/29a5caf8-e544-4a3a-a6cc-d3072b60c03c"
+    },
+    {
+      "document_number": "384425/25-11-2019",
+      "protocol_number": "Αρχείο Αίτησης/",
+      "type": "Δήλωση ΕΚΚΧΟ",
+      "file_url": "https://silia.eett.gr/silia/download/ca0f3b29-7aef-4731-a174-04398b03ff40"
+    },
+    {
+      "document_number": "398430/04-03-2020",
+      "protocol_number": "Υπεύθυνη Δηλωση WIND /",
+      "type": "Άλλο",
+      "file_url": "https://silia.eett.gr/silia/download/427c2354-0296-4d05-9de0-157394d20eb6"
+    }
+  ]
+}

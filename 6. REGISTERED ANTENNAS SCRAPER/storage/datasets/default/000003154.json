@@ -1,0 +1,111 @@
+{
+  "antenna_id": "175441",
+  "address": "ΤΚ ΛΕΥΚΩΝΑ",
+  "position_code": 5000099,
+  "municipality": "Σερρών",
+  "code_name": "ΛΕΥΚΩΝΑΣ-Α1",
+  "region": "Κεντρικής Μακεδονίας",
+  "latitude": 41.095278,
+  "company": "ERMIS-WISP",
+  "longitude": 23.505833,
+  "permit_status": "Από τα στοιχεία που τηρούνται στην Ενημερωτική Πύλη προκύπτει ότι, για τη θέση \"ΤΚ ΛΕΥΚΩΝΑ\" στον Δήμο Σερρών Περιφέρειας  Κεντρικής Μακεδονίας \n\t(κωδικός αριθμός θέσης 5000099, κωδική ονομασία \"ΛΕΥΚΩΝΑΣ-Α1\") έχει κατατεθεί από την εταιρία ERMIS-WISP\tδήλωση εγκατάστασης κατασκευής κεραίας (αριθ. πρωτ. \n\t58237/08-11-2024) που εμπίπτει στις διατάξεις της νομοθεσίας για Εγκαταστάσεις Κατασκευών Κεραιών Χαμηλής Ηλεκτρομαγνητικής Περιβαλλοντικής Όχλησης (ΕΚΚΧΟ).",
+  "measurements_eaee": "-",
+  "documents": [
+    {
+      "document_number": "531782/07-11-2024",
+      "protocol_number": "ΦΩΤΟΡΕΑΛΙΣΤΙΚΟ/07-11-2024",
+      "type": "Φωτογραφικό Υλικό - Σκαρίφημα",
+      "file_url": "https://silia.eett.gr/silia/download/bDUTKLn6smHZmppDQ9zSzQeBk0c3rysNfGlg"
+    },
+    {
+      "document_number": "531783/07-11-2024",
+      "protocol_number": "ΤΟΠΟΓΡΑΦΙΚΟ/07-11-2024",
+      "type": "Τοπογραφικό",
+      "file_url": "https://silia.eett.gr/silia/download/ZZQcSHfQgnlO2ZGqS4gYgtLitVQr4wGGi8yA"
+    },
+    {
+      "document_number": "531784/08-11-2024",
+      "protocol_number": "Συμφωνητικο Μισθωσης/07-11-2024",
+      "type": "Άλλο",
+      "file_url": "https://silia.eett.gr/silia/download/9f88dLzIO0Ra9FkXkgTgbOGguxgVh9V9N6fx"
+    },
+    {
+      "document_number": "531785/08-11-2024",
+      "protocol_number": "ΟΨΗ ΧΩΡΩΝ ΠΡΟΣΤΑΣΙΑΣ/08-11-2024",
+      "type": "Αρχιτεκτονικά [Κάτοψη - Τομή - Όψη]",
+      "file_url": "https://silia.eett.gr/silia/download/Fh73NwwRg8GEx1We1PkGEaq4Pk9SInANkYCX"
+    },
+    {
+      "document_number": "531786/08-11-2024",
+      "protocol_number": "ΟΨΗ ΙΣΤΟΥ A1/08-11-2024",
+      "type": "Αρχιτεκτονικά [Κάτοψη - Τομή - Όψη]",
+      "file_url": "https://silia.eett.gr/silia/download/G7pnEDqPSBnAnkbZHipDzXKKuGkeqBahP2vY"
+    },
+    {
+      "document_number": "531787/08-11-2024",
+      "protocol_number": "ΚΑΤΟΨΗ ΧΩΡΩΝ ΠΡΟΣΤΑΣΙΑΣ/08-11-2024",
+      "type": "Αρχιτεκτονικά [Κάτοψη - Τομή - Όψη]",
+      "file_url": "https://silia.eett.gr/silia/download/p9YxZfgnvObg1dZNufBGvyLKg8zsPmIvVOPg"
+    },
+    {
+      "document_number": "531788/08-11-2024",
+      "protocol_number": "ΚΑΤΟΨΗ ΙΣΤΟΥ/08-11-2024",
+      "type": "Αρχιτεκτονικά [Κάτοψη - Τομή - Όψη]",
+      "file_url": "https://silia.eett.gr/silia/download/1fH5oTKDhGm3kTOZZrNcyOsOL8TVPTkKYY8A"
+    },
+    {
+      "document_number": "531789/08-11-2024",
+      "protocol_number": "ΚΑΤΑΣΚΕΥΗ ΙΣΤΟΥ/08-11-2024",
+      "type": "Άλλο",
+      "file_url": "https://silia.eett.gr/silia/download/560u1Kt2Lcg899ZPTasuNMrGtZ7g7tRMMgKP"
+    },
+    {
+      "document_number": "531790/08-11-2024",
+      "protocol_number": "Mimosa-N5-45x2/08-11-2024",
+      "type": "Άλλο",
+      "file_url": "https://silia.eett.gr/silia/download/1I9cdGF1C0UX9gfQBNygSUQ1pgVYOYloIa4I"
+    },
+    {
+      "document_number": "531791/08-11-2024",
+      "protocol_number": "Mimosa-C5c-Technical Specifications/08-11-2024",
+      "type": "Άλλο",
+      "file_url": "https://silia.eett.gr/silia/download/xOzV5gs36mADlPG6ZzmsLhkU4ZIbeWdv4tav"
+    },
+    {
+      "document_number": "531792/08-11-2024",
+      "protocol_number": "JRC-32DD MIMO/08-11-2024",
+      "type": "Άλλο",
+      "file_url": "https://silia.eett.gr/silia/download/OgykpZiNIPwKGmG1xzYhP3GMuHbuHqAgUgKW"
+    },
+    {
+      "document_number": "531793/08-11-2024",
+      "protocol_number": "FIA-06-710SW/08-11-2024",
+      "type": "Άλλο",
+      "file_url": "https://silia.eett.gr/silia/download/v06gMGoVOSridNmKgsM5qHu41QMAh0oiIW9D"
+    },
+    {
+      "document_number": "531794/08-11-2024",
+      "protocol_number": "ANT-JRMC-680-17-18R/08-11-2024",
+      "type": "Άλλο",
+      "file_url": "https://silia.eett.gr/silia/download/vviYBTxOBRrdOvcSGstC4aAlIvGSmXvlPZXK"
+    },
+    {
+      "document_number": "531795/08-11-2024",
+      "protocol_number": "Αρχείο Αίτησης/08-11-2024",
+      "type": "Δήλωση ΕΚΚΧΟ",
+      "file_url": "https://silia.eett.gr/silia/download/VsGqWQHVg3p6W5YUIlxSmDPuWMVeOkRgiWki"
+    },
+    {
+      "document_number": "535145/10-12-2024",
+      "protocol_number": "ΥΠΕΥΘΥΝΗ ΔΗΛΩΣΗ/10-12-2024",
+      "type": "Άλλο",
+      "file_url": "https://silia.eett.gr/silia/download/wG4tUqaIluKL92NVL0yRsBgWO7RMm1Yr4GeG"
+    },
+    {
+      "document_number": "541949/25-02-2025",
+      "protocol_number": "ΜΕΛΕΤΗ ΡΑΔΙΟΕΚΠΟΜΠΩΝ ΚΕΡΑΙΑΣ ΕΚΚΧΟ/25-02-2025",
+      "type": "Μελέτη Ραδιοεκπομπών",
+      "file_url": "https://silia.eett.gr/silia/download/AWX1tM9eaI2SPWe4ldl8lgpzK6xM5V1QtdfI"
+    }
+  ]
+}

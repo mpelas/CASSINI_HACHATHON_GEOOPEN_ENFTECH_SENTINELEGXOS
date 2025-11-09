@@ -1,0 +1,117 @@
+{
+  "antenna_id": "71293",
+  "address": "ΕΠΙ ΑΝΩΝΥΜΗΣ ΟΔΟΥ ΣΙΣΤΡΟΥΝΙ BTB(ΑΡΔΟΣΗ  Α/Δ)  ,Δ.Δ. ΑΡΔΟΣΗΣ",
+  "position_code": 250028,
+  "municipality": "Δωδώνης",
+  "code_name": "ΣΙΣΤΡΟΥΝΙ ΒΤΒ (ΑΡΔΟΣΗ Α/Δ)",
+  "region": "Ηπείρου",
+  "latitude": 39.419722,
+  "company": "OTE",
+  "longitude": 20.726667,
+  "permit_status": "Από τα στοιχεία που τηρούνται στην Ενημερωτική Πύλη προκύπτει ότι, για τη θέση \"ΕΠΙ ΑΝΩΝΥΜΗΣ ΟΔΟΥ ΣΙΣΤΡΟΥΝΙ BTB(ΑΡΔΟΣΗ  Α/Δ)  ,Δ.Δ. ΑΡΔΟΣΗΣ\" στον Δήμο Δωδώνης Περιφέρειας  Ηπείρου \n\t(κωδικός αριθμός θέσης 0250028, κωδική ονομασία \"ΣΙΣΤΡΟΥΝΙ ΒΤΒ (ΑΡΔΟΣΗ Α/Δ)\") χορηγήθηκε, με την Απόφαση της ΕΕΤΤ \n10460/Φ610/30-12-2013, άδεια κατασκευής κεραίας στην εταιρία OTE. \nΑπό τo έγγραφο της άδειας μπορείτε να ενημερωθείτε για τις σχετικές εγκρίσεις των συναρμόδιων φορέων, καθώς και εάν πρόκειται για τροποποίηση παλαιότερης άδειας.\n\tΗ άδεια χορηγήθηκε κατόπιν της με Αριθ. Πρωτ. 48072/12-09-2008 αίτησης. \n\tΓια την έκδοση της άδειας εφαρμόστηκε το προγενέστερο του Ν.4053/2012 νομοθετικό πλαίσιο, καθώς κατά δήλωση της εταιρίας, η κατασκευή πληρούσε \nτις προϋποθέσεις του άρθρου 31 του Ν.4053/2012. \nΕπιπλέον, έχει υποβληθεί η με αριθ. πρωτ. ΣΗΛΥΑ 59549/25-02-2025 (Δήλωση παρ. 1Β, άρθρ. 28, ν. 4635/2019) δήλωση που αφορά σε τροποποίηση/επικαιροποίηση στοιχείων της κατασκευής κεραίας που αφορούν τον(ους) Τομέα(εις) Αδειοδότησης:Κεραιοσυστήματα, Περιβάλλον.\n\tΔιευκρινίζεται ότι υπό ορισμένες προϋποθέσεις για την τροποποίηση αδειοδοτημένης κατασκευής κεραίας ή/και την επικαιροποίηση στοιχείων της δεν απαιτείται η έκδοση νέας άδειας \n\tκατασκευής κεραίας ή η τροποποίηση της υφιστάμενης άδειας κατασκευής κεραίας, αλλά απαιτείται η υποβολή κατάλληλης δήλωσης από τον κάτοχο της κατασκευής κεραίας συνοδευόμενη \n\tαπό επικαιροποίηση επιμέρους εγκρίσεων.",
+  "measurements_eaee": "-",
+  "documents": [
+    {
+      "document_number": "4981/16-11-2012",
+      "protocol_number": "23522/26-03-2008",
+      "type": "Αίτηση / Μελέτη για Έγκριση Περιβαλλοντικών Επιπτώσεων",
+      "file_url": "https://silia.eett.gr/silia/download/4e6158bf-a1ee-4fd4-8773-7c3b3f854edd"
+    },
+    {
+      "document_number": "10634/16-11-2012",
+      "protocol_number": "Μ.ι./411/4282/28-09-2009",
+      "type": "Γνωμάτευση ΕΕΑΕ",
+      "file_url": "https://silia.eett.gr/silia/download/c17282dd-fb7c-41bb-81ce-0d4289892d52"
+    },
+    {
+      "document_number": "27006/16-11-2012",
+      "protocol_number": "48072/12-09-2008",
+      "type": "Αίτηση Άδειας Κατασκευής Κεραίας ΕΕΤΤ (νομίμως λειτουργούσα)",
+      "file_url": "https://silia.eett.gr/silia/download/2f3f9731-fffd-4473-88c7-1534601b6181"
+    },
+    {
+      "document_number": "84708/01-08-2013",
+      "protocol_number": "139/05-07-2007",
+      "type": "Αποδεικτικό Καταβολής Τελών ΕΕΤΤ",
+      "file_url": "https://silia.eett.gr/silia/download/1832ba53-363c-4e3f-95cf-01b2be2d6b3d"
+    },
+    {
+      "document_number": "84710/01-08-2013",
+      "protocol_number": "Δ3/Δ/22112/4742/11-06-2004",
+      "type": "Γνωμάτευση ΥΠΑ",
+      "file_url": "https://silia.eett.gr/silia/download/613b9a73-3213-4dd4-9398-f1eee843ff70"
+    },
+    {
+      "document_number": "84711/01-08-2013",
+      "protocol_number": "35411/2185/02-08-2010",
+      "type": "Έγκριση Περιβαλλοντικών Όρων",
+      "file_url": "https://silia.eett.gr/silia/download/a3cde764-eae5-41a3-993d-e8682a84c7f7"
+    },
+    {
+      "document_number": "84712/01-08-2013",
+      "protocol_number": "ΥΠΕΥΘΥΝΗ ΔΗΛΩΣΗ ΑΠΟ ΚΟΙΝΟΥ ΧΡΗΣΗΣ/",
+      "type": "Άλλο",
+      "file_url": "https://silia.eett.gr/silia/download/0071707c-12d4-4440-b6db-d8da13a69183"
+    },
+    {
+      "document_number": "84733/01-08-2013",
+      "protocol_number": "Αρχείο Αίτησης/",
+      "type": "Αίτηση Άδειας Κατασκευής Κεραίας ΕΕΤΤ",
+      "file_url": "https://silia.eett.gr/silia/download/0a86e404-fdc9-49b3-ad30-a04114a20f37"
+    },
+    {
+      "document_number": "86488/01-08-2013",
+      "protocol_number": "23522/26-03-2008",
+      "type": "Αίτηση / Μελέτη για Έγκριση Περιβαλλοντικών Επιπτώσεων (νόμιμη λειτουργία)",
+      "file_url": null
+    },
+    {
+      "document_number": "105208/10-10-2013",
+      "protocol_number": "693/24/04-06-2013",
+      "type": "Διοικητική Πράξη / Γνωμάτευση",
+      "file_url": "https://silia.eett.gr/silia/download/791f7161-60aa-4ebd-b296-b79a9b67adcd"
+    },
+    {
+      "document_number": "121664/14-01-2014",
+      "protocol_number": "10460/Φ610/30-12-2013",
+      "type": "Άδεια Κατασκευής  Κεραίας",
+      "file_url": "https://silia.eett.gr/silia/download/e711bc35-403e-4ec9-821a-e674a09ec710"
+    },
+    {
+      "document_number": "541940/25-02-2025",
+      "protocol_number": "ΤΟΠΟΓΡΑΦΙΚΟ/01-02-2024",
+      "type": "Τοπογραφικό",
+      "file_url": "https://silia.eett.gr/silia/download/TsXPoMllXngDVZ7hIUOEoZDqksggeckKXNbh"
+    },
+    {
+      "document_number": "541941/25-02-2025",
+      "protocol_number": "ΑΡΧΙΤΕΚΤΟΝΙΚΑ/01-08-2024",
+      "type": "Αρχιτεκτονικά Σχέδια",
+      "file_url": "https://silia.eett.gr/silia/download/BoFPGmKpH5Z7wuh5ZH1r4BYnnP9WtOCYnHve"
+    },
+    {
+      "document_number": "541942/25-02-2025",
+      "protocol_number": "ΜΕΛΕΤΗ ΕΕΑΕ/04-02-2025",
+      "type": "Αίτηση - Μελέτη Ραδιοεκπομπών ΕΕΑΕ",
+      "file_url": "https://silia.eett.gr/silia/download/vS5cv6HgQC6KSwAGSHdg2izOHLg5BGK7XHTD"
+    },
+    {
+      "document_number": "541943/25-02-2025",
+      "protocol_number": "02500280031591/19-12-2016",
+      "type": "Έγκριση δομικών κατασκευών (έντυπη)",
+      "file_url": "https://silia.eett.gr/silia/download/9XhDBv14hyebyns4UYY61YSRZxtE4FKoYOva"
+    },
+    {
+      "document_number": "542006/25-02-2025",
+      "protocol_number": "Αρχείο Αίτησης/25-02-2025",
+      "type": "Δήλωση ΔΤΚΚ",
+      "file_url": "https://silia.eett.gr/silia/download/tOnYlhSfiYHRu8c7pRtTwnaHQcnWEt0Xgg5g"
+    },
+    {
+      "document_number": "550787/29-05-2025",
+      "protocol_number": "TMIA/411/7205/2025/28-05-2025",
+      "type": "Γνωμάτευση ΕΕΑΕ",
+      "file_url": "https://silia.eett.gr/silia/download/13Cg2El6RtqZFeiA3fTEQaAgTMhF1hLZcoaA"
+    }
+  ]
+}

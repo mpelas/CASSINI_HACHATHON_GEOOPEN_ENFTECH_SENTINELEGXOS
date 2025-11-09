@@ -1,0 +1,39 @@
+{
+  "antenna_id": "170980",
+  "address": "ΕΘΝΙΚΗΣ ΑΝΤΙΣΤΑΣΕΩΣ 39 - ΠΕΙΡΑΙΑΣ",
+  "position_code": 1496136,
+  "municipality": "Πειραιώς",
+  "code_name": "CONTRADE_PIRAIAS",
+  "region": "Αττικής",
+  "latitude": 37.947222,
+  "company": "OTE",
+  "longitude": 23.646944,
+  "permit_status": "Από τα στοιχεία που τηρούνται στην Ενημερωτική Πύλη προκύπτει ότι, για τη θέση \"ΕΘΝΙΚΗΣ ΑΝΤΙΣΤΑΣΕΩΣ 39 - ΠΕΙΡΑΙΑΣ\" στον Δήμο Πειραιώς Περιφέρειας  Αττικής \n\t(κωδικός αριθμός θέσης 1496136, κωδική ονομασία \"CONTRADE_PIRAIAS\") έχει κατατεθεί από την εταιρία OTE\tδήλωση εγκατάστασης κατασκευής κεραίας (αριθ. πρωτ. \n\t55168/13-03-2024) που εμπίπτει στις διατάξεις της νομοθεσίας για Εγκαταστάσεις Κατασκευών Κεραιών Χαμηλής Ηλεκτρομαγνητικής Περιβαλλοντικής Όχλησης (ΕΚΚΧΟ).",
+  "measurements_eaee": "-",
+  "documents": [
+    {
+      "document_number": "500306/13-11-2023",
+      "protocol_number": "ΦΩΤΟΓΡΑΦΙΑ/",
+      "type": "Φωτογραφικό Υλικό - Σκαρίφημα",
+      "file_url": "https://silia.eett.gr/silia/download/fb5d659c-f9a1-47c3-84e4-0788ea7f65f0"
+    },
+    {
+      "document_number": "510017/13-03-2024",
+      "protocol_number": "ΜΕΛΕΤΗ/13-03-2024",
+      "type": "Αίτηση - Μελέτη Ραδιοεκπομπών ΕΕΑΕ",
+      "file_url": "https://silia.eett.gr/silia/download/fHfdIf9veE8e4EDEoAqfZ0kilCBm19Zee2LU"
+    },
+    {
+      "document_number": "510167/13-03-2024",
+      "protocol_number": "Αρχείο Αίτησης/13-03-2024",
+      "type": "Δήλωση ΕΚΚΧΟ",
+      "file_url": "https://silia.eett.gr/silia/download/0UpvihylaxVmhbTvh3lNILXQoatkhR3737HG"
+    },
+    {
+      "document_number": "527888/04-10-2024",
+      "protocol_number": "ΥΠ.ΔΗΛΩΣΗ/04-10-2024",
+      "type": "Άλλο",
+      "file_url": "https://silia.eett.gr/silia/download/phg5Qqg9EIm81VGXySosDPDS76luWYMTX4Ap"
+    }
+  ]
+}

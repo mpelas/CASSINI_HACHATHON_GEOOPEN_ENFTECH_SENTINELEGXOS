@@ -1,0 +1,45 @@
+{
+  "antenna_id": "159300",
+  "address": "ΑΡΧΑΙΟ ΣΤΑΔΙΟ ΟΛΥΜΠΙΑΣ",
+  "position_code": 1409208,
+  "municipality": "Αρχαίας Ολυμπίας",
+  "code_name": "OLYMP_STAD_WIFI",
+  "region": "Δυτικής Ελλάδας",
+  "latitude": 37.639444,
+  "company": "OTE",
+  "longitude": 21.631944,
+  "permit_status": "Από τα στοιχεία που τηρούνται στην Ενημερωτική Πύλη προκύπτει ότι, για τη θέση \"ΑΡΧΑΙΟ ΣΤΑΔΙΟ ΟΛΥΜΠΙΑΣ\" στον Δήμο Αρχαίας Ολυμπίας Περιφέρειας  Δυτικής Ελλάδας \n\t(κωδικός αριθμός θέσης 1409208, κωδική ονομασία \"OLYMP_STAD_WIFI\") έχει κατατεθεί από την εταιρία OTE\tδήλωση εγκατάστασης κατασκευής κεραίας (αριθ. πρωτ. \n\t43786/18-05-2021) που εμπίπτει στις διατάξεις της νομοθεσίας για Εγκαταστάσεις Κατασκευών Κεραιών Χαμηλής Ηλεκτρομαγνητικής Περιβαλλοντικής Όχλησης (ΕΚΚΧΟ).",
+  "measurements_eaee": "-",
+  "documents": [
+    {
+      "document_number": "435002/17-05-2021",
+      "protocol_number": "ΦΩΤΟΓΡΑΦΙΑ/",
+      "type": "Φωτογραφικό Υλικό - Σκαρίφημα",
+      "file_url": "https://silia.eett.gr/silia/download/39a223c2-76cd-4ec1-94e2-f8d0fd3ca114"
+    },
+    {
+      "document_number": "435003/17-05-2021",
+      "protocol_number": "ΦΩΤΟΓΡΑΦΙΑ/",
+      "type": "Φωτογραφικό Υλικό - Σκαρίφημα",
+      "file_url": "https://silia.eett.gr/silia/download/ea96e85d-fe5b-49fc-93fa-19ad7be7a350"
+    },
+    {
+      "document_number": "435015/17-05-2021",
+      "protocol_number": "40063/03-03-2021",
+      "type": "Γνωμοδότηση ΕΠΚΑ",
+      "file_url": "https://silia.eett.gr/silia/download/fc4ba316-b92b-4b6c-8157-cd5dd8624087"
+    },
+    {
+      "document_number": "435120/18-05-2021",
+      "protocol_number": "Αρχείο Αίτησης/",
+      "type": "Δήλωση ΕΚΚΧΟ",
+      "file_url": "https://silia.eett.gr/silia/download/d70fd422-9229-40cb-ae25-a2b27b56f80e"
+    },
+    {
+      "document_number": "456693/13-04-2022",
+      "protocol_number": "4144/13-04-2022",
+      "type": "Έγκριση Αρμοδίου Φορέα",
+      "file_url": "https://silia.eett.gr/silia/download/45db170d-d7d9-49e5-ab37-92abfd3e0775"
+    }
+  ]
+}

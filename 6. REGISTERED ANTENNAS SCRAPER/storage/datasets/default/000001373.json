@@ -1,0 +1,81 @@
+{
+  "antenna_id": "150628",
+  "address": "Δ.Δ.ΔΥΡΦΥΩΝ , ΕΥΒΟΙΑ",
+  "position_code": 130062,
+  "municipality": "Διρφύων - Μεσσαπίων",
+  "code_name": "ΔΙΡΦΥ ΨΑΧΝΩΝ Α/Δ",
+  "region": "Στερεάς Ελλάδας",
+  "latitude": 38.598611,
+  "company": "OTE",
+  "longitude": 23.868611,
+  "permit_status": "Από τα στοιχεία που τηρούνται στην Ενημερωτική Πύλη προκύπτει ότι, για τη θέση \"Δ.Δ.ΔΥΡΦΥΩΝ , ΕΥΒΟΙΑ\" στον Δήμο Διρφύων - Μεσσαπίων Περιφέρειας  Στερεάς Ελλάδας \n\t(κωδικός αριθμός θέσης 0130062, κωδική ονομασία \"ΔΙΡΦΥ ΨΑΧΝΩΝ Α/Δ \") χορηγήθηκε, με την Απόφαση της ΕΕΤΤ \n40319/Φ610/16-04-2021, άδεια κατασκευής κεραίας στην εταιρία OTE. \nΑπό τo έγγραφο της άδειας μπορείτε να ενημερωθείτε για τις σχετικές εγκρίσεις των συναρμόδιων φορέων, καθώς και εάν πρόκειται για τροποποίηση παλαιότερης άδειας.\nΗ άδεια χορηγήθηκε με τη διαδικασία αδειοδότησης που ορίζει ο ν. 4635/2019, κατόπιν της με αριθ. πρωτ. 37361/24-02-2020 \n\tαίτησης, και βάσει σχετικής δήλωσης του κατόχου της περί υπαγωγή της κατασκευής κεραίας στο άρθρο 34 του ν. 4635/2019.",
+  "measurements_eaee": "-",
+  "documents": [
+    {
+      "document_number": "395812/24-02-2020",
+      "protocol_number": "ΜΕΣΩ ΣΗΛΥΑ/",
+      "type": "Τοπογραφικό",
+      "file_url": "https://silia.eett.gr/silia/download/a6ec2cf0-1ff6-41ea-a4ef-d784dbaceae7"
+    },
+    {
+      "document_number": "395813/24-02-2020",
+      "protocol_number": "ΜΕΣΩ ΣΗΛΥΑ/",
+      "type": "Αρχιτεκτονικά Σχέδια",
+      "file_url": "https://silia.eett.gr/silia/download/8ed03051-fad3-4fc2-a25d-93d50af5e97c"
+    },
+    {
+      "document_number": "395814/24-02-2020",
+      "protocol_number": "Δ3/Δ/840/254/17-01-2006",
+      "type": "Γνωμάτευση ΥΠΑ",
+      "file_url": "https://silia.eett.gr/silia/download/87c183d9-4059-43c9-9bd4-6fa528114e1c"
+    },
+    {
+      "document_number": "395815/24-02-2020",
+      "protocol_number": "ΜΕΣΩ ΣΗΛΥΑ/05-03-2019",
+      "type": "Αίτηση - Μελέτη Ραδιοεκπομπών ΕΕΑΕ",
+      "file_url": "https://silia.eett.gr/silia/download/026de85d-abf5-46e5-9f53-1dd3bf3f9c21"
+    },
+    {
+      "document_number": "395816/24-02-2020",
+      "protocol_number": "ΥΠ.ΔΗΛΩΣΗ ΣΥΝΕΓΚΑΤΑΣΤΑΣΗΣ COSMOTE/24-02-2020",
+      "type": "Άλλο",
+      "file_url": "https://silia.eett.gr/silia/download/2450ae16-6139-444e-ab85-af3e1fd76c3b"
+    },
+    {
+      "document_number": "395900/24-02-2020",
+      "protocol_number": "Αρχείο Αίτησης/",
+      "type": "Αίτηση Άδειας Κατασκευής Κεραίας ΕΕΤΤ",
+      "file_url": "https://silia.eett.gr/silia/download/f60e7767-3eca-4d5e-bb19-663ad6953053"
+    },
+    {
+      "document_number": "407887/25-05-2020",
+      "protocol_number": "Mi/411/6501/18-05-2020",
+      "type": "Γνωμάτευση ΕΕΑΕ",
+      "file_url": "https://silia.eett.gr/silia/download/9aff3ec8-c117-48bd-88a7-8915a6f7e5c0"
+    },
+    {
+      "document_number": "427120/11-01-2021",
+      "protocol_number": "Δ3/Δ/597/11-1-2021/11-01-2021",
+      "type": "Γνωμάτευση ΥΠΑ",
+      "file_url": "https://silia.eett.gr/silia/download/15ad54c1-e34d-4ceb-9f59-b2c403822fce"
+    },
+    {
+      "document_number": "434168/21-04-2021",
+      "protocol_number": "40319/Φ610/16-04-2021",
+      "type": "Άδεια Κατασκευής  Κεραίας",
+      "file_url": "https://silia.eett.gr/silia/download/ff714a5b-3ed3-4dd7-93e3-6e24465d3410"
+    },
+    {
+      "document_number": "425609/17-12-2020",
+      "protocol_number": "ΣΥΝΟΔΕΥΤΙΚΑ ΕΓΓΡΑΦΑ/",
+      "type": "Δήλωση υπαγωγής σε ΠΠΔ και Συνοδευτικά Έγγραφα",
+      "file_url": "https://silia.eett.gr/silia/download/41aa925f-dfa6-44b7-a70d-2ff1c828e1ce"
+    },
+    {
+      "document_number": "425610/17-12-2020",
+      "protocol_number": "Αρχείο Αίτησης/",
+      "type": "Δήλωση ΠΠΔ",
+      "file_url": "https://silia.eett.gr/silia/download/6cdd9ccc-1d7d-417d-a13e-a2d078ad09e8"
+    }
+  ]
+}

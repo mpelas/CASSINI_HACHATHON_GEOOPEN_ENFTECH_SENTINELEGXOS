@@ -1,0 +1,57 @@
+{
+  "antenna_id": "176099",
+  "address": "Θεοδωράκειο ΠΕΛΛΑΣ",
+  "position_code": 1142461,
+  "municipality": "Αλμωπίας",
+  "code_name": "3032461 SYZEFXIS KOINOTIKO KAT THEODORAKEIOY",
+  "region": "Κεντρικής Μακεδονίας",
+  "latitude": 40.949167,
+  "company": "VODAFONE",
+  "longitude": 22.193056,
+  "permit_status": "Από τα στοιχεία που τηρούνται στην Ενημερωτική Πύλη προκύπτει ότι, για τη θέση \"Θεοδωράκειο ΠΕΛΛΑΣ\" στον Δήμο Αλμωπίας Περιφέρειας  Κεντρικής Μακεδονίας \n\t(κωδικός αριθμός θέσης 1142461, κωδική ονομασία \"3032461 SYZEFXIS KOINOTIKO KAT THEODORAKEIOY\") έχει κατατεθεί από την εταιρία VODAFONE\tδήλωση εγκατάστασης κατασκευής κεραίας (αριθ. πρωτ. \n\t58098/30-10-2024) που εμπίπτει στις διατάξεις της νομοθεσίας για Εγκαταστάσεις Κατασκευών Κεραιών Χαμηλής Ηλεκτρομαγνητικής Περιβαλλοντικής Όχλησης (ΕΚΚΧΟ).",
+  "measurements_eaee": "-",
+  "documents": [
+    {
+      "document_number": "530763/30-10-2024",
+      "protocol_number": "Φωτορεαλιστική απεικόνιση κεραίας ΕΚΚΧΟ/30-10-2024",
+      "type": "Φωτογραφικό Υλικό - Σκαρίφημα",
+      "file_url": "https://silia.eett.gr/silia/download/lbMpmDr4KHWMWEwG2w2WH48n0N7YlKVwFxg5"
+    },
+    {
+      "document_number": "530764/30-10-2024",
+      "protocol_number": "Ψηφιακός χάρτης με προβολή της θέσης ΕΚΚΧΟ/30-10-2024",
+      "type": "Φωτογραφικό Υλικό - Σκαρίφημα",
+      "file_url": "https://silia.eett.gr/silia/download/KB8VXWWwRdMmOUVu2AcKTo4yMYWCEAW7auac"
+    },
+    {
+      "document_number": "530765/30-10-2024",
+      "protocol_number": "Σκαρίφημα θέσης κεραίας ΕΚΚΧΟ/30-10-2024",
+      "type": "Φωτογραφικό Υλικό - Σκαρίφημα",
+      "file_url": "https://silia.eett.gr/silia/download/G0fBbcVMz4z9DXmONQE08PalVyEC2GQgMIG2"
+    },
+    {
+      "document_number": "530770/30-10-2024",
+      "protocol_number": "ΜΕΛΕΤΗ ΕΚΚΧΟ/30-10-2024",
+      "type": "Άλλο",
+      "file_url": "https://silia.eett.gr/silia/download/hkfzgW2gZG3k8t1leHiMe7I5VAWqqTFa1Ilg"
+    },
+    {
+      "document_number": "530771/30-10-2024",
+      "protocol_number": "Αρχείο Αίτησης/30-10-2024",
+      "type": "Δήλωση ΕΚΚΧΟ",
+      "file_url": "https://silia.eett.gr/silia/download/ARAVD8hGs90OWPEli5N0G83PzclDdBPsbzWb"
+    },
+    {
+      "document_number": "537490/10-01-2025",
+      "protocol_number": "39258/20-12-2024",
+      "type": "Έγκριση Αρμοδίου Φορέα",
+      "file_url": "https://silia.eett.gr/silia/download/WwOtqWtL7HokYH9pG3roKTwWU1B75HC4fYrm"
+    },
+    {
+      "document_number": "538498/21-01-2025",
+      "protocol_number": "ΥΔ ΕΓΚΑΤΑΣΤΑΣΗΣ/21-01-2025",
+      "type": "Άλλο",
+      "file_url": "https://silia.eett.gr/silia/download/NewS7IVn1RhDn8gdbsnmXafK8tZ4KdZ3kt0h"
+    }
+  ]
+}

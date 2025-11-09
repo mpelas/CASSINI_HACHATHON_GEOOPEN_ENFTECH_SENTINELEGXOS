@@ -1,0 +1,57 @@
+{
+  "antenna_id": "179712",
+  "address": "ΠΡΑΝΤΟΥΝΑ 18",
+  "position_code": 1159972,
+  "municipality": "Ανδραβίδας - Κυλλήνης",
+  "code_name": "3029972 DEH PRAKTOREIO LECHAINON",
+  "region": "Δυτικής Ελλάδας",
+  "latitude": 37.935833,
+  "company": "VODAFONE",
+  "longitude": 21.262778,
+  "permit_status": "Από τα στοιχεία που τηρούνται στην Ενημερωτική Πύλη προκύπτει ότι, για τη θέση \"ΠΡΑΝΤΟΥΝΑ 18\" στον Δήμο Ανδραβίδας - Κυλλήνης Περιφέρειας  Δυτικής Ελλάδας \n\t(κωδικός αριθμός θέσης 1159972, κωδική ονομασία \"3029972 DEH PRAKTOREIO LECHAINON\") έχει κατατεθεί από την εταιρία VODAFONE\tδήλωση εγκατάστασης κατασκευής κεραίας (αριθ. πρωτ. \n\t61211/22-05-2025) που εμπίπτει στις διατάξεις της νομοθεσίας για Εγκαταστάσεις Κατασκευών Κεραιών Χαμηλής Ηλεκτρομαγνητικής Περιβαλλοντικής Όχλησης (ΕΚΚΧΟ).",
+  "measurements_eaee": "-",
+  "documents": [
+    {
+      "document_number": "550049/22-05-2025",
+      "protocol_number": "Φωτορεαλιστική απεικόνιση κεραίας ΕΚΚΧΟ/22-05-2025",
+      "type": "Φωτογραφικό Υλικό - Σκαρίφημα",
+      "file_url": "https://silia.eett.gr/silia/download/PHhrCsDiTRLCXaan6NSSvv8NeTReUdKEbk3m"
+    },
+    {
+      "document_number": "550050/22-05-2025",
+      "protocol_number": "Ψηφιακός χάρτης με προβολή της θέσης ΕΚΚΧΟ/22-05-2025",
+      "type": "Φωτογραφικό Υλικό - Σκαρίφημα",
+      "file_url": "https://silia.eett.gr/silia/download/sx0uC6uHG9AS38ZwO3pBOtizLIIrbzXASIkL"
+    },
+    {
+      "document_number": "550055/22-05-2025",
+      "protocol_number": "ΜΕΛΕΤΗ ΕΚΚΧΟ/22-05-2025",
+      "type": "Άλλο",
+      "file_url": "https://silia.eett.gr/silia/download/YfEvVgdGTufPl2b5DD6Ct5rcC64gu6LtXdyW"
+    },
+    {
+      "document_number": "550067/22-05-2025",
+      "protocol_number": "Σκαρίφημα με περιοχή απαγόρευσης/22-05-2025",
+      "type": "Φωτογραφικό Υλικό - Σκαρίφημα",
+      "file_url": "https://silia.eett.gr/silia/download/wIfVSURVOPoacXlXFW4ELFgvGurSrX9R5yQ7"
+    },
+    {
+      "document_number": "550069/22-05-2025",
+      "protocol_number": "Φ.550/ΑΔ.11367/Σ.2742/31-10-2024",
+      "type": "Γνωμάτευση ΓΕΑ",
+      "file_url": "https://silia.eett.gr/silia/download/bd4cKri2OynBhzc304VyPkfdxrZ4TbwIm239"
+    },
+    {
+      "document_number": "550070/22-05-2025",
+      "protocol_number": "Αρχείο Αίτησης/22-05-2025",
+      "type": "Δήλωση ΕΚΚΧΟ",
+      "file_url": "https://silia.eett.gr/silia/download/y3t84EIb8ldf0VIHD8UiPtc38yAmmpOqkqhK"
+    },
+    {
+      "document_number": "554938/10-07-2025",
+      "protocol_number": "ΥΔ ΕΓΚΑΤΑΣΤΑΣΗΣ/10-07-2025",
+      "type": "Άλλο",
+      "file_url": "https://silia.eett.gr/silia/download/wEqXaGNz98tlgPPCAOoZvqp9gyhHZOeE3qgy"
+    }
+  ]
+}

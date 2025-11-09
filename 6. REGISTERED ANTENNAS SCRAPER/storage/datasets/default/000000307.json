@@ -1,0 +1,57 @@
+{
+  "antenna_id": "172067",
+  "address": "Μεγάλη Χώρα Αγρινίου",
+  "position_code": 1140854,
+  "municipality": "Αγρινίου",
+  "code_name": "3030854 PHILIP MORRIS AGRINIO",
+  "region": "Δυτικής Ελλάδας",
+  "latitude": 38.628333,
+  "company": "VODAFONE",
+  "longitude": 21.363889,
+  "permit_status": "Από τα στοιχεία που τηρούνται στην Ενημερωτική Πύλη προκύπτει ότι, για τη θέση \"Μεγάλη Χώρα Αγρινίου\" στον Δήμο Αγρινίου Περιφέρειας  Δυτικής Ελλάδας \n\t(κωδικός αριθμός θέσης 1140854, κωδική ονομασία \"3030854 PHILIP MORRIS AGRINIO\") έχει κατατεθεί από την εταιρία VODAFONE\tδήλωση εγκατάστασης κατασκευής κεραίας (αριθ. πρωτ. \n\t54759/12-02-2024) που εμπίπτει στις διατάξεις της νομοθεσίας για Εγκαταστάσεις Κατασκευών Κεραιών Χαμηλής Ηλεκτρομαγνητικής Περιβαλλοντικής Όχλησης (ΕΚΚΧΟ).",
+  "measurements_eaee": "-",
+  "documents": [
+    {
+      "document_number": "506863/07-02-2024",
+      "protocol_number": "Φωτορεαλιστική απεικόνιση κεραιας ΕΚΚΧΟ/",
+      "type": "Φωτογραφικό Υλικό - Σκαρίφημα",
+      "file_url": "https://silia.eett.gr/silia/download/189107b9-b833-4fa0-8d61-2169078f6a2f"
+    },
+    {
+      "document_number": "506864/07-02-2024",
+      "protocol_number": "Ψηφιακός Χάρτης με προβολή της θέσης της κεραίας ΕΚΚΧΟ/",
+      "type": "Φωτογραφικό Υλικό - Σκαρίφημα",
+      "file_url": "https://silia.eett.gr/silia/download/03aa3ed1-0ed3-461d-a402-2346aba242b4"
+    },
+    {
+      "document_number": "506865/07-02-2024",
+      "protocol_number": "Φ.550/ΑΔ.216/Σ.48/08-01-2024",
+      "type": "Γνωμάτευση ΓΕΑ",
+      "file_url": "https://silia.eett.gr/silia/download/7ba4d1c6-3717-471d-8f5e-f205c7fa73a7"
+    },
+    {
+      "document_number": "506869/07-02-2024",
+      "protocol_number": "Αρχιτεκτονικά σχέδια ΕΚΚΧΟ/",
+      "type": "Αρχιτεκτονικά Σχέδια",
+      "file_url": "https://silia.eett.gr/silia/download/1806af7d-a42a-4556-b789-705f7e3cf151"
+    },
+    {
+      "document_number": "507382/12-02-2024",
+      "protocol_number": "Μελέτη ΕΚΚΧΟ/07-02-2024",
+      "type": "Άλλο",
+      "file_url": "https://silia.eett.gr/silia/download/ef973432-c7fb-450d-91d5-935ec65b02f2"
+    },
+    {
+      "document_number": "507383/12-02-2024",
+      "protocol_number": "Αρχείο Αίτησης/",
+      "type": "Δήλωση ΕΚΚΧΟ",
+      "file_url": "https://silia.eett.gr/silia/download/6c747b6e-ce56-42b9-b6ff-ac1184315277"
+    },
+    {
+      "document_number": "510056/13-03-2024",
+      "protocol_number": "ΥΔ Εγκατάστασης/13-03-2024",
+      "type": "Άλλο",
+      "file_url": "https://silia.eett.gr/silia/download/KgagT60Uo9Lqf66uxgMfGfh9vOu8QfgOxsNx"
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "antenna_id": "178183",
+  "address": "Ακρωτηρίου 96, ΠΑΤΡΑ.",
+  "position_code": 1151950,
+  "municipality": "Πατρέων",
+  "code_name": "3031950 DEH KAT POLISEON AKROTIRIOU PATRA",
+  "region": "Δυτικής Ελλάδας",
+  "latitude": 38.223056,
+  "company": "VODAFONE",
+  "longitude": 21.7425,
+  "permit_status": "Από τα στοιχεία που τηρούνται στην Ενημερωτική Πύλη προκύπτει ότι, για τη θέση \"Ακρωτηρίου 96, ΠΑΤΡΑ.\" στον Δήμο Πατρέων Περιφέρειας  Δυτικής Ελλάδας \n\t(κωδικός αριθμός θέσης 1151950, κωδική ονομασία \"3031950 DEH KAT POLISEON AKROTIRIOU PATRA\") έχει κατατεθεί από την εταιρία VODAFONE\tδήλωση εγκατάστασης κατασκευής κεραίας (αριθ. πρωτ. \n\t59818/12-03-2025) που εμπίπτει στις διατάξεις της νομοθεσίας για Εγκαταστάσεις Κατασκευών Κεραιών Χαμηλής Ηλεκτρομαγνητικής Περιβαλλοντικής Όχλησης (ΕΚΚΧΟ).",
+  "measurements_eaee": "-",
+  "documents": [
+    {
+      "document_number": "543412/12-03-2025",
+      "protocol_number": "Φωτορεαλιστική απεικόνιση κεραίας ΕΚΚΧΟ/12-03-2025",
+      "type": "Φωτογραφικό Υλικό - Σκαρίφημα",
+      "file_url": "https://silia.eett.gr/silia/download/GwGec474bQKOR1btgCLeotN3PKCRBKdEyYIV"
+    },
+    {
+      "document_number": "543413/12-03-2025",
+      "protocol_number": "Ψηφιακός χάρτης με προβολή της θέσης ΕΚΚΧΟ/12-03-2025",
+      "type": "Φωτογραφικό Υλικό - Σκαρίφημα",
+      "file_url": "https://silia.eett.gr/silia/download/6AM7MEGAPERsIi1ck3uG2YilsxV2mMawPTNb"
+    },
+    {
+      "document_number": "543419/12-03-2025",
+      "protocol_number": "ΜΕΛΕΤΗ ΕΚΚΧΟ/12-03-2025",
+      "type": "Φωτογραφικό Υλικό - Σκαρίφημα",
+      "file_url": "https://silia.eett.gr/silia/download/i7aKx3spbpfGQH5Ds98tVG4wUbZmRgtlPxCF"
+    },
+    {
+      "document_number": "543420/12-03-2025",
+      "protocol_number": "Σκαρίφημα με περιοχή απαγόρευσης/12-03-2025",
+      "type": "Φωτογραφικό Υλικό - Σκαρίφημα",
+      "file_url": "https://silia.eett.gr/silia/download/mgNfZa9s18Ly3508OCS3RKT3pOFfrp4sRpPl"
+    },
+    {
+      "document_number": "543421/12-03-2025",
+      "protocol_number": "Αρχείο Αίτησης/12-03-2025",
+      "type": "Δήλωση ΕΚΚΧΟ",
+      "file_url": "https://silia.eett.gr/silia/download/Pm5nDvoL2QusLdlDmVahtiGbgyBc6QgsW7zD"
+    }
+  ]
+}

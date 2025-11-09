@@ -1,0 +1,69 @@
+{
+  "antenna_id": "168089",
+  "address": "ΛΕΩΦΟΡΟΣ ΣΤΡΑΤΟΥ 21",
+  "position_code": 1441600,
+  "municipality": "Αλεξάνδρειας",
+  "code_name": "LIANOWEST_MI",
+  "region": "Κεντρικής Μακεδονίας",
+  "latitude": 40.636667,
+  "company": "OTE",
+  "longitude": 22.493333,
+  "permit_status": "Από τα στοιχεία που τηρούνται στην Ενημερωτική Πύλη προκύπτει ότι, για τη θέση \"ΛΕΩΦΟΡΟΣ ΣΤΡΑΤΟΥ 21\" στον Δήμο Αλεξάνδρειας Περιφέρειας  Κεντρικής Μακεδονίας \n\t(κωδικός αριθμός θέσης 1441600, κωδική ονομασία \"LIANOWEST_MI\") έχει κατατεθεί από την εταιρία OTE\tδήλωση εγκατάστασης κατασκευής κεραίας (αριθ. πρωτ. \n\t51405/25-04-2023) που εμπίπτει στις διατάξεις της νομοθεσίας για Εγκαταστάσεις Κατασκευών Κεραιών Χαμηλής Ηλεκτρομαγνητικής Περιβαλλοντικής Όχλησης (ΕΚΚΧΟ).",
+  "measurements_eaee": "-",
+  "documents": [
+    {
+      "document_number": "483074/25-04-2023",
+      "protocol_number": "ΜΕΣΩ ΣΗΛΥΑ/",
+      "type": "Αίτηση - Μελέτη Ραδιοεκπομπών ΕΕΑΕ",
+      "file_url": "https://silia.eett.gr/silia/download/7fc8ceec-71c6-44cf-80e1-e51956679633"
+    },
+    {
+      "document_number": "483076/25-04-2023",
+      "protocol_number": "3445/21-01-2022",
+      "type": "Γνωμοδότηση ΕΠΚΑ",
+      "file_url": "https://silia.eett.gr/silia/download/236a8db5-bbb5-428e-a261-e952aedb3596"
+    },
+    {
+      "document_number": "483077/25-04-2023",
+      "protocol_number": "5205/10-01-2022",
+      "type": "Γνωμοδότηση Υπηρεσίας Νεωτέρων Μνημείων",
+      "file_url": "https://silia.eett.gr/silia/download/40f30bb6-954e-4c10-9443-7695753ef9c2"
+    },
+    {
+      "document_number": "483078/25-04-2023",
+      "protocol_number": "ΣΤΟΙΧΕΙΑ ΜΙΚΡΟΚΥΜΑΤΙΚΗΣ ΖΕΥΞΗΣ/",
+      "type": "Άλλο",
+      "file_url": "https://silia.eett.gr/silia/download/fe398a96-76dd-487d-8701-7c4190ee7f19"
+    },
+    {
+      "document_number": "483080/25-04-2023",
+      "protocol_number": "ΦΩΤΟΓΡΑΦΙΑ/",
+      "type": "Φωτογραφικό Υλικό - Σκαρίφημα",
+      "file_url": "https://silia.eett.gr/silia/download/8638565a-dd54-4bae-9541-c2c43b18857a"
+    },
+    {
+      "document_number": "483086/25-04-2023",
+      "protocol_number": "ΣΚΑΡΙΦΗΜΑ/",
+      "type": "Φωτογραφικό Υλικό - Σκαρίφημα",
+      "file_url": "https://silia.eett.gr/silia/download/a8644de9-2035-4dbf-ba5b-b2175b654dde"
+    },
+    {
+      "document_number": "483087/25-04-2023",
+      "protocol_number": "ΣΚΑΡΙΦΗΜΑ/",
+      "type": "Φωτογραφικό Υλικό - Σκαρίφημα",
+      "file_url": "https://silia.eett.gr/silia/download/ae8aff27-0e6a-4eb9-9bd6-ea315515c04e"
+    },
+    {
+      "document_number": "483090/25-04-2023",
+      "protocol_number": "ΦΩΤΟΓΡΑΦΙΑ/25-04-2023",
+      "type": "Φωτογραφικό Υλικό - Σκαρίφημα",
+      "file_url": "https://silia.eett.gr/silia/download/23e4ff9c-8375-4201-af8e-f9fd156a2a2f"
+    },
+    {
+      "document_number": "483091/25-04-2023",
+      "protocol_number": "Αρχείο Αίτησης/",
+      "type": "Δήλωση ΕΚΚΧΟ",
+      "file_url": "https://silia.eett.gr/silia/download/4421992d-3e71-4640-99f9-093d8b6b0ed3"
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "antenna_id": "160630",
+  "address": "Θέση Στεφάνι, Ασπρόπυργος, ΤΚ19300.",
+  "position_code": 1157856,
+  "municipality": "Ασπροπύργου",
+  "code_name": "3027856 TAE HELLAS STEFANI ASPROPYRGOS",
+  "region": "Αττικής",
+  "latitude": 38.0425,
+  "company": "VODAFONE",
+  "longitude": 23.600556,
+  "permit_status": "Από τα στοιχεία που τηρούνται στην Ενημερωτική Πύλη προκύπτει ότι, για τη θέση \"Θέση Στεφάνι, Ασπρόπυργος, ΤΚ19300.\" στον Δήμο Ασπροπύργου Περιφέρειας  Αττικής \n\t(κωδικός αριθμός θέσης 1157856, κωδική ονομασία \"3027856 TAE HELLAS STEFANI ASPROPYRGOS\") έχει κατατεθεί από την εταιρία VODAFONE\tδήλωση εγκατάστασης κατασκευής κεραίας (αριθ. πρωτ. \n\t44997/07-10-2021) που εμπίπτει στις διατάξεις της νομοθεσίας για Εγκαταστάσεις Κατασκευών Κεραιών Χαμηλής Ηλεκτρομαγνητικής Περιβαλλοντικής Όχλησης (ΕΚΚΧΟ).",
+  "measurements_eaee": "-",
+  "documents": [
+    {
+      "document_number": "443058/07-10-2021",
+      "protocol_number": "Φωτογραφία θέσης κεραίας ΕΚΚΧΟ/",
+      "type": "Φωτογραφικό Υλικό - Σκαρίφημα",
+      "file_url": "https://silia.eett.gr/silia/download/a25d4384-e69d-430b-afb1-7cd1de777e36"
+    },
+    {
+      "document_number": "443059/07-10-2021",
+      "protocol_number": "Φωτογραφία θέσης ΕΚΚΧΟ από Google Earth/",
+      "type": "Φωτογραφικό Υλικό - Σκαρίφημα",
+      "file_url": "https://silia.eett.gr/silia/download/cb10e129-7aa5-4964-92a5-a5c5f609ae17"
+    },
+    {
+      "document_number": "443065/07-10-2021",
+      "protocol_number": "Αρχείο Αίτησης/",
+      "type": "Δήλωση ΕΚΚΧΟ",
+      "file_url": "https://silia.eett.gr/silia/download/979a9ea6-7c05-469d-9473-9797e893b354"
+    }
+  ]
+}

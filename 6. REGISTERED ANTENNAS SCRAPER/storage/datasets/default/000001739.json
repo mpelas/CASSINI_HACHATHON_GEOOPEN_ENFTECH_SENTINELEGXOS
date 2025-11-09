@@ -1,0 +1,45 @@
+{
+  "antenna_id": "166398",
+  "address": "ΚΑΡΑΒΟΣΤΑΣΙ",
+  "position_code": 1401904,
+  "municipality": "Ηγουμενίτσας",
+  "code_name": "KARAVOS_MI",
+  "region": "Ηπείρου",
+  "latitude": 39.338056,
+  "company": "OTE",
+  "longitude": 20.289167,
+  "permit_status": "Από τα στοιχεία που τηρούνται στην Ενημερωτική Πύλη προκύπτει ότι, για τη θέση \"ΚΑΡΑΒΟΣΤΑΣΙ\" στον Δήμο Ηγουμενίτσας Περιφέρειας  Ηπείρου \n\t(κωδικός αριθμός θέσης 1401904, κωδική ονομασία \"KARAVOS_MI\") έχει κατατεθεί από την εταιρία OTE\tδήλωση εγκατάστασης κατασκευής κεραίας (αριθ. πρωτ. \n\t50181/08-12-2022) που εμπίπτει στις διατάξεις της νομοθεσίας για Εγκαταστάσεις Κατασκευών Κεραιών Χαμηλής Ηλεκτρομαγνητικής Περιβαλλοντικής Όχλησης (ΕΚΚΧΟ).",
+  "measurements_eaee": "-",
+  "documents": [
+    {
+      "document_number": "473522/28-11-2022",
+      "protocol_number": "ΦΩΤΟΓΡΑΦΙΑ/",
+      "type": "Φωτογραφικό Υλικό - Σκαρίφημα",
+      "file_url": "https://silia.eett.gr/silia/download/09a261cb-a5c5-4b2f-a7d7-7d4033c68c9c"
+    },
+    {
+      "document_number": "474374/07-12-2022",
+      "protocol_number": "ΦΩΤΟΓΡΑΦΙΑ/",
+      "type": "Φωτογραφικό Υλικό - Σκαρίφημα",
+      "file_url": "https://silia.eett.gr/silia/download/ed4efcec-6164-47b4-9196-bb8acc306328"
+    },
+    {
+      "document_number": "474375/07-12-2022",
+      "protocol_number": "ΜΕΣΩ ΣΗΛΥΑ/06-12-2022",
+      "type": "Αίτηση - Μελέτη Ραδιοεκπομπών ΕΕΑΕ",
+      "file_url": "https://silia.eett.gr/silia/download/9dd0fbb5-aa7d-4fd2-b830-b954c1107879"
+    },
+    {
+      "document_number": "474390/07-12-2022",
+      "protocol_number": "ΣΚΑΡΙΦΗΜΑ/",
+      "type": "Φωτογραφικό Υλικό - Σκαρίφημα",
+      "file_url": "https://silia.eett.gr/silia/download/523d8ae7-8afc-4689-87a0-725d46647c2c"
+    },
+    {
+      "document_number": "474412/08-12-2022",
+      "protocol_number": "Αρχείο Αίτησης/",
+      "type": "Δήλωση ΕΚΚΧΟ",
+      "file_url": "https://silia.eett.gr/silia/download/c743a5b4-ac8b-4349-a27d-b6a46b738685"
+    }
+  ]
+}

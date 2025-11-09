@@ -1,0 +1,57 @@
+{
+  "antenna_id": "169178",
+  "address": "Αναλήψεως 18, Πανόραμα Θεσσαλονίκης.",
+  "position_code": 1150374,
+  "municipality": "Πυλαίας - Χορτιάτη",
+  "code_name": "3030374 ELIKA PANORAMA THESSALONIKI",
+  "region": "Κεντρικής Μακεδονίας",
+  "latitude": 40.59,
+  "company": "VODAFONE",
+  "longitude": 23.030556,
+  "permit_status": "Από τα στοιχεία που τηρούνται στην Ενημερωτική Πύλη προκύπτει ότι, για τη θέση \"Αναλήψεως 18, Πανόραμα Θεσσαλονίκης.\" στον Δήμο Πυλαίας - Χορτιάτη Περιφέρειας  Κεντρικής Μακεδονίας \n\t(κωδικός αριθμός θέσης 1150374, κωδική ονομασία \"3030374 ELIKA PANORAMA THESSALONIKI\") έχει κατατεθεί από την εταιρία VODAFONE\tδήλωση εγκατάστασης κατασκευής κεραίας (αριθ. πρωτ. \n\t52266/07-07-2023) που εμπίπτει στις διατάξεις της νομοθεσίας για Εγκαταστάσεις Κατασκευών Κεραιών Χαμηλής Ηλεκτρομαγνητικής Περιβαλλοντικής Όχλησης (ΕΚΚΧΟ).",
+  "measurements_eaee": "-",
+  "documents": [
+    {
+      "document_number": "489784/07-07-2023",
+      "protocol_number": "Φωτορεαλιστική απεικόνιση κεραιας Α1 ΕΚΚΧΟ/",
+      "type": "Φωτογραφικό Υλικό - Σκαρίφημα",
+      "file_url": "https://silia.eett.gr/silia/download/758767bd-0f06-485f-bb18-8c838c5b124e"
+    },
+    {
+      "document_number": "489785/07-07-2023",
+      "protocol_number": "Φωτορεαλιστική απεικόνιση m/w κεραιας ΕΚΚΧΟ/",
+      "type": "Φωτογραφικό Υλικό - Σκαρίφημα",
+      "file_url": "https://silia.eett.gr/silia/download/58b6e4dd-21ac-4faf-be74-d4856d758669"
+    },
+    {
+      "document_number": "489786/07-07-2023",
+      "protocol_number": "Ψηφιακός Χάρτης με προβολή της θέσης ΕΚΚΧΟ/",
+      "type": "Φωτογραφικό Υλικό - Σκαρίφημα",
+      "file_url": "https://silia.eett.gr/silia/download/bc2856d1-1de0-41c0-9d5b-47a7744d2d57"
+    },
+    {
+      "document_number": "489787/07-07-2023",
+      "protocol_number": "Σκαρίφημα τοποθέτησης ΕΚΚΧΟ_Όψη-Κάτοψη κτιρίου/",
+      "type": "Φωτογραφικό Υλικό - Σκαρίφημα",
+      "file_url": "https://silia.eett.gr/silia/download/40019179-03bc-42ad-8631-fcfb5fcbc379"
+    },
+    {
+      "document_number": "489788/07-07-2023",
+      "protocol_number": "Μελέτη ΕΚΚΧΟ/04-04-2023",
+      "type": "Άλλο",
+      "file_url": "https://silia.eett.gr/silia/download/7c432453-e75d-4ed8-b308-d5d75e8d60c0"
+    },
+    {
+      "document_number": "489811/07-07-2023",
+      "protocol_number": "Αρχείο Αίτησης/",
+      "type": "Δήλωση ΕΚΚΧΟ",
+      "file_url": "https://silia.eett.gr/silia/download/a5826059-b102-49d0-be76-9ae1e5047e70"
+    },
+    {
+      "document_number": "493885/07-09-2023",
+      "protocol_number": "ΥΔ εγκατάστασης/07-09-2023",
+      "type": "Άλλο",
+      "file_url": "https://silia.eett.gr/silia/download/c6c16eb4-1415-475c-a623-7cc3b6d99646"
+    }
+  ]
+}

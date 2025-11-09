@@ -1,0 +1,39 @@
+{
+  "antenna_id": "118794",
+  "address": "ΓΡ. ΛΑΜΠΡΑΚΗ 54 & ΟΜΗΡΟΥ",
+  "position_code": 1219812,
+  "municipality": "Γλυφάδας",
+  "code_name": "GLYFADA LAMPRAKI 2",
+  "region": "Αττικής",
+  "latitude": 37.868611,
+  "company": "NOVA Μ.Α.Ε.",
+  "longitude": 23.758333,
+  "permit_status": "Από τα στοιχεία που τηρούνται στην Ενημερωτική Πύλη προκύπτει ότι, για τη θέση \"ΓΡ. ΛΑΜΠΡΑΚΗ 54 & ΟΜΗΡΟΥ \" στον Δήμο Γλυφάδας Περιφέρειας  Αττικής \n\t(κωδικός αριθμός θέσης 1219812, κωδική ονομασία \"GLYFADA LAMPRAKI 2\") έχει κατατεθεί από την εταιρία NOVA Μ.Α.Ε.\tδήλωση εγκατάστασης κατασκευής κεραίας (αριθ. πρωτ. \n\t17326/02-06-2016) που εμπίπτει στις διατάξεις της νομοθεσίας για Εγκαταστάσεις Κατασκευών Κεραιών Χαμηλής Ηλεκτρομαγνητικής Περιβαλλοντικής Όχλησης (ΕΚΚΧΟ).",
+  "measurements_eaee": "-",
+  "documents": [
+    {
+      "document_number": "261594/02-06-2016",
+      "protocol_number": "ΣΧΕΔΙΟ/",
+      "type": "Φωτογραφικό Υλικό - Σκαρίφημα",
+      "file_url": "https://silia.eett.gr/silia/download/40ffaee5-5b06-4ea9-bff9-dc3ae004ff0f"
+    },
+    {
+      "document_number": "261595/02-06-2016",
+      "protocol_number": "ΑΡ.ΠΡΩΤ.6589/2015/",
+      "type": "Γνωμοδότηση Υπηρεσίας Νεωτέρων Μνημείων",
+      "file_url": "https://silia.eett.gr/silia/download/a92969e4-2f4d-42bd-8a3b-3a68918827cd"
+    },
+    {
+      "document_number": "261596/02-06-2016",
+      "protocol_number": "ΑΡ.ΠΡΩΤ.13145/2015/",
+      "type": "Έγκριση Αρμοδίου Φορέα",
+      "file_url": "https://silia.eett.gr/silia/download/795f6c7c-4425-41d5-8e6b-caf84b715bdf"
+    },
+    {
+      "document_number": "261637/02-06-2016",
+      "protocol_number": "Αρχείο Αίτησης/",
+      "type": "Δήλωση ΕΚΚΧΟ",
+      "file_url": "https://silia.eett.gr/silia/download/fcf12550-5ee0-42bc-8252-ee826f94f4d9"
+    }
+  ]
+}

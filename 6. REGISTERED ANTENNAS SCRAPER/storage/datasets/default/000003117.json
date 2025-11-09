@@ -1,0 +1,33 @@
+{
+  "antenna_id": "126141",
+  "address": "ΞΕΝΟΔΟΧΕΙΟ COCOMAT SERIFOS , ΒΑΓΙΑ ΣΕΡΙΦΟΥ",
+  "position_code": 1411722,
+  "municipality": "Σερίφου",
+  "code_name": "COCOMAT  MI",
+  "region": "Νοτίου Αιγαίου",
+  "latitude": 37.130833,
+  "company": "OTE",
+  "longitude": 24.461944,
+  "permit_status": "Από τα στοιχεία που τηρούνται στην Ενημερωτική Πύλη προκύπτει ότι, για τη θέση \"ΞΕΝΟΔΟΧΕΙΟ COCOMAT SERIFOS , ΒΑΓΙΑ ΣΕΡΙΦΟΥ\" στον Δήμο Σερίφου Περιφέρειας  Νοτίου Αιγαίου \n\t(κωδικός αριθμός θέσης 1411722, κωδική ονομασία \"COCOMAT  MI\") έχει κατατεθεί από την εταιρία OTE\tδήλωση εγκατάστασης κατασκευής κεραίας (αριθ. πρωτ. \n\t21273/23-02-2017) που εμπίπτει στις διατάξεις της νομοθεσίας για Εγκαταστάσεις Κατασκευών Κεραιών Χαμηλής Ηλεκτρομαγνητικής Περιβαλλοντικής Όχλησης (ΕΚΚΧΟ).",
+  "measurements_eaee": "-",
+  "documents": [
+    {
+      "document_number": "287653/22-02-2017",
+      "protocol_number": "ΦΩΤΟΓΡΑΦΙΑ/",
+      "type": "Φωτογραφικό Υλικό - Σκαρίφημα",
+      "file_url": "https://silia.eett.gr/silia/download/b8849fec-d889-40b8-97e2-93b43c4bd865"
+    },
+    {
+      "document_number": "287654/22-02-2017",
+      "protocol_number": "ΦΩΤΟΓΡΑΦΙΑ/",
+      "type": "Φωτογραφικό Υλικό - Σκαρίφημα",
+      "file_url": "https://silia.eett.gr/silia/download/c334ca07-0de5-4dd8-a7eb-74b7acccae5c"
+    },
+    {
+      "document_number": "287767/23-02-2017",
+      "protocol_number": "Αρχείο Αίτησης/",
+      "type": "Δήλωση ΕΚΚΧΟ",
+      "file_url": "https://silia.eett.gr/silia/download/972ac774-8dcf-43c2-8450-a39eaedc7ec3"
+    }
+  ]
+}

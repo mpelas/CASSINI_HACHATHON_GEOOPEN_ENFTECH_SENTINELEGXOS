@@ -1,0 +1,39 @@
+{
+  "antenna_id": "154707",
+  "address": "Δ.Ε Πρίνου, Δήμος Θάσου, Π.Ε. Καβάλας, Περιφ. Ανατολικής Μακεδονίας & Θράκης",
+  "position_code": 3207599,
+  "municipality": "Θάσου",
+  "code_name": "ΠΡΙΝΟΣ ΘΑΣΟΥ-Δ",
+  "region": "Ανατ. Μακεδονίας και Θράκης",
+  "latitude": 40.741667,
+  "company": "ΕΡΤ ΑΕ",
+  "longitude": 24.563333,
+  "permit_status": "Από τα στοιχεία που τηρούνται στην Ενημερωτική Πύλη προκύπτει ότι για τη  θέση \"Δ.Ε Πρίνου, Δήμος Θάσου, Π.Ε. Καβάλας, Περιφ. Ανατολικής Μακεδονίας & Θράκης\" στον Δήμο Θάσου Περιφέρειας  Ανατ. Μακεδονίας και Θράκης έχει κατατεθεί από την εταιρία ΕΡΤ ΑΕ δήλωση δομικών κατασκευών κεραιών  \nμε αριθ. πρωτ. ΣΗΛΥΑ 39270/23-05-2020 κατά τα οριζόμενα στην παρ. 7 του άρθρου 34 του Ν.4635/2019.",
+  "measurements_eaee": "-",
+  "documents": [
+    {
+      "document_number": "407516/23-05-2020",
+      "protocol_number": "δορυφορική λήψη και στοιχεία δομικών κατασκευών/",
+      "type": "Άλλο",
+      "file_url": "https://silia.eett.gr/silia/download/5b6da15c-7c3e-42ac-a79c-60ef5a583bab"
+    },
+    {
+      "document_number": "407517/23-05-2020",
+      "protocol_number": "απογραφή 1987/",
+      "type": "Άλλο",
+      "file_url": "https://silia.eett.gr/silia/download/e259cadd-c49f-42dd-8a4c-dedc55e2b23c"
+    },
+    {
+      "document_number": "407518/23-05-2020",
+      "protocol_number": "πίνακας 49 απογραφής ΕΡΤ 1987/",
+      "type": "Άλλο",
+      "file_url": "https://silia.eett.gr/silia/download/c5091230-4ce6-4d0a-84f4-f11cff332a96"
+    },
+    {
+      "document_number": "407707/23-05-2020",
+      "protocol_number": "Αρχείο Αίτησης/",
+      "type": "Δήλωση Δομικών ΕΡΤ",
+      "file_url": "https://silia.eett.gr/silia/download/c59c623d-52ac-4857-9050-f740e3764a55"
+    }
+  ]
+}

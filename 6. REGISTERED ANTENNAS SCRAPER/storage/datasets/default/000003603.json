@@ -1,0 +1,81 @@
+{
+  "antenna_id": "150221",
+  "address": "ΥΨΩΜΑ \"ΠΛΑΓΙΑ\" ΦΟΥΡΝΟΥ ΚΟΡΣΕΩΝ ΣΑΜΟΥ",
+  "position_code": 1406477,
+  "municipality": "Φούρνων Κορσεών",
+  "code_name": "ΒΑΡΔΙΑ - Χ",
+  "region": "Βορείου Αιγαίου",
+  "latitude": 37.550833,
+  "company": "OTE",
+  "longitude": 26.494167,
+  "permit_status": "Από τα στοιχεία που τηρούνται στην Ενημερωτική Πύλη προκύπτει ότι, για τη θέση \"ΥΨΩΜΑ \"ΠΛΑΓΙΑ\" ΦΟΥΡΝΟΥ ΚΟΡΣΕΩΝ ΣΑΜΟΥ\" στον Δήμο Φούρνων Κορσεών Περιφέρειας  Βορείου Αιγαίου \n\t(κωδικός αριθμός θέσης 1406477, κωδική ονομασία \"ΒΑΡΔΙΑ - Χ\") χορηγήθηκε, με την Απόφαση της ΕΕΤΤ \n41971/Φ610/27-10-2021, άδεια κατασκευής κεραίας στην εταιρία OTE. \nΑπό τo έγγραφο της άδειας μπορείτε να ενημερωθείτε για τις σχετικές εγκρίσεις των συναρμόδιων φορέων, καθώς και εάν πρόκειται για τροποποίηση παλαιότερης άδειας.\nΗ άδεια χορηγήθηκε με τη διαδικασία αδειοδότησης που ορίζει ο ν. 4635/2019, κατόπιν της με αριθ. πρωτ. 36981/12-02-2020 \n\tαίτησης, και βάσει σχετικής δήλωσης του κατόχου της περί υπαγωγή της κατασκευής κεραίας στο άρθρο 34 του ν. 4635/2019.",
+  "measurements_eaee": "-",
+  "documents": [
+    {
+      "document_number": "393352/12-02-2020",
+      "protocol_number": "13035/331/27-02-2014",
+      "type": "Αίτηση / Μελέτη για Έγκριση Περιβαλλοντικών Επιπτώσεων",
+      "file_url": "https://silia.eett.gr/silia/download/c3ff132c-85eb-41d2-ae38-f2394ecada2f"
+    },
+    {
+      "document_number": "393353/12-02-2020",
+      "protocol_number": "ΜΕΣΩ ΣΗΛΥΑ/",
+      "type": "Τοπογραφικό",
+      "file_url": "https://silia.eett.gr/silia/download/d463e2db-1555-4d85-a4d8-df23a82f8d5d"
+    },
+    {
+      "document_number": "393354/12-02-2020",
+      "protocol_number": "ΜΕΣΩ ΣΗΛΥΑ/",
+      "type": "Αρχιτεκτονικά Σχέδια",
+      "file_url": "https://silia.eett.gr/silia/download/ef1f0b86-90c8-43fa-8b51-2c5bf444ba92"
+    },
+    {
+      "document_number": "393355/12-02-2020",
+      "protocol_number": "Δ3/Δ/17494/3521/24-09-2001",
+      "type": "Γνωμάτευση ΥΠΑ",
+      "file_url": "https://silia.eett.gr/silia/download/59292c20-8d3e-4dc1-a8a3-81709f8caf77"
+    },
+    {
+      "document_number": "393356/12-02-2020",
+      "protocol_number": "Δ3/Δ/3391/10-05-2013",
+      "type": "Γνωμάτευση ΥΠΑ",
+      "file_url": "https://silia.eett.gr/silia/download/271bfe91-eea1-4513-b5e5-ec9e21b94f8a"
+    },
+    {
+      "document_number": "393357/12-02-2020",
+      "protocol_number": "ΜΕΣΩ ΣΗΛΥΑ/22-01-2020",
+      "type": "Αίτηση - Μελέτη Ραδιοεκπομπών ΕΕΑΕ",
+      "file_url": "https://silia.eett.gr/silia/download/ba00abc7-ba53-464e-ab61-6b57dfb6dddb"
+    },
+    {
+      "document_number": "393358/12-02-2020",
+      "protocol_number": "ΥΠ.ΔΗΛΩΣΗ ΣΥΝΕΓΚΑΤΑΣΤΑΣΗΣ ΟΤΕ/12-02-2020",
+      "type": "Άλλο",
+      "file_url": "https://silia.eett.gr/silia/download/04b0458d-a7df-4442-8f00-b3a99e1ac30a"
+    },
+    {
+      "document_number": "393446/12-02-2020",
+      "protocol_number": "Αρχείο Αίτησης/",
+      "type": "Αίτηση Άδειας Κατασκευής Κεραίας ΕΕΤΤ",
+      "file_url": "https://silia.eett.gr/silia/download/04a22b54-6410-4a75-b6a2-2069d98b18bc"
+    },
+    {
+      "document_number": "402271/14-04-2020",
+      "protocol_number": "Μ.ι./411/5138/2020/14-04-2020",
+      "type": "Γνωμάτευση ΕΕΑΕ",
+      "file_url": "https://silia.eett.gr/silia/download/ec0d0feb-fa4a-4f2b-a072-e7eef2ad6147"
+    },
+    {
+      "document_number": "438922/21-07-2021",
+      "protocol_number": "34636/20-07-2021",
+      "type": "Έγκριση Περιβαλλοντικών Όρων",
+      "file_url": "https://silia.eett.gr/silia/download/89855e4a-aa12-4d7b-be19-282eeb2f14d6"
+    },
+    {
+      "document_number": "445309/29-10-2021",
+      "protocol_number": "41971/Φ610/27-10-2021",
+      "type": "Άδεια Κατασκευής  Κεραίας",
+      "file_url": "https://silia.eett.gr/silia/download/90de0603-a0bc-49cd-93c0-613100ee8a72"
+    }
+  ]
+}

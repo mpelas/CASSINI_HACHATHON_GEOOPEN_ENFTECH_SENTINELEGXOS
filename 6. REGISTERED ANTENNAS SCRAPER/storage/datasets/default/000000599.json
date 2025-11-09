@@ -1,0 +1,39 @@
+{
+  "antenna_id": "152658",
+  "address": "BAΡIKO, ΔΗΜΟΣ AMYNTAIOY, Π.Ε. ΦΛΩΡΙΝΑΣ, ΠΕΡΙΦΕΡΕΙΑ ΔΥΤΙΚΗΣ ΜΑΚΕΔΟΝΙΑΣ",
+  "position_code": 3207367,
+  "municipality": "Αμυνταίου",
+  "code_name": "ΒΑΡΙΚΟ-Δ",
+  "region": "Δυτικής Μακεδονίας",
+  "latitude": 40.568056,
+  "company": "ΕΡΤ ΑΕ",
+  "longitude": 21.505833,
+  "permit_status": "Από τα στοιχεία που τηρούνται στην Ενημερωτική Πύλη προκύπτει ότι για τη  θέση \"BAΡIKO, ΔΗΜΟΣ AMYNTAIOY, Π.Ε. ΦΛΩΡΙΝΑΣ, ΠΕΡΙΦΕΡΕΙΑ ΔΥΤΙΚΗΣ ΜΑΚΕΔΟΝΙΑΣ\" στον Δήμο Αμυνταίου Περιφέρειας  Δυτικής Μακεδονίας έχει κατατεθεί από την εταιρία ΕΡΤ ΑΕ δήλωση δομικών κατασκευών κεραιών  \nμε αριθ. πρωτ. ΣΗΛΥΑ 38187/10-04-2020 κατά τα οριζόμενα στην παρ. 7 του άρθρου 34 του Ν.4635/2019.",
+  "measurements_eaee": "-",
+  "documents": [
+    {
+      "document_number": "401231/05-04-2020",
+      "protocol_number": "δορυφορική λήψη και στοιχεία δομικών κατασκευών/",
+      "type": "Άλλο",
+      "file_url": "https://silia.eett.gr/silia/download/5418f25d-a67d-4bc4-844b-65c5ff542e71"
+    },
+    {
+      "document_number": "401232/05-04-2020",
+      "protocol_number": "απογραφή 1987/",
+      "type": "Άλλο",
+      "file_url": "https://silia.eett.gr/silia/download/ca29fa84-9ef5-4b0c-a096-290cdf2eafa2"
+    },
+    {
+      "document_number": "401233/05-04-2020",
+      "protocol_number": "πίνακας 49 απογραφής ΕΡΤ 1987/",
+      "type": "Άλλο",
+      "file_url": "https://silia.eett.gr/silia/download/e887fc06-91d5-4c85-b5e1-79f7d0e8cc0c"
+    },
+    {
+      "document_number": "401865/10-04-2020",
+      "protocol_number": "Αρχείο Αίτησης/",
+      "type": "Δήλωση Δομικών ΕΡΤ",
+      "file_url": "https://silia.eett.gr/silia/download/3ba6e7b1-9e8c-460c-88e2-c993e8fe8063"
+    }
+  ]
+}

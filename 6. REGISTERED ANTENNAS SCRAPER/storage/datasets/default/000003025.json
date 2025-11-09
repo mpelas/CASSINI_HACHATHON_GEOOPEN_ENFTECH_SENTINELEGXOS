@@ -1,0 +1,33 @@
+{
+  "antenna_id": "155568",
+  "address": "ΔΗΜΗΤΡΑΚΑΚΗ 8, ΡΕΘΥΜΝΟ",
+  "position_code": 1267993,
+  "municipality": "Ρεθύμνης",
+  "code_name": "HOBITIS RETHIMNO",
+  "region": "Κρήτης",
+  "latitude": 35.364444,
+  "company": "NOVA Μ.Α.Ε.",
+  "longitude": 24.473611,
+  "permit_status": "Από τα στοιχεία που τηρούνται στην Ενημερωτική Πύλη προκύπτει ότι, για τη θέση \"ΔΗΜΗΤΡΑΚΑΚΗ 8, ΡΕΘΥΜΝΟ\" στον Δήμο Ρεθύμνης Περιφέρειας  Κρήτης \n\t(κωδικός αριθμός θέσης 1267993, κωδική ονομασία \"HOBITIS RETHIMNO\") έχει κατατεθεί από την εταιρία NOVA Μ.Α.Ε.\tδήλωση εγκατάστασης κατασκευής κεραίας (αριθ. πρωτ. \n\t40250/23-07-2020) που εμπίπτει στις διατάξεις της νομοθεσίας για Εγκαταστάσεις Κατασκευών Κεραιών Χαμηλής Ηλεκτρομαγνητικής Περιβαλλοντικής Όχλησης (ΕΚΚΧΟ).",
+  "measurements_eaee": "-",
+  "documents": [
+    {
+      "document_number": "413871/23-07-2020",
+      "protocol_number": "ΦΩΤΟΓΡΑΦΙΑ LINK ΕΚΚΧΟ/",
+      "type": "Φωτογραφικό Υλικό - Σκαρίφημα",
+      "file_url": "https://silia.eett.gr/silia/download/40c16543-5c7d-491e-9b63-4f0f8c3f0610"
+    },
+    {
+      "document_number": "413880/23-07-2020",
+      "protocol_number": "Αρχείο Αίτησης/",
+      "type": "Δήλωση ΕΚΚΧΟ",
+      "file_url": "https://silia.eett.gr/silia/download/64533018-3d99-49ff-a7c3-7661dd339ee1"
+    },
+    {
+      "document_number": "418601/09-10-2020",
+      "protocol_number": "ΦΩΤΟΓΡΑΦΙΑ GOOGLE EARTH/",
+      "type": "Φωτογραφικό Υλικό - Σκαρίφημα",
+      "file_url": "https://silia.eett.gr/silia/download/afaf45ee-30e1-4125-9a39-09b84d3b65c7"
+    }
+  ]
+}

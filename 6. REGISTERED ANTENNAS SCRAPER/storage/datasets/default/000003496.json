@@ -1,0 +1,51 @@
+{
+  "antenna_id": "143500",
+  "address": "ΒΙ.ΠΕ. ΤΡΙΠΟΛΕΟΣ - Ο.Τ.9 - ΕΠΙ ΤΗΣ ΟΔΟΥ 7 - ΤΡΙΠΟΛΗ.",
+  "position_code": 1153994,
+  "municipality": "Τρίπολης",
+  "code_name": "STERIMED TRIPOLI",
+  "region": "Πελοποννήσου",
+  "latitude": 37.510833,
+  "company": "VODAFONE",
+  "longitude": 22.416389,
+  "permit_status": "Από τα στοιχεία που τηρούνται στην Ενημερωτική Πύλη προκύπτει ότι, για τη θέση \"ΒΙ.ΠΕ. ΤΡΙΠΟΛΕΟΣ - Ο.Τ.9 - ΕΠΙ ΤΗΣ ΟΔΟΥ 7 - ΤΡΙΠΟΛΗ.\" στον Δήμο Τρίπολης Περιφέρειας  Πελοποννήσου \n\t(κωδικός αριθμός θέσης 1153994, κωδική ονομασία \"STERIMED TRIPOLI\") έχει κατατεθεί από την εταιρία VODAFONE\tδήλωση εγκατάστασης κατασκευής κεραίας (αριθ. πρωτ. \n\t35228/30-10-2019) που εμπίπτει στις διατάξεις της νομοθεσίας για Εγκαταστάσεις Κατασκευών Κεραιών Χαμηλής Ηλεκτρομαγνητικής Περιβαλλοντικής Όχλησης (ΕΚΚΧΟ).",
+  "measurements_eaee": "-",
+  "documents": [
+    {
+      "document_number": "372747/08-08-2019",
+      "protocol_number": "ΣΚΑΡΙΦΗΜΑ ΘΕΣΗΣ ΙΣΤΟΥ ΕΚΚΧΟ - ΚΑΤΟΨΗ/",
+      "type": "Φωτογραφικό Υλικό - Σκαρίφημα",
+      "file_url": "https://silia.eett.gr/silia/download/5ee9d404-6626-424a-9d74-a3cecca48bdf"
+    },
+    {
+      "document_number": "372748/08-08-2019",
+      "protocol_number": "ΣΚΑΡΙΦΗΜΑ ΘΕΣΗΣ ΙΣΤΟΥ ΕΚΚΧΟ - ΟΨΗ/",
+      "type": "Φωτογραφικό Υλικό - Σκαρίφημα",
+      "file_url": "https://silia.eett.gr/silia/download/7f86d7bb-3af7-4dc9-b703-610dfa87e25b"
+    },
+    {
+      "document_number": "372749/08-08-2019",
+      "protocol_number": "ΣΚΑΡΙΦΗΜΑ ΘΕΣΗΣ ΚΕΡΑΙΑΣ 1/",
+      "type": "Φωτογραφικό Υλικό - Σκαρίφημα",
+      "file_url": "https://silia.eett.gr/silia/download/7db648a9-27df-4e53-9fef-6f24bd669b75"
+    },
+    {
+      "document_number": "381602/30-10-2019",
+      "protocol_number": "Φ550/ΑΔ.8918 Σ.1726/16-10-2019",
+      "type": "Γνωμάτευση ΓΕΑ",
+      "file_url": "https://silia.eett.gr/silia/download/5a53b64f-a6c2-4b7b-a3cf-1962c3fb9fff"
+    },
+    {
+      "document_number": "381603/30-10-2019",
+      "protocol_number": "Αρχείο Αίτησης/",
+      "type": "Δήλωση ΕΚΚΧΟ",
+      "file_url": "https://silia.eett.gr/silia/download/c7616d98-e084-4bf3-b904-a8ff48f989a6"
+    },
+    {
+      "document_number": "387661/26-12-2019",
+      "protocol_number": "ΣΚΑΡΙΦΗΜΑ ΘΕΣΗΣ ΙΣΤΟΥ ΕΚΚΧΟ - ΚΑΤΟΨΗ /",
+      "type": "Φωτογραφικό Υλικό - Σκαρίφημα",
+      "file_url": "https://silia.eett.gr/silia/download/4043c1b3-db26-4b77-bc84-1d538a800311"
+    }
+  ]
+}

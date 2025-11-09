@@ -1,0 +1,45 @@
+{
+  "antenna_id": "169380",
+  "address": "8ο χλμ Εθνικής Οδού Αγρινίου - Καρπενησίου",
+  "position_code": 1497756,
+  "municipality": "Αγρινίου",
+  "code_name": "PAPATHANASIOU_AGRIN",
+  "region": "Δυτικής Ελλάδας",
+  "latitude": 38.650278,
+  "company": "OTE",
+  "longitude": 21.452222,
+  "permit_status": "Από τα στοιχεία που τηρούνται στην Ενημερωτική Πύλη προκύπτει ότι, για τη θέση \"8ο χλμ Εθνικής Οδού Αγρινίου - Καρπενησίου\" στον Δήμο Αγρινίου Περιφέρειας  Δυτικής Ελλάδας \n\t(κωδικός αριθμός θέσης 1497756, κωδική ονομασία \"PAPATHANASIOU_AGRIN\") έχει κατατεθεί από την εταιρία OTE\tδήλωση εγκατάστασης κατασκευής κεραίας (αριθ. πρωτ. \n\t53301/16-10-2023) που εμπίπτει στις διατάξεις της νομοθεσίας για Εγκαταστάσεις Κατασκευών Κεραιών Χαμηλής Ηλεκτρομαγνητικής Περιβαλλοντικής Όχλησης (ΕΚΚΧΟ).",
+  "measurements_eaee": "-",
+  "documents": [
+    {
+      "document_number": "490713/20-07-2023",
+      "protocol_number": "ΦΩΤΟΓΡΑΦΙΑ/",
+      "type": "Φωτογραφικό Υλικό - Σκαρίφημα",
+      "file_url": "https://silia.eett.gr/silia/download/e86bd85e-20cf-4d9f-9144-7de22dc052ab"
+    },
+    {
+      "document_number": "490714/20-07-2023",
+      "protocol_number": "ΦΩΤΟΓΡΑΦΙΑ/",
+      "type": "Φωτογραφικό Υλικό - Σκαρίφημα",
+      "file_url": "https://silia.eett.gr/silia/download/9aa52679-6c3b-45bc-83e2-6705500a8b0b"
+    },
+    {
+      "document_number": "497333/16-10-2023",
+      "protocol_number": "ΜΕΣΩ ΣΗΛΥΑ/",
+      "type": "Αίτηση - Μελέτη Ραδιοεκπομπών ΕΕΑΕ",
+      "file_url": "https://silia.eett.gr/silia/download/f3074612-57b9-4eb0-a19d-27e8016f1488"
+    },
+    {
+      "document_number": "497334/16-10-2023",
+      "protocol_number": "Αρχείο Αίτησης/",
+      "type": "Δήλωση ΕΚΚΧΟ",
+      "file_url": "https://silia.eett.gr/silia/download/f9cbb714-4632-4286-9566-f5870aa88ac0"
+    },
+    {
+      "document_number": "527088/27-09-2024",
+      "protocol_number": "ΥΠ.ΔΗΛΩΣΗ/27-09-2024",
+      "type": "Άλλο",
+      "file_url": "https://silia.eett.gr/silia/download/dYdr46GaaDUw3GoUipMt1zVmB2WZazODmA14"
+    }
+  ]
+}

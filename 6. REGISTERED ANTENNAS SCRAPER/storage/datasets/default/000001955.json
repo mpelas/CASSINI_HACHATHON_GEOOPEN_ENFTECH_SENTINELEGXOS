@@ -1,0 +1,39 @@
+{
+  "antenna_id": "152519",
+  "address": "ΠΕΡΙΘΩΡΙ, ΔΗΜΟΣ ΝΑΥΠΑΚΤΙΑΣ, ΑΙΤΩΛΟΑΚΑΡΝΑΝΙΑ",
+  "position_code": 3207193,
+  "municipality": "Ναυπακτίας",
+  "code_name": "ΠΕΡΙΘΩΡΙ-Δ",
+  "region": "Δυτικής Ελλάδας",
+  "latitude": 38.392778,
+  "company": "ΕΡΤ ΑΕ",
+  "longitude": 21.580278,
+  "permit_status": "Από τα στοιχεία που τηρούνται στην Ενημερωτική Πύλη προκύπτει ότι για τη  θέση \"ΠΕΡΙΘΩΡΙ, ΔΗΜΟΣ ΝΑΥΠΑΚΤΙΑΣ, ΑΙΤΩΛΟΑΚΑΡΝΑΝΙΑ\" στον Δήμο Ναυπακτίας Περιφέρειας  Δυτικής Ελλάδας έχει κατατεθεί από την εταιρία ΕΡΤ ΑΕ δήλωση δομικών κατασκευών κεραιών  \nμε αριθ. πρωτ. ΣΗΛΥΑ 38147/09-04-2020 κατά τα οριζόμενα στην παρ. 7 του άρθρου 34 του Ν.4635/2019.",
+  "measurements_eaee": "-",
+  "documents": [
+    {
+      "document_number": "400168/26-03-2020",
+      "protocol_number": "δορυφορική λήψη και στοιχεία δομικών κατασκευών/",
+      "type": "Άλλο",
+      "file_url": "https://silia.eett.gr/silia/download/c9a8d91b-4108-4da6-af85-b87bca033065"
+    },
+    {
+      "document_number": "400447/29-03-2020",
+      "protocol_number": "απογραφή 1987/",
+      "type": "Άλλο",
+      "file_url": "https://silia.eett.gr/silia/download/f2729fe5-28cf-4827-98ad-b8d2785465f5"
+    },
+    {
+      "document_number": "400448/29-03-2020",
+      "protocol_number": "πίνακας 49 απογραφής ΕΡΤ 1987/",
+      "type": "Άλλο",
+      "file_url": "https://silia.eett.gr/silia/download/d66137b0-d6d2-4e8b-b074-d023b32ce0ed"
+    },
+    {
+      "document_number": "401816/09-04-2020",
+      "protocol_number": "Αρχείο Αίτησης/",
+      "type": "Δήλωση Δομικών ΕΡΤ",
+      "file_url": "https://silia.eett.gr/silia/download/3b6ecdea-824d-4c0f-afc1-b4d380cb8b93"
+    }
+  ]
+}

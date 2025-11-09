@@ -1,0 +1,39 @@
+{
+  "antenna_id": "164630",
+  "address": "ΚΗΠΙΑ, ΕΛΕΥΘΕΡΟΥΠΟΛΗ ΚΑΒΑΛΑΣ",
+  "position_code": 1268566,
+  "municipality": "Παγγαίου",
+  "code_name": "AKROLITHOS KAVALA",
+  "region": "Ανατ. Μακεδονίας και Θράκης",
+  "latitude": 40.881111,
+  "company": "NOVA Μ.Α.Ε.",
+  "longitude": 24.211111,
+  "permit_status": "Από τα στοιχεία που τηρούνται στην Ενημερωτική Πύλη προκύπτει ότι, για τη θέση \"ΚΗΠΙΑ, ΕΛΕΥΘΕΡΟΥΠΟΛΗ ΚΑΒΑΛΑΣ\" στον Δήμο Παγγαίου Περιφέρειας  Ανατ. Μακεδονίας και Θράκης \n\t(κωδικός αριθμός θέσης 1268566, κωδική ονομασία \"AKROLITHOS KAVALA\") έχει κατατεθεί από την εταιρία NOVA Μ.Α.Ε.\tδήλωση εγκατάστασης κατασκευής κεραίας (αριθ. πρωτ. \n\t48514/30-06-2022) που εμπίπτει στις διατάξεις της νομοθεσίας για Εγκαταστάσεις Κατασκευών Κεραιών Χαμηλής Ηλεκτρομαγνητικής Περιβαλλοντικής Όχλησης (ΕΚΚΧΟ).",
+  "measurements_eaee": "-",
+  "documents": [
+    {
+      "document_number": "463227/30-06-2022",
+      "protocol_number": "ΣΚΑΡΙΦΗΜΑ ΕΚΚΧΟ/",
+      "type": "Φωτογραφικό Υλικό - Σκαρίφημα",
+      "file_url": "https://silia.eett.gr/silia/download/44aa52fd-4efe-4016-bfaf-54db2c7c18c2"
+    },
+    {
+      "document_number": "463237/30-06-2022",
+      "protocol_number": "Αρχείο Αίτησης/",
+      "type": "Δήλωση ΕΚΚΧΟ",
+      "file_url": "https://silia.eett.gr/silia/download/55db7f58-fef6-455b-8ba5-bcba659e08f7"
+    },
+    {
+      "document_number": "465402/02-08-2022",
+      "protocol_number": "ΥΠΕΥΘΥΝΗ ΔΗΛΩΣΗ ΜΗΧΑΝΙΚΟΥ/",
+      "type": "Άλλο",
+      "file_url": "https://silia.eett.gr/silia/download/8a31fde5-dc41-434b-b2b8-b237f7a480c0"
+    },
+    {
+      "document_number": "472242/11-11-2022",
+      "protocol_number": "22582/13-10-2022",
+      "type": "Άλλο",
+      "file_url": "https://silia.eett.gr/silia/download/78dee0ed-3942-4ff5-aa04-81921d5722e6"
+    }
+  ]
+}

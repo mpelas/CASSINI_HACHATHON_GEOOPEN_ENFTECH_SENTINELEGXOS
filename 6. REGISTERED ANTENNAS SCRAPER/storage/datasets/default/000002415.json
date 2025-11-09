@@ -1,0 +1,57 @@
+{
+  "antenna_id": "167402",
+  "address": "LAMDA FLISVOS MARINA S.A., ΜΑΡΙΝΑ ΦΛΟΙΣΒΟΥ",
+  "position_code": 1165373,
+  "municipality": "Παλαιού Φαλήρου",
+  "code_name": "MARINA FLISVOU 5G",
+  "region": "Αττικής",
+  "latitude": 37.928056,
+  "company": "VODAFONE",
+  "longitude": 23.684167,
+  "permit_status": "Από τα στοιχεία που τηρούνται στην Ενημερωτική Πύλη προκύπτει ότι, για τη θέση \"LAMDA FLISVOS MARINA S.A., ΜΑΡΙΝΑ ΦΛΟΙΣΒΟΥ\" στον Δήμο Παλαιού Φαλήρου Περιφέρειας  Αττικής \n\t(κωδικός αριθμός θέσης 1165373, κωδική ονομασία \"MARINA FLISVOU 5G\") έχει κατατεθεί από την εταιρία VODAFONE\tδήλωση εγκατάστασης κατασκευής κεραίας (αριθ. πρωτ. \n\t50875/01-03-2023) που εμπίπτει στις διατάξεις της νομοθεσίας για Εγκαταστάσεις Κατασκευών Κεραιών Χαμηλής Ηλεκτρομαγνητικής Περιβαλλοντικής Όχλησης (ΕΚΚΧΟ).",
+  "measurements_eaee": "-",
+  "documents": [
+    {
+      "document_number": "479216/01-03-2023",
+      "protocol_number": "Φωτορεαλιστική απεικόνιση ΕΚΚΧΟ/",
+      "type": "Φωτογραφικό Υλικό - Σκαρίφημα",
+      "file_url": "https://silia.eett.gr/silia/download/4240e679-6ca6-45a8-8e10-30a61b10af24"
+    },
+    {
+      "document_number": "479217/01-03-2023",
+      "protocol_number": "Ψηφιακός Χάρτης με προβολή της θέσης ΕΚΚΧΟ/",
+      "type": "Φωτογραφικό Υλικό - Σκαρίφημα",
+      "file_url": "https://silia.eett.gr/silia/download/78b3f290-ce04-4fa8-ba49-723ee7259953"
+    },
+    {
+      "document_number": "479218/01-03-2023",
+      "protocol_number": "Αρχιτεκτονικά σχέδια ΕΚΚΧΟ/",
+      "type": "Αρχιτεκτονικά Σχέδια",
+      "file_url": "https://silia.eett.gr/silia/download/630051c8-da4b-4d86-bed2-a9db46ccbd6a"
+    },
+    {
+      "document_number": "479220/01-03-2023",
+      "protocol_number": "ΥΔ κοινής χρήσης NOVA/01-03-2023",
+      "type": "Άλλο",
+      "file_url": "https://silia.eett.gr/silia/download/b21ef495-5595-4b4d-82dc-b715e07c2fb4"
+    },
+    {
+      "document_number": "479227/01-03-2023",
+      "protocol_number": "Μελέτη ΕΚΚΧΟ/27-01-2023",
+      "type": "Άλλο",
+      "file_url": "https://silia.eett.gr/silia/download/55c65f96-be93-4746-92c0-1ecd720a5e62"
+    },
+    {
+      "document_number": "479228/01-03-2023",
+      "protocol_number": "Αρχείο Αίτησης/",
+      "type": "Δήλωση ΕΚΚΧΟ",
+      "file_url": "https://silia.eett.gr/silia/download/2ec8e5cf-3a36-4a14-8dfa-d4c0bc32cfd0"
+    },
+    {
+      "document_number": "483642/28-04-2023",
+      "protocol_number": "ΥΔ εγκατάστασης/28-04-2023",
+      "type": "Άλλο",
+      "file_url": "https://silia.eett.gr/silia/download/72ba0b44-7f42-442f-8de6-e8f80f68ec69"
+    }
+  ]
+}

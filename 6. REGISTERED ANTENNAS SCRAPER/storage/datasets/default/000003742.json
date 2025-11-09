@@ -1,0 +1,27 @@
+{
+  "antenna_id": "125693",
+  "address": "ΞΕΝΟΔΟΧΕΙΟ SUN PRIME PLATANIAS, ΠΛΑΤΑΝΙΑΣ, XANIA",
+  "position_code": 1409708,
+  "municipality": "Χανίων",
+  "code_name": "SUN_PRIME-C",
+  "region": "Κρήτης",
+  "latitude": 35.5175,
+  "company": "OTE",
+  "longitude": 23.893056,
+  "permit_status": "Από τα στοιχεία που τηρούνται στην Ενημερωτική Πύλη προκύπτει ότι, για τη θέση \"ΞΕΝΟΔΟΧΕΙΟ SUN PRIME PLATANIAS, ΠΛΑΤΑΝΙΑΣ, XANIA\" στον Δήμο Χανίων Περιφέρειας  Κρήτης \n\t(κωδικός αριθμός θέσης 1409708, κωδική ονομασία \"SUN_PRIME-C\") έχει κατατεθεί από την εταιρία OTE\tδήλωση εγκατάστασης κατασκευής κεραίας (αριθ. πρωτ. \n\t20944/25-01-2017) που εμπίπτει στις διατάξεις της νομοθεσίας για Εγκαταστάσεις Κατασκευών Κεραιών Χαμηλής Ηλεκτρομαγνητικής Περιβαλλοντικής Όχλησης (ΕΚΚΧΟ).",
+  "measurements_eaee": "-",
+  "documents": [
+    {
+      "document_number": "285194/19-01-2017",
+      "protocol_number": "ΦΩΤΟΓΡΑΦΙΑ/19-01-2017",
+      "type": "Φωτογραφικό Υλικό - Σκαρίφημα",
+      "file_url": "https://silia.eett.gr/silia/download/58631767-77ec-4ec3-bb2c-e9fec2b08db5"
+    },
+    {
+      "document_number": "285567/25-01-2017",
+      "protocol_number": "Αρχείο Αίτησης/",
+      "type": "Δήλωση ΕΚΚΧΟ",
+      "file_url": "https://silia.eett.gr/silia/download/11830655-1835-4ae6-bc4b-87459792e3c5"
+    }
+  ]
+}

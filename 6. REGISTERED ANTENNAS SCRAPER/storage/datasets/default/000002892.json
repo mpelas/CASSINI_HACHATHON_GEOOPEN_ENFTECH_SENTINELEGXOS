@@ -1,0 +1,93 @@
+{
+  "antenna_id": "128704",
+  "address": "ΚΤΙΡΙΟ ΟΤΕ, ΥΨΩΜΑ <<ΚΟΥΡΙ>> ,Δ.Κ. ΑΣΒΕΣΤΟΧΩΡΙΟΥ Δ.Ε.",
+  "position_code": 1401024,
+  "municipality": "Πυλαίας - Χορτιάτη",
+  "code_name": "Α/Τ ΚΟΥΡΙ",
+  "region": "Κεντρικής Μακεδονίας",
+  "latitude": 40.633056,
+  "company": "OTE",
+  "longitude": 23.056111,
+  "permit_status": "Από τα στοιχεία που τηρούνται στην Ενημερωτική Πύλη προκύπτει ότι, για τη θέση \"ΚΤΙΡΙΟ ΟΤΕ, ΥΨΩΜΑ <<ΚΟΥΡΙ>> ,Δ.Κ. ΑΣΒΕΣΤΟΧΩΡΙΟΥ Δ.Ε.\" στον Δήμο Πυλαίας - Χορτιάτη Περιφέρειας  Κεντρικής Μακεδονίας \n\t(κωδικός αριθμός θέσης 1401024, κωδική ονομασία \"Α/Τ ΚΟΥΡΙ\") χορηγήθηκε, με την Απόφαση της ΕΕΤΤ \n43903/29-04-2022, άδεια κατασκευής κεραίας στην εταιρία OTE. \nΑπό τo έγγραφο της άδειας μπορείτε να ενημερωθείτε για τις σχετικές εγκρίσεις των συναρμόδιων φορέων, καθώς και εάν πρόκειται για τροποποίηση παλαιότερης άδειας.\nΗ άδεια χορηγήθηκε με τη διαδικασία αδειοδότησης που ορίζει ο ν. 4635/2019, κατόπιν της με αριθ. πρωτ. 37534/27-02-2020 \n\tαίτησης, και βάσει σχετικής δήλωσης του κατόχου της περί υπαγωγή της κατασκευής κεραίας στο άρθρο 34 του ν. 4635/2019.",
+  "measurements_eaee": "-",
+  "documents": [
+    {
+      "document_number": "396985/27-02-2020",
+      "protocol_number": "ΜΕΣΩ ΣΗΛΥΑ/",
+      "type": "Τοπογραφικό",
+      "file_url": "https://silia.eett.gr/silia/download/bc54fa43-ee69-4000-8f1a-551316ccd822"
+    },
+    {
+      "document_number": "396986/27-02-2020",
+      "protocol_number": "ΜΕΣΩ ΣΗΛΥΑ/",
+      "type": "Αρχιτεκτονικά Σχέδια",
+      "file_url": "https://silia.eett.gr/silia/download/f9874524-2ec6-49c7-9bd7-006670cb72ba"
+    },
+    {
+      "document_number": "396987/27-02-2020",
+      "protocol_number": "7813/06-09-2018",
+      "type": "Αίτηση / Μελέτη για Έγκριση Περιβαλλοντικών Επιπτώσεων",
+      "file_url": "https://silia.eett.gr/silia/download/eb4dc127-5410-4a1a-b83c-f95bf7184f6d"
+    },
+    {
+      "document_number": "396988/27-02-2020",
+      "protocol_number": "Δ3/Δ/51639/7921/18-12-1997",
+      "type": "Γνωμάτευση ΥΠΑ",
+      "file_url": "https://silia.eett.gr/silia/download/3fd6f47b-4972-4460-b598-a933be469078"
+    },
+    {
+      "document_number": "396989/27-02-2020",
+      "protocol_number": "Δ3/Δ/10304/04-12-2007",
+      "type": "Γνωμάτευση ΥΠΑ",
+      "file_url": "https://silia.eett.gr/silia/download/2d743f91-9bd0-4e22-8f53-29a5701a363c"
+    },
+    {
+      "document_number": "396990/27-02-2020",
+      "protocol_number": "ΜΕΣΩ ΣΗΛΥΑ/26-02-2020",
+      "type": "Αίτηση ΥΠΑ",
+      "file_url": "https://silia.eett.gr/silia/download/1ed4f551-7f9b-4fac-9065-e677b9ba39f1"
+    },
+    {
+      "document_number": "396991/27-02-2020",
+      "protocol_number": "ΜΕΣΩ ΣΗΛΥΑ/05-12-2019",
+      "type": "Αίτηση - Μελέτη Ραδιοεκπομπών ΕΕΑΕ",
+      "file_url": "https://silia.eett.gr/silia/download/51329fea-3760-4cd8-9c5f-91778edb21bc"
+    },
+    {
+      "document_number": "396992/27-02-2020",
+      "protocol_number": "ΥΠ.ΔΗΛΩΣΗ ΣΥΝΕΓΚΑΤΑΣΤΑΣΗΣ ΟΤΕ/26-02-2020",
+      "type": "Άλλο",
+      "file_url": "https://silia.eett.gr/silia/download/6cc3f2de-33b8-4b9a-83f5-9583fedde016"
+    },
+    {
+      "document_number": "397473/27-02-2020",
+      "protocol_number": "Αρχείο Αίτησης/",
+      "type": "Αίτηση Άδειας Κατασκευής Κεραίας ΕΕΤΤ",
+      "file_url": "https://silia.eett.gr/silia/download/5b8006b9-1b49-48d0-afd7-5ecca0b72217"
+    },
+    {
+      "document_number": "403234/24-04-2020",
+      "protocol_number": "Μ.ι./411/5556/2020/23-04-2020",
+      "type": "Γνωμάτευση ΕΕΑΕ",
+      "file_url": "https://silia.eett.gr/silia/download/e55d28f0-bc38-4dc8-9f41-42ce4339a1e3"
+    },
+    {
+      "document_number": "403348/27-04-2020",
+      "protocol_number": "ΠΕΤ 2004292120/24-04-2020",
+      "type": "Αίτηση / Μελέτη για Έγκριση Περιβαλλοντικών Επιπτώσεων",
+      "file_url": "https://silia.eett.gr/silia/download/256f15c6-5549-45ea-828c-0ff04a664980"
+    },
+    {
+      "document_number": "448991/03-01-2022",
+      "protocol_number": "323305/23-12-2021",
+      "type": "Έγκριση Περιβαλλοντικών Όρων",
+      "file_url": "https://silia.eett.gr/silia/download/4ca40f39-b02c-40e3-952b-377e78ac2d06"
+    },
+    {
+      "document_number": "458722/06-05-2022",
+      "protocol_number": "43903/29-04-2022",
+      "type": "Άδεια Κατασκευής  Κεραίας",
+      "file_url": "https://silia.eett.gr/silia/download/13b54636-a4fd-4d52-ab4e-301ca3708c69"
+    }
+  ]
+}

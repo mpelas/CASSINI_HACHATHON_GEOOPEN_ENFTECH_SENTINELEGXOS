@@ -1,0 +1,87 @@
+{
+  "antenna_id": "167450",
+  "address": "ΑΧΑΡΑΒΗ , ΘΕΣΗ \"ΛΙΘΕΡΕΣ\" , ΚΕΡΚΥΡΑ",
+  "position_code": 1414145,
+  "municipality": "Δήμων Βόρειας Κέρκυρας",
+  "code_name": "ACHARAVI /X",
+  "region": "Ιονίων Νήσων",
+  "latitude": 39.791944,
+  "company": "OTE",
+  "longitude": 19.827778,
+  "permit_status": "Από τα στοιχεία που τηρούνται στην Ενημερωτική Πύλη προκύπτει ότι, για τη θέση \"ΑΧΑΡΑΒΗ , ΘΕΣΗ \"ΛΙΘΕΡΕΣ\" , ΚΕΡΚΥΡΑ\" στον Δήμο Δήμων Βόρειας Κέρκυρας Περιφέρειας  Ιονίων Νήσων \n\t(κωδικός αριθμός θέσης 1414145, κωδική ονομασία \"ACHARAVI /X\") χορηγήθηκε, με την Απόφαση της ΕΕΤΤ \n36449/24-07-2020, άδεια κατασκευής κεραίας στην εταιρία OTE. \nΑπό τo έγγραφο της άδειας μπορείτε να ενημερωθείτε για τις σχετικές εγκρίσεις των συναρμόδιων φορέων, καθώς και εάν πρόκειται για τροποποίηση παλαιότερης άδειας.\n\tΣύμφωνα με τα στοιχεία που έχουν υποβληθεί στο ΣΗΛΥΑ, ο κάτοχος της κατασκευής κεραίας έχει δηλώσει ότι θα προβεί σε έκδοση έγκρισης δομικών κατασκευών \n\t\tκεραίας μέσω του e-Άδειες \n\t\tμετά την έκδοση της άδειας κατασκευής κεραίας / δημοσιοποίηση της δήλωσης τροποποίησης της κατασκευής κεραίας",
+  "measurements_eaee": "-",
+  "documents": [
+    {
+      "document_number": "479912/09-03-2023",
+      "protocol_number": "ΜΕΣΩ ΣΗΛΥΑ    /",
+      "type": "Τοπογραφικό",
+      "file_url": "https://silia.eett.gr/silia/download/bc34cbef-5834-4e70-90a0-9201f542fe9b"
+    },
+    {
+      "document_number": "479913/09-03-2023",
+      "protocol_number": "ΜΕΣΩ ΣΗΛΥΑ    /",
+      "type": "Αρχιτεκτονικά Σχέδια",
+      "file_url": "https://silia.eett.gr/silia/download/09adddca-8146-4bfc-8c09-830565e1b1ae"
+    },
+    {
+      "document_number": "479914/09-03-2023",
+      "protocol_number": "EMC/06-02-2023",
+      "type": "Αποτελέσματα μελέτης στη ζώνης 2.6GHz για ΥΠΑ/ΓΕΕΘΑ",
+      "file_url": "https://silia.eett.gr/silia/download/32ebbf50-6e84-4581-961c-7d2ffe11662e"
+    },
+    {
+      "document_number": "479915/09-03-2023",
+      "protocol_number": "Δ3/Δ/24039/27-06-2019",
+      "type": "Γνωμάτευση ΥΠΑ",
+      "file_url": "https://silia.eett.gr/silia/download/2c977a94-598b-4f2a-98e9-38a70ed04224"
+    },
+    {
+      "document_number": "479918/09-03-2023",
+      "protocol_number": "ΜΕΣΩ ΣΗΛΥΑ    /09-03-2023",
+      "type": "Αίτηση ΥΠΑ",
+      "file_url": "https://silia.eett.gr/silia/download/016355e5-1c61-4790-a69c-f2ba12e83690"
+    },
+    {
+      "document_number": "480011/10-03-2023",
+      "protocol_number": "ΜΕΣΩ ΣΗΛΥΑ    /05-10-2022",
+      "type": "Αίτηση - Μελέτη Ραδιοεκπομπών ΕΕΑΕ",
+      "file_url": "https://silia.eett.gr/silia/download/ee6c8bb0-ccb8-4319-9888-8141e9faac2e"
+    },
+    {
+      "document_number": "480019/10-03-2023",
+      "protocol_number": "Αρχείο Αίτησης/",
+      "type": "Αίτηση Άδειας Κατασκευής Κεραίας ΕΕΤΤ",
+      "file_url": "https://silia.eett.gr/silia/download/cfbb150e-803d-47fd-ac0b-e58ad8a5a9eb"
+    },
+    {
+      "document_number": "486307/29-05-2023",
+      "protocol_number": "TMIA/411/6844/2023/26-05-2023",
+      "type": "Γνωμάτευση ΕΕΑΕ",
+      "file_url": "https://silia.eett.gr/silia/download/52112d82-8544-4a19-b23b-66b0a2defc02"
+    },
+    {
+      "document_number": "496755/10-10-2023",
+      "protocol_number": "36449/24-07-2020",
+      "type": "Άδεια Κατασκευής  Κεραίας",
+      "file_url": "https://silia.eett.gr/silia/download/7dd0d24b-d682-4899-8d06-c20fca0caedc"
+    },
+    {
+      "document_number": "497012/12-10-2023",
+      "protocol_number": "49291/03-10-2023",
+      "type": "Άδεια Κατασκευής  Κεραίας",
+      "file_url": "https://silia.eett.gr/silia/download/64d12902-b758-44a9-aa6f-b30c79d57c28"
+    },
+    {
+      "document_number": "479911/09-03-2023",
+      "protocol_number": "ΣΥΝΟΔΕΥΤΙΚΑ ΕΓΓΡΑΦΑ/",
+      "type": "Δήλωση υπαγωγής σε ΠΠΔ και Συνοδευτικά Έγγραφα",
+      "file_url": "https://silia.eett.gr/silia/download/56cdaecb-8d8c-4abb-a63d-b757f944a28e"
+    },
+    {
+      "document_number": "480020/10-03-2023",
+      "protocol_number": "Αρχείο Αίτησης/",
+      "type": "Δήλωση ΠΠΔ",
+      "file_url": "https://silia.eett.gr/silia/download/a5451ae7-5207-45ff-bff4-542bfdbc6bf0"
+    }
+  ]
+}

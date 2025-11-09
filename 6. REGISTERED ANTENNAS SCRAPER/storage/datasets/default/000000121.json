@@ -1,0 +1,45 @@
+{
+  "antenna_id": "169501",
+  "address": "Λ.ΜΕΣΟΓΕΙΩΝ 395 ΑΓΙΑ ΠΑΡΑΣΚΕΥΗ, ΑΤΤΙΚΗ.",
+  "position_code": 1150908,
+  "municipality": "Αγίας Παρασκευής",
+  "code_name": "3030908 ELTA MESOGEION 395",
+  "region": "Αττικής",
+  "latitude": 38.012222,
+  "company": "VODAFONE",
+  "longitude": 23.813889,
+  "permit_status": "Από τα στοιχεία που τηρούνται στην Ενημερωτική Πύλη προκύπτει ότι, για τη θέση \"Λ.ΜΕΣΟΓΕΙΩΝ 395 ΑΓΙΑ ΠΑΡΑΣΚΕΥΗ, ΑΤΤΙΚΗ.\" στον Δήμο Αγίας Παρασκευής Περιφέρειας  Αττικής \n\t(κωδικός αριθμός θέσης 1150908, κωδική ονομασία \"3030908 ELTA MESOGEION 395\") έχει κατατεθεί από την εταιρία VODAFONE\tδήλωση εγκατάστασης κατασκευής κεραίας (αριθ. πρωτ. \n\t52493/28-07-2023) που εμπίπτει στις διατάξεις της νομοθεσίας για Εγκαταστάσεις Κατασκευών Κεραιών Χαμηλής Ηλεκτρομαγνητικής Περιβαλλοντικής Όχλησης (ΕΚΚΧΟ).",
+  "measurements_eaee": "-",
+  "documents": [
+    {
+      "document_number": "491685/28-07-2023",
+      "protocol_number": "Φωτορεαλιστική απεικόνιση κεραιας  ΕΚΚΧΟ/",
+      "type": "Φωτογραφικό Υλικό - Σκαρίφημα",
+      "file_url": "https://silia.eett.gr/silia/download/e15b14aa-c404-422a-a05e-bf532f3b6599"
+    },
+    {
+      "document_number": "491686/28-07-2023",
+      "protocol_number": "Ψηφιακός Χάρτης με προβολή της θέσης ΕΚΚΧΟ/",
+      "type": "Φωτογραφικό Υλικό - Σκαρίφημα",
+      "file_url": "https://silia.eett.gr/silia/download/dca04531-1f42-4d36-98e0-db2994204ac5"
+    },
+    {
+      "document_number": "491687/28-07-2023",
+      "protocol_number": "Μελέτη ΕΚΚΧΟ/28-07-2023",
+      "type": "Άλλο",
+      "file_url": "https://silia.eett.gr/silia/download/d8bb9a70-ba52-4121-9896-2fbd6daf08b0"
+    },
+    {
+      "document_number": "491688/28-07-2023",
+      "protocol_number": "Αρχείο Αίτησης/",
+      "type": "Δήλωση ΕΚΚΧΟ",
+      "file_url": "https://silia.eett.gr/silia/download/7d9d0be2-cc6e-4551-a0fa-b1a642d67445"
+    },
+    {
+      "document_number": "493949/08-09-2023",
+      "protocol_number": "ΥΔ εγκατάστασης/08-09-2023",
+      "type": "Άλλο",
+      "file_url": "https://silia.eett.gr/silia/download/df439a8c-f782-4393-9f5d-b20e7e42509e"
+    }
+  ]
+}

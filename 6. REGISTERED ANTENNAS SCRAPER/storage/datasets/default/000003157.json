@@ -1,0 +1,99 @@
+{
+  "antenna_id": "179105",
+  "address": "ΚΥΘΗΡΩΝ 18",
+  "position_code": 8002051,
+  "municipality": "Σερρών",
+  "code_name": "ΚΥΘΗΡΩΝ-051",
+  "region": "Κεντρικής Μακεδονίας",
+  "latitude": 41.083611,
+  "company": "ERMIS-WISP",
+  "longitude": 23.530833,
+  "permit_status": "Από τα στοιχεία που τηρούνται στην Ενημερωτική Πύλη προκύπτει ότι, για τη θέση \"ΚΥΘΗΡΩΝ 18\" στον Δήμο Σερρών Περιφέρειας  Κεντρικής Μακεδονίας \n\t(κωδικός αριθμός θέσης 8002051, κωδική ονομασία \"ΚΥΘΗΡΩΝ-051\") έχει κατατεθεί από την εταιρία ERMIS-WISP\tδήλωση εγκατάστασης κατασκευής κεραίας (αριθ. πρωτ. \n\t60703/16-04-2025) που εμπίπτει στις διατάξεις της νομοθεσίας για Εγκαταστάσεις Κατασκευών Κεραιών Χαμηλής Ηλεκτρομαγνητικής Περιβαλλοντικής Όχλησης (ΕΚΚΧΟ).",
+  "measurements_eaee": "-",
+  "documents": [
+    {
+      "document_number": "547168/16-04-2025",
+      "protocol_number": "Φωτορεαλιστικο Ιστου/16-04-2025",
+      "type": "Φωτογραφικό Υλικό - Σκαρίφημα",
+      "file_url": "https://silia.eett.gr/silia/download/oyYfFNhuEznemSw3bMLsfy6on245kKlCgPam"
+    },
+    {
+      "document_number": "547169/16-04-2025",
+      "protocol_number": "Φωτοραλιστικο Βασης/16-04-2025",
+      "type": "Φωτογραφικό Υλικό - Σκαρίφημα",
+      "file_url": "https://silia.eett.gr/silia/download/0VmGwdQsEEYTzG8tWd1Dgie1I7XPGqhFtVUa"
+    },
+    {
+      "document_number": "547170/16-04-2025",
+      "protocol_number": "Τοπογραφικο Google/16-04-2025",
+      "type": "Τοπογραφικό",
+      "file_url": "https://silia.eett.gr/silia/download/8MRIAgZQp5z6L4Gv8eNC73cYRIVNO2qegtMF"
+    },
+    {
+      "document_number": "547171/16-04-2025",
+      "protocol_number": "Τεχνικα Χαρακτηριστικα-OmniTIK-5/16-04-2025",
+      "type": "Άλλο",
+      "file_url": "https://silia.eett.gr/silia/download/u62VhDsbKaTVmq0f5DGdzk07ilGx3EfD45i2"
+    },
+    {
+      "document_number": "547172/16-04-2025",
+      "protocol_number": "ΟΨΗ ΧΩΡΩΝ ΠΡΟΣΤΑΣΙΑΣ/16-04-2025",
+      "type": "Αρχιτεκτονικά [Κάτοψη - Τομή - Όψη]",
+      "file_url": "https://silia.eett.gr/silia/download/TqfTUkwQZLP3wlbE9eek8q9Zfc7TmEoOE2WC"
+    },
+    {
+      "document_number": "547173/16-04-2025",
+      "protocol_number": "ΟΨΗ ΧΩΡΩΝ ΠΡΟΣΤΑΣΙΑΣ ΒΑΣΗΣ/16-04-2025",
+      "type": "Αρχιτεκτονικά [Κάτοψη - Τομή - Όψη]",
+      "file_url": "https://silia.eett.gr/silia/download/aCeW7R08Rrsc4oZdexpRrIKleh51Z6ggGCR6"
+    },
+    {
+      "document_number": "547174/16-04-2025",
+      "protocol_number": "ΟΨΗ ΙΣΤΟΥ/16-04-2025",
+      "type": "Αρχιτεκτονικά [Κάτοψη - Τομή - Όψη]",
+      "file_url": "https://silia.eett.gr/silia/download/pHxOO5RBehrr4Ytng3U3GA80ZVH7Q9lgGDTD"
+    },
+    {
+      "document_number": "547175/16-04-2025",
+      "protocol_number": "ΚΑΤΟΨΗ/16-04-2025",
+      "type": "Αρχιτεκτονικά [Κάτοψη - Τομή - Όψη]",
+      "file_url": "https://silia.eett.gr/silia/download/2LzGBYHYzMDsx0zPQYik6lz2WosKyMLkM84I"
+    },
+    {
+      "document_number": "547176/16-04-2025",
+      "protocol_number": "ΚΑΤΟΨΗ ΙΣΤΟΥ/16-04-2025",
+      "type": "Αρχιτεκτονικά [Κάτοψη - Τομή - Όψη]",
+      "file_url": "https://silia.eett.gr/silia/download/6UlGFSyrK9ZfMmEWETcCn3l6drgXLikRVnbi"
+    },
+    {
+      "document_number": "547177/16-04-2025",
+      "protocol_number": "ΚΑΤΟΧΗ ΧΩΡΩΝ ΠΡΟΣΤΑΣΙΑΣ/16-04-2025",
+      "type": "Αρχιτεκτονικά [Κάτοψη - Τομή - Όψη]",
+      "file_url": "https://silia.eett.gr/silia/download/LOkza9qowFbccmQCikI1g8upUfwEacfD7zwU"
+    },
+    {
+      "document_number": "547178/16-04-2025",
+      "protocol_number": "Διαγραμμα Ακτινοβολιας Κεραιας-OmniTik/16-04-2025",
+      "type": "Άλλο",
+      "file_url": "https://silia.eett.gr/silia/download/2l0IAUqwHya15mmUzx8COSoa6BiRESeyBHGH"
+    },
+    {
+      "document_number": "547179/16-04-2025",
+      "protocol_number": "CE-OmniTik-5Hac/16-04-2025",
+      "type": "Άλλο",
+      "file_url": "https://silia.eett.gr/silia/download/h6HdikV9mC4XKRrXAXmSdnfvzQxfAIIuSOXp"
+    },
+    {
+      "document_number": "547180/16-04-2025",
+      "protocol_number": "Αρχείο Αίτησης/16-04-2025",
+      "type": "Δήλωση ΕΚΚΧΟ",
+      "file_url": "https://silia.eett.gr/silia/download/8uCT4AZVYiLkFMMxzZzCLEafhfFQWSmToSDo"
+    },
+    {
+      "document_number": "555932/18-07-2025",
+      "protocol_number": "ΥΠΕΥΘΥΝΗ ΔΗΛΩΣΗ/18-07-2025",
+      "type": "Άλλο",
+      "file_url": "https://silia.eett.gr/silia/download/IPd3hGKFt5KtGBODr2de5MaE0GK4YkGaFMvG"
+    }
+  ]
+}

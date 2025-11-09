@@ -1,0 +1,81 @@
+{
+  "antenna_id": "159776",
+  "address": "ΧΟΝΔΡΑ-ΒΑΡΗ",
+  "position_code": 1406430,
+  "municipality": "Σύρου - Ερμούπολης",
+  "code_name": "ΧΟΝΔΡΑ/Χ",
+  "region": "Νοτίου Αιγαίου",
+  "latitude": 37.3875,
+  "company": "OTE",
+  "longitude": 24.9475,
+  "permit_status": "Από τα στοιχεία που τηρούνται στην Ενημερωτική Πύλη προκύπτει ότι, για τη θέση \"ΧΟΝΔΡΑ-ΒΑΡΗ\" στον Δήμο Σύρου - Ερμούπολης Περιφέρειας  Νοτίου Αιγαίου \n\t(κωδικός αριθμός θέσης 1406430, κωδική ονομασία \"ΧΟΝΔΡΑ/Χ\") χορηγήθηκε, με την Απόφαση της ΕΕΤΤ \n44981/29-08-2022, άδεια κατασκευής κεραίας στην εταιρία OTE. \nΑπό τo έγγραφο της άδειας μπορείτε να ενημερωθείτε για τις σχετικές εγκρίσεις των συναρμόδιων φορέων, καθώς και εάν πρόκειται για τροποποίηση παλαιότερης άδειας.",
+  "measurements_eaee": "-",
+  "documents": [
+    {
+      "document_number": "437977/07-07-2021",
+      "protocol_number": "ΜΕΣΩ ΣΗΛΥΑ/",
+      "type": "Τοπογραφικό",
+      "file_url": "https://silia.eett.gr/silia/download/c79d969b-d9e0-46dd-8999-7ac210fb90b8"
+    },
+    {
+      "document_number": "437978/07-07-2021",
+      "protocol_number": "ΜΕΣΩ ΣΗΛΥΑ/",
+      "type": "Αρχιτεκτονικά Σχέδια",
+      "file_url": "https://silia.eett.gr/silia/download/2c250f66-7cf7-403c-8f36-35ecee281da2"
+    },
+    {
+      "document_number": "437979/07-07-2021",
+      "protocol_number": "Δ3/Δ/15273/3443/18-04-2002",
+      "type": "Γνωμάτευση ΥΠΑ",
+      "file_url": "https://silia.eett.gr/silia/download/9730d9aa-350b-46c7-8a74-566dee2ff557"
+    },
+    {
+      "document_number": "437980/07-07-2021",
+      "protocol_number": "ΜΕΣΩ ΣΗΛΥΑ/07-07-2021",
+      "type": "Αίτηση ΥΠΑ",
+      "file_url": "https://silia.eett.gr/silia/download/42890d44-2c83-45c3-b764-5e5341bb542b"
+    },
+    {
+      "document_number": "437981/07-07-2021",
+      "protocol_number": "ΜΕΣΩ ΣΗΛΥΑ/25-06-2021",
+      "type": "Αίτηση - Μελέτη Ραδιοεκπομπών ΕΕΑΕ",
+      "file_url": "https://silia.eett.gr/silia/download/48f9a53a-8fbc-42a3-ab88-ce950a3c3729"
+    },
+    {
+      "document_number": "438048/08-07-2021",
+      "protocol_number": "Αρχείο Αίτησης/",
+      "type": "Αίτηση Άδειας Κατασκευής Κεραίας ΕΕΤΤ",
+      "file_url": "https://silia.eett.gr/silia/download/796ecff7-de5b-42fa-9dbb-e033b6a018ba"
+    },
+    {
+      "document_number": "444567/21-10-2021",
+      "protocol_number": "ΜΕΣΩ ΣΗΛΥΑ/21-10-2021",
+      "type": "Αίτηση - Μελέτη Ραδιοεκπομπών ΕΕΑΕ",
+      "file_url": "https://silia.eett.gr/silia/download/5f5ba980-41e8-4c99-a08c-360896085133"
+    },
+    {
+      "document_number": "457903/26-04-2022",
+      "protocol_number": "μεσω σηλυα/26-04-2022",
+      "type": "Αίτηση - Μελέτη Ραδιοεκπομπών ΕΕΑΕ",
+      "file_url": "https://silia.eett.gr/silia/download/852271c1-c3b1-4b92-af9a-367dcda9167b"
+    },
+    {
+      "document_number": "464412/20-07-2022",
+      "protocol_number": "Μ.ι./411/10607/2022/20-07-2022",
+      "type": "Γνωμάτευση ΕΕΑΕ",
+      "file_url": "https://silia.eett.gr/silia/download/60b4ecb4-c54c-40d5-b3b3-fc6effcee9a5"
+    },
+    {
+      "document_number": "466762/30-08-2022",
+      "protocol_number": "44981/29-08-2022",
+      "type": "Άδεια Κατασκευής  Κεραίας",
+      "file_url": "https://silia.eett.gr/silia/download/34f0e00c-4e72-4e26-9a94-61dd0a7036f7"
+    },
+    {
+      "document_number": "438049/08-07-2021",
+      "protocol_number": "Αρχείο Αίτησης/",
+      "type": "Δήλωση ΠΠΔ",
+      "file_url": "https://silia.eett.gr/silia/download/34634fde-0f37-4e77-a33a-250e1269ddbc"
+    }
+  ]
+}

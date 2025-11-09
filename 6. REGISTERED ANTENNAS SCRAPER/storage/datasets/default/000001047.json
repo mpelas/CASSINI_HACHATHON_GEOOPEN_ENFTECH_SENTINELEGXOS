@@ -1,0 +1,39 @@
+{
+  "antenna_id": "174846",
+  "address": "ΑΓΙΟΣ ΛΑΥΡΕΝΤΙΟΣ",
+  "position_code": 400318,
+  "municipality": "Βόλου",
+  "code_name": "AG.LAVRENTIOS_MAGN",
+  "region": "Θεσσαλίας",
+  "latitude": 39.360278,
+  "company": "OTE",
+  "longitude": 23.059167,
+  "permit_status": "Από τα στοιχεία που τηρούνται στην Ενημερωτική Πύλη προκύπτει ότι, για τη θέση \"ΑΓΙΟΣ ΛΑΥΡΕΝΤΙΟΣ\" στον Δήμο Βόλου Περιφέρειας  Θεσσαλίας \n\t(κωδικός αριθμός θέσης 0400318, κωδική ονομασία \"AG.LAVRENTIOS_MAGN\") έχει κατατεθεί από την εταιρία OTE\tδήλωση εγκατάστασης κατασκευής κεραίας (αριθ. πρωτ. \n\t60364/02-04-2025) που εμπίπτει στις διατάξεις της νομοθεσίας για Εγκαταστάσεις Κατασκευών Κεραιών Χαμηλής Ηλεκτρομαγνητικής Περιβαλλοντικής Όχλησης (ΕΚΚΧΟ).",
+  "measurements_eaee": "-",
+  "documents": [
+    {
+      "document_number": "523123/07-08-2024",
+      "protocol_number": "ΦΩΤΟΓΡΑΦΙΑ/07-08-2024",
+      "type": "Φωτογραφικό Υλικό - Σκαρίφημα",
+      "file_url": "https://silia.eett.gr/silia/download/KkcG2ClKSuIuli76OqO0FvBk9LPOoLRUc7lU"
+    },
+    {
+      "document_number": "523124/07-08-2024",
+      "protocol_number": "ΧΑΡΤΗΣ/07-08-2024",
+      "type": "Φωτογραφικό Υλικό - Σκαρίφημα",
+      "file_url": "https://silia.eett.gr/silia/download/A8luHSBKMvEpDxqabltP2ewKSNwFvWXY6SwH"
+    },
+    {
+      "document_number": "545555/31-03-2025",
+      "protocol_number": "ΜΕΛΕΤΗ/31-03-2025",
+      "type": "Αίτηση - Μελέτη Ραδιοεκπομπών ΕΕΑΕ",
+      "file_url": "https://silia.eett.gr/silia/download/ytncInBdWwEQTgaFKMifUXW3GsubPGQuZSnY"
+    },
+    {
+      "document_number": "545809/02-04-2025",
+      "protocol_number": "Αρχείο Αίτησης/02-04-2025",
+      "type": "Δήλωση ΕΚΚΧΟ",
+      "file_url": "https://silia.eett.gr/silia/download/vGg9Z5noD0hoXA39d9suWmw6tmW65OoMpdUx"
+    }
+  ]
+}

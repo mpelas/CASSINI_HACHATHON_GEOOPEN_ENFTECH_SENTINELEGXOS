@@ -1,0 +1,81 @@
+{
+  "antenna_id": "177499",
+  "address": "Οδός Αλαμάνας (Ο.Τ. 256)",
+  "position_code": 1104984,
+  "municipality": "Ασπροπύργου",
+  "code_name": "ΠΕΡΙΟΧΗ ΑΣΠΡΟΠΥΡΓΟΥ 1 VAN",
+  "region": "Αττικής",
+  "latitude": 38.069722,
+  "company": "VODAFONE",
+  "longitude": 23.585556,
+  "permit_status": "Από τα στοιχεία που τηρούνται στην Ενημερωτική Πύλη προκύπτει ότι, για τη θέση \"Οδός Αλαμάνας (Ο.Τ. 256)\" στον Δήμο Ασπροπύργου Περιφέρειας  Αττικής \n\t(κωδικός αριθμός θέσης 1104984, κωδική ονομασία \"ΠΕΡΙΟΧΗ ΑΣΠΡΟΠΥΡΓΟΥ 1 VAN\") έχει υποβληθεί από την εταιρία VODAFONE\tη με αριθ. πρωτ. ΣΗΛΥΑ 59262/03-02-2025 δήλωση εγκατάστασης κατασκευής κεραίας μεταφερόμενου σταθμού, \n\tσύμφωνα με τα οριζόμενα στην παρ. 3 του άρθρου 13 του Κανονισμού Αδειών Κατασκευών Κεραιών της ΕΕΤΤ.",
+  "measurements_eaee": "-",
+  "documents": [
+    {
+      "document_number": "539838/03-02-2025",
+      "protocol_number": "ΤΟΠΟΓΡΑΦΙΚΟ/29-01-2025",
+      "type": "Τοπογραφικό",
+      "file_url": "https://silia.eett.gr/silia/download/o7yiYk4DxMU0OhzwGIRsxy0dBPHcSeR0AmGn"
+    },
+    {
+      "document_number": "539839/03-02-2025",
+      "protocol_number": "ΟΨΕΙΣ-ΚΑΤΟΨΗ VAN/29-01-2025",
+      "type": "Αρχιτεκτονικά Σχέδια",
+      "file_url": "https://silia.eett.gr/silia/download/nPVlZ4IyzC4ESkvZQmeW3uRagmXnKMwT2YLH"
+    },
+    {
+      "document_number": "539840/03-02-2025",
+      "protocol_number": "Μελέτη Ρ-Ε/30-01-2025",
+      "type": "Μελέτη Ραδιοεκπομπών",
+      "file_url": "https://silia.eett.gr/silia/download/85ZKBrPBdECXVw9BdTwceRpqr8wBcEDw0ze6"
+    },
+    {
+      "document_number": "539841/03-02-2025",
+      "protocol_number": "ΤΕΧΝΙΚΑ ΧΑΡΑΚΤΗΡΙΣΤΙΚΑ/30-01-2025",
+      "type": "Άλλο",
+      "file_url": "https://silia.eett.gr/silia/download/nmMu4f6it446g1r4OVvmgTduaEFGL6ff4pbu"
+    },
+    {
+      "document_number": "539842/03-02-2025",
+      "protocol_number": "13340/31-01-2025",
+      "type": "Αποτελέσματα μελέτης στη ζώνης 2.6GHz για ΥΠΑ/ΓΕΕΘΑ",
+      "file_url": "https://silia.eett.gr/silia/download/mhuDkEKkrgxphTescFXtK2FiQECN29lXvQlp"
+    },
+    {
+      "document_number": "539843/03-02-2025",
+      "protocol_number": "ΑΠΟΤ. ΜΕΛΕΤΗΣ ΠΑΡΕΜΒΟΛΩΝ/30-01-2025",
+      "type": "Αποτελέσματα μελέτης στη ζώνης 2.6GHz για ΥΠΑ/ΓΕΕΘΑ",
+      "file_url": "https://silia.eett.gr/silia/download/rTyawtDS40zpQOHzAhvYVFpmgORilpu2e7pG"
+    },
+    {
+      "document_number": "539844/03-02-2025",
+      "protocol_number": "Φ550/ΑΔ.4148/Σ.1011/15-04-2024",
+      "type": "Γνωμάτευση ΓΕΑ",
+      "file_url": "https://silia.eett.gr/silia/download/pnKgGdKwNc62s5c12ue33FLiRSDebAk2yZKi"
+    },
+    {
+      "document_number": "539846/03-02-2025",
+      "protocol_number": "Αρχείο Αίτησης/03-02-2025",
+      "type": "Δήλωση Μεταφερόμενου Σταθμού",
+      "file_url": "https://silia.eett.gr/silia/download/OuEAwhAuSraW8iN3yPAUd3UGwuDKIvMc1pre"
+    },
+    {
+      "document_number": "540045/05-02-2025",
+      "protocol_number": "ΚΓ/Δ3/Δ/2118/05-02-2025",
+      "type": "Γνωμάτευση ΥΠΑ",
+      "file_url": "https://silia.eett.gr/silia/download/EY9ahBFgsATsLcUlbOdlsrnblCYdiAgRRIBg"
+    },
+    {
+      "document_number": "540346/10-02-2025",
+      "protocol_number": "ΤΜΙΑ/411/2138/2025/10-02-2025",
+      "type": "Γνωμάτευση ΕΕΑΕ",
+      "file_url": "https://silia.eett.gr/silia/download/oFifhGWX98ryXrqKCewCrigfQifKVyBXqXme"
+    },
+    {
+      "document_number": "541647/21-02-2025",
+      "protocol_number": "Υ.Δ. Εγκατάστασης/21-02-2025",
+      "type": "Άλλο",
+      "file_url": "https://silia.eett.gr/silia/download/C8u4oAFXwl2ze0W4Tk28aKFpecpPowxQ50Ch"
+    }
+  ]
+}

@@ -1,0 +1,51 @@
+{
+  "antenna_id": "180787",
+  "address": "57ο χλμ Εθνικής οδού Αθηνών-Λαμίας",
+  "position_code": 1119183,
+  "municipality": "Τανάγρας",
+  "code_name": "ELVAL VIOCHALCO OINOFYTA 2",
+  "region": "Στερεάς Ελλάδας",
+  "latitude": 38.311111,
+  "company": "VODAFONE",
+  "longitude": 23.621389,
+  "permit_status": "Από τα στοιχεία που τηρούνται στην Ενημερωτική Πύλη προκύπτει ότι, για τη θέση \"57ο χλμ Εθνικής οδού Αθηνών-Λαμίας\" στον Δήμο Τανάγρας Περιφέρειας  Στερεάς Ελλάδας \n\t(κωδικός αριθμός θέσης 1119183, κωδική ονομασία \"ELVAL VIOCHALCO OINOFYTA 2\") έχει κατατεθεί από την εταιρία VODAFONE\tδήλωση εγκατάστασης κατασκευής κεραίας (αριθ. πρωτ. \n\t62189/11-07-2025) που εμπίπτει στις διατάξεις της νομοθεσίας για Εγκαταστάσεις Κατασκευών Κεραιών Χαμηλής Ηλεκτρομαγνητικής Περιβαλλοντικής Όχλησης (ΕΚΚΧΟ).",
+  "measurements_eaee": "-",
+  "documents": [
+    {
+      "document_number": "555173/11-07-2025",
+      "protocol_number": "Φωτορεαλιστική απεικόνιση ΕΚΚΧΟ/11-07-2025",
+      "type": "Φωτογραφικό Υλικό - Σκαρίφημα",
+      "file_url": "https://silia.eett.gr/silia/download/ZVkkyLpZpI8s2t3sIGHBy4gnWGn2ShBaK15I"
+    },
+    {
+      "document_number": "555174/11-07-2025",
+      "protocol_number": "Ψηφιακός χάρτης με προβολή της θέσης ΕΚΚΧΟ/11-07-2025",
+      "type": "Φωτογραφικό Υλικό - Σκαρίφημα",
+      "file_url": "https://silia.eett.gr/silia/download/guqP3SQmznxNhYmmc4w6Kcc7THvtgkx5KbzE"
+    },
+    {
+      "document_number": "555175/11-07-2025",
+      "protocol_number": "Αρχιτεκτονικά σχέδια ΕΚΚΧΟ/23-04-2025",
+      "type": "Αρχιτεκτονικά Σχέδια",
+      "file_url": "https://silia.eett.gr/silia/download/lDaLdX5zXlCBu2ptvtYM9zggX4OVe3qkLYlB"
+    },
+    {
+      "document_number": "555176/11-07-2025",
+      "protocol_number": "90096/10-07-2025",
+      "type": "Αποτελέσματα μελέτης στη ζώνης 2.6GHz για ΥΠΑ/ΓΕΕΘΑ",
+      "file_url": "https://silia.eett.gr/silia/download/S457DrKGvNTEnaMSOQPbGMh4ibTvKAikkBa7"
+    },
+    {
+      "document_number": "555177/11-07-2025",
+      "protocol_number": "Μελέτη ΕΚΚΧΟ/27-06-2025",
+      "type": "Άλλο",
+      "file_url": "https://silia.eett.gr/silia/download/lItrhUozzDPKnp9tHphX79WwWsspBDfWTBNI"
+    },
+    {
+      "document_number": "555178/11-07-2025",
+      "protocol_number": "Αρχείο Αίτησης/11-07-2025",
+      "type": "Δήλωση ΕΚΚΧΟ",
+      "file_url": "https://silia.eett.gr/silia/download/uNUvMO4HuzrPXPrTryr6BRvsts2UEWg8NgcS"
+    }
+  ]
+}

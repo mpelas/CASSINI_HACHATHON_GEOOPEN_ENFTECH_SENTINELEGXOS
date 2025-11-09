@@ -1,0 +1,39 @@
+{
+  "antenna_id": "125013",
+  "address": "ΝΙΚΟΛΑΟΥ ΑΘΑΝΑΣΙΑΔΗ 1 & ΤΣΑΚΩΝΑ, ΠΕΝΤΕΛΗ.",
+  "position_code": 1013607,
+  "municipality": "Πεντέλης",
+  "code_name": "PROGRESSIVE - PENTELI",
+  "region": "Αττικής",
+  "latitude": 38.048889,
+  "company": "VODAFONE",
+  "longitude": 23.868889,
+  "permit_status": "Από τα στοιχεία που τηρούνται στην Ενημερωτική Πύλη προκύπτει ότι, για τη θέση \"ΝΙΚΟΛΑΟΥ ΑΘΑΝΑΣΙΑΔΗ 1 & ΤΣΑΚΩΝΑ, ΠΕΝΤΕΛΗ.\" στον Δήμο Πεντέλης Περιφέρειας  Αττικής \n\t(κωδικός αριθμός θέσης 1013607, κωδική ονομασία \"PROGRESSIVE - PENTELI\") έχει κατατεθεί από την εταιρία VODAFONE\tδήλωση εγκατάστασης κατασκευής κεραίας (αριθ. πρωτ. \n\t20287/07-12-2016) που εμπίπτει στις διατάξεις της νομοθεσίας για Εγκαταστάσεις Κατασκευών Κεραιών Χαμηλής Ηλεκτρομαγνητικής Περιβαλλοντικής Όχλησης (ΕΚΚΧΟ).",
+  "measurements_eaee": "-",
+  "documents": [
+    {
+      "document_number": "281222/07-12-2016",
+      "protocol_number": "ΦΩΤΟΓΡΑΦΙΑ ΘΕΣΗΣ ΚΕΡΑΙΑΣ 1/",
+      "type": "Φωτογραφικό Υλικό - Σκαρίφημα",
+      "file_url": "https://silia.eett.gr/silia/download/932c6643-6f59-47b8-a065-ea8223cea485"
+    },
+    {
+      "document_number": "281223/07-12-2016",
+      "protocol_number": "ΦΩΤΟΓΡΑΦΙΑ ΘΕΣΗΣ ΚΕΡΑΙΑΣ 2/",
+      "type": "Φωτογραφικό Υλικό - Σκαρίφημα",
+      "file_url": "https://silia.eett.gr/silia/download/e15f9728-34a5-4747-ba46-3166b0ef353c"
+    },
+    {
+      "document_number": "281224/07-12-2016",
+      "protocol_number": "ΦΩΤΟΓΡΑΦΙΑ ΘΕΣΗΣ ΚΕΡΑΙΑΣ 3/",
+      "type": "Φωτογραφικό Υλικό - Σκαρίφημα",
+      "file_url": "https://silia.eett.gr/silia/download/aeea40b6-137f-4926-9a64-280c2ff79ca8"
+    },
+    {
+      "document_number": "281228/07-12-2016",
+      "protocol_number": "Αρχείο Αίτησης/",
+      "type": "Δήλωση ΕΚΚΧΟ",
+      "file_url": "https://silia.eett.gr/silia/download/f64e4f3e-be7a-4c3b-8f1c-b006dab0c970"
+    }
+  ]
+}

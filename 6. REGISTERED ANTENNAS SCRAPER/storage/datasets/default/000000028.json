@@ -1,0 +1,39 @@
+{
+  "antenna_id": "154683",
+  "address": "Δήμος Αγιάς, Π.Ε Λάρισας, Περιφέρεια Θεσσαλίας",
+  "position_code": 3207237,
+  "municipality": "Αγιάς",
+  "code_name": "ΜΑΡΜΑΡΙΝΗ-Δ",
+  "region": "Θεσσαλίας",
+  "latitude": 39.683333,
+  "company": "ΕΡΤ ΑΕ",
+  "longitude": 22.545833,
+  "permit_status": "Από τα στοιχεία που τηρούνται στην Ενημερωτική Πύλη προκύπτει ότι για τη  θέση \"Δήμος Αγιάς, Π.Ε Λάρισας, Περιφέρεια Θεσσαλίας\" στον Δήμο Αγιάς Περιφέρειας  Θεσσαλίας έχει κατατεθεί από την εταιρία ΕΡΤ ΑΕ δήλωση δομικών κατασκευών κεραιών  \nμε αριθ. πρωτ. ΣΗΛΥΑ 39230/23-05-2020 κατά τα οριζόμενα στην παρ. 7 του άρθρου 34 του Ν.4635/2019.",
+  "measurements_eaee": "-",
+  "documents": [
+    {
+      "document_number": "407450/23-05-2020",
+      "protocol_number": "δορυφορική λήψη και στοιχεία δομικών κατασκευών/",
+      "type": "Άλλο",
+      "file_url": "https://silia.eett.gr/silia/download/88ee9f6f-789e-47c8-b5c9-f68f4c19e9fd"
+    },
+    {
+      "document_number": "407451/23-05-2020",
+      "protocol_number": "απογραφή 1987/",
+      "type": "Άλλο",
+      "file_url": "https://silia.eett.gr/silia/download/7fc74013-9f0f-4ab6-b91f-f1a4583264ad"
+    },
+    {
+      "document_number": "407452/23-05-2020",
+      "protocol_number": "πίνακας 51 απογραφής ΕΡΤ 1987/",
+      "type": "Άλλο",
+      "file_url": "https://silia.eett.gr/silia/download/9e0a4b0b-852d-4553-9bca-db2a86f832cc"
+    },
+    {
+      "document_number": "407659/23-05-2020",
+      "protocol_number": "Αρχείο Αίτησης/",
+      "type": "Δήλωση Δομικών ΕΡΤ",
+      "file_url": "https://silia.eett.gr/silia/download/f7f87f65-6707-468f-aa33-c52efba9d533"
+    }
+  ]
+}

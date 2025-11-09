@@ -1,0 +1,81 @@
+{
+  "antenna_id": "175901",
+  "address": "Παραλία Γιάλοβας",
+  "position_code": 1131315,
+  "municipality": "Πύλου - Νέστορος",
+  "code_name": "GIALOVA 1",
+  "region": "Πελοποννήσου",
+  "latitude": 36.948889,
+  "company": "VODAFONE",
+  "longitude": 21.704444,
+  "permit_status": "Από τα στοιχεία που τηρούνται στην Ενημερωτική Πύλη προκύπτει ότι, για τη θέση \"Παραλία Γιάλοβας\" στον Δήμο Πύλου - Νέστορος Περιφέρειας  Πελοποννήσου \n\t(κωδικός αριθμός θέσης 1131315, κωδική ονομασία \"GIALOVA 1\") έχει κατατεθεί από την εταιρία VODAFONE\tδήλωση εγκατάστασης κατασκευής κεραίας (αριθ. πρωτ. \n\t57912/18-10-2024) που εμπίπτει στις διατάξεις της νομοθεσίας για Εγκαταστάσεις Κατασκευών Κεραιών Χαμηλής Ηλεκτρομαγνητικής Περιβαλλοντικής Όχλησης (ΕΚΚΧΟ).",
+  "measurements_eaee": "-",
+  "documents": [
+    {
+      "document_number": "529388/18-10-2024",
+      "protocol_number": "Φωτορεαλιστική απεικόνιση ΕΚΚΧΟ/18-10-2024",
+      "type": "Φωτογραφικό Υλικό - Σκαρίφημα",
+      "file_url": "https://silia.eett.gr/silia/download/bAGMNOmRcm9GmC3BUNrGyurMb1Wstra10qql"
+    },
+    {
+      "document_number": "529389/18-10-2024",
+      "protocol_number": "Ψηφιακός χάρτης με προβολή της θέσης ΕΚΚΧΟ/18-10-2024",
+      "type": "Φωτογραφικό Υλικό - Σκαρίφημα",
+      "file_url": "https://silia.eett.gr/silia/download/cRVf24cVFGAUguZfgXYqcol7lNka4blLIFbp"
+    },
+    {
+      "document_number": "529390/18-10-2024",
+      "protocol_number": "Αρχιτεκτονική μελέτη ΕΚΚΧΟ/01-10-2024",
+      "type": "Αρχιτεκτονικά Σχέδια",
+      "file_url": "https://silia.eett.gr/silia/download/XUacU8NQnoUpGsyYBu1feRCXhWS7bHfNmrvg"
+    },
+    {
+      "document_number": "529391/18-10-2024",
+      "protocol_number": "Μελέτη ΕΚΚΧΟ/07-10-2024",
+      "type": "Άλλο",
+      "file_url": "https://silia.eett.gr/silia/download/lCHQXb2Q2TAV5xXue2QK0D3buw7KY3yYQKqw"
+    },
+    {
+      "document_number": "529393/18-10-2024",
+      "protocol_number": "128403/18-10-2024",
+      "type": "Αποτελέσματα μελέτης στη ζώνης 2.6GHz για ΥΠΑ/ΓΕΕΘΑ",
+      "file_url": "https://silia.eett.gr/silia/download/6V9QeANSmQ4N2umAF1mx206P1uxlrZrmH3LE"
+    },
+    {
+      "document_number": "529394/18-10-2024",
+      "protocol_number": "322800/16-09-2024",
+      "type": "Έγγραφο Αρμοδίου Φορέα",
+      "file_url": "https://silia.eett.gr/silia/download/GPpHhXQgf9vliZHxRz9X3MY5t7FTQpcIdnzS"
+    },
+    {
+      "document_number": "529396/18-10-2024",
+      "protocol_number": "319618/29-07-2024",
+      "type": "Έγκριση Αρμοδίου Φορέα",
+      "file_url": "https://silia.eett.gr/silia/download/WV28p9GUukKrXFnc2ziIslWw6haYtoQTR3o8"
+    },
+    {
+      "document_number": "529397/18-10-2024",
+      "protocol_number": "Υπεύθυνη Δήλωση κοινής χρήσης Nova/15-10-2024",
+      "type": "Άλλο",
+      "file_url": "https://silia.eett.gr/silia/download/MqMQwXgCLHVMZRdeLvgYtvxYS6AVmOLpEdZg"
+    },
+    {
+      "document_number": "529398/18-10-2024",
+      "protocol_number": "Αρχείο Αίτησης/18-10-2024",
+      "type": "Δήλωση ΕΚΚΧΟ",
+      "file_url": "https://silia.eett.gr/silia/download/0drx83gzG20w1W33gM6KCh4khuEU53hg9n1e"
+    },
+    {
+      "document_number": "531188/01-11-2024",
+      "protocol_number": "Φωτορεαλιστική απεικόνιση ΕΚΚΧΟ1/01-11-2024",
+      "type": "Φωτογραφικό Υλικό - Σκαρίφημα",
+      "file_url": "https://silia.eett.gr/silia/download/gwSmNVN6VUFgGAxo3doaZM3ehZhPLiGplr5d"
+    },
+    {
+      "document_number": "544316/19-03-2025",
+      "protocol_number": "ΥΔ Εγκατάστασης/19-03-2025",
+      "type": "Άλλο",
+      "file_url": "https://silia.eett.gr/silia/download/eOsbUAeSIfSrgwdMh54bVEGh3kVUCeY4d1z3"
+    }
+  ]
+}

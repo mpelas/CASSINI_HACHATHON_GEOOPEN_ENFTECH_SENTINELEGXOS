@@ -1,0 +1,27 @@
+{
+  "antenna_id": "140874",
+  "address": "ΘΕΣΗ ΡΥΚΙΑ ΑΣΠΡΟΠΥΡΓΟΣ",
+  "position_code": 1153472,
+  "municipality": "Ασπροπύργου",
+  "code_name": "FARMAKAPOTHIKI ALPHA OMEGA ASPROPIRGOS ΚΤΙΡΙΟ Β",
+  "region": "Αττικής",
+  "latitude": 38.098611,
+  "company": "VODAFONE",
+  "longitude": 23.613333,
+  "permit_status": "Από τα στοιχεία που τηρούνται στην Ενημερωτική Πύλη προκύπτει ότι, για τη θέση \"ΘΕΣΗ ΡΥΚΙΑ ΑΣΠΡΟΠΥΡΓΟΣ\" στον Δήμο Ασπροπύργου Περιφέρειας  Αττικής \n\t(κωδικός αριθμός θέσης 1153472, κωδική ονομασία \"FARMAKAPOTHIKI ALPHA OMEGA ASPROPIRGOS ΚΤΙΡΙΟ Β\") έχει κατατεθεί από την εταιρία VODAFONE\tδήλωση εγκατάστασης κατασκευής κεραίας (αριθ. πρωτ. \n\t31574/12-02-2019) που εμπίπτει στις διατάξεις της νομοθεσίας για Εγκαταστάσεις Κατασκευών Κεραιών Χαμηλής Ηλεκτρομαγνητικής Περιβαλλοντικής Όχλησης (ΕΚΚΧΟ).",
+  "measurements_eaee": "-",
+  "documents": [
+    {
+      "document_number": "357330/11-02-2019",
+      "protocol_number": "ΦΩΤΟΓΡΑΦΙΑ ΘΕΣΗΣ ΚΕΡΑΙΑΣ 1/",
+      "type": "Φωτογραφικό Υλικό - Σκαρίφημα",
+      "file_url": "https://silia.eett.gr/silia/download/0edc532a-dfb5-4fad-b2f5-19226d749c45"
+    },
+    {
+      "document_number": "357367/12-02-2019",
+      "protocol_number": "Αρχείο Αίτησης/",
+      "type": "Δήλωση ΕΚΚΧΟ",
+      "file_url": "https://silia.eett.gr/silia/download/a4bdc994-d6be-4819-9e69-70850e3b4339"
+    }
+  ]
+}

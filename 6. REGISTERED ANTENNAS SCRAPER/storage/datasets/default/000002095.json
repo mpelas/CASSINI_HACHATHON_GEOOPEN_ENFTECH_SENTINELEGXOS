@@ -1,0 +1,135 @@
+{
+  "antenna_id": "130110",
+  "address": "ΦΙΛΙΠΠΕΙΟ",
+  "position_code": 3006165,
+  "municipality": "Νεάπολης - Συκεών",
+  "code_name": "ΦΙΛΙΠΠΕΙΟ Β",
+  "region": "Κεντρικής Μακεδονίας",
+  "latitude": 40.645833,
+  "company": "DIGEA",
+  "longitude": 22.979722,
+  "permit_status": "Από τα στοιχεία που τηρούνται στην Ενημερωτική Πύλη προκύπτει ότι, για τη θέση \"ΦΙΛΙΠΠΕΙΟ\" στον Δήμο Νεάπολης - Συκεών Περιφέρειας  Κεντρικής Μακεδονίας \n\t(κωδικός αριθμός θέσης 3006165, κωδική ονομασία \"ΦΙΛΙΠΠΕΙΟ Β\") χορηγήθηκε, με την Απόφαση της ΕΕΤΤ \n31294/Φ610/25-01-2019, άδεια κατασκευής κεραίας στην εταιρία DIGEA. \nΑπό τo έγγραφο της άδειας μπορείτε να ενημερωθείτε για τις σχετικές εγκρίσεις των συναρμόδιων φορέων, καθώς και εάν πρόκειται για τροποποίηση παλαιότερης άδειας.\nΗ άδεια χορηγήθηκε, κατόπιν της με Αριθ. Πρωτ. 24881/01-11-2017 αίτησης, \n\tμε τη διαδικασία αδειοδότησης της παρ. 17 του άρθρου 30 του Ν.4070/2012 που πλέον έχει αντικατασταθεί από τη διαδικασία που ορίζει ο ν. 4635/2019.\n\tΣύμφωνα με τα στοιχεία που έχουν υποβληθεί στο ΣΗΛΥΑ για την κατασκευή κεραίας από τον κάτοχό της, έχει εκδοθεί έγκριση δομικών κατασκευών κεραίας",
+  "measurements_eaee": "-",
+  "documents": [
+    {
+      "document_number": "311218/30-10-2017",
+      "protocol_number": "ΜΕΣΩ ΣΗΛΥΑ/",
+      "type": "Αίτηση - Μελέτη Ραδιοεκπομπών ΕΕΑΕ",
+      "file_url": "https://silia.eett.gr/silia/download/cb7a33e9-a811-4a1e-ad10-e854d717c279"
+    },
+    {
+      "document_number": "311221/30-10-2017",
+      "protocol_number": "4290/22-06-2017",
+      "type": "Αίτηση / Μελέτη για Έγκριση Περιβαλλοντικών Επιπτώσεων",
+      "file_url": "https://silia.eett.gr/silia/download/3789b278-2439-4fb7-b768-fab1a5b68c38"
+    },
+    {
+      "document_number": "311222/30-10-2017",
+      "protocol_number": "7005/05-10-2017",
+      "type": "Αίτηση / Μελέτη για Έγκριση Περιβαλλοντικών Επιπτώσεων",
+      "file_url": "https://silia.eett.gr/silia/download/958841b5-691e-42c4-8acb-78447df424f8"
+    },
+    {
+      "document_number": "311223/30-10-2017",
+      "protocol_number": "ΜΕΣΩ ΣΗΛΥΑ/",
+      "type": "Αρχιτεκτονικά Σχέδια",
+      "file_url": "https://silia.eett.gr/silia/download/6a877073-fa89-4987-9639-8db4ad91ebdf"
+    },
+    {
+      "document_number": "311224/30-10-2017",
+      "protocol_number": "ΜΕΣΩ ΣΗΛΥΑ/",
+      "type": "Τοπογραφικό",
+      "file_url": "https://silia.eett.gr/silia/download/2df3cc4f-e944-409b-ab3a-7e0e3e9cb188"
+    },
+    {
+      "document_number": "311225/30-10-2017",
+      "protocol_number": "ΜΕΣΩ ΣΗΛΥΑ/",
+      "type": "Αίτηση ΥΠΑ",
+      "file_url": "https://silia.eett.gr/silia/download/35ca6e11-894a-4a8b-909e-b326f3d5553b"
+    },
+    {
+      "document_number": "311610/01-11-2017",
+      "protocol_number": "Αρχείο Αίτησης/",
+      "type": "Αίτηση Άδειας Κατασκευής Κεραίας ΕΕΤΤ",
+      "file_url": "https://silia.eett.gr/silia/download/c8eb73f9-c88a-4acd-8a1e-f8f5ecf91f7a"
+    },
+    {
+      "document_number": "314770/04-12-2017",
+      "protocol_number": "Δ3/Δ/25060/9376/29-11-2017/04-12-2017",
+      "type": "Γνωμάτευση ΥΠΑ",
+      "file_url": "https://silia.eett.gr/silia/download/4aab075c-9aba-4494-b5b2-f6171542b12f"
+    },
+    {
+      "document_number": "318138/11-01-2018",
+      "protocol_number": "Μι/411/428/2018/11-01-2018",
+      "type": "Γνωμάτευση ΕΕΑΕ",
+      "file_url": "https://silia.eett.gr/silia/download/462a1625-56c8-4c4b-9d44-3c98765e5cf8"
+    },
+    {
+      "document_number": "337371/02-08-2018",
+      "protocol_number": "5547/16-07-2018",
+      "type": "Τοπογραφικό",
+      "file_url": "https://silia.eett.gr/silia/download/048249ee-ef6e-4396-a800-64ad456236c9"
+    },
+    {
+      "document_number": "337372/02-08-2018",
+      "protocol_number": "5547/16-07-2018",
+      "type": "Έγκριση Περιβαλλοντικών Όρων",
+      "file_url": "https://silia.eett.gr/silia/download/64a25fd1-fe0b-4bdf-a7ab-1dec25b1d654"
+    },
+    {
+      "document_number": "337375/02-08-2018",
+      "protocol_number": "26368/08-05-2018",
+      "type": "Έγκριση Αρμοδίου Φορέα",
+      "file_url": "https://silia.eett.gr/silia/download/cec5e632-af3e-412d-a93f-ad1f7c3ff6ab"
+    },
+    {
+      "document_number": "337714/06-08-2018",
+      "protocol_number": "ΜΕΣΩ ΣΗΛΥΑ/",
+      "type": "Αίτηση προς Αρμόδιο Φορέα",
+      "file_url": "https://silia.eett.gr/silia/download/44681590-044a-461b-94a0-20688b2b893d"
+    },
+    {
+      "document_number": "348246/08-11-2018",
+      "protocol_number": "ΜΙ/411/15620/05-11-2018",
+      "type": "Έγκριση Αρμοδίου Φορέα",
+      "file_url": "https://silia.eett.gr/silia/download/cb1b43dc-1066-4ae6-aa33-e9d55ea561f7"
+    },
+    {
+      "document_number": "348522/12-11-2018",
+      "protocol_number": "1429/11-01-2018",
+      "type": "Έγκριση δομικών κατασκευών (έντυπη)",
+      "file_url": "https://silia.eett.gr/silia/download/3570aa92-b019-49bb-b4c5-e08fd9591ac7"
+    },
+    {
+      "document_number": "348611/12-11-2018",
+      "protocol_number": "3592/18-10-2018",
+      "type": "Έγκριση δομικών κατασκευών (έντυπη)",
+      "file_url": "https://silia.eett.gr/silia/download/178f355a-9fec-4e03-8525-f3b62358f97a"
+    },
+    {
+      "document_number": "350511/27-11-2018",
+      "protocol_number": "3592/18-10-2018",
+      "type": "Συμπληρωματικά Έγγραφα Αίτησης / Μελέτης",
+      "file_url": "https://silia.eett.gr/silia/download/a26ee29c-eb3b-4526-bd94-aef488b080b6"
+    },
+    {
+      "document_number": "358865/22-02-2019",
+      "protocol_number": "31294/Φ610/25-01-2019",
+      "type": "Άδεια Κατασκευής  Κεραίας",
+      "file_url": "https://silia.eett.gr/silia/download/86cca273-c9ac-457e-8de5-187554cd155d"
+    },
+    {
+      "document_number": "348522/12-11-2018",
+      "protocol_number": "1429/11-01-2018",
+      "type": "Έγκριση δομικών κατασκευών (έντυπη)",
+      "file_url": "https://silia.eett.gr/silia/download/3570aa92-b019-49bb-b4c5-e08fd9591ac7"
+    },
+    {
+      "document_number": "348611/12-11-2018",
+      "protocol_number": "3592/18-10-2018",
+      "type": "Έγκριση δομικών κατασκευών (έντυπη)",
+      "file_url": "https://silia.eett.gr/silia/download/178f355a-9fec-4e03-8525-f3b62358f97a"
+    }
+  ]
+}

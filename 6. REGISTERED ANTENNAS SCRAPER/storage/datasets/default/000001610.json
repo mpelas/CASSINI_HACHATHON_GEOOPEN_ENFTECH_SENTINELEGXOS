@@ -1,0 +1,69 @@
+{
+  "antenna_id": "135441",
+  "address": "ΟΙΚΙΣΜΟΣ ΘΩΜΑΙΚΑ , Δ.Ε.ΛΕΟΝΤΙΟΥ",
+  "position_code": 10215,
+  "municipality": "Ερυμάνθου",
+  "code_name": "ΘΩΜΑΙΙΚΑ Α/Δ",
+  "region": "Δυτικής Ελλάδας",
+  "latitude": 38.123333,
+  "company": "OTE",
+  "longitude": 21.896111,
+  "permit_status": "Από τα στοιχεία που τηρούνται στην Ενημερωτική Πύλη προκύπτει ότι, για τη θέση \"ΟΙΚΙΣΜΟΣ ΘΩΜΑΙΚΑ , Δ.Ε.ΛΕΟΝΤΙΟΥ\" στον Δήμο Ερυμάνθου Περιφέρειας  Δυτικής Ελλάδας \n\t(κωδικός αριθμός θέσης 0010215, κωδική ονομασία \"ΘΩΜΑΙΙΚΑ Α/Δ \") χορηγήθηκε, με την Απόφαση της ΕΕΤΤ \n37346/Φ.610/23-10-2020, άδεια κατασκευής κεραίας στην εταιρία OTE. \nΑπό τo έγγραφο της άδειας μπορείτε να ενημερωθείτε για τις σχετικές εγκρίσεις των συναρμόδιων φορέων, καθώς και εάν πρόκειται για τροποποίηση παλαιότερης άδειας.\nΗ άδεια χορηγήθηκε με τη διαδικασία αδειοδότησης που ορίζει ο ν. 4635/2019, κατόπιν της με αριθ. πρωτ. 29726/19-10-2018 \n\tαίτησης, και βάσει σχετικής δήλωσης του κατόχου της περί υπαγωγή της κατασκευής κεραίας στο άρθρο 34 του ν. 4635/2019.",
+  "measurements_eaee": "-",
+  "documents": [
+    {
+      "document_number": "345280/18-10-2018",
+      "protocol_number": "ΜΕΣΩ ΣΗΛΥΑ/",
+      "type": "Τοπογραφικό",
+      "file_url": "https://silia.eett.gr/silia/download/d0608b39-9305-428d-ab7c-2dd10e1a2c7a"
+    },
+    {
+      "document_number": "345281/18-10-2018",
+      "protocol_number": "ΜΕΣΩ ΣΗΛΥΑ/",
+      "type": "Αρχιτεκτονικά Σχέδια",
+      "file_url": "https://silia.eett.gr/silia/download/48522d78-4a0f-4140-be6c-e53d6221bae1"
+    },
+    {
+      "document_number": "345282/18-10-2018",
+      "protocol_number": "ΜΕΣΩ ΣΗΛΥΑ/08-06-2017",
+      "type": "Αίτηση - Μελέτη Ραδιοεκπομπών ΕΕΑΕ",
+      "file_url": "https://silia.eett.gr/silia/download/62cdf036-5fdc-46f4-bdea-6bd44b76db72"
+    },
+    {
+      "document_number": "345283/18-10-2018",
+      "protocol_number": "Δ3/Δ/22792/6615/27-09-2018",
+      "type": "Γνωμάτευση ΥΠΑ",
+      "file_url": "https://silia.eett.gr/silia/download/7604f7d5-37b1-4453-a52d-9dc3d9689696"
+    },
+    {
+      "document_number": "345443/19-10-2018",
+      "protocol_number": "Αρχείο Αίτησης/",
+      "type": "Αίτηση Άδειας Κατασκευής Κεραίας ΕΕΤΤ",
+      "file_url": "https://silia.eett.gr/silia/download/38a52e9c-e7df-4c46-89a5-ef45fcb2764a"
+    },
+    {
+      "document_number": "357659/13-02-2019",
+      "protocol_number": "Μ.ι./411/2597/2019/13-02-2019",
+      "type": "Γνωμάτευση ΕΕΑΕ",
+      "file_url": "https://silia.eett.gr/silia/download/433507d3-e37b-4c4c-8a0e-25b4b0b4ccdf"
+    },
+    {
+      "document_number": "420344/29-10-2020",
+      "protocol_number": "37346/Φ.610/23-10-2020",
+      "type": "Άδεια Κατασκευής  Κεραίας",
+      "file_url": "https://silia.eett.gr/silia/download/0fde9bfb-7fd8-484a-bab4-dd51fb5544ee"
+    },
+    {
+      "document_number": "364468/23-04-2019",
+      "protocol_number": "ΣΥΝΟΔΕΥΤΙΚΑ ΕΓΓΡΑΦΑ/",
+      "type": "Δήλωση υπαγωγής σε ΠΠΔ και Συνοδευτικά Έγγραφα",
+      "file_url": "https://silia.eett.gr/silia/download/9db69197-492e-4997-852f-5c14caf6b63b"
+    },
+    {
+      "document_number": "369000/27-06-2019",
+      "protocol_number": "Αρχείο Αίτησης/",
+      "type": "Δήλωση ΠΠΔ",
+      "file_url": "https://silia.eett.gr/silia/download/32308705-819c-4887-8b9c-5cd0f705b64a"
+    }
+  ]
+}

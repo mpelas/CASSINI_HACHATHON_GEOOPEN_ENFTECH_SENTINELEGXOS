@@ -1,0 +1,93 @@
+{
+  "antenna_id": "165356",
+  "address": "ΠΛΗΣΙΟΝ ΚΕΡΑΜΙΔΙΟΥ",
+  "position_code": 1404369,
+  "municipality": "Ρήγα Φερραίου",
+  "code_name": "ΚΕΡΑΜΙΔΙ",
+  "region": "Θεσσαλίας",
+  "latitude": 39.591944,
+  "company": "OTE",
+  "longitude": 22.918889,
+  "permit_status": "Από τα στοιχεία που τηρούνται στην Ενημερωτική Πύλη προκύπτει ότι, για τη θέση \"ΠΛΗΣΙΟΝ ΚΕΡΑΜΙΔΙΟΥ\" στον Δήμο Ρήγα Φερραίου Περιφέρειας  Θεσσαλίας \n\t(κωδικός αριθμός θέσης 1404369, κωδική ονομασία \"ΚΕΡΑΜΙΔΙ\") χορηγήθηκε, με την Απόφαση της ΕΕΤΤ \n46692/14-12-2022, άδεια κατασκευής κεραίας στην εταιρία OTE. \nΑπό τo έγγραφο της άδειας μπορείτε να ενημερωθείτε για τις σχετικές εγκρίσεις των συναρμόδιων φορέων, καθώς και εάν πρόκειται για τροποποίηση παλαιότερης άδειας.\n\tΣύμφωνα με τα στοιχεία που έχουν υποβληθεί στο ΣΗΛΥΑ, ο κάτοχος της κατασκευής κεραίας έχει δηλώσει ότι θα προβεί σε έκδοση έγκρισης δομικών κατασκευών \n\t\tκεραίας μέσω του e-Άδειες \n\t\tμετά την έκδοση της άδειας κατασκευής κεραίας / δημοσιοποίηση της δήλωσης τροποποίησης της κατασκευής κεραίας",
+  "measurements_eaee": "-",
+  "documents": [
+    {
+      "document_number": "466733/29-08-2022",
+      "protocol_number": "ΜΕΣΩ ΣΗΛΥΑ    /",
+      "type": "Τοπογραφικό",
+      "file_url": "https://silia.eett.gr/silia/download/4392d1bd-da6b-43ca-999f-b09f5f8ee08b"
+    },
+    {
+      "document_number": "466734/29-08-2022",
+      "protocol_number": "ΜΕΣΩ ΣΗΛΥΑ    /",
+      "type": "Αρχιτεκτονικά Σχέδια",
+      "file_url": "https://silia.eett.gr/silia/download/53c20d69-6319-46e0-a5a3-b5c13a47ae70"
+    },
+    {
+      "document_number": "466735/29-08-2022",
+      "protocol_number": "ΜΕΣΩ ΣΗΛΥΑ    /02-07-2022",
+      "type": "Αίτηση - Μελέτη Ραδιοεκπομπών ΕΕΑΕ",
+      "file_url": "https://silia.eett.gr/silia/download/a01f2d3e-caa8-4db9-8d60-4dcff9a81114"
+    },
+    {
+      "document_number": "466736/29-08-2022",
+      "protocol_number": "Δ3/Δ/8049/1834/21-05-2002",
+      "type": "Γνωμάτευση ΥΠΑ",
+      "file_url": "https://silia.eett.gr/silia/download/7f4f8065-778c-4aae-a7ef-05b8ca2d597a"
+    },
+    {
+      "document_number": "466737/29-08-2022",
+      "protocol_number": "Δ3/Δ/5403/18-06-2015",
+      "type": "Γνωμάτευση ΥΠΑ",
+      "file_url": "https://silia.eett.gr/silia/download/1101d297-4eb5-47b2-8806-9286242e8210"
+    },
+    {
+      "document_number": "466738/29-08-2022",
+      "protocol_number": "ΜΕΣΩ ΣΗΛΥΑ    /29-08-2022",
+      "type": "Αίτηση ΥΠΑ",
+      "file_url": "https://silia.eett.gr/silia/download/d2aff9ce-bb5f-49ce-ac7a-72c687daefc5"
+    },
+    {
+      "document_number": "466739/29-08-2022",
+      "protocol_number": "ΥΔ ΣΥΝΕΓΚΑΤΑΣΤΑΣΗΣ ΟΤΕ/29-08-2022",
+      "type": "Άλλο",
+      "file_url": "https://silia.eett.gr/silia/download/00ae934e-c2ee-4417-84d7-69dd72a9be47"
+    },
+    {
+      "document_number": "466742/29-08-2022",
+      "protocol_number": "Αρχείο Αίτησης/",
+      "type": "Αίτηση Άδειας Κατασκευής Κεραίας ΕΕΤΤ",
+      "file_url": "https://silia.eett.gr/silia/download/b9b7b856-599f-43d7-af76-83e2bf2906d3"
+    },
+    {
+      "document_number": "473201/23-11-2022",
+      "protocol_number": "ΤMIA/411/16354/2022/23-11-2022",
+      "type": "Γνωμάτευση ΕΕΑΕ",
+      "file_url": "https://silia.eett.gr/silia/download/f0a6db7a-572e-4ea4-805a-b404ac10c0be"
+    },
+    {
+      "document_number": "474208/06-12-2022",
+      "protocol_number": "ΕΠΙΒΕΒΑΙΩΤΙΚΟ MAIL ΥΠΑ/",
+      "type": "Άλλο",
+      "file_url": "https://silia.eett.gr/silia/download/9e928283-5070-4815-83e1-4cb175575bdd"
+    },
+    {
+      "document_number": "475233/20-12-2022",
+      "protocol_number": "46692/14-12-2022",
+      "type": "Άδεια Κατασκευής  Κεραίας",
+      "file_url": "https://silia.eett.gr/silia/download/b87c32a7-da45-4a6b-a626-71b1ec884866"
+    },
+    {
+      "document_number": "466740/29-08-2022",
+      "protocol_number": "ΣΥΝΟΔΕΥΤΙΚΑ ΕΓΓΡΑΦΑ/",
+      "type": "Δήλωση υπαγωγής σε ΠΠΔ και Συνοδευτικά Έγγραφα",
+      "file_url": "https://silia.eett.gr/silia/download/71e7b123-1436-4258-9be8-95ef56c697e1"
+    },
+    {
+      "document_number": "466743/29-08-2022",
+      "protocol_number": "Αρχείο Αίτησης/",
+      "type": "Δήλωση ΠΠΔ",
+      "file_url": "https://silia.eett.gr/silia/download/4742ab0b-2a44-4206-a769-d91eec4e0029"
+    }
+  ]
+}

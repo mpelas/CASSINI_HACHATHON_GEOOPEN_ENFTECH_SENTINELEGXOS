@@ -1,0 +1,39 @@
+{
+  "antenna_id": "165934",
+  "address": "19 Km Λεωφορος Λαυρίου, ΤΚ 19002 ΠΑΙΑΝΙΑ ΑΤΤΙΚΗ",
+  "position_code": 1159209,
+  "municipality": "Παιανίας",
+  "code_name": "3009209 NAKAS PAIANIA",
+  "region": "Αττικής",
+  "latitude": 37.946667,
+  "company": "VODAFONE",
+  "longitude": 23.862778,
+  "permit_status": "Από τα στοιχεία που τηρούνται στην Ενημερωτική Πύλη προκύπτει ότι, για τη θέση \"19 Km Λεωφορος Λαυρίου, ΤΚ 19002 ΠΑΙΑΝΙΑ ΑΤΤΙΚΗ\" στον Δήμο Παιανίας Περιφέρειας  Αττικής \n\t(κωδικός αριθμός θέσης 1159209, κωδική ονομασία \"3009209 NAKAS PAIANIA\") έχει κατατεθεί από την εταιρία VODAFONE\tδήλωση εγκατάστασης κατασκευής κεραίας (αριθ. πρωτ. \n\t49682/25-10-2022) που εμπίπτει στις διατάξεις της νομοθεσίας για Εγκαταστάσεις Κατασκευών Κεραιών Χαμηλής Ηλεκτρομαγνητικής Περιβαλλοντικής Όχλησης (ΕΚΚΧΟ).",
+  "measurements_eaee": "-",
+  "documents": [
+    {
+      "document_number": "470800/25-10-2022",
+      "protocol_number": "Φωτορεαλιστική απεικόνιση ΕΚΚΧΟ/",
+      "type": "Φωτογραφικό Υλικό - Σκαρίφημα",
+      "file_url": "https://silia.eett.gr/silia/download/8a5ea0eb-937d-47a8-aa39-a99ca59f199c"
+    },
+    {
+      "document_number": "470801/25-10-2022",
+      "protocol_number": "Ψηφιακός Χάρτης με προβολή της θέσης ΕΚΚΧΟ/",
+      "type": "Φωτογραφικό Υλικό - Σκαρίφημα",
+      "file_url": "https://silia.eett.gr/silia/download/9a687e31-c29c-4c52-be97-dfbecedad4ad"
+    },
+    {
+      "document_number": "470802/25-10-2022",
+      "protocol_number": "Μελέτη ΕΚΚΧΟ/04-10-2022",
+      "type": "Άλλο",
+      "file_url": "https://silia.eett.gr/silia/download/bbe12486-f110-40da-8f3e-570d1c93b10e"
+    },
+    {
+      "document_number": "470803/25-10-2022",
+      "protocol_number": "Αρχείο Αίτησης/",
+      "type": "Δήλωση ΕΚΚΧΟ",
+      "file_url": "https://silia.eett.gr/silia/download/20bcfa58-d109-450a-b859-ffc081cbfe3c"
+    }
+  ]
+}

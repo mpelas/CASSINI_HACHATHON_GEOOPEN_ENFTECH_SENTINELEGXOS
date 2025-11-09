@@ -1,0 +1,39 @@
+{
+  "antenna_id": "150335",
+  "address": "Ηφαιστίωνος 2, Εδεσσα.",
+  "position_code": 1001380,
+  "municipality": "Έδεσσας",
+  "code_name": "VF SHOP EDESSA",
+  "region": "Κεντρικής Μακεδονίας",
+  "latitude": 40.801667,
+  "company": "VODAFONE",
+  "longitude": 22.050556,
+  "permit_status": "Από τα στοιχεία που τηρούνται στην Ενημερωτική Πύλη προκύπτει ότι, για τη θέση \"Ηφαιστίωνος 2, Εδεσσα.\" στον Δήμο Έδεσσας Περιφέρειας  Κεντρικής Μακεδονίας \n\t(κωδικός αριθμός θέσης 1001380, κωδική ονομασία \"VF SHOP EDESSA\") έχει κατατεθεί από την εταιρία VODAFONE\tδήλωση εγκατάστασης κατασκευής κεραίας (αριθ. πρωτ. \n\t37813/11-03-2020) που εμπίπτει στις διατάξεις της νομοθεσίας για Εγκαταστάσεις Κατασκευών Κεραιών Χαμηλής Ηλεκτρομαγνητικής Περιβαλλοντικής Όχλησης (ΕΚΚΧΟ).",
+  "measurements_eaee": "-",
+  "documents": [
+    {
+      "document_number": "394045/14-02-2020",
+      "protocol_number": "ΦΩΤΟΓΡΑΦΙΑ ΘΕΣΗΣ ΚΕΡΑΙΩΝ ΕΚΚΧΟ 1 & 2/",
+      "type": "Φωτογραφικό Υλικό - Σκαρίφημα",
+      "file_url": "https://silia.eett.gr/silia/download/f13229f2-758b-4272-ac6f-1b621fcc8f7a"
+    },
+    {
+      "document_number": "394046/14-02-2020",
+      "protocol_number": "ΣΚΑΡΙΦΗΜΑ ΘΕΣΗΣ ΚΕΡΑΙΑΣ 3 - ΚΑΤΟΨΗ /",
+      "type": "Φωτογραφικό Υλικό - Σκαρίφημα",
+      "file_url": "https://silia.eett.gr/silia/download/6d153850-ffe3-425f-bf30-2bc847920156"
+    },
+    {
+      "document_number": "394047/14-02-2020",
+      "protocol_number": "ΣΚΑΡΙΦΗΜΑ ΘΕΣΗΣ ΚΕΡΑΙΑΣ 3/",
+      "type": "Φωτογραφικό Υλικό - Σκαρίφημα",
+      "file_url": "https://silia.eett.gr/silia/download/b549ac38-6f62-4be8-bbf7-7ccbd7bc438d"
+    },
+    {
+      "document_number": "399016/11-03-2020",
+      "protocol_number": "Αρχείο Αίτησης/",
+      "type": "Δήλωση ΕΚΚΧΟ",
+      "file_url": "https://silia.eett.gr/silia/download/840bde62-5a2c-42aa-990b-f4d44b817427"
+    }
+  ]
+}

@@ -1,0 +1,69 @@
+{
+  "antenna_id": "135566",
+  "address": "ΟΙΚΙΣΜΟΣ ΜΕΛΙΤΗ",
+  "position_code": 160024,
+  "municipality": "Φλώρινας",
+  "code_name": "ΜΕΛΙΤΗ Τ/Κ",
+  "region": "Δυτικής Μακεδονίας",
+  "latitude": 40.831667,
+  "company": "OTE",
+  "longitude": 21.583889,
+  "permit_status": "Από τα στοιχεία που τηρούνται στην Ενημερωτική Πύλη προκύπτει ότι, για τη θέση \"ΟΙΚΙΣΜΟΣ ΜΕΛΙΤΗ\" στον Δήμο Φλώρινας Περιφέρειας  Δυτικής Μακεδονίας \n\t(κωδικός αριθμός θέσης 0160024, κωδική ονομασία \"ΜΕΛΙΤΗ Τ/Κ\") χορηγήθηκε, με την Απόφαση της ΕΕΤΤ \n37375/Φ610/23-10-2020, άδεια κατασκευής κεραίας στην εταιρία OTE. \nΑπό τo έγγραφο της άδειας μπορείτε να ενημερωθείτε για τις σχετικές εγκρίσεις των συναρμόδιων φορέων, καθώς και εάν πρόκειται για τροποποίηση παλαιότερης άδειας.\nΗ άδεια χορηγήθηκε με τη διαδικασία αδειοδότησης που ορίζει ο ν. 4635/2019, κατόπιν της με αριθ. πρωτ. 29812/24-10-2018 \n\tαίτησης, και βάσει σχετικής δήλωσης του κατόχου της περί υπαγωγή της κατασκευής κεραίας στο άρθρο 34 του ν. 4635/2019.",
+  "measurements_eaee": "-",
+  "documents": [
+    {
+      "document_number": "346050/24-10-2018",
+      "protocol_number": "ΜΕΣΩ ΣΗΛΥΑ/",
+      "type": "Τοπογραφικό",
+      "file_url": "https://silia.eett.gr/silia/download/911d4802-2b07-4a3c-9c72-5d88a42ccf96"
+    },
+    {
+      "document_number": "346051/24-10-2018",
+      "protocol_number": "ΜΕΣΩ ΣΗΛΥΑ/",
+      "type": "Αρχιτεκτονικά Σχέδια",
+      "file_url": "https://silia.eett.gr/silia/download/550e02bc-cc3c-44b6-bbab-1b7fb49637ff"
+    },
+    {
+      "document_number": "346052/24-10-2018",
+      "protocol_number": "Δ3/Δ/37246/9008/11-10-2004",
+      "type": "Γνωμάτευση ΥΠΑ",
+      "file_url": "https://silia.eett.gr/silia/download/a5d7ab85-f472-473d-9c81-15fbaf771ebb"
+    },
+    {
+      "document_number": "346053/24-10-2018",
+      "protocol_number": "ΜΕΣΩ ΣΗΛΥΑ/15-10-2018",
+      "type": "Αίτηση - Μελέτη Ραδιοεκπομπών ΕΕΑΕ",
+      "file_url": "https://silia.eett.gr/silia/download/09fe35a9-e6c3-4b86-bc28-f97b7ff8f43e"
+    },
+    {
+      "document_number": "346162/24-10-2018",
+      "protocol_number": "Αρχείο Αίτησης/",
+      "type": "Αίτηση Άδειας Κατασκευής Κεραίας ΕΕΤΤ",
+      "file_url": "https://silia.eett.gr/silia/download/1ad31a22-e428-4249-96dc-14b46035a51e"
+    },
+    {
+      "document_number": "351957/13-12-2018",
+      "protocol_number": "Μ.ι./411/18885/2018/11-12-2018",
+      "type": "Γνωμάτευση ΕΕΑΕ",
+      "file_url": "https://silia.eett.gr/silia/download/aacc1d80-8ba2-40cf-b37d-226ebd9f25c1"
+    },
+    {
+      "document_number": "420129/26-10-2020",
+      "protocol_number": "37375/Φ610/23-10-2020",
+      "type": "Άδεια Κατασκευής  Κεραίας",
+      "file_url": "https://silia.eett.gr/silia/download/598ed7af-4128-4357-a132-1c6c7da78219"
+    },
+    {
+      "document_number": "359205/25-02-2019",
+      "protocol_number": "ΣΥΝΟΔΕΥΤΙΚΑ ΕΓΓΡΑΦΑ/",
+      "type": "Δήλωση υπαγωγής σε ΠΠΔ και Συνοδευτικά Έγγραφα",
+      "file_url": "https://silia.eett.gr/silia/download/eeef2fc2-a04a-4b17-a0a7-dd03ad3e828a"
+    },
+    {
+      "document_number": "369001/27-06-2019",
+      "protocol_number": "Αρχείο Αίτησης/",
+      "type": "Δήλωση ΠΠΔ",
+      "file_url": "https://silia.eett.gr/silia/download/c99deffe-65e7-4074-a31d-0d7a52296ab7"
+    }
+  ]
+}

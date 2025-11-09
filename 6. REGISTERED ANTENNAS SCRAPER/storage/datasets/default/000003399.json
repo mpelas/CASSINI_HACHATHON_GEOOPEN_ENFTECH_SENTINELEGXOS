@@ -1,0 +1,51 @@
+{
+  "antenna_id": "168737",
+  "address": "ΣΚΟΥΡΤΑ ΒΟΙΩΤΙΑΣ",
+  "position_code": 1268583,
+  "municipality": "Τανάγρας",
+  "code_name": "IBERDROLA TANAGRA",
+  "region": "Στερεάς Ελλάδας",
+  "latitude": 38.2,
+  "company": "NOVA Μ.Α.Ε.",
+  "longitude": 23.5475,
+  "permit_status": "Από τα στοιχεία που τηρούνται στην Ενημερωτική Πύλη προκύπτει ότι, για τη θέση \"ΣΚΟΥΡΤΑ ΒΟΙΩΤΙΑΣ\" στον Δήμο Τανάγρας Περιφέρειας  Στερεάς Ελλάδας \n\t(κωδικός αριθμός θέσης 1268583, κωδική ονομασία \"IBERDROLA TANAGRA\") έχει κατατεθεί από την εταιρία NOVA Μ.Α.Ε.\tδήλωση εγκατάστασης κατασκευής κεραίας (αριθ. πρωτ. \n\t51947/07-06-2023) που εμπίπτει στις διατάξεις της νομοθεσίας για Εγκαταστάσεις Κατασκευών Κεραιών Χαμηλής Ηλεκτρομαγνητικής Περιβαλλοντικής Όχλησης (ΕΚΚΧΟ).",
+  "measurements_eaee": "-",
+  "documents": [
+    {
+      "document_number": "487317/07-06-2023",
+      "protocol_number": "ΑΠΕΙΚΟΝΙΣΗ GOOGLE EARTH/",
+      "type": "Άλλο",
+      "file_url": "https://silia.eett.gr/silia/download/288a24cc-0019-408d-b174-59fdffff95c8"
+    },
+    {
+      "document_number": "487318/07-06-2023",
+      "protocol_number": "ΦΩΤΟΓΡΑΦΙΑ ΕΚΚΧΟ/",
+      "type": "Φωτογραφικό Υλικό - Σκαρίφημα",
+      "file_url": "https://silia.eett.gr/silia/download/c6104fa7-eb32-454f-bb09-c90f2d861a7b"
+    },
+    {
+      "document_number": "487328/07-06-2023",
+      "protocol_number": "ΣΚΑΡΙΦΗΜΑ ΕΚΚΧΟ/",
+      "type": "Φωτογραφικό Υλικό - Σκαρίφημα",
+      "file_url": "https://silia.eett.gr/silia/download/ac2d5f7d-70d8-43ca-840b-a36f6859d09e"
+    },
+    {
+      "document_number": "487335/07-06-2023",
+      "protocol_number": "ΜΕΛΕΤΗ ΕΚΚΧΟ/",
+      "type": "Άλλο",
+      "file_url": "https://silia.eett.gr/silia/download/ea1bb183-55f7-4666-be09-999695176517"
+    },
+    {
+      "document_number": "487340/07-06-2023",
+      "protocol_number": "Αρχείο Αίτησης/",
+      "type": "Δήλωση ΕΚΚΧΟ",
+      "file_url": "https://silia.eett.gr/silia/download/4ad05f97-70e2-44ee-b9cc-ac3a99c1f62b"
+    },
+    {
+      "document_number": "488685/23-06-2023",
+      "protocol_number": "ΥΠΕΥΘΥΝΗ ΔΗΛΩΣΗ ΤΕΧΝΙΚΟΥ ΥΠΕΥΘΥΝΟΥ/",
+      "type": "Άλλο",
+      "file_url": "https://silia.eett.gr/silia/download/f63eabd9-9a61-4176-b4f4-055b3bea0686"
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "antenna_id": "165448",
+  "address": "Δήμος Ζαγορίου, Π.Ε Ιωαννίνων, Περιφέρεια Ηπείρου",
+  "position_code": 3206685,
+  "municipality": "Ζαγορίου",
+  "code_name": "ΦΛΑΜΠΟΥΡΑΡΙ",
+  "region": "Ηπείρου",
+  "latitude": 39.855278,
+  "company": "ΕΡΤ ΑΕ",
+  "longitude": 20.985278,
+  "permit_status": "Από τα στοιχεία που τηρούνται στην Ενημερωτική Πύλη προκύπτει ότι για τη  θέση \"Δήμος Ζαγορίου, Π.Ε Ιωαννίνων, Περιφέρεια Ηπείρου\" στον Δήμο Ζαγορίου Περιφέρειας  Ηπείρου έχει κατατεθεί από την εταιρία ΕΡΤ ΑΕ δήλωση κατασκευής κεραίας τηλεοπτικής ευρυεκπομπής με αριθ. πρωτ. ΣΗΛΥΑ \n49237/08-09-2022 κατά τα οριζόμενα στην παρ. 7 του άρθρου 39 του Ν.4635/2019.",
+  "measurements_eaee": "-",
+  "documents": [
+    {
+      "document_number": "467249/08-09-2022",
+      "protocol_number": "Αίτηση ΥΠΑ/",
+      "type": "Αίτηση ΥΠΑ",
+      "file_url": "https://silia.eett.gr/silia/download/1eb0b35b-9f83-4171-9579-549fb64d6eb9"
+    },
+    {
+      "document_number": "467250/08-09-2022",
+      "protocol_number": "screenshot/",
+      "type": "Φωτογραφικό Υλικό - Σκαρίφημα",
+      "file_url": "https://silia.eett.gr/silia/download/84d9aebb-179b-4bba-8d06-8650eca8f644"
+    },
+    {
+      "document_number": "467251/08-09-2022",
+      "protocol_number": "ΓΝΩΜΑΤΕΥΣΗ ΥΠΑ/",
+      "type": "Γνωμάτευση ΥΠΑ",
+      "file_url": "https://silia.eett.gr/silia/download/6de335cd-fe11-45fd-9faf-44ea8927d43c"
+    },
+    {
+      "document_number": "467254/08-09-2022",
+      "protocol_number": "Αρχείο Αίτησης/",
+      "type": "Δήλωση Τηλεοπτικής Ευρυεκπομπής",
+      "file_url": "https://silia.eett.gr/silia/download/fd53fc19-e4f6-490b-a0db-fd5e44d04bb0"
+    }
+  ]
+}

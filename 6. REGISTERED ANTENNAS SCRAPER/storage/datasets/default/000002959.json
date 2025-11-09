@@ -1,0 +1,39 @@
+{
+  "antenna_id": "152566",
+  "address": "Δήμος Πύλης, Π.Ε Τρικάλων, Περιφέρεια Θεσσαλίας",
+  "position_code": 3207217,
+  "municipality": "Πύλης",
+  "code_name": "ΜΥΡΟΦΥΛΛΟ-Δ",
+  "region": "Θεσσαλίας",
+  "latitude": 39.367778,
+  "company": "ΕΡΤ ΑΕ",
+  "longitude": 21.326667,
+  "permit_status": "Από τα στοιχεία που τηρούνται στην Ενημερωτική Πύλη προκύπτει ότι για τη  θέση \"Δήμος Πύλης, Π.Ε Τρικάλων, Περιφέρεια Θεσσαλίας\" στον Δήμο Πύλης Περιφέρειας  Θεσσαλίας έχει κατατεθεί από την εταιρία ΕΡΤ ΑΕ δήλωση δομικών κατασκευών κεραιών  \nμε αριθ. πρωτ. ΣΗΛΥΑ 38171/09-04-2020 κατά τα οριζόμενα στην παρ. 7 του άρθρου 34 του Ν.4635/2019.",
+  "measurements_eaee": "-",
+  "documents": [
+    {
+      "document_number": "400493/30-03-2020",
+      "protocol_number": "δορυφορική λήψη και στοιχεία δομικών κατασκευών/",
+      "type": "Άλλο",
+      "file_url": "https://silia.eett.gr/silia/download/a0298a8a-f8b5-4ed4-8f2b-fe95f033a70d"
+    },
+    {
+      "document_number": "400494/30-03-2020",
+      "protocol_number": "απογραφή 1987/",
+      "type": "Άλλο",
+      "file_url": "https://silia.eett.gr/silia/download/c0658846-6dbb-42a5-9997-36e6f45c4055"
+    },
+    {
+      "document_number": "400495/30-03-2020",
+      "protocol_number": "πίνακας 51 απογραφής ΕΡΤ 1987/",
+      "type": "Άλλο",
+      "file_url": "https://silia.eett.gr/silia/download/fc1cede3-d62f-45ca-965b-b637c18a7e62"
+    },
+    {
+      "document_number": "401848/09-04-2020",
+      "protocol_number": "Αρχείο Αίτησης/",
+      "type": "Δήλωση Δομικών ΕΡΤ",
+      "file_url": "https://silia.eett.gr/silia/download/e281b614-63f2-4226-9ba8-568793f6ec62"
+    }
+  ]
+}

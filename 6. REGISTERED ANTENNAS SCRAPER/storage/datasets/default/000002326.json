@@ -1,0 +1,81 @@
+{
+  "antenna_id": "170822",
+  "address": "ΔΙΚΑΙΑ, ΚΤΙΡΙΟ Ο.Τ.Ε. ΟΔΟΣ ΚΑΠΟΔΙΣΤΡΙΑ",
+  "position_code": 1403471,
+  "municipality": "Ορεστιάδας",
+  "code_name": "ΔΙΚΑΙΑ ΤΚ",
+  "region": "Ανατ. Μακεδονίας και Θράκης",
+  "latitude": 41.705,
+  "company": "OTE",
+  "longitude": 26.295278,
+  "permit_status": "Από τα στοιχεία που τηρούνται στην Ενημερωτική Πύλη προκύπτει ότι, για τη θέση \"ΔΙΚΑΙΑ, ΚΤΙΡΙΟ Ο.Τ.Ε. ΟΔΟΣ ΚΑΠΟΔΙΣΤΡΙΑ\" στον Δήμο Ορεστιάδας Περιφέρειας  Ανατ. Μακεδονίας και Θράκης \n\t(κωδικός αριθμός θέσης 1403471, κωδική ονομασία \"ΔΙΚΑΙΑ ΤΚ\") χορηγήθηκε, με την Απόφαση της ΕΕΤΤ \n50776/29-03-2024, άδεια κατασκευής κεραίας στην εταιρία OTE. \nΑπό τo έγγραφο της άδειας μπορείτε να ενημερωθείτε για τις σχετικές εγκρίσεις των συναρμόδιων φορέων, καθώς και εάν πρόκειται για τροποποίηση παλαιότερης άδειας.\n\tΣύμφωνα με τα στοιχεία που έχουν υποβληθεί στο ΣΗΛΥΑ, ο κάτοχος της κατασκευής κεραίας έχει δηλώσει ότι θα προβεί σε έκδοση έγκρισης δομικών κατασκευών \n\t\tκεραίας μέσω του e-Άδειες \n\t\tμετά την έκδοση της άδειας κατασκευής κεραίας / δημοσιοποίηση της δήλωσης τροποποίησης της κατασκευής κεραίας",
+  "measurements_eaee": "-",
+  "documents": [
+    {
+      "document_number": "499417/01-11-2023",
+      "protocol_number": "ΜΕΣΩ ΣΗΛΥΑ/",
+      "type": "Τοπογραφικό",
+      "file_url": "https://silia.eett.gr/silia/download/6cfc2f8a-eaa8-4d12-a9b4-fff93bf264c8"
+    },
+    {
+      "document_number": "499418/01-11-2023",
+      "protocol_number": "ΜΕΣΩ ΣΗΛΥΑ/",
+      "type": "Αρχιτεκτονικά Σχέδια",
+      "file_url": "https://silia.eett.gr/silia/download/479bdbc0-9824-4693-9bf3-dfa4159924c8"
+    },
+    {
+      "document_number": "499419/01-11-2023",
+      "protocol_number": "ΜΕΣΩ ΣΗΛΥΑ/12-09-2023",
+      "type": "Αίτηση - Μελέτη Ραδιοεκπομπών ΕΕΑΕ",
+      "file_url": "https://silia.eett.gr/silia/download/363d76a7-2439-4def-b7d5-5f7c0a90dd19"
+    },
+    {
+      "document_number": "499425/01-11-2023",
+      "protocol_number": "Δ3/Δ/28883/6091/25-09-2001",
+      "type": "Γνωμάτευση ΥΠΑ",
+      "file_url": "https://silia.eett.gr/silia/download/98e7d2c6-c84f-4201-b0f8-5738a90fa81b"
+    },
+    {
+      "document_number": "499426/01-11-2023",
+      "protocol_number": "ΜΕΣΩ ΣΗΛΥΑ/",
+      "type": "Αίτηση ΥΠΑ",
+      "file_url": "https://silia.eett.gr/silia/download/69433a2a-3418-467a-8c4d-a7df3147482f"
+    },
+    {
+      "document_number": "499442/01-11-2023",
+      "protocol_number": "Αρχείο Αίτησης/",
+      "type": "Αίτηση Άδειας Κατασκευής Κεραίας ΕΕΤΤ",
+      "file_url": "https://silia.eett.gr/silia/download/3654abdc-88ac-4d4d-be66-75a4c840a130"
+    },
+    {
+      "document_number": "500417/14-11-2023",
+      "protocol_number": "ΚΓ/Δ3/Δ/23316/14-11-2023",
+      "type": "Γνωμάτευση ΥΠΑ",
+      "file_url": "https://silia.eett.gr/silia/download/9910dc1c-26dc-4bfe-9faa-6a5f565c108a"
+    },
+    {
+      "document_number": "504088/30-12-2023",
+      "protocol_number": "TMIA/411/17654/2023/29-12-2023",
+      "type": "Γνωμάτευση ΕΕΑΕ",
+      "file_url": "https://silia.eett.gr/silia/download/4e3ef638-8c46-43d3-bc8c-d1fee84860c3"
+    },
+    {
+      "document_number": "511930/03-04-2024",
+      "protocol_number": "50776/29-03-2024",
+      "type": "Άδεια Κατασκευής  Κεραίας",
+      "file_url": "https://silia.eett.gr/silia/download/GbFMRgtE57ZQs6WtsaKHQvrVaP5GIXKWSF12"
+    },
+    {
+      "document_number": "499427/01-11-2023",
+      "protocol_number": "ΜΕΣΩ ΣΗΛΥΑ/",
+      "type": "Δήλωση υπαγωγής σε ΠΠΔ και Συνοδευτικά Έγγραφα",
+      "file_url": "https://silia.eett.gr/silia/download/87d4b041-721c-4d49-aefb-9ed74327e5d0"
+    },
+    {
+      "document_number": "499444/01-11-2023",
+      "protocol_number": "Αρχείο Αίτησης/",
+      "type": "Δήλωση ΠΠΔ",
+      "file_url": "https://silia.eett.gr/silia/download/7df26731-6ce1-4e94-b4ec-21776f778829"
+    }
+  ]
+}

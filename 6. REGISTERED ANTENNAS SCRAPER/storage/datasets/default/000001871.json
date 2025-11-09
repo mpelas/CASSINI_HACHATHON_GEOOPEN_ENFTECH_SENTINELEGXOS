@@ -1,0 +1,27 @@
+{
+  "antenna_id": "115924",
+  "address": "ΔΙΚΑΙΟΣΥΝΗΣ 21",
+  "position_code": 1003869,
+  "municipality": "Ηρακλείου Κρήτης",
+  "code_name": "DIKAIOSINIS HERAKLIO MICRO",
+  "region": "Κρήτης",
+  "latitude": 35.338333,
+  "company": "VODAFONE",
+  "longitude": 25.133889,
+  "permit_status": "Από τα στοιχεία που τηρούνται στην Ενημερωτική Πύλη προκύπτει ότι, για τη θέση \"ΔΙΚΑΙΟΣΥΝΗΣ 21\" στον Δήμο Ηρακλείου Κρήτης Περιφέρειας  Κρήτης \n\t(κωδικός αριθμός θέσης 1003869, κωδική ονομασία \"DIKAIOSINIS HERAKLIO MICRO\") έχει κατατεθεί από την εταιρία VODAFONE\tδήλωση εγκατάστασης κατασκευής κεραίας (αριθ. πρωτ. \n\t15882/26-02-2016) που εμπίπτει στις διατάξεις της νομοθεσίας για Εγκαταστάσεις Κατασκευών Κεραιών Χαμηλής Ηλεκτρομαγνητικής Περιβαλλοντικής Όχλησης (ΕΚΚΧΟ).",
+  "measurements_eaee": "-",
+  "documents": [
+    {
+      "document_number": "244477/04-01-2016",
+      "protocol_number": "ΦΩΤΟΓΡΑΦΙΑ ΘΕΣΗΣ ΚΕΡΑΙΑΣ 1/",
+      "type": "Φωτογραφικό Υλικό - Σκαρίφημα",
+      "file_url": "https://silia.eett.gr/silia/download/c2d90e22-1152-48f1-9170-0d5dcf6b9069"
+    },
+    {
+      "document_number": "251187/26-02-2016",
+      "protocol_number": "Αρχείο Αίτησης/",
+      "type": "Δήλωση ΕΚΚΧΟ",
+      "file_url": "https://silia.eett.gr/silia/download/6495c9fa-87e8-4d2e-8fe5-e25dd5f1dc79"
+    }
+  ]
+}

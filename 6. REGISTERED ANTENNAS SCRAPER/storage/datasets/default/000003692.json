@@ -1,0 +1,33 @@
+{
+  "antenna_id": "154769",
+  "address": "ΑΡΕΘΟΥΣΗΣ & Ι. ΚΙΑΠΕΚΟΥ, ΧΑΛΚΙΔΑ.",
+  "position_code": 1155883,
+  "municipality": "Χαλκιδέων",
+  "code_name": "DIXONS CHALKIDA ARETHOUSIS",
+  "region": "Στερεάς Ελλάδας",
+  "latitude": 38.458056,
+  "company": "VODAFONE",
+  "longitude": 23.609444,
+  "permit_status": "Από τα στοιχεία που τηρούνται στην Ενημερωτική Πύλη προκύπτει ότι, για τη θέση \"ΑΡΕΘΟΥΣΗΣ & Ι. ΚΙΑΠΕΚΟΥ, ΧΑΛΚΙΔΑ.\" στον Δήμο Χαλκιδέων Περιφέρειας  Στερεάς Ελλάδας \n\t(κωδικός αριθμός θέσης 1155883, κωδική ονομασία \"DIXONS CHALKIDA ARETHOUSIS\") έχει κατατεθεί από την εταιρία VODAFONE\tδήλωση εγκατάστασης κατασκευής κεραίας (αριθ. πρωτ. \n\t40152/13-07-2020) που εμπίπτει στις διατάξεις της νομοθεσίας για Εγκαταστάσεις Κατασκευών Κεραιών Χαμηλής Ηλεκτρομαγνητικής Περιβαλλοντικής Όχλησης (ΕΚΚΧΟ).",
+  "measurements_eaee": "-",
+  "documents": [
+    {
+      "document_number": "411049/17-06-2020",
+      "protocol_number": "ΣΚΑΡΙΦΗΜΑ ΘΕΣΗΣ ΙΣΤΟΥ ΕΚΚΧΟ - ΚΑΤΟΨΗ - ΚΕΡΑΙΑΣ 1/",
+      "type": "Φωτογραφικό Υλικό - Σκαρίφημα",
+      "file_url": "https://silia.eett.gr/silia/download/b7ef8a86-09ca-4a10-a4a9-51f2c028c581"
+    },
+    {
+      "document_number": "411057/17-06-2020",
+      "protocol_number": "ΦΩΤΟΓΡΑΦΙΑ ΘΕΣΗΣ ΚΕΡΑΙΑΣ ΕΚΚΧΟ ΑΠΟ GOOGLE EARTH/",
+      "type": "Φωτογραφικό Υλικό - Σκαρίφημα",
+      "file_url": "https://silia.eett.gr/silia/download/cdce1f38-4cb2-4f98-94ed-68331b7f52cc"
+    },
+    {
+      "document_number": "412955/13-07-2020",
+      "protocol_number": "Αρχείο Αίτησης/",
+      "type": "Δήλωση ΕΚΚΧΟ",
+      "file_url": "https://silia.eett.gr/silia/download/122de78f-dd74-4156-9198-72c35d42700d"
+    }
+  ]
+}

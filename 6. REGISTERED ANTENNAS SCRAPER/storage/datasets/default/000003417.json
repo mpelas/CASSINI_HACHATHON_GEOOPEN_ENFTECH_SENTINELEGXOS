@@ -1,0 +1,93 @@
+{
+  "antenna_id": "160546",
+  "address": "ΝΕΟΙ ΠΟΡΟΙ ΠΛΗΣΙΟΝ ΕΘΝΙΚΗΣ ΟΔΟΥ",
+  "position_code": 1111472,
+  "municipality": "Τεμπών",
+  "code_name": "ΝΕΟΙ ΠΟΡΟΙ ΜΕΣΣΑΓΓΑΛΑ",
+  "region": "Θεσσαλίας",
+  "latitude": 39.955556,
+  "company": "VODAFONE",
+  "longitude": 22.64,
+  "permit_status": "Από τα στοιχεία που τηρούνται στην Ενημερωτική Πύλη προκύπτει ότι, για τη θέση \"ΝΕΟΙ ΠΟΡΟΙ ΠΛΗΣΙΟΝ ΕΘΝΙΚΗΣ ΟΔΟΥ\" στον Δήμο Τεμπών Περιφέρειας  Θεσσαλίας \n\t(κωδικός αριθμός θέσης 1111472, κωδική ονομασία \"ΝΕΟΙ ΠΟΡΟΙ ΜΕΣΣΑΓΓΑΛΑ\") χορηγήθηκε, με την Απόφαση της ΕΕΤΤ \n43271/24-02-2022, άδεια κατασκευής κεραίας στην εταιρία VODAFONE. \nΑπό τo έγγραφο της άδειας μπορείτε να ενημερωθείτε για τις σχετικές εγκρίσεις των συναρμόδιων φορέων, καθώς και εάν πρόκειται για τροποποίηση παλαιότερης άδειας.",
+  "measurements_eaee": "-",
+  "documents": [
+    {
+      "document_number": "442639/01-10-2021",
+      "protocol_number": "Τοπογραφικό Διάγραμμα/",
+      "type": "Τοπογραφικό",
+      "file_url": "https://silia.eett.gr/silia/download/8e33dd0c-01fc-4c3d-8731-ef3f0ffba2b0"
+    },
+    {
+      "document_number": "442640/01-10-2021",
+      "protocol_number": "Αρχιτεκτονική Μελέτη/",
+      "type": "Αρχιτεκτονικά Σχέδια",
+      "file_url": "https://silia.eett.gr/silia/download/9049f4cb-a701-4b7e-adfb-a49973adced0"
+    },
+    {
+      "document_number": "442641/01-10-2021",
+      "protocol_number": "Χάρτης ΥΠΑ/",
+      "type": "Απόσπασμα Χάρτη ΓΥΣ 1:50.000",
+      "file_url": "https://silia.eett.gr/silia/download/5094800e-7d4b-4797-9282-bad44b002552"
+    },
+    {
+      "document_number": "442642/01-10-2021",
+      "protocol_number": "Μελέτη ραδιοεκπομπών/12-08-2021",
+      "type": "Αίτηση - Μελέτη Ραδιοεκπομπών ΕΕΑΕ (αναβάθμισης)",
+      "file_url": "https://silia.eett.gr/silia/download/8fd0c39c-4d24-45f1-a8d0-c129b9bb5a9a"
+    },
+    {
+      "document_number": "442749/01-10-2021",
+      "protocol_number": "Υπεύθυνη Δήλωση κοινής χρήσης Wind/01-10-2021",
+      "type": "Άλλο",
+      "file_url": "https://silia.eett.gr/silia/download/3df05ca4-d927-43d0-b21d-1118a909ccf6"
+    },
+    {
+      "document_number": "442750/01-10-2021",
+      "protocol_number": "Υπεύθυνη Δήλωση Διασύνδεσης Wind/01-10-2021",
+      "type": "Άλλο",
+      "file_url": "https://silia.eett.gr/silia/download/9bde805c-9f17-44f9-91e5-7fe6fe5605f7"
+    },
+    {
+      "document_number": "442751/01-10-2021",
+      "protocol_number": "Αρχείο Αίτησης/",
+      "type": "Αίτηση Άδειας Κατασκευής Κεραίας ΕΕΤΤ",
+      "file_url": "https://silia.eett.gr/silia/download/0d675abf-90c7-4774-8dcb-49e7ebd21d87"
+    },
+    {
+      "document_number": "445346/01-11-2021",
+      "protocol_number": "Δ3/Δ/37760/1-11-2021/01-11-2021",
+      "type": "Γνωμάτευση ΥΠΑ",
+      "file_url": "https://silia.eett.gr/silia/download/adfa7c0a-32d1-44ae-9717-01b9828e87b6"
+    },
+    {
+      "document_number": "448475/21-12-2021",
+      "protocol_number": "Μ.ι./411/22348/2021/20-12-2021",
+      "type": "Γνωμάτευση ΕΕΑΕ",
+      "file_url": "https://silia.eett.gr/silia/download/3b9a1b09-45a4-4740-b6bc-d2a0883f0cb5"
+    },
+    {
+      "document_number": "451950/24-02-2022",
+      "protocol_number": "43271/24-02-2022",
+      "type": "Άδεια Κατασκευής  Κεραίας",
+      "file_url": "https://silia.eett.gr/silia/download/be670911-da8d-44a8-95ea-299ff68a2c3f"
+    },
+    {
+      "document_number": "442752/01-10-2021",
+      "protocol_number": "Μελέτη ραδιοεκπομπών/12-08-2021",
+      "type": "Αίτηση - Μελέτη Ραδιοεκπομπών ΕΕΑΕ",
+      "file_url": "https://silia.eett.gr/silia/download/a3df1f5b-0f64-4411-af31-38383fb7f3b9"
+    },
+    {
+      "document_number": "442753/01-10-2021",
+      "protocol_number": "Συνοδευτικά Έγγραφα ΠΠΔ/",
+      "type": "Δήλωση υπαγωγής σε ΠΠΔ και Συνοδευτικά Έγγραφα",
+      "file_url": "https://silia.eett.gr/silia/download/f6a24e23-a2a6-4def-bf3f-56566594763b"
+    },
+    {
+      "document_number": "442754/01-10-2021",
+      "protocol_number": "Αρχείο Αίτησης/",
+      "type": "Δήλωση ΠΠΔ",
+      "file_url": "https://silia.eett.gr/silia/download/8b256632-70a6-485a-a4d5-84de0737b3ec"
+    }
+  ]
+}

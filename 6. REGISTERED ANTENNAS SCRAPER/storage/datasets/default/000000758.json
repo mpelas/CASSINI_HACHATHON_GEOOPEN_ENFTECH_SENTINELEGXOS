@@ -1,0 +1,69 @@
+{
+  "antenna_id": "173179",
+  "address": "ΣΤΑΝΟΣ ΧΑΛΚΙΔΙΚΗΣ",
+  "position_code": 1441727,
+  "municipality": "Αριστοτέλη",
+  "code_name": "STANOS_MI",
+  "region": "Κεντρικής Μακεδονίας",
+  "latitude": 40.541944,
+  "company": "OTE",
+  "longitude": 23.591111,
+  "permit_status": "Από τα στοιχεία που τηρούνται στην Ενημερωτική Πύλη προκύπτει ότι, για τη θέση \"ΣΤΑΝΟΣ ΧΑΛΚΙΔΙΚΗΣ\" στον Δήμο Αριστοτέλη Περιφέρειας  Κεντρικής Μακεδονίας \n\t(κωδικός αριθμός θέσης 1441727, κωδική ονομασία \"STANOS_MI\") έχει κατατεθεί από την εταιρία OTE\tδήλωση εγκατάστασης κατασκευής κεραίας (αριθ. πρωτ. \n\t55641/17-04-2024) που εμπίπτει στις διατάξεις της νομοθεσίας για Εγκαταστάσεις Κατασκευών Κεραιών Χαμηλής Ηλεκτρομαγνητικής Περιβαλλοντικής Όχλησης (ΕΚΚΧΟ).",
+  "measurements_eaee": "-",
+  "documents": [
+    {
+      "document_number": "513227/17-04-2024",
+      "protocol_number": "ΜΕΛΕΤΗ/17-04-2024",
+      "type": "Αίτηση - Μελέτη Ραδιοεκπομπών ΕΕΑΕ",
+      "file_url": "https://silia.eett.gr/silia/download/lXZvlI1aogVVZ7TDYVLPzt9BvcVid6ytfZvE"
+    },
+    {
+      "document_number": "513228/17-04-2024",
+      "protocol_number": "ΛΙΝΚ/17-04-2024",
+      "type": "Άλλο",
+      "file_url": "https://silia.eett.gr/silia/download/DMwZp5ZWePeB88M6mgzbGK4K4dF6zioU8nZ6"
+    },
+    {
+      "document_number": "513229/17-04-2024",
+      "protocol_number": "ΚΑΤΟΨΗ/17-04-2024",
+      "type": "Αρχιτεκτονικά [Κάτοψη - Τομή - Όψη]",
+      "file_url": "https://silia.eett.gr/silia/download/UUyCNq22loFnxXcP3D8gQYHZCWZkWqz1dWD1"
+    },
+    {
+      "document_number": "513230/17-04-2024",
+      "protocol_number": "ΟΨΗ/17-04-2024",
+      "type": "Αρχιτεκτονικά [Κάτοψη - Τομή - Όψη]",
+      "file_url": "https://silia.eett.gr/silia/download/89K3gGvizKabzc1wQ6ocrNf0yrtpqOkrhQqU"
+    },
+    {
+      "document_number": "513231/17-04-2024",
+      "protocol_number": "ΦΩΤΟΓΡΑΦΙΑ/17-04-2024",
+      "type": "Φωτογραφικό Υλικό - Σκαρίφημα",
+      "file_url": "https://silia.eett.gr/silia/download/0Ss97teLiesOL1cuAl1kvW210PmFwvmMOivp"
+    },
+    {
+      "document_number": "513232/17-04-2024",
+      "protocol_number": "ΦΩΤΟΓΡΑΦΙΑ1/17-04-2024",
+      "type": "Φωτογραφικό Υλικό - Σκαρίφημα",
+      "file_url": "https://silia.eett.gr/silia/download/ysfP0h8qxhkg86GuaMgfs03Nhtd3fM9ut33f"
+    },
+    {
+      "document_number": "513234/17-04-2024",
+      "protocol_number": "8195/27-03-2024",
+      "type": "Έγκριση Αρμοδίου Φορέα",
+      "file_url": "https://silia.eett.gr/silia/download/mGAkX3LOThB4GfYWXArhzv7O8kk64RimrUOH"
+    },
+    {
+      "document_number": "513297/17-04-2024",
+      "protocol_number": "Αρχείο Αίτησης/17-04-2024",
+      "type": "Δήλωση ΕΚΚΧΟ",
+      "file_url": "https://silia.eett.gr/silia/download/9r9ZuxAL0apOIW2hKzKiVi3GNkhiD5Cxghfy"
+    },
+    {
+      "document_number": "518683/25-06-2024",
+      "protocol_number": "ΥΠ.ΔΗΛΩΣΗ/25-06-2024",
+      "type": "Άλλο",
+      "file_url": "https://silia.eett.gr/silia/download/cpQOwkStRPY5Bm12epsLqAwgqmmHHrPr364E"
+    }
+  ]
+}

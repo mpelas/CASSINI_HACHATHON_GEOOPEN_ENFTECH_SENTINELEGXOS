@@ -1,0 +1,57 @@
+{
+  "antenna_id": "177444",
+  "address": "ΑΓΙΟΙ ΔΕΚΑ",
+  "position_code": 1153551,
+  "municipality": "Γόρτυνας",
+  "code_name": "3033551 SYZEFXIS DIMOS GORTYNOS",
+  "region": "Κρήτης",
+  "latitude": 35.058056,
+  "company": "VODAFONE",
+  "longitude": 24.9625,
+  "permit_status": "Από τα στοιχεία που τηρούνται στην Ενημερωτική Πύλη προκύπτει ότι, για τη θέση \"ΑΓΙΟΙ ΔΕΚΑ\" στον Δήμο Γόρτυνας Περιφέρειας  Κρήτης \n\t(κωδικός αριθμός θέσης 1153551, κωδική ονομασία \"3033551 SYZEFXIS DIMOS GORTYNOS\") έχει κατατεθεί από την εταιρία VODAFONE\tδήλωση εγκατάστασης κατασκευής κεραίας (αριθ. πρωτ. \n\t59218/30-01-2025) που εμπίπτει στις διατάξεις της νομοθεσίας για Εγκαταστάσεις Κατασκευών Κεραιών Χαμηλής Ηλεκτρομαγνητικής Περιβαλλοντικής Όχλησης (ΕΚΚΧΟ).",
+  "measurements_eaee": "-",
+  "documents": [
+    {
+      "document_number": "539499/30-01-2025",
+      "protocol_number": "Φωτορεαλιστική απεικόνιση κεραίας ΕΚΚΧΟ/30-01-2025",
+      "type": "Φωτογραφικό Υλικό - Σκαρίφημα",
+      "file_url": "https://silia.eett.gr/silia/download/iC6Oh1PgVMtlU7bA0XPLzzlmPC2ihfnYCbg0"
+    },
+    {
+      "document_number": "539501/30-01-2025",
+      "protocol_number": "Ψηφιακός χάρτης με προβολή της θέσης ΕΚΚΧΟ/30-01-2025",
+      "type": "Φωτογραφικό Υλικό - Σκαρίφημα",
+      "file_url": "https://silia.eett.gr/silia/download/Amdv3F1pZdL0sRmVPHxx61wgwGVO5sMNW6Qm"
+    },
+    {
+      "document_number": "539507/30-01-2025",
+      "protocol_number": "ΜΕΛΕΤΗ ΕΚΚΧΟ/30-01-2025",
+      "type": "Άλλο",
+      "file_url": "https://silia.eett.gr/silia/download/DxD5dSxiOgg8AGLfR523AdkxfQrG8HOsklIB"
+    },
+    {
+      "document_number": "539515/30-01-2025",
+      "protocol_number": "Σκαρίφημα με περιοχή απαγόρευσης/30-01-2025",
+      "type": "Φωτογραφικό Υλικό - Σκαρίφημα",
+      "file_url": "https://silia.eett.gr/silia/download/vFMYIVRiNLdOkmk8uBUoCUwX7haRkg0l5hCr"
+    },
+    {
+      "document_number": "539516/30-01-2025",
+      "protocol_number": "ΑΡΧΙΤΕΚΤΟΝΙΚΑ ΣΧΕΔΙΑ/27-11-2024",
+      "type": "Αρχιτεκτονικά Σχέδια",
+      "file_url": "https://silia.eett.gr/silia/download/kVX0Op57HGZqI3sDZguxhSqKDoFRx9egxea0"
+    },
+    {
+      "document_number": "539519/30-01-2025",
+      "protocol_number": "Αρχείο Αίτησης/30-01-2025",
+      "type": "Δήλωση ΕΚΚΧΟ",
+      "file_url": "https://silia.eett.gr/silia/download/8hA1qBMqZ84GGBddChciYkT0OYPn5ZmC9p6w"
+    },
+    {
+      "document_number": "551692/05-06-2025",
+      "protocol_number": "565608/04-06-2025",
+      "type": "Έγκριση Αρμοδίου Φορέα",
+      "file_url": "https://silia.eett.gr/silia/download/yTmOCofHrGP6dGFGiKz8zFR8D9lyoykoTclC"
+    }
+  ]
+}

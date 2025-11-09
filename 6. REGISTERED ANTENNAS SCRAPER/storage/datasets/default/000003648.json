@@ -1,0 +1,213 @@
+{
+  "antenna_id": "119499",
+  "address": "ΛΕΩΦ. ΚΗΦΙΣΙΑΣ 196",
+  "position_code": 1105307,
+  "municipality": "Χαλανδρίου",
+  "code_name": "ΝΕΣΤΟΡΟΣ ΧΑΛΑΝΔΡΙ",
+  "region": "Αττικής",
+  "latitude": 38.012222,
+  "company": "VODAFONE",
+  "longitude": 23.782778,
+  "permit_status": "Από τα στοιχεία που τηρούνται στην Ενημερωτική Πύλη προκύπτει ότι, για τη θέση \"ΛΕΩΦ. ΚΗΦΙΣΙΑΣ 196 \" στον Δήμο Χαλανδρίου Περιφέρειας  Αττικής \n\t(κωδικός αριθμός θέσης 1105307, κωδική ονομασία \"ΝΕΣΤΟΡΟΣ ΧΑΛΑΝΔΡΙ\") χορηγήθηκε, με την Απόφαση της ΕΕΤΤ \n28191/Φ.610/30-05-2018, άδεια κατασκευής κεραίας στην εταιρία VODAFONE. \nΑπό τo έγγραφο της άδειας μπορείτε να ενημερωθείτε για τις σχετικές εγκρίσεις των συναρμόδιων φορέων, καθώς και εάν πρόκειται για τροποποίηση παλαιότερης άδειας.\nΗ άδεια χορηγήθηκε, κατόπιν της με Αριθ. Πρωτ. 18056/21-07-2016 αίτησης, \n\tμε τη διαδικασία αδειοδότησης της παρ. 17 του άρθρου 30 του Ν.4070/2012 που πλέον έχει αντικατασταθεί από τη διαδικασία που ορίζει ο ν. 4635/2019.\nΕπιπλέον, έχoυν υποβληθεί οι με αριθ. πρωτ. ΣΗΛΥΑ 57158/30-08-2024 (Δήλωση παρ. 1Β, άρθρ. 28, ν. 4635/2019), 48121/01-06-2022 (Δήλωση παρ. 1Α, άρθρ. 28, ν. 4635/2019) δηλώσεις που αφορούν σε τροποποίηση/επικαιροποίηση στοιχείων της κατασκευής κεραίας που αφορούν τον(ους) Τομέα(εις) Αδειοδότησης:Κεραιοσυστήματα, Στέγαση, Ιστοί, Θέση, Περιβάλλον.\n\tΔιευκρινίζεται ότι υπό ορισμένες προϋποθέσεις για την τροποποίηση αδειοδοτημένης κατασκευής κεραίας ή/και την επικαιροποίηση στοιχείων της δεν απαιτείται η έκδοση νέας άδειας \n\tκατασκευής κεραίας ή η τροποποίηση της υφιστάμενης άδειας κατασκευής κεραίας, αλλά απαιτείται η υποβολή κατάλληλης δήλωσης από τον κάτοχο της κατασκευής κεραίας συνοδευόμενη \n\tαπό επικαιροποίηση επιμέρους εγκρίσεων.",
+  "measurements_eaee": "-",
+  "documents": [
+    {
+      "document_number": "265871/13-07-2016",
+      "protocol_number": "3891/30-01-2009",
+      "type": "Αίτηση ΥΠΑ",
+      "file_url": "https://silia.eett.gr/silia/download/2850052e-d856-4d55-84d4-73b0d42e20f0"
+    },
+    {
+      "document_number": "265872/13-07-2016",
+      "protocol_number": "Δ3/Δ/6959/1861\t/25-02-2009",
+      "type": "Γνωμάτευση ΥΠΑ",
+      "file_url": "https://silia.eett.gr/silia/download/a5a26413-5222-4054-b7c5-3dc50b6e5fdc"
+    },
+    {
+      "document_number": "265876/13-07-2016",
+      "protocol_number": "6615/02-06-2014",
+      "type": "Τοπογραφικό",
+      "file_url": "https://silia.eett.gr/silia/download/34345244-8393-49d8-8935-ae5eea57d88b"
+    },
+    {
+      "document_number": "265877/13-07-2016",
+      "protocol_number": "6615/02-06-2014",
+      "type": "Αρχιτεκτονικά Σχέδια",
+      "file_url": "https://silia.eett.gr/silia/download/7b405bdc-034f-42ff-8835-f7faffeec6e4"
+    },
+    {
+      "document_number": "265879/13-07-2016",
+      "protocol_number": "6615/06-10-2014",
+      "type": "Έγκριση δομικών κατασκευών (έντυπη)",
+      "file_url": "https://silia.eett.gr/silia/download/ebe4c52f-26ef-4b5c-a17d-581b62565965"
+    },
+    {
+      "document_number": "265895/13-07-2016",
+      "protocol_number": "ΜΕΛΕΤΗ Ρ/Ε/18-11-2014",
+      "type": "Αίτηση - Μελέτη Ραδιοεκπομπών ΕΕΑΕ",
+      "file_url": "https://silia.eett.gr/silia/download/9bce3fa5-c6a4-4a2d-9bb5-0190f019b858"
+    },
+    {
+      "document_number": "265907/13-07-2016",
+      "protocol_number": "Μ.ι./411/1585\t/08-09-2015",
+      "type": "Γνωμάτευση ΕΕΑΕ",
+      "file_url": "https://silia.eett.gr/silia/download/ec94dbc3-18eb-45e7-8ec5-5c27f949aef2"
+    },
+    {
+      "document_number": "266634/21-07-2016",
+      "protocol_number": "Αρχείο Αίτησης/",
+      "type": "Αίτηση Άδειας Κατασκευής Κεραίας ΕΕΤΤ",
+      "file_url": "https://silia.eett.gr/silia/download/5deca64f-cd61-4d5f-b51e-ec4c2cda433a"
+    },
+    {
+      "document_number": "273669/29-09-2016",
+      "protocol_number": "Μ.ι./411/10706/2016/22-09-2016",
+      "type": "Γνωμάτευση ΕΕΑΕ",
+      "file_url": "https://silia.eett.gr/silia/download/8cecc245-4ddc-496f-96ac-ecf9a317e3d8"
+    },
+    {
+      "document_number": "312978/15-11-2017",
+      "protocol_number": "AEK 826/7/14-09-2017",
+      "type": "Άλλο",
+      "file_url": "https://silia.eett.gr/silia/download/a2bac0a3-69e5-411e-937a-8f6d7d4165b9"
+    },
+    {
+      "document_number": "312979/15-11-2017",
+      "protocol_number": "ΑΠΟΔΕΙΚΤΙΚΟ ΠΛΗΡΩΜΗΣ/12-10-2017",
+      "type": "Άλλο",
+      "file_url": "https://silia.eett.gr/silia/download/92fd7067-f5ed-43bf-874e-958612becfcd"
+    },
+    {
+      "document_number": "314503/29-11-2017",
+      "protocol_number": "34210/Φ386 /28-11-2017",
+      "type": "Έγγραφο Αρμοδίου Φορέα",
+      "file_url": "https://silia.eett.gr/silia/download/458b90b9-3f0a-4ef3-9432-0406eb8d19d7"
+    },
+    {
+      "document_number": "329855/17-05-2018",
+      "protocol_number": "ΥΔ ΔΙΑΣΥΝΔΕΣΗΣ 26 GHz/17-05-2018",
+      "type": "Άλλο",
+      "file_url": "https://silia.eett.gr/silia/download/a304c90c-3146-4ecf-9b34-5818e79681ef"
+    },
+    {
+      "document_number": "331090/31-05-2018",
+      "protocol_number": "28191/Φ.610/30-05-2018",
+      "type": "Άδεια Κατασκευής  Κεραίας",
+      "file_url": "https://silia.eett.gr/silia/download/f1efec15-4f44-42a4-af16-368e32ba4077"
+    },
+    {
+      "document_number": "524193/30-08-2024",
+      "protocol_number": "Τοπογραφικό/22-07-2024",
+      "type": "Τοπογραφικό",
+      "file_url": "https://silia.eett.gr/silia/download/ykbNGf9GcBVOsGqv4REvVlxN0biD2ZuPWDMo"
+    },
+    {
+      "document_number": "524194/30-08-2024",
+      "protocol_number": "Αρχιτεκτονικά/22-07-2024",
+      "type": "Αρχιτεκτονικά [Κάτοψη - Τομή - Όψη]",
+      "file_url": "https://silia.eett.gr/silia/download/Ai8l6kdyx10EtZqrmoZB8lQp3LzxPOsPlh9p"
+    },
+    {
+      "document_number": "524195/30-08-2024",
+      "protocol_number": "Συνοδευτικά έγγραφα ΠΠΔ/30-08-2024",
+      "type": "Δήλωση υπαγωγής σε ΠΠΔ και Συνοδευτικά Έγγραφα",
+      "file_url": "https://silia.eett.gr/silia/download/ue9zFdNMZqtgkTgt7rdHW5usFD4uFs80H6vE"
+    },
+    {
+      "document_number": "524196/30-08-2024",
+      "protocol_number": "Μελέτη Συμβατότητας Vodafone/29-08-2024",
+      "type": "Μελέτη για τη ζώνη  2,6GHz",
+      "file_url": "https://silia.eett.gr/silia/download/zVixVZAF3M0H639Xs8FPBGyYT3UvSSaNsKqS"
+    },
+    {
+      "document_number": "524197/30-08-2024",
+      "protocol_number": "623838/09-03-2023",
+      "type": "Έγκριση δομικών κατασκευών (e-Άδειες, αντίγραφο)",
+      "file_url": "https://silia.eett.gr/silia/download/5FWLQSU3MnzgWEDEVmgi9R5pB5Csfguc6Gxo"
+    },
+    {
+      "document_number": "524267/30-08-2024",
+      "protocol_number": "Μελέτη Ραδιοεκπομπών/29-08-2024",
+      "type": "Αίτηση - Μελέτη Ραδιοεκπομπών ΕΕΑΕ",
+      "file_url": "https://silia.eett.gr/silia/download/zT7gMfAv1GNVHLOFDlCe4rIwWaKg2d1BY8Tc"
+    },
+    {
+      "document_number": "524268/30-08-2024",
+      "protocol_number": "Αρχείο Αίτησης/30-08-2024",
+      "type": "Δήλωση ΔΤΚΚ",
+      "file_url": "https://silia.eett.gr/silia/download/IwL38Xk2WSCNOvwX1nu21gMyCTG8wH0ufz57"
+    },
+    {
+      "document_number": "529569/21-10-2024",
+      "protocol_number": "MIA/411/13788/2024/21-10-2024",
+      "type": "Γνωμάτευση ΕΕΑΕ",
+      "file_url": "https://silia.eett.gr/silia/download/3QRxSnGGZP6HvOuDrniUDInYKhfRqqLabFAI"
+    },
+    {
+      "document_number": "531036/31-10-2024",
+      "protocol_number": "107638/05-09-2024",
+      "type": "Αποτελέσματα μελέτης στη ζώνης 2.6GHz για ΥΠΑ/ΓΕΕΘΑ",
+      "file_url": "https://silia.eett.gr/silia/download/3b94OB9mmysKHlx39lYgMqiOitrbWwe622Cu"
+    },
+    {
+      "document_number": "460634/01-06-2022",
+      "protocol_number": "Τοπογραφικό Διάγραμμα/",
+      "type": "Τοπογραφικό",
+      "file_url": "https://silia.eett.gr/silia/download/4f0aaeb3-6181-414d-a37a-e5adea1e1015"
+    },
+    {
+      "document_number": "460635/01-06-2022",
+      "protocol_number": "Αρχιτεκτονική μελέτη/",
+      "type": "Αρχιτεκτονικά Σχέδια",
+      "file_url": "https://silia.eett.gr/silia/download/218adcb2-8a9c-4c85-b507-7ed4546774d1"
+    },
+    {
+      "document_number": "460636/01-06-2022",
+      "protocol_number": "ΜΕΛΕΤΗ ΡΑΔΙΟΕΚΠΟΜΠΩΝ/23-05-2022",
+      "type": "Αίτηση - Μελέτη Ραδιοεκπομπών ΕΕΑΕ",
+      "file_url": "https://silia.eett.gr/silia/download/cba240a2-e00c-4d71-83e8-3ec87832fa7a"
+    },
+    {
+      "document_number": "460637/01-06-2022",
+      "protocol_number": "52961/24-05-2022",
+      "type": "Αποτελέσματα μελέτης στη ζώνης 2.6GHz για ΥΠΑ/ΓΕΕΘΑ",
+      "file_url": "https://silia.eett.gr/silia/download/1ff684cf-45e4-4adb-84ca-5f479e5e2347"
+    },
+    {
+      "document_number": "460639/01-06-2022",
+      "protocol_number": "Μελέτη Συμβατότητας 2700MHz_VODAFONE/24-05-2022",
+      "type": "Μελέτη για τη ζώνη  2,6GHz",
+      "file_url": "https://silia.eett.gr/silia/download/84b22c75-d5cc-44d2-950e-e40d5bd98af8"
+    },
+    {
+      "document_number": "460640/01-06-2022",
+      "protocol_number": "Συνοδευτικά Έγγραφα ΠΠΔ/",
+      "type": "Δήλωση υπαγωγής σε ΠΠΔ και Συνοδευτικά Έγγραφα",
+      "file_url": "https://silia.eett.gr/silia/download/81bf49ef-939e-4024-9cf2-0bd989d28c12"
+    },
+    {
+      "document_number": "460641/01-06-2022",
+      "protocol_number": "Δ3/Δ/6959/1861 /25-02-2009",
+      "type": "Γνωμάτευση ΥΠΑ",
+      "file_url": "https://silia.eett.gr/silia/download/7164f8de-bf48-457a-a81b-e1fdb689f22d"
+    },
+    {
+      "document_number": "460648/01-06-2022",
+      "protocol_number": "Αρχείο Αίτησης/",
+      "type": "Δήλωση ΔΤΚΚ",
+      "file_url": "https://silia.eett.gr/silia/download/104bcc7b-e400-4f8a-a03b-33a17885a9c3"
+    },
+    {
+      "document_number": "473145/22-11-2022",
+      "protocol_number": "TMIA/411/16319/2022/22-11-2022",
+      "type": "Γνωμάτευση ΕΕΑΕ",
+      "file_url": "https://silia.eett.gr/silia/download/98bcdbd7-1137-4215-8e35-a3e24ee0cc8d"
+    },
+    {
+      "document_number": "474307/07-12-2022",
+      "protocol_number": "Συνοδευτικά Έγγραφα ΠΠΔ/",
+      "type": "Δήλωση υπαγωγής σε ΠΠΔ και Συνοδευτικά Έγγραφα",
+      "file_url": "https://silia.eett.gr/silia/download/5da2dc1b-14ef-45b4-9653-47e1a08f40bc"
+    }
+  ]
+}

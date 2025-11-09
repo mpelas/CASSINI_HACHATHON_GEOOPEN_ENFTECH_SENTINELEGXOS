@@ -1,0 +1,99 @@
+{
+  "antenna_id": "158261",
+  "address": "ΘΕΣΗ ΒΑΡΑΘΙ",
+  "position_code": 1002466,
+  "municipality": "Ηγουμενίτσας",
+  "code_name": "ΠΑΡΑΠΟΤΑΜΟΣ",
+  "region": "Ηπείρου",
+  "latitude": 39.535,
+  "company": "VODAFONE",
+  "longitude": 20.306944,
+  "permit_status": "Από τα στοιχεία που τηρούνται στην Ενημερωτική Πύλη προκύπτει ότι, για τη θέση \"ΘΕΣΗ ΒΑΡΑΘΙ\" στον Δήμο Ηγουμενίτσας Περιφέρειας  Ηπείρου \n\t(κωδικός αριθμός θέσης 1002466, κωδική ονομασία \"ΠΑΡΑΠΟΤΑΜΟΣ\") χορηγήθηκε, με την Απόφαση της ΕΕΤΤ \n50089/05-12-2023, άδεια κατασκευής κεραίας στην εταιρία VODAFONE. \nΑπό τo έγγραφο της άδειας μπορείτε να ενημερωθείτε για τις σχετικές εγκρίσεις των συναρμόδιων φορέων, καθώς και εάν πρόκειται για τροποποίηση παλαιότερης άδειας.",
+  "measurements_eaee": "-",
+  "documents": [
+    {
+      "document_number": "429397/12-02-2021",
+      "protocol_number": "Δ3/Δ/37383/8331/11-10-2002",
+      "type": "Γνωμάτευση ΥΠΑ",
+      "file_url": "https://silia.eett.gr/silia/download/368f0dd0-7d14-499e-9c69-f1d7d695b0d1"
+    },
+    {
+      "document_number": "429849/19-02-2021",
+      "protocol_number": "Yπεύθυνη Δήλωση κοινής χρήσης Wind/18-02-2021",
+      "type": "Άλλο",
+      "file_url": "https://silia.eett.gr/silia/download/78bd2c3c-5bb5-4150-bcae-941377cbdaef"
+    },
+    {
+      "document_number": "429850/19-02-2021",
+      "protocol_number": "Yπεύθυνη Δήλωση Διασύνδεσης Wind/18-02-2021",
+      "type": "Άλλο",
+      "file_url": "https://silia.eett.gr/silia/download/c82a77fc-535a-4e9a-84cb-302074be324f"
+    },
+    {
+      "document_number": "429946/19-02-2021",
+      "protocol_number": "Μελέτη ραδιοεκπομπών/10-02-2021",
+      "type": "Αίτηση - Μελέτη Ραδιοεκπομπών ΕΕΑΕ",
+      "file_url": "https://silia.eett.gr/silia/download/eb76b4c0-17c6-4778-924c-c23cb6c5fe16"
+    },
+    {
+      "document_number": "429947/19-02-2021",
+      "protocol_number": "Τοπογραφικό διάγραμμα/",
+      "type": "Τοπογραφικό",
+      "file_url": "https://silia.eett.gr/silia/download/5f6ef6f5-65bf-41df-b4ba-f5c55d4b7ce9"
+    },
+    {
+      "document_number": "429948/19-02-2021",
+      "protocol_number": "Αρχιτεκτονικά σχέδια/",
+      "type": "Αρχιτεκτονικά Σχέδια",
+      "file_url": "https://silia.eett.gr/silia/download/88355c99-0604-4080-964c-20ff93e02b86"
+    },
+    {
+      "document_number": "450063/24-01-2022",
+      "protocol_number": "Αρχείο Αίτησης/",
+      "type": "Αίτηση Άδειας Κατασκευής Κεραίας ΕΕΤΤ",
+      "file_url": "https://silia.eett.gr/silia/download/698b193d-28d4-489f-a93a-136024b4f625"
+    },
+    {
+      "document_number": "452099/28-02-2022",
+      "protocol_number": "Μι/411/2781/25-02-2022",
+      "type": "Γνωμάτευση ΕΕΑΕ",
+      "file_url": "https://silia.eett.gr/silia/download/eaf881e2-a386-44ac-b8a0-6fdd7dcf08f5"
+    },
+    {
+      "document_number": "501087/22-11-2023",
+      "protocol_number": "Υπεύθυνη Δήλωση κοινής χρήσης Nova/22-11-2023",
+      "type": "Άλλο",
+      "file_url": "https://silia.eett.gr/silia/download/74ad6999-5303-4481-8c88-d0ba26774ed5"
+    },
+    {
+      "document_number": "501088/22-11-2023",
+      "protocol_number": "Υπεύθυνη Δήλωση Διασύνδεσης Nova/22-11-2023",
+      "type": "Άλλο",
+      "file_url": "https://silia.eett.gr/silia/download/0eae3aee-d725-4e64-9f86-48b88a73e5b7"
+    },
+    {
+      "document_number": "502811/11-12-2023",
+      "protocol_number": "50089/05-12-2023",
+      "type": "Άδεια Κατασκευής  Κεραίας",
+      "file_url": "https://silia.eett.gr/silia/download/c452a8b5-c644-4bf1-b221-37cdd920ade7"
+    },
+    {
+      "document_number": "501066/21-11-2023",
+      "protocol_number": "Μελέτη ραδιοεκπομπών/10-02-2021",
+      "type": "Αίτηση - Μελέτη Ραδιοεκπομπών ΕΕΑΕ",
+      "file_url": "https://silia.eett.gr/silia/download/eb76b4c0-17c6-4778-924c-c23cb6c5fe16"
+    },
+    {
+      "document_number": "501067/21-11-2023",
+      "protocol_number": "Συνοδευτικά Έγγραφα ΠΠΔ/",
+      "type": "Δήλωση υπαγωγής σε ΠΠΔ και Συνοδευτικά Έγγραφα",
+      "file_url": "https://silia.eett.gr/silia/download/ca3e7e47-b754-4033-8239-0035808e9b9f"
+    },
+    {
+      "document_number": "501068/21-11-2023",
+      "protocol_number": "Αρχείο Αίτησης/",
+      "type": "Δήλωση ΠΠΔ",
+      "file_url": "https://silia.eett.gr/silia/download/810bb29b-209c-41bc-9377-e885cabb7dd7"
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "antenna_id": "176282",
+  "address": "ΔΕΥΑ ΔΗΜΟΥ ΑΛΕΞΑΝΔΡΟΥΠΟΛΗΣ/ΚΤΙΡΙΟ ΔΙΥΛΙΣΤΗΡΙΟΥ (S-EVR-32631)",
+  "position_code": 1495190,
+  "municipality": "Αλεξανδρούπολης",
+  "code_name": "DEYA_ALEXANDR_SYZII",
+  "region": "Ανατ. Μακεδονίας και Θράκης",
+  "latitude": 40.873056,
+  "company": "OTE",
+  "longitude": 25.849722,
+  "permit_status": "Από τα στοιχεία που τηρούνται στην Ενημερωτική Πύλη προκύπτει ότι, για τη θέση \"ΔΕΥΑ ΔΗΜΟΥ ΑΛΕΞΑΝΔΡΟΥΠΟΛΗΣ/ΚΤΙΡΙΟ ΔΙΥΛΙΣΤΗΡΙΟΥ (S-EVR-32631)\" στον Δήμο Αλεξανδρούπολης Περιφέρειας  Ανατ. Μακεδονίας και Θράκης \n\t(κωδικός αριθμός θέσης 1495190, κωδική ονομασία \"DEYA_ALEXANDR_SYZII\") έχει κατατεθεί από την εταιρία OTE\tδήλωση εγκατάστασης κατασκευής κεραίας (αριθ. πρωτ. \n\t58929/08-01-2025) που εμπίπτει στις διατάξεις της νομοθεσίας για Εγκαταστάσεις Κατασκευών Κεραιών Χαμηλής Ηλεκτρομαγνητικής Περιβαλλοντικής Όχλησης (ΕΚΚΧΟ).",
+  "measurements_eaee": "-",
+  "documents": [
+    {
+      "document_number": "531953/08-11-2024",
+      "protocol_number": "ΦΩΤΟΓΡΑΦΙΑ/08-11-2024",
+      "type": "Φωτογραφικό Υλικό - Σκαρίφημα",
+      "file_url": "https://silia.eett.gr/silia/download/9m5w5HSM9ekwXU1Zlq4gPgWPEuR27CI34MZp"
+    },
+    {
+      "document_number": "536127/19-12-2024",
+      "protocol_number": "ΜΕΛΕΤΗ/19-12-2024",
+      "type": "Αίτηση - Μελέτη Ραδιοεκπομπών ΕΕΑΕ",
+      "file_url": "https://silia.eett.gr/silia/download/DZTwt99rEHGdgScpY6C1yTz3ROaQLVcIsbrG"
+    },
+    {
+      "document_number": "537314/08-01-2025",
+      "protocol_number": "Αρχείο Αίτησης/08-01-2025",
+      "type": "Δήλωση ΕΚΚΧΟ",
+      "file_url": "https://silia.eett.gr/silia/download/Lk363mdqYo0k6qalZ16FnpEmXHzRaBvyHlyS"
+    },
+    {
+      "document_number": "545375/31-03-2025",
+      "protocol_number": "ΥΠ.ΔΗΛΩΣΗ/31-03-2025",
+      "type": "Άλλο",
+      "file_url": "https://silia.eett.gr/silia/download/e4rlEkoqEbDAZ5TgXqTSTgtUzEuDvqY4gH23"
+    }
+  ]
+}

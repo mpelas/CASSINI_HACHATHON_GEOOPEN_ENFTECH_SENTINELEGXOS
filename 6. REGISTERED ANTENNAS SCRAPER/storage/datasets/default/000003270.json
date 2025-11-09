@@ -1,0 +1,39 @@
+{
+  "antenna_id": "157979",
+  "address": "Ανατολική είσοδος Σήραγγας Νεοχωρίου, Εγνατία Οδός, Τοπ. Κοιν. Νεοχωρίου",
+  "position_code": 1114815,
+  "municipality": "Σουλίου",
+  "code_name": "EGNATIA NEOCHORI TUNNEL EAST",
+  "region": "Ηπείρου",
+  "latitude": 39.501111,
+  "company": "VODAFONE",
+  "longitude": 20.451111,
+  "permit_status": "Από τα στοιχεία που τηρούνται στην Ενημερωτική Πύλη προκύπτει ότι, για τη θέση \"Ανατολική είσοδος Σήραγγας Νεοχωρίου, Εγνατία Οδός, Τοπ. Κοιν. Νεοχωρίου\" στον Δήμο Σουλίου Περιφέρειας  Ηπείρου \n\t(κωδικός αριθμός θέσης 1114815, κωδική ονομασία \"EGNATIA NEOCHORI TUNNEL EAST\") έχει κατατεθεί από την εταιρία VODAFONE\tδήλωση εγκατάστασης κατασκευής κεραίας (αριθ. πρωτ. \n\t42589/21-01-2021) που εμπίπτει στις διατάξεις της νομοθεσίας για Εγκαταστάσεις Κατασκευών Κεραιών Χαμηλής Ηλεκτρομαγνητικής Περιβαλλοντικής Όχλησης (ΕΚΚΧΟ).",
+  "measurements_eaee": "-",
+  "documents": [
+    {
+      "document_number": "427739/21-01-2021",
+      "protocol_number": "ΦΩΤΟΓΡΑΦΙΑ ΘΕΣΗΣ ΚΕΡΑΙΩΝ ΕΚΚΧΟ/",
+      "type": "Φωτογραφικό Υλικό - Σκαρίφημα",
+      "file_url": "https://silia.eett.gr/silia/download/893d480e-a0e6-4b34-8edd-436855158a99"
+    },
+    {
+      "document_number": "427740/21-01-2021",
+      "protocol_number": "ΣΚΑΡΙΦΗΜΑ ΘΕΣΗΣ ΚΕΡΑΙΩΝ ΕΚΚΧΟ/",
+      "type": "Φωτογραφικό Υλικό - Σκαρίφημα",
+      "file_url": "https://silia.eett.gr/silia/download/218d5e97-1448-48f5-bf29-437fab74dcca"
+    },
+    {
+      "document_number": "427741/21-01-2021",
+      "protocol_number": "ΦΩΤΟΓΡΑΦΙΑ ΘΕΣΗΣ ΚΕΡΑΙΑΣ ΕΚΚΧΟ ΑΠΟ GOOGLE EARTH/",
+      "type": "Φωτογραφικό Υλικό - Σκαρίφημα",
+      "file_url": "https://silia.eett.gr/silia/download/8661f5af-c1f2-4ee2-9901-54118ff32b84"
+    },
+    {
+      "document_number": "427742/21-01-2021",
+      "protocol_number": "Αρχείο Αίτησης/",
+      "type": "Δήλωση ΕΚΚΧΟ",
+      "file_url": "https://silia.eett.gr/silia/download/447c2c65-bbcc-4938-b750-df5f14455285"
+    }
+  ]
+}

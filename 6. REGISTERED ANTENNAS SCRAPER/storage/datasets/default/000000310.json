@@ -1,0 +1,81 @@
+{
+  "antenna_id": "172243",
+  "address": "ΟΙΚΙΣΜΟΣ ΓΙΑΝΝΟΥΖΙ, ΑΓΡΙΝΙΟ ΑΙΤΩΛΟΑΚΑΡΝΑΝΙΑΣ",
+  "position_code": 1159700,
+  "municipality": "Αγρινίου",
+  "code_name": "3029700 APSI PINDOS AGRINIOU",
+  "region": "Δυτικής Ελλάδας",
+  "latitude": 38.599722,
+  "company": "VODAFONE",
+  "longitude": 21.407778,
+  "permit_status": "Από τα στοιχεία που τηρούνται στην Ενημερωτική Πύλη προκύπτει ότι, για τη θέση \"ΟΙΚΙΣΜΟΣ ΓΙΑΝΝΟΥΖΙ, ΑΓΡΙΝΙΟ ΑΙΤΩΛΟΑΚΑΡΝΑΝΙΑΣ\" στον Δήμο Αγρινίου Περιφέρειας  Δυτικής Ελλάδας \n\t(κωδικός αριθμός θέσης 1159700, κωδική ονομασία \"3029700 APSI PINDOS AGRINIOU\") έχει κατατεθεί από την εταιρία VODAFONE\tδήλωση εγκατάστασης κατασκευής κεραίας (αριθ. πρωτ. \n\t55029/01-03-2024) που εμπίπτει στις διατάξεις της νομοθεσίας για Εγκαταστάσεις Κατασκευών Κεραιών Χαμηλής Ηλεκτρομαγνητικής Περιβαλλοντικής Όχλησης (ΕΚΚΧΟ).",
+  "measurements_eaee": "-",
+  "documents": [
+    {
+      "document_number": "508045/20-02-2024",
+      "protocol_number": "Φωτορεαλιστική απεικόνιση κεραιας 1 ΕΚΚΧΟ/",
+      "type": "Φωτογραφικό Υλικό - Σκαρίφημα",
+      "file_url": "https://silia.eett.gr/silia/download/71317b75-a125-40ce-b6bb-52abf7b06523"
+    },
+    {
+      "document_number": "508046/20-02-2024",
+      "protocol_number": "Φωτορεαλιστική απεικόνιση mw κεραίας ΕΚΚΧΟ/",
+      "type": "Φωτογραφικό Υλικό - Σκαρίφημα",
+      "file_url": "https://silia.eett.gr/silia/download/d72b5c80-4287-4bba-9b2e-6e94b6a0bf97"
+    },
+    {
+      "document_number": "508047/20-02-2024",
+      "protocol_number": "Ψηφιακός Χάρτης με προβολή της θέσης της κεραίας ΕΚΚΧΟ/",
+      "type": "Φωτογραφικό Υλικό - Σκαρίφημα",
+      "file_url": "https://silia.eett.gr/silia/download/0ad40d34-02eb-44d1-b4ef-de7733488805"
+    },
+    {
+      "document_number": "508048/20-02-2024",
+      "protocol_number": "Φ.550/ΑΔ.214/Σ.46/08-01-2024",
+      "type": "Έγκριση Αρμοδίου Φορέα",
+      "file_url": "https://silia.eett.gr/silia/download/3f85ea60-20d8-4676-a2e2-81ee18818804"
+    },
+    {
+      "document_number": "509209/01-03-2024",
+      "protocol_number": "Μελέτη ΕΚΚΧΟ/27-02-2024",
+      "type": "Άλλο",
+      "file_url": "https://silia.eett.gr/silia/download/b4c054b2-ce39-43f7-8fee-e6d90b6fa0f6"
+    },
+    {
+      "document_number": "509210/01-03-2024",
+      "protocol_number": "Αρχιτεκτονικά σχέδια ΕΚΚΧΟ/",
+      "type": "Αρχιτεκτονικά Σχέδια",
+      "file_url": "https://silia.eett.gr/silia/download/014d20ca-bfe7-4591-ae41-a5d10bf48d30"
+    },
+    {
+      "document_number": "509222/01-03-2024",
+      "protocol_number": "Αρχείο Αίτησης/",
+      "type": "Δήλωση ΕΚΚΧΟ",
+      "file_url": "https://silia.eett.gr/silia/download/6905dea8-1ac3-4c7c-9c0a-3bc1cd51e42e"
+    },
+    {
+      "document_number": "511696/29-03-2024",
+      "protocol_number": "Μελέτη ΕΚΚΧΟ1/27-02-2024",
+      "type": "Άλλο",
+      "file_url": "https://silia.eett.gr/silia/download/vQw0CTPpZTCctL6W1WikIbNgUav314gsNuZH"
+    },
+    {
+      "document_number": "513213/16-04-2024",
+      "protocol_number": "ΥΔ εγκατάστασης ΕΚΚΧΟ/16-04-2024",
+      "type": "Άλλο",
+      "file_url": "https://silia.eett.gr/silia/download/emDbxWfDtSbfIDXNIpLqt7TNHCXIpsnOyLnq"
+    },
+    {
+      "document_number": "529727/22-10-2024",
+      "protocol_number": "ΚΑΤΟΨΗ ΑΖΙΜΟΥΘΙΟΥ ΖΕΥΞΗΣ/22-10-2024",
+      "type": "Φωτογραφικό Υλικό - Σκαρίφημα",
+      "file_url": "https://silia.eett.gr/silia/download/ImVXwICF7TiAhgTV5ECoHhmoGfg57uulcR0G"
+    },
+    {
+      "document_number": "529728/22-10-2024",
+      "protocol_number": "ΚΑΤΟΨΗ ΜΕ ΟΡΙΖΟΝΤΙΟ ΔΙΑΓΡΑΜΜΑ ΑΚΤΙΝΟΒΟΛΙΑΣ/14-11-2023",
+      "type": "Αρχιτεκτονικά [Κάτοψη - Τομή - Όψη]",
+      "file_url": "https://silia.eett.gr/silia/download/pYGgmiPAbdkiaAKaYY59UU1FNlzbuKtK3ids"
+    }
+  ]
+}

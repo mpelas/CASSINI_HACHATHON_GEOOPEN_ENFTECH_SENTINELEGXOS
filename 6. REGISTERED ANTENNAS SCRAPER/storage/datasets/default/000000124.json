@@ -1,0 +1,75 @@
+{
+  "antenna_id": "176443",
+  "address": "ΑΓΙΑΣ ΘΕΚΛΑΣ 5 & ΚΟΡΙΝΘΙΑΣ, ΠΕΥΚΑΚΙΑ",
+  "position_code": 1201005,
+  "municipality": "Αγίας Παρασκευής",
+  "code_name": "ΡΑΔΙΟ ΗΡΟΔΟΤΟΣ",
+  "region": "Αττικής",
+  "latitude": 38.011667,
+  "company": "NOVA Μ.Α.Ε.",
+  "longitude": 23.839444,
+  "permit_status": "Από τα στοιχεία που τηρούνται στην Ενημερωτική Πύλη προκύπτει ότι, για τη θέση \" ΑΓΙΑΣ ΘΕΚΛΑΣ 5 & ΚΟΡΙΝΘΙΑΣ, ΠΕΥΚΑΚΙΑ\" στον Δήμο Αγίας Παρασκευής Περιφέρειας  Αττικής \n\t(κωδικός αριθμός θέσης 1201005, κωδική ονομασία \"ΡΑΔΙΟ ΗΡΟΔΟΤΟΣ\") χορηγήθηκε, με την Απόφαση της ΕΕΤΤ \n52341/21-03-2025, άδεια κατασκευής κεραίας στην εταιρία NOVA Μ.Α.Ε.. \nΑπό τo έγγραφο της άδειας μπορείτε να ενημερωθείτε για τις σχετικές εγκρίσεις των συναρμόδιων φορέων, καθώς και εάν πρόκειται για τροποποίηση παλαιότερης άδειας.\n\tΣύμφωνα με τα στοιχεία που έχουν υποβληθεί στο ΣΗΛΥΑ, ο κάτοχος της κατασκευής κεραίας έχει δηλώσει ότι θα προβεί σε έκδοση έγκρισης δομικών κατασκευών \n\t\tκεραίας μέσω του e-Άδειες \n\t\tμετά την έκδοση της άδειας κατασκευής κεραίας / δημοσιοποίηση της δήλωσης τροποποίησης της κατασκευής κεραίας",
+  "measurements_eaee": "-",
+  "documents": [
+    {
+      "document_number": "532968/19-11-2024",
+      "protocol_number": "Δ3/Δ/33875/5876/30-07-1999",
+      "type": "Γνωμάτευση ΥΠΑ",
+      "file_url": "https://silia.eett.gr/silia/download/UxNooOZWq8royOSSIXQ8yKVACg0WFnrKI1Wg"
+    },
+    {
+      "document_number": "532969/19-11-2024",
+      "protocol_number": "ΤΟΠΟΓΡΑΦΙΚΟ & ΑΡΧΙΤΕΚΤΟΝΙΚΑ/19-11-2024",
+      "type": "Αρχιτεκτονικά Σχέδια",
+      "file_url": "https://silia.eett.gr/silia/download/KAgGyCgKZfmbG4KoggvOWWq3kx33Egloo1Vx"
+    },
+    {
+      "document_number": "532970/19-11-2024",
+      "protocol_number": "ΜΕΣΩ ΣΗΛΥΑ/29-04-2024",
+      "type": "Αίτηση - Μελέτη Ραδιοεκπομπών ΕΕΑΕ",
+      "file_url": "https://silia.eett.gr/silia/download/hAXggLrYvg2g5Vo63dXYHtLThOosVQxd7cG1"
+    },
+    {
+      "document_number": "532974/19-11-2024",
+      "protocol_number": "55483/30-04-2024",
+      "type": "Αποτελέσματα μελέτης στη ζώνης 2.6GHz για ΥΠΑ/ΓΕΕΘΑ",
+      "file_url": "https://silia.eett.gr/silia/download/lTV6ZTWb8qpO97DAOiNkwBGVTvnwmHGnXQCU"
+    },
+    {
+      "document_number": "532976/19-11-2024",
+      "protocol_number": "ΜΕΛΕΤΗ ΣΥΜΒΑΤΟΤΗΤΑΣ/29-04-2024",
+      "type": "Μελέτη για τη ζώνη  2,6GHz",
+      "file_url": "https://silia.eett.gr/silia/download/GtmpYuGQOc1uflXAGGRUQ0wAkxxgxqdzvgFQ"
+    },
+    {
+      "document_number": "532980/19-11-2024",
+      "protocol_number": "Αρχείο Αίτησης/19-11-2024",
+      "type": "Αίτηση Άδειας Κατασκευής Κεραίας ΕΕΤΤ",
+      "file_url": "https://silia.eett.gr/silia/download/lSuPZZTte3qAGPBU7lzuzWhgn7PZK222Bze2"
+    },
+    {
+      "document_number": "541465/20-02-2025",
+      "protocol_number": "TMIA/411/2686/2024/19-02-2025",
+      "type": "Γνωμάτευση ΕΕΑΕ",
+      "file_url": "https://silia.eett.gr/silia/download/gcgCMBabXWP8MACYtrDRs0WGg3nQmSmXPryE"
+    },
+    {
+      "document_number": "545272/28-03-2025",
+      "protocol_number": "52341/21-03-2025",
+      "type": "Άδεια Κατασκευής  Κεραίας",
+      "file_url": "https://silia.eett.gr/silia/download/PeTDKcWaLHhG3g27l53G65eLRN8y1XYpg7G6"
+    },
+    {
+      "document_number": "532967/19-11-2024",
+      "protocol_number": "ΣΥΝΟΔΕΥΤΙΚΑ ΕΓΓΡΑΦΑ ΠΠΔ/19-11-2024",
+      "type": "Δήλωση υπαγωγής σε ΠΠΔ και Συνοδευτικά Έγγραφα",
+      "file_url": "https://silia.eett.gr/silia/download/UK4mU9cSnO0kFviKhHOxqw09EWeIViVGloRK"
+    },
+    {
+      "document_number": "532981/19-11-2024",
+      "protocol_number": "Αρχείο Αίτησης/19-11-2024",
+      "type": "Δήλωση ΠΠΔ",
+      "file_url": "https://silia.eett.gr/silia/download/825I8Q8VU7Ma5wKZW3YkBy90nHK34i5WGdag"
+    }
+  ]
+}

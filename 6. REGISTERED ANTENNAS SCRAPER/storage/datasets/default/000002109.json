@@ -1,0 +1,81 @@
+{
+  "antenna_id": "150646",
+  "address": "ΕΠΙ ΤΗΣ ΟΔΟΥ ΒΥΖΑΝΤΙΟΥ 151 , Ν.ΙΩΝΙΑ ΑΤΤΙΚΗΣ",
+  "position_code": 1402691,
+  "municipality": "Νέας Ιωνίας",
+  "code_name": "ΒΥΖΑΝΤΙΟΥ",
+  "region": "Αττικής",
+  "latitude": 38.035,
+  "company": "OTE",
+  "longitude": 23.771111,
+  "permit_status": "Από τα στοιχεία που τηρούνται στην Ενημερωτική Πύλη προκύπτει ότι, για τη θέση \"ΕΠΙ ΤΗΣ ΟΔΟΥ ΒΥΖΑΝΤΙΟΥ 151 , Ν.ΙΩΝΙΑ ΑΤΤΙΚΗΣ\" στον Δήμο Νέας Ιωνίας Περιφέρειας  Αττικής \n\t(κωδικός αριθμός θέσης 1402691, κωδική ονομασία \"ΒΥΖΑΝΤΙΟΥ\") χορηγήθηκε, με την Απόφαση της ΕΕΤΤ \n39317/Φ610/11-02-2021, άδεια κατασκευής κεραίας στην εταιρία OTE. \nΑπό τo έγγραφο της άδειας μπορείτε να ενημερωθείτε για τις σχετικές εγκρίσεις των συναρμόδιων φορέων, καθώς και εάν πρόκειται για τροποποίηση παλαιότερης άδειας.\nΗ άδεια χορηγήθηκε με τη διαδικασία αδειοδότησης που ορίζει ο ν. 4635/2019, κατόπιν της με αριθ. πρωτ. 37341/24-02-2020 \n\tαίτησης, και βάσει σχετικής δήλωσης του κατόχου της περί υπαγωγή της κατασκευής κεραίας στο άρθρο 34 του ν. 4635/2019.",
+  "measurements_eaee": "-",
+  "documents": [
+    {
+      "document_number": "395668/23-02-2020",
+      "protocol_number": "ΜΕΣΩ ΣΗΛΥΑ/",
+      "type": "Τοπογραφικό",
+      "file_url": "https://silia.eett.gr/silia/download/f0044377-1ffc-4502-8553-1582180d4b9e"
+    },
+    {
+      "document_number": "395669/23-02-2020",
+      "protocol_number": "ΜΕΣΩ ΣΗΛΥΑ/",
+      "type": "Αρχιτεκτονικά Σχέδια",
+      "file_url": "https://silia.eett.gr/silia/download/5646e0be-17b1-485d-a7c4-6d0337815850"
+    },
+    {
+      "document_number": "395670/23-02-2020",
+      "protocol_number": "Δ3/Δ/4738/1246/27-03-2008",
+      "type": "Γνωμάτευση ΥΠΑ",
+      "file_url": "https://silia.eett.gr/silia/download/d3c796fb-7d3a-468c-8859-dd8d0ee4eb66"
+    },
+    {
+      "document_number": "395671/23-02-2020",
+      "protocol_number": "ΜΕΣΩ ΣΗΛΥΑ/10-02-2020",
+      "type": "Αίτηση - Μελέτη Ραδιοεκπομπών ΕΕΑΕ",
+      "file_url": "https://silia.eett.gr/silia/download/1007eeca-a17d-4f11-bd68-60af5daa9343"
+    },
+    {
+      "document_number": "395672/23-02-2020",
+      "protocol_number": "ΜΕΛΕΤΗ  EMC/23-02-2020",
+      "type": "Μελέτη για τη ζώνη  2,6GHz",
+      "file_url": "https://silia.eett.gr/silia/download/421467d0-0ee0-4e07-9d85-d8a9fe7d2bd6"
+    },
+    {
+      "document_number": "395673/23-02-2020",
+      "protocol_number": "12758/20-02-2020",
+      "type": "Επιστολή Ενημέρωσης προς Αρμόδιο Φορέα",
+      "file_url": "https://silia.eett.gr/silia/download/3a17d1a4-7a06-4cb9-89d9-b7d32b4d2ca5"
+    },
+    {
+      "document_number": "395802/24-02-2020",
+      "protocol_number": "Αρχείο Αίτησης/",
+      "type": "Αίτηση Άδειας Κατασκευής Κεραίας ΕΕΤΤ",
+      "file_url": "https://silia.eett.gr/silia/download/e5597aaa-a642-452c-8c0b-c91bd0ac663e"
+    },
+    {
+      "document_number": "406456/19-05-2020",
+      "protocol_number": "Μ.ι./411/6591/2020/19-05-2020",
+      "type": "Γνωμάτευση ΕΕΑΕ",
+      "file_url": "https://silia.eett.gr/silia/download/8c7df670-4122-4d23-a54a-4b0f94a22444"
+    },
+    {
+      "document_number": "427121/11-01-2021",
+      "protocol_number": "Δ3/Δ/600/11-1-2021/11-01-2021",
+      "type": "Γνωμάτευση ΥΠΑ",
+      "file_url": "https://silia.eett.gr/silia/download/617842bf-bafd-4290-809b-6aa323063d21"
+    },
+    {
+      "document_number": "429441/14-02-2021",
+      "protocol_number": "39317/Φ610/11-02-2021",
+      "type": "Άδεια Κατασκευής  Κεραίας",
+      "file_url": "https://silia.eett.gr/silia/download/1845f085-67ab-465d-beab-8b052457fbbc"
+    },
+    {
+      "document_number": "395803/24-02-2020",
+      "protocol_number": "Αρχείο Αίτησης/",
+      "type": "Δήλωση ΠΠΔ",
+      "file_url": "https://silia.eett.gr/silia/download/791fd5e0-00eb-4363-9eb9-94edd7a4dad9"
+    }
+  ]
+}

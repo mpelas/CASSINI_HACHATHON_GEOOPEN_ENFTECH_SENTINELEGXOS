@@ -1,0 +1,63 @@
+{
+  "antenna_id": "167636",
+  "address": "Άνω Πεδινά Ιωαννίνων",
+  "position_code": 1107167,
+  "municipality": "Ζαγορίου",
+  "code_name": "ZAGORI ANO PEDINA",
+  "region": "Ηπείρου",
+  "latitude": 39.881111,
+  "company": "VODAFONE",
+  "longitude": 20.704722,
+  "permit_status": "Από τα στοιχεία που τηρούνται στην Ενημερωτική Πύλη προκύπτει ότι, για τη θέση \"Άνω Πεδινά Ιωαννίνων\" στον Δήμο Ζαγορίου Περιφέρειας  Ηπείρου \n\t(κωδικός αριθμός θέσης 1107167, κωδική ονομασία \"ZAGORI ANO PEDINA\") έχει κατατεθεί από την εταιρία VODAFONE\tδήλωση εγκατάστασης κατασκευής κεραίας (αριθ. πρωτ. \n\t51118/27-03-2023) που εμπίπτει στις διατάξεις της νομοθεσίας για Εγκαταστάσεις Κατασκευών Κεραιών Χαμηλής Ηλεκτρομαγνητικής Περιβαλλοντικής Όχλησης (ΕΚΚΧΟ).",
+  "measurements_eaee": "-",
+  "documents": [
+    {
+      "document_number": "481045/27-03-2023",
+      "protocol_number": "Φωτορεαλιστική απεικόνιση κεραιών ΕΚΚΧΟ/",
+      "type": "Φωτογραφικό Υλικό - Σκαρίφημα",
+      "file_url": "https://silia.eett.gr/silia/download/4c558036-afaa-4458-9126-e6387fd6cc03"
+    },
+    {
+      "document_number": "481046/27-03-2023",
+      "protocol_number": "Φωτορεαλιστική απεικόνιση mw πιάτου ΕΚΚΧΟ/",
+      "type": "Φωτογραφικό Υλικό - Σκαρίφημα",
+      "file_url": "https://silia.eett.gr/silia/download/e69af563-1dba-4280-9928-e2f734914209"
+    },
+    {
+      "document_number": "481047/27-03-2023",
+      "protocol_number": "Ψηφιακός Χάρτης με προβολή της θέσης ΕΚΚΧΟ/",
+      "type": "Φωτογραφικό Υλικό - Σκαρίφημα",
+      "file_url": "https://silia.eett.gr/silia/download/0d4291fd-b059-461c-8252-5787a62c352e"
+    },
+    {
+      "document_number": "481049/27-03-2023",
+      "protocol_number": "Αρχιτεκτονικά σχέδια ΕΚΚΧΟ/",
+      "type": "Αρχιτεκτονικά Σχέδια",
+      "file_url": "https://silia.eett.gr/silia/download/069b0cd2-1b15-4a2b-a13d-8b94d0fe0020"
+    },
+    {
+      "document_number": "481050/27-03-2023",
+      "protocol_number": "Μελέτη ΕΚΚΧΟ/23-03-2023",
+      "type": "Άλλο",
+      "file_url": "https://silia.eett.gr/silia/download/6e03eae9-ccd7-468d-b348-1fe8853144d9"
+    },
+    {
+      "document_number": "481059/27-03-2023",
+      "protocol_number": "ΥΔ κοινής χρήσης NOVA/27-03-2023",
+      "type": "Άλλο",
+      "file_url": "https://silia.eett.gr/silia/download/9a4901fc-a55c-4b03-89b2-8be25fcbcccc"
+    },
+    {
+      "document_number": "481060/27-03-2023",
+      "protocol_number": "Αρχείο Αίτησης/",
+      "type": "Δήλωση ΕΚΚΧΟ",
+      "file_url": "https://silia.eett.gr/silia/download/7140befe-4e80-442f-a540-81a3b1c288d0"
+    },
+    {
+      "document_number": "486705/30-05-2023",
+      "protocol_number": "ΥΔ εγκατάστασης/30-05-2023",
+      "type": "Άλλο",
+      "file_url": "https://silia.eett.gr/silia/download/097cb8a4-68a0-424d-8aa3-5c8afc774dd4"
+    }
+  ]
+}

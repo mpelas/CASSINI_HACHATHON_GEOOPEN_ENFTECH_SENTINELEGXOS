@@ -1,0 +1,33 @@
+{
+  "antenna_id": "160029",
+  "address": "ΕΛΟΥΝΤΑ ΚΡΗΤΗΣ",
+  "position_code": 1158155,
+  "municipality": "Αγίου Νικολάου",
+  "code_name": "3028155 PORTO ELOUNDA",
+  "region": "Κρήτης",
+  "latitude": 35.242222,
+  "company": "VODAFONE",
+  "longitude": 25.73,
+  "permit_status": "Από τα στοιχεία που τηρούνται στην Ενημερωτική Πύλη προκύπτει ότι, για τη θέση \"ΕΛΟΥΝΤΑ ΚΡΗΤΗΣ\" στον Δήμο Αγίου Νικολάου Περιφέρειας  Κρήτης \n\t(κωδικός αριθμός θέσης 1158155, κωδική ονομασία \"3028155 PORTO ELOUNDA\") έχει κατατεθεί από την εταιρία VODAFONE\tδήλωση εγκατάστασης κατασκευής κεραίας (αριθ. πρωτ. \n\t44441/04-08-2021) που εμπίπτει στις διατάξεις της νομοθεσίας για Εγκαταστάσεις Κατασκευών Κεραιών Χαμηλής Ηλεκτρομαγνητικής Περιβαλλοντικής Όχλησης (ΕΚΚΧΟ).",
+  "measurements_eaee": "-",
+  "documents": [
+    {
+      "document_number": "439523/03-08-2021",
+      "protocol_number": "Φωτογραφία θέσης κεραίας ΕΚΚΧΟ/",
+      "type": "Φωτογραφικό Υλικό - Σκαρίφημα",
+      "file_url": "https://silia.eett.gr/silia/download/1dfc3d9c-e30a-433e-bbde-790836ed041d"
+    },
+    {
+      "document_number": "439524/03-08-2021",
+      "protocol_number": "Φωτογραφία θέσης ΕΚΚΧΟ από Google Earth/",
+      "type": "Φωτογραφικό Υλικό - Σκαρίφημα",
+      "file_url": "https://silia.eett.gr/silia/download/d30d1f2a-ce32-45b5-b66e-69488432bdfc"
+    },
+    {
+      "document_number": "439551/04-08-2021",
+      "protocol_number": "Αρχείο Αίτησης/",
+      "type": "Δήλωση ΕΚΚΧΟ",
+      "file_url": "https://silia.eett.gr/silia/download/dce635eb-0ebd-4548-b9af-faa7f2ab21c8"
+    }
+  ]
+}

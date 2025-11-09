@@ -1,0 +1,33 @@
+{
+  "antenna_id": "160354",
+  "address": "Σιδηροδρομικός Σταθμός Βέροιας",
+  "position_code": 1147640,
+  "municipality": "Βέροιας",
+  "code_name": "3027640 ALEXANDER VEROIA",
+  "region": "Κεντρικής Μακεδονίας",
+  "latitude": 40.54,
+  "company": "VODAFONE",
+  "longitude": 22.218611,
+  "permit_status": "Από τα στοιχεία που τηρούνται στην Ενημερωτική Πύλη προκύπτει ότι, για τη θέση \"Σιδηροδρομικός Σταθμός Βέροιας\" στον Δήμο Βέροιας Περιφέρειας  Κεντρικής Μακεδονίας \n\t(κωδικός αριθμός θέσης 1147640, κωδική ονομασία \"3027640 ALEXANDER VEROIA\") έχει κατατεθεί από την εταιρία VODAFONE\tδήλωση εγκατάστασης κατασκευής κεραίας (αριθ. πρωτ. \n\t44721/22-09-2021) που εμπίπτει στις διατάξεις της νομοθεσίας για Εγκαταστάσεις Κατασκευών Κεραιών Χαμηλής Ηλεκτρομαγνητικής Περιβαλλοντικής Όχλησης (ΕΚΚΧΟ).",
+  "measurements_eaee": "-",
+  "documents": [
+    {
+      "document_number": "441511/22-09-2021",
+      "protocol_number": "Φωτογραφία θέσης κεραίας ΕΚΚΧΟ/",
+      "type": "Φωτογραφικό Υλικό - Σκαρίφημα",
+      "file_url": "https://silia.eett.gr/silia/download/3d5b9eb1-eefb-4f5b-bda8-eb042ce0bcd8"
+    },
+    {
+      "document_number": "441512/22-09-2021",
+      "protocol_number": "Φωτογραφία θέσης ΕΚΚΧΟ από Google Earth/",
+      "type": "Φωτογραφικό Υλικό - Σκαρίφημα",
+      "file_url": "https://silia.eett.gr/silia/download/e59ad1c5-a155-40a2-8b26-63568a41c73c"
+    },
+    {
+      "document_number": "441513/22-09-2021",
+      "protocol_number": "Αρχείο Αίτησης/",
+      "type": "Δήλωση ΕΚΚΧΟ",
+      "file_url": "https://silia.eett.gr/silia/download/efdac934-8e2c-43b8-8de1-4aee515ab3c2"
+    }
+  ]
+}

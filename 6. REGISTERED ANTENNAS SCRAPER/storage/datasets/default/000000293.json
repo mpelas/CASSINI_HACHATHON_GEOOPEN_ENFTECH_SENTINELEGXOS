@@ -1,0 +1,117 @@
+{
+  "antenna_id": "131726",
+  "address": "ΜΕΓΑΣ ΛΑΚΚΟΣ\" ΠΛΗΣΙΟΝ ΟΙΚΙΣΜΟΥ ΑΜΠΕΛΙΑ",
+  "position_code": 2422207,
+  "municipality": "Αγρινίου",
+  "code_name": "ΑΜΠΕΛΙΑ",
+  "region": "Δυτικής Ελλάδας",
+  "latitude": 38.806111,
+  "company": "RC",
+  "longitude": 21.463611,
+  "permit_status": "Από τα στοιχεία που τηρούνται στην Ενημερωτική Πύλη προκύπτει ότι, για τη θέση \"ΜΕΓΑΣ ΛΑΚΚΟΣ\" ΠΛΗΣΙΟΝ ΟΙΚΙΣΜΟΥ ΑΜΠΕΛΙΑ\" στον Δήμο Αγρινίου Περιφέρειας  Δυτικής Ελλάδας \n\t(κωδικός αριθμός θέσης 2422207, κωδική ονομασία \"ΑΜΠΕΛΙΑ\") χορηγήθηκε, με την Απόφαση της ΕΕΤΤ \n28145/Φ610/24-05-2018, άδεια κατασκευής κεραίας στην εταιρία RC. \nΑπό τo έγγραφο της άδειας μπορείτε να ενημερωθείτε για τις σχετικές εγκρίσεις των συναρμόδιων φορέων, καθώς και εάν πρόκειται για τροποποίηση παλαιότερης άδειας.\nΗ άδεια χορηγήθηκε, κατόπιν της με Αριθ. Πρωτ. 26346/21-02-2018 αίτησης, \n\tμε τη διαδικασία αδειοδότησης της παρ. 17 του άρθρου 30 του Ν.4070/2012 που πλέον έχει αντικατασταθεί από τη διαδικασία που ορίζει ο ν. 4635/2019.\n\tΣύμφωνα με τα στοιχεία που έχουν υποβληθεί στο ΣΗΛΥΑ για την κατασκευή κεραίας από τον κάτοχό της, έχει εκδοθεί έγκριση δομικών κατασκευών κεραίας",
+  "measurements_eaee": "-",
+  "documents": [
+    {
+      "document_number": "321567/21-02-2018",
+      "protocol_number": "ΡΑΔ_2207 AMPELIA/",
+      "type": "Αίτηση - Μελέτη Ραδιοεκπομπών ΕΕΑΕ",
+      "file_url": "https://silia.eett.gr/silia/download/f8924063-8b25-42b2-9cf9-eee79aae96e0"
+    },
+    {
+      "document_number": "321568/21-02-2018",
+      "protocol_number": "1.2207 ΠΠΔ ΚΑΙ ΣΥΝΟΔΕΥΤΙΚΑ/",
+      "type": "Δήλωση υπαγωγής σε ΠΠΔ και Συνοδευτικά Έγγραφα",
+      "file_url": "https://silia.eett.gr/silia/download/f076fa1b-7118-4a9d-95d7-34bf5bd6ca62"
+    },
+    {
+      "document_number": "321569/21-02-2018",
+      "protocol_number": "2.2207 TOPOGRAFIKO & GYS 1:5000/",
+      "type": "Τοπογραφικό",
+      "file_url": "https://silia.eett.gr/silia/download/f7307e8a-7ccb-48bf-8cd2-82015784dc14"
+    },
+    {
+      "document_number": "321570/21-02-2018",
+      "protocol_number": "3.2207 ARXITEKTONIKA ME SFRAGIDA/",
+      "type": "Αρχιτεκτονικά Σχέδια",
+      "file_url": "https://silia.eett.gr/silia/download/91d60878-e8fe-47b1-a910-219e50b6c8ac"
+    },
+    {
+      "document_number": "321572/21-02-2018",
+      "protocol_number": "2207 ΧΑΡΤΗΣ ΥΠΑ/",
+      "type": "Συμπληρωματικά Έγγραφα Αίτησης / Μελέτης",
+      "file_url": "https://silia.eett.gr/silia/download/8cb74e53-96c1-42f7-9c5a-5dde40832ef0"
+    },
+    {
+      "document_number": "321573/21-02-2018",
+      "protocol_number": "21580_6-10-16_signed/",
+      "type": "Χορήγηση Δικαιώματος Χρήσης Ραδιοσυχνοτήτων",
+      "file_url": "https://silia.eett.gr/silia/download/1d40bd66-394d-46a1-b762-7ce52e51b9b6"
+    },
+    {
+      "document_number": "321575/21-02-2018",
+      "protocol_number": "2.150623 ΕΚΠΡΟΣΩΠΗΣΗ RURAL/",
+      "type": "Συμπληρωματικά Έγγραφα",
+      "file_url": "https://silia.eett.gr/silia/download/29dd92e1-f90b-48aa-8f30-31ea2230e48c"
+    },
+    {
+      "document_number": "321576/21-02-2018",
+      "protocol_number": "ΑΠ. ΣΥΜΒΑΣΗΣ ΔΙΚ. ΧΡΗΣΗΣ ΣΥΧΝΟΤΗΤΑΣ 3,8GHz/",
+      "type": "Συμπληρωματικά Έγγραφα",
+      "file_url": "https://silia.eett.gr/silia/download/6cc4bd49-4ccf-4842-a97f-150f6685dfbc"
+    },
+    {
+      "document_number": "321577/21-02-2018",
+      "protocol_number": "Αρχείο Αίτησης/",
+      "type": "Αίτηση Άδειας Κατασκευής Κεραίας ΕΕΤΤ",
+      "file_url": "https://silia.eett.gr/silia/download/df46fa34-92ba-4687-b5f8-1623c236bab3"
+    },
+    {
+      "document_number": "322091/27-02-2018",
+      "protocol_number": "Μ.ι./411/2769/2018/",
+      "type": "Γνωμάτευση ΕΕΑΕ",
+      "file_url": "https://silia.eett.gr/silia/download/2f136e5d-b08a-4e9d-bb77-6c6e995073c0"
+    },
+    {
+      "document_number": "323910/20-03-2018",
+      "protocol_number": "Δ3/Δ/5812/2028/19-3-2018/20-03-2018",
+      "type": "Γνωμάτευση ΥΠΑ",
+      "file_url": "https://silia.eett.gr/silia/download/493174ef-6674-4360-a916-5d31fb156b92"
+    },
+    {
+      "document_number": "329525/15-05-2018",
+      "protocol_number": "ΠΟΛΕΟΔΟΜΙΚΗ ΕΓΚΡΙΣΗ 2207 ΑΜΠΕΛΙΑ/",
+      "type": "Έγκριση δομικών κατασκευών (έντυπη)",
+      "file_url": "https://silia.eett.gr/silia/download/f796249b-c847-4a1a-9118-39147ad98591"
+    },
+    {
+      "document_number": "330695/25-05-2018",
+      "protocol_number": "28145/Φ610/24-05-2018",
+      "type": "Άδεια Κατασκευής  Κεραίας",
+      "file_url": "https://silia.eett.gr/silia/download/f46d5ed5-1e2f-475e-a7dc-1ed8f53ab8d5"
+    },
+    {
+      "document_number": "330696/25-05-2018",
+      "protocol_number": "28145/Φ610/24-05-2018",
+      "type": "Άδεια Κατασκευής  Κεραίας",
+      "file_url": "https://silia.eett.gr/silia/download/b482b5ed-ef2a-48ba-ad50-bf2b70d882e4"
+    },
+    {
+      "document_number": "329525/15-05-2018",
+      "protocol_number": "ΠΟΛΕΟΔΟΜΙΚΗ ΕΓΚΡΙΣΗ 2207 ΑΜΠΕΛΙΑ/",
+      "type": "Έγκριση δομικών κατασκευών (έντυπη)",
+      "file_url": "https://silia.eett.gr/silia/download/f796249b-c847-4a1a-9118-39147ad98591"
+    },
+    {
+      "document_number": "321561/21-02-2018",
+      "protocol_number": "1.2207 ΠΠΔ ΚΑΙ ΣΥΝΟΔΕΥΤΙΚΑ/",
+      "type": "Δήλωση υπαγωγής σε ΠΠΔ και Συνοδευτικά Έγγραφα",
+      "file_url": "https://silia.eett.gr/silia/download/b5957997-237e-42ea-8efe-abaeddbef56c"
+    },
+    {
+      "document_number": "321578/21-02-2018",
+      "protocol_number": "Αρχείο Αίτησης/",
+      "type": "Δήλωση ΠΠΔ",
+      "file_url": "https://silia.eett.gr/silia/download/4eb178ea-c2c6-4aa2-8f02-75a9f425cb97"
+    }
+  ]
+}

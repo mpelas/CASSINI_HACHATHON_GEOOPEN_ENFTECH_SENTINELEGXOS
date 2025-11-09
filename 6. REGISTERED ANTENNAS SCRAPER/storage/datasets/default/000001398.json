@@ -1,0 +1,51 @@
+{
+  "antenna_id": "175536",
+  "address": "ΚΑΛΑΠΟΔΙ 0 - ΦΘΙΩΤΙΔΑΣ (S-FTH-31596)ΠΕΡΙΦΕΡΕΙΑΚΟ ΙΑΤΡΕΙΟ ΚΑΛΑΠΟΔΙΟΥ",
+  "position_code": 1496293,
+  "municipality": "Δομοκού",
+  "code_name": "IATREIO_KALAPODIOU_SYZII",
+  "region": "Στερεάς Ελλάδας",
+  "latitude": 38.633056,
+  "company": "OTE",
+  "longitude": 22.884444,
+  "permit_status": "Από τα στοιχεία που τηρούνται στην Ενημερωτική Πύλη προκύπτει ότι, για τη θέση \"ΚΑΛΑΠΟΔΙ 0 - ΦΘΙΩΤΙΔΑΣ (S-FTH-31596)ΠΕΡΙΦΕΡΕΙΑΚΟ ΙΑΤΡΕΙΟ ΚΑΛΑΠΟΔΙΟΥ\" στον Δήμο Δομοκού Περιφέρειας  Στερεάς Ελλάδας \n\t(κωδικός αριθμός θέσης 1496293, κωδική ονομασία \"IATREIO_KALAPODIOU_SYZII\") έχει κατατεθεί από την εταιρία OTE\tδήλωση εγκατάστασης κατασκευής κεραίας (αριθ. πρωτ. \n\t57591/02-10-2024) που εμπίπτει στις διατάξεις της νομοθεσίας για Εγκαταστάσεις Κατασκευών Κεραιών Χαμηλής Ηλεκτρομαγνητικής Περιβαλλοντικής Όχλησης (ΕΚΚΧΟ).",
+  "measurements_eaee": "-",
+  "documents": [
+    {
+      "document_number": "526969/26-09-2024",
+      "protocol_number": "ΦΩΤΟΓΡΑΦΙΑ/26-09-2024",
+      "type": "Φωτογραφικό Υλικό - Σκαρίφημα",
+      "file_url": "https://silia.eett.gr/silia/download/kky0uevbvRmKqE8Z9xyB0O9N34UOCsewD2Vx"
+    },
+    {
+      "document_number": "526970/26-09-2024",
+      "protocol_number": "ΦΩΤΟΓΡΑΦΙΑ1/26-09-2024",
+      "type": "Φωτογραφικό Υλικό - Σκαρίφημα",
+      "file_url": "https://silia.eett.gr/silia/download/Ch6KgLukZN3t5cwoWcPBghbaxCO1VIyR8d7X"
+    },
+    {
+      "document_number": "527475/02-10-2024",
+      "protocol_number": "ΜΕΛΕΤΗ/02-10-2024",
+      "type": "Αίτηση - Μελέτη Ραδιοεκπομπών ΕΕΑΕ",
+      "file_url": "https://silia.eett.gr/silia/download/n8fWzGD2OrLD9GIqUiYBM5QngBbCoR8vWicW"
+    },
+    {
+      "document_number": "527544/02-10-2024",
+      "protocol_number": "Αρχείο Αίτησης/02-10-2024",
+      "type": "Δήλωση ΕΚΚΧΟ",
+      "file_url": "https://silia.eett.gr/silia/download/vctRfcxeDOFPxC6OvLl8eWUp8g5mzD55W2kg"
+    },
+    {
+      "document_number": "532944/19-11-2024",
+      "protocol_number": "ΑΠΟΣΠΑΣΜΑ ΨΗΦΙΑΚΟΥ ΧΑΡΤΗ/19-11-2024",
+      "type": "Φωτογραφικό Υλικό - Σκαρίφημα",
+      "file_url": "https://silia.eett.gr/silia/download/fU5raY4My9Ek331bDSggIZZIQAYFdLecy1Y9"
+    },
+    {
+      "document_number": "533091/20-11-2024",
+      "protocol_number": "ΥΠ.ΔΗΛΩΣΗ/20-11-2024",
+      "type": "Άλλο",
+      "file_url": "https://silia.eett.gr/silia/download/zzde96RAHuMVdfsbDQwGa8Bufw1nFxwZgWrZ"
+    }
+  ]
+}

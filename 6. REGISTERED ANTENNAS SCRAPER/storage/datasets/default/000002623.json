@@ -1,0 +1,63 @@
+{
+  "antenna_id": "176898",
+  "address": "ΜΑΓΟΥΛΑ ΠΑΤΡΑΣ",
+  "position_code": 1275434,
+  "municipality": "Πατρέων",
+  "code_name": "Cloud Software Magoula (K434)",
+  "region": "Δυτικής Ελλάδας",
+  "latitude": 38.276111,
+  "company": "NOVA Μ.Α.Ε.",
+  "longitude": 21.7925,
+  "permit_status": "Από τα στοιχεία που τηρούνται στην Ενημερωτική Πύλη προκύπτει ότι, για τη θέση \"ΜΑΓΟΥΛΑ ΠΑΤΡΑΣ\" στον Δήμο Πατρέων Περιφέρειας  Δυτικής Ελλάδας \n\t(κωδικός αριθμός θέσης 1275434, κωδική ονομασία \"Cloud Software Magoula (K434)\") έχει κατατεθεί από την εταιρία NOVA Μ.Α.Ε.\tδήλωση εγκατάστασης κατασκευής κεραίας (αριθ. πρωτ. \n\t58746/17-12-2024) που εμπίπτει στις διατάξεις της νομοθεσίας για Εγκαταστάσεις Κατασκευών Κεραιών Χαμηλής Ηλεκτρομαγνητικής Περιβαλλοντικής Όχλησης (ΕΚΚΧΟ).",
+  "measurements_eaee": "-",
+  "documents": [
+    {
+      "document_number": "535883/17-12-2024",
+      "protocol_number": "Φωτορεαλιστική απεικόνιση κεραίας ΕΚΚΧΟ/17-12-2024",
+      "type": "Φωτογραφικό Υλικό - Σκαρίφημα",
+      "file_url": "https://silia.eett.gr/silia/download/7bH6hKGgP6KncIGSaI5Mga6ekqMzg3CGEzh0"
+    },
+    {
+      "document_number": "535884/17-12-2024",
+      "protocol_number": "Ψηφιακός χάρτης με προβολή της θέσης ΕΚΚΧΟ/17-12-2024",
+      "type": "Φωτογραφικό Υλικό - Σκαρίφημα",
+      "file_url": "https://silia.eett.gr/silia/download/nRdC6qgUtWXMsn338q9zIFHnHGQrY5LknziX"
+    },
+    {
+      "document_number": "535885/17-12-2024",
+      "protocol_number": "Σκαρίφημα θέσης κεραίας ΕΚΚΧΟ/17-12-2024",
+      "type": "Φωτογραφικό Υλικό - Σκαρίφημα",
+      "file_url": "https://silia.eett.gr/silia/download/uqyTrMF3dmeaXDPHgZTY5N79zvIzAyeTEIB3"
+    },
+    {
+      "document_number": "535895/17-12-2024",
+      "protocol_number": "ΜΕΛΕΤΗ ΕΚΚΧΟ/17-12-2024",
+      "type": "Άλλο",
+      "file_url": "https://silia.eett.gr/silia/download/M55SXQCWSRiOBNSubdk9Z58MEpIgBqUFHvGY"
+    },
+    {
+      "document_number": "535896/17-12-2024",
+      "protocol_number": "ΓΕΙΤΟΝΙΚΕΣ ΕΚΚΧΟ/17-12-2024",
+      "type": "Φωτογραφικό Υλικό - Σκαρίφημα",
+      "file_url": "https://silia.eett.gr/silia/download/ZCvEuEw50qaTwOh5DGvLgyRIZI1lyBZlmPGr"
+    },
+    {
+      "document_number": "535897/17-12-2024",
+      "protocol_number": "Σκαρίφημα με περιοχή απαγόρευσης/17-12-2024",
+      "type": "Φωτογραφικό Υλικό - Σκαρίφημα",
+      "file_url": "https://silia.eett.gr/silia/download/CA23ugwB6DLP8QFDTVnB7u35zKDsrgoxeyYq"
+    },
+    {
+      "document_number": "535898/17-12-2024",
+      "protocol_number": "Αρχείο Αίτησης/17-12-2024",
+      "type": "Δήλωση ΕΚΚΧΟ",
+      "file_url": "https://silia.eett.gr/silia/download/gnpD9MM7yW1u2Tq477bW0rDeKbyl8LVtqHXP"
+    },
+    {
+      "document_number": "538735/23-01-2025",
+      "protocol_number": "ΥΔ ΜΗΧΑΝΙΚΟΥ/17-12-2024",
+      "type": "Βεβαίωση πολιτικού μηχανικού",
+      "file_url": "https://silia.eett.gr/silia/download/hwCHYYwgoR43ZUdduGKGK9SzSgMbcECOUnLn"
+    }
+  ]
+}

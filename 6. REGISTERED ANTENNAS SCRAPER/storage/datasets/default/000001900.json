@@ -1,0 +1,45 @@
+{
+  "antenna_id": "177820",
+  "address": "ΠΑΛΑΙΑ ΕΘΝΙΚΗ ΟΔΟΣ ΗΡΑΚΛΕΙΟΥ ΟΙΚ ΑΓ. ΙΩΑΝΝΗΣ",
+  "position_code": 1279197,
+  "municipality": "Ηρακλείου Κρήτης",
+  "code_name": "MPAKSEVANIS IRAKLEIO (G197)",
+  "region": "Κρήτης",
+  "latitude": 35.323333,
+  "company": "NOVA Μ.Α.Ε.",
+  "longitude": 25.375,
+  "permit_status": "Από τα στοιχεία που τηρούνται στην Ενημερωτική Πύλη προκύπτει ότι, για τη θέση \"ΠΑΛΑΙΑ ΕΘΝΙΚΗ ΟΔΟΣ ΗΡΑΚΛΕΙΟΥ ΟΙΚ ΑΓ. ΙΩΑΝΝΗΣ\" στον Δήμο Ηρακλείου Κρήτης Περιφέρειας  Κρήτης \n\t(κωδικός αριθμός θέσης 1279197, κωδική ονομασία \"MPAKSEVANIS IRAKLEIO (G197)\") έχει κατατεθεί από την εταιρία NOVA Μ.Α.Ε.\tδήλωση εγκατάστασης κατασκευής κεραίας (αριθ. πρωτ. \n\t59539/25-02-2025) που εμπίπτει στις διατάξεις της νομοθεσίας για Εγκαταστάσεις Κατασκευών Κεραιών Χαμηλής Ηλεκτρομαγνητικής Περιβαλλοντικής Όχλησης (ΕΚΚΧΟ).",
+  "measurements_eaee": "-",
+  "documents": [
+    {
+      "document_number": "541917/25-02-2025",
+      "protocol_number": "Φωτορεαλιστική απεικόνιση κεραίας ΕΚΚΧΟ/25-02-2025",
+      "type": "Φωτογραφικό Υλικό - Σκαρίφημα",
+      "file_url": "https://silia.eett.gr/silia/download/wXWm8TaMAK8AvyGBOTMnssmEPIe8vhADzdkh"
+    },
+    {
+      "document_number": "541920/25-02-2025",
+      "protocol_number": "Ψηφιακός χάρτης με προβολή της θέσης ΕΚΚΧ/25-02-2025",
+      "type": "Φωτογραφικό Υλικό - Σκαρίφημα",
+      "file_url": "https://silia.eett.gr/silia/download/Tc8nniGGLIU1Yaf13Zig6CS6dGwwpP8DYQR0"
+    },
+    {
+      "document_number": "541925/25-02-2025",
+      "protocol_number": "ΜΕΛΕΤΗ ΕΚΚΧΟ/25-02-2025",
+      "type": "Άλλο",
+      "file_url": "https://silia.eett.gr/silia/download/Ea0fMLesHGG2GCRD6vcLOVDZfG0R5XmfIVV4"
+    },
+    {
+      "document_number": "541926/25-02-2025",
+      "protocol_number": "Σκαρίφημα με περιοχή απαγόρευσης/25-02-2025",
+      "type": "Φωτογραφικό Υλικό - Σκαρίφημα",
+      "file_url": "https://silia.eett.gr/silia/download/7gctivhCdoG5HKQGWyaQxb483fvMugVnWlRM"
+    },
+    {
+      "document_number": "541931/25-02-2025",
+      "protocol_number": "Αρχείο Αίτησης/25-02-2025",
+      "type": "Δήλωση ΕΚΚΧΟ",
+      "file_url": "https://silia.eett.gr/silia/download/nHC2iG8c44ootBNec3SGEQkLCVmdkngONB5l"
+    }
+  ]
+}

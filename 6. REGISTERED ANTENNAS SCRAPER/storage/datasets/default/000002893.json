@@ -1,0 +1,111 @@
+{
+  "antenna_id": "162929",
+  "address": "ΠΛΗΣΙΟΝ ΕΞΟΧΗΣ, \"ΚΟΥΡΙ\", ΔΗΜ. ΕΝΟΤΗΤΑ ΧΟΡΤΙΑΤΗ",
+  "position_code": 1200105,
+  "municipality": "Πυλαίας - Χορτιάτη",
+  "code_name": "ΚΟΥΡΗ",
+  "region": "Κεντρικής Μακεδονίας",
+  "latitude": 40.633889,
+  "company": "NOVA Μ.Α.Ε.",
+  "longitude": 23.055278,
+  "permit_status": "Από τα στοιχεία που τηρούνται στην Ενημερωτική Πύλη προκύπτει ότι, για τη θέση \"ΠΛΗΣΙΟΝ ΕΞΟΧΗΣ, \"ΚΟΥΡΙ\", ΔΗΜ. ΕΝΟΤΗΤΑ ΧΟΡΤΙΑΤΗ\" στον Δήμο Πυλαίας - Χορτιάτη Περιφέρειας  Κεντρικής Μακεδονίας \n\t(κωδικός αριθμός θέσης 1200105, κωδική ονομασία \"ΚΟΥΡΗ\") χορηγήθηκε, με την Απόφαση της ΕΕΤΤ \n46079/24-11-2022, άδεια κατασκευής κεραίας στην εταιρία NOVA Μ.Α.Ε.. \nΑπό τo έγγραφο της άδειας μπορείτε να ενημερωθείτε για τις σχετικές εγκρίσεις των συναρμόδιων φορέων, καθώς και εάν πρόκειται για τροποποίηση παλαιότερης άδειας.\nΗ άδεια χορηγήθηκε με τη διαδικασία αδειοδότησης που ορίζει ο ν. 4635/2019, κατόπιν της με αριθ. πρωτ. 46981/23-03-2022 \n\tαίτησης, και βάσει σχετικής δήλωσης του κατόχου της περί υπαγωγή της κατασκευής κεραίας στο άρθρο 34 του ν. 4635/2019.",
+  "measurements_eaee": "-",
+  "documents": [
+    {
+      "document_number": "453876/22-03-2022",
+      "protocol_number": "43462/Φ615/17-03-2022",
+      "type": "Χορήγηση Δικαιώματος Χρήσης Ραδιοσυχνοτήτων",
+      "file_url": null
+    },
+    {
+      "document_number": "453877/22-03-2022",
+      "protocol_number": "Δ3/Δ/59757/4665/13-10-1993",
+      "type": "Γνωμάτευση ΥΠΑ",
+      "file_url": "https://silia.eett.gr/silia/download/cb5067f5-c350-4bab-bb38-4748a5ea0222"
+    },
+    {
+      "document_number": "453878/22-03-2022",
+      "protocol_number": "Δ3/Δ/10602/18-12-2002",
+      "type": "Γνωμάτευση ΥΠΑ",
+      "file_url": "https://silia.eett.gr/silia/download/d6859c6b-f363-471e-bb7e-48e144e4d2ad"
+    },
+    {
+      "document_number": "453879/22-03-2022",
+      "protocol_number": "Δ3/Δ/13456/3620/20-05-2013",
+      "type": "Γνωμάτευση ΥΠΑ",
+      "file_url": "https://silia.eett.gr/silia/download/2b783bee-53b2-487c-ae42-16a8b50a5166"
+    },
+    {
+      "document_number": "453967/22-03-2022",
+      "protocol_number": "ΤΟΠΟΓΡΑΦΙΚΟ ΚΑΙ ΑΡΧΙΤΕΚΤΟΝΙΚΑ/",
+      "type": "Αρχιτεκτονικά Σχέδια",
+      "file_url": "https://silia.eett.gr/silia/download/2a1f0e10-ee97-45f8-b31b-f5c274c921b1"
+    },
+    {
+      "document_number": "454002/23-03-2022",
+      "protocol_number": "ΜΕΛΕΤΗ ΡΑΔΙΟΕΚΠΟΜΠΩΝ/23-03-2022",
+      "type": "Αίτηση - Μελέτη Ραδιοεκπομπών ΕΕΑΕ",
+      "file_url": "https://silia.eett.gr/silia/download/27e502e2-a51a-40f9-8d34-b4fed77a01cb"
+    },
+    {
+      "document_number": "454030/23-03-2022",
+      "protocol_number": "Αρχείο Αίτησης/",
+      "type": "Αίτηση Άδειας Κατασκευής Κεραίας ΕΕΤΤ",
+      "file_url": "https://silia.eett.gr/silia/download/dce65f7c-0279-40ef-8afd-932d50fa8a1e"
+    },
+    {
+      "document_number": "460692/01-06-2022",
+      "protocol_number": "Μ.ι./411/8299/2022/01-06-2022",
+      "type": "Γνωμάτευση ΕΕΑΕ",
+      "file_url": "https://silia.eett.gr/silia/download/a0ae9c5d-bc0b-461a-b3b0-0b1ec7f07535"
+    },
+    {
+      "document_number": "470707/24-10-2022",
+      "protocol_number": "ΕΝΗΜΕΡΩΣΗ ΥΠΑ ΜΕΣΩ EMAIL/24-10-2022",
+      "type": "Άλλο",
+      "file_url": "https://silia.eett.gr/silia/download/4b35512d-9e89-4198-a85b-0f84ba61fe5d"
+    },
+    {
+      "document_number": "474289/06-12-2022",
+      "protocol_number": "46079/24-11-2022",
+      "type": "Άδεια Κατασκευής  Κεραίας",
+      "file_url": "https://silia.eett.gr/silia/download/420674b3-5ca9-498e-b92d-0f8b1ad36a0d"
+    },
+    {
+      "document_number": "453881/22-03-2022",
+      "protocol_number": "2458/2008/20-11-2008",
+      "type": "Απόφαση εξαίρεσης ΡΑΕ",
+      "file_url": "https://silia.eett.gr/silia/download/66551dcc-5028-4ddd-981c-da7a4f974e02"
+    },
+    {
+      "document_number": "453882/22-03-2022",
+      "protocol_number": "ΔΑΣΙΚΟΣ ΧΑΡΤΗΣ /21-03-2022",
+      "type": "Πράξη χαρακτηρισμού (άτυπη)",
+      "file_url": "https://silia.eett.gr/silia/download/31ff5f0e-548d-4e53-a526-06ff96d8d614"
+    },
+    {
+      "document_number": "453883/22-03-2022",
+      "protocol_number": "2168/16-12-2014",
+      "type": "Βεβαίωση Κτηματικής Υπηρεσίας Δημοσίου",
+      "file_url": "https://silia.eett.gr/silia/download/3a43adb4-7c94-4910-958e-cc0cd2478194"
+    },
+    {
+      "document_number": "453884/22-03-2022",
+      "protocol_number": "5083/478366/01-12-2014",
+      "type": "Βεβαίωση Υπουργείου Αγροτικής Ανάπτυξης",
+      "file_url": "https://silia.eett.gr/silia/download/52be7844-10eb-49ce-b36f-fc2d904a26d0"
+    },
+    {
+      "document_number": "454007/23-03-2022",
+      "protocol_number": "ΜΕΛΕΤΗ ΡΑΔΙΟΕΚΠΟΜΠΩΝ/23-03-2022",
+      "type": "Αίτηση - Μελέτη Ραδιοεκπομπών ΕΕΑΕ",
+      "file_url": "https://silia.eett.gr/silia/download/27e502e2-a51a-40f9-8d34-b4fed77a01cb"
+    },
+    {
+      "document_number": "454031/23-03-2022",
+      "protocol_number": "Αρχείο Αίτησης/",
+      "type": "Δήλωση ΠΠΔ",
+      "file_url": "https://silia.eett.gr/silia/download/cf3cf4a5-22e4-45e3-aaeb-79f1e61163ad"
+    }
+  ]
+}

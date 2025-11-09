@@ -1,0 +1,105 @@
+{
+  "antenna_id": "160443",
+  "address": "ΠΡΟΦΗΤΗΣ ΗΛΙΑΣ, ΜΠΟΖΑΪΤΙΚΑ",
+  "position_code": 1405003,
+  "municipality": "Πατρέων",
+  "code_name": "ΠΡΟΑΣΤΙΟ /Χ",
+  "region": "Δυτικής Ελλάδας",
+  "latitude": 38.2775,
+  "company": "OTE",
+  "longitude": 21.776667,
+  "permit_status": "Από τα στοιχεία που τηρούνται στην Ενημερωτική Πύλη προκύπτει ότι, για τη θέση \"ΠΡΟΦΗΤΗΣ ΗΛΙΑΣ, ΜΠΟΖΑΪΤΙΚΑ\" στον Δήμο Πατρέων Περιφέρειας  Δυτικής Ελλάδας \n\t(κωδικός αριθμός θέσης 1405003, κωδική ονομασία \"ΠΡΟΑΣΤΙΟ /Χ\") χορηγήθηκε, με την Απόφαση της ΕΕΤΤ \n43264/24-02-2022, άδεια κατασκευής κεραίας στην εταιρία OTE. \nΑπό τo έγγραφο της άδειας μπορείτε να ενημερωθείτε για τις σχετικές εγκρίσεις των συναρμόδιων φορέων, καθώς και εάν πρόκειται για τροποποίηση παλαιότερης άδειας.",
+  "measurements_eaee": "-",
+  "documents": [
+    {
+      "document_number": "442021/28-09-2021",
+      "protocol_number": "ΜΕΣΩ ΣΗΛΥΑ/",
+      "type": "Αρχιτεκτονικά Σχέδια",
+      "file_url": "https://silia.eett.gr/silia/download/46a121d4-2abb-405c-a2dd-6c47f6fed26a"
+    },
+    {
+      "document_number": "442022/28-09-2021",
+      "protocol_number": "Δ3/Δ/6427/918/10-02-1998",
+      "type": "Γνωμάτευση ΥΠΑ",
+      "file_url": "https://silia.eett.gr/silia/download/a7d8d225-1708-411f-9c30-23d9c7c7c39a"
+    },
+    {
+      "document_number": "442023/28-09-2021",
+      "protocol_number": "Δ3/Δ/29299/6124/10-07-2001",
+      "type": "Γνωμάτευση ΥΠΑ",
+      "file_url": "https://silia.eett.gr/silia/download/5f23beee-145f-40a8-b8ab-f3038528a30d"
+    },
+    {
+      "document_number": "442024/28-09-2021",
+      "protocol_number": "ΜΕΣΩ ΣΗΛΥΑ/28-09-2021",
+      "type": "Αίτηση ΥΠΑ",
+      "file_url": "https://silia.eett.gr/silia/download/7ac835c5-f295-436f-bd4c-36d0c79036b0"
+    },
+    {
+      "document_number": "442025/28-09-2021",
+      "protocol_number": "ΜΕΣΩ ΣΗΛΥΑ/12-08-2021",
+      "type": "Αίτηση - Μελέτη Ραδιοεκπομπών ΕΕΑΕ",
+      "file_url": "https://silia.eett.gr/silia/download/d7c0b0ec-5e14-404d-957d-f961ac4743ac"
+    },
+    {
+      "document_number": "442026/28-09-2021",
+      "protocol_number": "97916/09-09-2021",
+      "type": "Αποτελέσματα μελέτης στη ζώνης 2.6GHz για ΥΠΑ/ΓΕΕΘΑ",
+      "file_url": "https://silia.eett.gr/silia/download/106c1986-5e26-4c2e-92b0-bcf8b9437b24"
+    },
+    {
+      "document_number": "442027/28-09-2021",
+      "protocol_number": "ΥΠ.ΔΗΛΩΣΗ ΣΥΝΕΓΚΑΤΑΣΤΑΣΗΣ ΟΤΕ/28-09-2021",
+      "type": "Άλλο",
+      "file_url": "https://silia.eett.gr/silia/download/c4e254ea-ee56-4e14-9fdd-8b5fda666481"
+    },
+    {
+      "document_number": "442263/29-09-2021",
+      "protocol_number": "ΜΕΣΩ ΣΗΛΥΑ/",
+      "type": "Τοπογραφικό",
+      "file_url": "https://silia.eett.gr/silia/download/1b9d5a41-7119-4173-acc2-1a5d43563a8e"
+    },
+    {
+      "document_number": "442283/29-09-2021",
+      "protocol_number": "ΥΠ.ΔΗΛΩΣΗ ΣΥΝΕΓΚΑΤΑΣΤΑΣΗΣ WIND/29-09-2021",
+      "type": "Άλλο",
+      "file_url": "https://silia.eett.gr/silia/download/da67e4c1-3148-4639-86b8-c85bc7a62965"
+    },
+    {
+      "document_number": "442455/30-09-2021",
+      "protocol_number": "ΥΠ.ΔΗΛΩΣΗ ΣΥΝΕΓΚΑΤΑΣΤΑΣΗΣ VODAFONE/30-09-2021",
+      "type": "Άλλο",
+      "file_url": "https://silia.eett.gr/silia/download/bad85799-b542-471e-9ade-67cbb0751223"
+    },
+    {
+      "document_number": "442515/30-09-2021",
+      "protocol_number": "Αρχείο Αίτησης/",
+      "type": "Αίτηση Άδειας Κατασκευής Κεραίας ΕΕΤΤ",
+      "file_url": "https://silia.eett.gr/silia/download/352b6c39-380c-44a4-97a1-853fd4206e93"
+    },
+    {
+      "document_number": "447695/10-12-2021",
+      "protocol_number": "Μ.ι./411/21711/2021/08-12-2021",
+      "type": "Γνωμάτευση ΕΕΑΕ",
+      "file_url": "https://silia.eett.gr/silia/download/a3a8f011-2b71-430e-b97a-da44cc9d0ade"
+    },
+    {
+      "document_number": "451935/24-02-2022",
+      "protocol_number": "43264/24-02-2022",
+      "type": "Άδεια Κατασκευής  Κεραίας",
+      "file_url": "https://silia.eett.gr/silia/download/4b1a43fb-5527-432c-8002-883570ab197d"
+    },
+    {
+      "document_number": "442028/28-09-2021",
+      "protocol_number": "ΜΕΣΩ ΣΗΛΥΑ/",
+      "type": "Δήλωση υπαγωγής σε ΠΠΔ και Συνοδευτικά Έγγραφα",
+      "file_url": "https://silia.eett.gr/silia/download/6ffcb943-b3ac-4fd1-8663-757b53cd25ec"
+    },
+    {
+      "document_number": "442516/30-09-2021",
+      "protocol_number": "Αρχείο Αίτησης/",
+      "type": "Δήλωση ΠΠΔ",
+      "file_url": "https://silia.eett.gr/silia/download/102a26c8-6549-40e4-bef0-b6393b2a9ba0"
+    }
+  ]
+}

@@ -1,0 +1,93 @@
+{
+  "antenna_id": "158160",
+  "address": "ΠΛΗΣΙΟΝ ΧΗΤΑ,Δ.Κ. ΤΟΛΟ",
+  "position_code": 1002922,
+  "municipality": "Ναυπλιέων",
+  "code_name": "ΤΟΛΟ",
+  "region": "Πελοποννήσου",
+  "latitude": 37.521667,
+  "company": "VODAFONE",
+  "longitude": 22.850556,
+  "permit_status": "Από τα στοιχεία που τηρούνται στην Ενημερωτική Πύλη προκύπτει ότι, για τη θέση \"ΠΛΗΣΙΟΝ ΧΗΤΑ,Δ.Κ. ΤΟΛΟ\" στον Δήμο Ναυπλιέων Περιφέρειας  Πελοποννήσου \n\t(κωδικός αριθμός θέσης 1002922, κωδική ονομασία \"ΤΟΛΟ\") χορηγήθηκε, με την Απόφαση της ΕΕΤΤ \n44556/27-06-2022, άδεια κατασκευής κεραίας στην εταιρία VODAFONE. \nΑπό τo έγγραφο της άδειας μπορείτε να ενημερωθείτε για τις σχετικές εγκρίσεις των συναρμόδιων φορέων, καθώς και εάν πρόκειται για τροποποίηση παλαιότερης άδειας.",
+  "measurements_eaee": "-",
+  "documents": [
+    {
+      "document_number": "428760/03-02-2021",
+      "protocol_number": "Τοπογραφικό διάγραμμα/",
+      "type": "Τοπογραφικό",
+      "file_url": "https://silia.eett.gr/silia/download/41fed6ad-41fb-4826-b952-807513bc7ca2"
+    },
+    {
+      "document_number": "428761/03-02-2021",
+      "protocol_number": "Αρχιτεκτονικά σχέδια/",
+      "type": "Αρχιτεκτονικά Σχέδια",
+      "file_url": "https://silia.eett.gr/silia/download/8b568497-07cf-4049-87fc-3e8b8119b994"
+    },
+    {
+      "document_number": "428762/03-02-2021",
+      "protocol_number": "Χαρτής ΥΠΑ/",
+      "type": "Απόσπασμα Χάρτη ΓΥΣ 1:50.000",
+      "file_url": "https://silia.eett.gr/silia/download/ff0b7bd7-dfbc-4018-855d-9042417c857d"
+    },
+    {
+      "document_number": "428763/03-02-2021",
+      "protocol_number": "Μελέτη ραδιοεκπομπών /01-02-2021",
+      "type": "Αίτηση - Μελέτη Ραδιοεκπομπών ΕΕΑΕ (αναβάθμισης)",
+      "file_url": "https://silia.eett.gr/silia/download/550ebf13-d3d6-4eb9-8f8e-ad20dfe043e8"
+    },
+    {
+      "document_number": "429244/10-02-2021",
+      "protocol_number": "ΥΔ κοινής χρήσης Wind/10-02-2021",
+      "type": "Άλλο",
+      "file_url": "https://silia.eett.gr/silia/download/4ce28b4a-1a2e-4a7b-8162-602287f33ab0"
+    },
+    {
+      "document_number": "429245/10-02-2021",
+      "protocol_number": "ΥΔ διασύνδεσης Wind/10-02-2021",
+      "type": "Άλλο",
+      "file_url": "https://silia.eett.gr/silia/download/2e189d0d-1a06-4c0a-8b70-432259ff350a"
+    },
+    {
+      "document_number": "431736/24-03-2021",
+      "protocol_number": "Μελέτη Υποβάθρου/19-02-2021",
+      "type": "Αίτηση - Μελέτη Ραδιοεκπομπών ΕΕΑΕ (υποβάθρου)",
+      "file_url": "https://silia.eett.gr/silia/download/35ca2d63-07f2-420f-bdb3-3c8994d0c0cb"
+    },
+    {
+      "document_number": "431737/24-03-2021",
+      "protocol_number": "47493/18-03-2021",
+      "type": "Αίτηση / Μελέτη για Έγκριση Περιβαλλοντικών Επιπτώσεων",
+      "file_url": "https://silia.eett.gr/silia/download/65b58acf-20b3-4dd2-b88a-19ca52305df1"
+    },
+    {
+      "document_number": "431785/24-03-2021",
+      "protocol_number": "Αρχείο Αίτησης/",
+      "type": "Αίτηση Άδειας Κατασκευής Κεραίας ΕΕΤΤ",
+      "file_url": "https://silia.eett.gr/silia/download/065fa2f6-d7ee-47f3-b452-8645c65dcf6e"
+    },
+    {
+      "document_number": "432827/05-04-2021",
+      "protocol_number": "Μ.ι./411/8121/2021/05-04-2021",
+      "type": "Γνωμάτευση ΕΕΑΕ",
+      "file_url": "https://silia.eett.gr/silia/download/79245132-de9a-4725-a1c3-691a6c9e2fd5"
+    },
+    {
+      "document_number": "436466/16-06-2021",
+      "protocol_number": "Δ3/Δ/19329/15-6-2021/16-06-2021",
+      "type": "Γνωμάτευση ΥΠΑ",
+      "file_url": "https://silia.eett.gr/silia/download/7c592826-e82b-4a6d-b56b-eb549a2e04ae"
+    },
+    {
+      "document_number": "461025/07-06-2022",
+      "protocol_number": "115567π.ε./23-05-2022",
+      "type": "Έγκριση Περιβαλλοντικών Όρων",
+      "file_url": "https://silia.eett.gr/silia/download/3529269e-a9cc-409b-9de1-dd1d438a9af2"
+    },
+    {
+      "document_number": "462925/28-06-2022",
+      "protocol_number": "44556/27-06-2022",
+      "type": "Άδεια Κατασκευής  Κεραίας",
+      "file_url": "https://silia.eett.gr/silia/download/41ca2fff-b93a-49f7-a4ba-4c1d21843252"
+    }
+  ]
+}

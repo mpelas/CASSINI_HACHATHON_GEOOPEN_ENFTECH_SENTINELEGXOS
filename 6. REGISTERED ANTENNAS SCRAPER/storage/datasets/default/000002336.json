@@ -1,0 +1,75 @@
+{
+  "antenna_id": "159819",
+  "address": "ΥΨΩΜΑ ΠΡΟΦΗΤΗ ΗΛΙΑ",
+  "position_code": 1403467,
+  "municipality": "Παγγαίου",
+  "code_name": "ΦΩΛΙΑ - Χ",
+  "region": "Ανατ. Μακεδονίας και Θράκης",
+  "latitude": 40.812222,
+  "company": "OTE",
+  "longitude": 24.146667,
+  "permit_status": "Από τα στοιχεία που τηρούνται στην Ενημερωτική Πύλη προκύπτει ότι, για τη θέση \"ΥΨΩΜΑ ΠΡΟΦΗΤΗ ΗΛΙΑ\" στον Δήμο Παγγαίου Περιφέρειας  Ανατ. Μακεδονίας και Θράκης \n\t(κωδικός αριθμός θέσης 1403467, κωδική ονομασία \"ΦΩΛΙΑ - Χ\") χορηγήθηκε, με την Απόφαση της ΕΕΤΤ \n45340/30-09-2022, άδεια κατασκευής κεραίας στην εταιρία OTE. \nΑπό τo έγγραφο της άδειας μπορείτε να ενημερωθείτε για τις σχετικές εγκρίσεις των συναρμόδιων φορέων, καθώς και εάν πρόκειται για τροποποίηση παλαιότερης άδειας.\nΗ άδεια χορηγήθηκε με τη διαδικασία αδειοδότησης που ορίζει ο ν. 4635/2019, κατόπιν της με αριθ. πρωτ. 47526/15-04-2022 \n\tαίτησης, και βάσει σχετικής δήλωσης του κατόχου της περί υπαγωγή της κατασκευής κεραίας στο άρθρο 34 του ν. 4635/2019.",
+  "measurements_eaee": "-",
+  "documents": [
+    {
+      "document_number": "438177/12-07-2021",
+      "protocol_number": "Δ3/Δ/34332/7761/21-10-2002",
+      "type": "Γνωμάτευση ΥΠΑ",
+      "file_url": "https://silia.eett.gr/silia/download/a6922a07-6736-4dc0-aa2b-25a5d615b941"
+    },
+    {
+      "document_number": "456868/15-04-2022",
+      "protocol_number": "ΜΕΣΩ ΣΗΛΥΑ    /",
+      "type": "Τοπογραφικό",
+      "file_url": "https://silia.eett.gr/silia/download/c476ba93-4c46-4a47-abb8-ced28bec903b"
+    },
+    {
+      "document_number": "456869/15-04-2022",
+      "protocol_number": "ΜΕΣΩ ΣΗΛΥΑ    /",
+      "type": "Αρχιτεκτονικά Σχέδια",
+      "file_url": "https://silia.eett.gr/silia/download/a787e587-5cf0-44da-a705-3bcc66cd3bcd"
+    },
+    {
+      "document_number": "456870/15-04-2022",
+      "protocol_number": "ΜΕΣΩ ΣΗΛΥΑ    /16-06-2021",
+      "type": "Αίτηση - Μελέτη Ραδιοεκπομπών ΕΕΑΕ",
+      "file_url": "https://silia.eett.gr/silia/download/ee56fd0b-1c6f-46a5-8b45-9043895ecceb"
+    },
+    {
+      "document_number": "456871/15-04-2022",
+      "protocol_number": "ΜΕΣΩ ΣΗΛΥΑ    /15-04-2022",
+      "type": "Αίτηση ΥΠΑ",
+      "file_url": "https://silia.eett.gr/silia/download/91deef44-1777-484e-ad90-1f190d59dbcc"
+    },
+    {
+      "document_number": "456893/15-04-2022",
+      "protocol_number": "Αρχείο Αίτησης/",
+      "type": "Αίτηση Άδειας Κατασκευής Κεραίας ΕΕΤΤ",
+      "file_url": "https://silia.eett.gr/silia/download/3c4244e5-aea4-45b2-8ead-3afa819c17f1"
+    },
+    {
+      "document_number": "460167/25-05-2022",
+      "protocol_number": "Μι/411/6410/24-05-2022",
+      "type": "Γνωμάτευση ΕΕΑΕ",
+      "file_url": "https://silia.eett.gr/silia/download/8b2aa963-212c-4914-bd5c-ee607544d36d"
+    },
+    {
+      "document_number": "468834/30-09-2022",
+      "protocol_number": "45340/30-09-2022",
+      "type": "Άδεια Κατασκευής  Κεραίας",
+      "file_url": "https://silia.eett.gr/silia/download/cf3ccf4b-7f8d-4a18-8ef3-d50b8be2f238"
+    },
+    {
+      "document_number": "458764/09-05-2022",
+      "protocol_number": "ΣΥΝΟΔΕΥΤΙΚΑ ΕΓΓΡΑΦΑ/",
+      "type": "Δήλωση υπαγωγής σε ΠΠΔ και Συνοδευτικά Έγγραφα",
+      "file_url": "https://silia.eett.gr/silia/download/f9a00ef6-e101-44f3-b9a2-030baae86438"
+    },
+    {
+      "document_number": "458770/10-05-2022",
+      "protocol_number": "Αρχείο Αίτησης/",
+      "type": "Δήλωση ΠΠΔ",
+      "file_url": "https://silia.eett.gr/silia/download/3f97af41-216c-4e17-8ae2-dc3d0b1fd14b"
+    }
+  ]
+}

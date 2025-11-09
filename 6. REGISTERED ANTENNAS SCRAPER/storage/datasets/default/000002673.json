@@ -1,0 +1,81 @@
+{
+  "antenna_id": "108216",
+  "address": "ΜΗΛΟΥ 9-11, ΤΑΜΠΟΥΡΙΑ Ο.Τ.179",
+  "position_code": 1402732,
+  "municipality": "Πειραιώς",
+  "code_name": "PAPASTRAT",
+  "region": "Αττικής",
+  "latitude": 37.953889,
+  "company": "OTE",
+  "longitude": 23.639167,
+  "permit_status": "Από τα στοιχεία που τηρούνται στην Ενημερωτική Πύλη προκύπτει ότι, για τη θέση \"ΜΗΛΟΥ 9-11, ΤΑΜΠΟΥΡΙΑ Ο.Τ.179\" στον Δήμο Πειραιώς Περιφέρειας  Αττικής \n\t(κωδικός αριθμός θέσης 1402732, κωδική ονομασία \"PAPASTRAT\") χορηγήθηκε, με την Απόφαση της ΕΕΤΤ \n20556/Φ610/08-06-2016, άδεια κατασκευής κεραίας στην εταιρία OTE. \nΑπό τo έγγραφο της άδειας μπορείτε να ενημερωθείτε για τις σχετικές εγκρίσεις των συναρμόδιων φορέων, καθώς και εάν πρόκειται για τροποποίηση παλαιότερης άδειας.\nΗ άδεια χορηγήθηκε, κατόπιν της με Αριθ. Πρωτ. 11856/30-06-2015 αίτησης, \n\tμε τη διαδικασία αδειοδότησης της παρ. 17 του άρθρου 30 του Ν.4070/2012 που πλέον έχει αντικατασταθεί από τη διαδικασία που ορίζει ο ν. 4635/2019.",
+  "measurements_eaee": "-",
+  "documents": [
+    {
+      "document_number": "218570/30-06-2015",
+      "protocol_number": "703/06-02-2015",
+      "type": "Τοπογραφικό",
+      "file_url": "https://silia.eett.gr/silia/download/2b9f495f-4e24-43fd-bee0-0f95620ede89"
+    },
+    {
+      "document_number": "218571/30-06-2015",
+      "protocol_number": "703/06-02-2015",
+      "type": "Αρχιτεκτονικά Σχέδια",
+      "file_url": "https://silia.eett.gr/silia/download/6fcafa7f-0089-482a-a2a7-1f2a1cbbe8aa"
+    },
+    {
+      "document_number": "218573/30-06-2015",
+      "protocol_number": "703/145/16-02-2015",
+      "type": "Έγκριση δομικών κατασκευών (έντυπη)",
+      "file_url": "https://silia.eett.gr/silia/download/023481a9-ceb9-4b6a-9f4a-b2c038b85392"
+    },
+    {
+      "document_number": "218574/30-06-2015",
+      "protocol_number": "Δ3/Δ/47210/10679/27-11-2009",
+      "type": "Γνωμάτευση ΥΠΑ",
+      "file_url": "https://silia.eett.gr/silia/download/307279c6-0aaa-4d21-913d-47bb5b9dbbda"
+    },
+    {
+      "document_number": "218575/30-06-2015",
+      "protocol_number": "ΜΕΣΩ ΣΗΛΥΑ/30-06-2015",
+      "type": "Αίτηση ΥΠΑ",
+      "file_url": "https://silia.eett.gr/silia/download/90ee0065-99f4-40db-ae31-d67e6923547b"
+    },
+    {
+      "document_number": "218576/30-06-2015",
+      "protocol_number": "ΜΕΣΩ ΣΗΛΥΑ/18-06-2015",
+      "type": "Αίτηση - Μελέτη Ραδιοεκπομπών ΕΕΑΕ",
+      "file_url": "https://silia.eett.gr/silia/download/c2d8559b-22ac-4c33-869f-7110cfe76802"
+    },
+    {
+      "document_number": "218672/30-06-2015",
+      "protocol_number": "Αρχείο Αίτησης/",
+      "type": "Αίτηση Άδειας Κατασκευής Κεραίας ΕΕΤΤ",
+      "file_url": "https://silia.eett.gr/silia/download/d7872be3-bfbb-4940-9724-b6659fc99ed9"
+    },
+    {
+      "document_number": "235206/16-10-2015",
+      "protocol_number": "Μ.ι./411/1922/15-10-2015",
+      "type": "Γνωμάτευση ΕΕΑΕ",
+      "file_url": "https://silia.eett.gr/silia/download/c746921f-d2f0-442b-af52-9963ebd8e764"
+    },
+    {
+      "document_number": "262921/15-06-2016",
+      "protocol_number": "20556/Φ610/08-06-2016",
+      "type": "Άδεια Κατασκευής  Κεραίας",
+      "file_url": "https://silia.eett.gr/silia/download/210d4ddc-484f-4a6b-91c5-16bdc46999ff"
+    },
+    {
+      "document_number": "259566/18-05-2016",
+      "protocol_number": "ΣΥΝΟΔΕΥΤΙΚΑ ΕΓΓΡΑΦΑ ΠΠΔ/18-05-2016",
+      "type": "Δήλωση υπαγωγής σε ΠΠΔ και Συνοδευτικά Έγγραφα",
+      "file_url": "https://silia.eett.gr/silia/download/4ff09986-17b8-4422-88d1-d23fefe22c7e"
+    },
+    {
+      "document_number": "259567/18-05-2016",
+      "protocol_number": "Αρχείο Αίτησης/",
+      "type": "Δήλωση ΠΠΔ",
+      "file_url": "https://silia.eett.gr/silia/download/8805cbb0-da2e-455c-978e-4fb6842b59be"
+    }
+  ]
+}

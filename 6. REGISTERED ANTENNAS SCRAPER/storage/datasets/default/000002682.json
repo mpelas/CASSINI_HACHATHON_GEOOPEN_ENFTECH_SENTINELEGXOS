@@ -1,0 +1,51 @@
+{
+  "antenna_id": "113761",
+  "address": "ΦΙΛΩΝΟΣ 54, ΠΕΙΡΑΙΑΣ.",
+  "position_code": 1017514,
+  "municipality": "Πειραιώς",
+  "code_name": "SEA LEVANT PIREAS",
+  "region": "Αττικής",
+  "latitude": 37.941944,
+  "company": "VODAFONE",
+  "longitude": 23.643333,
+  "permit_status": "Από τα στοιχεία που τηρούνται στην Ενημερωτική Πύλη προκύπτει ότι, για τη θέση \"ΦΙΛΩΝΟΣ 54, ΠΕΙΡΑΙΑΣ.\" στον Δήμο Πειραιώς Περιφέρειας  Αττικής \n\t(κωδικός αριθμός θέσης 1017514, κωδική ονομασία \"SEA LEVANT PIREAS\") έχει κατατεθεί από την εταιρία VODAFONE\tδήλωση εγκατάστασης κατασκευής κεραίας (αριθ. πρωτ. \n\t12795/24-09-2015) που εμπίπτει στις διατάξεις της νομοθεσίας για Εγκαταστάσεις Κατασκευών Κεραιών Χαμηλής Ηλεκτρομαγνητικής Περιβαλλοντικής Όχλησης (ΕΚΚΧΟ).",
+  "measurements_eaee": "-",
+  "documents": [
+    {
+      "document_number": "231580/24-09-2015",
+      "protocol_number": "ΦΩΤΟΓΡΑΦΙΑ ΘΕΣΗΣ ΚΕΡΑΙΑΣ 1/",
+      "type": "Φωτογραφικό Υλικό - Σκαρίφημα",
+      "file_url": "https://silia.eett.gr/silia/download/a833b0f7-32d5-48ef-baef-4b6dcbf88395"
+    },
+    {
+      "document_number": "231602/24-09-2015",
+      "protocol_number": "ΦΩΤΟΓΡΑΦΙΑ ΘΕΣΗΣ ΚΕΡΑΙΑΣ 2/",
+      "type": "Φωτογραφικό Υλικό - Σκαρίφημα",
+      "file_url": "https://silia.eett.gr/silia/download/40d18bb6-b76e-4bd1-8c22-90a19cf5de04"
+    },
+    {
+      "document_number": "231603/24-09-2015",
+      "protocol_number": "ΦΩΤΟΓΡΑΦΙΑ ΘΕΣΗΣ ΚΕΡΑΙΑΣ 3/",
+      "type": "Φωτογραφικό Υλικό - Σκαρίφημα",
+      "file_url": "https://silia.eett.gr/silia/download/40af75e9-6727-4053-8174-aaa4342bb620"
+    },
+    {
+      "document_number": "231604/24-09-2015",
+      "protocol_number": "ΦΩΤΟΓΡΑΦΙΑ ΘΕΣΗΣ ΚΕΡΑΙΑΣ 4/",
+      "type": "Φωτογραφικό Υλικό - Σκαρίφημα",
+      "file_url": "https://silia.eett.gr/silia/download/141fc289-584d-4fef-b326-9ae0754dc001"
+    },
+    {
+      "document_number": "231605/24-09-2015",
+      "protocol_number": "ΦΩΤΟΓΡΑΦΙΑ ΘΕΣΗΣ ΚΕΡΑΙΑΣ 5/",
+      "type": "Φωτογραφικό Υλικό - Σκαρίφημα",
+      "file_url": "https://silia.eett.gr/silia/download/f4842c89-ac18-4054-9fbe-9f26ee112d4b"
+    },
+    {
+      "document_number": "231614/24-09-2015",
+      "protocol_number": "Αρχείο Αίτησης/",
+      "type": "Δήλωση ΕΚΚΧΟ",
+      "file_url": "https://silia.eett.gr/silia/download/98778f08-e94b-4268-b482-2290dd4ac53e"
+    }
+  ]
+}

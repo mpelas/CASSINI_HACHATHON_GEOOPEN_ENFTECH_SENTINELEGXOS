@@ -1,0 +1,33 @@
+{
+  "antenna_id": "158422",
+  "address": "ΔΑ11, ΟΤ40, ΒΙΠΕ ΣΙΝΔΟΥ.",
+  "position_code": 1147449,
+  "municipality": "Δέλτα",
+  "code_name": "3027449 THEODORIDIS SINDOS",
+  "region": "Κεντρικής Μακεδονίας",
+  "latitude": 40.686667,
+  "company": "VODAFONE",
+  "longitude": 22.794444,
+  "permit_status": "Από τα στοιχεία που τηρούνται στην Ενημερωτική Πύλη προκύπτει ότι, για τη θέση \"ΔΑ11, ΟΤ40, ΒΙΠΕ ΣΙΝΔΟΥ.\" στον Δήμο Δέλτα Περιφέρειας  Κεντρικής Μακεδονίας \n\t(κωδικός αριθμός θέσης 1147449, κωδική ονομασία \"3027449 THEODORIDIS SINDOS\") έχει κατατεθεί από την εταιρία VODAFONE\tδήλωση εγκατάστασης κατασκευής κεραίας (αριθ. πρωτ. \n\t42986/25-02-2021) που εμπίπτει στις διατάξεις της νομοθεσίας για Εγκαταστάσεις Κατασκευών Κεραιών Χαμηλής Ηλεκτρομαγνητικής Περιβαλλοντικής Όχλησης (ΕΚΚΧΟ).",
+  "measurements_eaee": "-",
+  "documents": [
+    {
+      "document_number": "430158/25-02-2021",
+      "protocol_number": "ΦΩΤΟΓΡΑΦΙΑ ΘΕΣΗΣ ΚΕΡΑΙΑΣ 1/",
+      "type": "Φωτογραφικό Υλικό - Σκαρίφημα",
+      "file_url": "https://silia.eett.gr/silia/download/c8958252-36f9-4ef5-9b9a-04dbfde568cb"
+    },
+    {
+      "document_number": "430159/25-02-2021",
+      "protocol_number": "ΦΩΤΟΓΡΑΦΙΑ ΘΕΣΗΣ ΚΕΡΑΙΑΣ ΕΚΚΧΟ ΑΠΟ GOOGLE EARTH/",
+      "type": "Φωτογραφικό Υλικό - Σκαρίφημα",
+      "file_url": "https://silia.eett.gr/silia/download/8e3f0c9d-f2f2-47bc-b111-fdee4c792a94"
+    },
+    {
+      "document_number": "430160/25-02-2021",
+      "protocol_number": "Αρχείο Αίτησης/",
+      "type": "Δήλωση ΕΚΚΧΟ",
+      "file_url": "https://silia.eett.gr/silia/download/76c50517-b905-4d44-a2eb-b91f2b760d76"
+    }
+  ]
+}

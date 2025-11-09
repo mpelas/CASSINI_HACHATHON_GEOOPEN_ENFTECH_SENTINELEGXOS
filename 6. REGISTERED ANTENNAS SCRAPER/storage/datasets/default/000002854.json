@@ -1,0 +1,75 @@
+{
+  "antenna_id": "174687",
+  "address": "Ε.Ο. ΘΕΣΣΑΛΟΝΙΚΗΣ-ΠΟΛΥΓΥΡΟΥ, ΓΑΛΑΤΙΣΤΑ",
+  "position_code": 1441808,
+  "municipality": "Πολυγύρου",
+  "code_name": "ΓΑΛΑΤΙΣΤΑ-Χ",
+  "region": "Κεντρικής Μακεδονίας",
+  "latitude": 40.463333,
+  "company": "OTE",
+  "longitude": 23.273333,
+  "permit_status": "Από τα στοιχεία που τηρούνται στην Ενημερωτική Πύλη προκύπτει ότι, για τη θέση \"Ε.Ο. ΘΕΣΣΑΛΟΝΙΚΗΣ-ΠΟΛΥΓΥΡΟΥ, ΓΑΛΑΤΙΣΤΑ\" στον Δήμο Πολυγύρου Περιφέρειας  Κεντρικής Μακεδονίας \n\t(κωδικός αριθμός θέσης 1441808, κωδική ονομασία \"ΓΑΛΑΤΙΣΤΑ-Χ\") χορηγήθηκε, με την Απόφαση της ΕΕΤΤ \n51863/16-12-2024, άδεια κατασκευής κεραίας στην εταιρία OTE. \nΑπό τo έγγραφο της άδειας μπορείτε να ενημερωθείτε για τις σχετικές εγκρίσεις των συναρμόδιων φορέων, καθώς και εάν πρόκειται για τροποποίηση παλαιότερης άδειας.\n\tΣύμφωνα με τα στοιχεία που έχουν υποβληθεί στο ΣΗΛΥΑ, ο κάτοχος της κατασκευής κεραίας έχει δηλώσει ότι θα προβεί σε έκδοση έγκρισης δομικών κατασκευών \n\t\tκεραίας μέσω του e-Άδειες \n\t\tμετά την έκδοση της άδειας κατασκευής κεραίας / δημοσιοποίηση της δήλωσης τροποποίησης της κατασκευής κεραίας",
+  "measurements_eaee": "-",
+  "documents": [
+    {
+      "document_number": "522401/31-07-2024",
+      "protocol_number": "ΤΟΠΟΓΡΑΦΙΚΟ/31-07-2024",
+      "type": "Τοπογραφικό",
+      "file_url": "https://silia.eett.gr/silia/download/g2XCpAWsFMb9qRIpPzQThlrt2OP1TLhhmUyN"
+    },
+    {
+      "document_number": "522402/31-07-2024",
+      "protocol_number": "ΑΡΧΙΤΕΚΤΟΝΙΚΑ/31-07-2024",
+      "type": "Αρχιτεκτονικά Σχέδια",
+      "file_url": "https://silia.eett.gr/silia/download/phvmcNfx26pmARvTZtngGP28B9H33dbmv7v1"
+    },
+    {
+      "document_number": "522403/31-07-2024",
+      "protocol_number": "ΜΕΛΕΤΗ Ρ/Ε/27-02-2024",
+      "type": "Αίτηση - Μελέτη Ραδιοεκπομπών ΕΕΑΕ",
+      "file_url": "https://silia.eett.gr/silia/download/kRSQYXIggifnoEQ5csffRc8yboGI460qbIT8"
+    },
+    {
+      "document_number": "522404/31-07-2024",
+      "protocol_number": "ΜΕΛΕΤΗ EMC/24-04-2024",
+      "type": "Αποτελέσματα μελέτης στη ζώνης 2.6GHz για ΥΠΑ/ΓΕΕΘΑ",
+      "file_url": "https://silia.eett.gr/silia/download/Y2gPME4Dih5bIqWC52buWOStGT49AuzMteRO"
+    },
+    {
+      "document_number": "522405/31-07-2024",
+      "protocol_number": "ΑΝΑΚΟΙΝΩΣΗ ΓΕΜΗ/31-07-2024",
+      "type": "Άλλο",
+      "file_url": "https://silia.eett.gr/silia/download/MF368W2dwhKEyn8qCcQ3f0Y5LA5Pg7t84ETk"
+    },
+    {
+      "document_number": "522485/31-07-2024",
+      "protocol_number": "Αρχείο Αίτησης/31-07-2024",
+      "type": "Αίτηση Άδειας Κατασκευής Κεραίας ΕΕΤΤ",
+      "file_url": "https://silia.eett.gr/silia/download/GbxIxvMC6TF8h8yg0IbD7dcVGvpZNw3gyyNn"
+    },
+    {
+      "document_number": "528324/09-10-2024",
+      "protocol_number": "TMIA/411/13091/2024/08-10-2024",
+      "type": "Γνωμάτευση ΕΕΑΕ",
+      "file_url": "https://silia.eett.gr/silia/download/uVQNNFrDNR31sGoppXRdg1yYrLyyT34W1sBA"
+    },
+    {
+      "document_number": "533192/21-11-2024",
+      "protocol_number": "ΚΓ/Δ3/Δ/22874/21-11-2024",
+      "type": "Γνωμάτευση ΥΠΑ",
+      "file_url": "https://silia.eett.gr/silia/download/WwN3RSsQ57OnlNlMGkKzUBXuCxlgekx3BZf0"
+    },
+    {
+      "document_number": "535753/16-12-2024",
+      "protocol_number": "51863/16-12-2024",
+      "type": "Άδεια Κατασκευής  Κεραίας",
+      "file_url": "https://silia.eett.gr/silia/download/7SDhsdnqGWvFgpr8LpFgn9Zh2omMbmnyrIne"
+    },
+    {
+      "document_number": "522486/31-07-2024",
+      "protocol_number": "Αρχείο Αίτησης/31-07-2024",
+      "type": "Δήλωση ΠΠΔ",
+      "file_url": "https://silia.eett.gr/silia/download/xyqBSI4HiZ4QPUrDQGkfx1bGXNNdvreH8oRL"
+    }
+  ]
+}

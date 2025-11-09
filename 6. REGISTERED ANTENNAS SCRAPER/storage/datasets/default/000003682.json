@@ -1,0 +1,165 @@
+{
+  "antenna_id": "124515",
+  "address": "ΚΤΙΡΙΟ ΟΤΕ, ΕΛ. ΒΕΝΙΖΕΛΟΥ & ΠΑΠΑΝΑΣΤΑΣΙΟΥ",
+  "position_code": 1402038,
+  "municipality": "Χαλκιδέων",
+  "code_name": "ΧΑΛΚΙΔΑ",
+  "region": "Στερεάς Ελλάδας",
+  "latitude": 38.462222,
+  "company": "OTE",
+  "longitude": 23.594167,
+  "permit_status": "Από τα στοιχεία που τηρούνται στην Ενημερωτική Πύλη προκύπτει ότι, για τη θέση \"ΚΤΙΡΙΟ ΟΤΕ, ΕΛ. ΒΕΝΙΖΕΛΟΥ & ΠΑΠΑΝΑΣΤΑΣΙΟΥ\" στον Δήμο Χαλκιδέων Περιφέρειας  Στερεάς Ελλάδας \n\t(κωδικός αριθμός θέσης 1402038, κωδική ονομασία \"ΧΑΛΚΙΔΑ\") χορηγήθηκε, με την Απόφαση της ΕΕΤΤ \n31692/Φ610/26-02-2019, άδεια κατασκευής κεραίας στην εταιρία OTE. \nΑπό τo έγγραφο της άδειας μπορείτε να ενημερωθείτε για τις σχετικές εγκρίσεις των συναρμόδιων φορέων, καθώς και εάν πρόκειται για τροποποίηση παλαιότερης άδειας.\nΗ άδεια χορηγήθηκε κατόπιν της με Αριθ. Πρωτ. 16728 /31-03-2009 αίτησης. \nΗ κατασκευή, κατά δήλωση της εταιρίας, πληρούσε τις προϋποθέσεις του άρθρου 31 του Ν.4053/2012 και η εταιρία αιτήθηκε \n(Αριθ. ΣΗΛΥΑ 26819/26-03-2018) την υπαγωγή της κατασκευής στη διαδικασία αδειοδότησης της παρ. 17 του Ν.4070/2012, \nλόγω αναβάθμισης των παρεχόμενων προς το κοινό υπηρεσιών.\nΕπιπλέον, έχει υποβληθεί η με αριθ. πρωτ. ΣΗΛΥΑ 44986/06-10-2021 (Δήλωση παρ. 1Β, άρθρ. 28, ν. 4635/2019) δήλωση που αφορά σε τροποποίηση/επικαιροποίηση στοιχείων της κατασκευής κεραίας που αφορούν τον(ους) Τομέα(εις) Αδειοδότησης:Κεραιοσυστήματα, Περιβάλλον.\n\tΔιευκρινίζεται ότι υπό ορισμένες προϋποθέσεις για την τροποποίηση αδειοδοτημένης κατασκευής κεραίας ή/και την επικαιροποίηση στοιχείων της δεν απαιτείται η έκδοση νέας άδειας \n\tκατασκευής κεραίας ή η τροποποίηση της υφιστάμενης άδειας κατασκευής κεραίας, αλλά απαιτείται η υποβολή κατάλληλης δήλωσης από τον κάτοχο της κατασκευής κεραίας συνοδευόμενη \n\tαπό επικαιροποίηση επιμέρους εγκρίσεων.",
+  "measurements_eaee": "-",
+  "documents": [
+    {
+      "document_number": "324522/26-03-2018",
+      "protocol_number": "13359/1531/26-02-2008",
+      "type": "Αίτηση / Μελέτη για Έγκριση Περιβαλλοντικών Επιπτώσεων (νόμιμη λειτουργία)",
+      "file_url": "https://silia.eett.gr/silia/download/3195cbc9-898a-4cb1-816b-f4ae17208e14"
+    },
+    {
+      "document_number": "324523/26-03-2018",
+      "protocol_number": "16728/31-03-2009",
+      "type": "Αίτηση Άδειας Κατασκευής Κεραίας ΕΕΤΤ (νομίμως λειτουργούσα)",
+      "file_url": "https://silia.eett.gr/silia/download/a87a4ada-1a9e-41d0-9262-260e9515564f"
+    },
+    {
+      "document_number": "324524/26-03-2018",
+      "protocol_number": "Μ.ι./411/5047/20-10-2009",
+      "type": "Γνωμάτευση ΕΕΑΕ",
+      "file_url": "https://silia.eett.gr/silia/download/6bd0ab61-92f2-4f29-b7d9-af0c596f3b52"
+    },
+    {
+      "document_number": "324525/26-03-2018",
+      "protocol_number": "6833/29-11-2013",
+      "type": "Τοπογραφικό",
+      "file_url": "https://silia.eett.gr/silia/download/37e5c7c4-c68f-4114-adcd-7ce4237c3304"
+    },
+    {
+      "document_number": "324526/26-03-2018",
+      "protocol_number": "6833/29-11-2013",
+      "type": "Αρχιτεκτονικά Σχέδια",
+      "file_url": "https://silia.eett.gr/silia/download/b136b15e-af95-4a5a-91db-1fb6d301a63f"
+    },
+    {
+      "document_number": "324528/26-03-2018",
+      "protocol_number": "Δ3/Δ/2580/325/19-01-1998",
+      "type": "Γνωμάτευση ΥΠΑ",
+      "file_url": "https://silia.eett.gr/silia/download/fc83ecb5-0326-4dd2-bd53-05b44e647be2"
+    },
+    {
+      "document_number": "324530/26-03-2018",
+      "protocol_number": "ΜΕΣΩ ΣΗΛΥΑ/10-12-2013",
+      "type": "Αίτηση ΥΠΑ",
+      "file_url": "https://silia.eett.gr/silia/download/b21b17ab-4358-45dc-b138-13737efeee03"
+    },
+    {
+      "document_number": "324531/26-03-2018",
+      "protocol_number": "ΜΕΣΩ ΣΗΛΥΑ/20-11-2013",
+      "type": "Αίτηση - Μελέτη Ραδιοεκπομπών ΕΕΑΕ",
+      "file_url": "https://silia.eett.gr/silia/download/b8ed01fc-969f-46a0-bd1c-94ec1e386f8c"
+    },
+    {
+      "document_number": "324542/26-03-2018",
+      "protocol_number": "66/09-10-2007",
+      "type": "Αποδεικτικό Καταβολής Τελών ΕΕΤΤ",
+      "file_url": "https://silia.eett.gr/silia/download/fb92f5b6-ce36-45fa-a5bf-ce524146f58b"
+    },
+    {
+      "document_number": "324543/26-03-2018",
+      "protocol_number": "Μ.ι./411/1267/15-09-2014",
+      "type": "Γνωμάτευση ΕΕΑΕ",
+      "file_url": "https://silia.eett.gr/silia/download/70f78df1-2048-4cab-9c9c-dceadab11c70"
+    },
+    {
+      "document_number": "324549/26-03-2018",
+      "protocol_number": "6833/29-11-2013/05-08-2015",
+      "type": "Έγκριση δομικών κατασκευών (έντυπη)",
+      "file_url": "https://silia.eett.gr/silia/download/3fee2f22-8110-438c-81bb-3e572fd093e7"
+    },
+    {
+      "document_number": "324556/26-03-2018",
+      "protocol_number": "ΥΠΕΥΘΥΝΗ ΔΗΛΩΣΗ ΕΠΑΝΑΥΠΟΒΟΛΗΣ/26-03-2018",
+      "type": "Άλλο",
+      "file_url": "https://silia.eett.gr/silia/download/72633b2d-25d0-49a9-b89c-63bee3402bf9"
+    },
+    {
+      "document_number": "324557/26-03-2018",
+      "protocol_number": "Αρχείο Αίτησης/",
+      "type": "Αίτηση Άδειας Κατασκευής Κεραίας ΕΕΤΤ",
+      "file_url": "https://silia.eett.gr/silia/download/92bf9fff-c51f-4231-bd4d-9902c9306b6a"
+    },
+    {
+      "document_number": "330495/24-05-2018",
+      "protocol_number": "Δ3/3839/23-5-2018/24-05-2018",
+      "type": "Γνωμάτευση ΥΠΑ",
+      "file_url": "https://silia.eett.gr/silia/download/8fdc351b-3e87-44f5-852d-57e61a76f917"
+    },
+    {
+      "document_number": "340065/11-09-2018",
+      "protocol_number": "ΜΕΣΩ ΣΗΛΥΑ/11-09-2018",
+      "type": "Αίτηση - Μελέτη Ραδιοεκπομπών ΕΕΑΕ",
+      "file_url": "https://silia.eett.gr/silia/download/0dab6e33-755a-4059-b57c-4c9f2005dccb"
+    },
+    {
+      "document_number": "342681/01-10-2018",
+      "protocol_number": "Μι/411/13578/2018/21-09-2018",
+      "type": "Γνωμάτευση ΕΕΑΕ",
+      "file_url": "https://silia.eett.gr/silia/download/c7e5e237-fca3-4895-ad6d-3785e7c68840"
+    },
+    {
+      "document_number": "359459/27-02-2019",
+      "protocol_number": "31692/Φ610/26-02-2019",
+      "type": "Άδεια Κατασκευής  Κεραίας",
+      "file_url": "https://silia.eett.gr/silia/download/7ee4fc80-5905-4c76-84ac-6ef78fdeba15"
+    },
+    {
+      "document_number": "442997/06-10-2021",
+      "protocol_number": "ΜΕΣΩ ΣΗΛΥΑ/",
+      "type": "Τοπογραφικό",
+      "file_url": "https://silia.eett.gr/silia/download/0630788a-a601-4110-bc64-a29bfaaf3958"
+    },
+    {
+      "document_number": "442998/06-10-2021",
+      "protocol_number": "ΜΕΣΩ ΣΗΛΥΑ/",
+      "type": "Αρχιτεκτονικά Σχέδια",
+      "file_url": "https://silia.eett.gr/silia/download/2e4ae270-897a-4b52-ad25-5d321555ca03"
+    },
+    {
+      "document_number": "442999/06-10-2021",
+      "protocol_number": "ΜΕΣΩ ΣΗΛΥΑ/09-09-2021",
+      "type": "Αίτηση - Μελέτη Ραδιοεκπομπών ΕΕΑΕ",
+      "file_url": "https://silia.eett.gr/silia/download/5fdd6e1e-9ae6-40b5-88e3-fb2a8e027a30"
+    },
+    {
+      "document_number": "443000/06-10-2021",
+      "protocol_number": "ΜΕΣΩ ΣΗΛΥΑ/",
+      "type": "Δήλωση υπαγωγής σε ΠΠΔ και Συνοδευτικά Έγγραφα",
+      "file_url": "https://silia.eett.gr/silia/download/47eb7d63-4768-4a70-a8cd-8a86c0e49eb3"
+    },
+    {
+      "document_number": "443001/06-10-2021",
+      "protocol_number": "102683/22-09-2021",
+      "type": "Επιστολή Ενημέρωσης προς Αρμόδιο Φορέα",
+      "file_url": "https://silia.eett.gr/silia/download/3a606879-609f-4b73-b1e0-b4589c439aca"
+    },
+    {
+      "document_number": "443002/06-10-2021",
+      "protocol_number": "ΥΠ.ΔΗΛΩΣΗ ΣΥΝΕΓΚΑΤΑΣΤΑΣΗΣ ΟΤΕ/06-10-2021",
+      "type": "Άλλο",
+      "file_url": "https://silia.eett.gr/silia/download/1f025808-bec9-4949-a2f1-a2fa383bab65"
+    },
+    {
+      "document_number": "443010/06-10-2021",
+      "protocol_number": "Αρχείο Αίτησης/",
+      "type": "Δήλωση ΔΤΚΚ",
+      "file_url": "https://silia.eett.gr/silia/download/dbf5dfe6-2e0b-498c-a08f-058bad832589"
+    },
+    {
+      "document_number": "449268/11-01-2022",
+      "protocol_number": "Μ.ι./411/566/2022/11-01-2022",
+      "type": "Γνωμάτευση ΕΕΑΕ",
+      "file_url": "https://silia.eett.gr/silia/download/653c7a47-f49f-4494-af12-d4b88ec08f2f"
+    }
+  ]
+}

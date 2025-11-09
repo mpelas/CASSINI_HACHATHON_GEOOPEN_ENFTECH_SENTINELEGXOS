@@ -1,0 +1,39 @@
+{
+  "antenna_id": "170481",
+  "address": "ΠΕΡΙΦΕΡΕΙΑΚΟ ΙΑΤΡΕΙΟ ΠΛΑΤΑΝΟΥ",
+  "position_code": 1496327,
+  "municipality": "Βόλου",
+  "code_name": "IATREIO_PLATANOU_SYZII",
+  "region": "Θεσσαλίας",
+  "latitude": 39.163056,
+  "company": "OTE",
+  "longitude": 22.793611,
+  "permit_status": "Από τα στοιχεία που τηρούνται στην Ενημερωτική Πύλη προκύπτει ότι, για τη θέση \"ΠΕΡΙΦΕΡΕΙΑΚΟ ΙΑΤΡΕΙΟ ΠΛΑΤΑΝΟΥ\" στον Δήμο Βόλου Περιφέρειας  Θεσσαλίας \n\t(κωδικός αριθμός θέσης 1496327, κωδική ονομασία \"IATREIO_PLATANOU_SYZII\") έχει κατατεθεί από την εταιρία OTE\tδήλωση εγκατάστασης κατασκευής κεραίας (αριθ. πρωτ. \n\t56263/13-06-2024) που εμπίπτει στις διατάξεις της νομοθεσίας για Εγκαταστάσεις Κατασκευών Κεραιών Χαμηλής Ηλεκτρομαγνητικής Περιβαλλοντικής Όχλησης (ΕΚΚΧΟ).",
+  "measurements_eaee": "-",
+  "documents": [
+    {
+      "document_number": "497545/18-10-2023",
+      "protocol_number": "ΦΩΤΟΓΡΑΦΙΑ/",
+      "type": "Φωτογραφικό Υλικό - Σκαρίφημα",
+      "file_url": "https://silia.eett.gr/silia/download/499e40d5-1fc7-47b8-a800-a04dbe37ec83"
+    },
+    {
+      "document_number": "517381/10-06-2024",
+      "protocol_number": "ΜΕΛΕΤΗ/10-06-2024",
+      "type": "Αίτηση - Μελέτη Ραδιοεκπομπών ΕΕΑΕ",
+      "file_url": "https://silia.eett.gr/silia/download/4g3tZGG0zePFqIIIDNa0D8ZGkgMgHfGsn4hc"
+    },
+    {
+      "document_number": "517812/13-06-2024",
+      "protocol_number": "Αρχείο Αίτησης/13-06-2024",
+      "type": "Δήλωση ΕΚΚΧΟ",
+      "file_url": "https://silia.eett.gr/silia/download/1FGZpGa4BmiYfLgQyAXuS0GulezwTmdMzOGw"
+    },
+    {
+      "document_number": "529996/24-10-2024",
+      "protocol_number": "ΥΠ.ΔΗΛΩΣΗ/24-10-2024",
+      "type": "Άλλο",
+      "file_url": "https://silia.eett.gr/silia/download/0KyYHGxDQcGUIVEsG8BGE5s7ggT1B6aYU1zH"
+    }
+  ]
+}

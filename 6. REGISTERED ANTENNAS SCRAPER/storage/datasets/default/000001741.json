@@ -1,0 +1,39 @@
+{
+  "antenna_id": "167530",
+  "address": "ΣΩΚΡΑΤΟΥΣ (ΟΙΚ ΛΑΔΟΧΩΡΙ) 1",
+  "position_code": 1498725,
+  "municipality": "Ηγουμενίτσας",
+  "code_name": "SYNAPSECOM_IGOUMEN",
+  "region": "Ηπείρου",
+  "latitude": 39.489722,
+  "company": "OTE",
+  "longitude": 20.260278,
+  "permit_status": "Από τα στοιχεία που τηρούνται στην Ενημερωτική Πύλη προκύπτει ότι, για τη θέση \"ΣΩΚΡΑΤΟΥΣ (ΟΙΚ ΛΑΔΟΧΩΡΙ) 1\" στον Δήμο Ηγουμενίτσας Περιφέρειας  Ηπείρου \n\t(κωδικός αριθμός θέσης 1498725, κωδική ονομασία \"SYNAPSECOM_IGOUMEN\") έχει κατατεθεί από την εταιρία OTE\tδήλωση εγκατάστασης κατασκευής κεραίας (αριθ. πρωτ. \n\t51051/20-03-2023) που εμπίπτει στις διατάξεις της νομοθεσίας για Εγκαταστάσεις Κατασκευών Κεραιών Χαμηλής Ηλεκτρομαγνητικής Περιβαλλοντικής Όχλησης (ΕΚΚΧΟ).",
+  "measurements_eaee": "-",
+  "documents": [
+    {
+      "document_number": "479974/10-03-2023",
+      "protocol_number": "ΦΩΤΟΓΡΑΦΙΑ/",
+      "type": "Φωτογραφικό Υλικό - Σκαρίφημα",
+      "file_url": "https://silia.eett.gr/silia/download/96f1d63e-fc36-4b41-9be6-88a7e5879815"
+    },
+    {
+      "document_number": "480594/20-03-2023",
+      "protocol_number": "ΜΕΣΩ ΣΗΛΥΑ/",
+      "type": "Αίτηση - Μελέτη Ραδιοεκπομπών ΕΕΑΕ",
+      "file_url": "https://silia.eett.gr/silia/download/f0ba13a6-a746-4f29-bc50-516ee9a0dfc3"
+    },
+    {
+      "document_number": "480618/20-03-2023",
+      "protocol_number": "Αρχείο Αίτησης/",
+      "type": "Δήλωση ΕΚΚΧΟ",
+      "file_url": "https://silia.eett.gr/silia/download/881de7ac-7919-4da8-8d77-235e220f2f1b"
+    },
+    {
+      "document_number": "527658/03-10-2024",
+      "protocol_number": "ΥΠ.ΔΗΛΩΣΗ/03-10-2024",
+      "type": "Άλλο",
+      "file_url": "https://silia.eett.gr/silia/download/D7OMrGyLxvtwu5iI2WrvuM1OYngcCq8N51E0"
+    }
+  ]
+}

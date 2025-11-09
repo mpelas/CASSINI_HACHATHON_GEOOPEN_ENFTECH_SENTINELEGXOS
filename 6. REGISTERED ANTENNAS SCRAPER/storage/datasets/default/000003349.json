@@ -1,0 +1,45 @@
+{
+  "antenna_id": "167730",
+  "address": "Επαρχιακός δρόμος Πελασγίας-Γλύφας, Στυλίδα",
+  "position_code": 1140178,
+  "municipality": "Στυλίδας",
+  "code_name": "3030178 UNIPACK HELLAS CENTRAL STYLIDA",
+  "region": "Στερεάς Ελλάδας",
+  "latitude": 38.946667,
+  "company": "VODAFONE",
+  "longitude": 22.884167,
+  "permit_status": "Από τα στοιχεία που τηρούνται στην Ενημερωτική Πύλη προκύπτει ότι, για τη θέση \"Επαρχιακός δρόμος Πελασγίας-Γλύφας, Στυλίδα\" στον Δήμο Στυλίδας Περιφέρειας  Στερεάς Ελλάδας \n\t(κωδικός αριθμός θέσης 1140178, κωδική ονομασία \"3030178 UNIPACK HELLAS CENTRAL STYLIDA\") έχει κατατεθεί από την εταιρία VODAFONE\tδήλωση εγκατάστασης κατασκευής κεραίας (αριθ. πρωτ. \n\t51135/28-03-2023) που εμπίπτει στις διατάξεις της νομοθεσίας για Εγκαταστάσεις Κατασκευών Κεραιών Χαμηλής Ηλεκτρομαγνητικής Περιβαλλοντικής Όχλησης (ΕΚΚΧΟ).",
+  "measurements_eaee": "-",
+  "documents": [
+    {
+      "document_number": "481194/28-03-2023",
+      "protocol_number": "Φωτορεαλιστική απεικόνιση ΕΚΚΧΟ/",
+      "type": "Φωτογραφικό Υλικό - Σκαρίφημα",
+      "file_url": "https://silia.eett.gr/silia/download/819e9334-d1f1-437f-b409-bf75be8a444d"
+    },
+    {
+      "document_number": "481195/28-03-2023",
+      "protocol_number": "Ψηφιακός Χάρτης με προβολή της θέσης ΕΚΚΧΟ/",
+      "type": "Φωτογραφικό Υλικό - Σκαρίφημα",
+      "file_url": "https://silia.eett.gr/silia/download/56d3a98d-eeee-401e-b4de-513b8c3cb8cc"
+    },
+    {
+      "document_number": "481210/28-03-2023",
+      "protocol_number": "Μελέτη ΕΚΚΧΟ/28-03-2023",
+      "type": "Άλλο",
+      "file_url": "https://silia.eett.gr/silia/download/804ae4b5-427d-46a2-99e1-d4fea669fee7"
+    },
+    {
+      "document_number": "481226/28-03-2023",
+      "protocol_number": "Αρχείο Αίτησης/",
+      "type": "Δήλωση ΕΚΚΧΟ",
+      "file_url": "https://silia.eett.gr/silia/download/4335cebe-af1b-4b86-bd19-33cf97ffc2c8"
+    },
+    {
+      "document_number": "485545/24-05-2023",
+      "protocol_number": "ΥΔ εγκατάστασης/24-05-2023",
+      "type": "Άλλο",
+      "file_url": "https://silia.eett.gr/silia/download/56b65bb9-de41-438c-ae1e-4a4e157039bc"
+    }
+  ]
+}

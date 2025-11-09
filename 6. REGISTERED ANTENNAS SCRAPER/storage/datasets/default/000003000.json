@@ -1,0 +1,81 @@
+{
+  "antenna_id": "150792",
+  "address": "ΚΤΙΡΙΟ ΕΠΙ ΤΩΝ ΟΔΩΝ ΜΟΑΤΣΟΥ 42 ΚΑΙ ΔΗΜΟΚΡΑΤΙΑΣ",
+  "position_code": 1401760,
+  "municipality": "Ρεθύμνης",
+  "code_name": "PALADIUM RETH",
+  "region": "Κρήτης",
+  "latitude": 35.365,
+  "company": "OTE",
+  "longitude": 24.476944,
+  "permit_status": "Από τα στοιχεία που τηρούνται στην Ενημερωτική Πύλη προκύπτει ότι, για τη θέση \"ΚΤΙΡΙΟ ΕΠΙ ΤΩΝ ΟΔΩΝ ΜΟΑΤΣΟΥ 42 ΚΑΙ ΔΗΜΟΚΡΑΤΙΑΣ\" στον Δήμο Ρεθύμνης Περιφέρειας  Κρήτης \n\t(κωδικός αριθμός θέσης 1401760, κωδική ονομασία \"PALADIUM RETH\") χορηγήθηκε, με την Απόφαση της ΕΕΤΤ \n38226/25-11-2020, άδεια κατασκευής κεραίας στην εταιρία OTE. \nΑπό τo έγγραφο της άδειας μπορείτε να ενημερωθείτε για τις σχετικές εγκρίσεις των συναρμόδιων φορέων, καθώς και εάν πρόκειται για τροποποίηση παλαιότερης άδειας.\nΗ άδεια χορηγήθηκε με τη διαδικασία αδειοδότησης που ορίζει ο ν. 4635/2019, κατόπιν της με αριθ. πρωτ. 37445/26-02-2020 \n\tαίτησης, και βάσει σχετικής δήλωσης του κατόχου της περί υπαγωγή της κατασκευής κεραίας στο άρθρο 34 του ν. 4635/2019.",
+  "measurements_eaee": "-",
+  "documents": [
+    {
+      "document_number": "396492/26-02-2020",
+      "protocol_number": "ΜΕΣΩ ΣΗΛΥΑ/",
+      "type": "Τοπογραφικό",
+      "file_url": "https://silia.eett.gr/silia/download/7573dc31-5b02-40f8-90da-396ce883617d"
+    },
+    {
+      "document_number": "396493/26-02-2020",
+      "protocol_number": "ΜΕΣΩ ΣΗΛΥΑ/",
+      "type": "Αρχιτεκτονικά Σχέδια",
+      "file_url": "https://silia.eett.gr/silia/download/4ff977f7-ddfe-4bf9-848c-43844e7001ab"
+    },
+    {
+      "document_number": "396494/26-02-2020",
+      "protocol_number": "Δ3/Δ/5490/1318/02-03-2011",
+      "type": "Γνωμάτευση ΥΠΑ",
+      "file_url": "https://silia.eett.gr/silia/download/5b549445-8301-4767-a1ac-65648dacf6ea"
+    },
+    {
+      "document_number": "396495/26-02-2020",
+      "protocol_number": "ΜΕΣΩ ΣΗΛΥΑ/26-02-2020",
+      "type": "Αίτηση ΥΠΑ",
+      "file_url": "https://silia.eett.gr/silia/download/e5cce845-cc9d-4b47-bede-f431fd1468db"
+    },
+    {
+      "document_number": "396496/26-02-2020",
+      "protocol_number": "ΜΕΣΩ ΣΗΛΥΑ/10-02-2020",
+      "type": "Αίτηση - Μελέτη Ραδιοεκπομπών ΕΕΑΕ",
+      "file_url": "https://silia.eett.gr/silia/download/65a2950c-84af-4f6d-97d2-e1c7308d7469"
+    },
+    {
+      "document_number": "396971/26-02-2020",
+      "protocol_number": "Αρχείο Αίτησης/",
+      "type": "Αίτηση Άδειας Κατασκευής Κεραίας ΕΕΤΤ",
+      "file_url": "https://silia.eett.gr/silia/download/c7c7f3a8-f131-4aef-9ce0-5abaa0fcb01a"
+    },
+    {
+      "document_number": "407341/22-05-2020",
+      "protocol_number": "ΜΕΣΩ ΣΗΛΥΑ/22-05-2020",
+      "type": "Αίτηση - Μελέτη Ραδιοεκπομπών ΕΕΑΕ",
+      "file_url": "https://silia.eett.gr/silia/download/bcb02270-e20f-469e-836d-bde97807d605"
+    },
+    {
+      "document_number": "410410/11-06-2020",
+      "protocol_number": "Μ.ι./411/7585/2020/11-06-2020",
+      "type": "Γνωμάτευση ΕΕΑΕ",
+      "file_url": "https://silia.eett.gr/silia/download/b8ac53bc-4654-4ff6-8c02-54753057f744"
+    },
+    {
+      "document_number": "423231/25-11-2020",
+      "protocol_number": "38226/25-11-2020",
+      "type": "Άδεια Κατασκευής  Κεραίας",
+      "file_url": "https://silia.eett.gr/silia/download/e41be8fb-0f2d-4d61-b07c-b905ae72e21c"
+    },
+    {
+      "document_number": "407344/22-05-2020",
+      "protocol_number": "ΣΥΝΟΔΕΥΤΙΚΑ ΕΓΓΡΑΦΑ/",
+      "type": "Δήλωση υπαγωγής σε ΠΠΔ και Συνοδευτικά Έγγραφα",
+      "file_url": "https://silia.eett.gr/silia/download/e49c3089-fb57-4ec2-9c40-5b489454fb17"
+    },
+    {
+      "document_number": "407345/22-05-2020",
+      "protocol_number": "Αρχείο Αίτησης/",
+      "type": "Δήλωση ΠΠΔ",
+      "file_url": "https://silia.eett.gr/silia/download/2a19a447-aaf8-4383-afd3-4f0bf14a28b6"
+    }
+  ]
+}

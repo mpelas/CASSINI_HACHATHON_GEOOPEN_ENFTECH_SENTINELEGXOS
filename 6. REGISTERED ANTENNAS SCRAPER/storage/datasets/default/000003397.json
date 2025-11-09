@@ -1,0 +1,51 @@
+{
+  "antenna_id": "167084",
+  "address": "ΟΙΝΟΦΥΤΑ ΒΟΙΩΤΙΑΣ",
+  "position_code": 1150947,
+  "municipality": "Τανάγρας",
+  "code_name": "3010947 EURODRIP OINOFYTA",
+  "region": "Στερεάς Ελλάδας",
+  "latitude": 38.312778,
+  "company": "VODAFONE",
+  "longitude": 23.638889,
+  "permit_status": "Από τα στοιχεία που τηρούνται στην Ενημερωτική Πύλη προκύπτει ότι, για τη θέση \"ΟΙΝΟΦΥΤΑ ΒΟΙΩΤΙΑΣ\" στον Δήμο Τανάγρας Περιφέρειας  Στερεάς Ελλάδας \n\t(κωδικός αριθμός θέσης 1150947, κωδική ονομασία \"3010947 EURODRIP OINOFYTA\") έχει κατατεθεί από την εταιρία VODAFONE\tδήλωση εγκατάστασης κατασκευής κεραίας (αριθ. πρωτ. \n\t50678/10-02-2023) που εμπίπτει στις διατάξεις της νομοθεσίας για Εγκαταστάσεις Κατασκευών Κεραιών Χαμηλής Ηλεκτρομαγνητικής Περιβαλλοντικής Όχλησης (ΕΚΚΧΟ).",
+  "measurements_eaee": "-",
+  "documents": [
+    {
+      "document_number": "477508/03-02-2023",
+      "protocol_number": "Φωτορεαλιστική απεικόνιση ΕΚΚΧΟ/",
+      "type": "Φωτογραφικό Υλικό - Σκαρίφημα",
+      "file_url": "https://silia.eett.gr/silia/download/ecc0091b-eed0-463a-a42e-260db80fd27a"
+    },
+    {
+      "document_number": "477509/03-02-2023",
+      "protocol_number": "Ψηφιακός Χάρτης με προβολή της θέσης ΕΚΚΧΟ/",
+      "type": "Φωτογραφικό Υλικό - Σκαρίφημα",
+      "file_url": "https://silia.eett.gr/silia/download/70ad0a6a-817a-4cee-a73b-54dd74a4fa25"
+    },
+    {
+      "document_number": "477893/10-02-2023",
+      "protocol_number": "Μελέτη ΕΚΚΧΟ/03-02-2023",
+      "type": "Άλλο",
+      "file_url": "https://silia.eett.gr/silia/download/d8a4218a-3f99-4b00-8680-adcd070a4486"
+    },
+    {
+      "document_number": "477894/10-02-2023",
+      "protocol_number": "Σκαρίφημα με περιοχή απαγόρευσης/",
+      "type": "Φωτογραφικό Υλικό - Σκαρίφημα",
+      "file_url": "https://silia.eett.gr/silia/download/80b89a0f-ccd2-4301-9ca1-26f28119cc60"
+    },
+    {
+      "document_number": "477895/10-02-2023",
+      "protocol_number": "Αρχείο Αίτησης/",
+      "type": "Δήλωση ΕΚΚΧΟ",
+      "file_url": "https://silia.eett.gr/silia/download/e8383bcf-822c-4dae-8ba4-12aabb77c7bd"
+    },
+    {
+      "document_number": "482671/20-04-2023",
+      "protocol_number": "ΥΔ εγκατάστασης/19-04-2023",
+      "type": "Άλλο",
+      "file_url": "https://silia.eett.gr/silia/download/03aac816-6434-4457-a1d3-c6fdb297a4b2"
+    }
+  ]
+}

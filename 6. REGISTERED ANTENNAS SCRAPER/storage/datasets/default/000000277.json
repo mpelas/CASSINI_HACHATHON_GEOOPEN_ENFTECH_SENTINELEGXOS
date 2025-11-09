@@ -1,0 +1,45 @@
+{
+  "antenna_id": "152419",
+  "address": "ΦΡΑΓΚΙΣΤΑ ΠΕΡ. ΣΤΕΡΕΑΣ ΕΛΛΑΔΑΣ",
+  "position_code": 3207060,
+  "municipality": "Αγράφων",
+  "code_name": "ΦΡΑΓΚΙΣΤΑ-Δ",
+  "region": "Στερεάς Ελλάδας",
+  "latitude": 38.989444,
+  "company": "ΕΡΤ ΑΕ",
+  "longitude": 21.598056,
+  "permit_status": "Από τα στοιχεία που τηρούνται στην Ενημερωτική Πύλη προκύπτει ότι για τη  θέση \"ΦΡΑΓΚΙΣΤΑ ΠΕΡ. ΣΤΕΡΕΑΣ ΕΛΛΑΔΑΣ\" στον Δήμο Αγράφων Περιφέρειας  Στερεάς Ελλάδας έχει κατατεθεί από την εταιρία ΕΡΤ ΑΕ δήλωση δομικών κατασκευών κεραιών  \nμε αριθ. πρωτ. ΣΗΛΥΑ 38056/08-04-2020 κατά τα οριζόμενα στην παρ. 7 του άρθρου 34 του Ν.4635/2019.",
+  "measurements_eaee": "-",
+  "documents": [
+    {
+      "document_number": "399798/23-03-2020",
+      "protocol_number": "δορυφορική λήψη και στοιχεία δομικών κατασκευών/",
+      "type": "Άλλο",
+      "file_url": "https://silia.eett.gr/silia/download/609c6fe5-8852-4cc9-85f6-edb611df0195"
+    },
+    {
+      "document_number": "399799/23-03-2020",
+      "protocol_number": "βεβαίωση 1ης ηλεκτροδότησης/",
+      "type": "Άλλο",
+      "file_url": "https://silia.eett.gr/silia/download/4ceb890a-6608-4bc7-b203-fde1c7abb251"
+    },
+    {
+      "document_number": "400653/30-03-2020",
+      "protocol_number": "απογραφή 1987/",
+      "type": "Άλλο",
+      "file_url": "https://silia.eett.gr/silia/download/4a620a29-ad43-41a9-966e-fbe2a2f59c01"
+    },
+    {
+      "document_number": "400654/30-03-2020",
+      "protocol_number": "πίνακας 49 απογραφής ΕΡΤ 1987/",
+      "type": "Άλλο",
+      "file_url": "https://silia.eett.gr/silia/download/f1757f43-d9ea-4816-8e35-7affcf760eaa"
+    },
+    {
+      "document_number": "401655/08-04-2020",
+      "protocol_number": "Αρχείο Αίτησης/",
+      "type": "Δήλωση Δομικών ΕΡΤ",
+      "file_url": "https://silia.eett.gr/silia/download/e7fcc9bf-ce15-4cc5-be09-ee4ac659e620"
+    }
+  ]
+}

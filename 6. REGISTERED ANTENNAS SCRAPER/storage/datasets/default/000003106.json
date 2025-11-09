@@ -1,0 +1,99 @@
+{
+  "antenna_id": "108179",
+  "address": "ΘΕΣΗ ΟΤΕ - ΟΙΚΙΣΜΟΣ  ΣΕΡΒΙΑ",
+  "position_code": 1404121,
+  "municipality": "Σερβίων - Βελβεντού",
+  "code_name": "ΣΕΡΒΙΑ ΤΚ",
+  "region": "Δυτικής Μακεδονίας",
+  "latitude": 40.184722,
+  "company": "OTE",
+  "longitude": 21.997222,
+  "permit_status": "Από τα στοιχεία που τηρούνται στην Ενημερωτική Πύλη προκύπτει ότι, για τη θέση \"ΘΕΣΗ ΟΤΕ - ΟΙΚΙΣΜΟΣ  ΣΕΡΒΙΑ\" στον Δήμο Σερβίων - Βελβεντού Περιφέρειας  Δυτικής Μακεδονίας \n\t(κωδικός αριθμός θέσης 1404121, κωδική ονομασία \"ΣΕΡΒΙΑ ΤΚ\") χορηγήθηκε, με την Απόφαση της ΕΕΤΤ \n42633/Φ610/17-12-2021, άδεια κατασκευής κεραίας στην εταιρία OTE. \nΑπό τo έγγραφο της άδειας μπορείτε να ενημερωθείτε για τις σχετικές εγκρίσεις των συναρμόδιων φορέων, καθώς και εάν πρόκειται για τροποποίηση παλαιότερης άδειας.\nΗ άδεια χορηγήθηκε με τη διαδικασία αδειοδότησης που ορίζει ο ν. 4635/2019, κατόπιν της με αριθ. πρωτ. 11827/29-06-2015 \n\tαίτησης, και βάσει σχετικής δήλωσης του κατόχου της περί υπαγωγή της κατασκευής κεραίας στο άρθρο 34 του ν. 4635/2019.",
+  "measurements_eaee": "-",
+  "documents": [
+    {
+      "document_number": "218182/26-06-2015",
+      "protocol_number": "1867/08-07-2014",
+      "type": "Συμπληρωματικά Έγγραφα Αίτησης / Μελέτης",
+      "file_url": "https://silia.eett.gr/silia/download/53383a49-9881-495f-a3cb-f6653e936bc1"
+    },
+    {
+      "document_number": "218184/26-06-2015",
+      "protocol_number": "Δ3/Δ/14549/2916/17-09-2001",
+      "type": "Γνωμάτευση ΥΠΑ",
+      "file_url": "https://silia.eett.gr/silia/download/7b1b38a5-dddb-4681-8684-51b8ef4bc8d9"
+    },
+    {
+      "document_number": "218185/26-06-2015",
+      "protocol_number": "Δ3/Δ/4345/09-06-2011",
+      "type": "Γνωμάτευση ΥΠΑ",
+      "file_url": "https://silia.eett.gr/silia/download/97544bdd-9ac1-442d-97a3-ae70c36cb90b"
+    },
+    {
+      "document_number": "218186/26-06-2015",
+      "protocol_number": "3318/29-05-2015",
+      "type": "Αίτηση - Μελέτη Ραδιοεκπομπών ΕΕΑΕ",
+      "file_url": "https://silia.eett.gr/silia/download/e0d170c2-1590-4c03-9bcc-240d9d3700df"
+    },
+    {
+      "document_number": "218187/26-06-2015",
+      "protocol_number": "Μ.Ι./411/1037/04-06-2015",
+      "type": "Γνωμάτευση ΕΕΑΕ",
+      "file_url": "https://silia.eett.gr/silia/download/1e2d8f19-c221-4b6c-9b01-162dcac4c32f"
+    },
+    {
+      "document_number": "218255/26-06-2015",
+      "protocol_number": "ΥΠ.ΔΗΛΩΣΗ ΣΥΝΕΓΚΑΤΑΣΤΑΣΗΣ ΟΤΕ/26-06-2015",
+      "type": "Άλλο",
+      "file_url": "https://silia.eett.gr/silia/download/f81957c6-7b39-4cf2-98ad-b30d30f0c965"
+    },
+    {
+      "document_number": "218464/29-06-2015",
+      "protocol_number": "3318/29-05-2015",
+      "type": "Αρχιτεκτονικά Σχέδια",
+      "file_url": "https://silia.eett.gr/silia/download/3bec09e5-f0e7-4996-ad6d-d1b8b7748a22"
+    },
+    {
+      "document_number": "218465/29-06-2015",
+      "protocol_number": "3318/29-05-2015",
+      "type": "Τοπογραφικό",
+      "file_url": "https://silia.eett.gr/silia/download/7570fd60-85f5-45a9-9116-481f7683417a"
+    },
+    {
+      "document_number": "218466/29-06-2015",
+      "protocol_number": "Αρχείο Αίτησης/",
+      "type": "Αίτηση Άδειας Κατασκευής Κεραίας ΕΕΤΤ",
+      "file_url": "https://silia.eett.gr/silia/download/10864974-51be-4dc6-a958-3cfafec5dce7"
+    },
+    {
+      "document_number": "438867/21-07-2021",
+      "protocol_number": "φωτογραφιες αποξήλωσης/",
+      "type": "Άλλο",
+      "file_url": "https://silia.eett.gr/silia/download/3303e055-1ac9-4eda-92d4-6bcd83ec045a"
+    },
+    {
+      "document_number": "448837/27-12-2021",
+      "protocol_number": "42633/Φ610/17-12-2021",
+      "type": "Άδεια Κατασκευής  Κεραίας",
+      "file_url": "https://silia.eett.gr/silia/download/56f4db9c-63e5-46d4-9b83-ec02f6e2ad5b"
+    },
+    {
+      "document_number": "448838/27-12-2021",
+      "protocol_number": "42633/Φ610/17-12-2021",
+      "type": "Άδεια Κατασκευής  Κεραίας",
+      "file_url": "https://silia.eett.gr/silia/download/e2ff5021-f3e3-494c-92c7-f5da8ae8deb3"
+    },
+    {
+      "document_number": "218191/26-06-2015",
+      "protocol_number": "ΜΕΣΩ ΣΗΛΥΑ/",
+      "type": "Δήλωση υπαγωγής σε ΠΠΔ και Συνοδευτικά Έγγραφα",
+      "file_url": "https://silia.eett.gr/silia/download/64613f03-6660-44c5-8d23-6fada19c0e71"
+    },
+    {
+      "document_number": "218468/29-06-2015",
+      "protocol_number": "Αρχείο Αίτησης/",
+      "type": "Δήλωση ΠΠΔ",
+      "file_url": "https://silia.eett.gr/silia/download/1f7a1dde-cf28-42cc-a3e0-3375614608a6"
+    }
+  ]
+}

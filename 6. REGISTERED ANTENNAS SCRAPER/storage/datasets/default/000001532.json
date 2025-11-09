@@ -1,0 +1,111 @@
+{
+  "antenna_id": "163015",
+  "address": "ΛΕΩΦΟΡΟΣ ΓΕΝΝΗΜΑΤΑ - ΘΕΣΗ ΠΑΤΗΜΑ Η' ΒΡΑΓΚΟ",
+  "position_code": 1291510,
+  "municipality": "Ελευσίνας",
+  "code_name": "THRIASIO 2",
+  "region": "Αττικής",
+  "latitude": 38.068333,
+  "company": "NOVA Μ.Α.Ε.",
+  "longitude": 23.53,
+  "permit_status": "Από τα στοιχεία που τηρούνται στην Ενημερωτική Πύλη προκύπτει ότι, για τη θέση \"ΛΕΩΦΟΡΟΣ ΓΕΝΝΗΜΑΤΑ - ΘΕΣΗ ΠΑΤΗΜΑ Η' ΒΡΑΓΚΟ\" στον Δήμο Ελευσίνας Περιφέρειας  Αττικής \n\t(κωδικός αριθμός θέσης 1291510, κωδική ονομασία \"THRIASIO 2\") χορηγήθηκε, με την Απόφαση της ΕΕΤΤ \n44461/17-06-2022, άδεια κατασκευής κεραίας στην εταιρία NOVA Μ.Α.Ε.. \nΑπό τo έγγραφο της άδειας μπορείτε να ενημερωθείτε για τις σχετικές εγκρίσεις των συναρμόδιων φορέων, καθώς και εάν πρόκειται για τροποποίηση παλαιότερης άδειας.",
+  "measurements_eaee": "-",
+  "documents": [
+    {
+      "document_number": "455386/05-04-2022",
+      "protocol_number": "ΣΥΝΗΜΜΕΝΟΣ ΜΕ ΤΗΝ ΚΑΤΑΘΕΣΗ ΣΤΗΝ ΥΠΑ/",
+      "type": "Απόσπασμα Χάρτη ΓΥΣ 1:50.000",
+      "file_url": "https://silia.eett.gr/silia/download/ccd09054-495b-4dc0-97a1-3f7f9bc5d4cf"
+    },
+    {
+      "document_number": "455390/05-04-2022",
+      "protocol_number": "ΣΥΝΗΜΜΕΝΗ ΜΕ ΤΗΝ ΚΑΤΑΘΕΣΗ ΣΤΗΝ ΥΠΑ WIND/31-03-2022",
+      "type": "Αποτελέσματα μελέτης στη ζώνης 2.6GHz για ΥΠΑ/ΓΕΕΘΑ",
+      "file_url": "https://silia.eett.gr/silia/download/28ce4bb4-82b2-4a42-a62a-74d3c5825e9b"
+    },
+    {
+      "document_number": "455391/05-04-2022",
+      "protocol_number": "Σ3531/Φ550/ΑΔ.15610/23-11-2020",
+      "type": "Γνωμάτευση ΓΕΑ",
+      "file_url": "https://silia.eett.gr/silia/download/45d1961f-a8e2-4008-bb6b-034d3106655e"
+    },
+    {
+      "document_number": "455392/05-04-2022",
+      "protocol_number": "ΣΥΝΗΜΜΕΝΗ ΜΕ ΤΗΝ ΚΑΤΑΘΕΣΗ ΣΤΗΝ ΕΕΑΕ/31-03-2022",
+      "type": "Αίτηση - Μελέτη Ραδιοεκπομπών ΕΕΑΕ",
+      "file_url": "https://silia.eett.gr/silia/download/e4068700-8462-4d3d-8cc4-2436996aded4"
+    },
+    {
+      "document_number": "455393/05-04-2022",
+      "protocol_number": "ΣΥΝΗΜΜΕΝΑ ΜΕ ΤΗΝ ΚΑΤΑΘΕΣΗ ΣΤΗΝ ΕΕΑΕ/",
+      "type": "Αρχιτεκτονικά Σχέδια",
+      "file_url": "https://silia.eett.gr/silia/download/6a693d75-18c4-49f9-886e-311db2266c87"
+    },
+    {
+      "document_number": "455396/05-04-2022",
+      "protocol_number": "ΣΥΝΗΜΜΕΝΟ ΜΕ ΤΗΝ ΚΑΤΑΘΕΣΗ ΣΤΗΝ ΕΕΑΕ/",
+      "type": "Τοπογραφικό",
+      "file_url": "https://silia.eett.gr/silia/download/eee7c37a-ae16-44b2-9d5f-a98181eb154c"
+    },
+    {
+      "document_number": "455454/05-04-2022",
+      "protocol_number": "ΣΥΝΗΜΜΕΝΗ ΜΕ ΤΗΝ ΚΑΤΑΘΕΣΗ ΣΤΗΝ ΕΕΤΤ/05-04-2022",
+      "type": "Βεβαίωση πολιτικού μηχανικού",
+      "file_url": "https://silia.eett.gr/silia/download/dc8e0311-089a-4210-92a8-270408d643bb"
+    },
+    {
+      "document_number": "455455/05-04-2022",
+      "protocol_number": "Αρχείο Αίτησης/",
+      "type": "Αίτηση Άδειας Κατασκευής Κεραίας ΕΕΤΤ",
+      "file_url": "https://silia.eett.gr/silia/download/94a2828e-99f9-474a-9e2b-0d3c3a6bad36"
+    },
+    {
+      "document_number": "456049/08-04-2022",
+      "protocol_number": "35847/08-04-2022",
+      "type": "Αποτελέσματα μελέτης στη ζώνης 2.6GHz για ΥΠΑ/ΓΕΕΘΑ",
+      "file_url": "https://silia.eett.gr/silia/download/01c2189c-c970-4253-b8ca-b0ec7ae3485c"
+    },
+    {
+      "document_number": "458877/11-05-2022",
+      "protocol_number": "ΚΓ/Δ3/Δ/11805/11-5-2022/11-05-2022",
+      "type": "Γνωμάτευση ΥΠΑ",
+      "file_url": "https://silia.eett.gr/silia/download/a51e1b5c-afa1-4fb3-8f83-497aa7b9ef65"
+    },
+    {
+      "document_number": "459198/17-05-2022",
+      "protocol_number": "Μι/411/6049/17-05-2022",
+      "type": "Γνωμάτευση ΕΕΑΕ",
+      "file_url": "https://silia.eett.gr/silia/download/bff47f69-0963-4ae5-a114-b6dc74f05689"
+    },
+    {
+      "document_number": "462623/23-06-2022",
+      "protocol_number": "44461/17-06-2022",
+      "type": "Άδεια Κατασκευής  Κεραίας",
+      "file_url": "https://silia.eett.gr/silia/download/89b699a7-0ff6-42e3-a614-80dd92978be1"
+    },
+    {
+      "document_number": "455397/05-04-2022",
+      "protocol_number": "ΣΥΝΗΜΜΕΝΗ ΜΕ ΤΗΝ ΚΑΤΑΘΕΣΗ ΣΤΗΝ ΕΕΑΕ/31-03-2022",
+      "type": "Αίτηση - Μελέτη Ραδιοεκπομπών ΕΕΑΕ",
+      "file_url": "https://silia.eett.gr/silia/download/e4068700-8462-4d3d-8cc4-2436996aded4"
+    },
+    {
+      "document_number": "455398/05-04-2022",
+      "protocol_number": "ΣΥΝΗΜΜΕΝΟΣ ΜΕ ΤΗΝ ΚΑΤΑΘΕΣΗ ΣΤΗΝ ΕΕΤΤ/",
+      "type": "Χάρτης Ευαίσθητων Χρήσεων Γης",
+      "file_url": "https://silia.eett.gr/silia/download/f7a21da1-c98f-422c-b396-f14760c2f3e8"
+    },
+    {
+      "document_number": "455399/05-04-2022",
+      "protocol_number": "ΣΥΝΗΜΜΕΝΗ ΜΕ ΤΗΝ ΚΑΤΑΘΕΣΗ ΣΤΗΝ ΕΕΤΤ/31-03-2022",
+      "type": "Αίτηση - Μελέτη Ραδιοεκπομπών ΕΕΑΕ (υποβάθρου)",
+      "file_url": "https://silia.eett.gr/silia/download/c1d676a4-9df9-4e40-a9eb-44664ff0a22c"
+    },
+    {
+      "document_number": "455456/05-04-2022",
+      "protocol_number": "Αρχείο Αίτησης/",
+      "type": "Δήλωση ΠΠΔ",
+      "file_url": "https://silia.eett.gr/silia/download/a3688eae-8ff1-467f-9a05-b63d44d21e26"
+    }
+  ]
+}

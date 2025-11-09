@@ -1,0 +1,75 @@
+{
+  "antenna_id": "141744",
+  "address": "ΠΛΗΣΙΟΝ ΟΙΚΙΣΜΟΥ \"ΝΕΟ ΧΑΛΚΙΟΠΟΥΛΟ\"",
+  "position_code": 1402456,
+  "municipality": "Αμφιλοχίας",
+  "code_name": "ΝΕΟ ΧΑΛΚΙΟΠΟΥΛΟ",
+  "region": "Δυτικής Ελλάδας",
+  "latitude": 38.974167,
+  "company": "OTE",
+  "longitude": 21.3225,
+  "permit_status": "Από τα στοιχεία που τηρούνται στην Ενημερωτική Πύλη προκύπτει ότι, για τη θέση \"ΠΛΗΣΙΟΝ ΟΙΚΙΣΜΟΥ \"ΝΕΟ ΧΑΛΚΙΟΠΟΥΛΟ\"\" στον Δήμο Αμφιλοχίας Περιφέρειας  Δυτικής Ελλάδας \n\t(κωδικός αριθμός θέσης 1402456, κωδική ονομασία \"ΝΕΟ ΧΑΛΚΙΟΠΟΥΛΟ\") χορηγήθηκε, με την Απόφαση της ΕΕΤΤ \n37906/Φ610/12-11-2020, άδεια κατασκευής κεραίας στην εταιρία OTE. \nΑπό τo έγγραφο της άδειας μπορείτε να ενημερωθείτε για τις σχετικές εγκρίσεις των συναρμόδιων φορέων, καθώς και εάν πρόκειται για τροποποίηση παλαιότερης άδειας.\nΗ άδεια χορηγήθηκε με τη διαδικασία αδειοδότησης που ορίζει ο ν. 4635/2019, κατόπιν της με αριθ. πρωτ. 32349/04-04-2019 \n\tαίτησης, και βάσει σχετικής δήλωσης του κατόχου της περί υπαγωγή της κατασκευής κεραίας στο άρθρο 34 του ν. 4635/2019.",
+  "measurements_eaee": "-",
+  "documents": [
+    {
+      "document_number": "362416/03-04-2019",
+      "protocol_number": "ΜΕΣΩ ΣΗΛΥΑ/",
+      "type": "Τοπογραφικό",
+      "file_url": "https://silia.eett.gr/silia/download/937c3308-c045-41fa-95d4-3be3c7c70152"
+    },
+    {
+      "document_number": "362417/03-04-2019",
+      "protocol_number": "ΜΕΣΩ ΣΗΛΥΑ/",
+      "type": "Αρχιτεκτονικά Σχέδια",
+      "file_url": "https://silia.eett.gr/silia/download/4fe13631-7dd3-4f16-87c8-e5ea2b79ebd5"
+    },
+    {
+      "document_number": "362418/03-04-2019",
+      "protocol_number": "Δ3/Δ/3195/896/09-02-2012",
+      "type": "Γνωμάτευση ΥΠΑ",
+      "file_url": "https://silia.eett.gr/silia/download/504f1343-a4f3-40ac-9d90-affd1f817514"
+    },
+    {
+      "document_number": "362419/03-04-2019",
+      "protocol_number": "ΜΕΣΩ ΣΗΛΥΑ/03-04-2019",
+      "type": "Αίτηση ΥΠΑ",
+      "file_url": "https://silia.eett.gr/silia/download/8f1ac565-d3d5-4338-b9e1-f79fa0ddde80"
+    },
+    {
+      "document_number": "362420/03-04-2019",
+      "protocol_number": "ΜΕΣΩ ΣΗΛΥΑ/23-02-2019",
+      "type": "Αίτηση - Μελέτη Ραδιοεκπομπών ΕΕΑΕ",
+      "file_url": "https://silia.eett.gr/silia/download/78e4c22e-c924-48ce-92be-81caa93bf876"
+    },
+    {
+      "document_number": "362545/04-04-2019",
+      "protocol_number": "Αρχείο Αίτησης/",
+      "type": "Αίτηση Άδειας Κατασκευής Κεραίας ΕΕΤΤ",
+      "file_url": "https://silia.eett.gr/silia/download/e2e0b59d-b957-4dcf-b55e-29de34d81508"
+    },
+    {
+      "document_number": "377204/27-09-2019",
+      "protocol_number": "Μ.ι./411/13621/2019/26-09-2019",
+      "type": "Γνωμάτευση ΕΕΑΕ",
+      "file_url": "https://silia.eett.gr/silia/download/08b17e42-292c-4f9e-a268-380ad6305a66"
+    },
+    {
+      "document_number": "423728/30-11-2020",
+      "protocol_number": "37906/Φ610/12-11-2020",
+      "type": "Άδεια Κατασκευής  Κεραίας",
+      "file_url": "https://silia.eett.gr/silia/download/e43a704e-6237-4b68-b473-8051df9899ca"
+    },
+    {
+      "document_number": "366958/31-05-2019",
+      "protocol_number": "ΣΥΝΟΔΕΥΤΙΚΑ ΕΓΓΡΑΦΑ ΠΠΔ/",
+      "type": "Δήλωση υπαγωγής σε ΠΠΔ και Συνοδευτικά Έγγραφα",
+      "file_url": "https://silia.eett.gr/silia/download/af359987-f388-4eeb-8c87-d2bc3cf719b1"
+    },
+    {
+      "document_number": "373778/29-08-2019",
+      "protocol_number": "Αρχείο Αίτησης/",
+      "type": "Δήλωση ΠΠΔ",
+      "file_url": "https://silia.eett.gr/silia/download/03252c22-bbb3-457b-a2a9-e473dc41431e"
+    }
+  ]
+}

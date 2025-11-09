@@ -1,0 +1,81 @@
+{
+  "antenna_id": "162649",
+  "address": "ΑΓΙΟΣ ΘΩΜΑΣ ΒΟΙΩΤΙΑΣ",
+  "position_code": 1402550,
+  "municipality": "Τανάγρας",
+  "code_name": "KLIDI X1",
+  "region": "Στερεάς Ελλάδας",
+  "latitude": 38.261389,
+  "company": "OTE",
+  "longitude": 23.587778,
+  "permit_status": "Από τα στοιχεία που τηρούνται στην Ενημερωτική Πύλη προκύπτει ότι, για τη θέση \"ΑΓΙΟΣ ΘΩΜΑΣ ΒΟΙΩΤΙΑΣ\" στον Δήμο Τανάγρας Περιφέρειας  Στερεάς Ελλάδας \n\t(κωδικός αριθμός θέσης 1402550, κωδική ονομασία \"KLIDI X1\") χορηγήθηκε, με την Απόφαση της ΕΕΤΤ \n45631/14-10-2022, άδεια κατασκευής κεραίας στην εταιρία OTE. \nΑπό τo έγγραφο της άδειας μπορείτε να ενημερωθείτε για τις σχετικές εγκρίσεις των συναρμόδιων φορέων, καθώς και εάν πρόκειται για τροποποίηση παλαιότερης άδειας.",
+  "measurements_eaee": "-",
+  "documents": [
+    {
+      "document_number": "452789/09-03-2022",
+      "protocol_number": "ΜΕΣΩ ΣΗΛΥΑ/",
+      "type": "Τοπογραφικό",
+      "file_url": "https://silia.eett.gr/silia/download/6f6a2e47-d44c-47c6-89e5-ce84f0414306"
+    },
+    {
+      "document_number": "452790/09-03-2022",
+      "protocol_number": "ΜΕΣΩ ΣΗΛΥΑ/",
+      "type": "Αρχιτεκτονικά Σχέδια",
+      "file_url": "https://silia.eett.gr/silia/download/7ebba12d-c636-4657-988c-a235d5a63374"
+    },
+    {
+      "document_number": "452791/09-03-2022",
+      "protocol_number": "ΜΕΣΩ ΣΗΛΥΑ/18-01-2021",
+      "type": "Αίτηση - Μελέτη Ραδιοεκπομπών ΕΕΑΕ",
+      "file_url": "https://silia.eett.gr/silia/download/7e15e6b0-3a5b-4447-be9f-088009672118"
+    },
+    {
+      "document_number": "452792/09-03-2022",
+      "protocol_number": "ΥΔ ΣΥΝΕΓΚΑΤΑΣΤΑΣΗΣ OTE/",
+      "type": "Άλλο",
+      "file_url": "https://silia.eett.gr/silia/download/5ec24d39-b885-40e3-bc27-651e0fb1352f"
+    },
+    {
+      "document_number": "452793/09-03-2022",
+      "protocol_number": "13815/08-02-2021",
+      "type": "Επιστολή Ενημέρωσης προς Αρμόδιο Φορέα",
+      "file_url": "https://silia.eett.gr/silia/download/89057068-3db5-40af-8bab-570b8dcdeb13"
+    },
+    {
+      "document_number": "452800/09-03-2022",
+      "protocol_number": "Αρχείο Αίτησης/",
+      "type": "Αίτηση Άδειας Κατασκευής Κεραίας ΕΕΤΤ",
+      "file_url": "https://silia.eett.gr/silia/download/c0f336f2-9a57-4eaa-b13c-9ac77b157a5f"
+    },
+    {
+      "document_number": "458774/10-05-2022",
+      "protocol_number": "ΚΓ/Δ3/Δ/11641/10-5-2022/10-05-2022",
+      "type": "Γνωμάτευση ΥΠΑ",
+      "file_url": "https://silia.eett.gr/silia/download/d01c91a5-738e-4764-99a5-e9474efa6ff1"
+    },
+    {
+      "document_number": "462564/23-06-2022",
+      "protocol_number": "Μ.ι./411/9225/2022/22-06-2022",
+      "type": "Γνωμάτευση ΕΕΑΕ",
+      "file_url": "https://silia.eett.gr/silia/download/83edc433-a5f6-4218-84b5-f3b213e1f063"
+    },
+    {
+      "document_number": "469950/16-10-2022",
+      "protocol_number": "45631/14-10-2022",
+      "type": "Άδεια Κατασκευής  Κεραίας",
+      "file_url": "https://silia.eett.gr/silia/download/c6e79417-e6e2-4589-96ef-f67451b60732"
+    },
+    {
+      "document_number": "452794/09-03-2022",
+      "protocol_number": "ΣΥΝΟΔΕΥΤΙΚΑ ΕΓΓΡΑΦΑ/",
+      "type": "Δήλωση υπαγωγής σε ΠΠΔ και Συνοδευτικά Έγγραφα",
+      "file_url": "https://silia.eett.gr/silia/download/d9676f47-7727-45d4-97a5-74d530b3249e"
+    },
+    {
+      "document_number": "452801/09-03-2022",
+      "protocol_number": "Αρχείο Αίτησης/",
+      "type": "Δήλωση ΠΠΔ",
+      "file_url": "https://silia.eett.gr/silia/download/82d63b38-5654-407b-ba12-06cc4ffa3192"
+    }
+  ]
+}

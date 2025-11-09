@@ -1,0 +1,87 @@
+{
+  "antenna_id": "113552",
+  "address": "ΥΨΩΜΑ ΚΟΥΚΟΤΟΣ",
+  "position_code": 1402262,
+  "municipality": "Αγράφων",
+  "code_name": "ΚΟΥΚΟΤΟΣ",
+  "region": "Στερεάς Ελλάδας",
+  "latitude": 39.1025,
+  "company": "OTE",
+  "longitude": 21.650556,
+  "permit_status": "Από τα στοιχεία που τηρούνται στην Ενημερωτική Πύλη προκύπτει ότι, για τη θέση \"ΥΨΩΜΑ ΚΟΥΚΟΤΟΣ\" στον Δήμο Αγράφων Περιφέρειας  Στερεάς Ελλάδας \n\t(κωδικός αριθμός θέσης 1402262, κωδική ονομασία \"ΚΟΥΚΟΤΟΣ\") χορηγήθηκε, με την Απόφαση της ΕΕΤΤ \n38471/Φ610/27-11-2020, άδεια κατασκευής κεραίας στην εταιρία OTE. \nΑπό τo έγγραφο της άδειας μπορείτε να ενημερωθείτε για τις σχετικές εγκρίσεις των συναρμόδιων φορέων, καθώς και εάν πρόκειται για τροποποίηση παλαιότερης άδειας.\nΗ άδεια χορηγήθηκε με τη διαδικασία αδειοδότησης που ορίζει ο ν. 4635/2019, κατόπιν της με αριθ. πρωτ. 12571/11-09-2015 \n\tαίτησης, και βάσει σχετικής δήλωσης του κατόχου της περί υπαγωγή της κατασκευής κεραίας στο άρθρο 34 του ν. 4635/2019.",
+  "measurements_eaee": "-",
+  "documents": [
+    {
+      "document_number": "229951/11-09-2015",
+      "protocol_number": "2730/105422/04-06-2014",
+      "type": "Αίτηση / Μελέτη για Έγκριση Περιβαλλοντικών Επιπτώσεων",
+      "file_url": "https://silia.eett.gr/silia/download/7b84bc33-74a7-4bed-ace1-8e590d6e8a58"
+    },
+    {
+      "document_number": "229952/11-09-2015",
+      "protocol_number": "3634/158163/4-9/07-09-2015",
+      "type": "Αίτηση / Μελέτη για Έγκριση Περιβαλλοντικών Επιπτώσεων",
+      "file_url": "https://silia.eett.gr/silia/download/aee7eb40-e0c8-4a2d-9b37-5af2b7ae5bdc"
+    },
+    {
+      "document_number": "229953/11-09-2015",
+      "protocol_number": "2009/20-12-2013",
+      "type": "Τοπογραφικό",
+      "file_url": "https://silia.eett.gr/silia/download/c052f5da-a5ee-420d-8e13-4fc31399c1a1"
+    },
+    {
+      "document_number": "229954/11-09-2015",
+      "protocol_number": "2009/20-12-2013",
+      "type": "Αρχιτεκτονικά Σχέδια",
+      "file_url": "https://silia.eett.gr/silia/download/259961ad-c1fe-41c5-91f4-28f9224ae05a"
+    },
+    {
+      "document_number": "229957/11-09-2015",
+      "protocol_number": "Δ3/Δ/24218/5522/05-07-2002",
+      "type": "Γνωμάτευση ΥΠΑ",
+      "file_url": "https://silia.eett.gr/silia/download/7476c114-4bd3-44e6-9389-1e66d9ab3b81"
+    },
+    {
+      "document_number": "229958/11-09-2015",
+      "protocol_number": "Δ3/Δ/4345/09-06-2011",
+      "type": "Γνωμάτευση ΥΠΑ",
+      "file_url": "https://silia.eett.gr/silia/download/7d9166b5-91d7-4d56-8b41-619441a0c5f8"
+    },
+    {
+      "document_number": "229959/11-09-2015",
+      "protocol_number": "ΜΕΣΩ ΣΗΛΥΑ/14-01-2015",
+      "type": "Αίτηση - Μελέτη Ραδιοεκπομπών ΕΕΑΕ",
+      "file_url": "https://silia.eett.gr/silia/download/43a1ec11-3a9b-46c6-8855-aa51c08c6ba6"
+    },
+    {
+      "document_number": "230000/11-09-2015",
+      "protocol_number": "Αρχείο Αίτησης/",
+      "type": "Αίτηση Άδειας Κατασκευής Κεραίας ΕΕΤΤ",
+      "file_url": "https://silia.eett.gr/silia/download/056eba70-745d-4f20-903c-aa30bd1264ff"
+    },
+    {
+      "document_number": "244157/23-12-2015",
+      "protocol_number": "Μ.ι./411/2257/15-12-2015",
+      "type": "Γνωμάτευση ΕΕΑΕ",
+      "file_url": "https://silia.eett.gr/silia/download/78d17dbb-abcf-42e1-8f1c-b1d58c666412"
+    },
+    {
+      "document_number": "423723/30-11-2020",
+      "protocol_number": "38471/Φ610/27-11-2020",
+      "type": "Άδεια Κατασκευής  Κεραίας",
+      "file_url": "https://silia.eett.gr/silia/download/8a00ada1-500b-419f-bfc0-235bab8cebd1"
+    },
+    {
+      "document_number": "392343/05-02-2020",
+      "protocol_number": "ΣΥΝΟΔΕΥΤΙΚΑ ΕΓΓΡΑΦΑ/",
+      "type": "Δήλωση υπαγωγής σε ΠΠΔ και Συνοδευτικά Έγγραφα",
+      "file_url": "https://silia.eett.gr/silia/download/b52cfbae-ef9c-4a83-9fa5-7153430cb868"
+    },
+    {
+      "document_number": "392344/05-02-2020",
+      "protocol_number": "Αρχείο Αίτησης/",
+      "type": "Δήλωση ΠΠΔ",
+      "file_url": "https://silia.eett.gr/silia/download/8538c741-f031-490a-8a48-0b6147ac0e8e"
+    }
+  ]
+}

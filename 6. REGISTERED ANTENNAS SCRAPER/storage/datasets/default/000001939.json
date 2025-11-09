@@ -1,0 +1,141 @@
+{
+  "antenna_id": "56284",
+  "address": "ΕΠΙ ΑΝΩΝΥΜΗΣ ΟΔΟΥ  ΠΛΑΤΑΝΟΣ Α/Δ ΕΡΤ",
+  "position_code": 20255,
+  "municipality": "Ναυπακτίας",
+  "code_name": "Α/Δ ΠΛΑΤΑΝΟΣ",
+  "region": "Δυτικής Ελλάδας",
+  "latitude": 38.611944,
+  "company": "OTE",
+  "longitude": 21.792222,
+  "permit_status": "Από τα στοιχεία που τηρούνται στην Ενημερωτική Πύλη προκύπτει ότι, για τη θέση \"ΕΠΙ ΑΝΩΝΥΜΗΣ ΟΔΟΥ  ΠΛΑΤΑΝΟΣ Α/Δ ΕΡΤ\" στον Δήμο Ναυπακτίας Περιφέρειας  Δυτικής Ελλάδας \n\t(κωδικός αριθμός θέσης 0020255, κωδική ονομασία \"Α/Δ ΠΛΑΤΑΝΟΣ\") χορηγήθηκε, με την Απόφαση της ΕΕΤΤ \n19778/Φ610/12-04-2016, άδεια κατασκευής κεραίας στην εταιρία OTE. \nΑπό τo έγγραφο της άδειας μπορείτε να ενημερωθείτε για τις σχετικές εγκρίσεις των συναρμόδιων φορέων, καθώς και εάν πρόκειται για τροποποίηση παλαιότερης άδειας.\n\tΗ άδεια χορηγήθηκε κατόπιν της με Αριθ. Πρωτ. 13026/06-03-2008 αίτησης. \n\tΓια την έκδοση της άδειας εφαρμόστηκε το προγενέστερο του Ν.4053/2012 νομοθετικό πλαίσιο, καθώς κατά δήλωση της εταιρίας, η κατασκευή πληρούσε \nτις προϋποθέσεις του άρθρου 31 του Ν.4053/2012. \nΕπιπλέον, έχει υποβληθεί η με αριθ. πρωτ. ΣΗΛΥΑ 48608/12-07-2022 (Δήλωση παρ. 1Β, άρθρ. 28, ν. 4635/2019) δήλωση που αφορά σε τροποποίηση/επικαιροποίηση στοιχείων της κατασκευής κεραίας που αφορούν τον(ους) Τομέα(εις) Αδειοδότησης:Κεραιοσυστήματα, Περιβάλλον.\n\tΔιευκρινίζεται ότι υπό ορισμένες προϋποθέσεις για την τροποποίηση αδειοδοτημένης κατασκευής κεραίας ή/και την επικαιροποίηση στοιχείων της δεν απαιτείται η έκδοση νέας άδειας \n\tκατασκευής κεραίας ή η τροποποίηση της υφιστάμενης άδειας κατασκευής κεραίας, αλλά απαιτείται η υποβολή κατάλληλης δήλωσης από τον κάτοχο της κατασκευής κεραίας συνοδευόμενη \n\tαπό επικαιροποίηση επιμέρους εγκρίσεων.",
+  "measurements_eaee": "-",
+  "documents": [
+    {
+      "document_number": "3987/16-11-2012",
+      "protocol_number": "Μ.ι./411/87/16-01-2012",
+      "type": "Γνωμάτευση ΕΕΑΕ",
+      "file_url": "https://silia.eett.gr/silia/download/0d91a02b-e813-47f4-b960-0c17f05a3014"
+    },
+    {
+      "document_number": "36975/16-11-2012",
+      "protocol_number": "2629/10-04-2008",
+      "type": "Αίτηση / Μελέτη για Έγκριση Περιβαλλοντικών Επιπτώσεων (νόμιμη λειτουργία)",
+      "file_url": "https://silia.eett.gr/silia/download/6bf45734-44bf-4ace-925e-86dc5ad32a76"
+    },
+    {
+      "document_number": "36976/16-11-2012",
+      "protocol_number": "13026/06-03-2008",
+      "type": "Αίτηση Άδειας Κατασκευής Κεραίας ΕΕΤΤ (νομίμως λειτουργούσα)",
+      "file_url": "https://silia.eett.gr/silia/download/193003e3-8a35-40b4-9d12-2dc693cfd259"
+    },
+    {
+      "document_number": "122368/16-01-2014",
+      "protocol_number": "Δ3/Δ/42057/9789/23-11-2007",
+      "type": "Γνωμάτευση ΥΠΑ",
+      "file_url": "https://silia.eett.gr/silia/download/c7901a55-d2cc-446e-961a-25c9ebf98e4e"
+    },
+    {
+      "document_number": "122369/16-01-2014",
+      "protocol_number": "177/31-05-2007",
+      "type": "Αποδεικτικό Καταβολής Τελών ΕΕΤΤ",
+      "file_url": "https://silia.eett.gr/silia/download/2c5ace2b-a212-4c66-b688-8314bb63f37c"
+    },
+    {
+      "document_number": "122504/17-01-2014",
+      "protocol_number": "ΥΠΕΥΘΥΝΗ ΔΗΛΩΣΗ ΑΠΟ ΚΟΙΝΟΥ ΧΡΗΣΗΣ/",
+      "type": "Άλλο",
+      "file_url": "https://silia.eett.gr/silia/download/3e10eed2-177b-4be1-9be1-a275427c0f3c"
+    },
+    {
+      "document_number": "122589/17-01-2014",
+      "protocol_number": "ΠΠΔ ΜΕΣΩ ΣΗΛΥΑ/",
+      "type": "Δήλωση υπαγωγής σε ΠΠΔ και Συνοδευτικά Έγγραφα",
+      "file_url": "https://silia.eett.gr/silia/download/ca093d42-0771-4521-9ec2-ceea5664e5fd"
+    },
+    {
+      "document_number": "132288/21-02-2014",
+      "protocol_number": "Αρχείο Αίτησης/",
+      "type": "Αίτηση Άδειας Κατασκευής Κεραίας ΕΕΤΤ",
+      "file_url": "https://silia.eett.gr/silia/download/9f258773-3a56-49e2-a32e-3ff15a4e8b08"
+    },
+    {
+      "document_number": "176638/19-06-2014",
+      "protocol_number": "ΠΠΔ ΜΕΣΩ ΣΗΛΥΑ/",
+      "type": "Δήλωση υπαγωγής σε ΠΠΔ και Συνοδευτικά Έγγραφα",
+      "file_url": "https://silia.eett.gr/silia/download/731f12bf-757d-4aa4-916b-31df157829e5"
+    },
+    {
+      "document_number": "194046/09-01-2015",
+      "protocol_number": "ΠΠΔ ΜΕΣΩ ΣΗΛΥΑ/",
+      "type": "Δήλωση υπαγωγής σε ΠΠΔ και Συνοδευτικά Έγγραφα",
+      "file_url": "https://silia.eett.gr/silia/download/f54559f5-7a73-43cc-bc41-f7fde0773411"
+    },
+    {
+      "document_number": "194047/09-01-2015",
+      "protocol_number": "8414/22-11-2011",
+      "type": "Αίτηση - Μελέτη Ραδιοεκπομπών ΕΕΑΕ",
+      "file_url": "https://silia.eett.gr/silia/download/af8f5f26-a2e2-4827-a4e4-978661c8e8e7"
+    },
+    {
+      "document_number": "244298/24-12-2015",
+      "protocol_number": "147932/15-12-2015",
+      "type": "Άλλο",
+      "file_url": "https://silia.eett.gr/silia/download/88b1cb08-0297-4870-9eca-4fc07add1cc1"
+    },
+    {
+      "document_number": "257286/20-04-2016",
+      "protocol_number": "19778/Φ610/12-04-2016",
+      "type": "Άδεια Κατασκευής  Κεραίας",
+      "file_url": "https://silia.eett.gr/silia/download/40fe7bd0-1d9f-4f4f-a86c-57cb1ac9508f"
+    },
+    {
+      "document_number": "463898/12-07-2022",
+      "protocol_number": "ΜΕΣΩ ΣΗΛΥΑ/",
+      "type": "Δήλωση υπαγωγής σε ΠΠΔ και Συνοδευτικά Έγγραφα",
+      "file_url": "https://silia.eett.gr/silia/download/09d520e8-6728-4f09-a2d7-c367c1549d0d"
+    },
+    {
+      "document_number": "463899/12-07-2022",
+      "protocol_number": "ΜΕΣΩ ΣΗΛΥΑ/",
+      "type": "Τοπογραφικό",
+      "file_url": "https://silia.eett.gr/silia/download/81776cb8-ca39-49ba-8061-fed8f72fa137"
+    },
+    {
+      "document_number": "463900/12-07-2022",
+      "protocol_number": "ΜΕΣΩ ΣΗΛΥΑ/",
+      "type": "Αρχιτεκτονικά Σχέδια",
+      "file_url": "https://silia.eett.gr/silia/download/13a682b5-2a4d-4224-a5f8-2787b187accc"
+    },
+    {
+      "document_number": "463901/12-07-2022",
+      "protocol_number": "ΜΕΣΩ ΣΗΛΥΑ/23-06-2022",
+      "type": "Αίτηση - Μελέτη Ραδιοεκπομπών ΕΕΑΕ",
+      "file_url": "https://silia.eett.gr/silia/download/17b5b43f-420d-4bfe-bbb7-8aaadaf9881b"
+    },
+    {
+      "document_number": "463902/12-07-2022",
+      "protocol_number": "ΥΔ ΣΥΝΕΓΚΑΤΑΣΤΑΣΗΣ COSMOTE/",
+      "type": "Άλλο",
+      "file_url": "https://silia.eett.gr/silia/download/7c937ada-6a9d-47bf-a5f2-f3e3f3d77633"
+    },
+    {
+      "document_number": "463903/12-07-2022",
+      "protocol_number": "Αρχείο Αίτησης/",
+      "type": "Δήλωση ΔΤΚΚ",
+      "file_url": "https://silia.eett.gr/silia/download/0ca24d21-d23a-48a1-b44b-c18cf4c2e496"
+    },
+    {
+      "document_number": "471984/08-11-2022",
+      "protocol_number": "TMIA/411/15534/2022/08-11-2022",
+      "type": "Γνωμάτευση ΕΕΑΕ",
+      "file_url": "https://silia.eett.gr/silia/download/2a62f747-164f-4da5-9c24-8aa5094428db"
+    },
+    {
+      "document_number": "476060/13-01-2023",
+      "protocol_number": "ΥΔ ΑΠΟΚΑΤΑΣΤΑΣΗΣ ΝΟΜΙΜΟΤΗΤΑΣ/13-01-2023",
+      "type": "Άλλο",
+      "file_url": "https://silia.eett.gr/silia/download/84ad5155-9794-4e91-9663-8b3996fbb921"
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "antenna_id": "152388",
+  "address": "Πλήσιων Κέλλης, Δήμου Αμυνταίου, Νομού Φλωρίνης, Περ. Δ. Μακεδονίας",
+  "position_code": 3207020,
+  "municipality": "Αμυνταίου",
+  "code_name": "ΚΕΛΛΗ -Δ",
+  "region": "Δυτικής Μακεδονίας",
+  "latitude": 40.786389,
+  "company": "ΕΡΤ ΑΕ",
+  "longitude": 21.682778,
+  "permit_status": "Από τα στοιχεία που τηρούνται στην Ενημερωτική Πύλη προκύπτει ότι για τη  θέση \"Πλήσιων Κέλλης, Δήμου Αμυνταίου, Νομού Φλωρίνης, Περ. Δ. Μακεδονίας\" στον Δήμο Αμυνταίου Περιφέρειας  Δυτικής Μακεδονίας έχει κατατεθεί από την εταιρία ΕΡΤ ΑΕ δήλωση δομικών κατασκευών κεραιών  \nμε αριθ. πρωτ. ΣΗΛΥΑ 38029/08-04-2020 κατά τα οριζόμενα στην παρ. 7 του άρθρου 34 του Ν.4635/2019.",
+  "measurements_eaee": "-",
+  "documents": [
+    {
+      "document_number": "399634/23-03-2020",
+      "protocol_number": "δορυφορική λήψη και στοιχεία δομικών κατασκευών/",
+      "type": "Άλλο",
+      "file_url": "https://silia.eett.gr/silia/download/8d58a755-c829-4140-b8f3-6d79b5c0ab4d"
+    },
+    {
+      "document_number": "399635/23-03-2020",
+      "protocol_number": "βεβαίωση 1ης ρευματοδότησης/",
+      "type": "Άλλο",
+      "file_url": "https://silia.eett.gr/silia/download/2972950c-b0fb-4508-b10e-bcfe9bca4903"
+    },
+    {
+      "document_number": "401023/02-04-2020",
+      "protocol_number": "απογραφή 1987/",
+      "type": "Άλλο",
+      "file_url": "https://silia.eett.gr/silia/download/f77c9b7f-9a83-465f-b234-233d859cb4fa"
+    },
+    {
+      "document_number": "401036/02-04-2020",
+      "protocol_number": "πίνακας 54 απογραφής ΕΡΤ 1987/",
+      "type": "Άλλο",
+      "file_url": "https://silia.eett.gr/silia/download/232a2ef2-327d-44e8-bafe-7b5efa0709fb"
+    },
+    {
+      "document_number": "401623/08-04-2020",
+      "protocol_number": "Αρχείο Αίτησης/",
+      "type": "Δήλωση Δομικών ΕΡΤ",
+      "file_url": "https://silia.eett.gr/silia/download/1147a65a-a99b-40ae-870e-a8e4e921418f"
+    }
+  ]
+}

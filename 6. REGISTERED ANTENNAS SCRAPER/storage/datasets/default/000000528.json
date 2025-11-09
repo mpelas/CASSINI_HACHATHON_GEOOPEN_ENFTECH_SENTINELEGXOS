@@ -1,0 +1,81 @@
+{
+  "antenna_id": "161705",
+  "address": "ΑΥΤΟΚΡΑΤΟΡΟΣ ΘΕΟΦΙΛΟΥ 17 (Ο.Τ. 882)",
+  "position_code": 1441408,
+  "municipality": "Αμαρουσίου",
+  "code_name": "MAROUMES",
+  "region": "Αττικής",
+  "latitude": 38.043333,
+  "company": "OTE",
+  "longitude": 23.819167,
+  "permit_status": "Από τα στοιχεία που τηρούνται στην Ενημερωτική Πύλη προκύπτει ότι, για τη θέση \"ΑΥΤΟΚΡΑΤΟΡΟΣ ΘΕΟΦΙΛΟΥ 17 (Ο.Τ. 882)\" στον Δήμο Αμαρουσίου Περιφέρειας  Αττικής \n\t(κωδικός αριθμός θέσης 1441408, κωδική ονομασία \"MAROUMES\") χορηγήθηκε, με την Απόφαση της ΕΕΤΤ \n44891/18-07-2022, άδεια κατασκευής κεραίας στην εταιρία OTE. \nΑπό τo έγγραφο της άδειας μπορείτε να ενημερωθείτε για τις σχετικές εγκρίσεις των συναρμόδιων φορέων, καθώς και εάν πρόκειται για τροποποίηση παλαιότερης άδειας.",
+  "measurements_eaee": "-",
+  "documents": [
+    {
+      "document_number": "448319/17-12-2021",
+      "protocol_number": "ΜΕΣΩ ΣΗΛΥΑ/",
+      "type": "Τοπογραφικό",
+      "file_url": "https://silia.eett.gr/silia/download/5b561950-254d-416d-b312-daeaffb662da"
+    },
+    {
+      "document_number": "448320/17-12-2021",
+      "protocol_number": "ΜΕΣΩ ΣΗΛΥΑ/",
+      "type": "Αρχιτεκτονικά Σχέδια",
+      "file_url": "https://silia.eett.gr/silia/download/0c6104f8-80a0-4a5d-a1e7-5329aaf5d664"
+    },
+    {
+      "document_number": "448321/17-12-2021",
+      "protocol_number": "ΜΕΣΩ ΣΗΛΥΑ/15-11-2021",
+      "type": "Αίτηση - Μελέτη Ραδιοεκπομπών ΕΕΑΕ",
+      "file_url": "https://silia.eett.gr/silia/download/303a4253-5326-4327-bbb0-8d44c7e62d2c"
+    },
+    {
+      "document_number": "448322/17-12-2021",
+      "protocol_number": "ΜΕΛΕΤΗ ΕΜC/10-12-2021",
+      "type": "Αποτελέσματα μελέτης στη ζώνης 2.6GHz για ΥΠΑ/ΓΕΕΘΑ",
+      "file_url": "https://silia.eett.gr/silia/download/678edba7-578d-45bf-84a8-413664838cad"
+    },
+    {
+      "document_number": "448323/17-12-2021",
+      "protocol_number": "132260/06-12-2021",
+      "type": "Επιστολή Ενημέρωσης προς Αρμόδιο Φορέα",
+      "file_url": "https://silia.eett.gr/silia/download/68409fcc-ba6e-40c6-9996-e18cc96eb881"
+    },
+    {
+      "document_number": "448325/17-12-2021",
+      "protocol_number": "Αρχείο Αίτησης/",
+      "type": "Αίτηση Άδειας Κατασκευής Κεραίας ΕΕΤΤ",
+      "file_url": "https://silia.eett.gr/silia/download/346e8d69-d3ee-47d5-8b7a-5d31901d2db6"
+    },
+    {
+      "document_number": "458987/13-05-2022",
+      "protocol_number": "Μ.ι./411/5792/2022/12-05-2022",
+      "type": "Γνωμάτευση ΕΕΑΕ",
+      "file_url": "https://silia.eett.gr/silia/download/079fc6c9-2f65-4b01-9522-f464fd915b64"
+    },
+    {
+      "document_number": "460763/02-06-2022",
+      "protocol_number": "ΚΓ/Δ3/Δ/14107/2-6-2022/02-06-2022",
+      "type": "Γνωμάτευση ΥΠΑ",
+      "file_url": "https://silia.eett.gr/silia/download/8e9c25bb-23c0-4fe3-9a6d-25b37d69209d"
+    },
+    {
+      "document_number": "465264/01-08-2022",
+      "protocol_number": "44891/18-07-2022",
+      "type": "Άδεια Κατασκευής  Κεραίας",
+      "file_url": "https://silia.eett.gr/silia/download/7d048bed-c9e5-4b93-99d7-0e78ad8ce819"
+    },
+    {
+      "document_number": "448324/17-12-2021",
+      "protocol_number": "ΣΥΝΟΔΕΥΤΙΚΑ ΕΓΓΡΑΦΑ/",
+      "type": "Δήλωση υπαγωγής σε ΠΠΔ και Συνοδευτικά Έγγραφα",
+      "file_url": "https://silia.eett.gr/silia/download/906b2af0-0275-4339-85dc-8fecfc570ffa"
+    },
+    {
+      "document_number": "448326/17-12-2021",
+      "protocol_number": "Αρχείο Αίτησης/",
+      "type": "Δήλωση ΠΠΔ",
+      "file_url": "https://silia.eett.gr/silia/download/815dc1a8-7220-48bf-aa5b-02dd3cf9e575"
+    }
+  ]
+}

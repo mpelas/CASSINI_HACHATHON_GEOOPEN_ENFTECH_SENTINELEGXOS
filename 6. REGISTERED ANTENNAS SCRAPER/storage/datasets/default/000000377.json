@@ -1,0 +1,39 @@
+{
+  "antenna_id": "135549",
+  "address": "Επαρχιακή Οδός Βόνιτσας",
+  "position_code": 1025798,
+  "municipality": "Άκτιου - Βόνιτσας",
+  "code_name": "ANDROMEDA PACKAGING VONITSA 2",
+  "region": "Δυτικής Ελλάδας",
+  "latitude": 38.883889,
+  "company": "VODAFONE",
+  "longitude": 20.899167,
+  "permit_status": "Από τα στοιχεία που τηρούνται στην Ενημερωτική Πύλη προκύπτει ότι, για τη θέση \"Επαρχιακή Οδός Βόνιτσας\" στον Δήμο Άκτιου - Βόνιτσας Περιφέρειας  Δυτικής Ελλάδας \n\t(κωδικός αριθμός θέσης 1025798, κωδική ονομασία \"ANDROMEDA PACKAGING VONITSA 2\") έχει κατατεθεί από την εταιρία VODAFONE\tδήλωση εγκατάστασης κατασκευής κεραίας (αριθ. πρωτ. \n\t29827/25-10-2018) που εμπίπτει στις διατάξεις της νομοθεσίας για Εγκαταστάσεις Κατασκευών Κεραιών Χαμηλής Ηλεκτρομαγνητικής Περιβαλλοντικής Όχλησης (ΕΚΚΧΟ).",
+  "measurements_eaee": "-",
+  "documents": [
+    {
+      "document_number": "345965/24-10-2018",
+      "protocol_number": "ΦΩΤΟΓΡΑΦΙΑ ΘΕΣΗΣ ΚΕΡΑΙΑΣ 1/",
+      "type": "Φωτογραφικό Υλικό - Σκαρίφημα",
+      "file_url": "https://silia.eett.gr/silia/download/65b51734-9279-45ac-9be1-3216162a270f"
+    },
+    {
+      "document_number": "346264/25-10-2018",
+      "protocol_number": "Αρχείο Αίτησης/",
+      "type": "Δήλωση ΕΚΚΧΟ",
+      "file_url": "https://silia.eett.gr/silia/download/e8a187a0-ccbd-4f49-ae5a-6266312db579"
+    },
+    {
+      "document_number": "350562/27-11-2018",
+      "protocol_number": "ΣΚΑΡΙΦΗΜΑ ΘΕΣΗΣ ΚΕΡΑΙΩΝ ΕΚΚΧΟ και ΕΡΜΑΡΙΟΥ/",
+      "type": "Φωτογραφικό Υλικό - Σκαρίφημα",
+      "file_url": "https://silia.eett.gr/silia/download/c6fd1170-15f7-41d4-9f6a-04e04d2b2029"
+    },
+    {
+      "document_number": "350563/27-11-2018",
+      "protocol_number": "ΣΚΑΡΙΦΗΜΑ - ΚΑΤΟΨΗ ΘΕΣΗΣ ΚΕΡΑΙΑΣ ΕΚΚΧΟ ΚΑΙ ΕΡΜΑΡΙΟΥ/",
+      "type": "Φωτογραφικό Υλικό - Σκαρίφημα",
+      "file_url": "https://silia.eett.gr/silia/download/73560741-927e-4597-a2b9-8c77a04cfb56"
+    }
+  ]
+}

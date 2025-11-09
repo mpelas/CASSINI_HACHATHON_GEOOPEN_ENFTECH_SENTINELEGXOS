@@ -1,0 +1,51 @@
+{
+  "antenna_id": "179995",
+  "address": "ΣΗΡΑΓΓΑ ΑΓΙΑΣ ΑΝΑΣΤΑΣΙΑΣ ΕΓΝΑΤΙΑΣ ΟΔΟΥ",
+  "position_code": 1414866,
+  "municipality": "Δωδώνης",
+  "code_name": "EOANASTAWEST_MI",
+  "region": "Ηπείρου",
+  "latitude": 39.556389,
+  "company": "OTE",
+  "longitude": 20.711667,
+  "permit_status": "Από τα στοιχεία που τηρούνται στην Ενημερωτική Πύλη προκύπτει ότι, για τη θέση \"ΣΗΡΑΓΓΑ ΑΓΙΑΣ ΑΝΑΣΤΑΣΙΑΣ ΕΓΝΑΤΙΑΣ ΟΔΟΥ\" στον Δήμο Δωδώνης Περιφέρειας  Ηπείρου \n\t(κωδικός αριθμός θέσης 1414866, κωδική ονομασία \"EOANASTAWEST_MI\") έχει κατατεθεί από την εταιρία OTE\tδήλωση εγκατάστασης κατασκευής κεραίας (αριθ. πρωτ. \n\t61514/04-06-2025) που εμπίπτει στις διατάξεις της νομοθεσίας για Εγκαταστάσεις Κατασκευών Κεραιών Χαμηλής Ηλεκτρομαγνητικής Περιβαλλοντικής Όχλησης (ΕΚΚΧΟ).",
+  "measurements_eaee": "-",
+  "documents": [
+    {
+      "document_number": "551269/02-06-2025",
+      "protocol_number": "ΜΕΛΕΤΗ/02-06-2025",
+      "type": "Αίτηση - Μελέτη Ραδιοεκπομπών ΕΕΑΕ",
+      "file_url": "https://silia.eett.gr/silia/download/sO4YNNxdKG6X5pn05wczvUi6gwRxHYewAIbR"
+    },
+    {
+      "document_number": "551270/02-06-2025",
+      "protocol_number": "ΤΟΠΟΓΡΑΦΙΚΟ/02-06-2025",
+      "type": "Τοπογραφικό",
+      "file_url": "https://silia.eett.gr/silia/download/HXhzVvdEkPDbdkmMro1kDKWdD55gwBKw4Yih"
+    },
+    {
+      "document_number": "551271/02-06-2025",
+      "protocol_number": "ΚΑΤΟΨΗ/02-06-2025",
+      "type": "Αρχιτεκτονικά [Κάτοψη - Τομή - Όψη]",
+      "file_url": "https://silia.eett.gr/silia/download/k3hExTvAoeE25Tcm3gAWy7HTgGCChKgfGGYo"
+    },
+    {
+      "document_number": "551273/02-06-2025",
+      "protocol_number": "ΦΩΤΟΓΡΑΦΙΑ/02-06-2025",
+      "type": "Φωτογραφικό Υλικό - Σκαρίφημα",
+      "file_url": "https://silia.eett.gr/silia/download/LAUga4WpKiYEaBWB9OTbKdNpQmu0pMmoFzVV"
+    },
+    {
+      "document_number": "551274/02-06-2025",
+      "protocol_number": "ΤΟΜΗ/02-06-2025",
+      "type": "Αρχιτεκτονικά [Κάτοψη - Τομή - Όψη]",
+      "file_url": "https://silia.eett.gr/silia/download/LM0odNouGS2VRbNXFLPOTwMt1GXHUsrEAGCK"
+    },
+    {
+      "document_number": "551519/04-06-2025",
+      "protocol_number": "Αρχείο Αίτησης/04-06-2025",
+      "type": "Δήλωση ΕΚΚΧΟ",
+      "file_url": "https://silia.eett.gr/silia/download/aosNn68wBQgcIG5UXBgtCiFlYTxyxP5pn4PC"
+    }
+  ]
+}

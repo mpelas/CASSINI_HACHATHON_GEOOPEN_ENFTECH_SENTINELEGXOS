@@ -1,0 +1,45 @@
+{
+  "antenna_id": "168240",
+  "address": "ΧΡΥΣΟΣΤΟΜΟΥ ΣΜΥΡΝΗΣ 9",
+  "position_code": 2409235,
+  "municipality": "Ελληνικού - Αργυρούπολης",
+  "code_name": "ΒΔ-Σ 00235",
+  "region": "Αττικής",
+  "latitude": 37.905,
+  "company": "CONNECTICORE",
+  "longitude": 23.749444,
+  "permit_status": "Από τα στοιχεία που τηρούνται στην Ενημερωτική Πύλη προκύπτει ότι, για τη θέση \"ΧΡΥΣΟΣΤΟΜΟΥ ΣΜΥΡΝΗΣ 9\" στον Δήμο Ελληνικού - Αργυρούπολης Περιφέρειας  Αττικής \n\t(κωδικός αριθμός θέσης 2409235, κωδική ονομασία \"ΒΔ-Σ 00235\") έχει κατατεθεί από την εταιρία CONNECTICORE\tδήλωση εγκατάστασης κατασκευής κεραίας (αριθ. πρωτ. \n\t51522/04-05-2023) που εμπίπτει στις διατάξεις της νομοθεσίας για Εγκαταστάσεις Κατασκευών Κεραιών Χαμηλής Ηλεκτρομαγνητικής Περιβαλλοντικής Όχλησης (ΕΚΚΧΟ).",
+  "measurements_eaee": "-",
+  "documents": [
+    {
+      "document_number": "483934/04-05-2023",
+      "protocol_number": "Φωτογραφικό υλικό 2409235/",
+      "type": "Φωτογραφικό Υλικό - Σκαρίφημα",
+      "file_url": "https://silia.eett.gr/silia/download/63e0d21e-c41a-41b9-9261-02999d4a3b26"
+    },
+    {
+      "document_number": "483935/04-05-2023",
+      "protocol_number": "Φωτορεαλιστικό διάγραμμα 2409235/",
+      "type": "Άλλο",
+      "file_url": "https://silia.eett.gr/silia/download/321bfdb1-e8f0-476f-872d-c0429ca4e813"
+    },
+    {
+      "document_number": "483936/04-05-2023",
+      "protocol_number": "Μελέτη ΕΚΚΧΟ 2409235/",
+      "type": "Άλλο",
+      "file_url": "https://silia.eett.gr/silia/download/35f04c46-d2b8-4627-b4f3-7a2e4e1a6742"
+    },
+    {
+      "document_number": "483937/04-05-2023",
+      "protocol_number": "Αρχείο Αίτησης/",
+      "type": "Δήλωση ΕΚΚΧΟ",
+      "file_url": "https://silia.eett.gr/silia/download/6997a8b0-9cb5-4ff1-bd3f-03eb528b626d"
+    },
+    {
+      "document_number": "487667/12-06-2023",
+      "protocol_number": "Υπεύθυνη Δήλωση Τεχνικού Υπευθύνου/",
+      "type": "Άλλο",
+      "file_url": "https://silia.eett.gr/silia/download/6482e892-60fb-4e94-8c9e-a61df0ebe784"
+    }
+  ]
+}

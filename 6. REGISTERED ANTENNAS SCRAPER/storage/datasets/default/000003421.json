@@ -1,0 +1,39 @@
+{
+  "antenna_id": "174833",
+  "address": "Επαρ.Οδ. Σπηλιάς-Αμπελάκιας, Τέμπη",
+  "position_code": 1496783,
+  "municipality": "Τεμπών",
+  "code_name": "ELAS_AT_TEMPI",
+  "region": "Θεσσαλίας",
+  "latitude": 39.833333,
+  "company": "OTE",
+  "longitude": 22.514444,
+  "permit_status": "Από τα στοιχεία που τηρούνται στην Ενημερωτική Πύλη προκύπτει ότι, για τη θέση \"Επαρ.Οδ. Σπηλιάς-Αμπελάκιας, Τέμπη\" στον Δήμο Τεμπών Περιφέρειας  Θεσσαλίας \n\t(κωδικός αριθμός θέσης 1496783, κωδική ονομασία \"ELAS_AT_TEMPI\") έχει κατατεθεί από την εταιρία OTE\tδήλωση εγκατάστασης κατασκευής κεραίας (αριθ. πρωτ. \n\t61095/15-05-2025) που εμπίπτει στις διατάξεις της νομοθεσίας για Εγκαταστάσεις Κατασκευών Κεραιών Χαμηλής Ηλεκτρομαγνητικής Περιβαλλοντικής Όχλησης (ΕΚΚΧΟ).",
+  "measurements_eaee": "-",
+  "documents": [
+    {
+      "document_number": "523063/07-08-2024",
+      "protocol_number": "ΦΩΤΟΓΡΑΦΙΑ/07-08-2024",
+      "type": "Φωτογραφικό Υλικό - Σκαρίφημα",
+      "file_url": "https://silia.eett.gr/silia/download/HvrgFgSI7R2DGNGnQQ6fHZBoWdKi3GbgtiEF"
+    },
+    {
+      "document_number": "549385/15-05-2025",
+      "protocol_number": "ΜΕΛΕΤΗ/15-05-2025",
+      "type": "Αίτηση - Μελέτη Ραδιοεκπομπών ΕΕΑΕ",
+      "file_url": "https://silia.eett.gr/silia/download/waFc5FfRKWlIQ9sLP0GcQ2DiIcS7OFS45vA9"
+    },
+    {
+      "document_number": "549448/15-05-2025",
+      "protocol_number": "XARTHS/15-05-2025",
+      "type": "Φωτογραφικό Υλικό - Σκαρίφημα",
+      "file_url": "https://silia.eett.gr/silia/download/2sn8RgQlrlQgBHp38MSyNGEoizvw8zeBfSox"
+    },
+    {
+      "document_number": "549449/15-05-2025",
+      "protocol_number": "Αρχείο Αίτησης/15-05-2025",
+      "type": "Δήλωση ΕΚΚΧΟ",
+      "file_url": "https://silia.eett.gr/silia/download/dqaEtRH7NEKT3WZQP9mbUTgsK7ZDRZL1s3mK"
+    }
+  ]
+}

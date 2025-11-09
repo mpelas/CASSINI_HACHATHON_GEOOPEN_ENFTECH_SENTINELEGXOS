@@ -1,0 +1,39 @@
+{
+  "antenna_id": "140913",
+  "address": "ΑΣΚΛΗΠΙΟΥ 10, ΤΡΙΚΑΛΑ",
+  "position_code": 1214414,
+  "municipality": "Τρικκαίων",
+  "code_name": "TRIKALA ASKLIPIOU MICRO",
+  "region": "Θεσσαλίας",
+  "latitude": 39.554167,
+  "company": "NOVA Μ.Α.Ε.",
+  "longitude": 21.766944,
+  "permit_status": "Από τα στοιχεία που τηρούνται στην Ενημερωτική Πύλη προκύπτει ότι, για τη θέση \"ΑΣΚΛΗΠΙΟΥ 10, ΤΡΙΚΑΛΑ\" στον Δήμο Τρικκαίων Περιφέρειας  Θεσσαλίας \n\t(κωδικός αριθμός θέσης 1214414, κωδική ονομασία \"TRIKALA ASKLIPIOU MICRO\") έχει κατατεθεί από την εταιρία NOVA Μ.Α.Ε.\tδήλωση εγκατάστασης κατασκευής κεραίας (αριθ. πρωτ. \n\t31711/19-02-2019) που εμπίπτει στις διατάξεις της νομοθεσίας για Εγκαταστάσεις Κατασκευών Κεραιών Χαμηλής Ηλεκτρομαγνητικής Περιβαλλοντικής Όχλησης (ΕΚΚΧΟ).",
+  "measurements_eaee": "-",
+  "documents": [
+    {
+      "document_number": "358127/18-02-2019",
+      "protocol_number": "ΣΚΑΡΙΦΗΜΑ ΚΕΡΑΙΩΝ ΕΚΚΧΟ/",
+      "type": "Φωτογραφικό Υλικό - Σκαρίφημα",
+      "file_url": "https://silia.eett.gr/silia/download/0862704f-4498-49bf-a5fe-3243adcf66d3"
+    },
+    {
+      "document_number": "358155/18-02-2019",
+      "protocol_number": "ΦΩΤΟΓΡΑΦΙΑ ΚΕΡΑΙΩΝ ΕΚΚΧΟ/",
+      "type": "Φωτογραφικό Υλικό - Σκαρίφημα",
+      "file_url": "https://silia.eett.gr/silia/download/ca82c9e0-0f63-4df5-beda-fc6f78ddcd0f"
+    },
+    {
+      "document_number": "358215/19-02-2019",
+      "protocol_number": "Αρχείο Αίτησης/",
+      "type": "Δήλωση ΕΚΚΧΟ",
+      "file_url": "https://silia.eett.gr/silia/download/91d4a22a-1cad-48c7-9ef1-15dc4408d2dd"
+    },
+    {
+      "document_number": "367010/31-05-2019",
+      "protocol_number": "ΣΚΑΡΙΦΗΜΑ ΚΕΡΑΙΩΝ ΕΚΚΧΟ/",
+      "type": "Φωτογραφικό Υλικό - Σκαρίφημα",
+      "file_url": "https://silia.eett.gr/silia/download/e3349a7d-52a7-45a6-84ee-953aacf10284"
+    }
+  ]
+}

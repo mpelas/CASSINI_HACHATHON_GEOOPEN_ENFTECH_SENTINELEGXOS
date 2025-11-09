@@ -1,0 +1,93 @@
+{
+  "antenna_id": "173287",
+  "address": "ΤΜΗΜΑ ΤΕΜΑΧΙΟΥ ΑΡ. 1270 ΑΓΡ. ΣΥΒΟΤΩΝ-ΒΡΑΧΩΝΑ, ΔΙΑΝΟΜΗΣ ΕΤΟΥΣ 1958-1959, ΘΕΣΗ \"ΚΟΝΤΡΙΖΑ\", Τ.Κ. ΣΥΒΟΤΩΝ, Δ.Ε. ΣΥΒΟΤΩΝ",
+  "position_code": 1200877,
+  "municipality": "Ηγουμενίτσας",
+  "code_name": "ΣΥΒΟΤΑ",
+  "region": "Ηπείρου",
+  "latitude": 39.419444,
+  "company": "NOVA Μ.Α.Ε.",
+  "longitude": 20.285833,
+  "permit_status": "Από τα στοιχεία που τηρούνται στην Ενημερωτική Πύλη προκύπτει ότι, για τη θέση \"ΤΜΗΜΑ ΤΕΜΑΧΙΟΥ ΑΡ. 1270 ΑΓΡ. ΣΥΒΟΤΩΝ-ΒΡΑΧΩΝΑ, ΔΙΑΝΟΜΗΣ ΕΤΟΥΣ 1958-1959, ΘΕΣΗ \"ΚΟΝΤΡΙΖΑ\", Τ.Κ. ΣΥΒΟΤΩΝ, Δ.Ε. ΣΥΒΟΤΩΝ\" στον Δήμο Ηγουμενίτσας Περιφέρειας  Ηπείρου \n\t(κωδικός αριθμός θέσης 1200877, κωδική ονομασία \"ΣΥΒΟΤΑ\") χορηγήθηκε, με την Απόφαση της ΕΕΤΤ \n51523/21-10-2024, άδεια κατασκευής κεραίας στην εταιρία NOVA Μ.Α.Ε.. \nΑπό τo έγγραφο της άδειας μπορείτε να ενημερωθείτε για τις σχετικές εγκρίσεις των συναρμόδιων φορέων, καθώς και εάν πρόκειται για τροποποίηση παλαιότερης άδειας.\n\tΣύμφωνα με τα στοιχεία που έχουν υποβληθεί στο ΣΗΛΥΑ, ο κάτοχος της κατασκευής κεραίας έχει δηλώσει ότι θα προβεί σε έκδοση έγκρισης δομικών κατασκευών \n\t\tκεραίας μέσω του e-Άδειες \n\t\tμετά την έκδοση της άδειας κατασκευής κεραίας / δημοσιοποίηση της δήλωσης τροποποίησης της κατασκευής κεραίας",
+  "measurements_eaee": "-",
+  "documents": [
+    {
+      "document_number": "514381/30-04-2024",
+      "protocol_number": "Δ3/Δ/20267/3590/13-05-1999",
+      "type": "Γνωμάτευση ΥΠΑ",
+      "file_url": "https://silia.eett.gr/silia/download/4XrGW3iOI6T9ofyqhI6rNTSON533Q3GWgsY6"
+    },
+    {
+      "document_number": "514382/30-04-2024",
+      "protocol_number": "Δ3/Δ/21043/5523/12-06-2009",
+      "type": "Γνωμάτευση ΥΠΑ",
+      "file_url": "https://silia.eett.gr/silia/download/DdiF8RIZFEL8MymiIqgRa61r2sQYysuP951o"
+    },
+    {
+      "document_number": "514384/30-04-2024",
+      "protocol_number": "ΤΟΠΟΓΡΑΦΙΚΟ & ΑΡΧΙΤΕΚΤΟΝΙΚΑ/30-04-2024",
+      "type": "Αρχιτεκτονικά Σχέδια",
+      "file_url": "https://silia.eett.gr/silia/download/ZOHgwIsy2Oy9rOKAwZqNbgp8sqX5Z6QqpbdH"
+    },
+    {
+      "document_number": "514385/30-04-2024",
+      "protocol_number": "ΜΕΣΩ ΣΗΛΥΑ/19-04-2024",
+      "type": "Αίτηση - Μελέτη Ραδιοεκπομπών ΕΕΑΕ",
+      "file_url": "https://silia.eett.gr/silia/download/cakviMzgNtfhUKyGW2BB95UgwyzmcsXyptC2"
+    },
+    {
+      "document_number": "514386/30-04-2024",
+      "protocol_number": "ΥΔ ΚΟΙΝΗΣ ΧΡΗΣΗΣ VODAFONE/06-03-2024",
+      "type": "Άλλο",
+      "file_url": "https://silia.eett.gr/silia/download/e4HiQ2NSOuDNwggMoc4SDafDsh8XmBOZpnGm"
+    },
+    {
+      "document_number": "514387/30-04-2024",
+      "protocol_number": "ΥΔ ΔΙΑΣΥΝΔΕΣΗΣ VODAFONE/06-03-2024",
+      "type": "Άλλο",
+      "file_url": "https://silia.eett.gr/silia/download/7Ww65pFabpT4PuRbmRmmGmoiMBgyXH8bAwEv"
+    },
+    {
+      "document_number": "514391/30-04-2024",
+      "protocol_number": "ΥΔ ΣΥΝΕΓΚΑΤΑΣΤΑΣΗΣ ΠΥΡΟΣΒΕΣΤΙΚΗΣ ΥΠΗΡΕΣΙΑΣ/29-04-2024",
+      "type": "Άλλο",
+      "file_url": "https://silia.eett.gr/silia/download/Qpq4KOPSiossFSedrdaBtkmuGvFb1qZ3QXrU"
+    },
+    {
+      "document_number": "514392/30-04-2024",
+      "protocol_number": "Αρχείο Αίτησης/30-04-2024",
+      "type": "Αίτηση Άδειας Κατασκευής Κεραίας ΕΕΤΤ",
+      "file_url": "https://silia.eett.gr/silia/download/b4g1G1F2bKTqAD6ftlwrDsrXKvpV4gIKyrh0"
+    },
+    {
+      "document_number": "519709/07-07-2024",
+      "protocol_number": "ΤΜΙΑ/411/9322/2024/05-07-2024",
+      "type": "Γνωμάτευση ΕΕΑΕ",
+      "file_url": "https://silia.eett.gr/silia/download/53y7GqYUo9YleKOGTU5HGuhB0YnkLB3DDmef"
+    },
+    {
+      "document_number": "525420/12-09-2024",
+      "protocol_number": "235250/14-05-2021",
+      "type": "Έγκριση δομικών κατασκευών (e-Άδειες, αντίγραφο)",
+      "file_url": "https://silia.eett.gr/silia/download/sSosSWieslzBiS2fHh3Y21PxklvDIP5OlqVk"
+    },
+    {
+      "document_number": "528807/15-10-2024",
+      "protocol_number": "ΥΔ ΣΥΝΕΓΚΑΤΑΣΤΑΣΗΣ ΠΥΡΟΣΒΕΣΤΙΚΗΣ/15-10-2024",
+      "type": "Άλλο",
+      "file_url": "https://silia.eett.gr/silia/download/2iu2rnAfHdscCXWCcRQsmtZhb4XNywMiTbSU"
+    },
+    {
+      "document_number": "529983/23-10-2024",
+      "protocol_number": "51523/21-10-2024",
+      "type": "Άδεια Κατασκευής  Κεραίας",
+      "file_url": "https://silia.eett.gr/silia/download/nMSqNxyIXw1Peoww51ghqZYtdG3HguIeulQK"
+    },
+    {
+      "document_number": "514393/30-04-2024",
+      "protocol_number": "Αρχείο Αίτησης/30-04-2024",
+      "type": "Δήλωση ΠΠΔ",
+      "file_url": "https://silia.eett.gr/silia/download/kGPC7e8UD3sYWOefrayzTh0Ww2IuSKZkkIEx"
+    }
+  ]
+}

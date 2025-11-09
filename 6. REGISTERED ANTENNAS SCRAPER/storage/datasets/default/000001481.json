@@ -1,0 +1,87 @@
+{
+  "antenna_id": "165823",
+  "address": "ΚΤΙΡΙΟ ΟΤΕ ΜΑΝΑΓΟΥΛΗ - ΝΑΥΠΑΚΤΟΥ",
+  "position_code": 1402192,
+  "municipality": "Δωρίδος",
+  "code_name": "ΜΑΝΑΓΟΥΛΗ",
+  "region": "Στερεάς Ελλάδας",
+  "latitude": 38.395556,
+  "company": "OTE",
+  "longitude": 21.893333,
+  "permit_status": "Από τα στοιχεία που τηρούνται στην Ενημερωτική Πύλη προκύπτει ότι, για τη θέση \"ΚΤΙΡΙΟ ΟΤΕ ΜΑΝΑΓΟΥΛΗ - ΝΑΥΠΑΚΤΟΥ\" στον Δήμο Δωρίδος Περιφέρειας  Στερεάς Ελλάδας \n\t(κωδικός αριθμός θέσης 1402192, κωδική ονομασία \"ΜΑΝΑΓΟΥΛΗ\") χορηγήθηκε, με την Απόφαση της ΕΕΤΤ \n47107/16-02-2023, άδεια κατασκευής κεραίας στην εταιρία OTE. \nΑπό τo έγγραφο της άδειας μπορείτε να ενημερωθείτε για τις σχετικές εγκρίσεις των συναρμόδιων φορέων, καθώς και εάν πρόκειται για τροποποίηση παλαιότερης άδειας.\n\tΣύμφωνα με τα στοιχεία που έχουν υποβληθεί στο ΣΗΛΥΑ, ο κάτοχος της κατασκευής κεραίας έχει δηλώσει ότι θα προβεί σε έκδοση έγκρισης δομικών κατασκευών \n\t\tκεραίας μέσω του e-Άδειες \n\t\tμετά την έκδοση της άδειας κατασκευής κεραίας / δημοσιοποίηση της δήλωσης τροποποίησης της κατασκευής κεραίας",
+  "measurements_eaee": "-",
+  "documents": [
+    {
+      "document_number": "470683/24-10-2022",
+      "protocol_number": "ΜΕΣΩ ΣΗΛΥΑ    /",
+      "type": "Τοπογραφικό",
+      "file_url": "https://silia.eett.gr/silia/download/b73a9526-41dc-4c98-a854-0f2665f307f0"
+    },
+    {
+      "document_number": "470684/24-10-2022",
+      "protocol_number": "ΜΕΣΩ ΣΗΛΥΑ    /",
+      "type": "Αρχιτεκτονικά Σχέδια",
+      "file_url": "https://silia.eett.gr/silia/download/960400ca-17ff-42c8-be20-1b12d1ffc8e8"
+    },
+    {
+      "document_number": "470685/24-10-2022",
+      "protocol_number": "ΜΕΣΩ ΣΗΛΥΑ    /11-10-2022",
+      "type": "Αίτηση - Μελέτη Ραδιοεκπομπών ΕΕΑΕ",
+      "file_url": "https://silia.eett.gr/silia/download/e809b222-7a35-4c55-ad0a-4e0e977d24ff"
+    },
+    {
+      "document_number": "470686/24-10-2022",
+      "protocol_number": "Δ3/Δ/4157/31-05-2000",
+      "type": "Γνωμάτευση ΥΠΑ",
+      "file_url": "https://silia.eett.gr/silia/download/e4b1b6a4-f4c1-4e65-a427-d8f715db18f0"
+    },
+    {
+      "document_number": "470687/24-10-2022",
+      "protocol_number": "Δ3/Δ/3915/15-05-2012",
+      "type": "Γνωμάτευση ΥΠΑ",
+      "file_url": "https://silia.eett.gr/silia/download/7feda2e6-e69c-41fb-b2c2-85c2e4f382a4"
+    },
+    {
+      "document_number": "470688/24-10-2022",
+      "protocol_number": "ΜΕΣΩ ΣΗΛΥΑ    /24-10-2022",
+      "type": "Αίτηση ΥΠΑ",
+      "file_url": "https://silia.eett.gr/silia/download/312cdf15-a999-44aa-beca-ed06f941a330"
+    },
+    {
+      "document_number": "470689/24-10-2022",
+      "protocol_number": "ΥΔ ΣΥΝΕΓΚΑΤΑΣΤΑΣΗΣ ΟΤΕ/24-10-2022",
+      "type": "Άλλο",
+      "file_url": "https://silia.eett.gr/silia/download/dc25beff-0189-4ee0-9297-a1e5766beaea"
+    },
+    {
+      "document_number": "470690/24-10-2022",
+      "protocol_number": "Αρχείο Αίτησης/",
+      "type": "Αίτηση Άδειας Κατασκευής Κεραίας ΕΕΤΤ",
+      "file_url": "https://silia.eett.gr/silia/download/2cf65223-5a4c-4fc0-8b3e-d57cee9a2992"
+    },
+    {
+      "document_number": "477631/07-02-2023",
+      "protocol_number": "Μ.ι./411/1933/2022/07-02-2023",
+      "type": "Γνωμάτευση ΕΕΑΕ",
+      "file_url": "https://silia.eett.gr/silia/download/f7f147ac-6cb0-4f53-9a19-1459e88130fc"
+    },
+    {
+      "document_number": "478320/17-02-2023",
+      "protocol_number": "47107/16-02-2023",
+      "type": "Άδεια Κατασκευής  Κεραίας",
+      "file_url": "https://silia.eett.gr/silia/download/086d8533-0bbf-4b05-83de-9b91b7b81d30"
+    },
+    {
+      "document_number": "470682/24-10-2022",
+      "protocol_number": "ΣΥΝΟΔΕΥΤΙΚΑ ΕΓΓΡΑΦΑ/",
+      "type": "Δήλωση υπαγωγής σε ΠΠΔ και Συνοδευτικά Έγγραφα",
+      "file_url": "https://silia.eett.gr/silia/download/b5b9ccdc-aa9b-45c5-bb91-1c373c56f33f"
+    },
+    {
+      "document_number": "470691/24-10-2022",
+      "protocol_number": "Αρχείο Αίτησης/",
+      "type": "Δήλωση ΠΠΔ",
+      "file_url": "https://silia.eett.gr/silia/download/3275f75a-4039-4a0d-8ced-cc083cac3b8c"
+    }
+  ]
+}

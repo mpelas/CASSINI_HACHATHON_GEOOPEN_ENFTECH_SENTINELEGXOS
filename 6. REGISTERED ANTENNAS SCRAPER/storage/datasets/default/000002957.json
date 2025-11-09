@@ -1,0 +1,39 @@
+{
+  "antenna_id": "152524",
+  "address": "ΝΕΡΑΪΔΟΧΩΡΙ ΔΗΜΟΣ ΠΥΛΗΣ ΠΕΡ. ΘΕΣΣΑΛΙΑΣ",
+  "position_code": 3207198,
+  "municipality": "Πύλης",
+  "code_name": "ΝΕΡΑΙΔΟΧΩΡΙ-Δ",
+  "region": "Θεσσαλίας",
+  "latitude": 39.530556,
+  "company": "ΕΡΤ ΑΕ",
+  "longitude": 21.431667,
+  "permit_status": "Από τα στοιχεία που τηρούνται στην Ενημερωτική Πύλη προκύπτει ότι για τη  θέση \"ΝΕΡΑΪΔΟΧΩΡΙ ΔΗΜΟΣ ΠΥΛΗΣ ΠΕΡ. ΘΕΣΣΑΛΙΑΣ\" στον Δήμο Πύλης Περιφέρειας  Θεσσαλίας έχει κατατεθεί από την εταιρία ΕΡΤ ΑΕ δήλωση δομικών κατασκευών κεραιών  \nμε αριθ. πρωτ. ΣΗΛΥΑ 38151/09-04-2020 κατά τα οριζόμενα στην παρ. 7 του άρθρου 34 του Ν.4635/2019.",
+  "measurements_eaee": "-",
+  "documents": [
+    {
+      "document_number": "400173/26-03-2020",
+      "protocol_number": "δορυφορική λήψη και στοιχεία δομικών κατασκευών/",
+      "type": "Άλλο",
+      "file_url": "https://silia.eett.gr/silia/download/b34c8c26-008d-4187-92a5-0c4b0a29acdd"
+    },
+    {
+      "document_number": "400455/30-03-2020",
+      "protocol_number": "απογραφή 1987/",
+      "type": "Άλλο",
+      "file_url": "https://silia.eett.gr/silia/download/dd05e655-ff50-4ea3-8254-2fe1712a49bd"
+    },
+    {
+      "document_number": "400456/30-03-2020",
+      "protocol_number": "πίνακας 49 απογραφής ΕΡΤ 1987/",
+      "type": "Άλλο",
+      "file_url": "https://silia.eett.gr/silia/download/34b3630b-fc99-48cc-beb7-c58cf4f62898"
+    },
+    {
+      "document_number": "401820/09-04-2020",
+      "protocol_number": "Αρχείο Αίτησης/",
+      "type": "Δήλωση Δομικών ΕΡΤ",
+      "file_url": "https://silia.eett.gr/silia/download/d916f6ba-e471-46b6-aff8-d87909ec8af7"
+    }
+  ]
+}

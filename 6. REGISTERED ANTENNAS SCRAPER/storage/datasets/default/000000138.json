@@ -1,0 +1,81 @@
+{
+  "antenna_id": "172976",
+  "address": "ΛΟΥΚΗ ΑΚΡΙΤΑ 33 & ΝΙΚΟΠΟΛΕΩΣ, ΑΓΙΑ ΠΑΡΑΣΚΕΥΗ",
+  "position_code": 1441677,
+  "municipality": "Αγίας Παρασκευής",
+  "code_name": "PEFKAKIA_MI",
+  "region": "Αττικής",
+  "latitude": 38.019444,
+  "company": "OTE",
+  "longitude": 23.843889,
+  "permit_status": "Από τα στοιχεία που τηρούνται στην Ενημερωτική Πύλη προκύπτει ότι, για τη θέση \"ΛΟΥΚΗ ΑΚΡΙΤΑ 33 & ΝΙΚΟΠΟΛΕΩΣ, ΑΓΙΑ ΠΑΡΑΣΚΕΥΗ\" στον Δήμο Αγίας Παρασκευής Περιφέρειας  Αττικής \n\t(κωδικός αριθμός θέσης 1441677, κωδική ονομασία \"PEFKAKIA_MI\") έχει κατατεθεί από την εταιρία OTE\tδήλωση εγκατάστασης κατασκευής κεραίας (αριθ. πρωτ. \n\t55457/03-04-2024) που εμπίπτει στις διατάξεις της νομοθεσίας για Εγκαταστάσεις Κατασκευών Κεραιών Χαμηλής Ηλεκτρομαγνητικής Περιβαλλοντικής Όχλησης (ΕΚΚΧΟ).",
+  "measurements_eaee": "-",
+  "documents": [
+    {
+      "document_number": "511977/03-04-2024",
+      "protocol_number": "ΜΕΛΕΤΗ/03-04-2024",
+      "type": "Αίτηση - Μελέτη Ραδιοεκπομπών ΕΕΑΕ",
+      "file_url": "https://silia.eett.gr/silia/download/0mgPGHVYHv9gUq18OtgiVxfbvC24ZM5mMKgb"
+    },
+    {
+      "document_number": "511978/03-04-2024",
+      "protocol_number": "ΤΟΠΟΓΡΑΦΙΚΟ/03-04-2024",
+      "type": "Τοπογραφικό",
+      "file_url": "https://silia.eett.gr/silia/download/mSfpU2ReIdC6Vk2BdUm1LfMy4co9ggEbSWTK"
+    },
+    {
+      "document_number": "511979/03-04-2024",
+      "protocol_number": "ΚΑΤΟΨΗ/03-04-2024",
+      "type": "Αρχιτεκτονικά [Κάτοψη - Τομή - Όψη]",
+      "file_url": "https://silia.eett.gr/silia/download/GECA42yAeSGWmOOSXyt8ayVgNqLSGriylMsO"
+    },
+    {
+      "document_number": "511980/03-04-2024",
+      "protocol_number": "ΤΟΜΗ/03-04-2024",
+      "type": "Αρχιτεκτονικά [Κάτοψη - Τομή - Όψη]",
+      "file_url": "https://silia.eett.gr/silia/download/VCqfkUA08K2e2kKCS1Ymle1c64NOwtqK2nk3"
+    },
+    {
+      "document_number": "511981/03-04-2024",
+      "protocol_number": "EMC/03-04-2024",
+      "type": "Αποτελέσματα μελέτης στη ζώνης 2.6GHz για ΥΠΑ/ΓΕΕΘΑ",
+      "file_url": "https://silia.eett.gr/silia/download/z4U065rYIphtDCaO7G9sBrpIUCCY8eSSKluk"
+    },
+    {
+      "document_number": "511982/03-04-2024",
+      "protocol_number": "58180/23-05-2023",
+      "type": "Άλλο",
+      "file_url": "https://silia.eett.gr/silia/download/7Uxh2ngiIIpNC9GtOOdrfgMIL1dSWzamsIhQ"
+    },
+    {
+      "document_number": "511983/03-04-2024",
+      "protocol_number": "ΦΩΤΟΓΡΑΦΙΑ/03-04-2024",
+      "type": "Φωτογραφικό Υλικό - Σκαρίφημα",
+      "file_url": "https://silia.eett.gr/silia/download/I1iPts3Ky49apwLyBIOgVPMPlNdeDHiKeiwN"
+    },
+    {
+      "document_number": "511984/03-04-2024",
+      "protocol_number": "ΦΩΤΟΓΡΑΦΙΑ1/03-04-2024",
+      "type": "Φωτογραφικό Υλικό - Σκαρίφημα",
+      "file_url": "https://silia.eett.gr/silia/download/usixYGu4ht8NmLVxIzZrdlakYN0ifPMiI5dD"
+    },
+    {
+      "document_number": "511985/03-04-2024",
+      "protocol_number": "ΛΙΝΚ/03-04-2024",
+      "type": "Άλλο",
+      "file_url": "https://silia.eett.gr/silia/download/S0PGCBmWrnQ0xtoMnDooFtCfQVCY9nLgIhOd"
+    },
+    {
+      "document_number": "512005/03-04-2024",
+      "protocol_number": "Αρχείο Αίτησης/03-04-2024",
+      "type": "Δήλωση ΕΚΚΧΟ",
+      "file_url": "https://silia.eett.gr/silia/download/hLrVCPP7NDfwgld8l4fq3mgLq26C72fFf9FL"
+    },
+    {
+      "document_number": "527675/03-10-2024",
+      "protocol_number": "ΥΠ.ΔΗΛΩΣΗ/03-10-2024",
+      "type": "Άλλο",
+      "file_url": "https://silia.eett.gr/silia/download/3mOfbRxeGaIDHlHQFQCg9uOT464Xod7gR1e2"
+    }
+  ]
+}

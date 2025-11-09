@@ -1,0 +1,45 @@
+{
+  "antenna_id": "152431",
+  "address": "ΔΑΡΔΙΤΣΑ,ΓΑΛΑΤΑΣ ΑΡΓΟΛΙΔΑ",
+  "position_code": 3207093,
+  "municipality": "Τροιζηνίας",
+  "code_name": "ΔΑΡΔΙΤΣΑ-Δ",
+  "region": "Αττικής",
+  "latitude": 37.463056,
+  "company": "ΕΡΤ ΑΕ",
+  "longitude": 23.449167,
+  "permit_status": "Από τα στοιχεία που τηρούνται στην Ενημερωτική Πύλη προκύπτει ότι για τη  θέση \"ΔΑΡΔΙΤΣΑ,ΓΑΛΑΤΑΣ ΑΡΓΟΛΙΔΑ\" στον Δήμο Τροιζηνίας Περιφέρειας  Αττικής έχει κατατεθεί από την εταιρία ΕΡΤ ΑΕ δήλωση δομικών κατασκευών κεραιών  \nμε αριθ. πρωτ. ΣΗΛΥΑ 38070/08-04-2020 κατά τα οριζόμενα στην παρ. 7 του άρθρου 34 του Ν.4635/2019.",
+  "measurements_eaee": "-",
+  "documents": [
+    {
+      "document_number": "399836/23-03-2020",
+      "protocol_number": "βεβαίωση 1ης ηλεκτροδότησης/",
+      "type": "Άλλο",
+      "file_url": "https://silia.eett.gr/silia/download/5865f021-29e0-48ea-a1fa-edb6706d77a7"
+    },
+    {
+      "document_number": "400043/25-03-2020",
+      "protocol_number": "δορυφορική λήψη και στοιχεία δομικών κατασκευών/",
+      "type": "Άλλο",
+      "file_url": "https://silia.eett.gr/silia/download/1d0dafad-0384-4f5b-a3d2-08c8c88cb628"
+    },
+    {
+      "document_number": "400675/30-03-2020",
+      "protocol_number": "απογραφή 1987/",
+      "type": "Άλλο",
+      "file_url": "https://silia.eett.gr/silia/download/4d40ac18-4a58-45bd-a1d3-6753fddca8a1"
+    },
+    {
+      "document_number": "400676/30-03-2020",
+      "protocol_number": "πίνακας 49 απογραφής ΕΡΤ 1987/",
+      "type": "Άλλο",
+      "file_url": "https://silia.eett.gr/silia/download/c827c903-2eea-4065-aead-b49939cd9ad9"
+    },
+    {
+      "document_number": "401669/08-04-2020",
+      "protocol_number": "Αρχείο Αίτησης/",
+      "type": "Δήλωση Δομικών ΕΡΤ",
+      "file_url": "https://silia.eett.gr/silia/download/eaec4e1f-d000-448a-8b6d-79f74987ee6d"
+    }
+  ]
+}

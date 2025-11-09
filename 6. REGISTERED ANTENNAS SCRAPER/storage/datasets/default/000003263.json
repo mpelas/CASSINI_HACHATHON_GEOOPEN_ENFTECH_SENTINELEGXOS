@@ -1,0 +1,45 @@
+{
+  "antenna_id": "164608",
+  "address": "ΠΗΓΑΔΙΑ ΣΟΥΛΙΟΥ",
+  "position_code": 3206188,
+  "municipality": "Σουλίου",
+  "code_name": "ΠΗΓΑΔΙΑ ΣΟΥΛΙΟΥ",
+  "region": "Ηπείρου",
+  "latitude": 39.361944,
+  "company": "ΕΡΤ ΑΕ",
+  "longitude": 20.638889,
+  "permit_status": "Από τα στοιχεία που τηρούνται στην Ενημερωτική Πύλη προκύπτει ότι για τη  θέση \"ΠΗΓΑΔΙΑ ΣΟΥΛΙΟΥ\" στον Δήμο Σουλίου Περιφέρειας  Ηπείρου έχει κατατεθεί από την εταιρία ΕΡΤ ΑΕ δήλωση κατασκευής κεραίας τηλεοπτικής ευρυεκπομπής με αριθ. πρωτ. ΣΗΛΥΑ \n48495/30-06-2022 κατά τα οριζόμενα στην παρ. 7 του άρθρου 39 του Ν.4635/2019.",
+  "measurements_eaee": "-",
+  "documents": [
+    {
+      "document_number": "463157/30-06-2022",
+      "protocol_number": "Αίτηση ΥΠΑ/",
+      "type": "Αίτηση ΥΠΑ",
+      "file_url": "https://silia.eett.gr/silia/download/4b9eaee8-9454-4299-8d56-ef5d9296074a"
+    },
+    {
+      "document_number": "463158/30-06-2022",
+      "protocol_number": "screenshot/",
+      "type": "Φωτογραφικό Υλικό - Σκαρίφημα",
+      "file_url": "https://silia.eett.gr/silia/download/34aee870-4306-45e7-afc6-9192aafb0e89"
+    },
+    {
+      "document_number": "463159/30-06-2022",
+      "protocol_number": "Αρχείο Αίτησης/",
+      "type": "Δήλωση Τηλεοπτικής Ευρυεκπομπής",
+      "file_url": "https://silia.eett.gr/silia/download/19aa6113-371d-4aca-a07d-06472594a16a"
+    },
+    {
+      "document_number": "464332/19-07-2022",
+      "protocol_number": "ΚΓ/Δ3/Δ/19128/",
+      "type": "Γνωμάτευση ΥΠΑ",
+      "file_url": null
+    },
+    {
+      "document_number": "464333/19-07-2022",
+      "protocol_number": "ΚΓ/Δ3/Δ/19128/19-07-2022",
+      "type": "Απόσπασμα Χάρτη ΓΥΣ 1:50.000",
+      "file_url": "https://silia.eett.gr/silia/download/baa8b048-85be-4a15-ad17-bf5025c95ff9"
+    }
+  ]
+}

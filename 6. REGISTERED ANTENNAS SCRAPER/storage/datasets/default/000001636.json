@@ -1,0 +1,87 @@
+{
+  "antenna_id": "130622",
+  "address": "ΕΠΙ ΤΗΣ Ε.Ο.ΑΝΗΛΙΟΥ-ΑΓ.ΙΩΑΝΝΗ",
+  "position_code": 1404875,
+  "municipality": "Ζαγοράς - Μουρεσίου",
+  "code_name": "POURI /X",
+  "region": "Θεσσαλίας",
+  "latitude": 39.423611,
+  "company": "OTE",
+  "longitude": 23.141389,
+  "permit_status": "Από τα στοιχεία που τηρούνται στην Ενημερωτική Πύλη προκύπτει ότι, για τη θέση \"ΕΠΙ ΤΗΣ Ε.Ο.ΑΝΗΛΙΟΥ-ΑΓ.ΙΩΑΝΝΗ\" στον Δήμο Ζαγοράς - Μουρεσίου Περιφέρειας  Θεσσαλίας \n\t(κωδικός αριθμός θέσης 1404875, κωδική ονομασία \"POURI /X\") χορηγήθηκε, με την Απόφαση της ΕΕΤΤ \n36649/Φ610/31-08-2020, άδεια κατασκευής κεραίας στην εταιρία OTE. \nΑπό τo έγγραφο της άδειας μπορείτε να ενημερωθείτε για τις σχετικές εγκρίσεις των συναρμόδιων φορέων, καθώς και εάν πρόκειται για τροποποίηση παλαιότερης άδειας.",
+  "measurements_eaee": "-",
+  "documents": [
+    {
+      "document_number": "314230/27-11-2017",
+      "protocol_number": "3191/206569/20-11-2017",
+      "type": "Αίτηση / Μελέτη για Έγκριση Περιβαλλοντικών Επιπτώσεων",
+      "file_url": "https://silia.eett.gr/silia/download/b33e877a-4f63-42da-be2d-9e78ab318204"
+    },
+    {
+      "document_number": "314233/27-11-2017",
+      "protocol_number": "7765/07-11-2016",
+      "type": "Τοπογραφικό",
+      "file_url": "https://silia.eett.gr/silia/download/5fd15757-4c43-4b7e-81c7-033027b455a9"
+    },
+    {
+      "document_number": "314234/27-11-2017",
+      "protocol_number": "7765/07-11-2016",
+      "type": "Αρχιτεκτονικά Σχέδια",
+      "file_url": "https://silia.eett.gr/silia/download/170e8f90-2035-4dde-bd39-4ee978ee2c12"
+    },
+    {
+      "document_number": "314238/27-11-2017",
+      "protocol_number": "Δ3/Δ/16368/3345/21-05-2012",
+      "type": "Γνωμάτευση ΥΠΑ",
+      "file_url": "https://silia.eett.gr/silia/download/5c9c4031-4f79-45f8-b77e-cf4247626bc1"
+    },
+    {
+      "document_number": "314239/27-11-2017",
+      "protocol_number": "ΜΕΣΩ ΣΗΛΥΑ/17-10-2017",
+      "type": "Αίτηση - Μελέτη Ραδιοεκπομπών ΕΕΑΕ",
+      "file_url": "https://silia.eett.gr/silia/download/de052c0b-c56e-469a-9849-ade0e0ba36fb"
+    },
+    {
+      "document_number": "314255/27-11-2017",
+      "protocol_number": "Αρχείο Αίτησης/",
+      "type": "Αίτηση Άδειας Κατασκευής Κεραίας ΕΕΤΤ",
+      "file_url": "https://silia.eett.gr/silia/download/c2a196bb-d214-45b3-8694-e14d5a891135"
+    },
+    {
+      "document_number": "322080/26-02-2018",
+      "protocol_number": "7765/07-11-2016",
+      "type": "Τοπογραφικό",
+      "file_url": "https://silia.eett.gr/silia/download/8eb9aa8d-05f0-427f-a4e9-3f8826f707da"
+    },
+    {
+      "document_number": "322081/26-02-2018",
+      "protocol_number": "7765/07-11-2016",
+      "type": "Αρχιτεκτονικά Σχέδια",
+      "file_url": "https://silia.eett.gr/silia/download/be11cab4-e868-41cf-ba3a-d120da729eb8"
+    },
+    {
+      "document_number": "325019/29-03-2018",
+      "protocol_number": "Μ.ι./411/4473/2018/29-03-2018",
+      "type": "Γνωμάτευση ΕΕΑΕ",
+      "file_url": "https://silia.eett.gr/silia/download/15a21765-7f4b-44f3-8b9b-2ea163951d64"
+    },
+    {
+      "document_number": "415713/03-09-2020",
+      "protocol_number": "36649/Φ610/31-08-2020",
+      "type": "Άδεια Κατασκευής  Κεραίας",
+      "file_url": "https://silia.eett.gr/silia/download/1a4d87ad-75ee-43f0-86d4-bac6f3e0754f"
+    },
+    {
+      "document_number": "415244/24-08-2020",
+      "protocol_number": "ΣΥΝΟΔΕΥΤΙΚΑ ΕΓΓΡΑΦΑ/",
+      "type": "Δήλωση υπαγωγής σε ΠΠΔ και Συνοδευτικά Έγγραφα",
+      "file_url": "https://silia.eett.gr/silia/download/a3675cdf-265b-436f-95de-81fff621d927"
+    },
+    {
+      "document_number": "415245/24-08-2020",
+      "protocol_number": "Αρχείο Αίτησης/",
+      "type": "Δήλωση ΠΠΔ",
+      "file_url": "https://silia.eett.gr/silia/download/420ec24f-9a7d-4887-a6ea-db306323088a"
+    }
+  ]
+}

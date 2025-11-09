@@ -1,0 +1,45 @@
+{
+  "antenna_id": "141167",
+  "address": "ΠΑΛΑΙΟΣ ΠΑΝΤΕΛΕΗΜΩΝ",
+  "position_code": 440017,
+  "municipality": "Δίου - Ολύμπου",
+  "code_name": "ΠΑΛΑΙΟΣ ΠΑΝΤΕΛΕΗΜΩΝ",
+  "region": "Κεντρικής Μακεδονίας",
+  "latitude": 39.990556,
+  "company": "OTE",
+  "longitude": 22.57,
+  "permit_status": "Από τα στοιχεία που τηρούνται στην Ενημερωτική Πύλη προκύπτει ότι, για τη θέση \"ΠΑΛΑΙΟΣ ΠΑΝΤΕΛΕΗΜΩΝ\" στον Δήμο Δίου - Ολύμπου Περιφέρειας  Κεντρικής Μακεδονίας \n\t(κωδικός αριθμός θέσης 0440017, κωδική ονομασία \"ΠΑΛΑΙΟΣ ΠΑΝΤΕΛΕΗΜΩΝ\") έχει κατατεθεί από την εταιρία OTE\tδήλωση εγκατάστασης κατασκευής κεραίας (αριθ. πρωτ. \n\t38566/07-05-2020) που εμπίπτει στις διατάξεις της νομοθεσίας για Εγκαταστάσεις Κατασκευών Κεραιών Χαμηλής Ηλεκτρομαγνητικής Περιβαλλοντικής Όχλησης (ΕΚΚΧΟ).",
+  "measurements_eaee": "-",
+  "documents": [
+    {
+      "document_number": "359070/25-02-2019",
+      "protocol_number": "ΣΚΑΡΙΦΗΜΑ/",
+      "type": "Φωτογραφικό Υλικό - Σκαρίφημα",
+      "file_url": "https://silia.eett.gr/silia/download/86760a2b-38c9-4ff7-aca0-fab2a24551ca"
+    },
+    {
+      "document_number": "359152/25-02-2019",
+      "protocol_number": "4063/31-12-2013",
+      "type": "Γνωμοδότηση Υπηρεσίας Νεωτέρων Μνημείων",
+      "file_url": "https://silia.eett.gr/silia/download/1b2c2f34-a5c4-4745-bc01-079268968421"
+    },
+    {
+      "document_number": "359153/25-02-2019",
+      "protocol_number": "5332/12-11-2013",
+      "type": "Γνωμοδότηση ΕΒΑ",
+      "file_url": "https://silia.eett.gr/silia/download/e48ce4a7-0d6c-4a25-8bb5-07586ef2ad23"
+    },
+    {
+      "document_number": "359154/25-02-2019",
+      "protocol_number": "693/21-03-2014",
+      "type": "Γνωμοδότηση ΕΠΚΑ",
+      "file_url": "https://silia.eett.gr/silia/download/8452fa78-c760-47f9-83d7-876efe9d08d9"
+    },
+    {
+      "document_number": "404532/07-05-2020",
+      "protocol_number": "Αρχείο Αίτησης/",
+      "type": "Δήλωση ΕΚΚΧΟ",
+      "file_url": "https://silia.eett.gr/silia/download/2ec45464-7d88-4214-bf6a-e365cf79dfd5"
+    }
+  ]
+}

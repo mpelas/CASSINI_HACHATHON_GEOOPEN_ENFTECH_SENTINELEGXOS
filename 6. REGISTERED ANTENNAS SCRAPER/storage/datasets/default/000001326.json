@@ -1,0 +1,51 @@
+{
+  "antenna_id": "176123",
+  "address": "Ανδρομάνας 2, Δεσκάτη.",
+  "position_code": 1142875,
+  "municipality": "Δεσκάτης",
+  "code_name": "3032875 SYZEFXIS DIMARCHIO DESKATIS",
+  "region": "Δυτικής Μακεδονίας",
+  "latitude": 39.925278,
+  "company": "VODAFONE",
+  "longitude": 21.805833,
+  "permit_status": "Από τα στοιχεία που τηρούνται στην Ενημερωτική Πύλη προκύπτει ότι, για τη θέση \"Ανδρομάνας 2, Δεσκάτη.\" στον Δήμο Δεσκάτης Περιφέρειας  Δυτικής Μακεδονίας \n\t(κωδικός αριθμός θέσης 1142875, κωδική ονομασία \"3032875 SYZEFXIS DIMARCHIO DESKATIS\") έχει κατατεθεί από την εταιρία VODAFONE\tδήλωση εγκατάστασης κατασκευής κεραίας (αριθ. πρωτ. \n\t58210/06-11-2024) που εμπίπτει στις διατάξεις της νομοθεσίας για Εγκαταστάσεις Κατασκευών Κεραιών Χαμηλής Ηλεκτρομαγνητικής Περιβαλλοντικής Όχλησης (ΕΚΚΧΟ).",
+  "measurements_eaee": "-",
+  "documents": [
+    {
+      "document_number": "530984/31-10-2024",
+      "protocol_number": "Φωτορεαλιστική απεικόνιση κεραίας ΕΚΚΧΟ/31-10-2024",
+      "type": "Φωτογραφικό Υλικό - Σκαρίφημα",
+      "file_url": "https://silia.eett.gr/silia/download/MUYH97Bq9ViWarR7GfhyNuZhFL2n4reRGOf1"
+    },
+    {
+      "document_number": "530985/31-10-2024",
+      "protocol_number": "Ψηφιακός χάρτης με προβολή της θέσης ΕΚΚΧΟ/31-10-2024",
+      "type": "Φωτογραφικό Υλικό - Σκαρίφημα",
+      "file_url": "https://silia.eett.gr/silia/download/4a7BLNigDr56DftmFzKFtiG6uyQfnP46YUGM"
+    },
+    {
+      "document_number": "530987/31-10-2024",
+      "protocol_number": "Σκαρίφημα με περιοχή απαγόρευσης/31-10-2024",
+      "type": "Φωτογραφικό Υλικό - Σκαρίφημα",
+      "file_url": "https://silia.eett.gr/silia/download/Xuvx071N7K30igFIDwpFSbsqFEA5C03rZRto"
+    },
+    {
+      "document_number": "531560/06-11-2024",
+      "protocol_number": "ΜΕΛΕΤΗ ΕΚΚΧΟ/06-11-2024",
+      "type": "Άλλο",
+      "file_url": "https://silia.eett.gr/silia/download/0lG92p9GFksLp9Vt0uDVyvMG0sp31sgwKou6"
+    },
+    {
+      "document_number": "531561/06-11-2024",
+      "protocol_number": "Αρχείο Αίτησης/06-11-2024",
+      "type": "Δήλωση ΕΚΚΧΟ",
+      "file_url": "https://silia.eett.gr/silia/download/KCwGOrMZozGoe8IDa0m6igLdutcFO1E78HSV"
+    },
+    {
+      "document_number": "537076/07-01-2025",
+      "protocol_number": "ΥΔ ΕΓΚΑΤΑΣΤΑΣΗΣ/07-01-2025",
+      "type": "Άλλο",
+      "file_url": "https://silia.eett.gr/silia/download/u8ge7s9ek9D8QnenKBKSCdq2SEobAd9rwwQb"
+    }
+  ]
+}

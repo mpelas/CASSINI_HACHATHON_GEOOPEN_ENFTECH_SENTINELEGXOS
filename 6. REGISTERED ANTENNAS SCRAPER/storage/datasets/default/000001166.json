@@ -1,0 +1,33 @@
+{
+  "antenna_id": "143200",
+  "address": "ΛΕΩΦ. ΔΗΜΑΡΧΟΥ ΑΓΓΕΛΟΥ ΜΕΤΑΞΑ 10",
+  "position_code": 1124214,
+  "municipality": "Γλυφάδας",
+  "code_name": "METAXA AVE GLYFADA REL",
+  "region": "Αττικής",
+  "latitude": 37.862778,
+  "company": "VODAFONE",
+  "longitude": 23.750556,
+  "permit_status": "Από τα στοιχεία που τηρούνται στην Ενημερωτική Πύλη προκύπτει ότι, για τη θέση \"ΛΕΩΦ. ΔΗΜΑΡΧΟΥ ΑΓΓΕΛΟΥ ΜΕΤΑΞΑ 10\" στον Δήμο Γλυφάδας Περιφέρειας  Αττικής \n\t(κωδικός αριθμός θέσης 1124214, κωδική ονομασία \"METAXA AVE GLYFADA REL\") έχει κατατεθεί από την εταιρία VODAFONE\tδήλωση εγκατάστασης κατασκευής κεραίας (αριθ. πρωτ. \n\t33644/18-07-2019) που εμπίπτει στις διατάξεις της νομοθεσίας για Εγκαταστάσεις Κατασκευών Κεραιών Χαμηλής Ηλεκτρομαγνητικής Περιβαλλοντικής Όχλησης (ΕΚΚΧΟ).",
+  "measurements_eaee": "-",
+  "documents": [
+    {
+      "document_number": "370894/17-07-2019",
+      "protocol_number": "ΦΩΤΟΓΡΑΦΙΑ ΘΕΣΗΣ ΚΕΡΑΙΩΝ ΕΚΚΧΟ 1 & 2/",
+      "type": "Φωτογραφικό Υλικό - Σκαρίφημα",
+      "file_url": "https://silia.eett.gr/silia/download/bd8e8a49-0753-44bf-9502-d3500b4ad03f"
+    },
+    {
+      "document_number": "370959/18-07-2019",
+      "protocol_number": "Μελέτη συμβατότητας 2700 MHz VODAFONE/",
+      "type": "Μελέτη για τη ζώνη  2,6GHz",
+      "file_url": "https://silia.eett.gr/silia/download/7cdd3807-70d5-4634-aadd-28fc1e281a21"
+    },
+    {
+      "document_number": "370961/18-07-2019",
+      "protocol_number": "Αρχείο Αίτησης/",
+      "type": "Δήλωση ΕΚΚΧΟ",
+      "file_url": "https://silia.eett.gr/silia/download/bde7e398-31c3-4a9a-8dfa-5495e80dc5c0"
+    }
+  ]
+}

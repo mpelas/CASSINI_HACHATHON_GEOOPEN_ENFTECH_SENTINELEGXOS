@@ -1,0 +1,39 @@
+{
+  "antenna_id": "152647",
+  "address": "ΧΑΜΕΖΙ, Δ. ΣΗΤΕΙΑΣ, Π.Ε. ΛΑΣΙΘΙΟΥ, ΠΕΡΙΦ. ΚΡΗΤΗΣ",
+  "position_code": 3207400,
+  "municipality": "Σητείας",
+  "code_name": "ΧΑΜΕΖΙ-Δ",
+  "region": "Κρήτης",
+  "latitude": 35.184722,
+  "company": "ΕΡΤ ΑΕ",
+  "longitude": 26.009722,
+  "permit_status": "Από τα στοιχεία που τηρούνται στην Ενημερωτική Πύλη προκύπτει ότι για τη  θέση \"ΧΑΜΕΖΙ, Δ. ΣΗΤΕΙΑΣ, Π.Ε. ΛΑΣΙΘΙΟΥ, ΠΕΡΙΦ. ΚΡΗΤΗΣ\" στον Δήμο Σητείας Περιφέρειας  Κρήτης έχει κατατεθεί από την εταιρία ΕΡΤ ΑΕ δήλωση δομικών κατασκευών κεραιών  \nμε αριθ. πρωτ. ΣΗΛΥΑ 38219/10-04-2020 κατά τα οριζόμενα στην παρ. 7 του άρθρου 34 του Ν.4635/2019.",
+  "measurements_eaee": "-",
+  "documents": [
+    {
+      "document_number": "401198/04-04-2020",
+      "protocol_number": "δορυφορική λήψη και στοιχεία δομικών κατασκευών/",
+      "type": "Άλλο",
+      "file_url": "https://silia.eett.gr/silia/download/560a9069-d953-4078-8c8f-a99e8b59b811"
+    },
+    {
+      "document_number": "401199/04-04-2020",
+      "protocol_number": "απογραφή 1987/",
+      "type": "Άλλο",
+      "file_url": "https://silia.eett.gr/silia/download/37fab68b-bcc3-48d7-83af-bf8d7e9033f4"
+    },
+    {
+      "document_number": "401200/04-04-2020",
+      "protocol_number": "πίνακας 49 απογραφής ΕΡΤ 1987/",
+      "type": "Άλλο",
+      "file_url": "https://silia.eett.gr/silia/download/1b90f883-8fcf-4a5f-ae9b-de0e6da4f01d"
+    },
+    {
+      "document_number": "402041/10-04-2020",
+      "protocol_number": "Αρχείο Αίτησης/",
+      "type": "Δήλωση Δομικών ΕΡΤ",
+      "file_url": "https://silia.eett.gr/silia/download/932d9463-19dd-4925-bf39-8f266a84de67"
+    }
+  ]
+}

@@ -1,0 +1,63 @@
+{
+  "antenna_id": "171198",
+  "address": "ΧΩΡΑ ΣΙΦΝΟΥ",
+  "position_code": 1212333,
+  "municipality": "Σίφνου",
+  "code_name": "SIFNOS HORA",
+  "region": "Νοτίου Αιγαίου",
+  "latitude": 36.969722,
+  "company": "NOVA Μ.Α.Ε.",
+  "longitude": 24.723611,
+  "permit_status": "Από τα στοιχεία που τηρούνται στην Ενημερωτική Πύλη προκύπτει ότι, για τη θέση \"ΧΩΡΑ ΣΙΦΝΟΥ\" στον Δήμο Σίφνου Περιφέρειας  Νοτίου Αιγαίου \n\t(κωδικός αριθμός θέσης 1212333, κωδική ονομασία \"SIFNOS HORA\") έχει κατατεθεί από την εταιρία NOVA Μ.Α.Ε.\tδήλωση εγκατάστασης κατασκευής κεραίας (αριθ. πρωτ. \n\t54072/04-12-2023) που εμπίπτει στις διατάξεις της νομοθεσίας για Εγκαταστάσεις Κατασκευών Κεραιών Χαμηλής Ηλεκτρομαγνητικής Περιβαλλοντικής Όχλησης (ΕΚΚΧΟ).",
+  "measurements_eaee": "-",
+  "documents": [
+    {
+      "document_number": "501631/27-11-2023",
+      "protocol_number": "ΑΠΕΙΚΟΝΙΣΗ GOOGLE EARTH/",
+      "type": "Άλλο",
+      "file_url": "https://silia.eett.gr/silia/download/92d4a32a-29f8-4666-bfe3-6f8114893a0b"
+    },
+    {
+      "document_number": "501633/27-11-2023",
+      "protocol_number": "ΣΚΑΡΙΦΗΜΑ ΕΚΚΧΟ/",
+      "type": "Φωτογραφικό Υλικό - Σκαρίφημα",
+      "file_url": "https://silia.eett.gr/silia/download/a4737ba9-e858-43a3-a5a0-faa798514ff7"
+    },
+    {
+      "document_number": "501634/27-11-2023",
+      "protocol_number": "184252/20-06-2023",
+      "type": "Γνωμοδότηση Υπηρεσίας Νεωτέρων Μνημείων",
+      "file_url": "https://silia.eett.gr/silia/download/68c458d3-024e-4d95-9f13-1a383e38e010"
+    },
+    {
+      "document_number": "501635/28-11-2023",
+      "protocol_number": "ΣΚΑΡΙΦΗΜΑ ΕΚΚΧΟ/",
+      "type": "Φωτογραφικό Υλικό - Σκαρίφημα",
+      "file_url": "https://silia.eett.gr/silia/download/a9f597ce-bb9a-41ae-bf2c-d08a96a53343"
+    },
+    {
+      "document_number": "501636/28-11-2023",
+      "protocol_number": "ΦΩΤΟΓΡΑΦΙΑ ΕΚΚΧΟ/",
+      "type": "Φωτογραφικό Υλικό - Σκαρίφημα",
+      "file_url": "https://silia.eett.gr/silia/download/68df942e-3ba9-47b9-83f5-18b9f0e3b277"
+    },
+    {
+      "document_number": "502416/04-12-2023",
+      "protocol_number": "ΜΕΛΕΤΗ ΕΚΚΧΟ/",
+      "type": "Άλλο",
+      "file_url": "https://silia.eett.gr/silia/download/88ba1c67-a208-4065-a764-88102a48f897"
+    },
+    {
+      "document_number": "502417/04-12-2023",
+      "protocol_number": "ΥΠΕΥΘΥΝΗ ΔΗΛΩΣΗ ΚΟΙΝΗΣ ΧΡΗΣΗΣ VODAFONE/",
+      "type": "Άλλο",
+      "file_url": "https://silia.eett.gr/silia/download/833eb295-ea2b-4973-ae5e-ddd45fa07296"
+    },
+    {
+      "document_number": "502435/04-12-2023",
+      "protocol_number": "Αρχείο Αίτησης/",
+      "type": "Δήλωση ΕΚΚΧΟ",
+      "file_url": "https://silia.eett.gr/silia/download/a6ae22ce-ef98-4440-a698-3fb88a29e5e2"
+    }
+  ]
+}

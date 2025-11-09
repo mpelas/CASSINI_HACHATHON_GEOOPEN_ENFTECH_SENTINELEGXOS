@@ -1,0 +1,39 @@
+{
+  "antenna_id": "179335",
+  "address": "ΣΤΑΜΑΤΗ ΔΑΜΑΣΚΟΥ 12, ΑΧΑΡΝΕΣ (ΜΕΝΙΔΙ)-ΛΟΥΤΡΟ, Ν. ΑΤΤΙΚΗΣ",
+  "position_code": 1497156,
+  "municipality": "Αχαρνών",
+  "code_name": "MEGA_EURONICS",
+  "region": "Αττικής",
+  "latitude": 38.078333,
+  "company": "OTE",
+  "longitude": 23.751667,
+  "permit_status": "Από τα στοιχεία που τηρούνται στην Ενημερωτική Πύλη προκύπτει ότι, για τη θέση \"ΣΤΑΜΑΤΗ ΔΑΜΑΣΚΟΥ 12, ΑΧΑΡΝΕΣ (ΜΕΝΙΔΙ)-ΛΟΥΤΡΟ, Ν. ΑΤΤΙΚΗΣ\t\" στον Δήμο Αχαρνών Περιφέρειας  Αττικής \n\t(κωδικός αριθμός θέσης 1497156, κωδική ονομασία \"MEGA_EURONICS\") έχει κατατεθεί από την εταιρία OTE\tδήλωση εγκατάστασης κατασκευής κεραίας (αριθ. πρωτ. \n\t60901/05-05-2025) που εμπίπτει στις διατάξεις της νομοθεσίας για Εγκαταστάσεις Κατασκευών Κεραιών Χαμηλής Ηλεκτρομαγνητικής Περιβαλλοντικής Όχλησης (ΕΚΚΧΟ).",
+  "measurements_eaee": "-",
+  "documents": [
+    {
+      "document_number": "548319/05-05-2025",
+      "protocol_number": "ΦΩΤΟΓΡΑΦΙΑ/05-05-2025",
+      "type": "Φωτογραφικό Υλικό - Σκαρίφημα",
+      "file_url": "https://silia.eett.gr/silia/download/qGgvtagE0g6lxe4iGyW1b89cVdF8Srh9g1Un"
+    },
+    {
+      "document_number": "548320/05-05-2025",
+      "protocol_number": "ΜΕΛΕΤΗ/05-05-2025",
+      "type": "Αίτηση - Μελέτη Ραδιοεκπομπών ΕΕΑΕ",
+      "file_url": "https://silia.eett.gr/silia/download/FBkPg95vSDvyGzlkuR85yRmE6FIbxCOgqILA"
+    },
+    {
+      "document_number": "548321/05-05-2025",
+      "protocol_number": "Αρχείο Αίτησης/05-05-2025",
+      "type": "Δήλωση ΕΚΚΧΟ",
+      "file_url": "https://silia.eett.gr/silia/download/EDTibho9GQwSKBY7cRzn50Sf9H5LE9mfa69P"
+    },
+    {
+      "document_number": "556456/25-07-2025",
+      "protocol_number": "ΥΠ.ΔΗΛΩΣΗ/25-07-2025",
+      "type": "Άλλο",
+      "file_url": "https://silia.eett.gr/silia/download/FVMS2BTxQSKKInVgcoaErQy3Y4s47mVMQtvd"
+    }
+  ]
+}

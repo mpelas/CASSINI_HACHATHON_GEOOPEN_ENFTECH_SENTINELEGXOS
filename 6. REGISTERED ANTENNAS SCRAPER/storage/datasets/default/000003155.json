@@ -1,0 +1,99 @@
+{
+  "antenna_id": "177721",
+  "address": "ΑΓΡΟΤΙΚΗ ΠΕΡΟΧΗ 900 μ. ΒΟΡΕΙΟΔΥΤΙΚΑ ΤΟΥ ΟΙΚΙΣΜΟΥ ΛΕΥΚΩΝΑ",
+  "position_code": 8002063,
+  "municipality": "Σερρών",
+  "code_name": "ΛΕΥΚΩΝΑΣ-63",
+  "region": "Κεντρικής Μακεδονίας",
+  "latitude": 41.113333,
+  "company": "ERMIS-WISP",
+  "longitude": 23.486111,
+  "permit_status": "Από τα στοιχεία που τηρούνται στην Ενημερωτική Πύλη προκύπτει ότι, για τη θέση \"ΑΓΡΟΤΙΚΗ ΠΕΡΟΧΗ 900 μ. ΒΟΡΕΙΟΔΥΤΙΚΑ ΤΟΥ ΟΙΚΙΣΜΟΥ ΛΕΥΚΩΝΑ\" στον Δήμο Σερρών Περιφέρειας  Κεντρικής Μακεδονίας \n\t(κωδικός αριθμός θέσης 8002063, κωδική ονομασία \"ΛΕΥΚΩΝΑΣ-63\") έχει κατατεθεί από την εταιρία ERMIS-WISP\tδήλωση εγκατάστασης κατασκευής κεραίας (αριθ. πρωτ. \n\t59460/19-02-2025) που εμπίπτει στις διατάξεις της νομοθεσίας για Εγκαταστάσεις Κατασκευών Κεραιών Χαμηλής Ηλεκτρομαγνητικής Περιβαλλοντικής Όχλησης (ΕΚΚΧΟ).",
+  "measurements_eaee": "-",
+  "documents": [
+    {
+      "document_number": "541289/19-02-2025",
+      "protocol_number": "ΚΕΡΑΙΑ MIMOSA N5X20/19-02-2025",
+      "type": "Άλλο",
+      "file_url": "https://silia.eett.gr/silia/download/9hdNmXBkk6fbBE5cupwVGqZokZC8Xq3onZHe"
+    },
+    {
+      "document_number": "541290/19-02-2025",
+      "protocol_number": "ΦΩΤΟΡΕΑΛΙΣΤΙΚΟ/19-02-2025",
+      "type": "Φωτογραφικό Υλικό - Σκαρίφημα",
+      "file_url": "https://silia.eett.gr/silia/download/D38les5Gtc6ZDvIgPR6xf4B0PiIg8QiigpmS"
+    },
+    {
+      "document_number": "541291/19-02-2025",
+      "protocol_number": "ΤΟΠΟΓΡΑΦΙΚΟ GOOGLE/19-02-2025",
+      "type": "Τοπογραφικό",
+      "file_url": "https://silia.eett.gr/silia/download/5f7aX28PZ91XsFKEDFCksXRydQ8GFTGpuKna"
+    },
+    {
+      "document_number": "541292/19-02-2025",
+      "protocol_number": "ΚΑΤΟΨΗ/19-02-2025",
+      "type": "Αρχιτεκτονικά [Κάτοψη - Τομή - Όψη]",
+      "file_url": "https://silia.eett.gr/silia/download/k7zoxYBU5zulGHiv5bPQm8A2LfGpEWLNphDL"
+    },
+    {
+      "document_number": "541293/19-02-2025",
+      "protocol_number": "ΚΑΤOΨΗ ΧΩΡΩΝ ΠΡΟΣΤΑΣΙΑΣ/19-02-2025",
+      "type": "Αρχιτεκτονικά [Κάτοψη - Τομή - Όψη]",
+      "file_url": "https://silia.eett.gr/silia/download/mMnCu7Hxif716cMQd97coIGnfnhmGpncgiZv"
+    },
+    {
+      "document_number": "541294/19-02-2025",
+      "protocol_number": "OΨΗ ΧΩΡΩΝ ΠΡΟΣΤΑΣΙΑΣ/19-02-2025",
+      "type": "Αρχιτεκτονικά [Κάτοψη - Τομή - Όψη]",
+      "file_url": "https://silia.eett.gr/silia/download/ikfXIyWo4GkWtbyQGh88rHb9HtyKhaRXyMXG"
+    },
+    {
+      "document_number": "541295/19-02-2025",
+      "protocol_number": "OΨΗ ΙΣΤΟΥ/19-02-2025",
+      "type": "Αρχιτεκτονικά [Κάτοψη - Τομή - Όψη]",
+      "file_url": "https://silia.eett.gr/silia/download/OeVwd3kucGZcL50bz12Gdoi9pKvRd46z2NKR"
+    },
+    {
+      "document_number": "541296/19-02-2025",
+      "protocol_number": "ΚΕΡΑΙΑ Mimosa-N5-45-x4/19-02-2025",
+      "type": "Άλλο",
+      "file_url": "https://silia.eett.gr/silia/download/GTlZWdCApweM8oOyAcXSs1frMs7Pqf9AUfYy"
+    },
+    {
+      "document_number": "541297/19-02-2025",
+      "protocol_number": "ΚΕΡΑΙΑ Mimosa-N5-45x2/19-02-2025",
+      "type": "Άλλο",
+      "file_url": "https://silia.eett.gr/silia/download/ohiGVlf5gDqtVa2D44yX06geho7pPkYvPZDv"
+    },
+    {
+      "document_number": "541298/19-02-2025",
+      "protocol_number": "ΚΕΡΑΙΑ FIA-06-710SW/19-02-2025",
+      "type": "Άλλο",
+      "file_url": "https://silia.eett.gr/silia/download/R9UQpO296vw7bNZEFg2ZNt4kILIrSoRBbQAc"
+    },
+    {
+      "document_number": "541299/19-02-2025",
+      "protocol_number": "ΚΕΡΑΙΑ ANT-JRMC-900-17-18R/19-02-2025",
+      "type": "Άλλο",
+      "file_url": "https://silia.eett.gr/silia/download/Uau0Tvr9ElHUmDwPfpWbw2H1s3y6E4ZYgkGn"
+    },
+    {
+      "document_number": "541300/19-02-2025",
+      "protocol_number": "Αρχείο Αίτησης/19-02-2025",
+      "type": "Δήλωση ΕΚΚΧΟ",
+      "file_url": "https://silia.eett.gr/silia/download/96zgh7r0yxmzqI0CRmHiz5SgHog5IgnC0kKv"
+    },
+    {
+      "document_number": "543410/11-03-2025",
+      "protocol_number": "ΥΠΕΥΘΥΝΗ ΔΗΛΩΣΗ/11-03-2025",
+      "type": "Άλλο",
+      "file_url": "https://silia.eett.gr/silia/download/8FtVx3IT9Ks72EcadCcY96hFv6CntFDBzKwG"
+    },
+    {
+      "document_number": "546375/09-04-2025",
+      "protocol_number": "ΣΗΛΥΑ 8002063/08-04-2025",
+      "type": "Μελέτη Ραδιοεκπομπών",
+      "file_url": "https://silia.eett.gr/silia/download/bG5QlbX0v9m6ZgwmgCKghw8sU6m5ZGqbwDgm"
+    }
+  ]
+}

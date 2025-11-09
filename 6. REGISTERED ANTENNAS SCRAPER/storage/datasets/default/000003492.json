@@ -1,0 +1,75 @@
+{
+  "antenna_id": "167911",
+  "address": "ΠΛΑΤΩΝΟΣ 3 (Ο.Τ. 667), ΟΙΚΟΔΟΜΙΚΟΣ ΣΥΝΑΙΤΕΡΙΣΜΟΣ \"Ο ΚΟΛΟΚΟΤΡΩΝΗΣ\"",
+  "position_code": 1405059,
+  "municipality": "Τρίπολης",
+  "code_name": "TRIPOLI ENTER",
+  "region": "Πελοποννήσου",
+  "latitude": 37.505556,
+  "company": "OTE",
+  "longitude": 22.394722,
+  "permit_status": "Από τα στοιχεία που τηρούνται στην Ενημερωτική Πύλη προκύπτει ότι, για τη θέση \"ΠΛΑΤΩΝΟΣ 3 (Ο.Τ. 667), ΟΙΚΟΔΟΜΙΚΟΣ ΣΥΝΑΙΤΕΡΙΣΜΟΣ \"Ο ΚΟΛΟΚΟΤΡΩΝΗΣ\"\" στον Δήμο Τρίπολης Περιφέρειας  Πελοποννήσου \n\t(κωδικός αριθμός θέσης 1405059, κωδική ονομασία \"TRIPOLI ENTER\") χορηγήθηκε, με την Απόφαση της ΕΕΤΤ \n48274/06-06-2023, άδεια κατασκευής κεραίας στην εταιρία OTE. \nΑπό τo έγγραφο της άδειας μπορείτε να ενημερωθείτε για τις σχετικές εγκρίσεις των συναρμόδιων φορέων, καθώς και εάν πρόκειται για τροποποίηση παλαιότερης άδειας.\n\tΣύμφωνα με τα στοιχεία που έχουν υποβληθεί στο ΣΗΛΥΑ, ο κάτοχος της κατασκευής κεραίας έχει δηλώσει ότι θα προβεί σε έκδοση έγκρισης δομικών κατασκευών \n\t\tκεραίας μέσω του e-Άδειες \n\t\tμετά την έκδοση της άδειας κατασκευής κεραίας / δημοσιοποίηση της δήλωσης τροποποίησης της κατασκευής κεραίας",
+  "measurements_eaee": "-",
+  "documents": [
+    {
+      "document_number": "482241/10-04-2023",
+      "protocol_number": "ΜΕΣΩ ΣΗΛΥΑ    /",
+      "type": "Τοπογραφικό",
+      "file_url": "https://silia.eett.gr/silia/download/be36080e-0988-4bb3-bb6b-3124d9e16b95"
+    },
+    {
+      "document_number": "482242/10-04-2023",
+      "protocol_number": "ΜΕΣΩ ΣΗΛΥΑ    /",
+      "type": "Αρχιτεκτονικά Σχέδια",
+      "file_url": "https://silia.eett.gr/silia/download/ac87af56-4d07-4b3b-b5bb-95afb908e444"
+    },
+    {
+      "document_number": "482243/10-04-2023",
+      "protocol_number": "ΜΕΣΩ ΣΗΛΥΑ    /27-01-2023",
+      "type": "Αίτηση - Μελέτη Ραδιοεκπομπών ΕΕΑΕ",
+      "file_url": "https://silia.eett.gr/silia/download/c33dc23f-2749-4ef8-a3f4-b56993aa883b"
+    },
+    {
+      "document_number": "482244/10-04-2023",
+      "protocol_number": "Φ.550/Α.Δ.2893Σ.544/06-03-2023",
+      "type": "Γνωμάτευση ΓΕΑ",
+      "file_url": "https://silia.eett.gr/silia/download/187e192f-2a4a-40a2-9352-9952888407ec"
+    },
+    {
+      "document_number": "482245/10-04-2023",
+      "protocol_number": "Αρχείο Αίτησης/",
+      "type": "Αίτηση Άδειας Κατασκευής Κεραίας ΕΕΤΤ",
+      "file_url": "https://silia.eett.gr/silia/download/ae9b8a48-ccb4-4b58-a9d4-7e65a659567e"
+    },
+    {
+      "document_number": "482638/20-04-2023",
+      "protocol_number": "ΚΓ/Δ3/Δ/8258/20-04-2023",
+      "type": "Γνωμάτευση ΥΠΑ",
+      "file_url": "https://silia.eett.gr/silia/download/66de1405-a128-45c2-8fe4-d4ed872db1be"
+    },
+    {
+      "document_number": "485912/26-05-2023",
+      "protocol_number": "TMIA/411/6857/2023/26-05-2023",
+      "type": "Γνωμάτευση ΕΕΑΕ",
+      "file_url": "https://silia.eett.gr/silia/download/f21a35d2-c681-4552-ad17-65b2a5a03490"
+    },
+    {
+      "document_number": "487432/08-06-2023",
+      "protocol_number": "48274/06-06-2023",
+      "type": "Άδεια Κατασκευής  Κεραίας",
+      "file_url": "https://silia.eett.gr/silia/download/9f7dbdab-530f-4409-9b3d-d3f069d45d2d"
+    },
+    {
+      "document_number": "482230/10-04-2023",
+      "protocol_number": "ΣΥΝΟΔΕΥΤΙΚΑ ΕΓΓΡΑΦΑ/",
+      "type": "Δήλωση υπαγωγής σε ΠΠΔ και Συνοδευτικά Έγγραφα",
+      "file_url": "https://silia.eett.gr/silia/download/78cfce75-3688-40fe-946d-5e486aeb3fae"
+    },
+    {
+      "document_number": "482246/10-04-2023",
+      "protocol_number": "Αρχείο Αίτησης/",
+      "type": "Δήλωση ΠΠΔ",
+      "file_url": "https://silia.eett.gr/silia/download/569f2761-f01f-40c9-bc4a-8d9167386ff4"
+    }
+  ]
+}

@@ -1,0 +1,81 @@
+{
+  "antenna_id": "162191",
+  "address": "ΎΨΩΜΑ «ΚΟΡΑΣΙΔΑ», ΤΟΠΙΚΗ ΚΟΙΝΟΤΗΤΑ ΠΕΛΑΣΓΙΑΣ",
+  "position_code": 1002399,
+  "municipality": "Στυλίδας",
+  "code_name": "ΠΕΛΑΣΓΙΑ",
+  "region": "Στερεάς Ελλάδας",
+  "latitude": 38.9375,
+  "company": "VODAFONE",
+  "longitude": 22.851944,
+  "permit_status": "Από τα στοιχεία που τηρούνται στην Ενημερωτική Πύλη προκύπτει ότι, για τη θέση \"ΎΨΩΜΑ «ΚΟΡΑΣΙΔΑ», ΤΟΠΙΚΗ ΚΟΙΝΟΤΗΤΑ ΠΕΛΑΣΓΙΑΣ\" στον Δήμο Στυλίδας Περιφέρειας  Στερεάς Ελλάδας \n\t(κωδικός αριθμός θέσης 1002399, κωδική ονομασία \"ΠΕΛΑΣΓΙΑ\") χορηγήθηκε, με την Απόφαση της ΕΕΤΤ \n49617/02-11-2023, άδεια κατασκευής κεραίας στην εταιρία VODAFONE. \nΑπό τo έγγραφο της άδειας μπορείτε να ενημερωθείτε για τις σχετικές εγκρίσεις των συναρμόδιων φορέων, καθώς και εάν πρόκειται για τροποποίηση παλαιότερης άδειας.",
+  "measurements_eaee": "-",
+  "documents": [
+    {
+      "document_number": "450478/02-02-2022",
+      "protocol_number": "Τοπογραφικό Διάγραμμα/",
+      "type": "Τοπογραφικό",
+      "file_url": "https://silia.eett.gr/silia/download/5f4074b0-eb19-4ded-b571-369773b809ba"
+    },
+    {
+      "document_number": "450479/02-02-2022",
+      "protocol_number": "Αρχιτεκτονική Μελέτη/",
+      "type": "Αρχιτεκτονικά Σχέδια",
+      "file_url": "https://silia.eett.gr/silia/download/b7950674-b1bb-479d-8217-77447c787c93"
+    },
+    {
+      "document_number": "450480/02-02-2022",
+      "protocol_number": "Μελέτη ραδιοεκπομπών/21-01-2022",
+      "type": "Αίτηση - Μελέτη Ραδιοεκπομπών ΕΕΑΕ",
+      "file_url": "https://silia.eett.gr/silia/download/c1276095-f9e9-4bf6-884d-300d930377a3"
+    },
+    {
+      "document_number": "450481/02-02-2022",
+      "protocol_number": "9461/01-02-2022",
+      "type": "Αποτελέσματα μελέτης στη ζώνης 2.6GHz για ΥΠΑ/ΓΕΕΘΑ",
+      "file_url": "https://silia.eett.gr/silia/download/f50db4ba-3512-4f26-80ff-fcdfc55e75f5"
+    },
+    {
+      "document_number": "450483/02-02-2022",
+      "protocol_number": "Αρχείο Αίτησης/",
+      "type": "Αίτηση Άδειας Κατασκευής Κεραίας ΕΕΤΤ",
+      "file_url": "https://silia.eett.gr/silia/download/6c2a866f-087c-453a-942f-048034123b9c"
+    },
+    {
+      "document_number": "456459/12-04-2022",
+      "protocol_number": "Μ.ι./411/4641/2022/12-04-2022",
+      "type": "Γνωμάτευση ΕΕΑΕ",
+      "file_url": "https://silia.eett.gr/silia/download/b2a0ada2-8763-4b3b-9b72-8a8b32afb2ce"
+    },
+    {
+      "document_number": "464923/28-07-2022",
+      "protocol_number": "ΚΓ/Δ3/Δ/20004/28-07-2022",
+      "type": "Γνωμάτευση ΥΠΑ",
+      "file_url": "https://silia.eett.gr/silia/download/6b749a37-8df9-4221-b236-f42e0531f9aa"
+    },
+    {
+      "document_number": "499790/03-11-2023",
+      "protocol_number": "49617/02-11-2023",
+      "type": "Άδεια Κατασκευής  Κεραίας",
+      "file_url": "https://silia.eett.gr/silia/download/82c26d2e-e4eb-4e03-8e88-2f00429195d1"
+    },
+    {
+      "document_number": "475979/10-01-2023",
+      "protocol_number": "Μελέτη ραδιοεκπομπών/21-01-2022",
+      "type": "Αίτηση - Μελέτη Ραδιοεκπομπών ΕΕΑΕ",
+      "file_url": "https://silia.eett.gr/silia/download/c1276095-f9e9-4bf6-884d-300d930377a3"
+    },
+    {
+      "document_number": "494085/12-09-2023",
+      "protocol_number": "Συνοδευτικά Έγγραφα ΠΠΔ/",
+      "type": "Δήλωση υπαγωγής σε ΠΠΔ και Συνοδευτικά Έγγραφα",
+      "file_url": "https://silia.eett.gr/silia/download/40b032cf-3a46-481b-aa7a-827f21aee29f"
+    },
+    {
+      "document_number": "494086/12-09-2023",
+      "protocol_number": "Αρχείο Αίτησης/",
+      "type": "Δήλωση ΠΠΔ",
+      "file_url": "https://silia.eett.gr/silia/download/96d5fe8d-21ee-47c5-97d2-214c16ed89c1"
+    }
+  ]
+}

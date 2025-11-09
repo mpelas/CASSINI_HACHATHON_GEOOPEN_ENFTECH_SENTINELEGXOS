@@ -1,0 +1,45 @@
+{
+  "antenna_id": "168646",
+  "address": "ΓΕΩΡΓΙΑΝΗ ΚΑΒΑΛΑΣ",
+  "position_code": 1498544,
+  "municipality": "Παγγαίου",
+  "code_name": "GEORGIANI_TK",
+  "region": "Ανατ. Μακεδονίας και Θράκης",
+  "latitude": 40.960833,
+  "company": "OTE",
+  "longitude": 24.1475,
+  "permit_status": "Από τα στοιχεία που τηρούνται στην Ενημερωτική Πύλη προκύπτει ότι, για τη θέση \"ΓΕΩΡΓΙΑΝΗ ΚΑΒΑΛΑΣ\" στον Δήμο Παγγαίου Περιφέρειας  Ανατ. Μακεδονίας και Θράκης \n\t(κωδικός αριθμός θέσης 1498544, κωδική ονομασία \"GEORGIANI_TK\") έχει κατατεθεί από την εταιρία OTE\tδήλωση εγκατάστασης κατασκευής κεραίας (αριθ. πρωτ. \n\t51984/13-06-2023) που εμπίπτει στις διατάξεις της νομοθεσίας για Εγκαταστάσεις Κατασκευών Κεραιών Χαμηλής Ηλεκτρομαγνητικής Περιβαλλοντικής Όχλησης (ΕΚΚΧΟ).",
+  "measurements_eaee": "-",
+  "documents": [
+    {
+      "document_number": "486352/29-05-2023",
+      "protocol_number": "ΦΩΤΟΓΡΑΦΙΑ/",
+      "type": "Φωτογραφικό Υλικό - Σκαρίφημα",
+      "file_url": "https://silia.eett.gr/silia/download/118b2b36-488e-4150-b62e-5489f0f0494b"
+    },
+    {
+      "document_number": "486353/29-05-2023",
+      "protocol_number": "ΦΩΤΟΓΡΑΦΙΑ/",
+      "type": "Φωτογραφικό Υλικό - Σκαρίφημα",
+      "file_url": "https://silia.eett.gr/silia/download/a581892f-8fea-4bd3-94cb-bbd2d8516ec1"
+    },
+    {
+      "document_number": "487672/12-06-2023",
+      "protocol_number": "ΜΕΣΩ ΣΗΛΥΑ/",
+      "type": "Αίτηση - Μελέτη Ραδιοεκπομπών ΕΕΑΕ",
+      "file_url": "https://silia.eett.gr/silia/download/5b743b7f-221b-411e-b4d1-2ce0348204d0"
+    },
+    {
+      "document_number": "487767/13-06-2023",
+      "protocol_number": "Αρχείο Αίτησης/",
+      "type": "Δήλωση ΕΚΚΧΟ",
+      "file_url": "https://silia.eett.gr/silia/download/ab8974b5-eb57-4e53-a022-65a826a596b9"
+    },
+    {
+      "document_number": "527487/02-10-2024",
+      "protocol_number": "ΥΠ.ΔΗΛΩΣΗ/02-10-2024",
+      "type": "Άλλο",
+      "file_url": "https://silia.eett.gr/silia/download/LSvEkfc2EgscznsXALwu9Wn02t97czpeF3Zq"
+    }
+  ]
+}

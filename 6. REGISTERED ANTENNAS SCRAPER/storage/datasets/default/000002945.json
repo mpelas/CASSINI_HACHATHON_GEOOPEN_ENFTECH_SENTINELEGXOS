@@ -1,0 +1,51 @@
+{
+  "antenna_id": "178289",
+  "address": "ΛΕΩΦ. ΓΕΩΡΓΙΚΗΣ ΣΧΟΛΗΣ 66",
+  "position_code": 1159378,
+  "municipality": "Πυλαίας - Χορτιάτη",
+  "code_name": "3019378 KAYKAS PYLAIA THESSALONIKI",
+  "region": "Κεντρικής Μακεδονίας",
+  "latitude": 40.555,
+  "company": "VODAFONE",
+  "longitude": 22.979167,
+  "permit_status": "Από τα στοιχεία που τηρούνται στην Ενημερωτική Πύλη προκύπτει ότι, για τη θέση \"ΛΕΩΦ. ΓΕΩΡΓΙΚΗΣ ΣΧΟΛΗΣ 66\" στον Δήμο Πυλαίας - Χορτιάτη Περιφέρειας  Κεντρικής Μακεδονίας \n\t(κωδικός αριθμός θέσης 1159378, κωδική ονομασία \"3019378 KAYKAS PYLAIA THESSALONIKI\") έχει κατατεθεί από την εταιρία VODAFONE\tδήλωση εγκατάστασης κατασκευής κεραίας (αριθ. πρωτ. \n\t59926/15-03-2025) που εμπίπτει στις διατάξεις της νομοθεσίας για Εγκαταστάσεις Κατασκευών Κεραιών Χαμηλής Ηλεκτρομαγνητικής Περιβαλλοντικής Όχλησης (ΕΚΚΧΟ).",
+  "measurements_eaee": "-",
+  "documents": [
+    {
+      "document_number": "543900/15-03-2025",
+      "protocol_number": "Φωτορεαλιστική απεικόνιση κεραίας ΕΚΚΧΟ/15-03-2025",
+      "type": "Φωτογραφικό Υλικό - Σκαρίφημα",
+      "file_url": "https://silia.eett.gr/silia/download/8O87IUoLiMPGiBwRxctbmGzsebKT9ADASoCg"
+    },
+    {
+      "document_number": "543901/15-03-2025",
+      "protocol_number": "Ψηφιακός χάρτης με προβολή της θέσης ΕΚΚΧΟ/15-03-2025",
+      "type": "Φωτογραφικό Υλικό - Σκαρίφημα",
+      "file_url": "https://silia.eett.gr/silia/download/XOL3ySqbNVdyGWGGBsOsTkcNFoUHphR4F6qK"
+    },
+    {
+      "document_number": "543902/15-03-2025",
+      "protocol_number": "Σκαρίφημα θέσης κεραίας ΕΚΚΧΟ/15-03-2025",
+      "type": "Φωτογραφικό Υλικό - Σκαρίφημα",
+      "file_url": "https://silia.eett.gr/silia/download/Z9aZ2E43CcvfXhX6bWDK4it9BhhPDYYbWTa9"
+    },
+    {
+      "document_number": "543903/15-03-2025",
+      "protocol_number": "ΜΕΛΕΤΗ ΕΚΚΧΟ/15-03-2025",
+      "type": "Άλλο",
+      "file_url": "https://silia.eett.gr/silia/download/7uAf2ZyfDi2GGTbc6vn3cbrCpRA4ASsLZywq"
+    },
+    {
+      "document_number": "543904/15-03-2025",
+      "protocol_number": "Φ.550/ΑΔ.2383/Σ.559/14-03-2025",
+      "type": "Γνωμάτευση ΓΕΑ",
+      "file_url": "https://silia.eett.gr/silia/download/AvdAuqTzgeTZyI54xTfGHZU864O950wVEGHx"
+    },
+    {
+      "document_number": "543905/15-03-2025",
+      "protocol_number": "Αρχείο Αίτησης/15-03-2025",
+      "type": "Δήλωση ΕΚΚΧΟ",
+      "file_url": "https://silia.eett.gr/silia/download/iw1SwIrOCfh2d9rEfsqWiV8D9qqx9X3xGF3U"
+    }
+  ]
+}

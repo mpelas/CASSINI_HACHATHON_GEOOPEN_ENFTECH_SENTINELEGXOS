@@ -1,0 +1,45 @@
+{
+  "antenna_id": "152424",
+  "address": "ΚΑΤΣΙΚΑΣ-ΙΤΕΑ ΑΜΦΙΣΑ",
+  "position_code": 3207070,
+  "municipality": "Δελφών",
+  "code_name": "ΚΑΤΣΙΚΑΣ-Δ",
+  "region": "Στερεάς Ελλάδας",
+  "latitude": 38.433056,
+  "company": "ΕΡΤ ΑΕ",
+  "longitude": 22.476111,
+  "permit_status": "Από τα στοιχεία που τηρούνται στην Ενημερωτική Πύλη προκύπτει ότι για τη  θέση \"ΚΑΤΣΙΚΑΣ-ΙΤΕΑ ΑΜΦΙΣΑ\" στον Δήμο Δελφών Περιφέρειας  Στερεάς Ελλάδας έχει κατατεθεί από την εταιρία ΕΡΤ ΑΕ δήλωση δομικών κατασκευών κεραιών  \nμε αριθ. πρωτ. ΣΗΛΥΑ 38062/08-04-2020 κατά τα οριζόμενα στην παρ. 7 του άρθρου 34 του Ν.4635/2019.",
+  "measurements_eaee": "-",
+  "documents": [
+    {
+      "document_number": "399819/23-03-2020",
+      "protocol_number": "δορυφορική λήψη και στοιχεία δομικών κατασκευών/",
+      "type": "Άλλο",
+      "file_url": "https://silia.eett.gr/silia/download/a24470b3-1be1-4f2c-9de9-1e4f071b8b90"
+    },
+    {
+      "document_number": "399820/23-03-2020",
+      "protocol_number": "βεβαίωση 1ης ηλεκτροδότησης/",
+      "type": "Άλλο",
+      "file_url": "https://silia.eett.gr/silia/download/8f174469-6d27-45b3-8158-9a17a8bf81e0"
+    },
+    {
+      "document_number": "400661/30-03-2020",
+      "protocol_number": "απογραφή 1987/",
+      "type": "Άλλο",
+      "file_url": "https://silia.eett.gr/silia/download/52b8cfdb-5ccd-43aa-8850-c43b462e30f3"
+    },
+    {
+      "document_number": "400662/30-03-2020",
+      "protocol_number": "πίνακας 49 απογραφής ΕΡΤ 1987/",
+      "type": "Άλλο",
+      "file_url": "https://silia.eett.gr/silia/download/7053fe21-6d6e-4311-b248-3d010d937cf5"
+    },
+    {
+      "document_number": "401661/08-04-2020",
+      "protocol_number": "Αρχείο Αίτησης/",
+      "type": "Δήλωση Δομικών ΕΡΤ",
+      "file_url": "https://silia.eett.gr/silia/download/cb703f87-5eb7-44a7-9bd2-901600753645"
+    }
+  ]
+}

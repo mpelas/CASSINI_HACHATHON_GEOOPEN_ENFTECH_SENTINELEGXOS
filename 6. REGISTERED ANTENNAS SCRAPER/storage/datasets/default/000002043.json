@@ -1,0 +1,45 @@
+{
+  "antenna_id": "125564",
+  "address": "ΕΠΙ ΤΗΣ ΣΥΜΒΟΛΗΣ ΤΗΣ ΠΛ. ΣΥΝΤΑΓΜΑΤΟΣ & ΕΜ. ΜΠΛΕΣΗ",
+  "position_code": 1405775,
+  "municipality": "Ναυπλιέων",
+  "code_name": "SINTNAF MI",
+  "region": "Πελοποννήσου",
+  "latitude": 37.566111,
+  "company": "OTE",
+  "longitude": 22.796667,
+  "permit_status": "Από τα στοιχεία που τηρούνται στην Ενημερωτική Πύλη προκύπτει ότι, για τη θέση \"ΕΠΙ ΤΗΣ ΣΥΜΒΟΛΗΣ ΤΗΣ ΠΛ. ΣΥΝΤΑΓΜΑΤΟΣ & ΕΜ. ΜΠΛΕΣΗ\" στον Δήμο Ναυπλιέων Περιφέρειας  Πελοποννήσου \n\t(κωδικός αριθμός θέσης 1405775, κωδική ονομασία \"SINTNAF MI\") έχει κατατεθεί από την εταιρία OTE\tδήλωση εγκατάστασης κατασκευής κεραίας (αριθ. πρωτ. \n\t20810/13-01-2017) που εμπίπτει στις διατάξεις της νομοθεσίας για Εγκαταστάσεις Κατασκευών Κεραιών Χαμηλής Ηλεκτρομαγνητικής Περιβαλλοντικής Όχλησης (ΕΚΚΧΟ).",
+  "measurements_eaee": "-",
+  "documents": [
+    {
+      "document_number": "284350/11-01-2017",
+      "protocol_number": "ΣΚΑΡΙΦΗΜΑ/",
+      "type": "Φωτογραφικό Υλικό - Σκαρίφημα",
+      "file_url": "https://silia.eett.gr/silia/download/5f7b58d3-c625-4d6c-a6fc-4d84c27f222c"
+    },
+    {
+      "document_number": "284606/13-01-2017",
+      "protocol_number": "Φ5Α/12/3542/16-07-2012",
+      "type": "Γνωμοδότηση ΕΠΚΑ",
+      "file_url": "https://silia.eett.gr/silia/download/b210d3e8-268f-42a1-a43f-70ea2661fb50"
+    },
+    {
+      "document_number": "284607/13-01-2017",
+      "protocol_number": "9164/19-11-2012",
+      "type": "Γνωμοδότηση ΕΒΑ",
+      "file_url": "https://silia.eett.gr/silia/download/bdf9360f-1201-4f8c-b006-1f6a327664e5"
+    },
+    {
+      "document_number": "284608/13-01-2017",
+      "protocol_number": "6157/08-11-2012",
+      "type": "Γνωμοδότηση Υπηρεσίας Νεωτέρων Μνημείων",
+      "file_url": "https://silia.eett.gr/silia/download/2e121580-136c-4eb0-9457-4f1ec9d2a64d"
+    },
+    {
+      "document_number": "284611/13-01-2017",
+      "protocol_number": "Αρχείο Αίτησης/",
+      "type": "Δήλωση ΕΚΚΧΟ",
+      "file_url": "https://silia.eett.gr/silia/download/d5b4a089-7172-4a45-a39c-7798bd3ef7e6"
+    }
+  ]
+}

@@ -1,0 +1,81 @@
+{
+  "antenna_id": "144762",
+  "address": "ΠΛΗΣΙΟΝ ΟΙΚΙΣΜΟΥ ΘΟΥΡΙΟΥ",
+  "position_code": 1403484,
+  "municipality": "Ορεστιάδας",
+  "code_name": "ΘΟΥΡΙΟ - Χ",
+  "region": "Ανατ. Μακεδονίας και Θράκης",
+  "latitude": 41.430833,
+  "company": "OTE",
+  "longitude": 26.551667,
+  "permit_status": "Από τα στοιχεία που τηρούνται στην Ενημερωτική Πύλη προκύπτει ότι, για τη θέση \"ΠΛΗΣΙΟΝ ΟΙΚΙΣΜΟΥ ΘΟΥΡΙΟΥ\" στον Δήμο Ορεστιάδας Περιφέρειας  Ανατ. Μακεδονίας και Θράκης \n\t(κωδικός αριθμός θέσης 1403484, κωδική ονομασία \"ΘΟΥΡΙΟ - Χ\") χορηγήθηκε, με την Απόφαση της ΕΕΤΤ \n36919/25-09-2020, άδεια κατασκευής κεραίας στην εταιρία OTE. \nΑπό τo έγγραφο της άδειας μπορείτε να ενημερωθείτε για τις σχετικές εγκρίσεις των συναρμόδιων φορέων, καθώς και εάν πρόκειται για τροποποίηση παλαιότερης άδειας.\nΗ άδεια χορηγήθηκε με τη διαδικασία αδειοδότησης που ορίζει ο ν. 4635/2019, κατόπιν της με αριθ. πρωτ. 35134/24-10-2019 \n\tαίτησης, και βάσει σχετικής δήλωσης του κατόχου της περί υπαγωγή της κατασκευής κεραίας στο άρθρο 34 του ν. 4635/2019.",
+  "measurements_eaee": "-",
+  "documents": [
+    {
+      "document_number": "380054/18-10-2019",
+      "protocol_number": "33107/11-04-2019",
+      "type": "Τοπογραφικό",
+      "file_url": "https://silia.eett.gr/silia/download/d7b82a7c-a937-472a-a8f6-38794994e5ae"
+    },
+    {
+      "document_number": "380057/18-10-2019",
+      "protocol_number": "33107/11-04-2019",
+      "type": "Αρχιτεκτονικά Σχέδια",
+      "file_url": "https://silia.eett.gr/silia/download/dfe0f019-52b6-41a1-b4e3-1a74e83e4650"
+    },
+    {
+      "document_number": "380059/18-10-2019",
+      "protocol_number": "Δ3/Δ/9084/2048/05-03-2002",
+      "type": "Γνωμάτευση ΥΠΑ",
+      "file_url": "https://silia.eett.gr/silia/download/17713f84-3c2a-4058-b01f-58076781349b"
+    },
+    {
+      "document_number": "380060/18-10-2019",
+      "protocol_number": "ΜΕΣΩ ΣΗΛΥΑ/18-10-2019",
+      "type": "Αίτηση ΥΠΑ",
+      "file_url": "https://silia.eett.gr/silia/download/995a15be-cfe9-4a9b-948f-cc29fbefcc89"
+    },
+    {
+      "document_number": "380061/18-10-2019",
+      "protocol_number": "ΜΕΣΩ ΣΗΛΥΑ/05-06-2019",
+      "type": "Αίτηση - Μελέτη Ραδιοεκπομπών ΕΕΑΕ",
+      "file_url": "https://silia.eett.gr/silia/download/aa77d1c4-d911-456d-9c84-9513fed343bd"
+    },
+    {
+      "document_number": "380064/18-10-2019",
+      "protocol_number": "ΥΠ.ΔΗΛΩΣΗ ΣΥΝΕΓΚΑΤΑΣΤΑΣΗΣ ΟΤΕ/18-10-2019",
+      "type": "Άλλο",
+      "file_url": "https://silia.eett.gr/silia/download/b90f999b-bab4-4c48-8f9c-976db9103125"
+    },
+    {
+      "document_number": "381056/24-10-2019",
+      "protocol_number": "Αρχείο Αίτησης/",
+      "type": "Αίτηση Άδειας Κατασκευής Κεραίας ΕΕΤΤ",
+      "file_url": "https://silia.eett.gr/silia/download/57dde73f-7056-48ca-a018-98b0966e7947"
+    },
+    {
+      "document_number": "392054/31-01-2020",
+      "protocol_number": "ΜΕΣΩ ΣΗΛΥΑ/",
+      "type": "Αίτηση - Μελέτη Ραδιοεκπομπών ΕΕΑΕ",
+      "file_url": "https://silia.eett.gr/silia/download/6b37acbf-aa6e-4f9d-96d3-eef130dd5d2d"
+    },
+    {
+      "document_number": "398971/11-03-2020",
+      "protocol_number": "Μι/411/3758/2020/11-03-2020",
+      "type": "Γνωμάτευση ΕΕΑΕ",
+      "file_url": "https://silia.eett.gr/silia/download/d43b74d5-22dd-46bf-9841-aff4c2c8ff94"
+    },
+    {
+      "document_number": "417453/28-09-2020",
+      "protocol_number": "36919/25-09-2020",
+      "type": "Άδεια Κατασκευής  Κεραίας",
+      "file_url": "https://silia.eett.gr/silia/download/f5eb40ad-57fb-4554-a6c0-0d35ba5ea04e"
+    },
+    {
+      "document_number": "381057/24-10-2019",
+      "protocol_number": "Αρχείο Αίτησης/",
+      "type": "Δήλωση ΠΠΔ",
+      "file_url": "https://silia.eett.gr/silia/download/21273a4f-3ea2-488e-a365-63b25172e38f"
+    }
+  ]
+}

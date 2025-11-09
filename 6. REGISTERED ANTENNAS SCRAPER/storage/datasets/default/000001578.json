@@ -1,0 +1,93 @@
+{
+  "antenna_id": "175812",
+  "address": "ΠΛΗΣΙΟΝ ΟΙΚΙΣΜΟΥ ΠΕΝΤΑΒΡΥΣΟΥ, ΑΓΡΟΤΕΜΑΧΙΟ 45",
+  "position_code": 1007471,
+  "municipality": "Εορδαίας",
+  "code_name": "ΠΕΝΤΑΒΡΥΣΟ 2",
+  "region": "Δυτικής Μακεδονίας",
+  "latitude": 40.56,
+  "company": "VODAFONE",
+  "longitude": 21.728333,
+  "permit_status": "Από τα στοιχεία που τηρούνται στην Ενημερωτική Πύλη προκύπτει ότι, για τη θέση \"ΠΛΗΣΙΟΝ ΟΙΚΙΣΜΟΥ ΠΕΝΤΑΒΡΥΣΟΥ, ΑΓΡΟΤΕΜΑΧΙΟ 45\" στον Δήμο Εορδαίας Περιφέρειας  Δυτικής Μακεδονίας \n\t(κωδικός αριθμός θέσης 1007471, κωδική ονομασία \"ΠΕΝΤΑΒΡΥΣΟ 2\") χορηγήθηκε, με την Απόφαση της ΕΕΤΤ \n52140/18-02-2025, άδεια κατασκευής κεραίας στην εταιρία VODAFONE. \nΑπό τo έγγραφο της άδειας μπορείτε να ενημερωθείτε για τις σχετικές εγκρίσεις των συναρμόδιων φορέων, καθώς και εάν πρόκειται για τροποποίηση παλαιότερης άδειας.\n\tΣύμφωνα με τα στοιχεία που έχουν υποβληθεί στο ΣΗΛΥΑ, ο κάτοχος της κατασκευής κεραίας έχει δηλώσει ότι θα προβεί σε έκδοση έγκρισης δομικών κατασκευών \n\t\tκεραίας μέσω του e-Άδειες \n\t\tμετά την έκδοση της άδειας κατασκευής κεραίας / δημοσιοποίηση της δήλωσης τροποποίησης της κατασκευής κεραίας",
+  "measurements_eaee": "-",
+  "documents": [
+    {
+      "document_number": "528748/14-10-2024",
+      "protocol_number": "ΤΟΠΟΓΡΑΦΙΚΟ/08-04-2024",
+      "type": "Τοπογραφικό",
+      "file_url": "https://silia.eett.gr/silia/download/P1bMiKUtcLDeHMxTGfGiM9WDfmnoDic6HnGU"
+    },
+    {
+      "document_number": "528749/14-10-2024",
+      "protocol_number": "ΑΡΧΙΤΕΚΤΟΝΙΚΑ ΣΧΕΔΙΑ/08-04-2024",
+      "type": "Αρχιτεκτονικά Σχέδια",
+      "file_url": "https://silia.eett.gr/silia/download/D4dmGToBLZxghtSDhRX5QCZBDRg9tfmbMt9h"
+    },
+    {
+      "document_number": "528750/14-10-2024",
+      "protocol_number": "ΜΕΛΕΤΗ ΡΑΔΙΟΕΚΠΟΜΠΩΝ/08-10-2024",
+      "type": "Αίτηση - Μελέτη Ραδιοεκπομπών ΕΕΑΕ",
+      "file_url": "https://silia.eett.gr/silia/download/C1tRFRCPSEOfxMEs7d9o2c1NLXDpX47SNggh"
+    },
+    {
+      "document_number": "528751/14-10-2024",
+      "protocol_number": "ΥΠΕΥΘΥΝΗ ΔΗΛΩΣΗ ΟΡΘΟΤΗΤΑΣ NOVA/08-10-2024",
+      "type": "Άλλο",
+      "file_url": "https://silia.eett.gr/silia/download/60KKXCyvop6kmEYk8e88NmbaKGyLg5L12evB"
+    },
+    {
+      "document_number": "528752/14-10-2024",
+      "protocol_number": "ΥΠΕΥΘΥΝΗ ΔΗΛΩΣΗ ΔΙΑΣΥΝΔΕΣΗΣ NOVA/08-10-2024",
+      "type": "Άλλο",
+      "file_url": "https://silia.eett.gr/silia/download/0sQDClRiWxg2uPHZG80vVGIvxX0PEaZBlFpe"
+    },
+    {
+      "document_number": "528754/14-10-2024",
+      "protocol_number": "0153479/07-10-2024",
+      "type": "Αίτηση Ραδιοσυχνοτήτων",
+      "file_url": "https://silia.eett.gr/silia/download/od8ogBHhEKi6XLd1Ty7wgqGDbTWsEQqUUcHG"
+    },
+    {
+      "document_number": "528761/14-10-2024",
+      "protocol_number": "Αρχείο Αίτησης/14-10-2024",
+      "type": "Αίτηση Άδειας Κατασκευής Κεραίας ΕΕΤΤ",
+      "file_url": "https://silia.eett.gr/silia/download/guifueVi5uDPP1q57KiAdgsN1SHsg53mbSeG"
+    },
+    {
+      "document_number": "533726/26-11-2024",
+      "protocol_number": "ΚΓ/Δ3/Δ/23153/26-11-2024",
+      "type": "Γνωμάτευση ΥΠΑ",
+      "file_url": "https://silia.eett.gr/silia/download/3VhbGUz6shnPsiN2GxztQ9NSvvGL0siNUoSY"
+    },
+    {
+      "document_number": "535539/13-12-2024",
+      "protocol_number": "TMIA/411/17909/2024/12-12-2024",
+      "type": "Γνωμάτευση ΕΕΑΕ",
+      "file_url": "https://silia.eett.gr/silia/download/dxTISFg4iDL5I0P7GrxQXaag72kvB22nF446"
+    },
+    {
+      "document_number": "541305/19-02-2025",
+      "protocol_number": "52140/18-02-2025",
+      "type": "Άδεια Κατασκευής  Κεραίας",
+      "file_url": "https://silia.eett.gr/silia/download/RwImDVHOm3Q0TN32Y7byAyD73m5CGq3dQaEe"
+    },
+    {
+      "document_number": "535899/17-12-2024",
+      "protocol_number": "ΜΕΛΕΤΗ ΡΑΔΙΟΕΚΠΟΜΠΩΝ/08-10-2024",
+      "type": "Αίτηση - Μελέτη Ραδιοεκπομπών ΕΕΑΕ",
+      "file_url": "https://silia.eett.gr/silia/download/C1tRFRCPSEOfxMEs7d9o2c1NLXDpX47SNggh"
+    },
+    {
+      "document_number": "535905/18-12-2024",
+      "protocol_number": "ΣΥΝΟΔΕΥΤΙΚΑ ΕΓΓΡΑΦΑ ΠΠΔ/18-12-2024",
+      "type": "Δήλωση υπαγωγής σε ΠΠΔ και Συνοδευτικά Έγγραφα",
+      "file_url": "https://silia.eett.gr/silia/download/cVypAMUGGSHwRi4kmlFVAiGHgHF9QviBBtfz"
+    },
+    {
+      "document_number": "535906/18-12-2024",
+      "protocol_number": "Αρχείο Αίτησης/18-12-2024",
+      "type": "Δήλωση ΠΠΔ",
+      "file_url": "https://silia.eett.gr/silia/download/OtWE9XGNHpOXvv3bPSXt2GTnYFGiCwHpmHhU"
+    }
+  ]
+}

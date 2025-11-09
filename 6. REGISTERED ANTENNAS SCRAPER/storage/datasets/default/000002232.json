@@ -1,0 +1,87 @@
+{
+  "antenna_id": "102949",
+  "address": "ΥΨΩΜΑ ΚΑΣΤΑΝΑΣ ΠΕΡΑΝΘΗ ΚΟΜΠΟΤΙ",
+  "position_code": 1404201,
+  "municipality": "Νικολάου Σκουφά",
+  "code_name": "ΚΟΜΠΟΤΙ-Χ",
+  "region": "Ηπείρου",
+  "latitude": 39.096944,
+  "company": "OTE",
+  "longitude": 21.036111,
+  "permit_status": "Από τα στοιχεία που τηρούνται στην Ενημερωτική Πύλη προκύπτει ότι, για τη θέση \"ΥΨΩΜΑ ΚΑΣΤΑΝΑΣ ΠΕΡΑΝΘΗ ΚΟΜΠΟΤΙ\" στον Δήμο Νικολάου Σκουφά Περιφέρειας  Ηπείρου \n\t(κωδικός αριθμός θέσης 1404201, κωδική ονομασία \"ΚΟΜΠΟΤΙ-Χ\") χορηγήθηκε, με την Απόφαση της ΕΕΤΤ \n14664/Φ610/22-12-2014, άδεια κατασκευής κεραίας στην εταιρία OTE. \nΑπό τo έγγραφο της άδειας μπορείτε να ενημερωθείτε για τις σχετικές εγκρίσεις των συναρμόδιων φορέων, καθώς και εάν πρόκειται για τροποποίηση παλαιότερης άδειας.\nΗ άδεια χορηγήθηκε, κατόπιν της με Αριθ. Πρωτ. 7630/31-03-2014 αίτησης, \n\tμε τη διαδικασία αδειοδότησης της παρ. 17 του άρθρου 30 του Ν.4070/2012 που πλέον έχει αντικατασταθεί από τη διαδικασία που ορίζει ο ν. 4635/2019.",
+  "measurements_eaee": "-",
+  "documents": [
+    {
+      "document_number": "138049/28-03-2014",
+      "protocol_number": "ΠΠΔ/28-03-2014",
+      "type": "Δήλωση υπαγωγής σε ΠΠΔ και Συνοδευτικά Έγγραφα",
+      "file_url": "https://silia.eett.gr/silia/download/1f68adeb-2d56-4863-86c8-d34dc23dafd5"
+    },
+    {
+      "document_number": "138050/28-03-2014",
+      "protocol_number": "ΜΕΣΩ ΣΗΛΥΑ/09-04-2013",
+      "type": "Τοπογραφικό",
+      "file_url": "https://silia.eett.gr/silia/download/f0ba9d9f-7d3e-44a8-b0a6-469e26750d7c"
+    },
+    {
+      "document_number": "138051/28-03-2014",
+      "protocol_number": "ΜΕΣΩ ΣΗΛΥΑ/09-04-2013",
+      "type": "Αρχιτεκτονικά Σχέδια",
+      "file_url": "https://silia.eett.gr/silia/download/5ce5fce4-f899-4538-8221-3fe253b99909"
+    },
+    {
+      "document_number": "138052/28-03-2014",
+      "protocol_number": "1247/01-06-2000",
+      "type": "Έγκριση δομικών κατασκευών (έντυπη)",
+      "file_url": "https://silia.eett.gr/silia/download/49691e86-9e35-4737-aaf0-4b0a6509c246"
+    },
+    {
+      "document_number": "138053/28-03-2014",
+      "protocol_number": "Δ3/Δ/34127/6061/01-10-1999",
+      "type": "Γνωμάτευση ΥΠΑ",
+      "file_url": "https://silia.eett.gr/silia/download/16f34758-deb4-4f84-a35e-f7f6b6afd93f"
+    },
+    {
+      "document_number": "138054/28-03-2014",
+      "protocol_number": "ΜΕΣΩ ΣΗΛΥΑ/09-04-2013",
+      "type": "Αίτηση - Μελέτη Ραδιοεκπομπών ΕΕΑΕ",
+      "file_url": "https://silia.eett.gr/silia/download/276ade64-d7bc-4dc9-a6e7-0426454ac789"
+    },
+    {
+      "document_number": "138055/28-03-2014",
+      "protocol_number": "38/29-07-2013",
+      "type": "Αποδεικτικό Καταβολής Τελών ΕΕΤΤ",
+      "file_url": "https://silia.eett.gr/silia/download/cfbf5032-a532-4f83-8722-f60a864b30e6"
+    },
+    {
+      "document_number": "138103/31-03-2014",
+      "protocol_number": "Αρχείο Αίτησης/",
+      "type": "Αίτηση Άδειας Κατασκευής Κεραίας ΕΕΤΤ",
+      "file_url": "https://silia.eett.gr/silia/download/51ca4191-95b1-45d3-abad-8cbad76bcd77"
+    },
+    {
+      "document_number": "176284/17-06-2014",
+      "protocol_number": "ΜΕΣΩ  ΣΗΛΥΑ/17-06-2014",
+      "type": "Αίτηση - Μελέτη Ραδιοεκπομπών ΕΕΑΕ",
+      "file_url": "https://silia.eett.gr/silia/download/0e50c572-afe6-4832-9756-c8e024fbbc71"
+    },
+    {
+      "document_number": "180408/20-08-2014",
+      "protocol_number": "ΜΕΛΕΤΗ ΡΑΔΙΟΕΚΠΟΜΠΩΝ ΜΕΣΩ  ΣΗΛΥΑ/20-08-2014",
+      "type": "Αίτηση - Μελέτη Ραδιοεκπομπών ΕΕΑΕ",
+      "file_url": "https://silia.eett.gr/silia/download/c3705196-c680-4a60-8ac9-515130b1e212"
+    },
+    {
+      "document_number": "183594/08-09-2014",
+      "protocol_number": "Μι/411/1203/08-09-2014",
+      "type": "Γνωμάτευση ΕΕΑΕ",
+      "file_url": "https://silia.eett.gr/silia/download/4ccd1acf-1ef2-40bb-b947-f2c14af3c69c"
+    },
+    {
+      "document_number": "194415/15-01-2015",
+      "protocol_number": "14664/Φ610/22-12-2014",
+      "type": "Άδεια Κατασκευής  Κεραίας",
+      "file_url": "https://silia.eett.gr/silia/download/25650f35-c14f-4fad-bb70-5e5b701b9057"
+    }
+  ]
+}

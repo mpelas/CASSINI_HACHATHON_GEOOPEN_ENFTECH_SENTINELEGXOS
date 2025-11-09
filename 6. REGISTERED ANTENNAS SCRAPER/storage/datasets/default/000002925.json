@@ -1,0 +1,33 @@
+{
+  "antenna_id": "154883",
+  "address": "ΚΩΣΤΗ ΠΑΛΑΜΑ 6Γ, ΘΕΣΣΑΛΟΝΙΚΗ",
+  "position_code": 1267943,
+  "municipality": "Πυλαίας - Χορτιάτη",
+  "code_name": "METROMEDIA THESSALONIKI",
+  "region": "Κεντρικής Μακεδονίας",
+  "latitude": 40.607778,
+  "company": "NOVA Μ.Α.Ε.",
+  "longitude": 22.995833,
+  "permit_status": "Από τα στοιχεία που τηρούνται στην Ενημερωτική Πύλη προκύπτει ότι, για τη θέση \"ΚΩΣΤΗ ΠΑΛΑΜΑ 6Γ, ΘΕΣΣΑΛΟΝΙΚΗ\" στον Δήμο Πυλαίας - Χορτιάτη Περιφέρειας  Κεντρικής Μακεδονίας \n\t(κωδικός αριθμός θέσης 1267943, κωδική ονομασία \"METROMEDIA THESSALONIKI\") έχει κατατεθεί από την εταιρία NOVA Μ.Α.Ε.\tδήλωση εγκατάστασης κατασκευής κεραίας (αριθ. πρωτ. \n\t39767/29-05-2020) που εμπίπτει στις διατάξεις της νομοθεσίας για Εγκαταστάσεις Κατασκευών Κεραιών Χαμηλής Ηλεκτρομαγνητικής Περιβαλλοντικής Όχλησης (ΕΚΚΧΟ).",
+  "measurements_eaee": "-",
+  "documents": [
+    {
+      "document_number": "409441/29-05-2020",
+      "protocol_number": "ΣΚΑΡΙΦΗΜΑ ΕΚΚΧΟ LINK/",
+      "type": "Φωτογραφικό Υλικό - Σκαρίφημα",
+      "file_url": "https://silia.eett.gr/silia/download/f5a0ee7c-0382-4360-80a3-cf20632ba94a"
+    },
+    {
+      "document_number": "409454/29-05-2020",
+      "protocol_number": "Αρχείο Αίτησης/",
+      "type": "Δήλωση ΕΚΚΧΟ",
+      "file_url": "https://silia.eett.gr/silia/download/1fc7faa4-602e-466c-b83b-f4db124b9cfd"
+    },
+    {
+      "document_number": "520648/16-07-2024",
+      "protocol_number": "39767/16-07-2024",
+      "type": "Δειγματοληπτικός έλεγχος",
+      "file_url": "https://silia.eett.gr/silia/download/xpGWqwsb3YNrMgVDgGYr6fQEtOpU1C1wKvve"
+    }
+  ]
+}

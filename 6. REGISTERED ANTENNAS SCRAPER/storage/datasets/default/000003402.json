@@ -1,0 +1,81 @@
+{
+  "antenna_id": "171609",
+  "address": "ΎΨΩΜΑ \"ΜΕΓΑΛΗ ΡΑΧΗ\", ΠΛΗΣΙΟΝ ΤΟΥ ΟΙΚΙΣΜΟΥ ΣΧΗΜΑΤΑΡΙΟΥ",
+  "position_code": 1402002,
+  "municipality": "Τανάγρας",
+  "code_name": "ΣΧΗΜΑΤΑΡΙ /Χ",
+  "region": "Στερεάς Ελλάδας",
+  "latitude": 38.357778,
+  "company": "OTE",
+  "longitude": 23.570556,
+  "permit_status": "Από τα στοιχεία που τηρούνται στην Ενημερωτική Πύλη προκύπτει ότι, για τη θέση \"ΎΨΩΜΑ \"ΜΕΓΑΛΗ ΡΑΧΗ\", ΠΛΗΣΙΟΝ ΤΟΥ ΟΙΚΙΣΜΟΥ ΣΧΗΜΑΤΑΡΙΟΥ\" στον Δήμο Τανάγρας Περιφέρειας  Στερεάς Ελλάδας \n\t(κωδικός αριθμός θέσης 1402002, κωδική ονομασία \"ΣΧΗΜΑΤΑΡΙ /Χ\") χορηγήθηκε, με την Απόφαση της ΕΕΤΤ \n50984/23-05-2024, άδεια κατασκευής κεραίας στην εταιρία OTE. \nΑπό τo έγγραφο της άδειας μπορείτε να ενημερωθείτε για τις σχετικές εγκρίσεις των συναρμόδιων φορέων, καθώς και εάν πρόκειται για τροποποίηση παλαιότερης άδειας.\n\tΣύμφωνα με τα στοιχεία που έχουν υποβληθεί στο ΣΗΛΥΑ, ο κάτοχος της κατασκευής κεραίας έχει δηλώσει ότι θα προβεί σε έκδοση έγκρισης δομικών κατασκευών \n\t\tκεραίας μέσω του e-Άδειες \n\t\tμετά την έκδοση της άδειας κατασκευής κεραίας / δημοσιοποίηση της δήλωσης τροποποίησης της κατασκευής κεραίας",
+  "measurements_eaee": "-",
+  "documents": [
+    {
+      "document_number": "504142/05-01-2024",
+      "protocol_number": "ΜΕΣΩ ΣΗΛΥΑ/",
+      "type": "Τοπογραφικό",
+      "file_url": "https://silia.eett.gr/silia/download/209b5607-2c96-4eed-a633-413fd17cec9a"
+    },
+    {
+      "document_number": "504143/05-01-2024",
+      "protocol_number": "ΜΕΣΩ ΣΗΛΥΑ/",
+      "type": "Αρχιτεκτονικά Σχέδια",
+      "file_url": "https://silia.eett.gr/silia/download/5fd58626-bd77-49cf-9739-036c7628431e"
+    },
+    {
+      "document_number": "504144/05-01-2024",
+      "protocol_number": "ΜΕΣΩ ΣΗΛΥΑ/22-08-2023",
+      "type": "Αίτηση - Μελέτη Ραδιοεκπομπών ΕΕΑΕ",
+      "file_url": "https://silia.eett.gr/silia/download/98412a14-25ff-4c29-bf21-80eee39f3360"
+    },
+    {
+      "document_number": "504529/11-01-2024",
+      "protocol_number": "93869/31-08-2023",
+      "type": "Επιστολή Ενημέρωσης προς Αρμόδιο Φορέα",
+      "file_url": "https://silia.eett.gr/silia/download/98ceb109-4cd6-44ae-99d9-9504afa21960"
+    },
+    {
+      "document_number": "504530/11-01-2024",
+      "protocol_number": "ΑΝΑΚΟΙΝΩΣΗ ΚΑΤΑΧΩΡΗΣΗΣ ΓΕΜΗ 3189349/",
+      "type": "Άλλο",
+      "file_url": "https://silia.eett.gr/silia/download/c6c7cf25-0954-43ef-930a-8d9d64495ef8"
+    },
+    {
+      "document_number": "504531/11-01-2024",
+      "protocol_number": "Αρχείο Αίτησης/",
+      "type": "Αίτηση Άδειας Κατασκευής Κεραίας ΕΕΤΤ",
+      "file_url": "https://silia.eett.gr/silia/download/0bc12e56-121e-4f8a-b99f-2eca6cedaa15"
+    },
+    {
+      "document_number": "507651/14-02-2024",
+      "protocol_number": "ΤΜΙΑ/411/2679/2024/14-02-2024",
+      "type": "Γνωμάτευση ΕΕΑΕ",
+      "file_url": "https://silia.eett.gr/silia/download/97c5000b-ca91-40da-800a-8e17b06b40ce"
+    },
+    {
+      "document_number": "507691/15-02-2024",
+      "protocol_number": "ΚΓ/Δ3/Δ/3148/15-02-2024",
+      "type": "Γνωμάτευση ΥΠΑ",
+      "file_url": "https://silia.eett.gr/silia/download/8f5df88a-6d85-495b-8012-4bc616480158"
+    },
+    {
+      "document_number": "516752/03-06-2024",
+      "protocol_number": "50984/23-05-2024",
+      "type": "Άδεια Κατασκευής  Κεραίας",
+      "file_url": "https://silia.eett.gr/silia/download/QFudbLz9rDsmzukkf6VSt541C9pGyXbLhYYv"
+    },
+    {
+      "document_number": "504139/04-01-2024",
+      "protocol_number": "ΣΥΝΟΔΕΥΤΙΚΑ ΕΓΓΡΑΦΑ/",
+      "type": "Δήλωση υπαγωγής σε ΠΠΔ και Συνοδευτικά Έγγραφα",
+      "file_url": "https://silia.eett.gr/silia/download/8c21b2e6-d621-46d6-a5f9-6f181f9f063c"
+    },
+    {
+      "document_number": "504532/11-01-2024",
+      "protocol_number": "Αρχείο Αίτησης/",
+      "type": "Δήλωση ΠΠΔ",
+      "file_url": "https://silia.eett.gr/silia/download/fe3e2900-dd03-4e7f-812e-c3bc8187a15c"
+    }
+  ]
+}

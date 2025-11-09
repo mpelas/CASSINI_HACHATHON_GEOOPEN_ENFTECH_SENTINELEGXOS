@@ -1,0 +1,33 @@
+{
+  "antenna_id": "154981",
+  "address": "ΠΑΤΜΟΥ & ΑΓΡΑΦΩΝ 5 , ΜΑΡΟΥΣΙ",
+  "position_code": 1267953,
+  "municipality": "Αμαρουσίου",
+  "code_name": "PROTO THEMA MAROUSI",
+  "region": "Αττικής",
+  "latitude": 38.032778,
+  "company": "NOVA Μ.Α.Ε.",
+  "longitude": 23.789722,
+  "permit_status": "Από τα στοιχεία που τηρούνται στην Ενημερωτική Πύλη προκύπτει ότι, για τη θέση \"ΠΑΤΜΟΥ & ΑΓΡΑΦΩΝ 5 , ΜΑΡΟΥΣΙ \" στον Δήμο Αμαρουσίου Περιφέρειας  Αττικής \n\t(κωδικός αριθμός θέσης 1267953, κωδική ονομασία \"PROTO THEMA MAROUSI\") έχει κατατεθεί από την εταιρία NOVA Μ.Α.Ε.\tδήλωση εγκατάστασης κατασκευής κεραίας (αριθ. πρωτ. \n\t39825/05-06-2020) που εμπίπτει στις διατάξεις της νομοθεσίας για Εγκαταστάσεις Κατασκευών Κεραιών Χαμηλής Ηλεκτρομαγνητικής Περιβαλλοντικής Όχλησης (ΕΚΚΧΟ).",
+  "measurements_eaee": "-",
+  "documents": [
+    {
+      "document_number": "410147/05-06-2020",
+      "protocol_number": "ΦΩΤΟΓΡΑΦΙΑ LINK ΕΚΚΧΟ/",
+      "type": "Φωτογραφικό Υλικό - Σκαρίφημα",
+      "file_url": "https://silia.eett.gr/silia/download/66a84780-199e-415c-92c8-b536368019ab"
+    },
+    {
+      "document_number": "410151/05-06-2020",
+      "protocol_number": "Αρχείο Αίτησης/",
+      "type": "Δήλωση ΕΚΚΧΟ",
+      "file_url": "https://silia.eett.gr/silia/download/57e986d3-36c6-42c2-b6ed-41aaa421e4c4"
+    },
+    {
+      "document_number": "417397/25-09-2020",
+      "protocol_number": "ΦΩΤΟΓΡΑΦΙΑ LINK ΕΚΚΧΟ/",
+      "type": "Φωτογραφικό Υλικό - Σκαρίφημα",
+      "file_url": "https://silia.eett.gr/silia/download/7c46aeb4-30d8-4fd7-a4ca-0747cc288d5e"
+    }
+  ]
+}

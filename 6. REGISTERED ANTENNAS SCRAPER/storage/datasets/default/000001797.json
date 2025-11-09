@@ -1,0 +1,63 @@
+{
+  "antenna_id": "174842",
+  "address": "ΚΕΝΤΡΟ ΕΚΠΟΜΠΗΣ ΛΙΘΟΤΟΠΟΥ",
+  "position_code": 1275132,
+  "municipality": "Ηρακλείας",
+  "code_name": "ERT LITHOTOPOS (K132)",
+  "region": "Κεντρικής Μακεδονίας",
+  "latitude": 41.130556,
+  "company": "NOVA Μ.Α.Ε.",
+  "longitude": 23.204167,
+  "permit_status": "Από τα στοιχεία που τηρούνται στην Ενημερωτική Πύλη προκύπτει ότι, για τη θέση \"ΚΕΝΤΡΟ ΕΚΠΟΜΠΗΣ ΛΙΘΟΤΟΠΟΥ\" στον Δήμο Ηρακλείας Περιφέρειας  Κεντρικής Μακεδονίας \n\t(κωδικός αριθμός θέσης 1275132, κωδική ονομασία \"ERT LITHOTOPOS (K132)\") έχει κατατεθεί από την εταιρία NOVA Μ.Α.Ε.\tδήλωση εγκατάστασης κατασκευής κεραίας (αριθ. πρωτ. \n\t56979/07-08-2024) που εμπίπτει στις διατάξεις της νομοθεσίας για Εγκαταστάσεις Κατασκευών Κεραιών Χαμηλής Ηλεκτρομαγνητικής Περιβαλλοντικής Όχλησης (ΕΚΚΧΟ).",
+  "measurements_eaee": "-",
+  "documents": [
+    {
+      "document_number": "523109/07-08-2024",
+      "protocol_number": "Φωτορεαλιστική απεικόνιση κεραίας ΕΚΚΧΟ/07-08-2024",
+      "type": "Φωτογραφικό Υλικό - Σκαρίφημα",
+      "file_url": "https://silia.eett.gr/silia/download/Z9q0erwi1vBQH3n5ParXoTKBFkHlvXP34pGA"
+    },
+    {
+      "document_number": "523110/07-08-2024",
+      "protocol_number": "Ψηφιακός χάρτης με προβολή της θέσης ΕΚΚΧΟ/07-08-2024",
+      "type": "Φωτογραφικό Υλικό - Σκαρίφημα",
+      "file_url": "https://silia.eett.gr/silia/download/v00i7lgLGGd447OUXegY9gs8Nt18qtwmWDBt"
+    },
+    {
+      "document_number": "523111/07-08-2024",
+      "protocol_number": "ΜΕΛΕΤΗ ΕΚΚΧΟ/07-08-2024",
+      "type": "Άλλο",
+      "file_url": "https://silia.eett.gr/silia/download/qSWEblAsM6EKAXe5XwtDYhqy03u9GumRChGV"
+    },
+    {
+      "document_number": "523112/07-08-2024",
+      "protocol_number": "Σκαρίφημα με περιοχή απαγόρευσης/07-08-2024",
+      "type": "Φωτογραφικό Υλικό - Σκαρίφημα",
+      "file_url": "https://silia.eett.gr/silia/download/nuVx4XsOa1aOwNK1iW3L8DFXuvTYsbgXPIZx"
+    },
+    {
+      "document_number": "523113/07-08-2024",
+      "protocol_number": "Αρχείο Αίτησης/07-08-2024",
+      "type": "Δήλωση ΕΚΚΧΟ",
+      "file_url": "https://silia.eett.gr/silia/download/TLGpxyxwgosmKZe8QznCSQft3AAtFZ1dbaon"
+    },
+    {
+      "document_number": "531274/04-11-2024",
+      "protocol_number": "604007(3160)/06-09-2024",
+      "type": "Έγκριση Αρμοδίου Φορέα",
+      "file_url": "https://silia.eett.gr/silia/download/OG4bSLUfENGRUt0ut3C8hqIPwgeg1Hq9QDfQ"
+    },
+    {
+      "document_number": "550035/22-05-2025",
+      "protocol_number": "604007(3160)1/06-09-2024",
+      "type": "Έγγραφο Αρμοδίου Φορέα",
+      "file_url": "https://silia.eett.gr/silia/download/Bv2m2U17fQw6tiL62muzFvPZu3RllU9dQntw"
+    },
+    {
+      "document_number": "550036/22-05-2025",
+      "protocol_number": "725535(3922)/21-10-2024",
+      "type": "Έγγραφο Αρμοδίου Φορέα",
+      "file_url": "https://silia.eett.gr/silia/download/XygoYUPXClCgpUPAMifzlFM9K4KH6LtK8SAZ"
+    }
+  ]
+}

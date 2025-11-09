@@ -1,0 +1,147 @@
+{
+  "antenna_id": "136237",
+  "address": "ΠΛΗΣΙΟΝ ΧΩΡΙΟΥ ΣΜΕΡΝΑΣ, ΔΗΜΟΤΙΚΗ ΕΝΟΤΗΤΑ ΣΚΙΛΛΟΥΝΤΟΣ",
+  "position_code": 1200203,
+  "municipality": "Ανδρίτσαινας - Κρεστένων",
+  "code_name": "ΣΜΕΡΝΑ",
+  "region": "Δυτικής Ελλάδας",
+  "latitude": 37.554167,
+  "company": "NOVA Μ.Α.Ε.",
+  "longitude": 21.678611,
+  "permit_status": "Από τα στοιχεία που τηρούνται στην Ενημερωτική Πύλη προκύπτει ότι, για τη θέση \"ΠΛΗΣΙΟΝ ΧΩΡΙΟΥ ΣΜΕΡΝΑΣ, ΔΗΜΟΤΙΚΗ ΕΝΟΤΗΤΑ ΣΚΙΛΛΟΥΝΤΟΣ\" στον Δήμο Ανδρίτσαινας - Κρεστένων Περιφέρειας  Δυτικής Ελλάδας \n\t(κωδικός αριθμός θέσης 1200203, κωδική ονομασία \"ΣΜΕΡΝΑ\") χορηγήθηκε, με την Απόφαση της ΕΕΤΤ \n36880/Φ610/24-09-2020, άδεια κατασκευής κεραίας στην εταιρία NOVA Μ.Α.Ε.. \nΑπό τo έγγραφο της άδειας μπορείτε να ενημερωθείτε για τις σχετικές εγκρίσεις των συναρμόδιων φορέων, καθώς και εάν πρόκειται για τροποποίηση παλαιότερης άδειας.\nΗ άδεια χορηγήθηκε με τη διαδικασία αδειοδότησης που ορίζει ο ν. 4635/2019, κατόπιν της με αριθ. πρωτ. 30393/19-11-2018 \n\tαίτησης, και βάσει σχετικής δήλωσης του κατόχου της περί υπαγωγή της κατασκευής κεραίας στο άρθρο 34 του ν. 4635/2019.",
+  "measurements_eaee": "-",
+  "documents": [
+    {
+      "document_number": "349537/19-11-2018",
+      "protocol_number": "29527/Φ615 WIND/20-09-2018",
+      "type": "Χορήγηση Δικαιώματος Χρήσης Ραδιοσυχνοτήτων",
+      "file_url": null
+    },
+    {
+      "document_number": "349538/19-11-2018",
+      "protocol_number": "26562/Φ610  VODAFONE/18-12-2017",
+      "type": "Χορήγηση Δικαιώματος Χρήσης Ραδιοσυχνοτήτων",
+      "file_url": null
+    },
+    {
+      "document_number": "349539/19-11-2018",
+      "protocol_number": "ΜΕΛΕΤΗ ΡΑΔΙΟΕΚΠΟΜΠΩΝ/03-09-2018",
+      "type": "Αίτηση - Μελέτη Ραδιοεκπομπών ΕΕΑΕ",
+      "file_url": "https://silia.eett.gr/silia/download/a1e7b8d5-1ce8-41b1-92da-7ca77f130dd6"
+    },
+    {
+      "document_number": "349542/19-11-2018",
+      "protocol_number": "ΑΡΧΙΤΕΚΤΟΝΙΚΑ ΣΧΕΔΙΑ/",
+      "type": "Αρχιτεκτονικά Σχέδια",
+      "file_url": "https://silia.eett.gr/silia/download/d7426beb-5e22-4881-9791-be67aac92c63"
+    },
+    {
+      "document_number": "349543/19-11-2018",
+      "protocol_number": "ΤΟΠΟΓΡΑΦΙΚΟ/",
+      "type": "Τοπογραφικό",
+      "file_url": "https://silia.eett.gr/silia/download/b7df2b3c-2553-434c-ab2a-8b22a686e13f"
+    },
+    {
+      "document_number": "349544/19-11-2018",
+      "protocol_number": "2258/01-04-2016",
+      "type": "Βεβαίωση Κτηματικής Υπηρεσίας Δημοσίου",
+      "file_url": "https://silia.eett.gr/silia/download/9e685d7c-a6b1-4529-b286-70201fd20ca3"
+    },
+    {
+      "document_number": "349545/19-11-2018",
+      "protocol_number": "266396/15347/13-10-2015",
+      "type": "Βεβαίωση Υπουργείου Αγροτικής Ανάπτυξης",
+      "file_url": "https://silia.eett.gr/silia/download/7630fb31-b1bf-43d4-b3ff-114fedda8211"
+    },
+    {
+      "document_number": "349546/19-11-2018",
+      "protocol_number": "85254/2144 ΑΠΑΝΤΗΣΗ ΣΕ ΑΙΤΗΜΑ ΓΙΑ ΠΡΑΞΗ ΧΑΡΑΚΤΗΡΙΣΜΟΥ/25-09-2015",
+      "type": "Έγγραφο Αρμοδίου Φορέα",
+      "file_url": "https://silia.eett.gr/silia/download/d1e7eecc-4750-4e2a-b94e-4eecf21ee1dd"
+    },
+    {
+      "document_number": "349547/19-11-2018",
+      "protocol_number": "Δ3/Δ/14252/5361/21-6-2016/23-06-2016",
+      "type": "Γνωμάτευση ΥΠΑ",
+      "file_url": "https://silia.eett.gr/silia/download/44597d06-cfea-4fc2-aeae-1528dbd6592f"
+    },
+    {
+      "document_number": "349548/19-11-2018",
+      "protocol_number": "ΥΠΕΥΘΥΝΗ ΔΗΛΩΣΗ ΚΟΙΝΗΣ ΧΡΗΣΗΣ VODAFONE/08-04-2016",
+      "type": "Άλλο",
+      "file_url": "https://silia.eett.gr/silia/download/35043227-a217-41f3-b89e-82e5e0db036b"
+    },
+    {
+      "document_number": "349558/19-11-2018",
+      "protocol_number": "Αρχείο Αίτησης/",
+      "type": "Αίτηση Άδειας Κατασκευής Κεραίας ΕΕΤΤ",
+      "file_url": "https://silia.eett.gr/silia/download/b3755281-8533-467b-813b-5b264283cb81"
+    },
+    {
+      "document_number": "361517/26-03-2019",
+      "protocol_number": "Μ.ι./411/4810/2019/26-03-2019",
+      "type": "Γνωμάτευση ΕΕΑΕ",
+      "file_url": "https://silia.eett.gr/silia/download/faf3573d-2fc2-4d48-919f-a2170814daea"
+    },
+    {
+      "document_number": "381128/25-10-2019",
+      "protocol_number": "ΔΑΣΙΚΑ ΕΓΓΡΑΦΑ 198428/10-09-2019",
+      "type": "Έγγραφο Αρμοδίου Φορέα",
+      "file_url": "https://silia.eett.gr/silia/download/da30425a-be4a-4d24-a0cb-d107c3f88111"
+    },
+    {
+      "document_number": "417394/25-09-2020",
+      "protocol_number": "36880/Φ610/24-09-2020",
+      "type": "Άδεια Κατασκευής  Κεραίας",
+      "file_url": "https://silia.eett.gr/silia/download/d24e57a9-0cc8-49db-b44f-053411d20ee1"
+    },
+    {
+      "document_number": "415952/07-09-2020",
+      "protocol_number": "ΜΕΛΕΤΗ ΡΑΔΙΟΕΚΠΟΜΠΩΝ/03-09-2018",
+      "type": "Αίτηση - Μελέτη Ραδιοεκπομπών ΕΕΑΕ",
+      "file_url": "https://silia.eett.gr/silia/download/a1e7b8d5-1ce8-41b1-92da-7ca77f130dd6"
+    },
+    {
+      "document_number": "415953/07-09-2020",
+      "protocol_number": "Μ.ι./411/4810/2019/26-03-2019",
+      "type": "Γνωμάτευση ΕΕΑΕ",
+      "file_url": "https://silia.eett.gr/silia/download/faf3573d-2fc2-4d48-919f-a2170814daea"
+    },
+    {
+      "document_number": "415954/07-09-2020",
+      "protocol_number": "ΔΑΣΙΚΑ ΕΓΓΡΑΦΑ 198428/10-09-2019",
+      "type": "Έγγραφο Αρμοδίου Φορέα",
+      "file_url": "https://silia.eett.gr/silia/download/da30425a-be4a-4d24-a0cb-d107c3f88111"
+    },
+    {
+      "document_number": "415955/07-09-2020",
+      "protocol_number": "2258/01-04-2016",
+      "type": "Βεβαίωση Κτηματικής Υπηρεσίας Δημοσίου",
+      "file_url": "https://silia.eett.gr/silia/download/0e30caba-db5b-4af7-9648-dbe3b2cb063f"
+    },
+    {
+      "document_number": "415956/07-09-2020",
+      "protocol_number": "266396/15347/13-10-2015",
+      "type": "Βεβαίωση Υπουργείου Αγροτικής Ανάπτυξης",
+      "file_url": "https://silia.eett.gr/silia/download/16d7e3a7-8544-45c2-a457-bd0e2960bcfb"
+    },
+    {
+      "document_number": "415963/07-09-2020",
+      "protocol_number": "85254/2144 ΑΠΑΝΤΗΣΗ ΣΕ ΑΙΤΗΜΑ ΓΙΑ ΠΡΑΞΗ ΧΑΡΑΚΤΗΡΙΣΜΟΥ/25-09-2015",
+      "type": "Έγγραφο Αρμοδίου Φορέα",
+      "file_url": "https://silia.eett.gr/silia/download/bf161e94-d7f3-4400-9402-37e91008e36a"
+    },
+    {
+      "document_number": "415964/07-09-2020",
+      "protocol_number": "249/2008/10-04-2008",
+      "type": "Απόφαση εξαίρεσης ΡΑΕ",
+      "file_url": "https://silia.eett.gr/silia/download/d9d76df1-6181-4a3c-aa0d-8212d6d26836"
+    },
+    {
+      "document_number": "415965/07-09-2020",
+      "protocol_number": "Αρχείο Αίτησης/",
+      "type": "Δήλωση ΠΠΔ",
+      "file_url": "https://silia.eett.gr/silia/download/0247f94b-6652-4b6f-b5bf-a638e0f46295"
+    }
+  ]
+}

@@ -1,0 +1,51 @@
+{
+  "antenna_id": "178971",
+  "address": "ΘΕΣΗ ΗΡΑΚΛΕΙΤΟΥ ΓΙΑΝΟΥΖΙ",
+  "position_code": 1152321,
+  "municipality": "Αγρινίου",
+  "code_name": "3032321 MPAZONI GIANOUZI AGRINIO",
+  "region": "Δυτικής Ελλάδας",
+  "latitude": 38.607778,
+  "company": "VODAFONE",
+  "longitude": 21.408889,
+  "permit_status": "Από τα στοιχεία που τηρούνται στην Ενημερωτική Πύλη προκύπτει ότι, για τη θέση \"ΘΕΣΗ ΗΡΑΚΛΕΙΤΟΥ ΓΙΑΝΟΥΖΙ\" στον Δήμο Αγρινίου Περιφέρειας  Δυτικής Ελλάδας \n\t(κωδικός αριθμός θέσης 1152321, κωδική ονομασία \"3032321 MPAZONI GIANOUZI AGRINIO\") έχει κατατεθεί από την εταιρία VODAFONE\tδήλωση εγκατάστασης κατασκευής κεραίας (αριθ. πρωτ. \n\t60574/11-04-2025) που εμπίπτει στις διατάξεις της νομοθεσίας για Εγκαταστάσεις Κατασκευών Κεραιών Χαμηλής Ηλεκτρομαγνητικής Περιβαλλοντικής Όχλησης (ΕΚΚΧΟ).",
+  "measurements_eaee": "-",
+  "documents": [
+    {
+      "document_number": "546727/11-04-2025",
+      "protocol_number": "Φωτορεαλιστική απεικόνιση κεραίας ΕΚΚΧΟ/11-04-2025",
+      "type": "Φωτογραφικό Υλικό - Σκαρίφημα",
+      "file_url": "https://silia.eett.gr/silia/download/vWxVID06Oi7SFSs8NyM8g6GbkMuTflk05uWK"
+    },
+    {
+      "document_number": "546728/11-04-2025",
+      "protocol_number": "Ψηφιακός χάρτης με προβολή της θέσης ΕΚΚΧΟ/11-04-2025",
+      "type": "Φωτογραφικό Υλικό - Σκαρίφημα",
+      "file_url": "https://silia.eett.gr/silia/download/qIhGTsVgkLlF1tnSF7WOMRukVGzcnwpZPQMp"
+    },
+    {
+      "document_number": "546729/11-04-2025",
+      "protocol_number": "ΜΕΛΕΤΗ ΕΚΚΧΟ/11-04-2025",
+      "type": "Άλλο",
+      "file_url": "https://silia.eett.gr/silia/download/w8HxzwWgF3U8YPaIuvgI2Lv1r0ggbxcvKnXc"
+    },
+    {
+      "document_number": "546739/11-04-2025",
+      "protocol_number": "Σκαρίφημα με περιοχή απαγόρευσης/11-04-2025",
+      "type": "Φωτογραφικό Υλικό - Σκαρίφημα",
+      "file_url": "https://silia.eett.gr/silia/download/bXXESsaw28wpr8gHHxuYB3lghxnUb7C2lX9F"
+    },
+    {
+      "document_number": "546740/11-04-2025",
+      "protocol_number": "Φ.550/ΑΔ.11368/Σ.2743/31-10-2024",
+      "type": "Γνωμάτευση ΓΕΑ",
+      "file_url": "https://silia.eett.gr/silia/download/kIZ76gn3VeAFkeegoUppcDtDNB02zwyr4ffn"
+    },
+    {
+      "document_number": "546741/11-04-2025",
+      "protocol_number": "Αρχείο Αίτησης/11-04-2025",
+      "type": "Δήλωση ΕΚΚΧΟ",
+      "file_url": "https://silia.eett.gr/silia/download/oGLTR7Yh3WfzIOGLlOgnBdvluQPn8bduCNGz"
+    }
+  ]
+}

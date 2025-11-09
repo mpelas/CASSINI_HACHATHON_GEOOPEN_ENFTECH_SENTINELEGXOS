@@ -1,0 +1,81 @@
+{
+  "antenna_id": "145235",
+  "address": "ΠΛΗΣΙΟΝ ΔΗΜΟΤΙΚΟΥ ΣΤΑΔΙΟΥ ΛΙΤΟΧΩΡΟΥ",
+  "position_code": 1403629,
+  "municipality": "Δίου - Ολύμπου",
+  "code_name": "LITOCH  STA",
+  "region": "Κεντρικής Μακεδονίας",
+  "latitude": 40.106944,
+  "company": "OTE",
+  "longitude": 22.500556,
+  "permit_status": "Από τα στοιχεία που τηρούνται στην Ενημερωτική Πύλη προκύπτει ότι, για τη θέση \"ΠΛΗΣΙΟΝ ΔΗΜΟΤΙΚΟΥ ΣΤΑΔΙΟΥ ΛΙΤΟΧΩΡΟΥ\" στον Δήμο Δίου - Ολύμπου Περιφέρειας  Κεντρικής Μακεδονίας \n\t(κωδικός αριθμός θέσης 1403629, κωδική ονομασία \"LITOCH  STA\") χορηγήθηκε, με την Απόφαση της ΕΕΤΤ \n36445/Φ610/24-07-2020, άδεια κατασκευής κεραίας στην εταιρία OTE. \nΑπό τo έγγραφο της άδειας μπορείτε να ενημερωθείτε για τις σχετικές εγκρίσεις των συναρμόδιων φορέων, καθώς και εάν πρόκειται για τροποποίηση παλαιότερης άδειας.",
+  "measurements_eaee": "-",
+  "documents": [
+    {
+      "document_number": "383186/14-11-2019",
+      "protocol_number": "ΜΕΣΩ ΣΗΛΥΑ/",
+      "type": "Τοπογραφικό",
+      "file_url": "https://silia.eett.gr/silia/download/c06cb902-b08f-485a-8533-d593998ba2a4"
+    },
+    {
+      "document_number": "383187/14-11-2019",
+      "protocol_number": "ΜΕΣΩ ΣΗΛΥΑ/",
+      "type": "Αρχιτεκτονικά Σχέδια",
+      "file_url": "https://silia.eett.gr/silia/download/e60cd04a-d425-4ff7-992c-c8e783f8e6d2"
+    },
+    {
+      "document_number": "383188/14-11-2019",
+      "protocol_number": "ΜΕΣΩ ΣΗΛΥΑ/18-07-2018",
+      "type": "Αίτηση - Μελέτη Ραδιοεκπομπών ΕΕΑΕ",
+      "file_url": "https://silia.eett.gr/silia/download/0df49085-4e3b-4f13-aa2c-47124373f870"
+    },
+    {
+      "document_number": "383189/14-11-2019",
+      "protocol_number": "ΥΠ.ΔΗΛΩΣΗ ΣΥΝΕΓΚΑΤΑΣΤΑΣΗΣ ΟΤΕ/14-11-2019",
+      "type": "Άλλο",
+      "file_url": "https://silia.eett.gr/silia/download/9202b7be-09b2-41fb-9b11-884be7ecacf6"
+    },
+    {
+      "document_number": "383212/14-11-2019",
+      "protocol_number": "Αρχείο Αίτησης/",
+      "type": "Αίτηση Άδειας Κατασκευής Κεραίας ΕΕΤΤ",
+      "file_url": "https://silia.eett.gr/silia/download/2d760229-19fd-4e99-83eb-2199f94ddb10"
+    },
+    {
+      "document_number": "389941/20-01-2020",
+      "protocol_number": "Δ3/Δ/1929/17-01-2020/20-01-2020",
+      "type": "Γνωμάτευση ΥΠΑ",
+      "file_url": "https://silia.eett.gr/silia/download/3a804184-8929-4fe6-88a1-609361886ff8"
+    },
+    {
+      "document_number": "400393/29-03-2020",
+      "protocol_number": "Μ.ι./411/4351/2019/27-03-2020",
+      "type": "Γνωμάτευση ΕΕΑΕ",
+      "file_url": "https://silia.eett.gr/silia/download/2172f55f-53d0-4197-91f8-c8ec072251d9"
+    },
+    {
+      "document_number": "414149/28-07-2020",
+      "protocol_number": "36445/Φ610/24-07-2020",
+      "type": "Άδεια Κατασκευής  Κεραίας",
+      "file_url": "https://silia.eett.gr/silia/download/863bec8a-570b-4947-9516-788c2e92f53b"
+    },
+    {
+      "document_number": "417689/30-09-2020",
+      "protocol_number": "411/4351/",
+      "type": "Έγγραφο Αρμοδίου Φορέα",
+      "file_url": "https://silia.eett.gr/silia/download/36e548be-b0e9-4d46-b01c-515c6b4e0deb"
+    },
+    {
+      "document_number": "383190/14-11-2019",
+      "protocol_number": "ΜΕΣΩ ΣΗΛΥΑ/",
+      "type": "Δήλωση υπαγωγής σε ΠΠΔ και Συνοδευτικά Έγγραφα",
+      "file_url": "https://silia.eett.gr/silia/download/830072d8-e043-44ef-b366-652e5884db53"
+    },
+    {
+      "document_number": "383214/14-11-2019",
+      "protocol_number": "Αρχείο Αίτησης/",
+      "type": "Δήλωση ΠΠΔ",
+      "file_url": "https://silia.eett.gr/silia/download/fd5d2ed7-725e-4615-a791-998ae10634d2"
+    }
+  ]
+}

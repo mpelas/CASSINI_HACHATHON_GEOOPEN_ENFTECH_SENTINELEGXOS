@@ -1,0 +1,87 @@
+{
+  "antenna_id": "175957",
+  "address": "ΑΡΧΙΜ. ΙΑΚΩΒΟΥ ΠΑΥΛΑΚΗ 12",
+  "position_code": 1106175,
+  "municipality": "Νεάπολης - Συκεών",
+  "code_name": "ΝΕΑΠΟΛΗ 2",
+  "region": "Κεντρικής Μακεδονίας",
+  "latitude": 40.6525,
+  "company": "VODAFONE",
+  "longitude": 22.936944,
+  "permit_status": "Από τα στοιχεία που τηρούνται στην Ενημερωτική Πύλη προκύπτει ότι, για τη θέση \"ΑΡΧΙΜ. ΙΑΚΩΒΟΥ ΠΑΥΛΑΚΗ 12\" στον Δήμο Νεάπολης - Συκεών Περιφέρειας  Κεντρικής Μακεδονίας \n\t(κωδικός αριθμός θέσης 1106175, κωδική ονομασία \"ΝΕΑΠΟΛΗ 2\") χορηγήθηκε, με την Απόφαση της ΕΕΤΤ \n52137/18-02-2025, άδεια κατασκευής κεραίας στην εταιρία VODAFONE. \nΑπό τo έγγραφο της άδειας μπορείτε να ενημερωθείτε για τις σχετικές εγκρίσεις των συναρμόδιων φορέων, καθώς και εάν πρόκειται για τροποποίηση παλαιότερης άδειας.\n\tΣύμφωνα με τα στοιχεία που έχουν υποβληθεί στο ΣΗΛΥΑ, ο κάτοχος της κατασκευής κεραίας έχει δηλώσει ότι θα προβεί σε έκδοση έγκρισης δομικών κατασκευών \n\t\tκεραίας μέσω του e-Άδειες \n\t\tμετά την έκδοση της άδειας κατασκευής κεραίας / δημοσιοποίηση της δήλωσης τροποποίησης της κατασκευής κεραίας",
+  "measurements_eaee": "-",
+  "documents": [
+    {
+      "document_number": "529894/23-10-2024",
+      "protocol_number": "Μελέτη Ραδιοεκπομπών/17-10-2024",
+      "type": "Αίτηση - Μελέτη Ραδιοεκπομπών ΕΕΑΕ",
+      "file_url": "https://silia.eett.gr/silia/download/3Tu56gsQIZrwCN82TMy6EbB8YTbKhnKBHxEX"
+    },
+    {
+      "document_number": "529919/23-10-2024",
+      "protocol_number": "Μελέτη Συμβατότητας Vodafone/17-10-2024",
+      "type": "Μελέτη για τη ζώνη  2,6GHz",
+      "file_url": "https://silia.eett.gr/silia/download/wZREL96XihYr7uGgNgrAOKv8PiIOxVNFeOiw"
+    },
+    {
+      "document_number": "529922/23-10-2024",
+      "protocol_number": "Δ3/Δ/39874/9885/03-11-2009",
+      "type": "Γνωμάτευση ΥΠΑ",
+      "file_url": "https://silia.eett.gr/silia/download/TIG7IGYgaZBOBUHpFdBLaLX5rKB0WgFGNiwk"
+    },
+    {
+      "document_number": "529923/23-10-2024",
+      "protocol_number": "Τοπογραφικό/02-10-2024",
+      "type": "Τοπογραφικό",
+      "file_url": "https://silia.eett.gr/silia/download/e9lYkpyZmWNEfPgp3ksvsLOxvg73a7uXOLza"
+    },
+    {
+      "document_number": "529924/23-10-2024",
+      "protocol_number": "Αρχιτεκτονικά/02-10-2024",
+      "type": "Αρχιτεκτονικά [Κάτοψη - Τομή - Όψη]",
+      "file_url": "https://silia.eett.gr/silia/download/YOr0fsdylUgeB9gxNlRqoc4dWSfCbGsN5hgC"
+    },
+    {
+      "document_number": "529936/23-10-2024",
+      "protocol_number": "ΥΔ Διασύνδεσης Vodafone/23-10-2024",
+      "type": "Άλλο",
+      "file_url": "https://silia.eett.gr/silia/download/wXedQ9P87DODHTKp9QI1EIdvEReQNvX0KFNa"
+    },
+    {
+      "document_number": "529947/23-10-2024",
+      "protocol_number": "Αρχείο Αίτησης/23-10-2024",
+      "type": "Αίτηση Άδειας Κατασκευής Κεραίας ΕΕΤΤ",
+      "file_url": "https://silia.eett.gr/silia/download/dZIGgitg7OioEl0DT2cgNlZIZsTwT7udAshW"
+    },
+    {
+      "document_number": "535368/12-12-2024",
+      "protocol_number": "TMIA/411/17794/2024/11-12-2024",
+      "type": "Γνωμάτευση ΕΕΑΕ",
+      "file_url": "https://silia.eett.gr/silia/download/8nY8CMEu08PRwP2hw6iWVMKX9zZLUWATrgYq"
+    },
+    {
+      "document_number": "541307/19-02-2025",
+      "protocol_number": "52137/18-02-2025",
+      "type": "Άδεια Κατασκευής  Κεραίας",
+      "file_url": "https://silia.eett.gr/silia/download/Ipme2GdVFqB7QO1ENsyXuZpApF7sSIN9g4Dz"
+    },
+    {
+      "document_number": "529945/23-10-2024",
+      "protocol_number": "Μελέτη Ραδιοεκπομπών/17-10-2024",
+      "type": "Αίτηση - Μελέτη Ραδιοεκπομπών ΕΕΑΕ",
+      "file_url": "https://silia.eett.gr/silia/download/3Tu56gsQIZrwCN82TMy6EbB8YTbKhnKBHxEX"
+    },
+    {
+      "document_number": "529946/23-10-2024",
+      "protocol_number": "Συνοδευτικά έγγραφα ΠΠΔ/23-10-2024",
+      "type": "Δήλωση υπαγωγής σε ΠΠΔ και Συνοδευτικά Έγγραφα",
+      "file_url": "https://silia.eett.gr/silia/download/s2DopEfaWESd8Dl3yNk1OgNYWm3fxg82hTb7"
+    },
+    {
+      "document_number": "529948/23-10-2024",
+      "protocol_number": "Αρχείο Αίτησης/23-10-2024",
+      "type": "Δήλωση ΠΠΔ",
+      "file_url": "https://silia.eett.gr/silia/download/IHHhy0Y0c67NyMqLmpPHGxmqfw3zpIHFUgPd"
+    }
+  ]
+}

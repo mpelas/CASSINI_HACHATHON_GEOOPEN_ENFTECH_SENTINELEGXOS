@@ -1,0 +1,45 @@
+{
+  "antenna_id": "158201",
+  "address": "ΕΠΙ ΤΗΣ ΟΔΟΥ ΑΓ.ΜΗΝΑ 24-26 , ΗΡΑΚΛΕΙΟ ΚΡΗΤΗΣ",
+  "position_code": 1411527,
+  "municipality": "Ηρακλείου Κρήτης",
+  "code_name": "AGMINA - SC",
+  "region": "Κρήτης",
+  "latitude": 35.337222,
+  "company": "OTE",
+  "longitude": 25.130278,
+  "permit_status": "Από τα στοιχεία που τηρούνται στην Ενημερωτική Πύλη προκύπτει ότι, για τη θέση \"ΕΠΙ ΤΗΣ ΟΔΟΥ ΑΓ.ΜΗΝΑ 24-26 , ΗΡΑΚΛΕΙΟ ΚΡΗΤΗΣ\" στον Δήμο Ηρακλείου Κρήτης Περιφέρειας  Κρήτης \n\t(κωδικός αριθμός θέσης 1411527, κωδική ονομασία \"AGMINA - SC\") έχει κατατεθεί από την εταιρία OTE\tδήλωση εγκατάστασης κατασκευής κεραίας (αριθ. πρωτ. \n\t42996/26-02-2021) που εμπίπτει στις διατάξεις της νομοθεσίας για Εγκαταστάσεις Κατασκευών Κεραιών Χαμηλής Ηλεκτρομαγνητικής Περιβαλλοντικής Όχλησης (ΕΚΚΧΟ).",
+  "measurements_eaee": "-",
+  "documents": [
+    {
+      "document_number": "429025/08-02-2021",
+      "protocol_number": "ΣΚΑΡΙΦΗΜΑ/",
+      "type": "Φωτογραφικό Υλικό - Σκαρίφημα",
+      "file_url": "https://silia.eett.gr/silia/download/82925dc0-84fe-4e98-9fb4-c6147736063d"
+    },
+    {
+      "document_number": "429133/09-02-2021",
+      "protocol_number": "μελέτη EMC/09-02-2021",
+      "type": "Αποτελέσματα μελέτης στη ζώνης 2.6GHz για ΥΠΑ/ΓΕΕΘΑ",
+      "file_url": "https://silia.eett.gr/silia/download/0594dc85-c5ae-4486-9176-62de070fb5ae"
+    },
+    {
+      "document_number": "430272/26-02-2021",
+      "protocol_number": "21377 (ΚΟΙΝΟΠΟΙΗΣΗ ΓΕΑ)/26-02-2021",
+      "type": "Άλλο",
+      "file_url": "https://silia.eett.gr/silia/download/46d38247-13d8-4391-9d17-3e3a33101c2c"
+    },
+    {
+      "document_number": "430299/26-02-2021",
+      "protocol_number": "Αρχείο Αίτησης/",
+      "type": "Δήλωση ΕΚΚΧΟ",
+      "file_url": "https://silia.eett.gr/silia/download/c583b8a8-22a1-48cd-8ccb-ba909d342b2a"
+    },
+    {
+      "document_number": "451229/15-02-2022",
+      "protocol_number": "ΣΚΑΡΙΦΗΜΑ/15-02-2022",
+      "type": "Φωτογραφικό Υλικό - Σκαρίφημα",
+      "file_url": "https://silia.eett.gr/silia/download/1d20b586-4282-4980-9a73-c3dfea2860cc"
+    }
+  ]
+}

@@ -1,0 +1,75 @@
+{
+  "antenna_id": "150843",
+  "address": "ΘΕΣΗ \"ΚΡΥΦΟΣΠΗΛΙ\" , ΝΕΑ ΕΠΙΔΑΥΡΟΣ",
+  "position_code": 1405251,
+  "municipality": "Επιδαύρου",
+  "code_name": "ΝΕΑ ΕΠΙΔΑΥΡΟΣ - Χ",
+  "region": "Πελοποννήσου",
+  "latitude": 37.691944,
+  "company": "OTE",
+  "longitude": 23.145556,
+  "permit_status": "Από τα στοιχεία που τηρούνται στην Ενημερωτική Πύλη προκύπτει ότι, για τη θέση \"ΘΕΣΗ \"ΚΡΥΦΟΣΠΗΛΙ\" , ΝΕΑ ΕΠΙΔΑΥΡΟΣ\" στον Δήμο Επιδαύρου Περιφέρειας  Πελοποννήσου \n\t(κωδικός αριθμός θέσης 1405251, κωδική ονομασία \"ΝΕΑ ΕΠΙΔΑΥΡΟΣ - Χ\") χορηγήθηκε, με την Απόφαση της ΕΕΤΤ \n40030/Φ610/26-03-2021, άδεια κατασκευής κεραίας στην εταιρία OTE. \nΑπό τo έγγραφο της άδειας μπορείτε να ενημερωθείτε για τις σχετικές εγκρίσεις των συναρμόδιων φορέων, καθώς και εάν πρόκειται για τροποποίηση παλαιότερης άδειας.\nΗ άδεια χορηγήθηκε με τη διαδικασία αδειοδότησης που ορίζει ο ν. 4635/2019, κατόπιν της με αριθ. πρωτ. 37443/26-02-2020 \n\tαίτησης, και βάσει σχετικής δήλωσης του κατόχου της περί υπαγωγή της κατασκευής κεραίας στο άρθρο 34 του ν. 4635/2019.",
+  "measurements_eaee": "-",
+  "documents": [
+    {
+      "document_number": "396781/26-02-2020",
+      "protocol_number": "ΜΕΣΩ ΣΗΛΥΑ/",
+      "type": "Τοπογραφικό",
+      "file_url": "https://silia.eett.gr/silia/download/70c5faba-9b3b-4d1e-8ab6-b236eb169c69"
+    },
+    {
+      "document_number": "396782/26-02-2020",
+      "protocol_number": "ΜΕΣΩ ΣΗΛΥΑ/",
+      "type": "Αρχιτεκτονικά Σχέδια",
+      "file_url": "https://silia.eett.gr/silia/download/91adba80-9c3c-4b27-be75-6746c9806017"
+    },
+    {
+      "document_number": "396783/26-02-2020",
+      "protocol_number": "Δ3/Δ/4167/556/27-01-2000",
+      "type": "Γνωμάτευση ΥΠΑ",
+      "file_url": "https://silia.eett.gr/silia/download/70fd0c88-81f8-4433-9092-a003e5189855"
+    },
+    {
+      "document_number": "396784/26-02-2020",
+      "protocol_number": "ΜΕΣΩ ΣΗΛΥΑ/26-02-2020",
+      "type": "Αίτηση ΥΠΑ",
+      "file_url": "https://silia.eett.gr/silia/download/3e871620-a9f8-4291-a37d-d401d84c9b7c"
+    },
+    {
+      "document_number": "396785/26-02-2020",
+      "protocol_number": "ΜΕΣΩ ΣΗΛΥΑ/23-02-2020",
+      "type": "Αίτηση - Μελέτη Ραδιοεκπομπών ΕΕΑΕ",
+      "file_url": "https://silia.eett.gr/silia/download/4be5a1ee-d20b-469c-b60e-9e0b3161d8e6"
+    },
+    {
+      "document_number": "396965/26-02-2020",
+      "protocol_number": "Αρχείο Αίτησης/",
+      "type": "Αίτηση Άδειας Κατασκευής Κεραίας ΕΕΤΤ",
+      "file_url": "https://silia.eett.gr/silia/download/e568befb-6b6b-40d9-837b-32cd52fd8865"
+    },
+    {
+      "document_number": "404323/05-05-2020",
+      "protocol_number": "Μ.ι./411/5924/2020/05-05-2020",
+      "type": "Γνωμάτευση ΕΕΑΕ",
+      "file_url": "https://silia.eett.gr/silia/download/187c5b42-75f2-4923-8db6-81bc3a263b69"
+    },
+    {
+      "document_number": "433141/09-04-2021",
+      "protocol_number": "40030/Φ610/26-03-2021",
+      "type": "Άδεια Κατασκευής  Κεραίας",
+      "file_url": "https://silia.eett.gr/silia/download/23469e1e-7741-4f1a-a23f-25eac8f81581"
+    },
+    {
+      "document_number": "427642/20-01-2021",
+      "protocol_number": "ΣΥΝΟΔΕΥΤΙΚΑ ΕΓΓΡΑΦΑ /",
+      "type": "Δήλωση υπαγωγής σε ΠΠΔ και Συνοδευτικά Έγγραφα",
+      "file_url": "https://silia.eett.gr/silia/download/3fd711bd-83f7-425c-86c4-7ef34d329b31"
+    },
+    {
+      "document_number": "427643/20-01-2021",
+      "protocol_number": "Αρχείο Αίτησης/",
+      "type": "Δήλωση ΠΠΔ",
+      "file_url": "https://silia.eett.gr/silia/download/7fc9f847-bac3-41bf-856d-44592e694ace"
+    }
+  ]
+}

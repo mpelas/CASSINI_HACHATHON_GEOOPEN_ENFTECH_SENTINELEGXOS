@@ -1,0 +1,27 @@
+{
+  "antenna_id": "160898",
+  "address": "HOTEL PETALI VILLAGE ΣΙΦΝΟΣ",
+  "position_code": 1406054,
+  "municipality": "Σίφνου",
+  "code_name": "PETALI VIL MI",
+  "region": "Νοτίου Αιγαίου",
+  "latitude": 36.976667,
+  "company": "OTE",
+  "longitude": 24.722778,
+  "permit_status": "Από τα στοιχεία που τηρούνται στην Ενημερωτική Πύλη προκύπτει ότι, για τη θέση \"HOTEL PETALI VILLAGE ΣΙΦΝΟΣ\" στον Δήμο Σίφνου Περιφέρειας  Νοτίου Αιγαίου \n\t(κωδικός αριθμός θέσης 1406054, κωδική ονομασία \"PETALI VIL MI\") έχει κατατεθεί από την εταιρία OTE\tδήλωση εγκατάστασης κατασκευής κεραίας (αριθ. πρωτ. \n\t45284/20-10-2021) που εμπίπτει στις διατάξεις της νομοθεσίας για Εγκαταστάσεις Κατασκευών Κεραιών Χαμηλής Ηλεκτρομαγνητικής Περιβαλλοντικής Όχλησης (ΕΚΚΧΟ).",
+  "measurements_eaee": "-",
+  "documents": [
+    {
+      "document_number": "444417/20-10-2021",
+      "protocol_number": "ΣΚΑΡΙΦΗΜΑ/",
+      "type": "Φωτογραφικό Υλικό - Σκαρίφημα",
+      "file_url": "https://silia.eett.gr/silia/download/0f217399-f847-4cc9-843a-56cf22d7c5b6"
+    },
+    {
+      "document_number": "444509/20-10-2021",
+      "protocol_number": "Αρχείο Αίτησης/",
+      "type": "Δήλωση ΕΚΚΧΟ",
+      "file_url": "https://silia.eett.gr/silia/download/47236e3d-9e0d-4b73-87b7-b4d03e7c7de1"
+    }
+  ]
+}

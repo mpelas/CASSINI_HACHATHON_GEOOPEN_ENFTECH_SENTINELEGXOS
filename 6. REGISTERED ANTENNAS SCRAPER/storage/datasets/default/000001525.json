@@ -1,0 +1,51 @@
+{
+  "antenna_id": "156806",
+  "address": "Θέση \"Ήμερος Τόπος\", Ελευσίνα, TK 19200.",
+  "position_code": 1156251,
+  "municipality": "Ελευσίνας",
+  "code_name": "BEINOGLOU ELEFSINA 2",
+  "region": "Αττικής",
+  "latitude": 38.096944,
+  "company": "VODAFONE",
+  "longitude": 23.548333,
+  "permit_status": "Από τα στοιχεία που τηρούνται στην Ενημερωτική Πύλη προκύπτει ότι, για τη θέση \"Θέση \"Ήμερος Τόπος\", Ελευσίνα, TK 19200.\" στον Δήμο Ελευσίνας Περιφέρειας  Αττικής \n\t(κωδικός αριθμός θέσης 1156251, κωδική ονομασία \"BEINOGLOU ELEFSINA 2\") έχει κατατεθεί από την εταιρία VODAFONE\tδήλωση εγκατάστασης κατασκευής κεραίας (αριθ. πρωτ. \n\t41009/26-10-2020) που εμπίπτει στις διατάξεις της νομοθεσίας για Εγκαταστάσεις Κατασκευών Κεραιών Χαμηλής Ηλεκτρομαγνητικής Περιβαλλοντικής Όχλησης (ΕΚΚΧΟ).",
+  "measurements_eaee": "-",
+  "documents": [
+    {
+      "document_number": "419781/22-10-2020",
+      "protocol_number": "ΦΩΤΟΓΡΑΦΙΑ ΘΕΣΗΣ ΚΕΡΑΙΑΣ 1/",
+      "type": "Φωτογραφικό Υλικό - Σκαρίφημα",
+      "file_url": "https://silia.eett.gr/silia/download/998cb572-95a3-4da3-af90-9308600dcc14"
+    },
+    {
+      "document_number": "419788/22-10-2020",
+      "protocol_number": "ΣΚΑΡΙΦΗΜΑ ΘΕΣΗΣ ΚΕΡΑΙΑΣ ΕΚΚΧΟ/",
+      "type": "Φωτογραφικό Υλικό - Σκαρίφημα",
+      "file_url": "https://silia.eett.gr/silia/download/50eaad14-137b-4739-bbc8-8b83b25bc89b"
+    },
+    {
+      "document_number": "419796/22-10-2020",
+      "protocol_number": "ΤΟΠΟΓΡΑΦΙΚΟ/",
+      "type": "Τοπογραφικό",
+      "file_url": "https://silia.eett.gr/silia/download/9888a4ca-bb73-4562-9150-0ca40399a090"
+    },
+    {
+      "document_number": "419800/22-10-2020",
+      "protocol_number": "1264/12/26-02-2020",
+      "type": "Φωτογραφικό Υλικό - Σκαρίφημα",
+      "file_url": "https://silia.eett.gr/silia/download/32bf1f21-84ac-48f6-8c7f-3a8649ab2eec"
+    },
+    {
+      "document_number": "419801/22-10-2020",
+      "protocol_number": "Φ550/1216/14157/09-05-2019",
+      "type": "Έγκριση Αρμοδίου Φορέα",
+      "file_url": "https://silia.eett.gr/silia/download/58d1a662-27d7-40fd-82b2-3dc34d9faa43"
+    },
+    {
+      "document_number": "420024/26-10-2020",
+      "protocol_number": "Αρχείο Αίτησης/",
+      "type": "Δήλωση ΕΚΚΧΟ",
+      "file_url": "https://silia.eett.gr/silia/download/ecc04586-3747-4fa6-8f7f-3b93d3fe85e3"
+    }
+  ]
+}

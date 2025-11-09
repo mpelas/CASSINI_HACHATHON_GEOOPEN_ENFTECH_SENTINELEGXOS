@@ -1,0 +1,153 @@
+{
+  "antenna_id": "166379",
+  "address": "ΕΛ. ΒΕΝΙΖΕΛΟΥ 124 & ΠΡΩΤΟΠΑΠΠΑ",
+  "position_code": 1200010,
+  "municipality": "Ηλιουπόλεως",
+  "code_name": "INTER ΗΛΙΟΥΠΟΛΗ",
+  "region": "Αττικής",
+  "latitude": 37.936389,
+  "company": "NOVA Μ.Α.Ε.",
+  "longitude": 23.758611,
+  "permit_status": "Από τα στοιχεία που τηρούνται στην Ενημερωτική Πύλη προκύπτει ότι, για τη θέση \"ΕΛ. ΒΕΝΙΖΕΛΟΥ 124 & ΠΡΩΤΟΠΑΠΠΑ\" στον Δήμο Ηλιουπόλεως Περιφέρειας  Αττικής \n\t(κωδικός αριθμός θέσης 1200010, κωδική ονομασία \"INTER ΗΛΙΟΥΠΟΛΗ\") χορηγήθηκε, με την Απόφαση της ΕΕΤΤ \n47473/10-03-2023, άδεια κατασκευής κεραίας στην εταιρία NOVA Μ.Α.Ε.. \nΑπό τo έγγραφο της άδειας μπορείτε να ενημερωθείτε για τις σχετικές εγκρίσεις των συναρμόδιων φορέων, καθώς και εάν πρόκειται για τροποποίηση παλαιότερης άδειας.\n\tΣύμφωνα με τα στοιχεία που έχουν υποβληθεί στο ΣΗΛΥΑ, ο κάτοχος της κατασκευής κεραίας έχει δηλώσει ότι θα προβεί σε έκδοση έγκρισης δομικών κατασκευών \n\t\tκεραίας μέσω του e-Άδειες \n\t\tμετά την έκδοση της άδειας κατασκευής κεραίας / δημοσιοποίηση της δήλωσης τροποποίησης της κατασκευής κεραίας",
+  "measurements_eaee": "-",
+  "documents": [
+    {
+      "document_number": "473398/25-11-2022",
+      "protocol_number": "45149/Φ615/06-09-2022",
+      "type": "Χορήγηση Δικαιώματος Χρήσης Ραδιοσυχνοτήτων",
+      "file_url": null
+    },
+    {
+      "document_number": "473399/25-11-2022",
+      "protocol_number": "39801/Φ615/03-03-2021",
+      "type": "Χορήγηση Δικαιώματος Χρήσης Ραδιοσυχνοτήτων",
+      "file_url": null
+    },
+    {
+      "document_number": "473400/25-11-2022",
+      "protocol_number": "ΥΠΕΥΘΥΝΗ ΔΗΛΩΣΗ ΚΟΙΝΗΣ ΧΡΗΣΗΣ VODAFONE/18-10-2022",
+      "type": "Άλλο",
+      "file_url": "https://silia.eett.gr/silia/download/adc3877c-99e3-47a9-acf1-09ba6324eee2"
+    },
+    {
+      "document_number": "473401/25-11-2022",
+      "protocol_number": "Δ3/Δ/24765/2903/22-06-1993",
+      "type": "Γνωμάτευση ΥΠΑ",
+      "file_url": "https://silia.eett.gr/silia/download/33d1ef1b-7290-4a45-89e2-cd2b48a622f7"
+    },
+    {
+      "document_number": "473402/25-11-2022",
+      "protocol_number": "Δ3/Δ/21778/6011/30-06-2010",
+      "type": "Γνωμάτευση ΥΠΑ",
+      "file_url": "https://silia.eett.gr/silia/download/bdee5b93-7457-445b-a2d1-ce3eebb091c9"
+    },
+    {
+      "document_number": "473403/25-11-2022",
+      "protocol_number": "Δ3/Δ/31572/7829/24-10-2013",
+      "type": "Γνωμάτευση ΥΠΑ",
+      "file_url": "https://silia.eett.gr/silia/download/806a9af2-baf1-4b87-9609-59ffe10b84ff"
+    },
+    {
+      "document_number": "473404/25-11-2022",
+      "protocol_number": "Δ3/Δ/14289/5496/11-07-2017",
+      "type": "Γνωμάτευση ΥΠΑ",
+      "file_url": "https://silia.eett.gr/silia/download/0a41d2ca-2c19-4d0e-b411-bb8b5dcc57e7"
+    },
+    {
+      "document_number": "473405/25-11-2022",
+      "protocol_number": "ΜΕΛΕΤΗ ΡΑΔΙΟΕΚΠΟΜΠΩΝ/26-08-2022",
+      "type": "Αίτηση - Μελέτη Ραδιοεκπομπών ΕΕΑΕ",
+      "file_url": "https://silia.eett.gr/silia/download/3611b3cd-468f-46d9-b0ed-dab7963b8b2b"
+    },
+    {
+      "document_number": "473407/25-11-2022",
+      "protocol_number": "ΜΕΛΕΤΗ ΥΠΟΒΑΘΡΟΥ/26-08-2022",
+      "type": "Αίτηση - Μελέτη Ραδιοεκπομπών ΕΕΑΕ (υποβάθρου)",
+      "file_url": "https://silia.eett.gr/silia/download/ec78b55f-39fc-41ec-bbe9-f0282b5f923c"
+    },
+    {
+      "document_number": "473408/25-11-2022",
+      "protocol_number": "ΜΕΛΕΤΗ ΣΥΜΒΑΤΟΤΗΤΑΣ/26-08-2022",
+      "type": "Μελέτη για τη ζώνη  2,6GHz",
+      "file_url": "https://silia.eett.gr/silia/download/887271b2-cca7-46f4-b744-ddd9185b326c"
+    },
+    {
+      "document_number": "473409/25-11-2022",
+      "protocol_number": "ΜΕΛΕΤΗ ΣΥΜΒΑΤΟΤΗΤΑΣ/26-08-2022",
+      "type": "Μελέτη για τη ζώνη  2,6GHz",
+      "file_url": "https://silia.eett.gr/silia/download/fbeadd1e-6d68-4943-87f8-cc675dd7c049"
+    },
+    {
+      "document_number": "473410/25-11-2022",
+      "protocol_number": "91175/02-09-2022",
+      "type": "Αποτελέσματα μελέτης στη ζώνης 2.6GHz για ΥΠΑ/ΓΕΕΘΑ",
+      "file_url": "https://silia.eett.gr/silia/download/475df5da-7127-4eb4-a134-09c80f8d30bb"
+    },
+    {
+      "document_number": "473469/25-11-2022",
+      "protocol_number": "ΤΟΠΟΓΡΑΦΙΚΟ/",
+      "type": "Τοπογραφικό",
+      "file_url": "https://silia.eett.gr/silia/download/d1566e95-54e8-437e-b494-3f0f4d43bb58"
+    },
+    {
+      "document_number": "473470/25-11-2022",
+      "protocol_number": "ΑΡΧΙΤΕΚΤΟΝΙΚΑ ΣΧΕΔΙΑ/",
+      "type": "Αρχιτεκτονικά Σχέδια",
+      "file_url": "https://silia.eett.gr/silia/download/9251b03e-c63d-48ea-a26e-718ca759ce53"
+    },
+    {
+      "document_number": "473471/25-11-2022",
+      "protocol_number": "ΧΧΓ/",
+      "type": "Χάρτης Ευαίσθητων Χρήσεων Γης",
+      "file_url": "https://silia.eett.gr/silia/download/a1fd5ad1-f442-4e4d-bfcb-6bfa2ab64326"
+    },
+    {
+      "document_number": "473479/25-11-2022",
+      "protocol_number": "Αρχείο Αίτησης/",
+      "type": "Αίτηση Άδειας Κατασκευής Κεραίας ΕΕΤΤ",
+      "file_url": "https://silia.eett.gr/silia/download/baf462ef-e45b-4788-a4a8-a33c4cbefecb"
+    },
+    {
+      "document_number": "478209/15-02-2023",
+      "protocol_number": "ΤΜΙΑ/411/2298/2023/15-02-2023",
+      "type": "Γνωμάτευση ΕΕΑΕ",
+      "file_url": "https://silia.eett.gr/silia/download/496bec13-9bf6-4d05-8fe8-b17785c77816"
+    },
+    {
+      "document_number": "478484/20-02-2023",
+      "protocol_number": "ΜΕΛΕΤΗ ΕΣΔΕΦΡ/20-02-2023",
+      "type": "Άλλο",
+      "file_url": "https://silia.eett.gr/silia/download/aeb38ead-8a7c-4a0b-9b49-1b83266ef1aa"
+    },
+    {
+      "document_number": "480126/13-03-2023",
+      "protocol_number": "47473/10-03-2023",
+      "type": "Άδεια Κατασκευής  Κεραίας",
+      "file_url": "https://silia.eett.gr/silia/download/4fc94c4c-2ae7-456a-86a4-ad6b24862e3f"
+    },
+    {
+      "document_number": "473474/25-11-2022",
+      "protocol_number": "ΜΕΛΕΤΗ ΡΑΔΙΟΕΚΠΟΜΠΩΝ/26-08-2022",
+      "type": "Αίτηση - Μελέτη Ραδιοεκπομπών ΕΕΑΕ",
+      "file_url": "https://silia.eett.gr/silia/download/3611b3cd-468f-46d9-b0ed-dab7963b8b2b"
+    },
+    {
+      "document_number": "473475/25-11-2022",
+      "protocol_number": "ΜΕΛΕΤΗ ΥΠΟΒΑΘΡΟΥ/26-08-2022",
+      "type": "Αίτηση - Μελέτη Ραδιοεκπομπών ΕΕΑΕ (υποβάθρου)",
+      "file_url": "https://silia.eett.gr/silia/download/ec78b55f-39fc-41ec-bbe9-f0282b5f923c"
+    },
+    {
+      "document_number": "473476/25-11-2022",
+      "protocol_number": "ΧΧΓ/",
+      "type": "Χάρτης Ευαίσθητων Χρήσεων Γης",
+      "file_url": "https://silia.eett.gr/silia/download/a1fd5ad1-f442-4e4d-bfcb-6bfa2ab64326"
+    },
+    {
+      "document_number": "473480/25-11-2022",
+      "protocol_number": "Αρχείο Αίτησης/",
+      "type": "Δήλωση ΠΠΔ",
+      "file_url": "https://silia.eett.gr/silia/download/bc8786b9-f210-47b3-b5d9-9904960bd9c6"
+    }
+  ]
+}

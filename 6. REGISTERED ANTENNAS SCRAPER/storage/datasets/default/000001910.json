@@ -1,0 +1,39 @@
+{
+  "antenna_id": "159340",
+  "address": "ΣΚΑΛΑ ΠΡΙΝΟΥ, ΠΡΙΝΟΣ, ΛΙΜΕΝΑΣ ΘΑΣΟΥ (ALEA HOTEL AND SUITS)",
+  "position_code": 1291424,
+  "municipality": "Θάσου",
+  "code_name": "SKALA PRINOU ALEA HOTEL",
+  "region": "Ανατ. Μακεδονίας και Θράκης",
+  "latitude": 40.758611,
+  "company": "NOVA Μ.Α.Ε.",
+  "longitude": 24.586389,
+  "permit_status": "Από τα στοιχεία που τηρούνται στην Ενημερωτική Πύλη προκύπτει ότι, για τη θέση \"ΣΚΑΛΑ ΠΡΙΝΟΥ, ΠΡΙΝΟΣ, ΛΙΜΕΝΑΣ ΘΑΣΟΥ (ALEA HOTEL AND SUITS)\" στον Δήμο Θάσου Περιφέρειας  Ανατ. Μακεδονίας και Θράκης \n\t(κωδικός αριθμός θέσης 1291424, κωδική ονομασία \"SKALA PRINOU ALEA HOTEL\") έχει κατατεθεί από την εταιρία NOVA Μ.Α.Ε.\tδήλωση εγκατάστασης κατασκευής κεραίας (αριθ. πρωτ. \n\t44539/03-09-2021) που εμπίπτει στις διατάξεις της νομοθεσίας για Εγκαταστάσεις Κατασκευών Κεραιών Χαμηλής Ηλεκτρομαγνητικής Περιβαλλοντικής Όχλησης (ΕΚΚΧΟ).",
+  "measurements_eaee": "-",
+  "documents": [
+    {
+      "document_number": "438951/22-07-2021",
+      "protocol_number": "ΥΠΕΥΘΥΝΗ ΔΗΛΩΣΗ ΚΟΙΝΗΣ ΧΡΗΣΗΣ VODAFONE/",
+      "type": "Άλλο",
+      "file_url": "https://silia.eett.gr/silia/download/54dc259a-3e40-47cf-943c-cbc1e98dd2e7"
+    },
+    {
+      "document_number": "440171/03-09-2021",
+      "protocol_number": "ΥΠΕΥΘΥΝΗ ΔΗΛΩΣΗ ΜΗΧΑΝΙΚΟΥ/",
+      "type": "Άλλο",
+      "file_url": "https://silia.eett.gr/silia/download/c2db6f8d-1bd7-4ead-b373-83fd7681d9b6"
+    },
+    {
+      "document_number": "440232/03-09-2021",
+      "protocol_number": "ΣΚΑΡΙΦΗΜΑ ΕΚΚΧΟ/",
+      "type": "Φωτογραφικό Υλικό - Σκαρίφημα",
+      "file_url": "https://silia.eett.gr/silia/download/b805e162-43f0-440c-b651-910d43f4ca39"
+    },
+    {
+      "document_number": "440234/03-09-2021",
+      "protocol_number": "Αρχείο Αίτησης/",
+      "type": "Δήλωση ΕΚΚΧΟ",
+      "file_url": "https://silia.eett.gr/silia/download/4f00f715-e804-477f-a17f-51be7c8ddfd0"
+    }
+  ]
+}

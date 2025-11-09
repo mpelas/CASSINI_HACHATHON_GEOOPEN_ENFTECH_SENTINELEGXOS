@@ -1,0 +1,45 @@
+{
+  "antenna_id": "157067",
+  "address": "Αλαμάνας 1 Μαρούσι",
+  "position_code": 2340509,
+  "municipality": "Αμαρουσίου",
+  "code_name": "TRANSWORLD MARITIME",
+  "region": "Αττικής",
+  "latitude": 38.043611,
+  "company": "NOVA Μ.Α.Ε.",
+  "longitude": 23.807222,
+  "permit_status": "Από τα στοιχεία που τηρούνται στην Ενημερωτική Πύλη προκύπτει ότι, για τη θέση \"Αλαμάνας 1 Μαρούσι\" στον Δήμο Αμαρουσίου Περιφέρειας  Αττικής \n\t(κωδικός αριθμός θέσης 2340509, κωδική ονομασία \"TRANSWORLD MARITIME\") έχει κατατεθεί από την εταιρία NOVA Μ.Α.Ε.\tδήλωση εγκατάστασης κατασκευής κεραίας (αριθ. πρωτ. \n\t41127/10-11-2020) που εμπίπτει στις διατάξεις της νομοθεσίας για Εγκαταστάσεις Κατασκευών Κεραιών Χαμηλής Ηλεκτρομαγνητικής Περιβαλλοντικής Όχλησης (ΕΚΚΧΟ).",
+  "measurements_eaee": "-",
+  "documents": [
+    {
+      "document_number": "421326/10-11-2020",
+      "protocol_number": "Φωτογραφία/",
+      "type": "Φωτογραφικό Υλικό - Σκαρίφημα",
+      "file_url": "https://silia.eett.gr/silia/download/ac56b5aa-ec24-4e25-a855-6dd36772d050"
+    },
+    {
+      "document_number": "421327/10-11-2020",
+      "protocol_number": "δικαιωμα χρήσης/",
+      "type": "Χορήγηση Δικαιώματος Χρήσης Ραδιοσυχνοτήτων",
+      "file_url": "https://silia.eett.gr/silia/download/ee843369-edfe-4edf-8834-b43981d84699"
+    },
+    {
+      "document_number": "421328/10-11-2020",
+      "protocol_number": "δικαιωμα χρήσης/",
+      "type": "Χορήγηση Δικαιώματος Χρήσης Ραδιοσυχνοτήτων",
+      "file_url": "https://silia.eett.gr/silia/download/fac5a61e-10fa-4845-810c-b640f6e7e38f"
+    },
+    {
+      "document_number": "421329/10-11-2020",
+      "protocol_number": "δικαιωμα χρήσης/",
+      "type": "Χορήγηση Δικαιώματος Χρήσης Ραδιοσυχνοτήτων",
+      "file_url": "https://silia.eett.gr/silia/download/4c2353a8-7581-41e3-bc9b-4bf267058296"
+    },
+    {
+      "document_number": "421330/10-11-2020",
+      "protocol_number": "Αρχείο Αίτησης/",
+      "type": "Δήλωση ΕΚΚΧΟ",
+      "file_url": "https://silia.eett.gr/silia/download/0c3b82b4-d178-4620-a321-6d968a0651aa"
+    }
+  ]
+}

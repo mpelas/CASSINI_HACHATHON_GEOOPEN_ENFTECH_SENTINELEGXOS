@@ -1,0 +1,45 @@
+{
+  "antenna_id": "167655",
+  "address": "ΝΕΑ ΠΕΡΑΜΟΣ ΤΚ - ΚΑΒΑΛΑ",
+  "position_code": 1406913,
+  "municipality": "Παγγαίου",
+  "code_name": "NEA_PERAMOS_KAV",
+  "region": "Ανατ. Μακεδονίας και Θράκης",
+  "latitude": 40.845556,
+  "company": "OTE",
+  "longitude": 24.305556,
+  "permit_status": "Από τα στοιχεία που τηρούνται στην Ενημερωτική Πύλη προκύπτει ότι, για τη θέση \"ΝΕΑ ΠΕΡΑΜΟΣ ΤΚ - ΚΑΒΑΛΑ\" στον Δήμο Παγγαίου Περιφέρειας  Ανατ. Μακεδονίας και Θράκης \n\t(κωδικός αριθμός θέσης 1406913, κωδική ονομασία \"NEA_PERAMOS_KAV\") έχει κατατεθεί από την εταιρία OTE\tδήλωση εγκατάστασης κατασκευής κεραίας (αριθ. πρωτ. \n\t51378/24-04-2023) που εμπίπτει στις διατάξεις της νομοθεσίας για Εγκαταστάσεις Κατασκευών Κεραιών Χαμηλής Ηλεκτρομαγνητικής Περιβαλλοντικής Όχλησης (ΕΚΚΧΟ).",
+  "measurements_eaee": "-",
+  "documents": [
+    {
+      "document_number": "480815/23-03-2023",
+      "protocol_number": "ΦΩΤΟΓΡΑΦΙΑ/",
+      "type": "Φωτογραφικό Υλικό - Σκαρίφημα",
+      "file_url": "https://silia.eett.gr/silia/download/9c62a01c-c5ff-4115-a95a-9bc29b413041"
+    },
+    {
+      "document_number": "480816/23-03-2023",
+      "protocol_number": "ΦΩΤΟΓΡΑΦΙΑ/",
+      "type": "Φωτογραφικό Υλικό - Σκαρίφημα",
+      "file_url": "https://silia.eett.gr/silia/download/184b0ca5-af98-466f-87db-e99fbff2c78f"
+    },
+    {
+      "document_number": "482911/24-04-2023",
+      "protocol_number": "ΜΕΣΩ ΣΗΛΥΑ/",
+      "type": "Αίτηση - Μελέτη Ραδιοεκπομπών ΕΕΑΕ",
+      "file_url": "https://silia.eett.gr/silia/download/6544e8b7-57d4-43e0-8d6a-b2e25537ff9a"
+    },
+    {
+      "document_number": "482943/24-04-2023",
+      "protocol_number": "Αρχείο Αίτησης/",
+      "type": "Δήλωση ΕΚΚΧΟ",
+      "file_url": "https://silia.eett.gr/silia/download/7f1c918e-7b53-4b4b-83ab-2acced0d38b9"
+    },
+    {
+      "document_number": "489877/10-07-2023",
+      "protocol_number": "ΥΠ.ΔΗΛΩΣΗ ΕΓΚΑΤΑΣΤΑΣΗΣ/",
+      "type": "Άλλο",
+      "file_url": "https://silia.eett.gr/silia/download/cc171da5-13ae-4ec3-a8e9-f370e4742956"
+    }
+  ]
+}

@@ -1,0 +1,81 @@
+{
+  "antenna_id": "150569",
+  "address": "ΚΤΙΡΙΟ ΟΤΕ \"ΥΨΩΜΑ ΒΟΥΝΟ\" ,ΑΛΟΝΝΗΣΟΣ",
+  "position_code": 1406269,
+  "municipality": "Αλοννήσου",
+  "code_name": "ΑΛΟΝΝΗΣΟΣ Α/Τ",
+  "region": "Θεσσαλίας",
+  "latitude": 39.164167,
+  "company": "OTE",
+  "longitude": 23.859167,
+  "permit_status": "Από τα στοιχεία που τηρούνται στην Ενημερωτική Πύλη προκύπτει ότι, για τη θέση \"ΚΤΙΡΙΟ ΟΤΕ \"ΥΨΩΜΑ ΒΟΥΝΟ\" ,ΑΛΟΝΝΗΣΟΣ\" στον Δήμο Αλοννήσου Περιφέρειας  Θεσσαλίας \n\t(κωδικός αριθμός θέσης 1406269, κωδική ονομασία \"ΑΛΟΝΝΗΣΟΣ Α/Τ\") χορηγήθηκε, με την Απόφαση της ΕΕΤΤ \n40526/Φ610/17-05-2021, άδεια κατασκευής κεραίας στην εταιρία OTE. \nΑπό τo έγγραφο της άδειας μπορείτε να ενημερωθείτε για τις σχετικές εγκρίσεις των συναρμόδιων φορέων, καθώς και εάν πρόκειται για τροποποίηση παλαιότερης άδειας.\nΗ άδεια χορηγήθηκε με τη διαδικασία αδειοδότησης που ορίζει ο ν. 4635/2019, κατόπιν της με αριθ. πρωτ. 37239/20-02-2020 \n\tαίτησης, και βάσει σχετικής δήλωσης του κατόχου της περί υπαγωγή της κατασκευής κεραίας στο άρθρο 34 του ν. 4635/2019.",
+  "measurements_eaee": "-",
+  "documents": [
+    {
+      "document_number": "395265/20-02-2020",
+      "protocol_number": "ΜΕΣΩ ΣΗΛΥΑ/",
+      "type": "Αρχιτεκτονικά Σχέδια",
+      "file_url": "https://silia.eett.gr/silia/download/fb28eac4-f052-4c2b-ac3a-08d2a1c13d60"
+    },
+    {
+      "document_number": "395266/20-02-2020",
+      "protocol_number": "Δ3/Δ/2762/311/03-03-1999",
+      "type": "Γνωμάτευση ΥΠΑ",
+      "file_url": "https://silia.eett.gr/silia/download/377c7c34-c7c7-464e-bac2-b8c18f040dcf"
+    },
+    {
+      "document_number": "395267/20-02-2020",
+      "protocol_number": "ΜΕΣΩ ΣΗΛΥΑ/11-02-2020",
+      "type": "Αίτηση - Μελέτη Ραδιοεκπομπών ΕΕΑΕ",
+      "file_url": "https://silia.eett.gr/silia/download/73dcf54d-ef90-4c0c-a1ac-c5ae52a5ce35"
+    },
+    {
+      "document_number": "395268/20-02-2020",
+      "protocol_number": "ΥΠ.ΔΗΛΩΣΗ ΣΥΝΕΓΚΑΤΑΣΤΑΣΗΣ ΟΤΕ/20-02-2020",
+      "type": "Άλλο",
+      "file_url": "https://silia.eett.gr/silia/download/9037315d-36c7-4042-ac20-ec431923b3f1"
+    },
+    {
+      "document_number": "395319/20-02-2020",
+      "protocol_number": "ΜΕΣΩ ΣΗΛΥΑ/",
+      "type": "Τοπογραφικό",
+      "file_url": "https://silia.eett.gr/silia/download/526aecec-80f0-42a1-a876-c0f08eb4301d"
+    },
+    {
+      "document_number": "395320/20-02-2020",
+      "protocol_number": "Αρχείο Αίτησης/",
+      "type": "Αίτηση Άδειας Κατασκευής Κεραίας ΕΕΤΤ",
+      "file_url": "https://silia.eett.gr/silia/download/da657660-c7e2-4d2e-b79c-083d45b55d44"
+    },
+    {
+      "document_number": "411484/23-06-2020",
+      "protocol_number": "Μ.ι./411/7839/2020/17-06-2020",
+      "type": "Γνωμάτευση ΕΕΑΕ",
+      "file_url": "https://silia.eett.gr/silia/download/b58dac02-159c-4e10-b204-2d60ff0e1915"
+    },
+    {
+      "document_number": "414257/28-07-2020",
+      "protocol_number": "Δ3/Δ/24971/28-7-2020/28-07-2020",
+      "type": "Γνωμάτευση ΥΠΑ",
+      "file_url": "https://silia.eett.gr/silia/download/1605ce75-c48d-4852-85f8-97727e775072"
+    },
+    {
+      "document_number": "435283/24-05-2021",
+      "protocol_number": "40526/Φ610/17-05-2021",
+      "type": "Άδεια Κατασκευής  Κεραίας",
+      "file_url": "https://silia.eett.gr/silia/download/a6e16d96-8de2-44e7-8f5b-967c6e696eef"
+    },
+    {
+      "document_number": "427529/18-01-2021",
+      "protocol_number": "ΣΥΝΟΔΕΥΤΙΚΑ ΕΓΓΡΑΦΑ/",
+      "type": "Δήλωση υπαγωγής σε ΠΠΔ και Συνοδευτικά Έγγραφα",
+      "file_url": "https://silia.eett.gr/silia/download/0c0feef0-d0aa-4593-96d0-5e49a3761c6a"
+    },
+    {
+      "document_number": "427530/18-01-2021",
+      "protocol_number": "Αρχείο Αίτησης/",
+      "type": "Δήλωση ΠΠΔ",
+      "file_url": "https://silia.eett.gr/silia/download/10c8f2b3-6a20-480d-82cb-fdc8412b92bb"
+    }
+  ]
+}

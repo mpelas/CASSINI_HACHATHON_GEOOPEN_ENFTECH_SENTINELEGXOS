@@ -1,0 +1,63 @@
+{
+  "antenna_id": "171397",
+  "address": "ΕΓΝΑΤΙΑ ΟΔΟΣ ΣΥΡΑΓΓΑ Τ8 ΔΥΤΙΚΟ ΤΜΗΜΑ , ΜΑΛΑΚΑΣΙ",
+  "position_code": 1541722,
+  "municipality": "Δωδώνης",
+  "code_name": "EOSENIKWEST_MI",
+  "region": "Ηπείρου",
+  "latitude": 39.553333,
+  "company": "OTE",
+  "longitude": 20.643333,
+  "permit_status": "Από τα στοιχεία που τηρούνται στην Ενημερωτική Πύλη προκύπτει ότι, για τη θέση \"ΕΓΝΑΤΙΑ ΟΔΟΣ ΣΥΡΑΓΓΑ Τ8 ΔΥΤΙΚΟ ΤΜΗΜΑ , ΜΑΛΑΚΑΣΙ\" στον Δήμο Δωδώνης Περιφέρειας  Ηπείρου \n\t(κωδικός αριθμός θέσης 1541722, κωδική ονομασία \"EOSENIKWEST_MI\") έχει κατατεθεί από την εταιρία OTE\tδήλωση εγκατάστασης κατασκευής κεραίας (αριθ. πρωτ. \n\t54134/12-12-2023) που εμπίπτει στις διατάξεις της νομοθεσίας για Εγκαταστάσεις Κατασκευών Κεραιών Χαμηλής Ηλεκτρομαγνητικής Περιβαλλοντικής Όχλησης (ΕΚΚΧΟ).",
+  "measurements_eaee": "-",
+  "documents": [
+    {
+      "document_number": "502910/12-12-2023",
+      "protocol_number": "ΜΕΣΩ ΣΗΛΥΑ/",
+      "type": "Αίτηση - Μελέτη Ραδιοεκπομπών ΕΕΑΕ",
+      "file_url": "https://silia.eett.gr/silia/download/41842443-4e29-4f11-b57f-60965f5760f4"
+    },
+    {
+      "document_number": "502911/12-12-2023",
+      "protocol_number": "ΦΩΤΟΓΡΑΦΙΑ/",
+      "type": "Φωτογραφικό Υλικό - Σκαρίφημα",
+      "file_url": "https://silia.eett.gr/silia/download/72eb53aa-cd0d-4265-bf91-b26a81ff12e0"
+    },
+    {
+      "document_number": "502912/12-12-2023",
+      "protocol_number": "ΦΩΤΟΓΡΑΦΙΑ/",
+      "type": "Φωτογραφικό Υλικό - Σκαρίφημα",
+      "file_url": "https://silia.eett.gr/silia/download/a6be9ba0-94df-42ed-8777-fcb062ac4343"
+    },
+    {
+      "document_number": "502913/12-12-2023",
+      "protocol_number": "ΣΚΑΡΙΦΗΜΑ/",
+      "type": "Φωτογραφικό Υλικό - Σκαρίφημα",
+      "file_url": "https://silia.eett.gr/silia/download/b487ab6f-eace-4f94-823f-663ba482049a"
+    },
+    {
+      "document_number": "502914/12-12-2023",
+      "protocol_number": "ΣΚΑΡΙΦΗΜΑ/",
+      "type": "Φωτογραφικό Υλικό - Σκαρίφημα",
+      "file_url": "https://silia.eett.gr/silia/download/1c6f564a-a99d-4f84-9e22-eb004f574cbb"
+    },
+    {
+      "document_number": "502967/12-12-2023",
+      "protocol_number": "ΣΚΑΡΙΦΗΜΑ/12-12-2023",
+      "type": "Φωτογραφικό Υλικό - Σκαρίφημα",
+      "file_url": "https://silia.eett.gr/silia/download/4355ae4b-2d10-4583-b297-d1c080e9febf"
+    },
+    {
+      "document_number": "502968/12-12-2023",
+      "protocol_number": "Αρχείο Αίτησης/",
+      "type": "Δήλωση ΕΚΚΧΟ",
+      "file_url": "https://silia.eett.gr/silia/download/d9f16b25-22a6-4d0d-9782-f8596dc6557d"
+    },
+    {
+      "document_number": "506014/30-01-2024",
+      "protocol_number": "ΜΕΣΩ ΣΗΛΥΑ/",
+      "type": "Άλλο",
+      "file_url": "https://silia.eett.gr/silia/download/7d9167c9-f7c1-4ee0-a7ec-3f6dc977218a"
+    }
+  ]
+}

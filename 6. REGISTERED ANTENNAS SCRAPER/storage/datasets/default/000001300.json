@@ -1,0 +1,165 @@
+{
+  "antenna_id": "84190",
+  "address": "ΘΕΣΗ \"ΜΕΓΑΛΟ ΠΛΑΙ\"",
+  "position_code": 1016232,
+  "municipality": "Δελφών",
+  "code_name": "DESFINA FOKIDOS-P",
+  "region": "Στερεάς Ελλάδας",
+  "latitude": 38.438333,
+  "company": "VODAFONE",
+  "longitude": 22.546389,
+  "permit_status": "Από τα στοιχεία που τηρούνται στην Ενημερωτική Πύλη προκύπτει ότι, για τη θέση \"ΘΕΣΗ \"ΜΕΓΑΛΟ ΠΛΑΙ\"\" στον Δήμο Δελφών Περιφέρειας  Στερεάς Ελλάδας \n\t(κωδικός αριθμός θέσης 1016232, κωδική ονομασία \"DESFINA FOKIDOS-P\") χορηγήθηκε, με την Απόφαση της ΕΕΤΤ \n19040/Φ610/22-01-2016, άδεια κατασκευής κεραίας στην εταιρία VODAFONE. \nΑπό τo έγγραφο της άδειας μπορείτε να ενημερωθείτε για τις σχετικές εγκρίσεις των συναρμόδιων φορέων, καθώς και εάν πρόκειται για τροποποίηση παλαιότερης άδειας.\nΗ άδεια χορηγήθηκε κατόπιν της με Αριθ. Πρωτ. 16213/20-04-2011 αίτησης. \nΗ κατασκευή, κατά δήλωση της εταιρίας, πληρούσε τις προϋποθέσεις του άρθρου 31 του Ν.4053/2012 και η εταιρία αιτήθηκε \n(Αριθ. ΣΗΛΥΑ 2045/03-06-2013) την υπαγωγή της κατασκευής στη διαδικασία αδειοδότησης της παρ. 17 του Ν.4070/2012, \nλόγω αναβάθμισης των παρεχόμενων προς το κοινό υπηρεσιών.\nΕπιπλέον, έχει υποβληθεί η με αριθ. πρωτ. ΣΗΛΥΑ 16073/07-03-2016 (Δήλωση παρ. 14 άρθρ. 60 ν. 4313/2014) δήλωση που αφορά σε τροποποίηση/επικαιροποίηση στοιχείων της κατασκευής κεραίας που αφορούν τον(ους) Τομέα(εις) Αδειοδότησης:Κεραιοσυστήματα, Περιβάλλον.\n\tΔιευκρινίζεται ότι υπό ορισμένες προϋποθέσεις για την τροποποίηση αδειοδοτημένης κατασκευής κεραίας ή/και την επικαιροποίηση στοιχείων της δεν απαιτείται η έκδοση νέας άδειας \n\tκατασκευής κεραίας ή η τροποποίηση της υφιστάμενης άδειας κατασκευής κεραίας, αλλά απαιτείται η υποβολή κατάλληλης δήλωσης από τον κάτοχο της κατασκευής κεραίας συνοδευόμενη \n\tαπό επικαιροποίηση επιμέρους εγκρίσεων.",
+  "measurements_eaee": "-",
+  "documents": [
+    {
+      "document_number": "72979/03-06-2013",
+      "protocol_number": "776/18-03-0013",
+      "type": "Τοπογραφικό",
+      "file_url": "https://silia.eett.gr/silia/download/d76ac591-f67b-4f63-8edc-31ebd1b6cdcc"
+    },
+    {
+      "document_number": "72980/03-06-2013",
+      "protocol_number": "776/13-03-2013",
+      "type": "Αρχιτεκτονικά Σχέδια",
+      "file_url": "https://silia.eett.gr/silia/download/4262e3ef-efa6-471b-961f-94df4cf5a124"
+    },
+    {
+      "document_number": "72981/03-06-2013",
+      "protocol_number": "22377/15-06-2005",
+      "type": "Αίτηση ΥΠΑ",
+      "file_url": "https://silia.eett.gr/silia/download/e14e696d-6e26-4787-969d-46277dcd57f5"
+    },
+    {
+      "document_number": "72982/03-06-2013",
+      "protocol_number": "Δ3/Δ/24213/6078/21-07-2005",
+      "type": "Γνωμάτευση ΥΠΑ",
+      "file_url": "https://silia.eett.gr/silia/download/143a7e02-3f9d-46f5-844e-b2f7c022b101"
+    },
+    {
+      "document_number": "72983/03-06-2013",
+      "protocol_number": "ΜΕΛΕΤΗ Ρ/Ε/26-02-2013",
+      "type": "Αίτηση - Μελέτη Ραδιοεκπομπών ΕΕΑΕ (αναβάθμισης)",
+      "file_url": "https://silia.eett.gr/silia/download/23ebfef7-771b-48d8-8974-9fa042120277"
+    },
+    {
+      "document_number": "72984/03-06-2013",
+      "protocol_number": "22626/7172 νομιμως/27-11-2007",
+      "type": "Αίτηση / Μελέτη για Έγκριση Περιβαλλοντικών Επιπτώσεων",
+      "file_url": "https://silia.eett.gr/silia/download/142bbc38-61bd-48af-89f1-e1bf48c88349"
+    },
+    {
+      "document_number": "72985/03-06-2013",
+      "protocol_number": "58381/1919/22-05-2013",
+      "type": "Επιστροφή Αίτησης από Αρμόδιο Φορέα",
+      "file_url": "https://silia.eett.gr/silia/download/2795d232-a338-4223-89e7-9c3ae4b9eb48"
+    },
+    {
+      "document_number": "72986/03-06-2013",
+      "protocol_number": "M.i./411/2244 νομιμως/30-11-2006",
+      "type": "Γνωμάτευση ΕΕΑΕ",
+      "file_url": "https://silia.eett.gr/silia/download/9f7aa930-87dc-461c-a7c7-ab93b2bee51b"
+    },
+    {
+      "document_number": "72987/03-06-2013",
+      "protocol_number": "16213 νομιμως/20-04-2011",
+      "type": "Αίτηση Άδειας Κατασκευής Κεραίας ΕΕΤΤ (νομίμως λειτουργούσα)",
+      "file_url": "https://silia.eett.gr/silia/download/04738ead-a00a-4bc2-8076-91fdc750f981"
+    },
+    {
+      "document_number": "72988/03-06-2013",
+      "protocol_number": "ΥΠΑΓΩΓΗ ΣΕ ΠΠΔ/28-05-2013",
+      "type": "Δήλωση υπαγωγής σε ΠΠΔ και Συνοδευτικά Έγγραφα",
+      "file_url": "https://silia.eett.gr/silia/download/3859553f-0285-4230-9b98-27cf018e9166"
+    },
+    {
+      "document_number": "72990/03-06-2013",
+      "protocol_number": "201104151121240020/15-04-2011",
+      "type": "Αποδεικτικό Καταβολής Τελών ΕΕΤΤ",
+      "file_url": "https://silia.eett.gr/silia/download/871a97fc-a58c-48e9-80a2-b8efcb6daef0"
+    },
+    {
+      "document_number": "73100/03-06-2013",
+      "protocol_number": "Αρχείο Αίτησης/",
+      "type": "Αίτηση Άδειας Κατασκευής Κεραίας ΕΕΤΤ",
+      "file_url": "https://silia.eett.gr/silia/download/26434792-fbb6-475b-8204-22f8b8a5744e"
+    },
+    {
+      "document_number": "85541/01-08-2013",
+      "protocol_number": "22626/7172/27-11-2007",
+      "type": "Αίτηση / Μελέτη για Έγκριση Περιβαλλοντικών Επιπτώσεων (νόμιμη λειτουργία)",
+      "file_url": null
+    },
+    {
+      "document_number": "108355/24-10-2013",
+      "protocol_number": "Μ.ι./411/1440/24-10-2013",
+      "type": "Γνωμάτευση ΕΕΑΕ",
+      "file_url": "https://silia.eett.gr/silia/download/1e680ecb-bfd1-4722-a6ee-e346fc0d4d96"
+    },
+    {
+      "document_number": "114622/27-11-2013",
+      "protocol_number": "ΙΔΙΩΤΙΚΟ ΣΥΜΦΩΝΗΤΙΚΟ ΜΙΣΘΩΣΕΩΣ/24-08-2006",
+      "type": "Άλλο",
+      "file_url": "https://silia.eett.gr/silia/download/a5d0c4bf-1459-41b1-a156-fdbc28a05e91"
+    },
+    {
+      "document_number": "136795/18-03-2014",
+      "protocol_number": "ΣΥΜΦΩΝΗΤΙΚΟ ΜΙΣΘΩΣΕΩΣ/24-08-2006",
+      "type": "Άλλο",
+      "file_url": "https://silia.eett.gr/silia/download/912180ed-effe-4492-9ddd-5c97070f153c"
+    },
+    {
+      "document_number": "140328/03-04-2014",
+      "protocol_number": "11411/Φ615/03-04-2014",
+      "type": "Χορήγηση Δικαιώματος Χρήσης Ραδιοσυχνοτήτων",
+      "file_url": "https://silia.eett.gr/silia/download/d3b92d78-2959-48ef-a10c-4df3666b8cfa"
+    },
+    {
+      "document_number": "173444/12-05-2014",
+      "protocol_number": "776/09-04-2014",
+      "type": "Έγκριση δομικών κατασκευών (έντυπη)",
+      "file_url": "https://silia.eett.gr/silia/download/d4c7f713-b7fb-4224-a268-bf0030a67599"
+    },
+    {
+      "document_number": "246928/27-01-2016",
+      "protocol_number": "19040/Φ610/22-01-2016",
+      "type": "Άδεια Κατασκευής  Κεραίας",
+      "file_url": "https://silia.eett.gr/silia/download/34d52cdb-1317-47fb-8638-7a7d187d52d7"
+    },
+    {
+      "document_number": "252300/07-03-2016",
+      "protocol_number": "Μελέτη Ρ/Ε και Σχέδια/",
+      "type": "Αίτηση - Μελέτη Ραδιοεκπομπών ΕΕΑΕ (αναβάθμισης)",
+      "file_url": "https://silia.eett.gr/silia/download/e7ea73dc-ec92-45af-b857-2cb8a8cbf218"
+    },
+    {
+      "document_number": "252301/07-03-2016",
+      "protocol_number": "ΥΔ WIND/",
+      "type": "Άλλο",
+      "file_url": "https://silia.eett.gr/silia/download/27b4630b-7779-4343-94af-292c4215e133"
+    },
+    {
+      "document_number": "252302/07-03-2016",
+      "protocol_number": "ΥΔ Διασύνδεσης/",
+      "type": "Άλλο",
+      "file_url": "https://silia.eett.gr/silia/download/5aa2e9eb-714c-47e0-b932-9e0bd2d8331b"
+    },
+    {
+      "document_number": "252319/07-03-2016",
+      "protocol_number": "Αρχείο Αίτησης/",
+      "type": "Δήλωση Αναβάθμισης",
+      "file_url": "https://silia.eett.gr/silia/download/391c4fad-7842-4ef4-9a62-35ca984815ac"
+    },
+    {
+      "document_number": "264057/27-06-2016",
+      "protocol_number": "Μ.ι./411/7002/2016/16-06-2016",
+      "type": "Γνωμάτευση ΕΕΑΕ",
+      "file_url": "https://silia.eett.gr/silia/download/b9d0393a-89d8-4e1d-ba03-8052fc4ff9b6"
+    },
+    {
+      "document_number": "326177/05-04-2018",
+      "protocol_number": "ΣΥΝΟΔΕΥΤΙΚΑ ΕΓΓΡΑΦΑ ΠΠΔ/",
+      "type": "Δήλωση υπαγωγής σε ΠΠΔ και Συνοδευτικά Έγγραφα",
+      "file_url": "https://silia.eett.gr/silia/download/f785fc57-0a81-43e7-856b-b243e3b245ea"
+    }
+  ]
+}

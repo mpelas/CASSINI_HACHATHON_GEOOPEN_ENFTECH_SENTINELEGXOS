@@ -1,0 +1,33 @@
+{
+  "antenna_id": "158308",
+  "address": "Β' ΒΙΠΕ 9Α, ΔΡΟΜΟΣ 6ος ΒΟΛΟΥ",
+  "position_code": 1268132,
+  "municipality": "Ρήγα Φερραίου",
+  "code_name": "YARA INTERNATIONAL VOLOS",
+  "region": "Θεσσαλίας",
+  "latitude": 39.395278,
+  "company": "NOVA Μ.Α.Ε.",
+  "longitude": 22.804722,
+  "permit_status": "Από τα στοιχεία που τηρούνται στην Ενημερωτική Πύλη προκύπτει ότι, για τη θέση \"Β' ΒΙΠΕ 9Α, ΔΡΟΜΟΣ 6ος ΒΟΛΟΥ\" στον Δήμο Ρήγα Φερραίου Περιφέρειας  Θεσσαλίας \n\t(κωδικός αριθμός θέσης 1268132, κωδική ονομασία \"YARA INTERNATIONAL VOLOS\") έχει κατατεθεί από την εταιρία NOVA Μ.Α.Ε.\tδήλωση εγκατάστασης κατασκευής κεραίας (αριθ. πρωτ. \n\t42881/17-02-2021) που εμπίπτει στις διατάξεις της νομοθεσίας για Εγκαταστάσεις Κατασκευών Κεραιών Χαμηλής Ηλεκτρομαγνητικής Περιβαλλοντικής Όχλησης (ΕΚΚΧΟ).",
+  "measurements_eaee": "-",
+  "documents": [
+    {
+      "document_number": "429638/17-02-2021",
+      "protocol_number": "ΣΚΑΡΙΦΗΜΑ ΕΚΚΧΟ/",
+      "type": "Φωτογραφικό Υλικό - Σκαρίφημα",
+      "file_url": "https://silia.eett.gr/silia/download/29b09000-bfc5-410d-b1eb-260c0e810429"
+    },
+    {
+      "document_number": "429646/17-02-2021",
+      "protocol_number": "Αρχείο Αίτησης/",
+      "type": "Δήλωση ΕΚΚΧΟ",
+      "file_url": "https://silia.eett.gr/silia/download/f6f3112b-c8a7-48d0-a509-767859c62528"
+    },
+    {
+      "document_number": "438343/13-07-2021",
+      "protocol_number": "ΥΠΕΥΘΥΝΗ ΔΗΛΩΣΗ ΜΗΧΑΝΙΚΟΥ/",
+      "type": "Άλλο",
+      "file_url": "https://silia.eett.gr/silia/download/247ef42d-0dfa-4a2d-8b28-4e3707980052"
+    }
+  ]
+}

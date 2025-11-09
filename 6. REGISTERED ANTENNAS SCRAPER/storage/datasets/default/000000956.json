@@ -1,0 +1,87 @@
+{
+  "antenna_id": "105164",
+  "address": "ΕΠΙ ΟΔΟΥ ΒΑΣ.ΠΑΥΛΟΥ",
+  "position_code": 60283,
+  "municipality": "Βάρης - Βούλας - Βουλιαγμένης",
+  "code_name": "ΒΟΥΛΑ Τ/Κ",
+  "region": "Αττικής",
+  "latitude": 37.841667,
+  "company": "OTE",
+  "longitude": 23.765,
+  "permit_status": "Από τα στοιχεία που τηρούνται στην Ενημερωτική Πύλη προκύπτει ότι, για τη θέση \"ΕΠΙ ΟΔΟΥ ΒΑΣ.ΠΑΥΛΟΥ\" στον Δήμο Βάρης - Βούλας - Βουλιαγμένης Περιφέρειας  Αττικής \n\t(κωδικός αριθμός θέσης 0060283, κωδική ονομασία \"ΒΟΥΛΑ Τ/Κ\") χορηγήθηκε, με την Απόφαση της ΕΕΤΤ \n21074/Φ610/21-07-2016, άδεια κατασκευής κεραίας στην εταιρία OTE. \nΑπό τo έγγραφο της άδειας μπορείτε να ενημερωθείτε για τις σχετικές εγκρίσεις των συναρμόδιων φορέων, καθώς και εάν πρόκειται για τροποποίηση παλαιότερης άδειας.\n\tΗ άδεια χορηγήθηκε κατόπιν της με Αριθ. Πρωτ. 58497 /10-11-2008 αίτησης. \n\tΓια την έκδοση της άδειας εφαρμόστηκε το προγενέστερο του Ν.4053/2012 νομοθετικό πλαίσιο, καθώς κατά δήλωση της εταιρίας, η κατασκευή πληρούσε \nτις προϋποθέσεις του άρθρου 31 του Ν.4053/2012.",
+  "measurements_eaee": "-",
+  "documents": [
+    {
+      "document_number": "201216/26-03-2015",
+      "protocol_number": "11898/22-12-2008",
+      "type": "Αίτηση - Μελέτη Ραδιοεκπομπών ΕΕΑΕ",
+      "file_url": "https://silia.eett.gr/silia/download/1acae06d-0d3a-41db-837b-102ba2b42147"
+    },
+    {
+      "document_number": "201217/26-03-2015",
+      "protocol_number": "Μ.ι./411/1553/27-03-2009",
+      "type": "Γνωμάτευση ΕΕΑΕ",
+      "file_url": "https://silia.eett.gr/silia/download/c70dd9dd-27af-4fc7-a86a-458dae20b230"
+    },
+    {
+      "document_number": "201218/26-03-2015",
+      "protocol_number": "Δ3/Δ/14387/3379/24-04-2007",
+      "type": "Γνωμάτευση ΥΠΑ",
+      "file_url": "https://silia.eett.gr/silia/download/66e43935-4fc4-4309-becb-dbd9b24a9d2d"
+    },
+    {
+      "document_number": "201219/26-03-2015",
+      "protocol_number": "58497/10-11-2008",
+      "type": "Αίτηση Άδειας Κατασκευής Κεραίας ΕΕΤΤ (νομίμως λειτουργούσα)",
+      "file_url": "https://silia.eett.gr/silia/download/429445b2-ee2c-4972-9764-c5a2574853be"
+    },
+    {
+      "document_number": "201220/26-03-2015",
+      "protocol_number": "Υπεύθυνη δήλωση από κοινού χρήσης/21-01-2014",
+      "type": "Άλλο",
+      "file_url": null
+    },
+    {
+      "document_number": "201221/26-03-2015",
+      "protocol_number": "139/05-07-2007",
+      "type": "Αποδεικτικό Καταβολής Τελών ΕΕΤΤ",
+      "file_url": "https://silia.eett.gr/silia/download/0d91e536-b524-4f95-bb6d-814a6fe8f01f"
+    },
+    {
+      "document_number": "201222/26-03-2015",
+      "protocol_number": "ΜΕΣΩ ΣΗΛΥΑ/21-01-2015",
+      "type": "Δήλωση υπαγωγής σε ΠΠΔ και Συνοδευτικά Έγγραφα",
+      "file_url": "https://silia.eett.gr/silia/download/e27ced8e-67f5-4ab8-b326-5c17fd7a729e"
+    },
+    {
+      "document_number": "226739/31-07-2015",
+      "protocol_number": "Αρχείο Αίτησης/",
+      "type": "Αίτηση Άδειας Κατασκευής Κεραίας ΕΕΤΤ",
+      "file_url": "https://silia.eett.gr/silia/download/26e1367d-6bc7-47b0-9853-62e41b5aa63d"
+    },
+    {
+      "document_number": "265535/11-07-2016",
+      "protocol_number": "ΥΔ ΔΙΟΡΘΩΣΗΣ ΕΚ ΠΑΡΑΔΡΟΜΗΣ ΛΑΘΩΝ/11-07-2016",
+      "type": "Άλλο",
+      "file_url": "https://silia.eett.gr/silia/download/8c44fc48-86b8-4e01-b91f-f6776d94eef7"
+    },
+    {
+      "document_number": "266780/22-07-2016",
+      "protocol_number": "21074/Φ610/21-07-2016",
+      "type": "Άδεια Κατασκευής  Κεραίας",
+      "file_url": "https://silia.eett.gr/silia/download/299d72ff-c9ab-4ca1-90b5-8d554910cc91"
+    },
+    {
+      "document_number": "265527/11-07-2016",
+      "protocol_number": "ΣΥΝΟΔΕΥΤΙΚΑ ΕΓΓΡΑΦΑ/",
+      "type": "Δήλωση υπαγωγής σε ΠΠΔ και Συνοδευτικά Έγγραφα",
+      "file_url": "https://silia.eett.gr/silia/download/f83233dd-64a5-4e5f-8161-8ac06a2b04ce"
+    },
+    {
+      "document_number": "265534/11-07-2016",
+      "protocol_number": "Αρχείο Αίτησης/",
+      "type": "Δήλωση ΠΠΔ",
+      "file_url": "https://silia.eett.gr/silia/download/0fec2f08-1b9f-4d15-a3ee-161263e18b7f"
+    }
+  ]
+}

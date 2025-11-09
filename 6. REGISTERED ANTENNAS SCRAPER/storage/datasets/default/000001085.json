@@ -1,0 +1,51 @@
+{
+  "antenna_id": "171254",
+  "address": "ΠΥΡΟΣΒΕΣΤΙΚΟ ΚΛΙΜΑΚΙΟ ΑΣΤΡΟΥΣ (7768), ΠΡΟΣΗΛΙΑ ΑΡΚΑΔΙΑΣ",
+  "position_code": 1269012,
+  "municipality": "Βόρειας Κυνουρίας",
+  "code_name": "SYZEFXIS P.K. ASTROUS",
+  "region": "Πελοποννήσου",
+  "latitude": 37.438333,
+  "company": "NOVA Μ.Α.Ε.",
+  "longitude": 22.646944,
+  "permit_status": "Από τα στοιχεία που τηρούνται στην Ενημερωτική Πύλη προκύπτει ότι, για τη θέση \"ΠΥΡΟΣΒΕΣΤΙΚΟ ΚΛΙΜΑΚΙΟ ΑΣΤΡΟΥΣ (7768), ΠΡΟΣΗΛΙΑ ΑΡΚΑΔΙΑΣ \" στον Δήμο Βόρειας Κυνουρίας Περιφέρειας  Πελοποννήσου \n\t(κωδικός αριθμός θέσης 1269012, κωδική ονομασία \"SYZEFXIS P.K. ASTROUS\") έχει κατατεθεί από την εταιρία NOVA Μ.Α.Ε.\tδήλωση εγκατάστασης κατασκευής κεραίας (αριθ. πρωτ. \n\t54031/30-11-2023) που εμπίπτει στις διατάξεις της νομοθεσίας για Εγκαταστάσεις Κατασκευών Κεραιών Χαμηλής Ηλεκτρομαγνητικής Περιβαλλοντικής Όχλησης (ΕΚΚΧΟ).",
+  "measurements_eaee": "-",
+  "documents": [
+    {
+      "document_number": "501998/29-11-2023",
+      "protocol_number": "ΦΩΤΟΓΡΑΦΙΑ ΕΚΚΧΟ/",
+      "type": "Φωτογραφικό Υλικό - Σκαρίφημα",
+      "file_url": "https://silia.eett.gr/silia/download/0d6ea62e-27c6-480d-ba73-e0798b9b90e6"
+    },
+    {
+      "document_number": "501999/29-11-2023",
+      "protocol_number": "ΣΚΑΡΙΦΗΜΑ ΕΚΚΧΟ/",
+      "type": "Φωτογραφικό Υλικό - Σκαρίφημα",
+      "file_url": "https://silia.eett.gr/silia/download/23c711d1-1188-4193-9758-924cf7c02ebd"
+    },
+    {
+      "document_number": "502000/29-11-2023",
+      "protocol_number": "ΑΠΕΙΚΟΝΙΣΗ GOOGLE EARTH/",
+      "type": "Άλλο",
+      "file_url": "https://silia.eett.gr/silia/download/d6a7b077-5996-40ff-a193-dcd16cbe9615"
+    },
+    {
+      "document_number": "502168/30-11-2023",
+      "protocol_number": "ΜΕΛΕΤΗ ΕΚΚΧΟ/",
+      "type": "Άλλο",
+      "file_url": "https://silia.eett.gr/silia/download/bbfd6cb2-c1f3-44ea-b1e9-73a30f38f7d4"
+    },
+    {
+      "document_number": "502169/30-11-2023",
+      "protocol_number": "Αρχείο Αίτησης/",
+      "type": "Δήλωση ΕΚΚΧΟ",
+      "file_url": "https://silia.eett.gr/silia/download/5b5a4283-407d-4fe6-bdc9-151b7ce76ff3"
+    },
+    {
+      "document_number": "511684/29-03-2024",
+      "protocol_number": "ΥΠΕΥΘΥΝΗ ΔΗΛΩΣΗ ΕΓΚΑΤΑΣΤΑΣΗΣ/29-03-2024",
+      "type": "Άλλο",
+      "file_url": "https://silia.eett.gr/silia/download/gYgirCYzM46e3gABhLTinq8xHgyxbe5wqKgg"
+    }
+  ]
+}

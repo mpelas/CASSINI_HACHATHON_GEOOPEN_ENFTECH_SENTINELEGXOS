@@ -1,0 +1,57 @@
+{
+  "antenna_id": "180451",
+  "address": "καλαμος.",
+  "position_code": 1442727,
+  "municipality": "Βόλου",
+  "code_name": "KALAMOS_MAGN",
+  "region": "Θεσσαλίας",
+  "latitude": 39.224167,
+  "company": "OTE",
+  "longitude": 23.186111,
+  "permit_status": "Από τα στοιχεία που τηρούνται στην Ενημερωτική Πύλη προκύπτει ότι, για τη θέση \"καλαμος.\" στον Δήμο Βόλου Περιφέρειας  Θεσσαλίας \n\t(κωδικός αριθμός θέσης 1442727, κωδική ονομασία \"KALAMOS_MAGN\") έχει κατατεθεί από την εταιρία OTE\tδήλωση εγκατάστασης κατασκευής κεραίας (αριθ. πρωτ. \n\t61884/24-06-2025) που εμπίπτει στις διατάξεις της νομοθεσίας για Εγκαταστάσεις Κατασκευών Κεραιών Χαμηλής Ηλεκτρομαγνητικής Περιβαλλοντικής Όχλησης (ΕΚΚΧΟ).",
+  "measurements_eaee": "-",
+  "documents": [
+    {
+      "document_number": "553526/24-06-2025",
+      "protocol_number": "ΜΕΛΕΤΗ/24-06-2025",
+      "type": "Αίτηση - Μελέτη Ραδιοεκπομπών ΕΕΑΕ",
+      "file_url": "https://silia.eett.gr/silia/download/hacBogDpODXIANNvluK7YxaBOGou9xrusu0A"
+    },
+    {
+      "document_number": "553527/24-06-2025",
+      "protocol_number": "ΤΟΠΟΓΡΑΦΙΚΟ/24-06-2025",
+      "type": "Τοπογραφικό",
+      "file_url": "https://silia.eett.gr/silia/download/rETsY7EFvpGQ0pgnGIZgRnU4bxhrRSeGGv88"
+    },
+    {
+      "document_number": "553529/24-06-2025",
+      "protocol_number": "ΤΟΜΗ/24-06-2025",
+      "type": "Αρχιτεκτονικά [Κάτοψη - Τομή - Όψη]",
+      "file_url": "https://silia.eett.gr/silia/download/MDNtwVHpUVDDbnVWE8vHHHD5KkABcnHDxDXH"
+    },
+    {
+      "document_number": "553530/24-06-2025",
+      "protocol_number": "ΦΩΤΟΓΡΑΦΙΑ/24-06-2025",
+      "type": "Φωτογραφικό Υλικό - Σκαρίφημα",
+      "file_url": "https://silia.eett.gr/silia/download/4TNYhsZY2eO0ZIYMhams9L18bQi8CzA2aA8W"
+    },
+    {
+      "document_number": "553531/24-06-2025",
+      "protocol_number": "ΛΙΝΚ/23-06-2025",
+      "type": "Άλλο",
+      "file_url": "https://silia.eett.gr/silia/download/NGX1vwkp9x2Otnbs8p4Ft3pXxDIXxoZA39HV"
+    },
+    {
+      "document_number": "553538/24-06-2025",
+      "protocol_number": "ΚΑΤΟΨΗ/24-06-2025",
+      "type": "Αρχιτεκτονικά [Κάτοψη - Τομή - Όψη]",
+      "file_url": "https://silia.eett.gr/silia/download/QQ4SpfNDG3QPAdPQCa9xW0rC70kSsYUz2aEZ"
+    },
+    {
+      "document_number": "553539/24-06-2025",
+      "protocol_number": "Αρχείο Αίτησης/24-06-2025",
+      "type": "Δήλωση ΕΚΚΧΟ",
+      "file_url": "https://silia.eett.gr/silia/download/r4rCKUGreoG299E5aS4Oe7pG9OUKqKR0Z462"
+    }
+  ]
+}

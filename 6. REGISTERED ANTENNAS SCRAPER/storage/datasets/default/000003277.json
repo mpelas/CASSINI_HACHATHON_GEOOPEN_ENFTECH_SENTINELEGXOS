@@ -1,0 +1,39 @@
+{
+  "antenna_id": "152538",
+  "address": "ΛΥΚΟΦΗ ΔΗΜΟΣ ΣΟΥΦΛΙΟΥ ΠΕΡ. ΑΝ. ΜΑΚΕΔΟΝΙΑΣ ΘΡΑΚΗΣ",
+  "position_code": 3207212,
+  "municipality": "Σουφλίου",
+  "code_name": "ΛΥΚΟΦΩΣ (ΛΥΚΟΦΗ)-Δ",
+  "region": "Ανατ. Μακεδονίας και Θράκης",
+  "latitude": 41.121944,
+  "company": "ΕΡΤ ΑΕ",
+  "longitude": 26.290833,
+  "permit_status": "Από τα στοιχεία που τηρούνται στην Ενημερωτική Πύλη προκύπτει ότι για τη  θέση \"ΛΥΚΟΦΗ ΔΗΜΟΣ ΣΟΥΦΛΙΟΥ ΠΕΡ. ΑΝ. ΜΑΚΕΔΟΝΙΑΣ ΘΡΑΚΗΣ\" στον Δήμο Σουφλίου Περιφέρειας  Ανατ. Μακεδονίας και Θράκης έχει κατατεθεί από την εταιρία ΕΡΤ ΑΕ δήλωση δομικών κατασκευών κεραιών  \nμε αριθ. πρωτ. ΣΗΛΥΑ 38166/09-04-2020 κατά τα οριζόμενα στην παρ. 7 του άρθρου 34 του Ν.4635/2019.",
+  "measurements_eaee": "-",
+  "documents": [
+    {
+      "document_number": "400187/26-03-2020",
+      "protocol_number": "δορυφορική λήψη και στοιχεία δομικών κατασκευών/",
+      "type": "Άλλο",
+      "file_url": "https://silia.eett.gr/silia/download/43ad9865-8ce9-4292-935b-8349420c5410"
+    },
+    {
+      "document_number": "400483/30-03-2020",
+      "protocol_number": "απογραφή 1987/",
+      "type": "Άλλο",
+      "file_url": "https://silia.eett.gr/silia/download/80d37310-a382-4809-bf0a-47453ffb266f"
+    },
+    {
+      "document_number": "400484/30-03-2020",
+      "protocol_number": "πίνακας 49 απογραφής ΕΡΤ 1987/",
+      "type": "Άλλο",
+      "file_url": "https://silia.eett.gr/silia/download/7984505f-541f-439d-877e-dddc956f36e2"
+    },
+    {
+      "document_number": "401843/09-04-2020",
+      "protocol_number": "Αρχείο Αίτησης/",
+      "type": "Δήλωση Δομικών ΕΡΤ",
+      "file_url": "https://silia.eett.gr/silia/download/fa83c2c3-adbe-4084-aae0-18e0ca59c8fe"
+    }
+  ]
+}

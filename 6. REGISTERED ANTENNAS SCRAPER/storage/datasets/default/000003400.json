@@ -1,0 +1,93 @@
+{
+  "antenna_id": "169411",
+  "address": "ΥΨΩΜΑ \"ΚΕΣΕΡ\", ΠΛΗΣΙΟΝ ΔΗΛΕΣΙΟΥ, ΔΗΜΟΤΙΚΗ ΕΝΟΤ. ΟΙΝΟΦΥΤΩΝ",
+  "position_code": 1202040,
+  "municipality": "Τανάγρας",
+  "code_name": "ΔΗΛΕΣΙ",
+  "region": "Στερεάς Ελλάδας",
+  "latitude": 38.324722,
+  "company": "NOVA Μ.Α.Ε.",
+  "longitude": 23.647778,
+  "permit_status": "Από τα στοιχεία που τηρούνται στην Ενημερωτική Πύλη προκύπτει ότι, για τη θέση \"ΥΨΩΜΑ \"ΚΕΣΕΡ\", ΠΛΗΣΙΟΝ ΔΗΛΕΣΙΟΥ, ΔΗΜΟΤΙΚΗ ΕΝΟΤ. ΟΙΝΟΦΥΤΩΝ\" στον Δήμο Τανάγρας Περιφέρειας  Στερεάς Ελλάδας \n\t(κωδικός αριθμός θέσης 1202040, κωδική ονομασία \"ΔΗΛΕΣΙ\") χορηγήθηκε, με την Απόφαση της ΕΕΤΤ \n49618/02-11-2023, άδεια κατασκευής κεραίας στην εταιρία NOVA Μ.Α.Ε.. \nΑπό τo έγγραφο της άδειας μπορείτε να ενημερωθείτε για τις σχετικές εγκρίσεις των συναρμόδιων φορέων, καθώς και εάν πρόκειται για τροποποίηση παλαιότερης άδειας.\n\tΣύμφωνα με τα στοιχεία που έχουν υποβληθεί στο ΣΗΛΥΑ, ο κάτοχος της κατασκευής κεραίας έχει δηλώσει ότι θα προβεί σε έκδοση έγκρισης δομικών κατασκευών \n\t\tκεραίας μέσω του e-Άδειες \n\t\tμετά την έκδοση της άδειας κατασκευής κεραίας / δημοσιοποίηση της δήλωσης τροποποίησης της κατασκευής κεραίας",
+  "measurements_eaee": "-",
+  "documents": [
+    {
+      "document_number": "490909/21-07-2023",
+      "protocol_number": "48485/Φ615/07-07-2023",
+      "type": "Χορήγηση Δικαιώματος Χρήσης Ραδιοσυχνοτήτων",
+      "file_url": null
+    },
+    {
+      "document_number": "490910/21-07-2023",
+      "protocol_number": "Δ3/Δ/24821/5647/01-08-2002",
+      "type": "Γνωμάτευση ΥΠΑ",
+      "file_url": "https://silia.eett.gr/silia/download/9e382269-fe05-4a57-9271-1efc681a2459"
+    },
+    {
+      "document_number": "490911/21-07-2023",
+      "protocol_number": "Δ3/Δ/10391/03-11-2009",
+      "type": "Γνωμάτευση ΥΠΑ",
+      "file_url": "https://silia.eett.gr/silia/download/14924571-0246-4652-ae1a-0f866249a48b"
+    },
+    {
+      "document_number": "490912/21-07-2023",
+      "protocol_number": "75354/07-07-2023",
+      "type": "Αίτηση ΓΕΑ",
+      "file_url": "https://silia.eett.gr/silia/download/ad26c0c5-f2fa-49b4-abc7-c28d70e691c7"
+    },
+    {
+      "document_number": "490913/21-07-2023",
+      "protocol_number": "ΜΕΛΕΤΗ ΡΑΔΙΟΕΚΠΟΜΠΩΝ/04-07-2023",
+      "type": "Αίτηση - Μελέτη Ραδιοεκπομπών ΕΕΑΕ",
+      "file_url": "https://silia.eett.gr/silia/download/f01c5d01-cc6e-4b45-9c19-a87ee7b0b690"
+    },
+    {
+      "document_number": "490914/21-07-2023",
+      "protocol_number": "ΤΟΠΟΓΡΑΦΙΚΟ ΚΑΙ ΑΡΧΙΤΕΚΤΟΝΙΚΑ/",
+      "type": "Αρχιτεκτονικά Σχέδια",
+      "file_url": "https://silia.eett.gr/silia/download/571abb28-bc93-4b2a-9350-be638b888f21"
+    },
+    {
+      "document_number": "490916/21-07-2023",
+      "protocol_number": "74554/06-07-2023",
+      "type": "Αποτελέσματα μελέτης στη ζώνης 2.6GHz για ΥΠΑ/ΓΕΕΘΑ",
+      "file_url": "https://silia.eett.gr/silia/download/fa6c511f-ed53-47e8-88ea-8a75f98fb22d"
+    },
+    {
+      "document_number": "490945/21-07-2023",
+      "protocol_number": "Αρχείο Αίτησης/",
+      "type": "Αίτηση Άδειας Κατασκευής Κεραίας ΕΕΤΤ",
+      "file_url": "https://silia.eett.gr/silia/download/75848d68-fcde-447d-8522-72f6305d096b"
+    },
+    {
+      "document_number": "492622/14-08-2023",
+      "protocol_number": "Φ550/ΑΔ.8857 Σ. 1679/26-07-2023",
+      "type": "Γνωμάτευση ΓΕΑ",
+      "file_url": "https://silia.eett.gr/silia/download/68161eb4-166e-4ac9-aa9a-64b3a5e02370"
+    },
+    {
+      "document_number": "493511/01-09-2023",
+      "protocol_number": "ΤΜΙΑ/411/10780/2023/30-08-2023",
+      "type": "Γνωμάτευση ΕΕΑΕ",
+      "file_url": "https://silia.eett.gr/silia/download/3db7f3ac-5ec0-4a94-bdf2-f481a4d4e314"
+    },
+    {
+      "document_number": "499771/03-11-2023",
+      "protocol_number": "49618/02-11-2023",
+      "type": "Άδεια Κατασκευής  Κεραίας",
+      "file_url": "https://silia.eett.gr/silia/download/8473bb12-f9ba-40f3-b2c4-fab1b347e59b"
+    },
+    {
+      "document_number": "490917/21-07-2023",
+      "protocol_number": "ΜΕΛΕΤΗ ΡΑΔΙΟΕΚΠΟΜΠΩΝ/04-07-2023",
+      "type": "Αίτηση - Μελέτη Ραδιοεκπομπών ΕΕΑΕ",
+      "file_url": "https://silia.eett.gr/silia/download/f01c5d01-cc6e-4b45-9c19-a87ee7b0b690"
+    },
+    {
+      "document_number": "490948/21-07-2023",
+      "protocol_number": "Αρχείο Αίτησης/",
+      "type": "Δήλωση ΠΠΔ",
+      "file_url": "https://silia.eett.gr/silia/download/dffdff89-6a2a-4130-b92b-8d2a300963c4"
+    }
+  ]
+}

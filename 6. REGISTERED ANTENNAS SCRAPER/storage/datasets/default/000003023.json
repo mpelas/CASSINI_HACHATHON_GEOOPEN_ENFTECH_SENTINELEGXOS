@@ -1,0 +1,33 @@
+{
+  "antenna_id": "130910",
+  "address": "ΑΡΚΑΔΙΟΥ 279 & Ι. ΠΕΤΙΧΑΚΗ, ΡΕΘΥΜΝΟ",
+  "position_code": 1214488,
+  "municipality": "Ρεθύμνης",
+  "code_name": "RETHIMNO OLD TOWN MICRO",
+  "region": "Κρήτης",
+  "latitude": 35.37,
+  "company": "NOVA Μ.Α.Ε.",
+  "longitude": 24.475833,
+  "permit_status": "Από τα στοιχεία που τηρούνται στην Ενημερωτική Πύλη προκύπτει ότι, για τη θέση \"ΑΡΚΑΔΙΟΥ 279 & Ι. ΠΕΤΙΧΑΚΗ, ΡΕΘΥΜΝΟ \" στον Δήμο Ρεθύμνης Περιφέρειας  Κρήτης \n\t(κωδικός αριθμός θέσης 1214488, κωδική ονομασία \"RETHIMNO OLD TOWN MICRO \") έχει κατατεθεί από την εταιρία NOVA Μ.Α.Ε.\tδήλωση εγκατάστασης κατασκευής κεραίας (αριθ. πρωτ. \n\t25592/15-12-2017) που εμπίπτει στις διατάξεις της νομοθεσίας για Εγκαταστάσεις Κατασκευών Κεραιών Χαμηλής Ηλεκτρομαγνητικής Περιβαλλοντικής Όχλησης (ΕΚΚΧΟ).",
+  "measurements_eaee": "-",
+  "documents": [
+    {
+      "document_number": "316488/15-12-2017",
+      "protocol_number": "ΦΩΤΟΓΡΑΦΙΑ ΚΕΡΑΙΑΣ ΕΚΚΧΟ/",
+      "type": "Φωτογραφικό Υλικό - Σκαρίφημα",
+      "file_url": "https://silia.eett.gr/silia/download/b7c99367-8708-46af-b657-fab1d9b7cd78"
+    },
+    {
+      "document_number": "316489/15-12-2017",
+      "protocol_number": "ΜΕΛΕΤΗ ΣΥΜΒΑΤΟΤΗΤΑΣ ΣΤΑΘΜΟΥ/",
+      "type": "Μελέτη για τη ζώνη  2,6GHz",
+      "file_url": "https://silia.eett.gr/silia/download/1c780865-5e4a-488c-a78b-41b83fca80cb"
+    },
+    {
+      "document_number": "316500/15-12-2017",
+      "protocol_number": "Αρχείο Αίτησης/",
+      "type": "Δήλωση ΕΚΚΧΟ",
+      "file_url": "https://silia.eett.gr/silia/download/1afb0640-c1d8-448a-bc9d-f05e3461016d"
+    }
+  ]
+}

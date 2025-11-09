@@ -1,0 +1,51 @@
+{
+  "antenna_id": "174657",
+  "address": "ΓΑΛΑΤΑΣ ΤΡOΙΖΗΝΙΑΣ",
+  "position_code": 1275123,
+  "municipality": "Τροιζηνίας",
+  "code_name": "ERT DARDITSA (K123)",
+  "region": "Αττικής",
+  "latitude": 37.463333,
+  "company": "NOVA Μ.Α.Ε.",
+  "longitude": 23.448889,
+  "permit_status": "Από τα στοιχεία που τηρούνται στην Ενημερωτική Πύλη προκύπτει ότι, για τη θέση \"ΓΑΛΑΤΑΣ ΤΡOΙΖΗΝΙΑΣ\" στον Δήμο Τροιζηνίας Περιφέρειας  Αττικής \n\t(κωδικός αριθμός θέσης 1275123, κωδική ονομασία \"ERT DARDITSA (K123)\") έχει κατατεθεί από την εταιρία NOVA Μ.Α.Ε.\tδήλωση εγκατάστασης κατασκευής κεραίας (αριθ. πρωτ. \n\t56836/30-07-2024) που εμπίπτει στις διατάξεις της νομοθεσίας για Εγκαταστάσεις Κατασκευών Κεραιών Χαμηλής Ηλεκτρομαγνητικής Περιβαλλοντικής Όχλησης (ΕΚΚΧΟ).",
+  "measurements_eaee": "-",
+  "documents": [
+    {
+      "document_number": "522220/30-07-2024",
+      "protocol_number": "Φωτορεαλιστική απεικόνιση κεραίας ΕΚΚΧΟ/30-07-2024",
+      "type": "Φωτογραφικό Υλικό - Σκαρίφημα",
+      "file_url": "https://silia.eett.gr/silia/download/o1yf88Kwuq6sz2mpwdTlxzVgetp9SfMreO39"
+    },
+    {
+      "document_number": "522221/30-07-2024",
+      "protocol_number": "Ψηφιακός χάρτης με προβολή της θέσης ΕΚΚΧΟ/30-07-2024",
+      "type": "Φωτογραφικό Υλικό - Σκαρίφημα",
+      "file_url": "https://silia.eett.gr/silia/download/VgGbYVYZyRkSS33UXahs6H8nRLNiYB3Bdrru"
+    },
+    {
+      "document_number": "522222/30-07-2024",
+      "protocol_number": "Σκαρίφημα θέσης κεραίας ΕΚΚΧΟ/30-07-2024",
+      "type": "Φωτογραφικό Υλικό - Σκαρίφημα",
+      "file_url": "https://silia.eett.gr/silia/download/IO6SLGKqpgcZxYKsVHXFmqlK2TpM8UHe8ki5"
+    },
+    {
+      "document_number": "522223/30-07-2024",
+      "protocol_number": "ΜΕΛΕΤΗ ΕΚΚΧΟ/30-07-2024",
+      "type": "Άλλο",
+      "file_url": "https://silia.eett.gr/silia/download/MF8lFLnqPP5oUo44piYI266Z4hACy7u0mGBp"
+    },
+    {
+      "document_number": "522224/30-07-2024",
+      "protocol_number": "Αρχείο Αίτησης/30-07-2024",
+      "type": "Δήλωση ΕΚΚΧΟ",
+      "file_url": "https://silia.eett.gr/silia/download/QCmL5gcBZ91Gxl0mvGtF5lfTBXGqBPhOpH6O"
+    },
+    {
+      "document_number": "529053/16-10-2024",
+      "protocol_number": "ΥΔ ΕΓΚΑΤΑΣΤΑΣΗΣ/16-10-2024",
+      "type": "Άλλο",
+      "file_url": "https://silia.eett.gr/silia/download/L86thwDQcMGow6GLrL45PRcZtq5MugqUCLUa"
+    }
+  ]
+}

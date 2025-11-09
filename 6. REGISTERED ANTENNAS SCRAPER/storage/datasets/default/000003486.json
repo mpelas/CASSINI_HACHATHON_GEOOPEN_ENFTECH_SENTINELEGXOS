@@ -1,0 +1,123 @@
+{
+  "antenna_id": "134295",
+  "address": "ΒΙ.ΠΕ. ΤΡΙΠΟΛΕΩΣ , Π.Ε. ΑΡΚΑΔΙΑΣ",
+  "position_code": 1415669,
+  "municipality": "Τρίπολης",
+  "code_name": "VIOHA - TRIP",
+  "region": "Πελοποννήσου",
+  "latitude": 37.514444,
+  "company": "OTE",
+  "longitude": 22.409444,
+  "permit_status": "Από τα στοιχεία που τηρούνται στην Ενημερωτική Πύλη προκύπτει ότι, για τη θέση \"ΒΙ.ΠΕ. ΤΡΙΠΟΛΕΩΣ , Π.Ε. ΑΡΚΑΔΙΑΣ\" στον Δήμο Τρίπολης Περιφέρειας  Πελοποννήσου \n\t(κωδικός αριθμός θέσης 1415669, κωδική ονομασία \"VIOHA - TRIP\") χορηγήθηκε, με την Απόφαση της ΕΕΤΤ \n41018/12-07-2021, άδεια κατασκευής κεραίας στην εταιρία OTE. \nΑπό τo έγγραφο της άδειας μπορείτε να ενημερωθείτε για τις σχετικές εγκρίσεις των συναρμόδιων φορέων, καθώς και εάν πρόκειται για τροποποίηση παλαιότερης άδειας.\nΕπιπλέον, έχει υποβληθεί η με αριθ. πρωτ. ΣΗΛΥΑ 56526/09-07-2024 (Δήλωση παρ. 1Β, άρθρ. 28, ν. 4635/2019) δήλωση που αφορά σε τροποποίηση/επικαιροποίηση στοιχείων της κατασκευής κεραίας που αφορούν τον(ους) Τομέα(εις) Αδειοδότησης:Κεραιοσυστήματα, Περιβάλλον.\n\tΔιευκρινίζεται ότι υπό ορισμένες προϋποθέσεις για την τροποποίηση αδειοδοτημένης κατασκευής κεραίας ή/και την επικαιροποίηση στοιχείων της δεν απαιτείται η έκδοση νέας άδειας \n\tκατασκευής κεραίας ή η τροποποίηση της υφιστάμενης άδειας κατασκευής κεραίας, αλλά απαιτείται η υποβολή κατάλληλης δήλωσης από τον κάτοχο της κατασκευής κεραίας συνοδευόμενη \n\tαπό επικαιροποίηση επιμέρους εγκρίσεων. \n\t \tΣύμφωνα με τα στοιχεία που έχουν υποβληθεί στο ΣΗΛΥΑ για την κατασκευή κεραίας από τον κάτοχό της, έχει εκδοθεί έγκριση δομικών κατασκευών κεραίας",
+  "measurements_eaee": "-",
+  "documents": [
+    {
+      "document_number": "337819/08-08-2018",
+      "protocol_number": "21991/18-07-2018",
+      "type": "Τοπογραφικό",
+      "file_url": "https://silia.eett.gr/silia/download/ae1cb8a3-16de-4665-8bfc-a1baa28cbb2d"
+    },
+    {
+      "document_number": "337820/08-08-2018",
+      "protocol_number": "21991/18-07-2018",
+      "type": "Αρχιτεκτονικά Σχέδια",
+      "file_url": "https://silia.eett.gr/silia/download/322b5caa-3ecd-4929-802a-fb2432cd615c"
+    },
+    {
+      "document_number": "337822/08-08-2018",
+      "protocol_number": "Φ.550/Α.Δ-1884/14-03-2018",
+      "type": "Γνωμάτευση ΓΕΑ",
+      "file_url": "https://silia.eett.gr/silia/download/68a84dc9-36e8-44be-a5c6-01d1dc31eace"
+    },
+    {
+      "document_number": "337823/08-08-2018",
+      "protocol_number": "ΜΕΣΩ ΣΗΛΥΑ/01-10-2017",
+      "type": "Αίτηση - Μελέτη Ραδιοεκπομπών ΕΕΑΕ",
+      "file_url": "https://silia.eett.gr/silia/download/f3656571-18bf-4393-b5b8-feb4705a119a"
+    },
+    {
+      "document_number": "337864/08-08-2018",
+      "protocol_number": "Αρχείο Αίτησης/",
+      "type": "Αίτηση Άδειας Κατασκευής Κεραίας ΕΕΤΤ",
+      "file_url": "https://silia.eett.gr/silia/download/25385b6f-c4b5-46e0-9d60-07da0ae891a7"
+    },
+    {
+      "document_number": "350757/29-11-2018",
+      "protocol_number": "Δ3/Δ/31873/8310/28-11-2018/29-11-2018",
+      "type": "Γνωμάτευση ΥΠΑ",
+      "file_url": "https://silia.eett.gr/silia/download/e1b383aa-0934-4f76-b8ef-c48ba82d8c6e"
+    },
+    {
+      "document_number": "401392/07-04-2020",
+      "protocol_number": "ΜΕΣΩ ΣΗΛΥΑ/07-04-2020",
+      "type": "Αίτηση - Μελέτη Ραδιοεκπομπών ΕΕΑΕ",
+      "file_url": "https://silia.eett.gr/silia/download/696cd2d5-85b3-45b3-9b07-3535633efb14"
+    },
+    {
+      "document_number": "403689/29-04-2020",
+      "protocol_number": "Μ.ι./411/5724/2020/28-04-2020",
+      "type": "Γνωμάτευση ΕΕΑΕ",
+      "file_url": "https://silia.eett.gr/silia/download/be2b41f9-02ac-4ff7-bff9-51816b4f0c4e"
+    },
+    {
+      "document_number": "434656/06-05-2021",
+      "protocol_number": "40479/28-04-2021",
+      "type": "Απόρριψη Αίτησης Κατασκευής Κεραίας",
+      "file_url": "https://silia.eett.gr/silia/download/1063be12-6e4f-4717-8235-43c28716c739"
+    },
+    {
+      "document_number": "438723/19-07-2021",
+      "protocol_number": "41018/12-07-2021",
+      "type": "Άδεια Κατασκευής  Κεραίας",
+      "file_url": "https://silia.eett.gr/silia/download/55c8f730-c383-4dd4-8152-be8a85fad1df"
+    },
+    {
+      "document_number": "471292/27-10-2022",
+      "protocol_number": "14156690287083/07-12-2018",
+      "type": "Έγκριση δομικών κατασκευών (έντυπη)",
+      "file_url": "https://silia.eett.gr/silia/download/371733db-7e47-4046-b9ca-6c10431d1021"
+    },
+    {
+      "document_number": "519867/09-07-2024",
+      "protocol_number": "ΤΟΠΟΓΡΑΦΙΚΟ/01-07-2022",
+      "type": "Τοπογραφικό",
+      "file_url": "https://silia.eett.gr/silia/download/TZExeMd72kQ34HEB1qHMIqkKucSy3RgiayUD"
+    },
+    {
+      "document_number": "519868/09-07-2024",
+      "protocol_number": "ΑΡΧΙΤΕΚΤΟΝΙΚΑ/01-07-2022",
+      "type": "Αρχιτεκτονικά Σχέδια",
+      "file_url": "https://silia.eett.gr/silia/download/Yc5kIof5ctAPf0ksd63Ifig1QwAa6thMkEen"
+    },
+    {
+      "document_number": "519869/09-07-2024",
+      "protocol_number": "ΜΕΛΕΤΗ ΡΕ/14-04-2024",
+      "type": "Αίτηση - Μελέτη Ραδιοεκπομπών ΕΕΑΕ",
+      "file_url": "https://silia.eett.gr/silia/download/gvzdGqLZxgdduV2mciV2eO07z26xOfFGgkRU"
+    },
+    {
+      "document_number": "519908/09-07-2024",
+      "protocol_number": "335416/13-12-2021",
+      "type": "Έγκριση δομικών κατασκευών (e-Άδειες, αντίγραφο)",
+      "file_url": "https://silia.eett.gr/silia/download/4y5K6G7dBQei0tCYX0F3VnslUIrXZ1mh7GxA"
+    },
+    {
+      "document_number": "519909/09-07-2024",
+      "protocol_number": "ΓΕΜΗ/02-01-2024",
+      "type": "Άλλο",
+      "file_url": "https://silia.eett.gr/silia/download/kzRGlYGmGi1XiDimZLFPBNWLgFzTx6i0VtAZ"
+    },
+    {
+      "document_number": "519914/09-07-2024",
+      "protocol_number": "Αρχείο Αίτησης/09-07-2024",
+      "type": "Δήλωση ΔΤΚΚ",
+      "file_url": "https://silia.eett.gr/silia/download/1d3aQXPHUPMM7hSqHzLUWhoRMDc5fMSAA6vs"
+    },
+    {
+      "document_number": "522259/30-07-2024",
+      "protocol_number": "ΤΜΙΑ/411/10500/2024/29-07-2024",
+      "type": "Γνωμάτευση ΕΕΑΕ",
+      "file_url": "https://silia.eett.gr/silia/download/foHBy2D9hTXpa6AWB9oKnZVbnnMViOEhfGIA"
+    }
+  ]
+}

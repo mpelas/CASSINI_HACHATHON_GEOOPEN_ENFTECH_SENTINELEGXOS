@@ -1,0 +1,51 @@
+{
+  "antenna_id": "179692",
+  "address": "10 ΧΛΜ ΣΕΡΡΩΝ-ΝΙΓΡΙΤΑΣ, ΣΚΟΥΤΑΡΙ ΣΕΡΡΩΝ.",
+  "position_code": 1144612,
+  "municipality": "Σερρών",
+  "code_name": "3034612 KOPE SKOUTARI SERRES",
+  "region": "Κεντρικής Μακεδονίας",
+  "latitude": 41.007222,
+  "company": "VODAFONE",
+  "longitude": 23.517222,
+  "permit_status": "Από τα στοιχεία που τηρούνται στην Ενημερωτική Πύλη προκύπτει ότι, για τη θέση \"10 ΧΛΜ ΣΕΡΡΩΝ-ΝΙΓΡΙΤΑΣ, ΣΚΟΥΤΑΡΙ ΣΕΡΡΩΝ.\" στον Δήμο Σερρών Περιφέρειας  Κεντρικής Μακεδονίας \n\t(κωδικός αριθμός θέσης 1144612, κωδική ονομασία \"3034612 KOPE SKOUTARI SERRES\") έχει κατατεθεί από την εταιρία VODAFONE\tδήλωση εγκατάστασης κατασκευής κεραίας (αριθ. πρωτ. \n\t61195/22-05-2025) που εμπίπτει στις διατάξεις της νομοθεσίας για Εγκαταστάσεις Κατασκευών Κεραιών Χαμηλής Ηλεκτρομαγνητικής Περιβαλλοντικής Όχλησης (ΕΚΚΧΟ).",
+  "measurements_eaee": "-",
+  "documents": [
+    {
+      "document_number": "549991/22-05-2025",
+      "protocol_number": "Φωτορεαλιστική απεικόνιση κεραίας ΕΚΚΧΟ/22-05-2025",
+      "type": "Φωτογραφικό Υλικό - Σκαρίφημα",
+      "file_url": "https://silia.eett.gr/silia/download/9hPgL0wNlZqTyVuDp67TEkvfVl7pfv4bmHP5"
+    },
+    {
+      "document_number": "549992/22-05-2025",
+      "protocol_number": "Ψηφιακός χάρτης με προβολή της θέσης ΕΚΚΧΟ/22-05-2025",
+      "type": "Φωτογραφικό Υλικό - Σκαρίφημα",
+      "file_url": "https://silia.eett.gr/silia/download/gisN3wh0MtwPFKZWLFrAYEpiBugYwqKDX60O"
+    },
+    {
+      "document_number": "549995/22-05-2025",
+      "protocol_number": "ΜΕΛΕΤΗ ΕΚΚΧΟ/22-05-2025",
+      "type": "Άλλο",
+      "file_url": "https://silia.eett.gr/silia/download/U24NxagstgP7gNM4DHnX5Esa61L3tkNne5Ho"
+    },
+    {
+      "document_number": "549997/22-05-2025",
+      "protocol_number": "Σκαρίφημα με περιοχή απαγόρευσης/22-05-2025",
+      "type": "Φωτογραφικό Υλικό - Σκαρίφημα",
+      "file_url": "https://silia.eett.gr/silia/download/CiiB7LcxDuWG69yiNsb4aqf071o4DES6OwGb"
+    },
+    {
+      "document_number": "549998/22-05-2025",
+      "protocol_number": "Αρχείο Αίτησης/22-05-2025",
+      "type": "Δήλωση ΕΚΚΧΟ",
+      "file_url": "https://silia.eett.gr/silia/download/aAm3Q8Srm3rq5SPiscLwIxKQetVRrYc6wSAg"
+    },
+    {
+      "document_number": "554934/10-07-2025",
+      "protocol_number": "ΥΔ ΕΓΚΑΤΑΣΤΑΣΗΣ/10-07-2025",
+      "type": "Άλλο",
+      "file_url": "https://silia.eett.gr/silia/download/r0GKgNbk5wgyAygSbZY9KFwg44IOApnnsGpc"
+    }
+  ]
+}

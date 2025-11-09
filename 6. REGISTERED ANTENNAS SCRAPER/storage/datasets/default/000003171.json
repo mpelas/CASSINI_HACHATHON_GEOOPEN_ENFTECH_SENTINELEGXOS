@@ -1,0 +1,39 @@
+{
+  "antenna_id": "152648",
+  "address": "Δήμος Σητείας, Π.Ε Λασηθίου, Περιφέρεια Κρήτης",
+  "position_code": 3207405,
+  "municipality": "Σητείας",
+  "code_name": "ΖΑΚΡΟΣ-Δ",
+  "region": "Κρήτης",
+  "latitude": 35.138333,
+  "company": "ΕΡΤ ΑΕ",
+  "longitude": 26.250833,
+  "permit_status": "Από τα στοιχεία που τηρούνται στην Ενημερωτική Πύλη προκύπτει ότι για τη  θέση \"Δήμος Σητείας, Π.Ε Λασηθίου, Περιφέρεια Κρήτης\" στον Δήμο Σητείας Περιφέρειας  Κρήτης έχει κατατεθεί από την εταιρία ΕΡΤ ΑΕ δήλωση δομικών κατασκευών κεραιών  \nμε αριθ. πρωτ. ΣΗΛΥΑ 38223/10-04-2020 κατά τα οριζόμενα στην παρ. 7 του άρθρου 34 του Ν.4635/2019.",
+  "measurements_eaee": "-",
+  "documents": [
+    {
+      "document_number": "401201/04-04-2020",
+      "protocol_number": "δορυφορική λήψη και στοιχεία δομικών κατασκευών/",
+      "type": "Άλλο",
+      "file_url": "https://silia.eett.gr/silia/download/15130d61-d846-4d31-b897-4c693833a74b"
+    },
+    {
+      "document_number": "401202/04-04-2020",
+      "protocol_number": "απογραφή 1987/",
+      "type": "Άλλο",
+      "file_url": "https://silia.eett.gr/silia/download/90d82bd5-b8d5-43be-9735-c7685c15d666"
+    },
+    {
+      "document_number": "401203/04-04-2020",
+      "protocol_number": "πίνακας 49 απογραφής ΕΡΤ 1987/",
+      "type": "Άλλο",
+      "file_url": "https://silia.eett.gr/silia/download/1b5218e7-b61f-407e-975d-49a4abe3a6a9"
+    },
+    {
+      "document_number": "402045/10-04-2020",
+      "protocol_number": "Αρχείο Αίτησης/",
+      "type": "Δήλωση Δομικών ΕΡΤ",
+      "file_url": "https://silia.eett.gr/silia/download/aef8d3af-5bec-4599-bb91-2d406f958a6f"
+    }
+  ]
+}

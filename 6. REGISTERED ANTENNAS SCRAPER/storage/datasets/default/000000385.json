@@ -1,0 +1,75 @@
+{
+  "antenna_id": "168554",
+  "address": "\"ΚΡΙΘΑΡΙΕΣ\" ΚΑΜΠΟΧΩΡΙΟΥ",
+  "position_code": 1403334,
+  "municipality": "Αλεξάνδρειας",
+  "code_name": "ΚΑΜΠΟΧΩΡΙ / Χ",
+  "region": "Κεντρικής Μακεδονίας",
+  "latitude": 40.618889,
+  "company": "OTE",
+  "longitude": 22.361111,
+  "permit_status": "Από τα στοιχεία που τηρούνται στην Ενημερωτική Πύλη προκύπτει ότι, για τη θέση \"\"ΚΡΙΘΑΡΙΕΣ\" ΚΑΜΠΟΧΩΡΙΟΥ\" στον Δήμο Αλεξάνδρειας Περιφέρειας  Κεντρικής Μακεδονίας \n\t(κωδικός αριθμός θέσης 1403334, κωδική ονομασία \"ΚΑΜΠΟΧΩΡΙ / Χ\") χορηγήθηκε, με την Απόφαση της ΕΕΤΤ \n48784/20-07-2023, άδεια κατασκευής κεραίας στην εταιρία OTE. \nΑπό τo έγγραφο της άδειας μπορείτε να ενημερωθείτε για τις σχετικές εγκρίσεις των συναρμόδιων φορέων, καθώς και εάν πρόκειται για τροποποίηση παλαιότερης άδειας.\n\tΣύμφωνα με τα στοιχεία που έχουν υποβληθεί στο ΣΗΛΥΑ, ο κάτοχος της κατασκευής κεραίας έχει δηλώσει ότι θα προβεί σε έκδοση έγκρισης δομικών κατασκευών \n\t\tκεραίας μέσω του e-Άδειες \n\t\tμετά την έκδοση της άδειας κατασκευής κεραίας / δημοσιοποίηση της δήλωσης τροποποίησης της κατασκευής κεραίας",
+  "measurements_eaee": "-",
+  "documents": [
+    {
+      "document_number": "485668/25-05-2023",
+      "protocol_number": "ΜΕΣΩ ΣΗΛΥΑ    /",
+      "type": "Τοπογραφικό",
+      "file_url": "https://silia.eett.gr/silia/download/dc096263-a673-4cba-a7bc-643e3bd55223"
+    },
+    {
+      "document_number": "485669/25-05-2023",
+      "protocol_number": "ΜΕΣΩ ΣΗΛΥΑ    /",
+      "type": "Αρχιτεκτονικά Σχέδια",
+      "file_url": "https://silia.eett.gr/silia/download/6bcbce9e-20df-4a6b-bfa0-74135d031833"
+    },
+    {
+      "document_number": "485670/25-05-2023",
+      "protocol_number": "ΜΕΣΩ ΣΗΛΥΑ    /05-05-2023",
+      "type": "Αίτηση - Μελέτη Ραδιοεκπομπών ΕΕΑΕ",
+      "file_url": "https://silia.eett.gr/silia/download/62eae5f5-a8eb-4b2a-bf9a-55a097f57dd0"
+    },
+    {
+      "document_number": "485671/25-05-2023",
+      "protocol_number": "Δ3/Δ/9085/2069/10-07-2002",
+      "type": "Γνωμάτευση ΥΠΑ",
+      "file_url": "https://silia.eett.gr/silia/download/52688f71-dae4-434d-a500-e34d3b725f4a"
+    },
+    {
+      "document_number": "485672/25-05-2023",
+      "protocol_number": "ΜΕΣΩ ΣΗΛΥΑ    /25-05-2023",
+      "type": "Αίτηση ΥΠΑ",
+      "file_url": "https://silia.eett.gr/silia/download/8749b991-8b8c-4deb-be4b-c1aa475364ab"
+    },
+    {
+      "document_number": "485682/25-05-2023",
+      "protocol_number": "Αρχείο Αίτησης/",
+      "type": "Αίτηση Άδειας Κατασκευής Κεραίας ΕΕΤΤ",
+      "file_url": "https://silia.eett.gr/silia/download/95c12473-3ab1-4264-958b-0e386cd1f36b"
+    },
+    {
+      "document_number": "489582/04-07-2023",
+      "protocol_number": "TMIA/411/8463/2023/04-07-2023",
+      "type": "Γνωμάτευση ΕΕΑΕ",
+      "file_url": "https://silia.eett.gr/silia/download/9d729e5d-15ac-4c35-943c-169795d63943"
+    },
+    {
+      "document_number": "493588/04-09-2023",
+      "protocol_number": "48784/20-07-2023",
+      "type": "Άδεια Κατασκευής  Κεραίας",
+      "file_url": "https://silia.eett.gr/silia/download/79530f7d-fc77-4279-8027-cd45a0861531"
+    },
+    {
+      "document_number": "485667/25-05-2023",
+      "protocol_number": "ΣΥΝΟΔΕΥΤΙΚΑ ΕΓΓΡΑΦΑ/",
+      "type": "Δήλωση υπαγωγής σε ΠΠΔ και Συνοδευτικά Έγγραφα",
+      "file_url": "https://silia.eett.gr/silia/download/5f43fe9c-c72e-495f-a671-5e862c7902d7"
+    },
+    {
+      "document_number": "485683/25-05-2023",
+      "protocol_number": "Αρχείο Αίτησης/",
+      "type": "Δήλωση ΠΠΔ",
+      "file_url": "https://silia.eett.gr/silia/download/ebe60dba-1abe-4591-b26a-152f58f6e5ec"
+    }
+  ]
+}

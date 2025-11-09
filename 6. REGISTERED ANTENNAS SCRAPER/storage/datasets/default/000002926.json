@@ -1,0 +1,51 @@
+{
+  "antenna_id": "155062",
+  "address": "Γ. ΚΡΑΝΙΔΙΩΤΗ 2, ΠΥΛΑΙΑ",
+  "position_code": 3009035,
+  "municipality": "Πυλαίας - Χορτιάτη",
+  "code_name": "THESSALONIKI - LAIKOS",
+  "region": "Κεντρικής Μακεδονίας",
+  "latitude": 40.573889,
+  "company": "ΛΑΪΚΟΣ FM",
+  "longitude": 22.991944,
+  "permit_status": "Από τα στοιχεία που τηρούνται στην Ενημερωτική Πύλη προκύπτει ότι, για τη θέση \"Γ. ΚΡΑΝΙΔΙΩΤΗ 2, ΠΥΛΑΙΑ\" στον Δήμο Πυλαίας - Χορτιάτη Περιφέρειας  Κεντρικής Μακεδονίας \n\t(κωδικός αριθμός θέσης 3009035, κωδική ονομασία \"THESSALONIKI - LAIKOS\") έχει κατατεθεί από την εταιρία ΛΑΪΚΟΣ FM\tδήλωση εγκατάστασης κατασκευής κεραίας (αριθ. πρωτ. \n\t39892/15-06-2020) που εμπίπτει στις διατάξεις της νομοθεσίας για Εγκαταστάσεις Κατασκευών Κεραιών Χαμηλής Ηλεκτρομαγνητικής Περιβαλλοντικής Όχλησης (ΕΚΚΧΟ).",
+  "measurements_eaee": "-",
+  "documents": [
+    {
+      "document_number": "410757/15-06-2020",
+      "protocol_number": "Απεικόνιση κτιρίου/15-06-2020",
+      "type": "Τοπογραφικό",
+      "file_url": "https://silia.eett.gr/silia/download/5df262fa-56aa-4ac1-b6bb-0630e6ae2493"
+    },
+    {
+      "document_number": "410760/15-06-2020",
+      "protocol_number": "Κάτοψη κτιρίου/15-06-2020",
+      "type": "Αρχιτεκτονικά Σχέδια",
+      "file_url": "https://silia.eett.gr/silia/download/645a8aec-2c2e-4110-98e9-3356d256a33f"
+    },
+    {
+      "document_number": "410761/15-06-2020",
+      "protocol_number": "Όψη Ιστού/15-06-2020",
+      "type": "Αρχιτεκτονικά Σχέδια",
+      "file_url": "https://silia.eett.gr/silia/download/63f28765-2503-41f5-b3cf-d80a905a821b"
+    },
+    {
+      "document_number": "410762/15-06-2020",
+      "protocol_number": "Κάτοψη χώρων προστασίας/15-06-2020",
+      "type": "Αρχιτεκτονικά Σχέδια",
+      "file_url": "https://silia.eett.gr/silia/download/9ce1d02e-03b4-4a4c-b620-9de425e48891"
+    },
+    {
+      "document_number": "410763/15-06-2020",
+      "protocol_number": "Όψη χώρων προστασίας/15-06-2020",
+      "type": "Αρχιτεκτονικά Σχέδια",
+      "file_url": "https://silia.eett.gr/silia/download/a5db330a-53e3-480e-9538-14f252cf8d4c"
+    },
+    {
+      "document_number": "410765/15-06-2020",
+      "protocol_number": "Αρχείο Αίτησης/",
+      "type": "Δήλωση ΕΚΚΧΟ",
+      "file_url": "https://silia.eett.gr/silia/download/412d6866-92e9-43e2-97a9-aaa6cdd4f9ea"
+    }
+  ]
+}

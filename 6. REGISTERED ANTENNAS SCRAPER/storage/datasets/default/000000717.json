@@ -1,0 +1,39 @@
+{
+  "antenna_id": "168145",
+  "address": "ΛΑΓΚΑΔΙ ΚΑΡΔΙΤΣΑΣ",
+  "position_code": 270092,
+  "municipality": "Αργιθέας",
+  "code_name": "ΛΑΓΚΑΔΙ ΤΣ_ΝΕΟ",
+  "region": "Θεσσαλίας",
+  "latitude": 39.353611,
+  "company": "OTE",
+  "longitude": 21.454167,
+  "permit_status": "Από τα στοιχεία που τηρούνται στην Ενημερωτική Πύλη προκύπτει ότι, για τη θέση \"ΛΑΓΚΑΔΙ ΚΑΡΔΙΤΣΑΣ\" στον Δήμο Αργιθέας Περιφέρειας  Θεσσαλίας \n\t(κωδικός αριθμός θέσης 0270092, κωδική ονομασία \"ΛΑΓΚΑΔΙ ΤΣ_ΝΕΟ\") έχει κατατεθεί από την εταιρία OTE\tδήλωση εγκατάστασης κατασκευής κεραίας (αριθ. πρωτ. \n\t52110/22-06-2023) που εμπίπτει στις διατάξεις της νομοθεσίας για Εγκαταστάσεις Κατασκευών Κεραιών Χαμηλής Ηλεκτρομαγνητικής Περιβαλλοντικής Όχλησης (ΕΚΚΧΟ).",
+  "measurements_eaee": "-",
+  "documents": [
+    {
+      "document_number": "483385/27-04-2023",
+      "protocol_number": "ΦΩΤΟΓΡΑΦΙΑ/",
+      "type": "Φωτογραφικό Υλικό - Σκαρίφημα",
+      "file_url": "https://silia.eett.gr/silia/download/ff050423-aba5-4c52-926f-43e08fe095e6"
+    },
+    {
+      "document_number": "488569/22-06-2023",
+      "protocol_number": "ΜΕΛΕΤΗ ΡΑΔΙΟΕΚΠΟΜΠΩΝ ΕΚΚΧΟ/22-06-2023",
+      "type": "Άλλο",
+      "file_url": "https://silia.eett.gr/silia/download/ed33ec2a-f33b-4c59-9866-1e3c081e61e5"
+    },
+    {
+      "document_number": "488570/22-06-2023",
+      "protocol_number": "Αρχείο Αίτησης/",
+      "type": "Δήλωση ΕΚΚΧΟ",
+      "file_url": "https://silia.eett.gr/silia/download/fa7df74a-057d-4343-8036-b4bfcd4dd758"
+    },
+    {
+      "document_number": "529284/17-10-2024",
+      "protocol_number": "ΥΠ.ΔΗΛΩΣΗ/17-10-2024",
+      "type": "Άλλο",
+      "file_url": "https://silia.eett.gr/silia/download/rbnihyOoBo2aTwx0fZux3Py5IvgAfDT2ZhmQ"
+    }
+  ]
+}

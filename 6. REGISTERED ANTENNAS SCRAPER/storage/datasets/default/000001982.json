@@ -1,0 +1,57 @@
+{
+  "antenna_id": "156605",
+  "address": "Μεσσολογγίου και Ακαρνανίας, Ναύπακτος.",
+  "position_code": 1145938,
+  "municipality": "Ναυπακτίας",
+  "code_name": "DIXONS NAFPAKTOS",
+  "region": "Δυτικής Ελλάδας",
+  "latitude": 38.386944,
+  "company": "VODAFONE",
+  "longitude": 21.812778,
+  "permit_status": "Από τα στοιχεία που τηρούνται στην Ενημερωτική Πύλη προκύπτει ότι, για τη θέση \"Μεσσολογγίου και Ακαρνανίας, Ναύπακτος.\" στον Δήμο Ναυπακτίας Περιφέρειας  Δυτικής Ελλάδας \n\t(κωδικός αριθμός θέσης 1145938, κωδική ονομασία \"DIXONS NAFPAKTOS\") έχει κατατεθεί από την εταιρία VODAFONE\tδήλωση εγκατάστασης κατασκευής κεραίας (αριθ. πρωτ. \n\t40891/15-10-2020) που εμπίπτει στις διατάξεις της νομοθεσίας για Εγκαταστάσεις Κατασκευών Κεραιών Χαμηλής Ηλεκτρομαγνητικής Περιβαλλοντικής Όχλησης (ΕΚΚΧΟ).",
+  "measurements_eaee": "-",
+  "documents": [
+    {
+      "document_number": "419109/15-10-2020",
+      "protocol_number": "ΣΚΑΡΙΦΗΜΑ ΘΕΣΗΣ ΚΕΡΑΙΑΣ ΕΚΚΧΟ (ΚΑΤΟΨΗ)/",
+      "type": "Φωτογραφικό Υλικό - Σκαρίφημα",
+      "file_url": "https://silia.eett.gr/silia/download/4c84e3f2-acfd-4543-82b9-256051d56ff5"
+    },
+    {
+      "document_number": "419110/15-10-2020",
+      "protocol_number": "ΣΚΑΡΙΦΗΜΑ ΘΕΣΗΣ ΙΣΤΟΥ ΕΚΚΧΟ - ΟΨΗ/",
+      "type": "Φωτογραφικό Υλικό - Σκαρίφημα",
+      "file_url": "https://silia.eett.gr/silia/download/d4d74830-e9dc-4cb0-8cfa-9cf724daded9"
+    },
+    {
+      "document_number": "419111/15-10-2020",
+      "protocol_number": "ΣΚΑΡΙΦΗΜΑ ΘΕΣΗΣ ΚΕΡΑΙΑΣ 1/",
+      "type": "Φωτογραφικό Υλικό - Σκαρίφημα",
+      "file_url": "https://silia.eett.gr/silia/download/a9c4142f-e8e1-4358-9e1f-a449278118dc"
+    },
+    {
+      "document_number": "419125/15-10-2020",
+      "protocol_number": "ΤΟΠΟΓΡΑΦΙΚΟ/",
+      "type": "Αρχιτεκτονικά Σχέδια",
+      "file_url": "https://silia.eett.gr/silia/download/d5b97781-6498-43fe-b45f-48dc3be6511e"
+    },
+    {
+      "document_number": "419127/15-10-2020",
+      "protocol_number": "Αρχείο Αίτησης/",
+      "type": "Δήλωση ΕΚΚΧΟ",
+      "file_url": "https://silia.eett.gr/silia/download/2b3dfb9f-8d38-4681-8b26-b5c95a193836"
+    },
+    {
+      "document_number": "420711/03-11-2020",
+      "protocol_number": "587349/66425/8125/1112/23-10-2020",
+      "type": "Γνωμοδότηση Υπηρεσίας Νεωτέρων Μνημείων",
+      "file_url": "https://silia.eett.gr/silia/download/57ad966b-6406-4bcb-bf2b-56e8adc5ffaa"
+    },
+    {
+      "document_number": "420712/03-11-2020",
+      "protocol_number": "588535/416963/8040/03-11-2020",
+      "type": "Έγκριση Αρμοδίου Φορέα",
+      "file_url": "https://silia.eett.gr/silia/download/8dd3fc25-a478-4371-a873-4fd992387ead"
+    }
+  ]
+}

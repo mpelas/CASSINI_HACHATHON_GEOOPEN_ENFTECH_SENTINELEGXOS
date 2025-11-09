@@ -1,0 +1,51 @@
+{
+  "antenna_id": "172200",
+  "address": "Άστρος Κυνουρίας",
+  "position_code": 1149746,
+  "municipality": "Βόρειας Κυνουρίας",
+  "code_name": "3029746 DEH KAT POLISEON ASTROYS",
+  "region": "Πελοποννήσου",
+  "latitude": 37.408611,
+  "company": "VODAFONE",
+  "longitude": 22.728611,
+  "permit_status": "Από τα στοιχεία που τηρούνται στην Ενημερωτική Πύλη προκύπτει ότι, για τη θέση \"Άστρος Κυνουρίας\" στον Δήμο Βόρειας Κυνουρίας Περιφέρειας  Πελοποννήσου \n\t(κωδικός αριθμός θέσης 1149746, κωδική ονομασία \"3029746 DEH KAT POLISEON ASTROYS\") έχει κατατεθεί από την εταιρία VODAFONE\tδήλωση εγκατάστασης κατασκευής κεραίας (αριθ. πρωτ. \n\t54947/27-02-2024) που εμπίπτει στις διατάξεις της νομοθεσίας για Εγκαταστάσεις Κατασκευών Κεραιών Χαμηλής Ηλεκτρομαγνητικής Περιβαλλοντικής Όχλησης (ΕΚΚΧΟ).",
+  "measurements_eaee": "-",
+  "documents": [
+    {
+      "document_number": "507809/16-02-2024",
+      "protocol_number": "Φωτορεαλιστική απεικόνιση κεραίας ΕΚΚΧΟ/",
+      "type": "Φωτογραφικό Υλικό - Σκαρίφημα",
+      "file_url": "https://silia.eett.gr/silia/download/be4006de-1979-4eb0-b05a-9c94547a783b"
+    },
+    {
+      "document_number": "507810/16-02-2024",
+      "protocol_number": "Ψηφιακός χάρτης με προβολή της θέσης ΕΚΚΧΟ/",
+      "type": "Φωτογραφικό Υλικό - Σκαρίφημα",
+      "file_url": "https://silia.eett.gr/silia/download/308b6e88-1877-4d6e-8ff5-4be17619f9ca"
+    },
+    {
+      "document_number": "508706/27-02-2024",
+      "protocol_number": "Μελέτη ΕΚΚΧΟ/19-02-2024",
+      "type": "Άλλο",
+      "file_url": "https://silia.eett.gr/silia/download/7542af4a-b324-4838-8811-400f604dc181"
+    },
+    {
+      "document_number": "508707/27-02-2024",
+      "protocol_number": "Σκαρίφημα με περιοχή απαγόρευσης/",
+      "type": "Φωτογραφικό Υλικό - Σκαρίφημα",
+      "file_url": "https://silia.eett.gr/silia/download/f575b08b-685b-4482-9829-92b080b336b1"
+    },
+    {
+      "document_number": "508708/27-02-2024",
+      "protocol_number": "Αρχείο Αίτησης/",
+      "type": "Δήλωση ΕΚΚΧΟ",
+      "file_url": "https://silia.eett.gr/silia/download/ba2506ad-16e7-4076-903b-d20bf6df4ee1"
+    },
+    {
+      "document_number": "512369/05-04-2024",
+      "protocol_number": "ΥΔ εγκατάστασης/05-04-2024",
+      "type": "Άλλο",
+      "file_url": "https://silia.eett.gr/silia/download/nPigy2PbNwMvqf6aqW0RIvQG7AHgcp4ObCv5"
+    }
+  ]
+}

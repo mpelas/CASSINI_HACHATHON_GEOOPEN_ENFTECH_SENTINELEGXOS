@@ -1,0 +1,39 @@
+{
+  "antenna_id": "168266",
+  "address": "ΑΡΓΥΡΟΤΟΠΟΣ",
+  "position_code": 80159,
+  "municipality": "Ηγουμενίτσας",
+  "code_name": "ΑΡΓΥΡΟΤΟΠΟΣ",
+  "region": "Ηπείρου",
+  "latitude": 39.417778,
+  "company": "OTE",
+  "longitude": 20.314444,
+  "permit_status": "Από τα στοιχεία που τηρούνται στην Ενημερωτική Πύλη προκύπτει ότι, για τη θέση \"ΑΡΓΥΡΟΤΟΠΟΣ\" στον Δήμο Ηγουμενίτσας Περιφέρειας  Ηπείρου \n\t(κωδικός αριθμός θέσης 0080159, κωδική ονομασία \"ΑΡΓΥΡΟΤΟΠΟΣ\") έχει κατατεθεί από την εταιρία OTE\tδήλωση εγκατάστασης κατασκευής κεραίας (αριθ. πρωτ. \n\t53317/17-10-2023) που εμπίπτει στις διατάξεις της νομοθεσίας για Εγκαταστάσεις Κατασκευών Κεραιών Χαμηλής Ηλεκτρομαγνητικής Περιβαλλοντικής Όχλησης (ΕΚΚΧΟ).",
+  "measurements_eaee": "-",
+  "documents": [
+    {
+      "document_number": "484043/05-05-2023",
+      "protocol_number": "ΦΩΤΟΓΡΑΦΙΑ/",
+      "type": "Φωτογραφικό Υλικό - Σκαρίφημα",
+      "file_url": "https://silia.eett.gr/silia/download/c3441cab-546f-439e-bc11-bacc4ea9f3d1"
+    },
+    {
+      "document_number": "497316/16-10-2023",
+      "protocol_number": "ΜΕΣΩ ΣΗΛΥΑ/",
+      "type": "Αίτηση - Μελέτη Ραδιοεκπομπών ΕΕΑΕ",
+      "file_url": "https://silia.eett.gr/silia/download/5c8e6903-f5a6-4c0f-903a-bce2446be0e0"
+    },
+    {
+      "document_number": "497386/17-10-2023",
+      "protocol_number": "Αρχείο Αίτησης/",
+      "type": "Δήλωση ΕΚΚΧΟ",
+      "file_url": "https://silia.eett.gr/silia/download/c3e85869-dd62-44d8-9cf1-7ca93ed12cd5"
+    },
+    {
+      "document_number": "529283/17-10-2024",
+      "protocol_number": "ΥΠ.ΔΗΛΩΣΗ/17-10-2024",
+      "type": "Άλλο",
+      "file_url": "https://silia.eett.gr/silia/download/HxBFULYR8R6DOgUktNTi0zqhO1bCrYhz93oP"
+    }
+  ]
+}

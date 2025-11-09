@@ -1,0 +1,51 @@
+{
+  "antenna_id": "171796",
+  "address": "ΑΓΙΑ ΚΥΡΙΑΚΗ ΤΡΙΚΑΛΩΝ",
+  "position_code": 500389,
+  "municipality": "Τρικκαίων",
+  "code_name": "ΑΓΙΑ ΚΥΡΙΑΚΗ_303",
+  "region": "Θεσσαλίας",
+  "latitude": 39.519722,
+  "company": "OTE",
+  "longitude": 21.813611,
+  "permit_status": "Από τα στοιχεία που τηρούνται στην Ενημερωτική Πύλη προκύπτει ότι, για τη θέση \"ΑΓΙΑ ΚΥΡΙΑΚΗ ΤΡΙΚΑΛΩΝ\" στον Δήμο Τρικκαίων Περιφέρειας  Θεσσαλίας \n\t(κωδικός αριθμός θέσης 0500389, κωδική ονομασία \"ΑΓΙΑ ΚΥΡΙΑΚΗ_303\") έχει κατατεθεί από την εταιρία OTE\tδήλωση εγκατάστασης κατασκευής κεραίας (αριθ. πρωτ. \n\t54892/22-02-2024) που εμπίπτει στις διατάξεις της νομοθεσίας για Εγκαταστάσεις Κατασκευών Κεραιών Χαμηλής Ηλεκτρομαγνητικής Περιβαλλοντικής Όχλησης (ΕΚΚΧΟ).",
+  "measurements_eaee": "-",
+  "documents": [
+    {
+      "document_number": "505141/19-01-2024",
+      "protocol_number": "Χαρτης/",
+      "type": "Φωτογραφικό Υλικό - Σκαρίφημα",
+      "file_url": "https://silia.eett.gr/silia/download/7038a23d-03bd-4ce2-adeb-0a8e295dc7b8"
+    },
+    {
+      "document_number": "505142/19-01-2024",
+      "protocol_number": "Φωτογραφία/",
+      "type": "Φωτογραφικό Υλικό - Σκαρίφημα",
+      "file_url": "https://silia.eett.gr/silia/download/e8d30c07-623e-4b7b-b64f-36c74e2c9c5b"
+    },
+    {
+      "document_number": "508080/21-02-2024",
+      "protocol_number": "ΜΕΣΩ ΣΗΛΥΑ/",
+      "type": "Αίτηση - Μελέτη Ραδιοεκπομπών ΕΕΑΕ",
+      "file_url": "https://silia.eett.gr/silia/download/196eabad-599e-4297-84e8-fbd14cbe1642"
+    },
+    {
+      "document_number": "508265/22-02-2024",
+      "protocol_number": "Αρχείο Αίτησης/",
+      "type": "Δήλωση ΕΚΚΧΟ",
+      "file_url": "https://silia.eett.gr/silia/download/1bbfbb9e-600c-4689-8b37-382ed834c509"
+    },
+    {
+      "document_number": "527859/04-10-2024",
+      "protocol_number": "ΥΠ.ΔΗΛΩΣΗ/04-10-2024",
+      "type": "Άλλο",
+      "file_url": "https://silia.eett.gr/silia/download/Y2ePg6WGpivHILRLy8dwfWhmBDSSPiEohU3e"
+    },
+    {
+      "document_number": "533238/21-11-2024",
+      "protocol_number": "ΑΠΟΣΠΑΣΜΑ ΨΗΦΙΑΚΟΥ ΧΑΡΤΗ/21-11-2024",
+      "type": "Φωτογραφικό Υλικό - Σκαρίφημα",
+      "file_url": "https://silia.eett.gr/silia/download/vpUypAgXEYtszzP2olkG4382T5cxsrGGTDDB"
+    }
+  ]
+}

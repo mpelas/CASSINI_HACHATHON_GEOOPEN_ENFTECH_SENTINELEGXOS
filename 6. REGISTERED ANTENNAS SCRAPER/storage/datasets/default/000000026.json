@@ -1,0 +1,39 @@
+{
+  "antenna_id": "152522",
+  "address": "ΑΕΤΟΛΟΦΟΣ, ΔΗΜΟΣ ΑΓΙΑΣ, Π.Ε. ΛΑΡΙΣΑΣ, ΠΕΡΙΦΕΡΕΙΑ ΘΕΣΣΑΛΙΑΣ",
+  "position_code": 3207196,
+  "municipality": "Αγιάς",
+  "code_name": "ΑΕΤΟΛΟΦΟΣ-Δ",
+  "region": "Θεσσαλίας",
+  "latitude": 39.691944,
+  "company": "ΕΡΤ ΑΕ",
+  "longitude": 22.728611,
+  "permit_status": "Από τα στοιχεία που τηρούνται στην Ενημερωτική Πύλη προκύπτει ότι για τη  θέση \"ΑΕΤΟΛΟΦΟΣ, ΔΗΜΟΣ ΑΓΙΑΣ, Π.Ε. ΛΑΡΙΣΑΣ, ΠΕΡΙΦΕΡΕΙΑ ΘΕΣΣΑΛΙΑΣ\" στον Δήμο Αγιάς Περιφέρειας  Θεσσαλίας έχει κατατεθεί από την εταιρία ΕΡΤ ΑΕ δήλωση δομικών κατασκευών κεραιών  \nμε αριθ. πρωτ. ΣΗΛΥΑ 38149/09-04-2020 κατά τα οριζόμενα στην παρ. 7 του άρθρου 34 του Ν.4635/2019.",
+  "measurements_eaee": "-",
+  "documents": [
+    {
+      "document_number": "400171/26-03-2020",
+      "protocol_number": "δορυφορική λήψη και στοιχεία δομικών κατασκευών/",
+      "type": "Άλλο",
+      "file_url": "https://silia.eett.gr/silia/download/e096bb5c-7673-45ab-bf6d-a579bf3d3249"
+    },
+    {
+      "document_number": "400451/29-03-2020",
+      "protocol_number": "απογραφή 1987/",
+      "type": "Άλλο",
+      "file_url": "https://silia.eett.gr/silia/download/ed9ed298-e49e-46fc-83d2-2160a48655d3"
+    },
+    {
+      "document_number": "400452/30-03-2020",
+      "protocol_number": "πίνακας 49 απογραφής ΕΡΤ 1987/",
+      "type": "Άλλο",
+      "file_url": "https://silia.eett.gr/silia/download/da9c4616-276e-4959-a102-d52f051b3d51"
+    },
+    {
+      "document_number": "401818/09-04-2020",
+      "protocol_number": "Αρχείο Αίτησης/",
+      "type": "Δήλωση Δομικών ΕΡΤ",
+      "file_url": "https://silia.eett.gr/silia/download/e4038e48-0475-4db5-af28-addffe675c07"
+    }
+  ]
+}

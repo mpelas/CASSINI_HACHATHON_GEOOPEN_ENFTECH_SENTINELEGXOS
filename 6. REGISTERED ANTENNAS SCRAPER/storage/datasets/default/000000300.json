@@ -1,0 +1,105 @@
+{
+  "antenna_id": "132772",
+  "address": "'ΛΟΥΤΡΑ'' ΠΛΗΣΙΟΝ ΟΙΚΙΣΜΟΥ ΛΟΥΤΡΑ ΠΑΡΑΚΑΜΠΥΛΙΩΝ",
+  "position_code": 2422202,
+  "municipality": "Αγρινίου",
+  "code_name": "ΛΟΥΤΡΑ",
+  "region": "Δυτικής Ελλάδας",
+  "latitude": 38.874167,
+  "company": "RC",
+  "longitude": 21.490556,
+  "permit_status": "Από τα στοιχεία που τηρούνται στην Ενημερωτική Πύλη προκύπτει ότι, για τη θέση \"'ΛΟΥΤΡΑ'' ΠΛΗΣΙΟΝ ΟΙΚΙΣΜΟΥ ΛΟΥΤΡΑ ΠΑΡΑΚΑΜΠΥΛΙΩΝ\" στον Δήμο Αγρινίου Περιφέρειας  Δυτικής Ελλάδας \n\t(κωδικός αριθμός θέσης 2422202, κωδική ονομασία \"ΛΟΥΤΡΑ\") χορηγήθηκε, με την Απόφαση της ΕΕΤΤ \n28795/Φ610/13-07-2018, άδεια κατασκευής κεραίας στην εταιρία RC. \nΑπό τo έγγραφο της άδειας μπορείτε να ενημερωθείτε για τις σχετικές εγκρίσεις των συναρμόδιων φορέων, καθώς και εάν πρόκειται για τροποποίηση παλαιότερης άδειας.\nΗ άδεια χορηγήθηκε, κατόπιν της με Αριθ. Πρωτ. 27341/26-04-2018 αίτησης, \n\tμε τη διαδικασία αδειοδότησης της παρ. 17 του άρθρου 30 του Ν.4070/2012 που πλέον έχει αντικατασταθεί από τη διαδικασία που ορίζει ο ν. 4635/2019.\n\tΣύμφωνα με τα στοιχεία που έχουν υποβληθεί στο ΣΗΛΥΑ για την κατασκευή κεραίας από τον κάτοχό της, έχει εκδοθεί έγκριση δομικών κατασκευών κεραίας",
+  "measurements_eaee": "-",
+  "documents": [
+    {
+      "document_number": "327893/26-04-2018",
+      "protocol_number": "ΡΑΔ_2202 ΛΟΥΤΡΑ/",
+      "type": "Αίτηση - Μελέτη Ραδιοεκπομπών ΕΕΑΕ",
+      "file_url": "https://silia.eett.gr/silia/download/91463036-e1a9-4f10-aed9-1408460c4317"
+    },
+    {
+      "document_number": "327894/26-04-2018",
+      "protocol_number": "1.2202 ΠΠΔ/",
+      "type": "Δήλωση υπαγωγής σε ΠΠΔ και Συνοδευτικά Έγγραφα",
+      "file_url": "https://silia.eett.gr/silia/download/f2509a06-fa71-4991-875a-bc7bb601ca6b"
+    },
+    {
+      "document_number": "327895/26-04-2018",
+      "protocol_number": "2.2202 TOPOGRAFIKO & GYS 1.5000/",
+      "type": "Τοπογραφικό",
+      "file_url": "https://silia.eett.gr/silia/download/ee73d3fb-c9cf-4c53-99cc-8203a08c72ad"
+    },
+    {
+      "document_number": "327896/26-04-2018",
+      "protocol_number": "3.2202 ARXITEKTONIKA ME SFRAGIDA/",
+      "type": "Αρχιτεκτονικά Σχέδια",
+      "file_url": "https://silia.eett.gr/silia/download/dcf33f6b-7699-4e16-9e5c-aceadb915c7c"
+    },
+    {
+      "document_number": "327898/26-04-2018",
+      "protocol_number": "2202 ΧΑΡΤΗΣ ΥΠΑ/",
+      "type": "Συμπληρωματικά Έγγραφα Αίτησης / Μελέτης",
+      "file_url": "https://silia.eett.gr/silia/download/5b580b61-567b-4f4c-b463-9419621824c2"
+    },
+    {
+      "document_number": "327900/26-04-2018",
+      "protocol_number": "2.150623 ΕΚΠΡΟΣΩΠΗΣΗ RURAL/",
+      "type": "Συμπληρωματικά Έγγραφα",
+      "file_url": "https://silia.eett.gr/silia/download/c13e5825-12ae-4d04-a7a0-98f402485852"
+    },
+    {
+      "document_number": "327901/26-04-2018",
+      "protocol_number": "ΑΠ. ΣΥΜΒΑΣΗΣ ΔΙΚ. ΧΡΗΣΗΣ ΣΥΧΝΟΤΗΤΑΣ 3.8 GHz/",
+      "type": "Συμπληρωματικά Έγγραφα",
+      "file_url": "https://silia.eett.gr/silia/download/48e14e1a-db6a-4f92-83f5-2ce5cd72d1da"
+    },
+    {
+      "document_number": "327902/26-04-2018",
+      "protocol_number": "Αρχείο Αίτησης/",
+      "type": "Αίτηση Άδειας Κατασκευής Κεραίας ΕΕΤΤ",
+      "file_url": "https://silia.eett.gr/silia/download/ddf6c91a-5746-4d42-acdc-599cab60b65d"
+    },
+    {
+      "document_number": "328718/08-05-2018",
+      "protocol_number": "Δ3/Δ/9453/3294/4-5-2018/08-05-2018",
+      "type": "Γνωμάτευση ΥΠΑ",
+      "file_url": "https://silia.eett.gr/silia/download/a7ae6ad7-f2ed-4545-8f26-ee3fe8045f38"
+    },
+    {
+      "document_number": "329892/17-05-2018",
+      "protocol_number": "Μ.ι./411/6824/2018/17-05-2018",
+      "type": "Γνωμάτευση ΕΕΑΕ",
+      "file_url": "https://silia.eett.gr/silia/download/4e6c0f4e-4609-46f4-9ca9-47aeb0c4196f"
+    },
+    {
+      "document_number": "330017/21-05-2018",
+      "protocol_number": "ΠΟΛΕΟΔΟΜΙΚΗ ΕΓΚΡΙΣΗ Α.Κ. 2202 ΛΟΥΤΡΑ ΑΙΤΩΛΟΑΚΑΡΝΑΝΙΑΣ/",
+      "type": "Έγκριση δομικών κατασκευών (έντυπη)",
+      "file_url": "https://silia.eett.gr/silia/download/14a511cb-9278-4b63-bfcd-f4b5e0f0d6cf"
+    },
+    {
+      "document_number": "335941/17-07-2018",
+      "protocol_number": "28795/Φ610/13-07-2018",
+      "type": "Άδεια Κατασκευής  Κεραίας",
+      "file_url": "https://silia.eett.gr/silia/download/c53df05b-41b1-4642-9604-165888e4dde1"
+    },
+    {
+      "document_number": "330017/21-05-2018",
+      "protocol_number": "ΠΟΛΕΟΔΟΜΙΚΗ ΕΓΚΡΙΣΗ Α.Κ. 2202 ΛΟΥΤΡΑ ΑΙΤΩΛΟΑΚΑΡΝΑΝΙΑΣ/",
+      "type": "Έγκριση δομικών κατασκευών (έντυπη)",
+      "file_url": "https://silia.eett.gr/silia/download/14a511cb-9278-4b63-bfcd-f4b5e0f0d6cf"
+    },
+    {
+      "document_number": "328235/02-05-2018",
+      "protocol_number": "1.2202 ΠΠΔ/",
+      "type": "Δήλωση υπαγωγής σε ΠΠΔ και Συνοδευτικά Έγγραφα",
+      "file_url": "https://silia.eett.gr/silia/download/d8ee7c01-1a69-466e-9018-deca6ff39aad"
+    },
+    {
+      "document_number": "328236/02-05-2018",
+      "protocol_number": "Αρχείο Αίτησης/",
+      "type": "Δήλωση ΠΠΔ",
+      "file_url": "https://silia.eett.gr/silia/download/8c379bc7-ef0e-4dd3-abc7-7e61b4a0fef3"
+    }
+  ]
+}

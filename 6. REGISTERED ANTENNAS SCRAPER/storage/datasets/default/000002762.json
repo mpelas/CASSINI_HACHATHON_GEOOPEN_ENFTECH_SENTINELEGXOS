@@ -1,0 +1,81 @@
+{
+  "antenna_id": "150300",
+  "address": "ΕΠΙ ΤΗΣ ΛΕΩΦ. ΚΩΝΣΤΑΝΤΙΝΟΥΠΟΛΕΩΣ 61",
+  "position_code": 1402931,
+  "municipality": "Περιστερίου",
+  "code_name": "ΚΩΝΣΤΑΝΤΙΝΟΥΠΟΛΕΩΣ MD",
+  "region": "Αττικής",
+  "latitude": 38.013056,
+  "company": "OTE",
+  "longitude": 23.706111,
+  "permit_status": "Από τα στοιχεία που τηρούνται στην Ενημερωτική Πύλη προκύπτει ότι, για τη θέση \"ΕΠΙ ΤΗΣ ΛΕΩΦ. ΚΩΝΣΤΑΝΤΙΝΟΥΠΟΛΕΩΣ 61\" στον Δήμο Περιστερίου Περιφέρειας  Αττικής \n\t(κωδικός αριθμός θέσης 1402931, κωδική ονομασία \"ΚΩΝΣΤΑΝΤΙΝΟΥΠΟΛΕΩΣ MD\") χορηγήθηκε, με την Απόφαση της ΕΕΤΤ \n40376/Φ610/19-04-2021, άδεια κατασκευής κεραίας στην εταιρία OTE. \nΑπό τo έγγραφο της άδειας μπορείτε να ενημερωθείτε για τις σχετικές εγκρίσεις των συναρμόδιων φορέων, καθώς και εάν πρόκειται για τροποποίηση παλαιότερης άδειας.\nΗ άδεια χορηγήθηκε με τη διαδικασία αδειοδότησης που ορίζει ο ν. 4635/2019, κατόπιν της με αριθ. πρωτ. 37053/14-02-2020 \n\tαίτησης, και βάσει σχετικής δήλωσης του κατόχου της περί υπαγωγή της κατασκευής κεραίας στο άρθρο 34 του ν. 4635/2019.",
+  "measurements_eaee": "-",
+  "documents": [
+    {
+      "document_number": "393899/14-02-2020",
+      "protocol_number": "ΜΕΣΩ ΣΗΛΥΑ/",
+      "type": "Τοπογραφικό",
+      "file_url": "https://silia.eett.gr/silia/download/cc6f5faf-58a0-4167-8f8e-ce5582bc6a64"
+    },
+    {
+      "document_number": "393900/14-02-2020",
+      "protocol_number": "ΜΕΣΩ ΣΗΛΥΑ/",
+      "type": "Αρχιτεκτονικά Σχέδια",
+      "file_url": "https://silia.eett.gr/silia/download/32a3918d-7905-455c-918a-a0d7b728b0a4"
+    },
+    {
+      "document_number": "393901/14-02-2020",
+      "protocol_number": "Δ3/Δ/42317/10733/28-11-2005",
+      "type": "Γνωμάτευση ΥΠΑ",
+      "file_url": "https://silia.eett.gr/silia/download/f1d3cc0a-b361-4751-a41a-8a44d75c2799"
+    },
+    {
+      "document_number": "393902/14-02-2020",
+      "protocol_number": "ΜΕΣΩ ΣΗΛΥΑ/29-01-2020",
+      "type": "Αίτηση - Μελέτη Ραδιοεκπομπών ΕΕΑΕ",
+      "file_url": "https://silia.eett.gr/silia/download/aad9dda8-8d17-49cf-b28c-8011346881ca"
+    },
+    {
+      "document_number": "394003/14-02-2020",
+      "protocol_number": "Αρχείο Αίτησης/",
+      "type": "Αίτηση Άδειας Κατασκευής Κεραίας ΕΕΤΤ",
+      "file_url": "https://silia.eett.gr/silia/download/e492427b-a9f1-43b9-a984-6ea97a9c62fb"
+    },
+    {
+      "document_number": "407270/22-05-2020",
+      "protocol_number": "ΜΕΣΩ ΣΗΛΥΑ/",
+      "type": "Αίτηση - Μελέτη Ραδιοεκπομπών ΕΕΑΕ",
+      "file_url": "https://silia.eett.gr/silia/download/3739d1c8-d22a-438c-8753-0ba5ee2d36c5"
+    },
+    {
+      "document_number": "407271/22-05-2020",
+      "protocol_number": "ΜΕΣΩ ΣΗΛΥΑ/",
+      "type": "Τοπογραφικό",
+      "file_url": "https://silia.eett.gr/silia/download/520b4702-2156-48cb-888b-9b155a0b5ded"
+    },
+    {
+      "document_number": "431143/11-03-2021",
+      "protocol_number": "Mi/411/7021/11-03-2021",
+      "type": "Γνωμάτευση ΕΕΑΕ",
+      "file_url": "https://silia.eett.gr/silia/download/b77f349c-091e-45b0-97ad-6fbd035724f3"
+    },
+    {
+      "document_number": "434167/21-04-2021",
+      "protocol_number": "40376/Φ610/19-04-2021",
+      "type": "Άδεια Κατασκευής  Κεραίας",
+      "file_url": "https://silia.eett.gr/silia/download/57bc1abb-dc53-467d-89a0-ea5403e7cdbd"
+    },
+    {
+      "document_number": "398779/09-03-2020",
+      "protocol_number": "ΣΥΝΟΔΕΥΤΙΚΑ ΕΓΓΡΑΦΑ/",
+      "type": "Δήλωση υπαγωγής σε ΠΠΔ και Συνοδευτικά Έγγραφα",
+      "file_url": "https://silia.eett.gr/silia/download/17e76ca9-2004-42c2-b73b-75448b5c0766"
+    },
+    {
+      "document_number": "398780/09-03-2020",
+      "protocol_number": "Αρχείο Αίτησης/",
+      "type": "Δήλωση ΠΠΔ",
+      "file_url": "https://silia.eett.gr/silia/download/45490003-c05c-4e6c-b438-59bcdb676c13"
+    }
+  ]
+}

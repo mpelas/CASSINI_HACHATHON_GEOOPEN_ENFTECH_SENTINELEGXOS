@@ -1,0 +1,33 @@
+{
+  "antenna_id": "162316",
+  "address": "ΣΙΤΑΓΡΟΙ ΔΡΑΜΑΣ",
+  "position_code": 1268437,
+  "municipality": "Προσοτσάνης",
+  "code_name": "ANAVIOSI DRAMA",
+  "region": "Ανατ. Μακεδονίας και Θράκης",
+  "latitude": 41.107778,
+  "company": "NOVA Μ.Α.Ε.",
+  "longitude": 24.019444,
+  "permit_status": "Από τα στοιχεία που τηρούνται στην Ενημερωτική Πύλη προκύπτει ότι, για τη θέση \"ΣΙΤΑΓΡΟΙ ΔΡΑΜΑΣ\" στον Δήμο Προσοτσάνης Περιφέρειας  Ανατ. Μακεδονίας και Θράκης \n\t(κωδικός αριθμός θέσης 1268437, κωδική ονομασία \"ANAVIOSI DRAMA\") έχει κατατεθεί από την εταιρία NOVA Μ.Α.Ε.\tδήλωση εγκατάστασης κατασκευής κεραίας (αριθ. πρωτ. \n\t47071/30-03-2022) που εμπίπτει στις διατάξεις της νομοθεσίας για Εγκαταστάσεις Κατασκευών Κεραιών Χαμηλής Ηλεκτρομαγνητικής Περιβαλλοντικής Όχλησης (ΕΚΚΧΟ).",
+  "measurements_eaee": "-",
+  "documents": [
+    {
+      "document_number": "454664/30-03-2022",
+      "protocol_number": "ΣΚΑΡΙΦΗΜΑ ΕΚΚΧΟ/",
+      "type": "Φωτογραφικό Υλικό - Σκαρίφημα",
+      "file_url": "https://silia.eett.gr/silia/download/8c920ad9-c641-4378-b89d-f8928a11c65a"
+    },
+    {
+      "document_number": "454665/30-03-2022",
+      "protocol_number": "Αρχείο Αίτησης/",
+      "type": "Δήλωση ΕΚΚΧΟ",
+      "file_url": "https://silia.eett.gr/silia/download/5b2e3fd1-7ec0-49c3-b43d-3813d2404639"
+    },
+    {
+      "document_number": "520447/14-07-2024",
+      "protocol_number": "47071/12-07-2024",
+      "type": "Δειγματοληπτικός έλεγχος",
+      "file_url": "https://silia.eett.gr/silia/download/CKo3XAybgKQZ4twabwgLoAppOgsnHhZPOilC"
+    }
+  ]
+}

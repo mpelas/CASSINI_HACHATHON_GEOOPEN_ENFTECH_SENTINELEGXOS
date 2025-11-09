@@ -1,0 +1,39 @@
+{
+  "antenna_id": "152652",
+  "address": "Δήμος Δελφών, Π.Ε Φωκίδας, Περιφέρεια Στερεάς Ελλάδας",
+  "position_code": 3207456,
+  "municipality": "Δελφών",
+  "code_name": "ΔΕΣΦΙΝΑ-ΑΝΘΙΜΟΣ-Δ",
+  "region": "Στερεάς Ελλάδας",
+  "latitude": 38.412778,
+  "company": "ΕΡΤ ΑΕ",
+  "longitude": 22.531944,
+  "permit_status": "Από τα στοιχεία που τηρούνται στην Ενημερωτική Πύλη προκύπτει ότι για τη  θέση \"Δήμος Δελφών, Π.Ε Φωκίδας, Περιφέρεια Στερεάς Ελλάδας\" στον Δήμο Δελφών Περιφέρειας  Στερεάς Ελλάδας έχει κατατεθεί από την εταιρία ΕΡΤ ΑΕ δήλωση δομικών κατασκευών κεραιών  \nμε αριθ. πρωτ. ΣΗΛΥΑ 38234/10-04-2020 κατά τα οριζόμενα στην παρ. 7 του άρθρου 34 του Ν.4635/2019.",
+  "measurements_eaee": "-",
+  "documents": [
+    {
+      "document_number": "401213/04-04-2020",
+      "protocol_number": "δορυφορική λήψη και στοιχεία δομικών κατασκευών/",
+      "type": "Άλλο",
+      "file_url": "https://silia.eett.gr/silia/download/f91f555b-af58-4dd6-930c-ede601cd97b3"
+    },
+    {
+      "document_number": "401214/04-04-2020",
+      "protocol_number": "απογραφή 1987/",
+      "type": "Άλλο",
+      "file_url": "https://silia.eett.gr/silia/download/a20309a2-3151-4993-bf56-14c9dfae7f50"
+    },
+    {
+      "document_number": "401215/04-04-2020",
+      "protocol_number": "πίνακας 49 απογραφής ΕΡΤ 1987/",
+      "type": "Άλλο",
+      "file_url": "https://silia.eett.gr/silia/download/afe70eac-bb5e-4458-8db8-4c43c00ca5cd"
+    },
+    {
+      "document_number": "402056/10-04-2020",
+      "protocol_number": "Αρχείο Αίτησης/",
+      "type": "Δήλωση Δομικών ΕΡΤ",
+      "file_url": "https://silia.eett.gr/silia/download/565862fa-59a7-4104-b56b-34875f5408bb"
+    }
+  ]
+}

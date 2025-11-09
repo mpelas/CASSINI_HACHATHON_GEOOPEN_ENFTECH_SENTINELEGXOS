@@ -1,0 +1,81 @@
+{
+  "antenna_id": "172743",
+  "address": "ΤΜΗΜΑ ΚΛΗΡΟΤΕΜΑΧΙΟΥ 1446 ΔΙΑΝΟΜΗΣ 1956, ΑΝΑΜΟΡΦΩΣΗΣ 1972 ΑΓΡΟΚΤΗΜΑΤΟΣ ΠΕΡΔΙΚΑΣ, ΠΕΡΙΟΧΗ \"ΑΓΡΙΑΧΛΑΔΙΑ\" Τ.Κ. ΠΕΡΔΙΚΑΣ, ΔΗΜ. ΕΝ. ΠΕΡΔΙΚΑΣ",
+  "position_code": 1201445,
+  "municipality": "Ηγουμενίτσας",
+  "code_name": "ΠΕΡΔΙΚΑ",
+  "region": "Ηπείρου",
+  "latitude": 39.38,
+  "company": "NOVA Μ.Α.Ε.",
+  "longitude": 20.327778,
+  "permit_status": "Από τα στοιχεία που τηρούνται στην Ενημερωτική Πύλη προκύπτει ότι, για τη θέση \"ΤΜΗΜΑ ΚΛΗΡΟΤΕΜΑΧΙΟΥ 1446 ΔΙΑΝΟΜΗΣ 1956, ΑΝΑΜΟΡΦΩΣΗΣ 1972 ΑΓΡΟΚΤΗΜΑΤΟΣ ΠΕΡΔΙΚΑΣ, ΠΕΡΙΟΧΗ \"ΑΓΡΙΑΧΛΑΔΙΑ\" Τ.Κ. ΠΕΡΔΙΚΑΣ, ΔΗΜ. ΕΝ. ΠΕΡΔΙΚΑΣ\" στον Δήμο Ηγουμενίτσας Περιφέρειας  Ηπείρου \n\t(κωδικός αριθμός θέσης 1201445, κωδική ονομασία \"ΠΕΡΔΙΚΑ\") χορηγήθηκε, με την Απόφαση της ΕΕΤΤ \n51147/03-07-2024, άδεια κατασκευής κεραίας στην εταιρία NOVA Μ.Α.Ε.. \nΑπό τo έγγραφο της άδειας μπορείτε να ενημερωθείτε για τις σχετικές εγκρίσεις των συναρμόδιων φορέων, καθώς και εάν πρόκειται για τροποποίηση παλαιότερης άδειας.\n\tΣύμφωνα με τα στοιχεία που έχουν υποβληθεί στο ΣΗΛΥΑ, ο κάτοχος της κατασκευής κεραίας έχει δηλώσει ότι θα προβεί σε έκδοση έγκρισης δομικών κατασκευών \n\t\tκεραίας μέσω του e-Άδειες \n\t\tμετά την έκδοση της άδειας κατασκευής κεραίας / δημοσιοποίηση της δήλωσης τροποποίησης της κατασκευής κεραίας",
+  "measurements_eaee": "-",
+  "documents": [
+    {
+      "document_number": "510809/22-03-2024",
+      "protocol_number": "Δ3/Δ/7356/1141/14-02-2000",
+      "type": "Γνωμάτευση ΥΠΑ",
+      "file_url": "https://silia.eett.gr/silia/download/ilbCiLdGwvBI9InrgWoEqFgY0bVBGxZvgFLo"
+    },
+    {
+      "document_number": "510810/22-03-2024",
+      "protocol_number": "Δ3/Δ/2372/17-03-2010",
+      "type": "Γνωμάτευση ΥΠΑ",
+      "file_url": "https://silia.eett.gr/silia/download/UGYUS2Gv14Lsim0XXMkYCxGHZVKCdq5MOOuV"
+    },
+    {
+      "document_number": "510812/22-03-2024",
+      "protocol_number": "ΤΟΠΟΓΡΑΦΙΚΟ & ΑΡΧΙΤΕΚΤΟΝΙΚΑ/22-03-2024",
+      "type": "Αρχιτεκτονικά Σχέδια",
+      "file_url": "https://silia.eett.gr/silia/download/0twd7IeYHMLPpQuPrRDfNB2IMv0wHrKXPilL"
+    },
+    {
+      "document_number": "510813/22-03-2024",
+      "protocol_number": "ΜΕΣΩ ΣΗΛΥΑ/31-01-2024",
+      "type": "Αίτηση - Μελέτη Ραδιοεκπομπών ΕΕΑΕ",
+      "file_url": "https://silia.eett.gr/silia/download/PAAOoMKcbFHaXFHTLOx4PgSveEIobUffEIA1"
+    },
+    {
+      "document_number": "510814/22-03-2024",
+      "protocol_number": "ΥΔ ΚΟΙΝΗΣ ΧΡΗΣΗΣ VODAFONE/07-02-2024",
+      "type": "Άλλο",
+      "file_url": "https://silia.eett.gr/silia/download/mgEadD75TmgBbvmYQHQmg5r2hikbwXOAfyQq"
+    },
+    {
+      "document_number": "510815/22-03-2024",
+      "protocol_number": "ΥΔ ΔΙΑΣΥΝΔΕΣΗΣ VODAFONE/07-02-2024",
+      "type": "Άλλο",
+      "file_url": "https://silia.eett.gr/silia/download/OiQa0MXWtDWhGWliFroXQD3GCkDcqsHuFnov"
+    },
+    {
+      "document_number": "510819/22-03-2024",
+      "protocol_number": "Αρχείο Αίτησης/22-03-2024",
+      "type": "Αίτηση Άδειας Κατασκευής Κεραίας ΕΕΤΤ",
+      "file_url": "https://silia.eett.gr/silia/download/XesdFI21o4vHpLifBvE7IBR2Pixlf90tPs1G"
+    },
+    {
+      "document_number": "513733/23-04-2024",
+      "protocol_number": "ΤΜΙΑ/411/6084/2024/23-04-2024",
+      "type": "Γνωμάτευση ΕΕΑΕ",
+      "file_url": "https://silia.eett.gr/silia/download/xG5boLhc2yExNeAqRbldryihqKmxSohUUmG4"
+    },
+    {
+      "document_number": "519481/03-07-2024",
+      "protocol_number": "51147/03-07-2024",
+      "type": "Άδεια Κατασκευής  Κεραίας",
+      "file_url": "https://silia.eett.gr/silia/download/RKEu3tnwxzg6O6gcPzMCcuNDVmAHgPq9CG55"
+    },
+    {
+      "document_number": "510817/22-03-2024",
+      "protocol_number": "ΣΥΝΟΔΕΥΤΙΚΑ ΕΓΓΡΑΦΑ ΠΠΔ/22-03-2024",
+      "type": "Δήλωση υπαγωγής σε ΠΠΔ και Συνοδευτικά Έγγραφα",
+      "file_url": "https://silia.eett.gr/silia/download/PVDKcGNt8Nw3T6sORPbhFUHrBx47BifL68ZQ"
+    },
+    {
+      "document_number": "510820/22-03-2024",
+      "protocol_number": "Αρχείο Αίτησης/22-03-2024",
+      "type": "Δήλωση ΠΠΔ",
+      "file_url": "https://silia.eett.gr/silia/download/emEcsaLQ5zNQlBFYGEy2E0Uz4EL9MRYKLgbR"
+    }
+  ]
+}

@@ -1,0 +1,105 @@
+{
+  "antenna_id": "154815",
+  "address": "ΘΕΣΗ ΑΓΙΟΣ ΠΑΝΤΕΛΕΗΜΩΝ, ΔΗΜΟΤΙΚΗ ΕΝΟΤΗΤΑ ΚΗΦΙΣΙΑΣ",
+  "position_code": 1200074,
+  "municipality": "Πεντέλης",
+  "code_name": "ΠΕΝΤΕΛΗ",
+  "region": "Αττικής",
+  "latitude": 38.091944,
+  "company": "NOVA Μ.Α.Ε.",
+  "longitude": 23.861667,
+  "permit_status": "Από τα στοιχεία που τηρούνται στην Ενημερωτική Πύλη προκύπτει ότι, για τη θέση \"ΘΕΣΗ ΑΓΙΟΣ ΠΑΝΤΕΛΕΗΜΩΝ, ΔΗΜΟΤΙΚΗ ΕΝΟΤΗΤΑ ΚΗΦΙΣΙΑΣ\" στον Δήμο Πεντέλης Περιφέρειας  Αττικής \n\t(κωδικός αριθμός θέσης 1200074, κωδική ονομασία \"ΠΕΝΤΕΛΗ\") χορηγήθηκε, με την Απόφαση της ΕΕΤΤ \n42819/Φ610/31-12-2021, άδεια κατασκευής κεραίας στην εταιρία NOVA Μ.Α.Ε.. \nΑπό τo έγγραφο της άδειας μπορείτε να ενημερωθείτε για τις σχετικές εγκρίσεις των συναρμόδιων φορέων, καθώς και εάν πρόκειται για τροποποίηση παλαιότερης άδειας.\nΗ άδεια χορηγήθηκε με τη διαδικασία αδειοδότησης που ορίζει ο ν. 4635/2019, κατόπιν της με αριθ. πρωτ. 39656/27-05-2020 \n\tαίτησης, και βάσει σχετικής δήλωσης του κατόχου της περί υπαγωγή της κατασκευής κεραίας στο άρθρο 34 του ν. 4635/2019.",
+  "measurements_eaee": "-",
+  "documents": [
+    {
+      "document_number": "408696/27-05-2020",
+      "protocol_number": "35620/Φ615/21-04-2020",
+      "type": "Χορήγηση Δικαιώματος Χρήσης Ραδιοσυχνοτήτων",
+      "file_url": null
+    },
+    {
+      "document_number": "408703/27-05-2020",
+      "protocol_number": "Δ3/Δ/3540/1622/24-3-94/24-03-1994",
+      "type": "Γνωμάτευση ΥΠΑ",
+      "file_url": "https://silia.eett.gr/silia/download/cbe4c082-f49e-4370-987b-f9cbb69c73d8"
+    },
+    {
+      "document_number": "408704/27-05-2020",
+      "protocol_number": "6031 ΔΙΟΡΘΩΤΙΚΟ/23-07-2014",
+      "type": "Γνωμάτευση ΥΠΑ",
+      "file_url": "https://silia.eett.gr/silia/download/0d185a49-175b-4397-9c28-04feb3d82a9b"
+    },
+    {
+      "document_number": "408705/27-05-2020",
+      "protocol_number": "ΜΕΛΕΤΗ ΡΑΔΙΟΕΚΠΟΜΠΩΝ/12-05-2020",
+      "type": "Αίτηση - Μελέτη Ραδιοεκπομπών ΕΕΑΕ",
+      "file_url": "https://silia.eett.gr/silia/download/4108df01-d2ff-4984-abf2-2eb5f76cb001"
+    },
+    {
+      "document_number": "408706/27-05-2020",
+      "protocol_number": "ΤΟΠΟΓΡΑΦΙΚΟ/",
+      "type": "Τοπογραφικό",
+      "file_url": "https://silia.eett.gr/silia/download/30c5451e-3a89-4566-85e8-3dbf842cc32c"
+    },
+    {
+      "document_number": "408707/27-05-2020",
+      "protocol_number": "ΑΡΧΙΤΕΚΤΟΝΙΚΑ ΣΧΕΔΙΑ/",
+      "type": "Αρχιτεκτονικά Σχέδια",
+      "file_url": "https://silia.eett.gr/silia/download/38909b7a-bf8d-4662-b733-b2199b9c7594"
+    },
+    {
+      "document_number": "408708/27-05-2020",
+      "protocol_number": "40267/2115/27-05-2020",
+      "type": "Αίτηση / Μελέτη για Έγκριση Περιβαλλοντικών Επιπτώσεων",
+      "file_url": "https://silia.eett.gr/silia/download/c8b03730-c575-4b08-a14a-e3623263901a"
+    },
+    {
+      "document_number": "408709/27-05-2020",
+      "protocol_number": "33347/26-05-2020",
+      "type": "Αίτηση ΓΕΑ",
+      "file_url": "https://silia.eett.gr/silia/download/d40a175b-f0ef-4eb1-a673-677f95775f30"
+    },
+    {
+      "document_number": "408710/27-05-2020",
+      "protocol_number": "ΥΠΕΥΘΥΝΗ ΔΗΛΩΣΗ ΚΟΙΝΗΣ ΧΡΗΣΗΣ VODAFONE/27-05-2020",
+      "type": "Άλλο",
+      "file_url": "https://silia.eett.gr/silia/download/425c91cd-ac8e-40d4-9368-1d9a9eb889bc"
+    },
+    {
+      "document_number": "408711/27-05-2020",
+      "protocol_number": "ΥΠΕΥΘΥΝΗ ΔΗΛΩΣΗ ΔΙΑΣΥΝΔΕΣΗΣ VODAFONE/27-05-2020",
+      "type": "Άλλο",
+      "file_url": "https://silia.eett.gr/silia/download/b2efab1c-625e-474b-ab43-4309ff47f896"
+    },
+    {
+      "document_number": "408750/27-05-2020",
+      "protocol_number": "Αρχείο Αίτησης/",
+      "type": "Αίτηση Άδειας Κατασκευής Κεραίας ΕΕΤΤ",
+      "file_url": "https://silia.eett.gr/silia/download/de12d324-a259-4c77-95d6-26f23b56fa79"
+    },
+    {
+      "document_number": "412033/29-06-2020",
+      "protocol_number": "Μ.ι./411/8285/2020/25-06-2020",
+      "type": "Γνωμάτευση ΕΕΑΕ",
+      "file_url": "https://silia.eett.gr/silia/download/ab3f93a5-f6ca-4a0a-bfce-d54f808fd161"
+    },
+    {
+      "document_number": "448211/16-12-2021",
+      "protocol_number": "64528/16-12-2021",
+      "type": "Έγκριση Περιβαλλοντικών Όρων",
+      "file_url": "https://silia.eett.gr/silia/download/cfda3850-9d87-495b-a9a8-1b75a61b95e1"
+    },
+    {
+      "document_number": "448212/16-12-2021",
+      "protocol_number": "68958 ΕΠΙΣΤΟΛΗ ΕΞΑΙΡΕΣΗΣ ΓΕΑ/11-06-2020",
+      "type": "Επιστολή Ενημέρωσης προς Αρμόδιο Φορέα",
+      "file_url": "https://silia.eett.gr/silia/download/5db75824-2cae-476d-8961-7de18b4625d4"
+    },
+    {
+      "document_number": "448979/31-12-2021",
+      "protocol_number": "42819/Φ610/31-12-2021",
+      "type": "Άδεια Κατασκευής  Κεραίας",
+      "file_url": "https://silia.eett.gr/silia/download/0b2035e7-f533-4c4c-b51c-f42091dad856"
+    }
+  ]
+}

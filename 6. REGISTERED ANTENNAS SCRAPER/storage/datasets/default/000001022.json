@@ -1,0 +1,93 @@
+{
+  "antenna_id": "142903",
+  "address": "ΠΑΝΘΕΣΣΑΛΙΚΟ ΣΤΑΔΙΟ ΒΟΛΟΥ",
+  "position_code": 1404503,
+  "municipality": "Βόλου",
+  "code_name": "2004 VOL",
+  "region": "Θεσσαλίας",
+  "latitude": 39.386667,
+  "company": "OTE",
+  "longitude": 22.930556,
+  "permit_status": "Από τα στοιχεία που τηρούνται στην Ενημερωτική Πύλη προκύπτει ότι, για τη θέση \"ΠΑΝΘΕΣΣΑΛΙΚΟ ΣΤΑΔΙΟ ΒΟΛΟΥ\" στον Δήμο Βόλου Περιφέρειας  Θεσσαλίας \n\t(κωδικός αριθμός θέσης 1404503, κωδική ονομασία \"2004 VOL\") χορηγήθηκε, με την Απόφαση της ΕΕΤΤ \n38250/Φ610/26-11-2020, άδεια κατασκευής κεραίας στην εταιρία OTE. \nΑπό τo έγγραφο της άδειας μπορείτε να ενημερωθείτε για τις σχετικές εγκρίσεις των συναρμόδιων φορέων, καθώς και εάν πρόκειται για τροποποίηση παλαιότερης άδειας.\nΗ άδεια χορηγήθηκε με τη διαδικασία αδειοδότησης που ορίζει ο ν. 4635/2019, κατόπιν της με αριθ. πρωτ. 33815/01-08-2019 \n\tαίτησης, και βάσει σχετικής δήλωσης του κατόχου της περί υπαγωγή της κατασκευής κεραίας στο άρθρο 34 του ν. 4635/2019.",
+  "measurements_eaee": "-",
+  "documents": [
+    {
+      "document_number": "368872/26-06-2019",
+      "protocol_number": "ΜΕΣΩ ΣΗΛΥΑ/",
+      "type": "Τοπογραφικό",
+      "file_url": "https://silia.eett.gr/silia/download/54be8cf3-9405-4312-8605-e87fe58cafa0"
+    },
+    {
+      "document_number": "368873/26-06-2019",
+      "protocol_number": "ΜΕΣΩ ΣΗΛΥΑ/",
+      "type": "Αρχιτεκτονικά Σχέδια",
+      "file_url": "https://silia.eett.gr/silia/download/72daeb20-6109-4ff7-a11c-859d468c75f8"
+    },
+    {
+      "document_number": "368874/26-06-2019",
+      "protocol_number": "Δ3/Δ/20023/4407/06-06-2003",
+      "type": "Γνωμάτευση ΥΠΑ",
+      "file_url": "https://silia.eett.gr/silia/download/e6a930be-c368-42c6-a1cd-c4199088994b"
+    },
+    {
+      "document_number": "368875/26-06-2019",
+      "protocol_number": "ΜΕΣΩ ΣΗΛΥΑ/26-06-2019",
+      "type": "Αίτηση ΥΠΑ",
+      "file_url": "https://silia.eett.gr/silia/download/b77724f1-5a0b-4530-a769-8c145a852534"
+    },
+    {
+      "document_number": "368876/26-06-2019",
+      "protocol_number": "ΜΕΣΩ ΣΗΛΥΑ/01-04-2019",
+      "type": "Αίτηση - Μελέτη Ραδιοεκπομπών ΕΕΑΕ",
+      "file_url": "https://silia.eett.gr/silia/download/ebeac8e2-fb1c-46d1-b3cc-9430939e1288"
+    },
+    {
+      "document_number": "368877/26-06-2019",
+      "protocol_number": "ΥΠΕΥΘΥΝΗ ΔΗΛΩΣΗ ΣΥΝΕΓΚΑΤΑΣΤΑΣΗΣ  ΟΤΕ/26-06-2019",
+      "type": "Άλλο",
+      "file_url": "https://silia.eett.gr/silia/download/49201829-ef49-443c-b56a-02bc7a4a4d58"
+    },
+    {
+      "document_number": "372277/01-08-2019",
+      "protocol_number": "Αρχείο Αίτησης/",
+      "type": "Αίτηση Άδειας Κατασκευής Κεραίας ΕΕΤΤ",
+      "file_url": "https://silia.eett.gr/silia/download/9dba59f8-0bb3-4d23-a5a7-e6650189f837"
+    },
+    {
+      "document_number": "373321/23-08-2019",
+      "protocol_number": "Δ3/Δ/32744/22-8-2019/23-08-2019",
+      "type": "Γνωμάτευση ΥΠΑ",
+      "file_url": "https://silia.eett.gr/silia/download/15103302-7869-44f1-bc2c-9730faf6759d"
+    },
+    {
+      "document_number": "380952/24-10-2019",
+      "protocol_number": "Μ.ι./411/15300/2019/24-10-2019",
+      "type": "Γνωμάτευση ΕΕΑΕ",
+      "file_url": "https://silia.eett.gr/silia/download/db6acdb8-d895-4790-8090-2358fb3e2674"
+    },
+    {
+      "document_number": "405279/13-05-2020",
+      "protocol_number": "29760/12-05-2020",
+      "type": "Επιστολή Ενημέρωσης προς Αρμόδιο Φορέα",
+      "file_url": "https://silia.eett.gr/silia/download/84e97e5f-744b-40c4-82ef-a08730577bfd"
+    },
+    {
+      "document_number": "423320/26-11-2020",
+      "protocol_number": "38250/Φ610/26-11-2020",
+      "type": "Άδεια Κατασκευής  Κεραίας",
+      "file_url": "https://silia.eett.gr/silia/download/c716a429-2a4f-42eb-a404-2ed4c75ee978"
+    },
+    {
+      "document_number": "368879/26-06-2019",
+      "protocol_number": "ΜΕΣΩ ΣΗΛΥΑ/",
+      "type": "Δήλωση υπαγωγής σε ΠΠΔ και Συνοδευτικά Έγγραφα",
+      "file_url": "https://silia.eett.gr/silia/download/4b4926ef-298a-4381-9a14-35937ff610f3"
+    },
+    {
+      "document_number": "372278/01-08-2019",
+      "protocol_number": "Αρχείο Αίτησης/",
+      "type": "Δήλωση ΠΠΔ",
+      "file_url": "https://silia.eett.gr/silia/download/396a66a3-16f9-4ef3-8011-28701918e9c2"
+    }
+  ]
+}

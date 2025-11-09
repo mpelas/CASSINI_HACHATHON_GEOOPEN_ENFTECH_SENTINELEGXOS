@@ -1,0 +1,57 @@
+{
+  "antenna_id": "174552",
+  "address": "ΔΗΜΟΤΙΚΟ ΚΑΤΑΣΤΗΜΑ ΔΗΜΟΤΙΚΗΣ ΕΝΟΤΗΤΑΣ ΜΟΥΡΙΚΙΟΥ, ΕΜΠΟΡΙΟ.",
+  "position_code": 1142944,
+  "municipality": "Εορδαίας",
+  "code_name": "3032944 SYZEFXIS DIMOTIKO KATASTIMA MOYRIKIOU",
+  "region": "Δυτικής Μακεδονίας",
+  "latitude": 40.488333,
+  "company": "VODAFONE",
+  "longitude": 21.556944,
+  "permit_status": "Από τα στοιχεία που τηρούνται στην Ενημερωτική Πύλη προκύπτει ότι, για τη θέση \"ΔΗΜΟΤΙΚΟ ΚΑΤΑΣΤΗΜΑ ΔΗΜΟΤΙΚΗΣ ΕΝΟΤΗΤΑΣ ΜΟΥΡΙΚΙΟΥ, ΕΜΠΟΡΙΟ.\" στον Δήμο Εορδαίας Περιφέρειας  Δυτικής Μακεδονίας \n\t(κωδικός αριθμός θέσης 1142944, κωδική ονομασία \"3032944 SYZEFXIS DIMOTIKO KATASTIMA MOYRIKIOU\") έχει κατατεθεί από την εταιρία VODAFONE\tδήλωση εγκατάστασης κατασκευής κεραίας (αριθ. πρωτ. \n\t56762/24-07-2024) που εμπίπτει στις διατάξεις της νομοθεσίας για Εγκαταστάσεις Κατασκευών Κεραιών Χαμηλής Ηλεκτρομαγνητικής Περιβαλλοντικής Όχλησης (ΕΚΚΧΟ).",
+  "measurements_eaee": "-",
+  "documents": [
+    {
+      "document_number": "521681/24-07-2024",
+      "protocol_number": "Φωτορεαλιστική απεικόνιση κεραίας ΕΚΚΧΟ/24-07-2024",
+      "type": "Φωτογραφικό Υλικό - Σκαρίφημα",
+      "file_url": "https://silia.eett.gr/silia/download/5eWUQi0kc79G1RN7FrBHZggGcgUE5a9qDWwY"
+    },
+    {
+      "document_number": "521682/24-07-2024",
+      "protocol_number": "Φωτορεαλιστική απεικόνιση κεραίας ΕΚΚΧΟ1/24-07-2024",
+      "type": "Φωτογραφικό Υλικό - Σκαρίφημα",
+      "file_url": "https://silia.eett.gr/silia/download/CxRGLlWfDlWPVs2OHnUdRwrGlvGDPV7eeMTX"
+    },
+    {
+      "document_number": "521683/24-07-2024",
+      "protocol_number": "Ψηφιακός χάρτης με προβολή της θέσης ΕΚΚΧΟ/24-07-2024",
+      "type": "Φωτογραφικό Υλικό - Σκαρίφημα",
+      "file_url": "https://silia.eett.gr/silia/download/vut6zy20fRU82Zx4IOV2dP9B5WgxG2GLwLGh"
+    },
+    {
+      "document_number": "521684/24-07-2024",
+      "protocol_number": "Σκαρίφημα θέσης κεραίας ΕΚΚΧΟ/24-07-2024",
+      "type": "Φωτογραφικό Υλικό - Σκαρίφημα",
+      "file_url": "https://silia.eett.gr/silia/download/ivF4yK6ZFCfekmthaFRSniRzz0frCRo1xOWr"
+    },
+    {
+      "document_number": "521687/24-07-2024",
+      "protocol_number": "ΜΕΛΕΤΗ ΕΚΚΧΟ/24-07-2024",
+      "type": "Άλλο",
+      "file_url": "https://silia.eett.gr/silia/download/YNWHtAnemXVq612gDebWXkQDSeUzikxYwYyd"
+    },
+    {
+      "document_number": "521688/24-07-2024",
+      "protocol_number": "Αρχείο Αίτησης/24-07-2024",
+      "type": "Δήλωση ΕΚΚΧΟ",
+      "file_url": "https://silia.eett.gr/silia/download/TnUZT64v2GEvTab7SWzAkEIcHuP9hX1DZOY2"
+    },
+    {
+      "document_number": "530365/25-10-2024",
+      "protocol_number": "ΥΔ ΕΓΚΑΤΑΣΤΑΣΗΣ/25-10-2024",
+      "type": "Άλλο",
+      "file_url": "https://silia.eett.gr/silia/download/d8BISsI92xdARWDZGeog7zTB6BWUv2rGpXRP"
+    }
+  ]
+}

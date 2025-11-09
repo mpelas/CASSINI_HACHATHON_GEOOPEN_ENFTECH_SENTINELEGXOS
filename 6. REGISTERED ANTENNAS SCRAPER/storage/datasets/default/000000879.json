@@ -1,0 +1,81 @@
+{
+  "antenna_id": "175392",
+  "address": "Νίκης 38 & Διοσκουρίας",
+  "position_code": 1126469,
+  "municipality": "Ασπροπύργου",
+  "code_name": "ASPROPYRGOS WEST PLAZA 2",
+  "region": "Αττικής",
+  "latitude": 38.066111,
+  "company": "VODAFONE",
+  "longitude": 23.6025,
+  "permit_status": "Από τα στοιχεία που τηρούνται στην Ενημερωτική Πύλη προκύπτει ότι, για τη θέση \"Νίκης 38 & Διοσκουρίας\" στον Δήμο Ασπροπύργου Περιφέρειας  Αττικής \n\t(κωδικός αριθμός θέσης 1126469, κωδική ονομασία \"ASPROPYRGOS WEST PLAZA 2\") έχει κατατεθεί από την εταιρία VODAFONE\tδήλωση εγκατάστασης κατασκευής κεραίας (αριθ. πρωτ. \n\t57413/18-09-2024) που εμπίπτει στις διατάξεις της νομοθεσίας για Εγκαταστάσεις Κατασκευών Κεραιών Χαμηλής Ηλεκτρομαγνητικής Περιβαλλοντικής Όχλησης (ΕΚΚΧΟ).",
+  "measurements_eaee": "-",
+  "documents": [
+    {
+      "document_number": "526142/18-09-2024",
+      "protocol_number": "Φωτορεαλιστική απεικόνιση ιστού & ερμαρίου ΕΚΚΧΟ/18-09-2024",
+      "type": "Φωτογραφικό Υλικό - Σκαρίφημα",
+      "file_url": "https://silia.eett.gr/silia/download/ZfTM1qKIg1hFCxutloL6taKrKdnxY2PIP4XK"
+    },
+    {
+      "document_number": "526143/18-09-2024",
+      "protocol_number": "Φωτορεαλιστική απεικόνιση m/w κεραίας/18-09-2024",
+      "type": "Φωτογραφικό Υλικό - Σκαρίφημα",
+      "file_url": "https://silia.eett.gr/silia/download/wqVeHqAME8qLZyqAKEibL1nEywgC5bBoQa3P"
+    },
+    {
+      "document_number": "526144/18-09-2024",
+      "protocol_number": "Ψηφιακός χάρτης με προβολή της θέσης ΕΚΚΧΟ/18-09-2024",
+      "type": "Φωτογραφικό Υλικό - Σκαρίφημα",
+      "file_url": "https://silia.eett.gr/silia/download/ivO7aZc86fd9RGfdelBxw6P1MBBT9lwQyIlw"
+    },
+    {
+      "document_number": "526145/18-09-2024",
+      "protocol_number": "Αρχιτεκτονικά Σχέδια ΕΚΚΧΟ/04-07-2024",
+      "type": "Αρχιτεκτονικά Σχέδια",
+      "file_url": "https://silia.eett.gr/silia/download/6CLOiuHatHGYrS4sfKOYTiE2omOurctynY8I"
+    },
+    {
+      "document_number": "526146/18-09-2024",
+      "protocol_number": "Μελέτη ΕΚΚΧΟ/19-07-2024",
+      "type": "Άλλο",
+      "file_url": "https://silia.eett.gr/silia/download/ztx10EQ3LO895oq8MLf2IRMrdcySbMPuLD3t"
+    },
+    {
+      "document_number": "526147/18-09-2024",
+      "protocol_number": "92197/23-07-2024",
+      "type": "Αποτελέσματα μελέτης στη ζώνης 2.6GHz για ΥΠΑ/ΓΕΕΘΑ",
+      "file_url": "https://silia.eett.gr/silia/download/V8OAgoP5i7rgORg2RGTMGQRDtI5XxRTEfWy7"
+    },
+    {
+      "document_number": "526148/18-09-2024",
+      "protocol_number": "Υπεύθυνη Δήλωση κοινής χρήσης Nova/25-07-2024",
+      "type": "Άλλο",
+      "file_url": "https://silia.eett.gr/silia/download/VTk0WTavT685TZQEMHUI71bODV6GmHLD4KZ2"
+    },
+    {
+      "document_number": "526149/18-09-2024",
+      "protocol_number": "Φ.550/ΑΔ.4713/Σ.1112/30-04-2024",
+      "type": "Γνωμάτευση ΓΕΑ",
+      "file_url": "https://silia.eett.gr/silia/download/3aTagKL85gFMB56kPulQRhl4v5lmzEo0Zsko"
+    },
+    {
+      "document_number": "526183/18-09-2024",
+      "protocol_number": "Αρχείο Αίτησης/18-09-2024",
+      "type": "Δήλωση ΕΚΚΧΟ",
+      "file_url": "https://silia.eett.gr/silia/download/aOzEmoASe3hx7qZ6R3y423vfxOWKDNDvz5kC"
+    },
+    {
+      "document_number": "529606/21-10-2024",
+      "protocol_number": "Φ.550/ΑΔ.10881/Σ.2649/18-10-2024",
+      "type": "Γνωμάτευση ΓΕΑ",
+      "file_url": "https://silia.eett.gr/silia/download/6G9GP4DCpc2sF4xvdxENFGWhwiKPtvVnw3pr"
+    },
+    {
+      "document_number": "543462/12-03-2025",
+      "protocol_number": "ΥΔ Εγκατάστασης/12-03-2025",
+      "type": "Άλλο",
+      "file_url": "https://silia.eett.gr/silia/download/WU2WZdtORbKG9Y8vO02Yy2nFGFcBNc4o3LPV"
+    }
+  ]
+}

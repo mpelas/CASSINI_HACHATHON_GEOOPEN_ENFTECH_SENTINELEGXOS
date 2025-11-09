@@ -1,0 +1,93 @@
+{
+  "antenna_id": "158015",
+  "address": "ΥΨΩΜΑ ΣΚΛΗΡΟ ΜΑΛΑΚΩΝΤΑ",
+  "position_code": 1104361,
+  "municipality": "Ερέτριας",
+  "code_name": "ΔΡΟΜΟΣ ΒΑΣΙΛΙΚΟ-ΕΡΕΤΡΙΑ",
+  "region": "Στερεάς Ελλάδας",
+  "latitude": 38.409722,
+  "company": "VODAFONE",
+  "longitude": 23.750833,
+  "permit_status": "Από τα στοιχεία που τηρούνται στην Ενημερωτική Πύλη προκύπτει ότι, για τη θέση \"ΥΨΩΜΑ ΣΚΛΗΡΟ ΜΑΛΑΚΩΝΤΑ \" στον Δήμο Ερέτριας Περιφέρειας  Στερεάς Ελλάδας \n\t(κωδικός αριθμός θέσης 1104361, κωδική ονομασία \"ΔΡΟΜΟΣ ΒΑΣΙΛΙΚΟ-ΕΡΕΤΡΙΑ\") χορηγήθηκε, με την Απόφαση της ΕΕΤΤ \n43545/21-03-2022, άδεια κατασκευής κεραίας στην εταιρία VODAFONE. \nΑπό τo έγγραφο της άδειας μπορείτε να ενημερωθείτε για τις σχετικές εγκρίσεις των συναρμόδιων φορέων, καθώς και εάν πρόκειται για τροποποίηση παλαιότερης άδειας.",
+  "measurements_eaee": "-",
+  "documents": [
+    {
+      "document_number": "427955/26-01-2021",
+      "protocol_number": "Τοπογραφικό διάγραμμα/",
+      "type": "Τοπογραφικό",
+      "file_url": "https://silia.eett.gr/silia/download/f07434f8-2cf1-4c6c-b2f2-afad5b727c14"
+    },
+    {
+      "document_number": "427956/26-01-2021",
+      "protocol_number": "Αρχιτεκτονικά Σχέδια/",
+      "type": "Αρχιτεκτονικά Σχέδια",
+      "file_url": "https://silia.eett.gr/silia/download/01cf751f-6cbf-4bae-abaa-8928e1e50adf"
+    },
+    {
+      "document_number": "427957/26-01-2021",
+      "protocol_number": "Χάρτης ΥΠΑ/",
+      "type": "Απόσπασμα Χάρτη ΓΥΣ 1:50.000",
+      "file_url": "https://silia.eett.gr/silia/download/b944f826-2e12-4ee1-91dc-4fd1b3662d6b"
+    },
+    {
+      "document_number": "427958/26-01-2021",
+      "protocol_number": "Μελέτη ραδιοεκπομπών/25-01-2021",
+      "type": "Αίτηση - Μελέτη Ραδιοεκπομπών ΕΕΑΕ",
+      "file_url": "https://silia.eett.gr/silia/download/510e4911-90a9-4c41-a72d-064bd1935f58"
+    },
+    {
+      "document_number": "427967/26-01-2021",
+      "protocol_number": "Yπεύθυνη Δήλωση κοινής χρήσης Wind/26-01-2021",
+      "type": "Άλλο",
+      "file_url": "https://silia.eett.gr/silia/download/603c1880-c7ba-4448-b1e9-df37de1efea3"
+    },
+    {
+      "document_number": "427968/26-01-2021",
+      "protocol_number": "Yπεύθυνη Δήλωση Διασύνδεσης Wind/26-01-2021",
+      "type": "Άλλο",
+      "file_url": "https://silia.eett.gr/silia/download/31252edf-a8ab-4236-bd4d-db2f682a6232"
+    },
+    {
+      "document_number": "428237/28-01-2021",
+      "protocol_number": "9255/28-01-2021",
+      "type": "Αποτελέσματα μελέτης στη ζώνης 2.6GHz για ΥΠΑ/ΓΕΕΘΑ",
+      "file_url": "https://silia.eett.gr/silia/download/629674cd-0b5f-481c-b1c0-fa219ec538ee"
+    },
+    {
+      "document_number": "431287/16-03-2021",
+      "protocol_number": "46951/10-03-2021",
+      "type": "Αίτηση / Μελέτη για Έγκριση Περιβαλλοντικών Επιπτώσεων",
+      "file_url": "https://silia.eett.gr/silia/download/763e135d-4208-46a2-aa5b-c6f045485169"
+    },
+    {
+      "document_number": "431288/16-03-2021",
+      "protocol_number": "Αρχείο Αίτησης/",
+      "type": "Αίτηση Άδειας Κατασκευής Κεραίας ΕΕΤΤ",
+      "file_url": "https://silia.eett.gr/silia/download/5f049f43-4b8b-453d-8f83-8998bee441b8"
+    },
+    {
+      "document_number": "432611/01-04-2021",
+      "protocol_number": "Μ.ι./411/7951/2021/01-04-2021",
+      "type": "Γνωμάτευση ΕΕΑΕ",
+      "file_url": "https://silia.eett.gr/silia/download/bb12e6ab-3d81-4a7d-8454-90d07fad6a57"
+    },
+    {
+      "document_number": "439832/19-08-2021",
+      "protocol_number": "Δ3/Δ/28403/19-8-2021/19-08-2021",
+      "type": "Γνωμάτευση ΥΠΑ",
+      "file_url": "https://silia.eett.gr/silia/download/e35bf6e5-7a74-4a2e-8000-3bbcf6be5768"
+    },
+    {
+      "document_number": "450400/02-02-2022",
+      "protocol_number": "18825/01-02-2022",
+      "type": "Έγκριση Περιβαλλοντικών Όρων",
+      "file_url": "https://silia.eett.gr/silia/download/23177e7b-ea56-4a50-94d6-79540d6b5a8a"
+    },
+    {
+      "document_number": "453850/21-03-2022",
+      "protocol_number": "43545/21-03-2022",
+      "type": "Άδεια Κατασκευής  Κεραίας",
+      "file_url": "https://silia.eett.gr/silia/download/77b43019-80fb-4298-9a09-d279f02c9e26"
+    }
+  ]
+}

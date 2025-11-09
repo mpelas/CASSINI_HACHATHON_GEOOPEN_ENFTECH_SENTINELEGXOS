@@ -1,0 +1,39 @@
+{
+  "antenna_id": "154723",
+  "address": "Δήμος Γορτυνίας, Π.Ε Ηρακλείου, Περιφέρεια Κρήτης",
+  "position_code": 3207410,
+  "municipality": "Γόρτυνας",
+  "code_name": "ΔΥΟ ΧΑΡΑΚΟΙ(ΓΕΡΓΕΡΟΙ)-Δ",
+  "region": "Κρήτης",
+  "latitude": 35.134444,
+  "company": "ΕΡΤ ΑΕ",
+  "longitude": 24.9475,
+  "permit_status": "Από τα στοιχεία που τηρούνται στην Ενημερωτική Πύλη προκύπτει ότι για τη  θέση \"Δήμος Γορτυνίας, Π.Ε Ηρακλείου, Περιφέρεια Κρήτης\" στον Δήμο Γόρτυνας Περιφέρειας  Κρήτης έχει κατατεθεί από την εταιρία ΕΡΤ ΑΕ δήλωση δομικών κατασκευών κεραιών  \nμε αριθ. πρωτ. ΣΗΛΥΑ 39244/23-05-2020 κατά τα οριζόμενα στην παρ. 7 του άρθρου 34 του Ν.4635/2019.",
+  "measurements_eaee": "-",
+  "documents": [
+    {
+      "document_number": "407595/23-05-2020",
+      "protocol_number": "δορυφορική λήψη και στοιχεία δομικών κατασκευών/",
+      "type": "Άλλο",
+      "file_url": "https://silia.eett.gr/silia/download/044f85f3-9b1e-45ca-bbeb-15ddf2b55d06"
+    },
+    {
+      "document_number": "407596/23-05-2020",
+      "protocol_number": "απογραφή 1987/",
+      "type": "Άλλο",
+      "file_url": "https://silia.eett.gr/silia/download/b46e19e0-65a6-4dd1-a0b1-7d6a35959c74"
+    },
+    {
+      "document_number": "407597/23-05-2020",
+      "protocol_number": "πίνακας 51 απογραφής ΕΡΤ 1987/",
+      "type": "Άλλο",
+      "file_url": "https://silia.eett.gr/silia/download/a447d6b6-cb44-4c8d-8c1b-a4c82b322f42"
+    },
+    {
+      "document_number": "407677/23-05-2020",
+      "protocol_number": "Αρχείο Αίτησης/",
+      "type": "Δήλωση Δομικών ΕΡΤ",
+      "file_url": "https://silia.eett.gr/silia/download/095cab9f-59f5-4242-9175-e97b7e8198b8"
+    }
+  ]
+}

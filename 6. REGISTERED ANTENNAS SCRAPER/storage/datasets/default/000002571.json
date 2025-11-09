@@ -1,0 +1,39 @@
+{
+  "antenna_id": "174877",
+  "address": "ΒΙ. ΠΕ. ΠΑΤΡΩΝ (FEEDUS (Patra Industrial Zone))",
+  "position_code": 1496816,
+  "municipality": "Πατρέων",
+  "code_name": "AVRAMAR_PATRA_INDUSTRIAL_Z",
+  "region": "Δυτικής Ελλάδας",
+  "latitude": 38.103333,
+  "company": "OTE",
+  "longitude": 21.652778,
+  "permit_status": "Από τα στοιχεία που τηρούνται στην Ενημερωτική Πύλη προκύπτει ότι, για τη θέση \"ΒΙ. ΠΕ. ΠΑΤΡΩΝ (FEEDUS (Patra Industrial Zone))\" στον Δήμο Πατρέων Περιφέρειας  Δυτικής Ελλάδας \n\t(κωδικός αριθμός θέσης 1496816, κωδική ονομασία \"AVRAMAR_PATRA_INDUSTRIAL_Z\") έχει κατατεθεί από την εταιρία OTE\tδήλωση εγκατάστασης κατασκευής κεραίας (αριθ. πρωτ. \n\t57199/04-09-2024) που εμπίπτει στις διατάξεις της νομοθεσίας για Εγκαταστάσεις Κατασκευών Κεραιών Χαμηλής Ηλεκτρομαγνητικής Περιβαλλοντικής Όχλησης (ΕΚΚΧΟ).",
+  "measurements_eaee": "-",
+  "documents": [
+    {
+      "document_number": "523434/14-08-2024",
+      "protocol_number": "XAΡTHΣ/14-08-2024",
+      "type": "Φωτογραφικό Υλικό - Σκαρίφημα",
+      "file_url": "https://silia.eett.gr/silia/download/rM4p7atVfCgTcVRaCZyzgzgPWAYhryKo9gr3"
+    },
+    {
+      "document_number": "523435/14-08-2024",
+      "protocol_number": "ΦΩΤΟΓΡΑΦΙΑ/14-08-2024",
+      "type": "Φωτογραφικό Υλικό - Σκαρίφημα",
+      "file_url": "https://silia.eett.gr/silia/download/AE5r67U5rtKsq7vX9KrRufen7cmdc2l5VyYv"
+    },
+    {
+      "document_number": "524231/30-08-2024",
+      "protocol_number": "ΜΕΛΕΤΗ/30-08-2024",
+      "type": "Αίτηση - Μελέτη Ραδιοεκπομπών ΕΕΑΕ",
+      "file_url": "https://silia.eett.gr/silia/download/hXZLz5ADU7Kn1q1rwSbkLD0GSXesimssmnNf"
+    },
+    {
+      "document_number": "524529/04-09-2024",
+      "protocol_number": "Αρχείο Αίτησης/04-09-2024",
+      "type": "Δήλωση ΕΚΚΧΟ",
+      "file_url": "https://silia.eett.gr/silia/download/OPVuthIrEu8ChMTDgURaVBIpkcLcGP3MFK07"
+    }
+  ]
+}

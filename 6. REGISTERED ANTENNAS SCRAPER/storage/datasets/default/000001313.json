@@ -1,0 +1,39 @@
+{
+  "antenna_id": "152513",
+  "address": "ΔΕΣΦΙΝΑ-ΚΟΥΤΡΟΣ, ΔΗΜΟΣ ΔΕΛΦΩΝ, ΠΕΡΙΦΕΡΕΙΑ ΣΤΕΡΕΑΣ ΕΛΛΑΔΑΣ",
+  "position_code": 3207187,
+  "municipality": "Δελφών",
+  "code_name": "ΔΕΣΦΙΝΑ-ΚΟΥΤΡΟΣ-Δ",
+  "region": "Στερεάς Ελλάδας",
+  "latitude": 38.413611,
+  "company": "ΕΡΤ ΑΕ",
+  "longitude": 22.531111,
+  "permit_status": "Από τα στοιχεία που τηρούνται στην Ενημερωτική Πύλη προκύπτει ότι για τη  θέση \"ΔΕΣΦΙΝΑ-ΚΟΥΤΡΟΣ, ΔΗΜΟΣ ΔΕΛΦΩΝ, ΠΕΡΙΦΕΡΕΙΑ ΣΤΕΡΕΑΣ ΕΛΛΑΔΑΣ\" στον Δήμο Δελφών Περιφέρειας  Στερεάς Ελλάδας έχει κατατεθεί από την εταιρία ΕΡΤ ΑΕ δήλωση δομικών κατασκευών κεραιών  \nμε αριθ. πρωτ. ΣΗΛΥΑ 38242/10-04-2020 κατά τα οριζόμενα στην παρ. 7 του άρθρου 34 του Ν.4635/2019.",
+  "measurements_eaee": "-",
+  "documents": [
+    {
+      "document_number": "400162/26-03-2020",
+      "protocol_number": "δορυφορική λήψη και στοιχεία δομικών κατασκευών/",
+      "type": "Άλλο",
+      "file_url": "https://silia.eett.gr/silia/download/732d67ef-1dbd-43f3-b90d-f64c59e2fdaa"
+    },
+    {
+      "document_number": "402064/10-04-2020",
+      "protocol_number": "απογραφή 1987/",
+      "type": "Άλλο",
+      "file_url": "https://silia.eett.gr/silia/download/96a42035-7adb-451f-bcf9-f9754b212945"
+    },
+    {
+      "document_number": "402065/10-04-2020",
+      "protocol_number": "πίνακας 49 απογραφής ΕΡΤ 1987/",
+      "type": "Άλλο",
+      "file_url": "https://silia.eett.gr/silia/download/8f283e58-3c11-4d2d-8a7e-7fdca69be598"
+    },
+    {
+      "document_number": "402066/10-04-2020",
+      "protocol_number": "Αρχείο Αίτησης/",
+      "type": "Δήλωση Δομικών ΕΡΤ",
+      "file_url": "https://silia.eett.gr/silia/download/4c2e7bd4-82cd-4b2a-89bf-034a85ee1893"
+    }
+  ]
+}

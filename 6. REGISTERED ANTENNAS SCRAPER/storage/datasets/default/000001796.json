@@ -1,0 +1,111 @@
+{
+  "antenna_id": "168588",
+  "address": "ΠΛΗΣΙΟΝ ΗΡΑΚΛΕΙΑΣ, ΔΗΜΟΤΙΚΗ ΕΝΟΤΗΤΑ ΗΡΑΚΛΕΙΑΣ",
+  "position_code": 1201797,
+  "municipality": "Ηρακλείας",
+  "code_name": "ΗΡΑΚΛΕΙΑ ΣΕΡΡΩΝ",
+  "region": "Κεντρικής Μακεδονίας",
+  "latitude": 41.179444,
+  "company": "NOVA Μ.Α.Ε.",
+  "longitude": 23.27,
+  "permit_status": "Από τα στοιχεία που τηρούνται στην Ενημερωτική Πύλη προκύπτει ότι, για τη θέση \"ΠΛΗΣΙΟΝ ΗΡΑΚΛΕΙΑΣ, ΔΗΜΟΤΙΚΗ ΕΝΟΤΗΤΑ ΗΡΑΚΛΕΙΑΣ\" στον Δήμο Ηρακλείας Περιφέρειας  Κεντρικής Μακεδονίας \n\t(κωδικός αριθμός θέσης 1201797, κωδική ονομασία \"ΗΡΑΚΛΕΙΑ ΣΕΡΡΩΝ\") χορηγήθηκε, με την Απόφαση της ΕΕΤΤ \n49049/14-09-2023, άδεια κατασκευής κεραίας στην εταιρία NOVA Μ.Α.Ε.. \nΑπό τo έγγραφο της άδειας μπορείτε να ενημερωθείτε για τις σχετικές εγκρίσεις των συναρμόδιων φορέων, καθώς και εάν πρόκειται για τροποποίηση παλαιότερης άδειας.\nΕπιπλέον, έχει υποβληθεί η με αριθ. πρωτ. ΣΗΛΥΑ 56386/25-06-2024 (Δήλωση παρ. 1Β, άρθρ. 28, ν. 4635/2019) δήλωση που αφορά σε τροποποίηση/επικαιροποίηση στοιχείων της κατασκευής κεραίας που αφορούν τον(ους) Τομέα(εις) Αδειοδότησης:Κεραιοσυστήματα, Περιβάλλον.\n\tΔιευκρινίζεται ότι υπό ορισμένες προϋποθέσεις για την τροποποίηση αδειοδοτημένης κατασκευής κεραίας ή/και την επικαιροποίηση στοιχείων της δεν απαιτείται η έκδοση νέας άδειας \n\tκατασκευής κεραίας ή η τροποποίηση της υφιστάμενης άδειας κατασκευής κεραίας, αλλά απαιτείται η υποβολή κατάλληλης δήλωσης από τον κάτοχο της κατασκευής κεραίας συνοδευόμενη \n\tαπό επικαιροποίηση επιμέρους εγκρίσεων. \n\t \tΣύμφωνα με τα στοιχεία που έχουν υποβληθεί στο ΣΗΛΥΑ, ο κάτοχος της κατασκευής κεραίας έχει δηλώσει ότι θα προβεί σε έκδοση έγκρισης δομικών κατασκευών \n\t\tκεραίας μέσω του e-Άδειες \n\t\tμετά την έκδοση της άδειας κατασκευής κεραίας / δημοσιοποίηση της δήλωσης τροποποίησης της κατασκευής κεραίας",
+  "measurements_eaee": "-",
+  "documents": [
+    {
+      "document_number": "485866/26-05-2023",
+      "protocol_number": "46596/Φ615/09-12-2022",
+      "type": "Χορήγηση Δικαιώματος Χρήσης Ραδιοσυχνοτήτων",
+      "file_url": null
+    },
+    {
+      "document_number": "485867/26-05-2023",
+      "protocol_number": "47927/Φ615/15-05-2023",
+      "type": "Χορήγηση Δικαιώματος Χρήσης Ραδιοσυχνοτήτων",
+      "file_url": null
+    },
+    {
+      "document_number": "485868/26-05-2023",
+      "protocol_number": "ΥΠΕΥΘΥΝΗ ΔΗΛΩΣΗ ΚΟΙΝΗΣ ΧΡΗΣΗΣ VODAFONE/05-05-2023",
+      "type": "Άλλο",
+      "file_url": "https://silia.eett.gr/silia/download/4d0a7fa6-c008-46cd-ac4e-a72d62399123"
+    },
+    {
+      "document_number": "485869/26-05-2023",
+      "protocol_number": "Δ3/Δ/38472/8599/08-11-2002",
+      "type": "Γνωμάτευση ΥΠΑ",
+      "file_url": "https://silia.eett.gr/silia/download/0d9fd27d-38ff-41d7-85d8-bc1af5e5a8e7"
+    },
+    {
+      "document_number": "485870/26-05-2023",
+      "protocol_number": "Δ3/Δ/9677/03-11-2010",
+      "type": "Γνωμάτευση ΥΠΑ",
+      "file_url": "https://silia.eett.gr/silia/download/b7b57041-4f3b-4ec7-9616-d3037e740435"
+    },
+    {
+      "document_number": "485871/26-05-2023",
+      "protocol_number": "ΜΕΛΕΤΗ ΡΑΔΙΟΕΚΠΟΜΠΩΝ/20-02-2023",
+      "type": "Αίτηση - Μελέτη Ραδιοεκπομπών ΕΕΑΕ",
+      "file_url": "https://silia.eett.gr/silia/download/5c156079-f055-46a7-8d2b-f363766220cd"
+    },
+    {
+      "document_number": "485872/26-05-2023",
+      "protocol_number": "ΤΟΠΟΓΡΑΦΙΚΟ ΚΑΙ ΑΡΧΙΤΕΚΤΟΝΙΚΑ/",
+      "type": "Αρχιτεκτονικά Σχέδια",
+      "file_url": "https://silia.eett.gr/silia/download/4d982291-640a-4a09-aea1-5abdbc6d3b4f"
+    },
+    {
+      "document_number": "485988/26-05-2023",
+      "protocol_number": "Αρχείο Αίτησης/",
+      "type": "Αίτηση Άδειας Κατασκευής Κεραίας ΕΕΤΤ",
+      "file_url": "https://silia.eett.gr/silia/download/c17422de-5f50-4c1e-ab2f-75b505c56308"
+    },
+    {
+      "document_number": "489910/10-07-2023",
+      "protocol_number": "ΤΜΙΑ/411/8600/2023/06-07-2023",
+      "type": "Γνωμάτευση ΕΕΑΕ",
+      "file_url": "https://silia.eett.gr/silia/download/d9df1b1a-5b6c-4235-b576-e2782d00a7d1"
+    },
+    {
+      "document_number": "494617/18-09-2023",
+      "protocol_number": "49049/14-09-2023",
+      "type": "Άδεια Κατασκευής  Κεραίας",
+      "file_url": "https://silia.eett.gr/silia/download/71d53255-0bc5-4ef4-a027-46ee8fe2dffb"
+    },
+    {
+      "document_number": "518764/25-06-2024",
+      "protocol_number": "813362/29-09-2023",
+      "type": "Έγκριση δομικών κατασκευών (e-Άδειες, αντίγραφο)",
+      "file_url": "https://silia.eett.gr/silia/download/KOaIqcSGASAffldNXDixmh4lr5TrYCbKvgGE"
+    },
+    {
+      "document_number": "518765/25-06-2024",
+      "protocol_number": "ΤΟΠΟΓΡΑΦΙΚΟ & ΑΡΧΙΤΕΚΤΟΝΙΚΑ/25-06-2024",
+      "type": "Αρχιτεκτονικά Σχέδια",
+      "file_url": "https://silia.eett.gr/silia/download/gV0B3X7GGRwTDkHe3gy1unuc0DfAh2G02Oie"
+    },
+    {
+      "document_number": "518766/25-06-2024",
+      "protocol_number": "ΜΕΣΩ ΣΗΛΥΑ/14-06-2024",
+      "type": "Αίτηση - Μελέτη Ραδιοεκπομπών ΕΕΑΕ",
+      "file_url": "https://silia.eett.gr/silia/download/0h1vLzz9aSEmXqYDBzdK2lbNMaNbYqeoUbf0"
+    },
+    {
+      "document_number": "518767/25-06-2024",
+      "protocol_number": "ΥΔ ΚΟΙΝΗΣ ΧΡΗΣΗΣ VODAFONE/17-06-2024",
+      "type": "Άλλο",
+      "file_url": "https://silia.eett.gr/silia/download/MO6smILUO0nLtNBNeH7G6dD8fWeKrTMFxFOz"
+    },
+    {
+      "document_number": "518768/25-06-2024",
+      "protocol_number": "Αρχείο Αίτησης/25-06-2024",
+      "type": "Δήλωση ΔΤΚΚ",
+      "file_url": "https://silia.eett.gr/silia/download/ygG6leSniOp0GbF3zlL9PtFchpai8ACkFyoZ"
+    },
+    {
+      "document_number": "522362/30-07-2024",
+      "protocol_number": "TMIA/411/10564/2024/30-07-2024",
+      "type": "Γνωμάτευση ΕΕΑΕ",
+      "file_url": "https://silia.eett.gr/silia/download/8gOG6rvSkxFlfp5FpKNBQTCOy5Im8356Anu0"
+    }
+  ]
+}

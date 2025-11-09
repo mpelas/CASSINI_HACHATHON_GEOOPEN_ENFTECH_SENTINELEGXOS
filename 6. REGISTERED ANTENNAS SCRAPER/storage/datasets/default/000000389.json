@@ -1,0 +1,75 @@
+{
+  "antenna_id": "175456",
+  "address": "ΠΕΡΙΟΧΗ ΑΓΡΟΚΤΗΜΑΤΟΣ  ΠΛΑΤΕΟΣ , ΥΠ΄ ΑΡ. 49 ΑΓΡΟΤΕΜΑΧΙΟ",
+  "position_code": 1442063,
+  "municipality": "Αλεξάνδρειας",
+  "code_name": "VIPEPLATI - X",
+  "region": "Κεντρικής Μακεδονίας",
+  "latitude": 40.661389,
+  "company": "OTE",
+  "longitude": 22.522778,
+  "permit_status": "Από τα στοιχεία που τηρούνται στην Ενημερωτική Πύλη προκύπτει ότι, για τη θέση \"ΠΕΡΙΟΧΗ ΑΓΡΟΚΤΗΜΑΤΟΣ  ΠΛΑΤΕΟΣ , ΥΠ΄ ΑΡ. 49 ΑΓΡΟΤΕΜΑΧΙΟ\" στον Δήμο Αλεξάνδρειας Περιφέρειας  Κεντρικής Μακεδονίας \n\t(κωδικός αριθμός θέσης 1442063, κωδική ονομασία \"VIPEPLATI - X\") χορηγήθηκε, με την Απόφαση της ΕΕΤΤ \n52145/18-02-2025, άδεια κατασκευής κεραίας στην εταιρία OTE. \nΑπό τo έγγραφο της άδειας μπορείτε να ενημερωθείτε για τις σχετικές εγκρίσεις των συναρμόδιων φορέων, καθώς και εάν πρόκειται για τροποποίηση παλαιότερης άδειας.\n\tΣύμφωνα με τα στοιχεία που έχουν υποβληθεί στο ΣΗΛΥΑ, ο κάτοχος της κατασκευής κεραίας έχει δηλώσει ότι θα προβεί σε έκδοση έγκρισης δομικών κατασκευών \n\t\tκεραίας μέσω του e-Άδειες \n\t\tμετά την έκδοση της άδειας κατασκευής κεραίας / δημοσιοποίηση της δήλωσης τροποποίησης της κατασκευής κεραίας",
+  "measurements_eaee": "-",
+  "documents": [
+    {
+      "document_number": "526553/23-09-2024",
+      "protocol_number": "ΤΟΠΟΓΡΑΦΙΚΟ/23-09-2024",
+      "type": "Τοπογραφικό",
+      "file_url": "https://silia.eett.gr/silia/download/iyOo3DvQQP1fq44MXGgz77PcIEfBuIysYVKa"
+    },
+    {
+      "document_number": "526554/23-09-2024",
+      "protocol_number": "ΑΡΧΙΤΕΚΤΟΝΙΚΑ/23-09-2024",
+      "type": "Αρχιτεκτονικά Σχέδια",
+      "file_url": "https://silia.eett.gr/silia/download/gzlA5oUyMQgDdDBevuSpklrDnyeXUqvubUCa"
+    },
+    {
+      "document_number": "526555/23-09-2024",
+      "protocol_number": "ΜΕΛΕΤΗ Ρ/Ε/29-03-2024",
+      "type": "Αίτηση - Μελέτη Ραδιοεκπομπών ΕΕΑΕ",
+      "file_url": "https://silia.eett.gr/silia/download/tMugYnbGdwqvwXo2vrYxC382GXRw5oD5Qm5A"
+    },
+    {
+      "document_number": "526556/23-09-2024",
+      "protocol_number": "Φ.550/ΑΔ.2116/28-02-2024",
+      "type": "Γνωμάτευση ΓΕΑ",
+      "file_url": "https://silia.eett.gr/silia/download/DfGEBTBcRyLhNcyVHBfGefqwphvnGbyZodVe"
+    },
+    {
+      "document_number": "526557/23-09-2024",
+      "protocol_number": "ΑΝΑΚΟΙΝΩΣΗ ΓΕΜΗ/23-09-2024",
+      "type": "Άλλο",
+      "file_url": "https://silia.eett.gr/silia/download/V19fKOZTUI0gemKoyToMFrAhY7PNKDdFz3kz"
+    },
+    {
+      "document_number": "526566/23-09-2024",
+      "protocol_number": "Αρχείο Αίτησης/23-09-2024",
+      "type": "Αίτηση Άδειας Κατασκευής Κεραίας ΕΕΤΤ",
+      "file_url": "https://silia.eett.gr/silia/download/Qb2WZw7wsKgog2WWOKWIuFDFW4BWsMIfSmGA"
+    },
+    {
+      "document_number": "533704/26-11-2024",
+      "protocol_number": "ΚΓ/Δ3/Δ/23151/26-11-2024",
+      "type": "Γνωμάτευση ΥΠΑ",
+      "file_url": "https://silia.eett.gr/silia/download/4MNHKPWgfgFFMAEYzWlwdF9OVAtS2asYVwkT"
+    },
+    {
+      "document_number": "536303/20-12-2024",
+      "protocol_number": "TMIA/411/18316/2024/20-12-2024",
+      "type": "Γνωμάτευση ΕΕΑΕ",
+      "file_url": "https://silia.eett.gr/silia/download/PouEELA8bQGNdUOD3yuK8luPeE3YL8NpKEql"
+    },
+    {
+      "document_number": "541303/19-02-2025",
+      "protocol_number": "52145/18-02-2025",
+      "type": "Άδεια Κατασκευής  Κεραίας",
+      "file_url": "https://silia.eett.gr/silia/download/wRuYuGu0Hdri9Y4l3z7dOvROfK2D2fE85ZDa"
+    },
+    {
+      "document_number": "526567/23-09-2024",
+      "protocol_number": "Αρχείο Αίτησης/23-09-2024",
+      "type": "Δήλωση ΠΠΔ",
+      "file_url": "https://silia.eett.gr/silia/download/pKgNWxItwQTWbgX7Hq2ROqg08tr1Ofp8Ys9E"
+    }
+  ]
+}

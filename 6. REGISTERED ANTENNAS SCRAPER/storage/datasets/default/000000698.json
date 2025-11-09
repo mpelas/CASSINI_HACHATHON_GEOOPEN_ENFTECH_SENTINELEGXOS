@@ -1,0 +1,45 @@
+{
+  "antenna_id": "171832",
+  "address": "ΟΙΚΙΣΜΟΣ ΑΣΗ ΓΩΝΙΑ, ΕΠΑΡΧΙΑΚΟΣ ΔΡΟΜΟΣ ΡΕΘΥΜΝΟΥ-ΑΡΓΥΡΟΥΠΟΛΗΣ-ΚΑΛΛΙΚΡΑΤΗΣ",
+  "position_code": 200103,
+  "municipality": "Αποκορώνου",
+  "code_name": "ΑΣΗ ΓΩΝΙΑ Τ/Κ",
+  "region": "Κρήτης",
+  "latitude": 35.273056,
+  "company": "OTE",
+  "longitude": 24.285833,
+  "permit_status": "Από τα στοιχεία που τηρούνται στην Ενημερωτική Πύλη προκύπτει ότι, για τη θέση \"ΟΙΚΙΣΜΟΣ ΑΣΗ ΓΩΝΙΑ, ΕΠΑΡΧΙΑΚΟΣ ΔΡΟΜΟΣ ΡΕΘΥΜΝΟΥ-ΑΡΓΥΡΟΥΠΟΛΗΣ-ΚΑΛΛΙΚΡΑΤΗΣ\" στον Δήμο Αποκορώνου Περιφέρειας  Κρήτης \n\t(κωδικός αριθμός θέσης 0200103, κωδική ονομασία \"ΑΣΗ ΓΩΝΙΑ Τ/Κ\") έχει κατατεθεί από την εταιρία OTE\tδήλωση εγκατάστασης κατασκευής κεραίας (αριθ. πρωτ. \n\t55470/04-04-2024) που εμπίπτει στις διατάξεις της νομοθεσίας για Εγκαταστάσεις Κατασκευών Κεραιών Χαμηλής Ηλεκτρομαγνητικής Περιβαλλοντικής Όχλησης (ΕΚΚΧΟ).",
+  "measurements_eaee": "-",
+  "documents": [
+    {
+      "document_number": "505346/22-01-2024",
+      "protocol_number": "Χαρτης/",
+      "type": "Φωτογραφικό Υλικό - Σκαρίφημα",
+      "file_url": "https://silia.eett.gr/silia/download/ff794daa-5969-4fc6-8382-88e5007a0217"
+    },
+    {
+      "document_number": "505347/22-01-2024",
+      "protocol_number": "Φωτογραφία/",
+      "type": "Φωτογραφικό Υλικό - Σκαρίφημα",
+      "file_url": "https://silia.eett.gr/silia/download/c2aa5228-4d3f-43d8-b5b8-2ee8b44f2bf8"
+    },
+    {
+      "document_number": "507152/09-02-2024",
+      "protocol_number": "ΜΕΣΩ ΣΗΛΥΑ/",
+      "type": "Αίτηση - Μελέτη Ραδιοεκπομπών ΕΕΑΕ",
+      "file_url": "https://silia.eett.gr/silia/download/a9154565-9963-4746-83a4-dcd97da8ab35"
+    },
+    {
+      "document_number": "512147/04-04-2024",
+      "protocol_number": "Αρχείο Αίτησης/04-04-2024",
+      "type": "Δήλωση ΕΚΚΧΟ",
+      "file_url": "https://silia.eett.gr/silia/download/owaMnn958P4BIXs4gz3gDNNqrDB2smiWavid"
+    },
+    {
+      "document_number": "528027/07-10-2024",
+      "protocol_number": "ΥΠ.ΔΗΛΩΣΗ/07-10-2024",
+      "type": "Άλλο",
+      "file_url": "https://silia.eett.gr/silia/download/AMRl7LylTDSzc9VWkiMzxG538xliOpsN3VTQ"
+    }
+  ]
+}

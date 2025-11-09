@@ -1,0 +1,81 @@
+{
+  "antenna_id": "145697",
+  "address": "ΙΕΡΟΣ ΝΑΟΣ ΑΓΙΟΥ ΑΘΑΝΑΣΙΟΥ",
+  "position_code": 1403712,
+  "municipality": "Σερβίων - Βελβεντού",
+  "code_name": "ΛΙΒΑΔΕΡΟ Χ",
+  "region": "Δυτικής Μακεδονίας",
+  "latitude": 40.033333,
+  "company": "OTE",
+  "longitude": 21.935833,
+  "permit_status": "Από τα στοιχεία που τηρούνται στην Ενημερωτική Πύλη προκύπτει ότι, για τη θέση \"ΙΕΡΟΣ ΝΑΟΣ ΑΓΙΟΥ ΑΘΑΝΑΣΙΟΥ\" στον Δήμο Σερβίων - Βελβεντού Περιφέρειας  Δυτικής Μακεδονίας \n\t(κωδικός αριθμός θέσης 1403712, κωδική ονομασία \"ΛΙΒΑΔΕΡΟ Χ\") χορηγήθηκε, με την Απόφαση της ΕΕΤΤ \n38258/Φ610/26-11-2020, άδεια κατασκευής κεραίας στην εταιρία OTE. \nΑπό τo έγγραφο της άδειας μπορείτε να ενημερωθείτε για τις σχετικές εγκρίσεις των συναρμόδιων φορέων, καθώς και εάν πρόκειται για τροποποίηση παλαιότερης άδειας.\nΗ άδεια χορηγήθηκε με τη διαδικασία αδειοδότησης που ορίζει ο ν. 4635/2019, κατόπιν της με αριθ. πρωτ. 36177/20-12-2019 \n\tαίτησης, και βάσει σχετικής δήλωσης του κατόχου της περί υπαγωγή της κατασκευής κεραίας στο άρθρο 34 του ν. 4635/2019.",
+  "measurements_eaee": "-",
+  "documents": [
+    {
+      "document_number": "385904/10-12-2019",
+      "protocol_number": "ΜΕΣΩ ΣΗΛΥΑ/",
+      "type": "Τοπογραφικό",
+      "file_url": "https://silia.eett.gr/silia/download/908f1071-c355-489f-a5ab-0279d8147853"
+    },
+    {
+      "document_number": "385905/10-12-2019",
+      "protocol_number": "ΜΕΣΩ ΣΗΛΥΑ/",
+      "type": "Αρχιτεκτονικά Σχέδια",
+      "file_url": "https://silia.eett.gr/silia/download/3fedeb79-c1a8-40b4-b4bb-62e519217238"
+    },
+    {
+      "document_number": "385906/10-12-2019",
+      "protocol_number": "Δ3/Δ/31330/7200/14-10-2008",
+      "type": "Γνωμάτευση ΥΠΑ",
+      "file_url": "https://silia.eett.gr/silia/download/f0b9eece-64a1-4946-8570-029423e8875c"
+    },
+    {
+      "document_number": "385907/10-12-2019",
+      "protocol_number": "ΜΕΣΩ ΣΗΛΥΑ/10-12-2019",
+      "type": "Αίτηση ΥΠΑ",
+      "file_url": "https://silia.eett.gr/silia/download/752f58fc-875f-46bd-b3d8-a9b8938847ad"
+    },
+    {
+      "document_number": "385909/10-12-2019",
+      "protocol_number": "ΥΠ.ΔΗΛΩΣΗ ΣΥΝΕΓΚΑΤΑΣΤΑΣΗΣ ΟΤΕ/10-12-2019",
+      "type": "Άλλο",
+      "file_url": "https://silia.eett.gr/silia/download/89e9f8e1-cd46-418f-a2bf-0803776b2080"
+    },
+    {
+      "document_number": "386122/11-12-2019",
+      "protocol_number": "ΜΕΣΩ ΣΗΛΥΑ/31-05-2019",
+      "type": "Αίτηση - Μελέτη Ραδιοεκπομπών ΕΕΑΕ",
+      "file_url": "https://silia.eett.gr/silia/download/0e7a0b05-988e-43e1-8710-089731fa4c7c"
+    },
+    {
+      "document_number": "387534/20-12-2019",
+      "protocol_number": "Αρχείο Αίτησης/",
+      "type": "Αίτηση Άδειας Κατασκευής Κεραίας ΕΕΤΤ",
+      "file_url": "https://silia.eett.gr/silia/download/f483d2a6-850d-4934-add3-2c68cf9c91cb"
+    },
+    {
+      "document_number": "402161/13-04-2020",
+      "protocol_number": "Μ.ι./411/5011/2020/10-04-2020",
+      "type": "Γνωμάτευση ΕΕΑΕ",
+      "file_url": "https://silia.eett.gr/silia/download/d8f0a85d-ad33-4f95-b9f4-f918e4497ae3"
+    },
+    {
+      "document_number": "423875/01-12-2020",
+      "protocol_number": "38258/Φ610/26-11-2020",
+      "type": "Άδεια Κατασκευής  Κεραίας",
+      "file_url": "https://silia.eett.gr/silia/download/f062b87a-7c91-4c81-a0d8-b7cd3d1d9183"
+    },
+    {
+      "document_number": "418400/08-10-2020",
+      "protocol_number": "ΣΥΝΟΔΕΥΤΙΚΑ ΕΓΓΡΑΦΑ/",
+      "type": "Δήλωση υπαγωγής σε ΠΠΔ και Συνοδευτικά Έγγραφα",
+      "file_url": "https://silia.eett.gr/silia/download/ff6d3992-cd20-46cf-984b-1a397876533d"
+    },
+    {
+      "document_number": "418401/08-10-2020",
+      "protocol_number": "Αρχείο Αίτησης/",
+      "type": "Δήλωση ΠΠΔ",
+      "file_url": "https://silia.eett.gr/silia/download/605232bc-be79-4040-abec-1c0b8feb9d01"
+    }
+  ]
+}

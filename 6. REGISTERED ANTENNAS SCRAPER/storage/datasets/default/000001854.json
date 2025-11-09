@@ -1,0 +1,33 @@
+{
+  "antenna_id": "156866",
+  "address": "Λεωφ. Πλαστήρα 100, ΗΡΑΚΛΕΙΟ ΚΡΗΤΗΣ.",
+  "position_code": 1156200,
+  "municipality": "Ηρακλείου Κρήτης",
+  "code_name": "THALIS PLASTIRA",
+  "region": "Κρήτης",
+  "latitude": 35.336111,
+  "company": "VODAFONE",
+  "longitude": 25.126667,
+  "permit_status": "Από τα στοιχεία που τηρούνται στην Ενημερωτική Πύλη προκύπτει ότι, για τη θέση \"Λεωφ. Πλαστήρα 100, ΗΡΑΚΛΕΙΟ ΚΡΗΤΗΣ.\" στον Δήμο Ηρακλείου Κρήτης Περιφέρειας  Κρήτης \n\t(κωδικός αριθμός θέσης 1156200, κωδική ονομασία \"THALIS PLASTIRA\") έχει κατατεθεί από την εταιρία VODAFONE\tδήλωση εγκατάστασης κατασκευής κεραίας (αριθ. πρωτ. \n\t41015/27-10-2020) που εμπίπτει στις διατάξεις της νομοθεσίας για Εγκαταστάσεις Κατασκευών Κεραιών Χαμηλής Ηλεκτρομαγνητικής Περιβαλλοντικής Όχλησης (ΕΚΚΧΟ).",
+  "measurements_eaee": "-",
+  "documents": [
+    {
+      "document_number": "420184/27-10-2020",
+      "protocol_number": "ΦΩΤΟΓΡΑΦΙΑ ΘΕΣΗΣ ΚΕΡΑΙΑΣ 1/",
+      "type": "Φωτογραφικό Υλικό - Σκαρίφημα",
+      "file_url": "https://silia.eett.gr/silia/download/42b16d5a-5921-4684-8b5d-12293ec3af8b"
+    },
+    {
+      "document_number": "420187/27-10-2020",
+      "protocol_number": "ΦΩΤΟΓΡΑΦΙΑ ΘΕΣΗΣ ΚΕΡΑΙΑΣ ΕΚΚΧΟ ΑΠΟ GOOGLE EARTH/",
+      "type": "Φωτογραφικό Υλικό - Σκαρίφημα",
+      "file_url": "https://silia.eett.gr/silia/download/b7aadb5d-1f8f-43aa-b882-e9d4907bdc1e"
+    },
+    {
+      "document_number": "420188/27-10-2020",
+      "protocol_number": "Αρχείο Αίτησης/",
+      "type": "Δήλωση ΕΚΚΧΟ",
+      "file_url": "https://silia.eett.gr/silia/download/08fdc974-7405-4f9d-ae09-ae5a7a3558fc"
+    }
+  ]
+}

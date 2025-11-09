@@ -1,0 +1,93 @@
+{
+  "antenna_id": "134281",
+  "address": "ΠΛΗΣΙΟΝ ΟΙΚΙΣΜΟΥ ΠΛΑΤΑΡΙΑΣ",
+  "position_code": 1404023,
+  "municipality": "Ηγουμενίτσας",
+  "code_name": "ΠΛΑΤΑΡΙΑ/Χ",
+  "region": "Ηπείρου",
+  "latitude": 39.442778,
+  "company": "OTE",
+  "longitude": 20.271111,
+  "permit_status": "Από τα στοιχεία που τηρούνται στην Ενημερωτική Πύλη προκύπτει ότι, για τη θέση \"ΠΛΗΣΙΟΝ ΟΙΚΙΣΜΟΥ ΠΛΑΤΑΡΙΑΣ\" στον Δήμο Ηγουμενίτσας Περιφέρειας  Ηπείρου \n\t(κωδικός αριθμός θέσης 1404023, κωδική ονομασία \"ΠΛΑΤΑΡΙΑ/Χ\") χορηγήθηκε, με την Απόφαση της ΕΕΤΤ \n37343/Φ610/23-10-2020, άδεια κατασκευής κεραίας στην εταιρία OTE. \nΑπό τo έγγραφο της άδειας μπορείτε να ενημερωθείτε για τις σχετικές εγκρίσεις των συναρμόδιων φορέων, καθώς και εάν πρόκειται για τροποποίηση παλαιότερης άδειας.",
+  "measurements_eaee": "-",
+  "documents": [
+    {
+      "document_number": "337747/06-08-2018",
+      "protocol_number": "ΜΕΣΩ ΣΗΛΥΑ/29-03-2017",
+      "type": "Αίτηση - Μελέτη Ραδιοεκπομπών ΕΕΑΕ",
+      "file_url": "https://silia.eett.gr/silia/download/d5096fa4-32a1-4b6c-a492-38484bf3d49a"
+    },
+    {
+      "document_number": "337748/06-08-2018",
+      "protocol_number": "Δ3/Δ/24218/5522/05-07-2002",
+      "type": "Γνωμάτευση ΥΠΑ",
+      "file_url": "https://silia.eett.gr/silia/download/c3311059-5a11-427c-8d89-d15dd9cd6bbf"
+    },
+    {
+      "document_number": "337749/06-08-2018",
+      "protocol_number": "ΜΕΣΩ ΣΗΛΥΑ/06-08-2018",
+      "type": "Αίτηση ΥΠΑ",
+      "file_url": "https://silia.eett.gr/silia/download/14025391-31dd-48d5-aad0-92fffcc8751f"
+    },
+    {
+      "document_number": "337751/06-08-2018",
+      "protocol_number": "Αρχείο Αίτησης/",
+      "type": "Αίτηση Άδειας Κατασκευής Κεραίας ΕΕΤΤ",
+      "file_url": "https://silia.eett.gr/silia/download/109e01f9-b3fc-4d9c-be44-6deb1e5a4491"
+    },
+    {
+      "document_number": "338447/28-08-2018",
+      "protocol_number": "55811/28-08-2018",
+      "type": "Τοπογραφικό",
+      "file_url": "https://silia.eett.gr/silia/download/e5bc2d06-447f-4b95-bb8e-9d522f1a64e6"
+    },
+    {
+      "document_number": "338448/28-08-2018",
+      "protocol_number": "55811/28-08-2018",
+      "type": "Αρχιτεκτονικά Σχέδια",
+      "file_url": "https://silia.eett.gr/silia/download/435e9f85-0af5-44a2-9365-39865f62f672"
+    },
+    {
+      "document_number": "347067/31-10-2018",
+      "protocol_number": "Μ.ι./411/15698/2018/23-10-2018",
+      "type": "Γνωμάτευση ΕΕΑΕ",
+      "file_url": "https://silia.eett.gr/silia/download/7670e660-2600-4b2e-bf7f-4b34784668ca"
+    },
+    {
+      "document_number": "361285/22-03-2019",
+      "protocol_number": "Δ3/Δ/2104/22-3-2019/22-03-2019",
+      "type": "Γνωμάτευση ΥΠΑ",
+      "file_url": "https://silia.eett.gr/silia/download/6b979a6b-0cf9-43ec-9563-2dfc20f07da9"
+    },
+    {
+      "document_number": "367393/06-06-2019",
+      "protocol_number": "78454/04-06-2019",
+      "type": "Επιστολή Κοινοποίησης Τυποποιημένης Αίτησης σε Αρμόδια Αρχή",
+      "file_url": "https://silia.eett.gr/silia/download/1919ca45-c68b-426b-b563-e556e74af382"
+    },
+    {
+      "document_number": "412288/02-07-2020",
+      "protocol_number": "42618/02-07-2020",
+      "type": "Επιστολή Ενημέρωσης προς Αρμόδιο Φορέα",
+      "file_url": "https://silia.eett.gr/silia/download/4d06e7e7-44aa-44ba-8275-1b616ca0bda2"
+    },
+    {
+      "document_number": "420219/27-10-2020",
+      "protocol_number": "37343/Φ610/23-10-2020",
+      "type": "Άδεια Κατασκευής  Κεραίας",
+      "file_url": "https://silia.eett.gr/silia/download/4e418740-a267-4a94-a487-3308365c3d5a"
+    },
+    {
+      "document_number": "337746/06-08-2018",
+      "protocol_number": "ΣΥΝΟΔΕΥΤΙΚΑ ΕΓΓΡΑΦΑ/",
+      "type": "Δήλωση υπαγωγής σε ΠΠΔ και Συνοδευτικά Έγγραφα",
+      "file_url": "https://silia.eett.gr/silia/download/c32ac44d-5188-4fd5-b902-f3659cb1a90d"
+    },
+    {
+      "document_number": "337752/06-08-2018",
+      "protocol_number": "Αρχείο Αίτησης/",
+      "type": "Δήλωση ΠΠΔ",
+      "file_url": "https://silia.eett.gr/silia/download/45798d24-b76e-4c33-9d7d-cf02269d7022"
+    }
+  ]
+}

@@ -1,0 +1,51 @@
+{
+  "antenna_id": "168120",
+  "address": "Προσοτσάνη - Βιοτεχνικό Πάρκο ΔΡΑΜΑΣ.",
+  "position_code": 1157286,
+  "municipality": "Προσοτσάνης",
+  "code_name": "ELGEKA DRAMA (ARIVIA)",
+  "region": "Ανατ. Μακεδονίας και Θράκης",
+  "latitude": 41.175,
+  "company": "VODAFONE",
+  "longitude": 24.004444,
+  "permit_status": "Από τα στοιχεία που τηρούνται στην Ενημερωτική Πύλη προκύπτει ότι, για τη θέση \"Προσοτσάνη - Βιοτεχνικό Πάρκο ΔΡΑΜΑΣ.\" στον Δήμο Προσοτσάνης Περιφέρειας  Ανατ. Μακεδονίας και Θράκης \n\t(κωδικός αριθμός θέσης 1157286, κωδική ονομασία \"ELGEKA DRAMA (ARIVIA)\") έχει κατατεθεί από την εταιρία VODAFONE\tδήλωση εγκατάστασης κατασκευής κεραίας (αριθ. πρωτ. \n\t51446/26-04-2023) που εμπίπτει στις διατάξεις της νομοθεσίας για Εγκαταστάσεις Κατασκευών Κεραιών Χαμηλής Ηλεκτρομαγνητικής Περιβαλλοντικής Όχλησης (ΕΚΚΧΟ).",
+  "measurements_eaee": "-",
+  "documents": [
+    {
+      "document_number": "483315/26-04-2023",
+      "protocol_number": "Φωτορεαλιστική απεικόνιση κεραίας ΕΚΚΧΟ/",
+      "type": "Φωτογραφικό Υλικό - Σκαρίφημα",
+      "file_url": "https://silia.eett.gr/silia/download/315e8773-cdcc-4246-a043-635ebd0a4be6"
+    },
+    {
+      "document_number": "483316/26-04-2023",
+      "protocol_number": "Ψηφιακός Χάρτης με προβολή της θέσης ΕΚΚΧΟ/",
+      "type": "Φωτογραφικό Υλικό - Σκαρίφημα",
+      "file_url": "https://silia.eett.gr/silia/download/7a3b3d6b-59a6-495a-9491-ffa7d0d50ac7"
+    },
+    {
+      "document_number": "483317/26-04-2023",
+      "protocol_number": "Μελέτη ΕΚΚΧΟ/26-04-2023",
+      "type": "Άλλο",
+      "file_url": "https://silia.eett.gr/silia/download/4b10cf7d-a044-4fcd-bcd3-aef60473e9e3"
+    },
+    {
+      "document_number": "483318/26-04-2023",
+      "protocol_number": "Σκαρίφημα με περιοχή απαγόρευσης/",
+      "type": "Φωτογραφικό Υλικό - Σκαρίφημα",
+      "file_url": "https://silia.eett.gr/silia/download/fc4fbedb-e0eb-4cc4-beae-6f885e084e00"
+    },
+    {
+      "document_number": "483320/26-04-2023",
+      "protocol_number": "Αρχείο Αίτησης/",
+      "type": "Δήλωση ΕΚΚΧΟ",
+      "file_url": "https://silia.eett.gr/silia/download/41672ca7-e7a3-4077-ae42-9921d72aa0f3"
+    },
+    {
+      "document_number": "487326/07-06-2023",
+      "protocol_number": "ΥΔ εγκατάστασης/07-06-2023",
+      "type": "Άλλο",
+      "file_url": "https://silia.eett.gr/silia/download/2e346ca0-c0ae-402c-a6f2-e66bcacac1e6"
+    }
+  ]
+}

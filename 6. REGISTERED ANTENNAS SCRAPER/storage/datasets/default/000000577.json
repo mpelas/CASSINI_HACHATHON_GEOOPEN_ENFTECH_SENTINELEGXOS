@@ -1,0 +1,111 @@
+{
+  "antenna_id": "130595",
+  "address": "ΟΔΟΣ ΜΟΝΑΣΤΗΡΙΟΥ 214, ΔΗΜΟΤΙΚΗ ΕΝΟΤΗΤΑ ΜΕΝΕΜΕΝΗΣ,",
+  "position_code": 1201598,
+  "municipality": "Αμπελοκήπων - Μενεμένης",
+  "code_name": "ΜΕΝΕΜΕΝΗ 2",
+  "region": "Κεντρικής Μακεδονίας",
+  "latitude": 40.653611,
+  "company": "NOVA Μ.Α.Ε.",
+  "longitude": 22.909444,
+  "permit_status": "Από τα στοιχεία που τηρούνται στην Ενημερωτική Πύλη προκύπτει ότι, για τη θέση \"ΟΔΟΣ ΜΟΝΑΣΤΗΡΙΟΥ 214, ΔΗΜΟΤΙΚΗ ΕΝΟΤΗΤΑ ΜΕΝΕΜΕΝΗΣ, \" στον Δήμο Αμπελοκήπων - Μενεμένης Περιφέρειας  Κεντρικής Μακεδονίας \n\t(κωδικός αριθμός θέσης 1201598, κωδική ονομασία \"ΜΕΝΕΜΕΝΗ 2\") χορηγήθηκε, με την Απόφαση της ΕΕΤΤ \n29501/Φ610/20-09-2018, άδεια κατασκευής κεραίας στην εταιρία NOVA Μ.Α.Ε.. \nΑπό τo έγγραφο της άδειας μπορείτε να ενημερωθείτε για τις σχετικές εγκρίσεις των συναρμόδιων φορέων, καθώς και εάν πρόκειται για τροποποίηση παλαιότερης άδειας.\nΗ άδεια χορηγήθηκε, κατόπιν της με Αριθ. Πρωτ. 25297/23-11-2017 αίτησης, \n\tμε τη διαδικασία αδειοδότησης της παρ. 17 του άρθρου 30 του Ν.4070/2012 που πλέον έχει αντικατασταθεί από τη διαδικασία που ορίζει ο ν. 4635/2019.\n\tΣύμφωνα με τα στοιχεία που έχουν υποβληθεί στο ΣΗΛΥΑ για την κατασκευή κεραίας από τον κάτοχό της, έχει εκδοθεί έγκριση δομικών κατασκευών κεραίας",
+  "measurements_eaee": "-",
+  "documents": [
+    {
+      "document_number": "313958/23-11-2017",
+      "protocol_number": "24436/Φ615/02-06-2017",
+      "type": "Χορήγηση Δικαιώματος Χρήσης Ραδιοσυχνοτήτων",
+      "file_url": null
+    },
+    {
+      "document_number": "313959/23-11-2017",
+      "protocol_number": "Δ3/Δ/43648/9503/11-11-2002",
+      "type": "Γνωμάτευση ΥΠΑ",
+      "file_url": "https://silia.eett.gr/silia/download/8088ca82-3948-4ce1-828e-788f44758ab5"
+    },
+    {
+      "document_number": "313960/23-11-2017",
+      "protocol_number": "Δ3/Δ/471/23-01-2003",
+      "type": "Γνωμάτευση ΥΠΑ",
+      "file_url": "https://silia.eett.gr/silia/download/377a0c27-eeee-4ee0-ad6d-d41d75e7a5d4"
+    },
+    {
+      "document_number": "313961/23-11-2017",
+      "protocol_number": "Δ3/Δ/11183/19-12-2007",
+      "type": "Γνωμάτευση ΥΠΑ",
+      "file_url": "https://silia.eett.gr/silia/download/f31f2ce8-f19e-46c3-b0b5-062d5d956eaf"
+    },
+    {
+      "document_number": "313962/23-11-2017",
+      "protocol_number": "ΜΕΛΕΤΗ ΡΑΔΙΟΕΚΠΟΜΠΩΝ/23-08-2017",
+      "type": "Αίτηση - Μελέτη Ραδιοεκπομπών ΕΕΑΕ",
+      "file_url": "https://silia.eett.gr/silia/download/90656ed3-d24a-411d-b4da-961cb510a4f5"
+    },
+    {
+      "document_number": "313964/23-11-2017",
+      "protocol_number": "ΤΟΠΟΓΡΑΦΙΚΟ/",
+      "type": "Τοπογραφικό",
+      "file_url": "https://silia.eett.gr/silia/download/6cfc650d-3bea-4b43-80b1-b315b9a7089c"
+    },
+    {
+      "document_number": "313965/23-11-2017",
+      "protocol_number": "ΑΡΧΙΤΕΚΤΟΝΙΚΑ ΣΧΕΔΙΑ/",
+      "type": "Αρχιτεκτονικά Σχέδια",
+      "file_url": "https://silia.eett.gr/silia/download/3a957a1b-07e2-48f7-a4f2-8127be186a5b"
+    },
+    {
+      "document_number": "313966/23-11-2017",
+      "protocol_number": "10822/17/17-11-2017",
+      "type": "Έγκριση δομικών κατασκευών (έντυπη)",
+      "file_url": "https://silia.eett.gr/silia/download/e245e567-43c9-4044-abf4-36c83401d2b9"
+    },
+    {
+      "document_number": "313970/23-11-2017",
+      "protocol_number": "Αρχείο Αίτησης/",
+      "type": "Αίτηση Άδειας Κατασκευής Κεραίας ΕΕΤΤ",
+      "file_url": "https://silia.eett.gr/silia/download/3e622856-4020-4eaa-b18f-cb06d92cda6f"
+    },
+    {
+      "document_number": "323129/12-03-2018",
+      "protocol_number": "ΜΕΛΕΤΗ ΡΑΔΙΟΕΚΠΟΜΠΩΝ/12-03-2018",
+      "type": "Αίτηση - Μελέτη Ραδιοεκπομπών ΕΕΑΕ",
+      "file_url": "https://silia.eett.gr/silia/download/37bfe91e-d45a-4193-a980-2cf90d95633d"
+    },
+    {
+      "document_number": "323341/13-03-2018",
+      "protocol_number": "Μ.ι./411/3433/2018/12-03-2018",
+      "type": "Γνωμάτευση ΕΕΑΕ",
+      "file_url": "https://silia.eett.gr/silia/download/df16642d-3276-4b65-8c39-a2e9185eb6b2"
+    },
+    {
+      "document_number": "339778/10-09-2018",
+      "protocol_number": "Δ3/Δ/6228/10-09-2018",
+      "type": "Γνωμάτευση ΥΠΑ",
+      "file_url": "https://silia.eett.gr/silia/download/f76880a5-2bf2-43d0-bba9-41c7282fcad3"
+    },
+    {
+      "document_number": "341423/21-09-2018",
+      "protocol_number": "29501/Φ610/20-09-2018",
+      "type": "Άδεια Κατασκευής  Κεραίας",
+      "file_url": "https://silia.eett.gr/silia/download/e1e33eba-cb02-44ef-8802-8c9e18563d34"
+    },
+    {
+      "document_number": "313966/23-11-2017",
+      "protocol_number": "10822/17/17-11-2017",
+      "type": "Έγκριση δομικών κατασκευών (έντυπη)",
+      "file_url": "https://silia.eett.gr/silia/download/e245e567-43c9-4044-abf4-36c83401d2b9"
+    },
+    {
+      "document_number": "313969/23-11-2017",
+      "protocol_number": "ΜΕΛΕΤΗ ΡΑΔΙΟΕΚΠΟΜΠΩΝ/23-08-2017",
+      "type": "Αίτηση - Μελέτη Ραδιοεκπομπών ΕΕΑΕ",
+      "file_url": "https://silia.eett.gr/silia/download/90656ed3-d24a-411d-b4da-961cb510a4f5"
+    },
+    {
+      "document_number": "313971/23-11-2017",
+      "protocol_number": "Αρχείο Αίτησης/",
+      "type": "Δήλωση ΠΠΔ",
+      "file_url": "https://silia.eett.gr/silia/download/068eaced-78e2-489d-b19a-cf963e2f18c8"
+    }
+  ]
+}

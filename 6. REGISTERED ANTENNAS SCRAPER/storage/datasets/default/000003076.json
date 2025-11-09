@@ -1,0 +1,99 @@
+{
+  "antenna_id": "83422",
+  "address": "ΠΕΡΙΟΧΗ ΑΥΛΑΚΙΑ ΒΟΥΡΛΙΩΤΩΝ",
+  "position_code": 1406216,
+  "municipality": "Σάμου",
+  "code_name": "ΑΥΛΑΚΙΑ / Χ",
+  "region": "Βορείου Αιγαίου",
+  "latitude": 37.800556,
+  "company": "OTE",
+  "longitude": 26.852778,
+  "permit_status": "Από τα στοιχεία που τηρούνται στην Ενημερωτική Πύλη προκύπτει ότι, για τη θέση \"ΠΕΡΙΟΧΗ ΑΥΛΑΚΙΑ ΒΟΥΡΛΙΩΤΩΝ\" στον Δήμο Σάμου Περιφέρειας  Βορείου Αιγαίου \n\t(κωδικός αριθμός θέσης 1406216, κωδική ονομασία \"ΑΥΛΑΚΙΑ / Χ\") χορηγήθηκε, με την Απόφαση της ΕΕΤΤ \n31741/Φ610/27-02-2019, άδεια κατασκευής κεραίας στην εταιρία OTE. \nΑπό τo έγγραφο της άδειας μπορείτε να ενημερωθείτε για τις σχετικές εγκρίσεις των συναρμόδιων φορέων, καθώς και εάν πρόκειται για τροποποίηση παλαιότερης άδειας.\n\tΗ άδεια χορηγήθηκε κατόπιν της με Αριθ. Πρωτ. 9716/11-03-2011 αίτησης. \n\tΓια την έκδοση της άδειας εφαρμόστηκε το προγενέστερο του Ν.4053/2012 νομοθετικό πλαίσιο, καθώς κατά δήλωση της εταιρίας, η κατασκευή πληρούσε \nτις προϋποθέσεις του άρθρου 31 του Ν.4053/2012.",
+  "measurements_eaee": "-",
+  "documents": [
+    {
+      "document_number": "6347/16-11-2012",
+      "protocol_number": "11468/707/26-03-2008",
+      "type": "Αίτηση / Μελέτη για Έγκριση Περιβαλλοντικών Επιπτώσεων (νόμιμη λειτουργία)",
+      "file_url": null
+    },
+    {
+      "document_number": "11944/16-11-2012",
+      "protocol_number": "Μ.ι./411/3654/17-11-2008",
+      "type": "Γνωμάτευση ΕΕΑΕ",
+      "file_url": "https://silia.eett.gr/silia/download/4b88fc80-03f5-4bd2-84ad-8f557fa24abd"
+    },
+    {
+      "document_number": "22847/16-11-2012",
+      "protocol_number": "9716/11-03-2011",
+      "type": "Αίτηση Άδειας Κατασκευής Κεραίας ΕΕΤΤ (νομίμως λειτουργούσα)",
+      "file_url": "https://silia.eett.gr/silia/download/7464bbad-8d94-4668-897f-852d839d731d"
+    },
+    {
+      "document_number": "113614/25-11-2013",
+      "protocol_number": "Δ3/Δ/40511/7161/21-10-1999",
+      "type": "Γνωμάτευση ΥΠΑ",
+      "file_url": "https://silia.eett.gr/silia/download/a6e51550-6fa5-4ed8-8197-ab34dfa7bca1"
+    },
+    {
+      "document_number": "113615/25-11-2013",
+      "protocol_number": "Δ3/Δ/34332/7761/21-10-2002",
+      "type": "Γνωμάτευση ΥΠΑ",
+      "file_url": "https://silia.eett.gr/silia/download/4aa36edc-9a02-4ce4-8be2-6a97edf2693a"
+    },
+    {
+      "document_number": "113616/25-11-2013",
+      "protocol_number": "11 (ΑΡΧΙΚΑ ΑΦΟΡΟΥΣΕ ΤΟΝ Σ/Β 14_3257)/15-05-2009",
+      "type": "Αποδεικτικό Καταβολής Τελών ΕΕΤΤ",
+      "file_url": null
+    },
+    {
+      "document_number": "113618/25-11-2013",
+      "protocol_number": "2191/18-03-2008",
+      "type": "Αίτηση - Μελέτη Ραδιοεκπομπών ΕΕΑΕ",
+      "file_url": "https://silia.eett.gr/silia/download/00bedfdf-bd4b-49dd-9eec-1fb64fef823c"
+    },
+    {
+      "document_number": "113619/25-11-2013",
+      "protocol_number": "ΠΠΔ ΜΕΣΩ ΣΗΛΥΑ/25-11-2013",
+      "type": "Δήλωση υπαγωγής σε ΠΠΔ και Συνοδευτικά Έγγραφα",
+      "file_url": "https://silia.eett.gr/silia/download/13160155-bb2f-4def-ba93-8d16d8c1cb60"
+    },
+    {
+      "document_number": "113620/25-11-2013",
+      "protocol_number": "ΥΠΕΥΘΥΝΗ ΔΗΛΩΣΗ WIND/20-11-2013",
+      "type": "Άλλο",
+      "file_url": "https://silia.eett.gr/silia/download/fecb70ea-be2f-48b6-abb1-dbb6510b2508"
+    },
+    {
+      "document_number": "113621/25-11-2013",
+      "protocol_number": "ΥΠΕΥΘΥΝΗ ΔΗΛΩΣΗ VODAFONE/19-11-2013",
+      "type": "Άλλο",
+      "file_url": "https://silia.eett.gr/silia/download/36af109e-1412-4e06-9f70-592303db4ce8"
+    },
+    {
+      "document_number": "116572/06-12-2013",
+      "protocol_number": "Αρχείο Αίτησης/",
+      "type": "Αίτηση Άδειας Κατασκευής Κεραίας ΕΕΤΤ",
+      "file_url": "https://silia.eett.gr/silia/download/24a8f250-0765-46fd-bd04-f526cf78c01d"
+    },
+    {
+      "document_number": "360210/07-03-2019",
+      "protocol_number": "31741/Φ610/27-02-2019",
+      "type": "Άδεια Κατασκευής  Κεραίας",
+      "file_url": "https://silia.eett.gr/silia/download/15844889-3e0f-4ca0-bbea-c629c8e3267b"
+    },
+    {
+      "document_number": "358647/20-02-2019",
+      "protocol_number": "ΣΥΝΟΔΕΥΤΙΚΑ ΕΓΓΡΑΦΑ ΠΠΔ/20-02-2019",
+      "type": "Δήλωση υπαγωγής σε ΠΠΔ και Συνοδευτικά Έγγραφα",
+      "file_url": "https://silia.eett.gr/silia/download/47e5712a-0a7b-452c-858a-3d036437ce72"
+    },
+    {
+      "document_number": "358650/20-02-2019",
+      "protocol_number": "Αρχείο Αίτησης/",
+      "type": "Δήλωση ΠΠΔ",
+      "file_url": "https://silia.eett.gr/silia/download/c910e540-ba07-41cc-a02f-ba5f55320cb9"
+    }
+  ]
+}

@@ -1,0 +1,87 @@
+{
+  "antenna_id": "146204",
+  "address": "ΕΠΙ ΑΝΩΝΥΜΗΣ ΟΔΟΥ ΑΓΙΟΙ ΣΑΡΑΝΤΑ Α/Δ, ΥΨΩΜΑ ΑΓ.ΣΑΡΑΝΤΑ",
+  "position_code": 340012,
+  "municipality": "Άνδρου",
+  "code_name": "ΑΓΙΟΙ ΣΑΡΑΝΤΑ Α/Δ",
+  "region": "Νοτίου Αιγαίου",
+  "latitude": 37.933333,
+  "company": "OTE",
+  "longitude": 24.779722,
+  "permit_status": "Από τα στοιχεία που τηρούνται στην Ενημερωτική Πύλη προκύπτει ότι, για τη θέση \"ΕΠΙ ΑΝΩΝΥΜΗΣ ΟΔΟΥ ΑΓΙΟΙ ΣΑΡΑΝΤΑ Α/Δ, ΥΨΩΜΑ ΑΓ.ΣΑΡΑΝΤΑ\" στον Δήμο Άνδρου Περιφέρειας  Νοτίου Αιγαίου \n\t(κωδικός αριθμός θέσης 0340012, κωδική ονομασία \"ΑΓΙΟΙ ΣΑΡΑΝΤΑ Α/Δ\") χορηγήθηκε, με την Απόφαση της ΕΕΤΤ \n37023/Φ610/08-10-2020, άδεια κατασκευής κεραίας στην εταιρία OTE. \nΑπό τo έγγραφο της άδειας μπορείτε να ενημερωθείτε για τις σχετικές εγκρίσεις των συναρμόδιων φορέων, καθώς και εάν πρόκειται για τροποποίηση παλαιότερης άδειας.\nΗ άδεια χορηγήθηκε με τη διαδικασία αδειοδότησης που ορίζει ο ν. 4635/2019, κατόπιν της με αριθ. πρωτ. 36426/14-01-2020 \n\tαίτησης, και βάσει σχετικής δήλωσης του κατόχου της περί υπαγωγή της κατασκευής κεραίας στο άρθρο 34 του ν. 4635/2019.",
+  "measurements_eaee": "-",
+  "documents": [
+    {
+      "document_number": "388787/13-01-2020",
+      "protocol_number": "ΜΕΣΩ ΣΗΛΥΑ/",
+      "type": "Τοπογραφικό",
+      "file_url": "https://silia.eett.gr/silia/download/451e1584-648a-4905-be0c-73c28f3c78bf"
+    },
+    {
+      "document_number": "388788/13-01-2020",
+      "protocol_number": "ΜΕΣΩ ΣΗΛΥΑ/",
+      "type": "Αρχιτεκτονικά Σχέδια",
+      "file_url": "https://silia.eett.gr/silia/download/68062e35-5cee-424a-91ab-b3fd8ca67ef2"
+    },
+    {
+      "document_number": "388789/13-01-2020",
+      "protocol_number": "Δ3/Δ/10195/2541/26-03-2008",
+      "type": "Γνωμάτευση ΥΠΑ",
+      "file_url": "https://silia.eett.gr/silia/download/0c460f2f-dcbe-40fe-b544-de59a9cb61a7"
+    },
+    {
+      "document_number": "388790/13-01-2020",
+      "protocol_number": "ΜΕΣΩ ΣΗΛΥΑ/13-01-2020",
+      "type": "Αίτηση ΥΠΑ",
+      "file_url": "https://silia.eett.gr/silia/download/b675f237-24d5-4e60-bca6-4bfaa5313dac"
+    },
+    {
+      "document_number": "388791/13-01-2020",
+      "protocol_number": "ΜΕΣΩ ΣΗΛΥΑ/01-12-2019",
+      "type": "Αίτηση - Μελέτη Ραδιοεκπομπών ΕΕΑΕ",
+      "file_url": "https://silia.eett.gr/silia/download/5495b6e7-e635-4e1b-a6dd-9579361f39ad"
+    },
+    {
+      "document_number": "388792/13-01-2020",
+      "protocol_number": "ΥΠ.ΔΗΛΩΣΗ ΣΥΝΕΓΚΑΤΑΣΤΑΣΗΣ COSMOTE/13-01-2020",
+      "type": "Άλλο",
+      "file_url": "https://silia.eett.gr/silia/download/d00580a9-b87a-4b36-8741-1545ca74979c"
+    },
+    {
+      "document_number": "389071/14-01-2020",
+      "protocol_number": "Αρχείο Αίτησης/",
+      "type": "Αίτηση Άδειας Κατασκευής Κεραίας ΕΕΤΤ",
+      "file_url": "https://silia.eett.gr/silia/download/e2ef4758-a20d-4a58-b787-50cb03d143f1"
+    },
+    {
+      "document_number": "403929/30-04-2020",
+      "protocol_number": "Μ.ι./411/5704/2020/28-04-2020",
+      "type": "Γνωμάτευση ΕΕΑΕ",
+      "file_url": "https://silia.eett.gr/silia/download/48f70430-c664-4df5-b52f-629cd915b595"
+    },
+    {
+      "document_number": "417084/23-09-2020",
+      "protocol_number": "ΥΔ μηχανικού περί μη μετακίνησης/",
+      "type": "Άλλο",
+      "file_url": "https://silia.eett.gr/silia/download/9f262b16-1195-4c52-961b-6b64396ca70c"
+    },
+    {
+      "document_number": "420072/26-10-2020",
+      "protocol_number": "37023/Φ610/08-10-2020",
+      "type": "Άδεια Κατασκευής  Κεραίας",
+      "file_url": "https://silia.eett.gr/silia/download/73c5d570-216f-48f5-a9b5-37310c29cf3f"
+    },
+    {
+      "document_number": "388793/13-01-2020",
+      "protocol_number": "ΜΕΣΩ ΣΗΛΥΑ/",
+      "type": "Δήλωση υπαγωγής σε ΠΠΔ και Συνοδευτικά Έγγραφα",
+      "file_url": "https://silia.eett.gr/silia/download/b8fad40b-a8b1-48be-b88a-f34ec6bb3b2f"
+    },
+    {
+      "document_number": "389072/14-01-2020",
+      "protocol_number": "Αρχείο Αίτησης/",
+      "type": "Δήλωση ΠΠΔ",
+      "file_url": "https://silia.eett.gr/silia/download/60dcb7dd-05ea-4219-9e38-32119f593f94"
+    }
+  ]
+}

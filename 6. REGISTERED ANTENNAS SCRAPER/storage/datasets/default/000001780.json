@@ -1,0 +1,33 @@
+{
+  "antenna_id": "165271",
+  "address": "Δήμος Ήλιδας, Π.Ε Ηλείας, Περιφέρεια Δυτικής Ελλάδος",
+  "position_code": 3206682,
+  "municipality": "Ήλιδας",
+  "code_name": "ΒΑΛΜΗ",
+  "region": "Δυτικής Ελλάδας",
+  "latitude": 37.903333,
+  "company": "ΕΡΤ ΑΕ",
+  "longitude": 21.556111,
+  "permit_status": "Από τα στοιχεία που τηρούνται στην Ενημερωτική Πύλη προκύπτει ότι για τη  θέση \"Δήμος Ήλιδας, Π.Ε Ηλείας, Περιφέρεια Δυτικής Ελλάδος\" στον Δήμο Ήλιδας Περιφέρειας  Δυτικής Ελλάδας έχει κατατεθεί από την εταιρία ΕΡΤ ΑΕ δήλωση κατασκευής κεραίας τηλεοπτικής ευρυεκπομπής με αριθ. πρωτ. ΣΗΛΥΑ \n49080/09-08-2022 κατά τα οριζόμενα στην παρ. 7 του άρθρου 39 του Ν.4635/2019.",
+  "measurements_eaee": "-",
+  "documents": [
+    {
+      "document_number": "466166/09-08-2022",
+      "protocol_number": "screenshot/",
+      "type": "Φωτογραφικό Υλικό - Σκαρίφημα",
+      "file_url": "https://silia.eett.gr/silia/download/a9f90d1d-d11b-4249-af7e-41c4afbddbe0"
+    },
+    {
+      "document_number": "466167/09-08-2022",
+      "protocol_number": "Αίτηση ΥΠΑ/",
+      "type": "Αίτηση ΥΠΑ",
+      "file_url": "https://silia.eett.gr/silia/download/991e2f34-269a-4b90-addc-4c9e8a43d20a"
+    },
+    {
+      "document_number": "466168/09-08-2022",
+      "protocol_number": "Αρχείο Αίτησης/",
+      "type": "Δήλωση Τηλεοπτικής Ευρυεκπομπής",
+      "file_url": "https://silia.eett.gr/silia/download/aadca0f4-5b91-4f90-89d2-50ec616d7405"
+    }
+  ]
+}

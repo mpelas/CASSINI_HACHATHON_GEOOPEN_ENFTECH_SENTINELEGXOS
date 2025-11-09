@@ -1,0 +1,45 @@
+{
+  "antenna_id": "143776",
+  "address": "ΒΙΠΕ ΞΑΝΘΗΣ",
+  "position_code": 1013372,
+  "municipality": "Ξάνθης",
+  "code_name": "PLASTIKA THRAKIS XANTHI",
+  "region": "Ανατ. Μακεδονίας και Θράκης",
+  "latitude": 41.098611,
+  "company": "VODAFONE",
+  "longitude": 24.8575,
+  "permit_status": "Από τα στοιχεία που τηρούνται στην Ενημερωτική Πύλη προκύπτει ότι, για τη θέση \"ΒΙΠΕ ΞΑΝΘΗΣ\" στον Δήμο Ξάνθης Περιφέρειας  Ανατ. Μακεδονίας και Θράκης \n\t(κωδικός αριθμός θέσης 1013372, κωδική ονομασία \"PLASTIKA THRAKIS XANTHI \") έχει κατατεθεί από την εταιρία VODAFONE\tδήλωση εγκατάστασης κατασκευής κεραίας (αριθ. πρωτ. \n\t35332/04-11-2019) που εμπίπτει στις διατάξεις της νομοθεσίας για Εγκαταστάσεις Κατασκευών Κεραιών Χαμηλής Ηλεκτρομαγνητικής Περιβαλλοντικής Όχλησης (ΕΚΚΧΟ).",
+  "measurements_eaee": "-",
+  "documents": [
+    {
+      "document_number": "374303/05-09-2019",
+      "protocol_number": "ΦΩΤΟΓΡΑΦΙΑ ΘΕΣΗΣ ΚΕΡΑΙΑΣ 1 ΚΑΙ 2/",
+      "type": "Φωτογραφικό Υλικό - Σκαρίφημα",
+      "file_url": "https://silia.eett.gr/silia/download/d62d5690-75ac-4f7d-a7ef-d2ef666980de"
+    },
+    {
+      "document_number": "374304/05-09-2019",
+      "protocol_number": "ΦΩΤΟΓΡΑΦΙΑ ΘΕΣΗΣ ΚΕΡΑΙΩΝ ΕΚΚΧΟ 1 ΚΑΙ 2 - ΑΖΙΜΟΥΘΙΟ/",
+      "type": "Φωτογραφικό Υλικό - Σκαρίφημα",
+      "file_url": "https://silia.eett.gr/silia/download/ef62e6a0-0bd5-443b-8246-51a3cff50dda"
+    },
+    {
+      "document_number": "374305/05-09-2019",
+      "protocol_number": "ΦΩΤΟΓΡΑΦΙΑ ΘΕΣΗΣ ΚΕΡΑΙΑΣ 3 ΚΑΙ ΘΕΣΗΣ ΕΡΜΑΡΙΟΥ /",
+      "type": "Φωτογραφικό Υλικό - Σκαρίφημα",
+      "file_url": "https://silia.eett.gr/silia/download/7daaf415-fedc-4878-8b15-3f89fc8626b9"
+    },
+    {
+      "document_number": "374307/05-09-2019",
+      "protocol_number": "ΣΚΑΡΙΦΗΜΑ ΘΕΣΗΣ ΚΕΡΑΙΩΝ ΕΚΚΧΟ 1 ΚΑΙ 2/",
+      "type": "Φωτογραφικό Υλικό - Σκαρίφημα",
+      "file_url": "https://silia.eett.gr/silia/download/bab143ca-06f9-4944-83cc-eef7011a6582"
+    },
+    {
+      "document_number": "382128/04-11-2019",
+      "protocol_number": "Αρχείο Αίτησης/",
+      "type": "Δήλωση ΕΚΚΧΟ",
+      "file_url": "https://silia.eett.gr/silia/download/4daec80b-1de8-4605-baa8-62c26149b625"
+    }
+  ]
+}

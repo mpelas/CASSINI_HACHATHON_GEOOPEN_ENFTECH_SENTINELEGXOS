@@ -1,0 +1,33 @@
+{
+  "antenna_id": "175478",
+  "address": "ΣΙΝΔΟΣ, Δ. ΕΧΕΔΩΡΟΥ, Ν. ΘΕΣΣΑΛΟΝΙΚΗΣ\t57022",
+  "position_code": 1495116,
+  "municipality": "Δέλτα",
+  "code_name": "HOL_PELOPAC_THES",
+  "region": "Κεντρικής Μακεδονίας",
+  "latitude": 40.687222,
+  "company": "OTE",
+  "longitude": 22.781389,
+  "permit_status": "Από τα στοιχεία που τηρούνται στην Ενημερωτική Πύλη προκύπτει ότι, για τη θέση \"ΣΙΝΔΟΣ, Δ. ΕΧΕΔΩΡΟΥ, Ν. ΘΕΣΣΑΛΟΝΙΚΗΣ\t57022\" στον Δήμο Δέλτα Περιφέρειας  Κεντρικής Μακεδονίας \n\t(κωδικός αριθμός θέσης 1495116, κωδική ονομασία \"HOL_PELOPAC_THES\") έχει κατατεθεί από την εταιρία OTE\tδήλωση εγκατάστασης κατασκευής κεραίας (αριθ. πρωτ. \n\t57898/18-10-2024) που εμπίπτει στις διατάξεις της νομοθεσίας για Εγκαταστάσεις Κατασκευών Κεραιών Χαμηλής Ηλεκτρομαγνητικής Περιβαλλοντικής Όχλησης (ΕΚΚΧΟ).",
+  "measurements_eaee": "-",
+  "documents": [
+    {
+      "document_number": "526585/23-09-2024",
+      "protocol_number": "ΦΩΤΟΓΡΑΦΙΑ/23-09-2024",
+      "type": "Φωτογραφικό Υλικό - Σκαρίφημα",
+      "file_url": "https://silia.eett.gr/silia/download/wz3bWEGqg46YnlNYsvuiQGEm01GzoUMGNy2k"
+    },
+    {
+      "document_number": "529270/17-10-2024",
+      "protocol_number": "ΜΕΛΕΤΗ/17-10-2024",
+      "type": "Αίτηση - Μελέτη Ραδιοεκπομπών ΕΕΑΕ",
+      "file_url": "https://silia.eett.gr/silia/download/GVZGzsVKvv4lGenKFm9pGzT6Oq1gHHrxIVnY"
+    },
+    {
+      "document_number": "529307/18-10-2024",
+      "protocol_number": "Αρχείο Αίτησης/18-10-2024",
+      "type": "Δήλωση ΕΚΚΧΟ",
+      "file_url": "https://silia.eett.gr/silia/download/BDYFg7G9DsWqW4ugwavbhmC6vGgAFYcWynFQ"
+    }
+  ]
+}

@@ -1,0 +1,51 @@
+{
+  "antenna_id": "179113",
+  "address": "ΘΕΣΗ ΛΑΚΚΑ ΚΑΜΑΤΕΡΟΥ",
+  "position_code": 1153921,
+  "municipality": "Ασπροπύργου",
+  "code_name": "3033921 IRON MOUNTAIN KYRILOS ASPROPYRGOS 2",
+  "region": "Αττικής",
+  "latitude": 38.103889,
+  "company": "VODAFONE",
+  "longitude": 23.56,
+  "permit_status": "Από τα στοιχεία που τηρούνται στην Ενημερωτική Πύλη προκύπτει ότι, για τη θέση \"ΘΕΣΗ ΛΑΚΚΑ ΚΑΜΑΤΕΡΟΥ\" στον Δήμο Ασπροπύργου Περιφέρειας  Αττικής \n\t(κωδικός αριθμός θέσης 1153921, κωδική ονομασία \"3033921 IRON MOUNTAIN KYRILOS ASPROPYRGOS 2\") έχει κατατεθεί από την εταιρία VODAFONE\tδήλωση εγκατάστασης κατασκευής κεραίας (αριθ. πρωτ. \n\t60706/17-04-2025) που εμπίπτει στις διατάξεις της νομοθεσίας για Εγκαταστάσεις Κατασκευών Κεραιών Χαμηλής Ηλεκτρομαγνητικής Περιβαλλοντικής Όχλησης (ΕΚΚΧΟ).",
+  "measurements_eaee": "-",
+  "documents": [
+    {
+      "document_number": "547193/17-04-2025",
+      "protocol_number": "Φωτορεαλιστική απεικόνιση κεραίας ΕΚΚΧΟ/17-04-2025",
+      "type": "Φωτογραφικό Υλικό - Σκαρίφημα",
+      "file_url": "https://silia.eett.gr/silia/download/D6pPLfOd6eI4ROBNi6m2oeivLrq6QFON8lu0"
+    },
+    {
+      "document_number": "547194/17-04-2025",
+      "protocol_number": "Ψηφιακός χάρτης με προβολή της θέσης ΕΚΚΧΟ/17-04-2025",
+      "type": "Φωτογραφικό Υλικό - Σκαρίφημα",
+      "file_url": "https://silia.eett.gr/silia/download/wEURlTH3sgYr1G4uZgZuhFaxIS51SubmZtea"
+    },
+    {
+      "document_number": "547197/17-04-2025",
+      "protocol_number": "ΜΕΛΕΤΗ ΕΚΚΧΟ/17-04-2025",
+      "type": "Άλλο",
+      "file_url": "https://silia.eett.gr/silia/download/BhGMCxsL5YbExPQHys8PYgrQVyPsVKPru8ev"
+    },
+    {
+      "document_number": "547198/17-04-2025",
+      "protocol_number": "Σκαρίφημα με περιοχή απαγόρευσης/17-04-2025",
+      "type": "Φωτογραφικό Υλικό - Σκαρίφημα",
+      "file_url": "https://silia.eett.gr/silia/download/qLci3ZZ7gKKuFpmAT3iQ9ffl0uiZqZzZdy9C"
+    },
+    {
+      "document_number": "547199/17-04-2025",
+      "protocol_number": "Φ.550/ΑΔ.3711/Σ.890/14-04-2025",
+      "type": "Γνωμάτευση ΓΕΑ",
+      "file_url": "https://silia.eett.gr/silia/download/yIW5EiYuTUl9DEgySGTLHBKigLYBB2cK4Qxg"
+    },
+    {
+      "document_number": "547202/17-04-2025",
+      "protocol_number": "Αρχείο Αίτησης/17-04-2025",
+      "type": "Δήλωση ΕΚΚΧΟ",
+      "file_url": "https://silia.eett.gr/silia/download/Q2zmi6f68BvvYqKy2GwAkb1ZWNtZNb5TxXA0"
+    }
+  ]
+}

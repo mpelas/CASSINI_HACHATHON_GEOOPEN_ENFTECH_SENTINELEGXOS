@@ -1,0 +1,93 @@
+{
+  "antenna_id": "158690",
+  "address": "Παλαιά Ε.Ο Ξάνθης Καβάλας, Βιομηχανική Περιοχή Ξάνθης (Κτηριο Pland B)",
+  "position_code": 1011829,
+  "municipality": "Ξάνθης",
+  "code_name": "PLASTIKA THRAKIS PLANT B INDOOR",
+  "region": "Ανατ. Μακεδονίας και Θράκης",
+  "latitude": 41.101944,
+  "company": "VODAFONE",
+  "longitude": 24.86,
+  "permit_status": "Από τα στοιχεία που τηρούνται στην Ενημερωτική Πύλη προκύπτει ότι, για τη θέση \"Παλαιά Ε.Ο Ξάνθης Καβάλας, Βιομηχανική Περιοχή Ξάνθης (Κτηριο Pland B)\" στον Δήμο Ξάνθης Περιφέρειας  Ανατ. Μακεδονίας και Θράκης \n\t(κωδικός αριθμός θέσης 1011829, κωδική ονομασία \"PLASTIKA THRAKIS PLANT B INDOOR\") έχει κατατεθεί από την εταιρία VODAFONE\tδήλωση εγκατάστασης κατασκευής κεραίας (αριθ. πρωτ. \n\t43248/24-03-2021) που εμπίπτει στις διατάξεις της νομοθεσίας για Εγκαταστάσεις Κατασκευών Κεραιών Χαμηλής Ηλεκτρομαγνητικής Περιβαλλοντικής Όχλησης (ΕΚΚΧΟ).",
+  "measurements_eaee": "-",
+  "documents": [
+    {
+      "document_number": "431718/24-03-2021",
+      "protocol_number": "ΣΚΑΡΙΦΗΜΑ ΘΕΣΕΙΣ ΚΕΡΑΙΩΝ ΕΚΚΧΟ - ΚΑΤΟΨΗ/",
+      "type": "Φωτογραφικό Υλικό - Σκαρίφημα",
+      "file_url": "https://silia.eett.gr/silia/download/60d3f716-ab48-4eff-be56-a2578fa7960b"
+    },
+    {
+      "document_number": "431719/24-03-2021",
+      "protocol_number": "ΦΩΤΟΓΡΑΦΙΑ ΘΕΣΗΣ ΚΕΡΑΙΑΣ Α1/",
+      "type": "Φωτογραφικό Υλικό - Σκαρίφημα",
+      "file_url": "https://silia.eett.gr/silia/download/dfa13515-1dfd-48ad-a741-5604f28053d6"
+    },
+    {
+      "document_number": "431720/24-03-2021",
+      "protocol_number": "ΦΩΤΟΓΡΑΦΙΑ ΘΕΣΗΣ ΚΕΡΑΙΑΣ Α2/",
+      "type": "Φωτογραφικό Υλικό - Σκαρίφημα",
+      "file_url": "https://silia.eett.gr/silia/download/fbea2b2b-df5a-4a1a-b74d-b770c9132e82"
+    },
+    {
+      "document_number": "431721/24-03-2021",
+      "protocol_number": "ΦΩΤΟΓΡΑΦΙΑ ΘΕΣΗΣ ΚΕΡΑΙΑΣ Α3/",
+      "type": "Φωτογραφικό Υλικό - Σκαρίφημα",
+      "file_url": "https://silia.eett.gr/silia/download/1ddae355-6ad3-481c-b49f-3d50737160ef"
+    },
+    {
+      "document_number": "431722/24-03-2021",
+      "protocol_number": "ΦΩΤΟΓΡΑΦΙΑ ΘΕΣΗΣ ΚΕΡΑΙΑΣ Α4/",
+      "type": "Φωτογραφικό Υλικό - Σκαρίφημα",
+      "file_url": "https://silia.eett.gr/silia/download/3105bbcb-ecd0-41d0-88e9-c55fdf1ff05e"
+    },
+    {
+      "document_number": "431723/24-03-2021",
+      "protocol_number": "ΦΩΤΟΓΡΑΦΙΑ ΘΕΣΗΣ ΚΕΡΑΙΑΣ Α5/",
+      "type": "Φωτογραφικό Υλικό - Σκαρίφημα",
+      "file_url": "https://silia.eett.gr/silia/download/097452e1-2b3b-49f3-bc2d-2ca4e9930db0"
+    },
+    {
+      "document_number": "431724/24-03-2021",
+      "protocol_number": "ΦΩΤΟΓΡΑΦΙΑ ΘΕΣΗΣ ΚΕΡΑΙΑΣ Α6/",
+      "type": "Φωτογραφικό Υλικό - Σκαρίφημα",
+      "file_url": "https://silia.eett.gr/silia/download/40676b19-21ad-4602-a398-ce816f4faedb"
+    },
+    {
+      "document_number": "431725/24-03-2021",
+      "protocol_number": "ΦΩΤΟΓΡΑΦΙΑ ΘΕΣΗΣ ΚΕΡΑΙΑΣ Α7/",
+      "type": "Φωτογραφικό Υλικό - Σκαρίφημα",
+      "file_url": "https://silia.eett.gr/silia/download/752b6697-72c6-47e5-933f-85fd507eb763"
+    },
+    {
+      "document_number": "431726/24-03-2021",
+      "protocol_number": "ΦΩΤΟΓΡΑΦΙΑ ΘΕΣΗΣ ΚΕΡΑΙΑΣ Α8/",
+      "type": "Φωτογραφικό Υλικό - Σκαρίφημα",
+      "file_url": "https://silia.eett.gr/silia/download/64b57e9b-443d-4953-824c-7ac2f1e1d82d"
+    },
+    {
+      "document_number": "431727/24-03-2021",
+      "protocol_number": "ΦΩΤΟΓΡΑΦΙΑ ΘΕΣΗΣ ΚΕΡΑΙΑΣ Α9/",
+      "type": "Φωτογραφικό Υλικό - Σκαρίφημα",
+      "file_url": "https://silia.eett.gr/silia/download/41700087-e115-4e3b-880b-b4b2245b4e3b"
+    },
+    {
+      "document_number": "431728/24-03-2021",
+      "protocol_number": "ΦΩΤΟΓΡΑΦΙΑ ΘΕΣΗΣ ΚΕΡΑΙΑΣ Α10/",
+      "type": "Φωτογραφικό Υλικό - Σκαρίφημα",
+      "file_url": "https://silia.eett.gr/silia/download/80c99779-5a93-4c23-976e-edf9247bbdd4"
+    },
+    {
+      "document_number": "431729/24-03-2021",
+      "protocol_number": "ΦΩΤΟΓΡΑΦΙΑ ΘΕΣΗΣ ΕΚΚΧΟ ΑΠΟ GOOGLE EARTH/",
+      "type": "Φωτογραφικό Υλικό - Σκαρίφημα",
+      "file_url": "https://silia.eett.gr/silia/download/d3274768-af26-4124-8547-1cd5409cabe5"
+    },
+    {
+      "document_number": "431730/24-03-2021",
+      "protocol_number": "Αρχείο Αίτησης/",
+      "type": "Δήλωση ΕΚΚΧΟ",
+      "file_url": "https://silia.eett.gr/silia/download/18dee4e0-c840-43b3-83e6-e08551c59626"
+    }
+  ]
+}

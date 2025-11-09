@@ -1,0 +1,75 @@
+{
+  "antenna_id": "163501",
+  "address": "ΠΛΗΣΙΟΝ Δ.Δ. ΠΕΔΙΝΟΥ",
+  "position_code": 1404885,
+  "municipality": "Παλαμά",
+  "code_name": "NOMH /X",
+  "region": "Θεσσαλίας",
+  "latitude": 39.528889,
+  "company": "OTE",
+  "longitude": 21.953889,
+  "permit_status": "Από τα στοιχεία που τηρούνται στην Ενημερωτική Πύλη προκύπτει ότι, για τη θέση \"ΠΛΗΣΙΟΝ Δ.Δ. ΠΕΔΙΝΟΥ\" στον Δήμο Παλαμά Περιφέρειας  Θεσσαλίας \n\t(κωδικός αριθμός θέσης 1404885, κωδική ονομασία \"NOMH /X\") χορηγήθηκε, με την Απόφαση της ΕΕΤΤ \n45364/07-10-2022, άδεια κατασκευής κεραίας στην εταιρία OTE. \nΑπό τo έγγραφο της άδειας μπορείτε να ενημερωθείτε για τις σχετικές εγκρίσεις των συναρμόδιων φορέων, καθώς και εάν πρόκειται για τροποποίηση παλαιότερης άδειας.",
+  "measurements_eaee": "-",
+  "documents": [
+    {
+      "document_number": "456734/13-04-2022",
+      "protocol_number": "ΜΕΣΩ ΣΗΛΥΑ    /",
+      "type": "Τοπογραφικό",
+      "file_url": "https://silia.eett.gr/silia/download/78b35adb-fafe-4099-8861-4d5e85dc0327"
+    },
+    {
+      "document_number": "456735/13-04-2022",
+      "protocol_number": "ΜΕΣΩ ΣΗΛΥΑ    /",
+      "type": "Αρχιτεκτονικά Σχέδια",
+      "file_url": "https://silia.eett.gr/silia/download/17f65ed2-d460-4e9c-b1af-2650964b65d3"
+    },
+    {
+      "document_number": "456736/13-04-2022",
+      "protocol_number": "ΜΕΣΩ ΣΗΛΥΑ    /20-02-2020",
+      "type": "Αίτηση - Μελέτη Ραδιοεκπομπών ΕΕΑΕ",
+      "file_url": "https://silia.eett.gr/silia/download/5b1509ca-5a49-4eef-9303-e27f048dd380"
+    },
+    {
+      "document_number": "456737/13-04-2022",
+      "protocol_number": "Δ3/Δ/1814/495/27-01-2011",
+      "type": "Γνωμάτευση ΥΠΑ",
+      "file_url": "https://silia.eett.gr/silia/download/cfe53aef-e58b-4c7e-8f22-918ab6c8f09c"
+    },
+    {
+      "document_number": "456738/13-04-2022",
+      "protocol_number": "ΥΔ ΣΥΝΕΓΚΑΤΑΣΤΑΣΗΣ ΟΤΕ/13-04-2022",
+      "type": "Άλλο",
+      "file_url": "https://silia.eett.gr/silia/download/4a5c4dd9-646f-45db-a643-b4a6bebf2023"
+    },
+    {
+      "document_number": "456754/14-04-2022",
+      "protocol_number": "Δ3/Δ/4697/12-06-2012",
+      "type": "Γνωμάτευση ΥΠΑ",
+      "file_url": "https://silia.eett.gr/silia/download/c22e14b6-78bd-4015-bf99-787f57fc6fe0"
+    },
+    {
+      "document_number": "456756/14-04-2022",
+      "protocol_number": "Αρχείο Αίτησης/",
+      "type": "Αίτηση Άδειας Κατασκευής Κεραίας ΕΕΤΤ",
+      "file_url": "https://silia.eett.gr/silia/download/d2839bad-7869-411a-b114-f6f3cb55bc93"
+    },
+    {
+      "document_number": "465997/08-08-2022",
+      "protocol_number": "Μ.ι./411/11420/2022/05-08-2022",
+      "type": "Γνωμάτευση ΕΕΑΕ",
+      "file_url": "https://silia.eett.gr/silia/download/9930ec48-5fd5-40fd-b245-6273b0351f80"
+    },
+    {
+      "document_number": "469419/09-10-2022",
+      "protocol_number": "45364/07-10-2022",
+      "type": "Άδεια Κατασκευής  Κεραίας",
+      "file_url": "https://silia.eett.gr/silia/download/e999937e-896f-4baf-8a34-e9aa9c17ad79"
+    },
+    {
+      "document_number": "456757/14-04-2022",
+      "protocol_number": "Αρχείο Αίτησης/",
+      "type": "Δήλωση ΠΠΔ",
+      "file_url": "https://silia.eett.gr/silia/download/0a234a7d-5f2c-463f-a565-6265e2418275"
+    }
+  ]
+}

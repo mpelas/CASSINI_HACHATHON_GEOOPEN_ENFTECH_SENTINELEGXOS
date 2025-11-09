@@ -1,0 +1,33 @@
+{
+  "antenna_id": "152733",
+  "address": "5ο χλμ ΕΘΝΙΚΗΣ ΟΔΟΥ ΘΕΣΣΑΛΟΝΙΚΗΣ - ΚΑΒΑΛΑΣ",
+  "position_code": 1267905,
+  "municipality": "Παύλου Μελά",
+  "code_name": "UNION ROAD THESSALONIKI",
+  "region": "Κεντρικής Μακεδονίας",
+  "latitude": 40.6925,
+  "company": "NOVA Μ.Α.Ε.",
+  "longitude": 22.945,
+  "permit_status": "Από τα στοιχεία που τηρούνται στην Ενημερωτική Πύλη προκύπτει ότι, για τη θέση \"5ο χλμ ΕΘΝΙΚΗΣ ΟΔΟΥ ΘΕΣΣΑΛΟΝΙΚΗΣ - ΚΑΒΑΛΑΣ \" στον Δήμο Παύλου Μελά Περιφέρειας  Κεντρικής Μακεδονίας \n\t(κωδικός αριθμός θέσης 1267905, κωδική ονομασία \"UNION ROAD THESSALONIKI\") έχει κατατεθεί από την εταιρία NOVA Μ.Α.Ε.\tδήλωση εγκατάστασης κατασκευής κεραίας (αριθ. πρωτ. \n\t38206/10-04-2020) που εμπίπτει στις διατάξεις της νομοθεσίας για Εγκαταστάσεις Κατασκευών Κεραιών Χαμηλής Ηλεκτρομαγνητικής Περιβαλλοντικής Όχλησης (ΕΚΚΧΟ).",
+  "measurements_eaee": "-",
+  "documents": [
+    {
+      "document_number": "401826/09-04-2020",
+      "protocol_number": "ΣΚΑΡΙΦΗΜΑ ΕΚΚΧΟ LINK/",
+      "type": "Φωτογραφικό Υλικό - Σκαρίφημα",
+      "file_url": "https://silia.eett.gr/silia/download/83b75b9e-46a3-4811-89c6-30bbfe53c3c8"
+    },
+    {
+      "document_number": "401940/10-04-2020",
+      "protocol_number": "Αρχείο Αίτησης/",
+      "type": "Δήλωση ΕΚΚΧΟ",
+      "file_url": "https://silia.eett.gr/silia/download/c1a8cd55-6f67-4465-a6a1-13dc79b459de"
+    },
+    {
+      "document_number": "520656/16-07-2024",
+      "protocol_number": "38206/16-07-2024",
+      "type": "Δειγματοληπτικός έλεγχος",
+      "file_url": "https://silia.eett.gr/silia/download/caZKQ4bKYc7e6AGu8pI2qpeV6dBZFaciR23h"
+    }
+  ]
+}

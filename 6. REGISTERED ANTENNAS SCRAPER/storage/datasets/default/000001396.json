@@ -1,0 +1,57 @@
+{
+  "antenna_id": "176127",
+  "address": "Σήραγγα Καϊτσας",
+  "position_code": 1139169,
+  "municipality": "Δομοκού",
+  "code_name": "KENTRIKI ODOS TUNNEL KAITSA T3 NORTH (EKKXO)",
+  "region": "Στερεάς Ελλάδας",
+  "latitude": 39.119722,
+  "company": "VODAFONE",
+  "longitude": 22.163889,
+  "permit_status": "Από τα στοιχεία που τηρούνται στην Ενημερωτική Πύλη προκύπτει ότι, για τη θέση \"Σήραγγα Καϊτσας\" στον Δήμο Δομοκού Περιφέρειας  Στερεάς Ελλάδας \n\t(κωδικός αριθμός θέσης 1139169, κωδική ονομασία \"KENTRIKI ODOS TUNNEL KAITSA T3 NORTH (EKKXO)\") έχει κατατεθεί από την εταιρία VODAFONE\tδήλωση εγκατάστασης κατασκευής κεραίας (αριθ. πρωτ. \n\t58122/31-10-2024) που εμπίπτει στις διατάξεις της νομοθεσίας για Εγκαταστάσεις Κατασκευών Κεραιών Χαμηλής Ηλεκτρομαγνητικής Περιβαλλοντικής Όχλησης (ΕΚΚΧΟ).",
+  "measurements_eaee": "-",
+  "documents": [
+    {
+      "document_number": "531006/31-10-2024",
+      "protocol_number": "Φωτορεαλιστική απεικόνιση ιστού & ερμαρίου ΕΚΚΧΟ/31-10-2024",
+      "type": "Φωτογραφικό Υλικό - Σκαρίφημα",
+      "file_url": "https://silia.eett.gr/silia/download/FtwoSRWVxoUImpHnL3CpvTlvcf5eXcvz6q9N"
+    },
+    {
+      "document_number": "531007/31-10-2024",
+      "protocol_number": "Ψηφιακός χάρτης με προβολή της θέσης ΕΚΚΧΟ/31-10-2024",
+      "type": "Φωτογραφικό Υλικό - Σκαρίφημα",
+      "file_url": "https://silia.eett.gr/silia/download/78nGDYbAwI04APPNKE1O056FOQzqQBg8r02g"
+    },
+    {
+      "document_number": "531008/31-10-2024",
+      "protocol_number": "Αρχιτεκτονικά σχέδια ΕΚΚΧΟ/28-06-2024",
+      "type": "Αρχιτεκτονικά Σχέδια",
+      "file_url": "https://silia.eett.gr/silia/download/DatXvTZlhCrDyQMsN9OcGr0pU44iPTGGcZh6"
+    },
+    {
+      "document_number": "531010/31-10-2024",
+      "protocol_number": "Μελέτη ΕΚΚΧΟ/17-10-2024",
+      "type": "Άλλο",
+      "file_url": "https://silia.eett.gr/silia/download/5p0GEO7w3XZnMv80v52Bqavg8aRH0zgzBglB"
+    },
+    {
+      "document_number": "531011/31-10-2024",
+      "protocol_number": "Υπεύθυνη Δήλωση κοινής χρήσης Nova/22-10-2024",
+      "type": "Άλλο",
+      "file_url": "https://silia.eett.gr/silia/download/BqL8yRiuG7PClL2zvFs0lTA0HWOv1vauQ86C"
+    },
+    {
+      "document_number": "531013/31-10-2024",
+      "protocol_number": "Αρχείο Αίτησης/31-10-2024",
+      "type": "Δήλωση ΕΚΚΧΟ",
+      "file_url": "https://silia.eett.gr/silia/download/VO1a8DCXgsb5LCWR8Z0lRkfMKKvhsUKlFlxd"
+    },
+    {
+      "document_number": "544528/20-03-2025",
+      "protocol_number": "ΥΔ Εγκατάστασης/20-03-2025",
+      "type": "Άλλο",
+      "file_url": "https://silia.eett.gr/silia/download/A8hDscY2ly7ksVVgNz6yDnsCDupNR9EGwanZ"
+    }
+  ]
+}

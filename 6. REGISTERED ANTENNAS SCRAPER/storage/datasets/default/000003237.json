@@ -1,0 +1,81 @@
+{
+  "antenna_id": "136475",
+  "address": "ΘΕΣΗ \" ΠΑΛΟΥΚΙ\" , ΣΚΟΠΕΛΟΣ",
+  "position_code": 1406337,
+  "municipality": "Σκοπέλου",
+  "code_name": "ΣΚΟΠΕΛΟΣ/Χ3",
+  "region": "Θεσσαλίας",
+  "latitude": 39.1125,
+  "company": "OTE",
+  "longitude": 23.748611,
+  "permit_status": "Από τα στοιχεία που τηρούνται στην Ενημερωτική Πύλη προκύπτει ότι, για τη θέση \"ΘΕΣΗ \" ΠΑΛΟΥΚΙ\" , ΣΚΟΠΕΛΟΣ\" στον Δήμο Σκοπέλου Περιφέρειας  Θεσσαλίας \n\t(κωδικός αριθμός θέσης 1406337, κωδική ονομασία \"ΣΚΟΠΕΛΟΣ/Χ3\") χορηγήθηκε, με την Απόφαση της ΕΕΤΤ \n40387/Φ610/19-04-2021, άδεια κατασκευής κεραίας στην εταιρία OTE. \nΑπό τo έγγραφο της άδειας μπορείτε να ενημερωθείτε για τις σχετικές εγκρίσεις των συναρμόδιων φορέων, καθώς και εάν πρόκειται για τροποποίηση παλαιότερης άδειας.\nΗ άδεια χορηγήθηκε με τη διαδικασία αδειοδότησης που ορίζει ο ν. 4635/2019, κατόπιν της με αριθ. πρωτ. 30607/03-12-2018 \n\tαίτησης, και βάσει σχετικής δήλωσης του κατόχου της περί υπαγωγή της κατασκευής κεραίας στο άρθρο 34 του ν. 4635/2019.",
+  "measurements_eaee": "-",
+  "documents": [
+    {
+      "document_number": "350995/03-12-2018",
+      "protocol_number": "96/02-03-2017",
+      "type": "Τοπογραφικό",
+      "file_url": "https://silia.eett.gr/silia/download/ba61d331-da87-4069-99ac-682a9d0fd5ff"
+    },
+    {
+      "document_number": "350996/03-12-2018",
+      "protocol_number": "96/02-03-2017",
+      "type": "Αρχιτεκτονικά Σχέδια",
+      "file_url": "https://silia.eett.gr/silia/download/8f87bd7c-6182-4427-a94b-5c61519495ea"
+    },
+    {
+      "document_number": "350999/03-12-2018",
+      "protocol_number": "Δ3/Δ/22879/5562/28-07-2011",
+      "type": "Γνωμάτευση ΥΠΑ",
+      "file_url": "https://silia.eett.gr/silia/download/ad789e32-d8a8-4794-966c-bb7e0aef1499"
+    },
+    {
+      "document_number": "351000/03-12-2018",
+      "protocol_number": "Δ3/Δ/8563/25-10-2012",
+      "type": "Γνωμάτευση ΥΠΑ",
+      "file_url": "https://silia.eett.gr/silia/download/328faeb8-4eff-47cf-84c3-a545ebc3999e"
+    },
+    {
+      "document_number": "351001/03-12-2018",
+      "protocol_number": "ΜΕΣΩ ΣΗΛΥΑ/04-11-2016",
+      "type": "Αίτηση - Μελέτη Ραδιοεκπομπών ΕΕΑΕ",
+      "file_url": "https://silia.eett.gr/silia/download/fb8c8aad-c9a0-49fc-9e56-40f5194fbbc6"
+    },
+    {
+      "document_number": "351140/03-12-2018",
+      "protocol_number": "Αρχείο Αίτησης/",
+      "type": "Αίτηση Άδειας Κατασκευής Κεραίας ΕΕΤΤ",
+      "file_url": "https://silia.eett.gr/silia/download/499bdd7f-aa41-4851-8a70-1de03c3fb8dc"
+    },
+    {
+      "document_number": "367089/03-06-2019",
+      "protocol_number": "ΕΚΘΕΣΗ ΜΕΤΡΗΣΕΩΝ/",
+      "type": "Άλλο",
+      "file_url": "https://silia.eett.gr/silia/download/2b311257-6e0d-4355-9194-3e371bfbb17d"
+    },
+    {
+      "document_number": "373330/23-08-2019",
+      "protocol_number": "Μ.ι./411/12058/2019/23-08-2019",
+      "type": "Γνωμάτευση ΕΕΑΕ",
+      "file_url": "https://silia.eett.gr/silia/download/32c58ab4-28e4-4589-8d05-480dac785c87"
+    },
+    {
+      "document_number": "434178/21-04-2021",
+      "protocol_number": "40387/Φ610/19-04-2021",
+      "type": "Άδεια Κατασκευής  Κεραίας",
+      "file_url": "https://silia.eett.gr/silia/download/3c140284-a295-4923-a72c-ed642b840724"
+    },
+    {
+      "document_number": "432388/31-03-2021",
+      "protocol_number": "ΣΥΝΟΔΕΥΤΙΚΑ ΕΓΓΡΑΦΑ/",
+      "type": "Δήλωση υπαγωγής σε ΠΠΔ και Συνοδευτικά Έγγραφα",
+      "file_url": "https://silia.eett.gr/silia/download/f3b31f68-1386-4b0c-b53e-ca7ea84e84ac"
+    },
+    {
+      "document_number": "432389/31-03-2021",
+      "protocol_number": "Αρχείο Αίτησης/",
+      "type": "Δήλωση ΠΠΔ",
+      "file_url": "https://silia.eett.gr/silia/download/1df3bf1e-2754-4123-ad53-48ed4c175d9f"
+    }
+  ]
+}

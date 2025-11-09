@@ -1,0 +1,39 @@
+{
+  "antenna_id": "178329",
+  "address": "ΔΙΟΜΗΔΕΙΑ  - ΞΑΝΘΗΣ",
+  "position_code": 1495019,
+  "municipality": "Ξάνθης",
+  "code_name": "ENERGY DIOM XANTHI",
+  "region": "Ανατ. Μακεδονίας και Θράκης",
+  "latitude": 41.078333,
+  "company": "OTE",
+  "longitude": 24.926111,
+  "permit_status": "Από τα στοιχεία που τηρούνται στην Ενημερωτική Πύλη προκύπτει ότι, για τη θέση \"ΔΙΟΜΗΔΕΙΑ  - ΞΑΝΘΗΣ\" στον Δήμο Ξάνθης Περιφέρειας  Ανατ. Μακεδονίας και Θράκης \n\t(κωδικός αριθμός θέσης 1495019, κωδική ονομασία \"ENERGY DIOM XANTHI\") έχει κατατεθεί από την εταιρία OTE\tδήλωση εγκατάστασης κατασκευής κεραίας (αριθ. πρωτ. \n\t59965/18-03-2025) που εμπίπτει στις διατάξεις της νομοθεσίας για Εγκαταστάσεις Κατασκευών Κεραιών Χαμηλής Ηλεκτρομαγνητικής Περιβαλλοντικής Όχλησης (ΕΚΚΧΟ).",
+  "measurements_eaee": "-",
+  "documents": [
+    {
+      "document_number": "544130/18-03-2025",
+      "protocol_number": "ΜΕΛΕΤΗ/18-03-2025",
+      "type": "Αίτηση - Μελέτη Ραδιοεκπομπών ΕΕΑΕ",
+      "file_url": "https://silia.eett.gr/silia/download/GbXbS0s4qgTOxpQboTvKIGXuAm6nTvVNXwDa"
+    },
+    {
+      "document_number": "544131/18-03-2025",
+      "protocol_number": "ΦΩΤΟΓΡΑΦΙΑ/18-03-2025",
+      "type": "Φωτογραφικό Υλικό - Σκαρίφημα",
+      "file_url": "https://silia.eett.gr/silia/download/rbarwwoFWGh4g1HsIFKde4tto9dx2Aqm1GUh"
+    },
+    {
+      "document_number": "544139/18-03-2025",
+      "protocol_number": "Αρχείο Αίτησης/18-03-2025",
+      "type": "Δήλωση ΕΚΚΧΟ",
+      "file_url": "https://silia.eett.gr/silia/download/ao7bfnTRzoYIwRQ9c4NCKdKeBeZmbKlxpN6R"
+    },
+    {
+      "document_number": "552916/18-06-2025",
+      "protocol_number": "ΥΠ.ΔΗΛΩΣΗ/18-06-2025",
+      "type": "Άλλο",
+      "file_url": "https://silia.eett.gr/silia/download/iHCv6SsgNIcrWgsv2AGIE5Oc3gZ8GDBtYT8o"
+    }
+  ]
+}

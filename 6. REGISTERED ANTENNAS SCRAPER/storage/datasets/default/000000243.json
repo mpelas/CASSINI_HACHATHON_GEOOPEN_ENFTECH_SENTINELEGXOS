@@ -1,0 +1,33 @@
+{
+  "antenna_id": "158272",
+  "address": "2 χλμ Αγ. Νικολάου - Ηρακλείου, Μακρές Πεζούλες,TK  72100, Άγιος Νικόλαος.",
+  "position_code": 1157219,
+  "municipality": "Αγίου Νικολάου",
+  "code_name": "TOYOTA PAPAKALIATIS AGIOS NIKOLAOS",
+  "region": "Κρήτης",
+  "latitude": 35.205278,
+  "company": "VODAFONE",
+  "longitude": 25.694722,
+  "permit_status": "Από τα στοιχεία που τηρούνται στην Ενημερωτική Πύλη προκύπτει ότι, για τη θέση \"2 χλμ Αγ. Νικολάου - Ηρακλείου, Μακρές Πεζούλες,TK  72100, Άγιος Νικόλαος.\" στον Δήμο Αγίου Νικολάου Περιφέρειας  Κρήτης \n\t(κωδικός αριθμός θέσης 1157219, κωδική ονομασία \"TOYOTA PAPAKALIATIS AGIOS NIKOLAOS\") έχει κατατεθεί από την εταιρία VODAFONE\tδήλωση εγκατάστασης κατασκευής κεραίας (αριθ. πρωτ. \n\t42850/15-02-2021) που εμπίπτει στις διατάξεις της νομοθεσίας για Εγκαταστάσεις Κατασκευών Κεραιών Χαμηλής Ηλεκτρομαγνητικής Περιβαλλοντικής Όχλησης (ΕΚΚΧΟ).",
+  "measurements_eaee": "-",
+  "documents": [
+    {
+      "document_number": "429445/15-02-2021",
+      "protocol_number": "ΦΩΤΟΓΡΑΦΙΑ ΘΕΣΗΣ ΚΕΡΑΙΑΣ 1/",
+      "type": "Φωτογραφικό Υλικό - Σκαρίφημα",
+      "file_url": "https://silia.eett.gr/silia/download/cc0f49ad-86a2-4265-9c5d-30ec4b050bbd"
+    },
+    {
+      "document_number": "429446/15-02-2021",
+      "protocol_number": "ΦΩΤΟΓΡΑΦΙΑ ΘΕΣΗΣ ΚΕΡΑΙΑΣ ΕΚΚΧΟ ΑΠΟ GOOGLE EARTH/",
+      "type": "Φωτογραφικό Υλικό - Σκαρίφημα",
+      "file_url": "https://silia.eett.gr/silia/download/df08aa6b-f0c9-4330-ab8d-9d4c49be8c23"
+    },
+    {
+      "document_number": "429447/15-02-2021",
+      "protocol_number": "Αρχείο Αίτησης/",
+      "type": "Δήλωση ΕΚΚΧΟ",
+      "file_url": "https://silia.eett.gr/silia/download/29e83470-5c3e-4f30-ae11-09be3b24a41a"
+    }
+  ]
+}

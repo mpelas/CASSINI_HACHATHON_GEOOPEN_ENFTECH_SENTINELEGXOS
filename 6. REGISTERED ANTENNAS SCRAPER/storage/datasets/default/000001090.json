@@ -1,0 +1,39 @@
+{
+  "antenna_id": "178659",
+  "address": "1ο ΧΛΜ ΑΣΤΡΟΥΣ-Π. ΑΣΤΡΟΥΣ N.AΡΚΑΔΙΑΣ",
+  "position_code": 1495397,
+  "municipality": "Βόρειας Κυνουρίας",
+  "code_name": "KREATOEMP_KOSSYVA_ASTROS",
+  "region": "Πελοποννήσου",
+  "latitude": 37.405278,
+  "company": "OTE",
+  "longitude": 22.732778,
+  "permit_status": "Από τα στοιχεία που τηρούνται στην Ενημερωτική Πύλη προκύπτει ότι, για τη θέση \"1ο ΧΛΜ ΑΣΤΡΟΥΣ-Π. ΑΣΤΡΟΥΣ N.AΡΚΑΔΙΑΣ\" στον Δήμο Βόρειας Κυνουρίας Περιφέρειας  Πελοποννήσου \n\t(κωδικός αριθμός θέσης 1495397, κωδική ονομασία \"KREATOEMP_KOSSYVA_ASTROS\") έχει κατατεθεί από την εταιρία OTE\tδήλωση εγκατάστασης κατασκευής κεραίας (αριθ. πρωτ. \n\t60805/29-04-2025) που εμπίπτει στις διατάξεις της νομοθεσίας για Εγκαταστάσεις Κατασκευών Κεραιών Χαμηλής Ηλεκτρομαγνητικής Περιβαλλοντικής Όχλησης (ΕΚΚΧΟ).",
+  "measurements_eaee": "-",
+  "documents": [
+    {
+      "document_number": "545513/31-03-2025",
+      "protocol_number": "ΦΩΤΟΓΡΑΦΙΑ/31-03-2025",
+      "type": "Φωτογραφικό Υλικό - Σκαρίφημα",
+      "file_url": "https://silia.eett.gr/silia/download/WayEmP1bWrVyMn6hxwZozrbHYRvqk18hFvaP"
+    },
+    {
+      "document_number": "547801/28-04-2025",
+      "protocol_number": "ΜΕΛΕΤΗ/28-04-2025",
+      "type": "Αίτηση - Μελέτη Ραδιοεκπομπών ΕΕΑΕ",
+      "file_url": "https://silia.eett.gr/silia/download/udb1DsMZXAzL4qebVwBgHWGrzXGPGsgEUiOf"
+    },
+    {
+      "document_number": "547862/29-04-2025",
+      "protocol_number": "Αρχείο Αίτησης/29-04-2025",
+      "type": "Δήλωση ΕΚΚΧΟ",
+      "file_url": "https://silia.eett.gr/silia/download/0E4IMpH2tAmKODYufn4ZrWmuN8cZtwMoRHMm"
+    },
+    {
+      "document_number": "555751/18-07-2025",
+      "protocol_number": "ΥΠ.ΔΗΛΩΣΗ/18-07-2025",
+      "type": "Άλλο",
+      "file_url": "https://silia.eett.gr/silia/download/48VvzKr6PrKxqoPVDHGQZWwVWHKf5NOwISRw"
+    }
+  ]
+}

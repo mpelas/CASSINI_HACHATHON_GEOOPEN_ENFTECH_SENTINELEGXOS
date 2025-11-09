@@ -1,0 +1,39 @@
+{
+  "antenna_id": "152536",
+  "address": "ΑΡΑΧΩΒΑ ΔΗΜΟΣ ΝΑΥΠΑΚΤΙΑΣ ΠΕΡ. ΣΤΕΡΕΑΣ ΕΛΛΑΔΑΣ",
+  "position_code": 3207210,
+  "municipality": "Ναυπακτίας",
+  "code_name": "ΑΡΑΧΩΒΑ-Δ",
+  "region": "Δυτικής Ελλάδας",
+  "latitude": 38.688611,
+  "company": "ΕΡΤ ΑΕ",
+  "longitude": 21.864167,
+  "permit_status": "Από τα στοιχεία που τηρούνται στην Ενημερωτική Πύλη προκύπτει ότι για τη  θέση \"ΑΡΑΧΩΒΑ ΔΗΜΟΣ ΝΑΥΠΑΚΤΙΑΣ ΠΕΡ. ΣΤΕΡΕΑΣ ΕΛΛΑΔΑΣ\" στον Δήμο Ναυπακτίας Περιφέρειας  Δυτικής Ελλάδας έχει κατατεθεί από την εταιρία ΕΡΤ ΑΕ δήλωση δομικών κατασκευών κεραιών  \nμε αριθ. πρωτ. ΣΗΛΥΑ 38164/09-04-2020 κατά τα οριζόμενα στην παρ. 7 του άρθρου 34 του Ν.4635/2019.",
+  "measurements_eaee": "-",
+  "documents": [
+    {
+      "document_number": "400185/26-03-2020",
+      "protocol_number": "δορυφορική λήψη και στοιχεία δομικών κατασκευών/",
+      "type": "Άλλο",
+      "file_url": "https://silia.eett.gr/silia/download/242071aa-895c-45e4-a5b8-e01470a8394f"
+    },
+    {
+      "document_number": "400479/30-03-2020",
+      "protocol_number": "απογραφή 1987/",
+      "type": "Άλλο",
+      "file_url": "https://silia.eett.gr/silia/download/cf86f33a-7430-4e97-9650-3a31d6539e42"
+    },
+    {
+      "document_number": "400480/30-03-2020",
+      "protocol_number": "πίνακας 49 απογραφής ΕΡΤ 1987/",
+      "type": "Άλλο",
+      "file_url": "https://silia.eett.gr/silia/download/fd341fab-8ffe-4197-ac38-ec46908eda60"
+    },
+    {
+      "document_number": "401841/09-04-2020",
+      "protocol_number": "Αρχείο Αίτησης/",
+      "type": "Δήλωση Δομικών ΕΡΤ",
+      "file_url": "https://silia.eett.gr/silia/download/621a790e-e7f3-4b42-a861-725b55a8d96d"
+    }
+  ]
+}

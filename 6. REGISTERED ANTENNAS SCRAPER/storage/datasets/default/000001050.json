@@ -1,0 +1,51 @@
+{
+  "antenna_id": "168195",
+  "address": "ΑΓΡΙΑ",
+  "position_code": 1424811,
+  "municipality": "Βόλου",
+  "code_name": "AGRIA_TK",
+  "region": "Θεσσαλίας",
+  "latitude": 39.340556,
+  "company": "OTE",
+  "longitude": 23.009167,
+  "permit_status": "Από τα στοιχεία που τηρούνται στην Ενημερωτική Πύλη προκύπτει ότι, για τη θέση \" ΑΓΡΙΑ\" στον Δήμο Βόλου Περιφέρειας  Θεσσαλίας \n\t(κωδικός αριθμός θέσης 1424811, κωδική ονομασία \" AGRIA_TK \") έχει κατατεθεί από την εταιρία OTE\tδήλωση εγκατάστασης κατασκευής κεραίας (αριθ. πρωτ. \n\t51501/02-05-2023) που εμπίπτει στις διατάξεις της νομοθεσίας για Εγκαταστάσεις Κατασκευών Κεραιών Χαμηλής Ηλεκτρομαγνητικής Περιβαλλοντικής Όχλησης (ΕΚΚΧΟ).",
+  "measurements_eaee": "-",
+  "documents": [
+    {
+      "document_number": "483711/02-05-2023",
+      "protocol_number": "ΜΕΣΩ ΣΗΛΥΑ/",
+      "type": "Αίτηση - Μελέτη Ραδιοεκπομπών ΕΕΑΕ",
+      "file_url": "https://silia.eett.gr/silia/download/beca46d7-f65a-485a-ab05-969df935adcb"
+    },
+    {
+      "document_number": "483712/02-05-2023",
+      "protocol_number": "ΣΚΑΡΙΦΗΜΑ/",
+      "type": "Φωτογραφικό Υλικό - Σκαρίφημα",
+      "file_url": "https://silia.eett.gr/silia/download/7e3b932a-41c0-48f0-a57e-0056fc21d00a"
+    },
+    {
+      "document_number": "483713/02-05-2023",
+      "protocol_number": "ΣΚΑΡΙΦΗΜΑ/",
+      "type": "Φωτογραφικό Υλικό - Σκαρίφημα",
+      "file_url": "https://silia.eett.gr/silia/download/b21276fb-d5a4-4cf4-b402-6f1b52f1c79e"
+    },
+    {
+      "document_number": "483722/02-05-2023",
+      "protocol_number": "Αρχείο Αίτησης/",
+      "type": "Δήλωση ΕΚΚΧΟ",
+      "file_url": "https://silia.eett.gr/silia/download/4407e968-f303-44cb-8c28-dc19af0c38e5"
+    },
+    {
+      "document_number": "485390/23-05-2023",
+      "protocol_number": "58180 (ΚΟΙΝΟΠΟΙΗΣΗ ΓΕΑ)/23-05-2023",
+      "type": "Άλλο",
+      "file_url": "https://silia.eett.gr/silia/download/3f3127ba-13fc-4bbd-bafe-f4affe1abd38"
+    },
+    {
+      "document_number": "518422/20-06-2024",
+      "protocol_number": "ΥΠ.ΔΗΛΩΣΗ/20-06-2024",
+      "type": "Άλλο",
+      "file_url": "https://silia.eett.gr/silia/download/848fUch8T7S9S8uRlSV14xUx5Fzkr4mHagPq"
+    }
+  ]
+}

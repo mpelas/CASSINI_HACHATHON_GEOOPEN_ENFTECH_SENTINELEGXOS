@@ -1,0 +1,45 @@
+{
+  "antenna_id": "144534",
+  "address": "ΠΛΑΤΕΙΑ ΝΥΜΦΩΝ - ΓΛΥΦΑΔΑ",
+  "position_code": 1219526,
+  "municipality": "Γλυφάδας",
+  "code_name": "ΓΛΥΦΑΔΑ ΝΥΜΦΩΝ SQ MICRO",
+  "region": "Αττικής",
+  "latitude": 37.860278,
+  "company": "NOVA Μ.Α.Ε.",
+  "longitude": 23.755556,
+  "permit_status": "Από τα στοιχεία που τηρούνται στην Ενημερωτική Πύλη προκύπτει ότι, για τη θέση \"ΠΛΑΤΕΙΑ ΝΥΜΦΩΝ - ΓΛΥΦΑΔΑ\" στον Δήμο Γλυφάδας Περιφέρειας  Αττικής \n\t(κωδικός αριθμός θέσης 1219526, κωδική ονομασία \"ΓΛΥΦΑΔΑ ΝΥΜΦΩΝ SQ MICRO\") έχει κατατεθεί από την εταιρία NOVA Μ.Α.Ε.\tδήλωση εγκατάστασης κατασκευής κεραίας (αριθ. πρωτ. \n\t34848/10-10-2019) που εμπίπτει στις διατάξεις της νομοθεσίας για Εγκαταστάσεις Κατασκευών Κεραιών Χαμηλής Ηλεκτρομαγνητικής Περιβαλλοντικής Όχλησης (ΕΚΚΧΟ).",
+  "measurements_eaee": "-",
+  "documents": [
+    {
+      "document_number": "378658/08-10-2019",
+      "protocol_number": "ΦΩΤΟΓΡΑΦΙΑ ΚΕΡΑΙΩΝ ΕΚΚΧΟ/",
+      "type": "Φωτογραφικό Υλικό - Σκαρίφημα",
+      "file_url": "https://silia.eett.gr/silia/download/877c63de-15d9-4240-9619-dea70e5f6cae"
+    },
+    {
+      "document_number": "378659/08-10-2019",
+      "protocol_number": "ΦΩΤΟΓΡΑΦΙΑ ΚΕΡΑΙΩΝ ΕΚΚΧΟ/",
+      "type": "Φωτογραφικό Υλικό - Σκαρίφημα",
+      "file_url": "https://silia.eett.gr/silia/download/4d41c987-7004-4dc9-8ad2-6539d3272c2a"
+    },
+    {
+      "document_number": "379100/10-10-2019",
+      "protocol_number": "ΜΕΛΕΤΗ ΣΥΜΒΑΤΟΤΗΤΑΣ ΣΤΑΘΜΟΥ/",
+      "type": "Μελέτη για τη ζώνη  2,6GHz",
+      "file_url": "https://silia.eett.gr/silia/download/ae132bfc-2924-4055-917e-5b6a872f7fd5"
+    },
+    {
+      "document_number": "379101/10-10-2019",
+      "protocol_number": "ΜΕΛΕΤΗ ΣΥΜΒΑΤΟΤΗΤΑΣ ΣΤΑΘΜΟΥ VODAFONE/",
+      "type": "Μελέτη για τη ζώνη  2,6GHz",
+      "file_url": "https://silia.eett.gr/silia/download/8e38f028-bc9e-4d11-9a7d-b6ad7d32d2e1"
+    },
+    {
+      "document_number": "379105/10-10-2019",
+      "protocol_number": "Αρχείο Αίτησης/",
+      "type": "Δήλωση ΕΚΚΧΟ",
+      "file_url": "https://silia.eett.gr/silia/download/aadfbb8c-49aa-4db5-aade-3fccaa0d86a9"
+    }
+  ]
+}

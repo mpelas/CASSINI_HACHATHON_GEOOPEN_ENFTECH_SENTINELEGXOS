@@ -1,0 +1,99 @@
+{
+  "antenna_id": "176456",
+  "address": "ΕΠΙ ΤΗΣ ΟΔΟΥ ΚΑΚΑΡΑ , Ο.Τ.47",
+  "position_code": 1402319,
+  "municipality": "Ερέτριας",
+  "code_name": "ΑΜΑΡΥΝΘΟΣ ΤΚ",
+  "region": "Στερεάς Ελλάδας",
+  "latitude": 38.393056,
+  "company": "OTE",
+  "longitude": 23.885,
+  "permit_status": "Από τα στοιχεία που τηρούνται στην Ενημερωτική Πύλη προκύπτει ότι, για τη θέση \"ΕΠΙ ΤΗΣ ΟΔΟΥ ΚΑΚΑΡΑ , Ο.Τ.47\" στον Δήμο Ερέτριας Περιφέρειας  Στερεάς Ελλάδας \n\t(κωδικός αριθμός θέσης 1402319, κωδική ονομασία \"ΑΜΑΡΥΝΘΟΣ ΤΚ\") χορηγήθηκε, με την Απόφαση της ΕΕΤΤ \n52482/02-05-2025, άδεια κατασκευής κεραίας στην εταιρία OTE. \nΑπό τo έγγραφο της άδειας μπορείτε να ενημερωθείτε για τις σχετικές εγκρίσεις των συναρμόδιων φορέων, καθώς και εάν πρόκειται για τροποποίηση παλαιότερης άδειας.\n\tΣύμφωνα με τα στοιχεία που έχουν υποβληθεί στο ΣΗΛΥΑ, ο κάτοχος της κατασκευής κεραίας έχει δηλώσει ότι θα προβεί σε έκδοση έγκρισης δομικών κατασκευών \n\t\tκεραίας μέσω του e-Άδειες \n\t\tμετά την έκδοση της άδειας κατασκευής κεραίας / δημοσιοποίηση της δήλωσης τροποποίησης της κατασκευής κεραίας",
+  "measurements_eaee": "-",
+  "documents": [
+    {
+      "document_number": "533046/20-11-2024",
+      "protocol_number": "ΤΟΠΟΓΡΑΦΙΚΟ/20-11-2024",
+      "type": "Τοπογραφικό",
+      "file_url": "https://silia.eett.gr/silia/download/k0rRGsdks8enpVZn0k9lxvKCQbeGfuMLpVVO"
+    },
+    {
+      "document_number": "533047/20-11-2024",
+      "protocol_number": "ΑΡΧΙΤΕΚΤΟΝΙΚΑ/20-11-2024",
+      "type": "Αρχιτεκτονικά Σχέδια",
+      "file_url": "https://silia.eett.gr/silia/download/zwX9KuPYykvPu0KL6Z31PEgoXZMxeYnZDNqg"
+    },
+    {
+      "document_number": "533048/20-11-2024",
+      "protocol_number": "65218/24-05-2024",
+      "type": "Επιστολή Ενημέρωσης προς Αρμόδιο Φορέα",
+      "file_url": "https://silia.eett.gr/silia/download/0QEc6tFMaefDEqVb1pWOvziwg4BXWtkr1lZE"
+    },
+    {
+      "document_number": "533049/20-11-2024",
+      "protocol_number": "Δ3/Δ/22917/4924/26-06-2003",
+      "type": "Γνωμάτευση ΥΠΑ",
+      "file_url": "https://silia.eett.gr/silia/download/pVOTQzX4migot9gG90UU9Hga0rFKDQhWT6iX"
+    },
+    {
+      "document_number": "533050/20-11-2024",
+      "protocol_number": "Δ3/Δ/2505/28-03-2005",
+      "type": "Γνωμάτευση ΥΠΑ",
+      "file_url": "https://silia.eett.gr/silia/download/4IhWChoRC2d1ScvMxGIa1YR4HMCXX6wlQ31K"
+    },
+    {
+      "document_number": "533051/20-11-2024",
+      "protocol_number": "Δ3/Δ/279/13-01-2012",
+      "type": "Γνωμάτευση ΥΠΑ",
+      "file_url": "https://silia.eett.gr/silia/download/KBuSYcNrYv0R2yBEdgxlVouf76dHoDZXwbfF"
+    },
+    {
+      "document_number": "533052/20-11-2024",
+      "protocol_number": "ΜΕΣΩ ΣΗΛΥΑ/20-11-2024",
+      "type": "Αίτηση ΥΠΑ",
+      "file_url": "https://silia.eett.gr/silia/download/cLbpndTpGZysEM4oNSV9soPRd1cgSTsOBvkd"
+    },
+    {
+      "document_number": "533917/27-11-2024",
+      "protocol_number": "ΜΕΛΕΤΗ Ρ/Ε/08-05-2024",
+      "type": "Αίτηση - Μελέτη Ραδιοεκπομπών ΕΕΑΕ",
+      "file_url": "https://silia.eett.gr/silia/download/Bx2wDw7arhHUgYzyZYogM5ngNQRo70Mk2Lvk"
+    },
+    {
+      "document_number": "533923/27-11-2024",
+      "protocol_number": "Αρχείο Αίτησης/27-11-2024",
+      "type": "Αίτηση Άδειας Κατασκευής Κεραίας ΕΕΤΤ",
+      "file_url": "https://silia.eett.gr/silia/download/ggvirNw9FtwsveTiv2QZP91d3hg1yFo439x0"
+    },
+    {
+      "document_number": "538135/17-01-2025",
+      "protocol_number": "ΚΓ/Δ3/Δ/832/17-01-2025",
+      "type": "Γνωμάτευση ΥΠΑ",
+      "file_url": "https://silia.eett.gr/silia/download/BHfxkxMbuDCgT3vTLOdplz5hGi8x0fY3EhMM"
+    },
+    {
+      "document_number": "542241/27-02-2025",
+      "protocol_number": "TMIA/411/2877/2025/21-02-2025",
+      "type": "Γνωμάτευση ΕΕΑΕ",
+      "file_url": "https://silia.eett.gr/silia/download/uXHgFSrMflTCVqo40NZCg30EPTgVCPOsZAGd"
+    },
+    {
+      "document_number": "548405/06-05-2025",
+      "protocol_number": "52482/02-05-2025",
+      "type": "Άδεια Κατασκευής  Κεραίας",
+      "file_url": "https://silia.eett.gr/silia/download/LgAnGcfWo2GTwYwHsLGc6V3frHvga3nMb9x1"
+    },
+    {
+      "document_number": "533056/20-11-2024",
+      "protocol_number": "ΠΠΔ/20-11-2024",
+      "type": "Δήλωση υπαγωγής σε ΠΠΔ και Συνοδευτικά Έγγραφα",
+      "file_url": "https://silia.eett.gr/silia/download/vrL6ot624pK2WCcz6gL2Q5LaobYf4y30Po2m"
+    },
+    {
+      "document_number": "533926/27-11-2024",
+      "protocol_number": "Αρχείο Αίτησης/27-11-2024",
+      "type": "Δήλωση ΠΠΔ",
+      "file_url": "https://silia.eett.gr/silia/download/nnwZhxBLx4hxxDl68G801BcqiGBAxz8IxgvL"
+    }
+  ]
+}

@@ -1,0 +1,51 @@
+{
+  "antenna_id": "142700",
+  "address": "Θέση Πριόνια πλησίον Βατοπεδίου",
+  "position_code": 8000892,
+  "municipality": "Πολυγύρου",
+  "code_name": "Βατοπέδι",
+  "region": "Κεντρικής Μακεδονίας",
+  "latitude": 40.252222,
+  "company": "GREEKSTREAM NETWORKS",
+  "longitude": 23.581667,
+  "permit_status": "Από τα στοιχεία που τηρούνται στην Ενημερωτική Πύλη προκύπτει ότι, για τη θέση \"Θέση Πριόνια πλησίον Βατοπεδίου\" στον Δήμο Πολυγύρου Περιφέρειας  Κεντρικής Μακεδονίας \n\t(κωδικός αριθμός θέσης 8000892, κωδική ονομασία \"Βατοπέδι\") έχει κατατεθεί από την εταιρία GREEKSTREAM NETWORKS\tδήλωση εγκατάστασης κατασκευής κεραίας (αριθ. πρωτ. \n\t33178/08-06-2019) που εμπίπτει στις διατάξεις της νομοθεσίας για Εγκαταστάσεις Κατασκευών Κεραιών Χαμηλής Ηλεκτρομαγνητικής Περιβαλλοντικής Όχλησης (ΕΚΚΧΟ).",
+  "measurements_eaee": "-",
+  "documents": [
+    {
+      "document_number": "367509/08-06-2019",
+      "protocol_number": "Σχέδιο κάτοψης ΕΚΚΧΟ/08-06-2019",
+      "type": "Φωτογραφικό Υλικό - Σκαρίφημα",
+      "file_url": "https://silia.eett.gr/silia/download/62112155-4d2d-49b4-aa74-80d584a7b2ba"
+    },
+    {
+      "document_number": "367510/08-06-2019",
+      "protocol_number": "Σχέδιο όψης ΕΚΚΧΟ/08-06-2019",
+      "type": "Φωτογραφικό Υλικό - Σκαρίφημα",
+      "file_url": "https://silia.eett.gr/silia/download/4632bbae-085b-45c0-a67c-03d10d406808"
+    },
+    {
+      "document_number": "367511/08-06-2019",
+      "protocol_number": "Σχέδιο κάτοψης κεραιών/08-06-2019",
+      "type": "Φωτογραφικό Υλικό - Σκαρίφημα",
+      "file_url": "https://silia.eett.gr/silia/download/8a8fd23a-c638-4d4c-897e-271be2b4caec"
+    },
+    {
+      "document_number": "367512/08-06-2019",
+      "protocol_number": "Σχέδιο κάτοψης χώρου προστασίας/08-06-2019",
+      "type": "Φωτογραφικό Υλικό - Σκαρίφημα",
+      "file_url": "https://silia.eett.gr/silia/download/a90c0851-1e1d-43e7-b1ac-9bc8c7360fff"
+    },
+    {
+      "document_number": "367513/08-06-2019",
+      "protocol_number": "Σχέδιο όψης χώρου προστασίας/08-06-2019",
+      "type": "Φωτογραφικό Υλικό - Σκαρίφημα",
+      "file_url": "https://silia.eett.gr/silia/download/de84399a-d1b1-4744-bde8-58482186bc01"
+    },
+    {
+      "document_number": "367514/08-06-2019",
+      "protocol_number": "Αρχείο Αίτησης/",
+      "type": "Δήλωση ΕΚΚΧΟ",
+      "file_url": "https://silia.eett.gr/silia/download/ad6f11e8-f865-4980-bb3d-6d4750491ba2"
+    }
+  ]
+}

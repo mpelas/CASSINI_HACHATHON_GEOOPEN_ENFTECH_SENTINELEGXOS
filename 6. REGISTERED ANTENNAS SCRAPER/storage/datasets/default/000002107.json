@@ -1,0 +1,81 @@
+{
+  "antenna_id": "133446",
+  "address": "ΛΕΩΦ. ΒΥΖΑΝΤΙΟΥ 151, ΚΑΛΟΓΡΕΖΑ",
+  "position_code": 1104737,
+  "municipality": "Νέας Ιωνίας",
+  "code_name": "ΔΕΜΙΡΔΕΣΙΟΥ ΝΕΑ ΙΩΝΙΑ",
+  "region": "Αττικής",
+  "latitude": 38.035,
+  "company": "VODAFONE",
+  "longitude": 23.771111,
+  "permit_status": "Από τα στοιχεία που τηρούνται στην Ενημερωτική Πύλη προκύπτει ότι, για τη θέση \"ΛΕΩΦ. ΒΥΖΑΝΤΙΟΥ 151, ΚΑΛΟΓΡΕΖΑ\" στον Δήμο Νέας Ιωνίας Περιφέρειας  Αττικής \n\t(κωδικός αριθμός θέσης 1104737, κωδική ονομασία \"ΔΕΜΙΡΔΕΣΙΟΥ ΝΕΑ ΙΩΝΙΑ\") χορηγήθηκε, με την Απόφαση της ΕΕΤΤ \n37341/23-10-2020, άδεια κατασκευής κεραίας στην εταιρία VODAFONE. \nΑπό τo έγγραφο της άδειας μπορείτε να ενημερωθείτε για τις σχετικές εγκρίσεις των συναρμόδιων φορέων, καθώς και εάν πρόκειται για τροποποίηση παλαιότερης άδειας.\nΗ άδεια χορηγήθηκε με τη διαδικασία αδειοδότησης που ορίζει ο ν. 4635/2019, κατόπιν της με αριθ. πρωτ. 28006/19-06-2018 \n\tαίτησης, και βάσει σχετικής δήλωσης του κατόχου της περί υπαγωγή της κατασκευής κεραίας στο άρθρο 34 του ν. 4635/2019.",
+  "measurements_eaee": "-",
+  "documents": [
+    {
+      "document_number": "332477/13-06-2018",
+      "protocol_number": "ΜΕΛΕΤΗ ΡΑΔΙΟΕΚΠΟΜΠΩΝ/06-06-2018",
+      "type": "Αίτηση - Μελέτη Ραδιοεκπομπών ΕΕΑΕ",
+      "file_url": "https://silia.eett.gr/silia/download/32f2bcaf-4083-406e-98e3-4c5ed49d9a8a"
+    },
+    {
+      "document_number": "333007/19-06-2018",
+      "protocol_number": "Δ3/Δ/1274/321/29-01-2010",
+      "type": "Γνωμάτευση ΥΠΑ",
+      "file_url": "https://silia.eett.gr/silia/download/73619002-13bd-4ad2-b0cc-8f69f53f940f"
+    },
+    {
+      "document_number": "333008/19-06-2018",
+      "protocol_number": "ΜΕΛΕΤΗ ΥΠΟΒΑΘΡΟΥ/18-06-2018",
+      "type": "Αίτηση - Μελέτη Ραδιοεκπομπών ΕΕΑΕ (υποβάθρου)",
+      "file_url": "https://silia.eett.gr/silia/download/8194fed4-304b-4d25-ac8f-a6dec9d00fa5"
+    },
+    {
+      "document_number": "333009/19-06-2018",
+      "protocol_number": "ΤΟΠΟΓΡΑΦΙΚΟ /",
+      "type": "Τοπογραφικό",
+      "file_url": "https://silia.eett.gr/silia/download/171729f7-6580-40fd-bb18-76830fe4ba62"
+    },
+    {
+      "document_number": "333010/19-06-2018",
+      "protocol_number": "ΑΡΧΙΤΕΚΤΟΝΙΚΑ/",
+      "type": "Αρχιτεκτονικά Σχέδια",
+      "file_url": "https://silia.eett.gr/silia/download/7cd1c644-5777-45db-b1fb-6f54a177bcf0"
+    },
+    {
+      "document_number": "333012/19-06-2018",
+      "protocol_number": "Αρχείο Αίτησης/",
+      "type": "Αίτηση Άδειας Κατασκευής Κεραίας ΕΕΤΤ",
+      "file_url": "https://silia.eett.gr/silia/download/ab8fae10-c8fe-40fc-9a41-a7e678357bd9"
+    },
+    {
+      "document_number": "341998/26-09-2018",
+      "protocol_number": "Μ.ι./411/12824/2018/12-09-2018",
+      "type": "Γνωμάτευση ΕΕΑΕ",
+      "file_url": "https://silia.eett.gr/silia/download/726c2b83-e099-4e9d-995e-515dc55b098a"
+    },
+    {
+      "document_number": "420422/29-10-2020",
+      "protocol_number": "37341/23-10-2020",
+      "type": "Άδεια Κατασκευής  Κεραίας",
+      "file_url": "https://silia.eett.gr/silia/download/6b48b980-8cc4-45d2-a8c4-54917fda99ac"
+    },
+    {
+      "document_number": "332478/13-06-2018",
+      "protocol_number": "ΜΕΛΕΤΗ ΡΑΔΙΟΕΚΠΟΜΠΩΝ/06-06-2018",
+      "type": "Αίτηση - Μελέτη Ραδιοεκπομπών ΕΕΑΕ",
+      "file_url": "https://silia.eett.gr/silia/download/32f2bcaf-4083-406e-98e3-4c5ed49d9a8a"
+    },
+    {
+      "document_number": "332862/18-06-2018",
+      "protocol_number": "ΣΥΝΟΔΕΥΤΙΚΑ ΕΓΓΡΑΦΑ ΠΠΔ/",
+      "type": "Δήλωση υπαγωγής σε ΠΠΔ και Συνοδευτικά Έγγραφα",
+      "file_url": "https://silia.eett.gr/silia/download/db6b73a2-5b65-446e-87de-39b13d2664d1"
+    },
+    {
+      "document_number": "333013/19-06-2018",
+      "protocol_number": "Αρχείο Αίτησης/",
+      "type": "Δήλωση ΠΠΔ",
+      "file_url": "https://silia.eett.gr/silia/download/12e6b1de-ee41-43bc-aa2d-3bd06fb668d6"
+    }
+  ]
+}

@@ -1,0 +1,123 @@
+{
+  "antenna_id": "177037",
+  "address": "ΟΔΟΣ ΔΗΜΟΚΡΑΤΙΑΣ 2",
+  "position_code": 1292460,
+  "municipality": "Ηγουμενίτσας",
+  "code_name": "IGOUMENITSA PORT",
+  "region": "Ηπείρου",
+  "latitude": 39.490278,
+  "company": "NOVA Μ.Α.Ε.",
+  "longitude": 20.264444,
+  "permit_status": "Από τα στοιχεία που τηρούνται στην Ενημερωτική Πύλη προκύπτει ότι, για τη θέση \"ΟΔΟΣ ΔΗΜΟΚΡΑΤΙΑΣ 2\" στον Δήμο Ηγουμενίτσας Περιφέρειας  Ηπείρου \n\t(κωδικός αριθμός θέσης 1292460, κωδική ονομασία \"IGOUMENITSA PORT\") χορηγήθηκε, με την Απόφαση της ΕΕΤΤ \n52442/11-04-2025, άδεια κατασκευής κεραίας στην εταιρία NOVA Μ.Α.Ε.. \nΑπό τo έγγραφο της άδειας μπορείτε να ενημερωθείτε για τις σχετικές εγκρίσεις των συναρμόδιων φορέων, καθώς και εάν πρόκειται για τροποποίηση παλαιότερης άδειας.\n\tΣύμφωνα με τα στοιχεία που έχουν υποβληθεί στο ΣΗΛΥΑ, ο κάτοχος της κατασκευής κεραίας έχει δηλώσει ότι θα προβεί σε έκδοση έγκρισης δομικών κατασκευών \n\t\tκεραίας μέσω του e-Άδειες \n\t\tμετά την έκδοση της άδειας κατασκευής κεραίας / δημοσιοποίηση της δήλωσης τροποποίησης της κατασκευής κεραίας",
+  "measurements_eaee": "-",
+  "documents": [
+    {
+      "document_number": "536906/31-12-2024",
+      "protocol_number": "ΣΥΝΗΜΜΕΝΟΣ ΜΕ ΤΗΝ ΚΑΤΑΘΕΣΗ ΣΤΗΝ ΥΠΑ/31-12-2024",
+      "type": "Απόσπασμα Χάρτη ΓΥΣ 1:50.000",
+      "file_url": "https://silia.eett.gr/silia/download/iPhno0OMrxw64UQhk4GmfYogqK1XvEDA3PAS"
+    },
+    {
+      "document_number": "536907/31-12-2024",
+      "protocol_number": "ΣΥΝΗΜΜΕΝΗ ΜΕ ΤΗΝ ΚΑΤΑΘΕΣΗ ΣΤΗΝ ΕΕΑΕ/31-12-2024",
+      "type": "Αίτηση - Μελέτη Ραδιοεκπομπών ΕΕΑΕ",
+      "file_url": "https://silia.eett.gr/silia/download/pZmhvGcD0ofgnvX3uNXSzbuIV6N5eU2G5V61"
+    },
+    {
+      "document_number": "536908/31-12-2024",
+      "protocol_number": "ΣΥΝΗΜΜΕΝΑ ΜΕ ΤΗΝ ΚΑΤΑΘΕΣΗ ΣΤΗΝ ΕΕΑΕ/31-12-2024",
+      "type": "Αρχιτεκτονικά Σχέδια",
+      "file_url": "https://silia.eett.gr/silia/download/2ZVz6T53kGa28mKhGB0BEPxU46GQrIUmUeDH"
+    },
+    {
+      "document_number": "536909/31-12-2024",
+      "protocol_number": "ΣΥΝΗΜΜΕΝΟ ΜΕ ΤΗΝ ΚΑΤΑΘΕΣΗ ΣΤΗΝ ΕΕΑΕ/31-12-2024",
+      "type": "Τοπογραφικό",
+      "file_url": "https://silia.eett.gr/silia/download/7c6BRG77Shg4HHwtzCGUUWm74FdUWbn6RgA7"
+    },
+    {
+      "document_number": "536910/31-12-2024",
+      "protocol_number": "ΣΥΝΗΜΜΕΝΗ ΜΕ ΤΗΝ ΚΑΤΑΘΕΣΗ ΣΤΗΝ ΕΕΤΤ/22-12-2024",
+      "type": "Βεβαίωση πολιτικού μηχανικού",
+      "file_url": "https://silia.eett.gr/silia/download/9M1w0XWpG9BpBU4BUKGW3UUefOflgQ0vrD27"
+    },
+    {
+      "document_number": "536911/31-12-2024",
+      "protocol_number": "ΥΠΕΥΘΥΝΗ ΔΗΛΩΣΗ ΔΙΑΣΥΝΔΕΣΗΣ VODAFONE/27-12-2024",
+      "type": "Άλλο",
+      "file_url": "https://silia.eett.gr/silia/download/s6G5XmyG0OAlAgRblGQYEWgn7Y1S8AG8K82I"
+    },
+    {
+      "document_number": "536912/31-12-2024",
+      "protocol_number": "ΥΠΕΥΘΥΝΗ ΔΗΛΩΣΗ ΚΟΙΝΗΣ ΧΡΗΣΗΣ VODAFONE/27-12-2024",
+      "type": "Άλλο",
+      "file_url": "https://silia.eett.gr/silia/download/pdXzgtywDWyGNMPCLBIyezWeAVyUkHK8Ox3u"
+    },
+    {
+      "document_number": "536918/31-12-2024",
+      "protocol_number": "Αρχείο Αίτησης/31-12-2024",
+      "type": "Αίτηση Άδειας Κατασκευής Κεραίας ΕΕΤΤ",
+      "file_url": "https://silia.eett.gr/silia/download/f0UHS5gki4gxR8fmS3Yo2tCnbye5qL1huFqF"
+    },
+    {
+      "document_number": "536970/02-01-2025",
+      "protocol_number": "ΥΠΕΥΘΥΝΗ ΔΗΛΩΣΗ ΔΙΑΣΥΝΔΕΣΗΣ NOVA/27-12-2024",
+      "type": "Άλλο",
+      "file_url": "https://silia.eett.gr/silia/download/XW9QvB5tWWD1hUHlLF95eK3um9KDDtC1Wk8a"
+    },
+    {
+      "document_number": "538169/17-01-2025",
+      "protocol_number": "ΚΓ/Δ3/Δ/834/17-01-2025",
+      "type": "Γνωμάτευση ΥΠΑ",
+      "file_url": "https://silia.eett.gr/silia/download/yx8RSX1cdW8vexNiI9dOM1RQd0m6pXRGG9IF"
+    },
+    {
+      "document_number": "543456/12-03-2025",
+      "protocol_number": "ΤΜΙΑ/411/3633/2025/10-03-2025",
+      "type": "Γνωμάτευση ΕΕΑΕ",
+      "file_url": "https://silia.eett.gr/silia/download/C6Tqq3rgEAyqPMrwvaZRoMh6NPql7nFd3SbU"
+    },
+    {
+      "document_number": "547826/29-04-2025",
+      "protocol_number": "52442/11-04-2025",
+      "type": "Άδεια Κατασκευής  Κεραίας",
+      "file_url": "https://silia.eett.gr/silia/download/cMEicukhie8yO23RpzUkDgnTBoQmXIoUBywE"
+    },
+    {
+      "document_number": "537872/15-01-2025",
+      "protocol_number": "ΣΥΝΗΜΜΕΝΗ ΜΕ ΤΗΝ ΚΑΤΑΘΕΣΗ ΣΤΗΝ ΕΕΑΕ/31-12-2024",
+      "type": "Αίτηση - Μελέτη Ραδιοεκπομπών ΕΕΑΕ",
+      "file_url": "https://silia.eett.gr/silia/download/pZmhvGcD0ofgnvX3uNXSzbuIV6N5eU2G5V61"
+    },
+    {
+      "document_number": "537873/15-01-2025",
+      "protocol_number": "ΣΥΝΗΜΜΕΝΗ ΜΕ ΤΗΝ ΚΑΤΑΘΕΣΗ ΣΤΗΝ ΕΕΤΤ/31-12-2024",
+      "type": "Αίτηση - Μελέτη Ραδιοεκπομπών ΕΕΑΕ (υποβάθρου)",
+      "file_url": "https://silia.eett.gr/silia/download/LZllfSmlB1KgPrgywLAY1bl7Wy6s3hgz12GS"
+    },
+    {
+      "document_number": "537874/15-01-2025",
+      "protocol_number": "ΣΥΝΗΜΜΕΝΟΣ ΜΕ ΤΗΝ ΚΑΤΑΘΕΣΗ ΣΤΗΝ ΕΕΤΤ/31-12-2024",
+      "type": "Χάρτης Χρήσεως Γης",
+      "file_url": "https://silia.eett.gr/silia/download/FK79BWXOTZe4ARCR8RXiOyalgkbGTUc5uTtb"
+    },
+    {
+      "document_number": "537875/15-01-2025",
+      "protocol_number": "575621/03-01-2025",
+      "type": "Έγκριση Αρμοδίου Φορέα",
+      "file_url": "https://silia.eett.gr/silia/download/u38TgOZm95Io6PFAatRPpgglfnyk02a0MiNR"
+    },
+    {
+      "document_number": "537876/15-01-2025",
+      "protocol_number": "574878/14-01-2025",
+      "type": "Γνωμοδότηση Υπηρεσίας Νεωτέρων Μνημείων",
+      "file_url": "https://silia.eett.gr/silia/download/1f5SefUeqByGymGQ9pLtm8AkXdvCvB7pTpYz"
+    },
+    {
+      "document_number": "537878/15-01-2025",
+      "protocol_number": "Αρχείο Αίτησης/15-01-2025",
+      "type": "Δήλωση ΠΠΔ",
+      "file_url": "https://silia.eett.gr/silia/download/K6UzdbmK2KM3Gv7rSynGSPB2D6g3Xy73BuaQ"
+    }
+  ]
+}

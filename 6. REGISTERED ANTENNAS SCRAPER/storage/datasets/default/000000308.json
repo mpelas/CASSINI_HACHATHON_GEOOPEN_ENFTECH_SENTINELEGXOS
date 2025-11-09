@@ -1,0 +1,39 @@
+{
+  "antenna_id": "169336",
+  "address": "ΧΑΡΙΛΑΟΥ ΤΡΙΚΟΥΠΗ 13, Δ. ΑΓΡΙΝΙΟΥ , Ν. ΑΙΤΩΛΟΑΚΑΡΝΑΝΙΑΣ",
+  "position_code": 1497702,
+  "municipality": "Αγρινίου",
+  "code_name": "HOL_KAT_POLISEON_AGRIN",
+  "region": "Δυτικής Ελλάδας",
+  "latitude": 38.623056,
+  "company": "OTE",
+  "longitude": 21.41,
+  "permit_status": "Από τα στοιχεία που τηρούνται στην Ενημερωτική Πύλη προκύπτει ότι, για τη θέση \"ΧΑΡΙΛΑΟΥ ΤΡΙΚΟΥΠΗ 13, Δ. ΑΓΡΙΝΙΟΥ , Ν. ΑΙΤΩΛΟΑΚΑΡΝΑΝΙΑΣ \" στον Δήμο Αγρινίου Περιφέρειας  Δυτικής Ελλάδας \n\t(κωδικός αριθμός θέσης 1497702, κωδική ονομασία \"HOL_KAT_POLISEON_AGRIN\") έχει κατατεθεί από την εταιρία OTE\tδήλωση εγκατάστασης κατασκευής κεραίας (αριθ. πρωτ. \n\t53954/28-11-2023) που εμπίπτει στις διατάξεις της νομοθεσίας για Εγκαταστάσεις Κατασκευών Κεραιών Χαμηλής Ηλεκτρομαγνητικής Περιβαλλοντικής Όχλησης (ΕΚΚΧΟ).",
+  "measurements_eaee": "-",
+  "documents": [
+    {
+      "document_number": "490503/19-07-2023",
+      "protocol_number": "ΦΩΤΟΓΡΑΦΙΑ/",
+      "type": "Φωτογραφικό Υλικό - Σκαρίφημα",
+      "file_url": "https://silia.eett.gr/silia/download/fbe696be-31cb-450a-883e-a915462382d1"
+    },
+    {
+      "document_number": "490504/19-07-2023",
+      "protocol_number": "ΦΩΤΟΓΡΑΦΙΑ/",
+      "type": "Φωτογραφικό Υλικό - Σκαρίφημα",
+      "file_url": "https://silia.eett.gr/silia/download/b70f8f3a-b992-42be-b5b0-f9dc45e47131"
+    },
+    {
+      "document_number": "501555/24-11-2023",
+      "protocol_number": "ΜΕΣΩ ΣΗΛΥΑ/",
+      "type": "Αίτηση - Μελέτη Ραδιοεκπομπών ΕΕΑΕ",
+      "file_url": "https://silia.eett.gr/silia/download/cd558cab-ae26-409d-9239-7669f13909fa"
+    },
+    {
+      "document_number": "501657/28-11-2023",
+      "protocol_number": "Αρχείο Αίτησης/",
+      "type": "Δήλωση ΕΚΚΧΟ",
+      "file_url": "https://silia.eett.gr/silia/download/9498c0a5-07cb-4566-9374-a8c1a2f90336"
+    }
+  ]
+}

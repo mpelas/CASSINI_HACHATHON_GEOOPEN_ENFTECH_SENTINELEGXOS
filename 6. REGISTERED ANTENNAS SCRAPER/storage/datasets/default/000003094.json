@@ -1,0 +1,63 @@
+{
+  "antenna_id": "175311",
+  "address": "LATOMIO SAMOY",
+  "position_code": 1441948,
+  "municipality": "Σάμου",
+  "code_name": "LATOMIO_SAMOY_MI",
+  "region": "Βορείου Αιγαίου",
+  "latitude": 37.719167,
+  "company": "OTE",
+  "longitude": 26.763611,
+  "permit_status": "Από τα στοιχεία που τηρούνται στην Ενημερωτική Πύλη προκύπτει ότι, για τη θέση \"LATOMIO SAMOY\" στον Δήμο Σάμου Περιφέρειας  Βορείου Αιγαίου \n\t(κωδικός αριθμός θέσης 1441948, κωδική ονομασία \"LATOMIO_SAMOY_MI\") έχει κατατεθεί από την εταιρία OTE\tδήλωση εγκατάστασης κατασκευής κεραίας (αριθ. πρωτ. \n\t57366/16-09-2024) που εμπίπτει στις διατάξεις της νομοθεσίας για Εγκαταστάσεις Κατασκευών Κεραιών Χαμηλής Ηλεκτρομαγνητικής Περιβαλλοντικής Όχλησης (ΕΚΚΧΟ).",
+  "measurements_eaee": "-",
+  "documents": [
+    {
+      "document_number": "525617/13-09-2024",
+      "protocol_number": "ΜΕΛΕΤΗ/13-09-2024",
+      "type": "Αίτηση - Μελέτη Ραδιοεκπομπών ΕΕΑΕ",
+      "file_url": "https://silia.eett.gr/silia/download/NVTk9ozfMuWQiOiMBwD2W3bYsU0BsGyisTAW"
+    },
+    {
+      "document_number": "525619/13-09-2024",
+      "protocol_number": "ΟΨΗ/13-09-2024",
+      "type": "Αρχιτεκτονικά [Κάτοψη - Τομή - Όψη]",
+      "file_url": "https://silia.eett.gr/silia/download/3PF4GQQKi1sCQx7dNwWEL3YOIhM8cGrkL8VZ"
+    },
+    {
+      "document_number": "525620/13-09-2024",
+      "protocol_number": "ΤΟΠΟΓΡΑΦΙΚΟ/13-09-2024",
+      "type": "Τοπογραφικό",
+      "file_url": "https://silia.eett.gr/silia/download/dsavlcXCRbB1oplt581sR9ucFNkkKCVCwGci"
+    },
+    {
+      "document_number": "525621/13-09-2024",
+      "protocol_number": "ΦΩΤΟΓΡΑΦΙΑ/13-09-2024",
+      "type": "Φωτογραφικό Υλικό - Σκαρίφημα",
+      "file_url": "https://silia.eett.gr/silia/download/3pWBpLcMvnWvpzEzubi9PlN9MnZ2NZbauiru"
+    },
+    {
+      "document_number": "525622/13-09-2024",
+      "protocol_number": "ΛΙΝΚ/13-09-2024",
+      "type": "Άλλο",
+      "file_url": "https://silia.eett.gr/silia/download/U710qQHRFigH0Gv0WQ9ei4eQSuSDSCODK3dE"
+    },
+    {
+      "document_number": "525798/16-09-2024",
+      "protocol_number": "ΚΑΤΟΨΗ/16-09-2024",
+      "type": "Φωτογραφικό Υλικό - Σκαρίφημα",
+      "file_url": "https://silia.eett.gr/silia/download/sRW03HrtTkIsBUU9766OP2w3g5BqIQP6YZUg"
+    },
+    {
+      "document_number": "525803/16-09-2024",
+      "protocol_number": "Αρχείο Αίτησης/16-09-2024",
+      "type": "Δήλωση ΕΚΚΧΟ",
+      "file_url": "https://silia.eett.gr/silia/download/QeDmfE3xYOUIRM7I7p7h7flSp5PscORwmqsL"
+    },
+    {
+      "document_number": "545374/31-03-2025",
+      "protocol_number": "ΥΠ.ΔΗΛΩΣΗ/31-03-2025",
+      "type": "Άλλο",
+      "file_url": "https://silia.eett.gr/silia/download/LCWiGKvxed0d9RntEikcRBmznExTi2FaMCoq"
+    }
+  ]
+}

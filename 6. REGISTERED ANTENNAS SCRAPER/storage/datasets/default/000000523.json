@@ -1,0 +1,93 @@
+{
+  "antenna_id": "160137",
+  "address": "ΚΤΙΡΙΟ ΟΤΕ ΕΠΙ ΤΗΣ ΟΔΟΥ ΧΑΤΖΗΑΝΤΩΝΙΟΥ 16",
+  "position_code": 1400056,
+  "municipality": "Αμαρουσίου",
+  "code_name": "ΜΑΡΟΥΣΙ",
+  "region": "Αττικής",
+  "latitude": 38.053889,
+  "company": "OTE",
+  "longitude": 23.806389,
+  "permit_status": "Από τα στοιχεία που τηρούνται στην Ενημερωτική Πύλη προκύπτει ότι, για τη θέση \"ΚΤΙΡΙΟ ΟΤΕ ΕΠΙ ΤΗΣ ΟΔΟΥ ΧΑΤΖΗΑΝΤΩΝΙΟΥ 16\" στον Δήμο Αμαρουσίου Περιφέρειας  Αττικής \n\t(κωδικός αριθμός θέσης 1400056, κωδική ονομασία \"ΜΑΡΟΥΣΙ\") χορηγήθηκε, με την Απόφαση της ΕΕΤΤ \n43592/31-03-2022, άδεια κατασκευής κεραίας στην εταιρία OTE. \nΑπό τo έγγραφο της άδειας μπορείτε να ενημερωθείτε για τις σχετικές εγκρίσεις των συναρμόδιων φορέων, καθώς και εάν πρόκειται για τροποποίηση παλαιότερης άδειας.",
+  "measurements_eaee": "-",
+  "documents": [
+    {
+      "document_number": "440159/02-09-2021",
+      "protocol_number": "ΜΕΣΩ ΣΗΛΥΑ/",
+      "type": "Τοπογραφικό",
+      "file_url": "https://silia.eett.gr/silia/download/002b2987-354d-4113-8225-d3777cbe29b9"
+    },
+    {
+      "document_number": "440160/02-09-2021",
+      "protocol_number": "ΜΕΣΩ ΣΗΛΥΑ/",
+      "type": "Αρχιτεκτονικά Σχέδια",
+      "file_url": "https://silia.eett.gr/silia/download/0d080700-1be6-454b-b386-47b69a282d0f"
+    },
+    {
+      "document_number": "440161/02-09-2021",
+      "protocol_number": "Δ3/Δ/48743/7438/01-12-1997",
+      "type": "Γνωμάτευση ΥΠΑ",
+      "file_url": "https://silia.eett.gr/silia/download/493fd166-688f-4682-bd1b-918e0371e955"
+    },
+    {
+      "document_number": "440162/02-09-2021",
+      "protocol_number": "ΜΕΣΩ ΣΗΛΥΑ/02-09-2021",
+      "type": "Αίτηση ΥΠΑ",
+      "file_url": "https://silia.eett.gr/silia/download/02ac51ec-9577-4cfa-a77f-04c6f7809aeb"
+    },
+    {
+      "document_number": "440163/02-09-2021",
+      "protocol_number": "ΜΕΣΩ ΣΗΛΥΑ/26-05-2021",
+      "type": "Αίτηση - Μελέτη Ραδιοεκπομπών ΕΕΑΕ",
+      "file_url": "https://silia.eett.gr/silia/download/499dd01b-de12-4fbf-b1a3-93c0c8b18451"
+    },
+    {
+      "document_number": "440164/02-09-2021",
+      "protocol_number": "ΜΕΛΕΤΗ  EMC/26-08-2021",
+      "type": "Αποτελέσματα μελέτης στη ζώνης 2.6GHz για ΥΠΑ/ΓΕΕΘΑ",
+      "file_url": "https://silia.eett.gr/silia/download/9af7339f-1c38-41ec-a9a5-5ba9f43f15a7"
+    },
+    {
+      "document_number": "440165/02-09-2021",
+      "protocol_number": "64057/10-06-2021",
+      "type": "Επιστολή Ενημέρωσης προς Αρμόδιο Φορέα",
+      "file_url": "https://silia.eett.gr/silia/download/d67c970b-3977-4191-acdd-2685fbac9ae8"
+    },
+    {
+      "document_number": "440167/02-09-2021",
+      "protocol_number": "Αρχείο Αίτησης/",
+      "type": "Αίτηση Άδειας Κατασκευής Κεραίας ΕΕΤΤ",
+      "file_url": "https://silia.eett.gr/silia/download/d55f810f-4c4f-42aa-97bd-52a8292a38a5"
+    },
+    {
+      "document_number": "441308/21-09-2021",
+      "protocol_number": "Δ3/Δ/32178/21-9-2021/21-09-2021",
+      "type": "Γνωμάτευση ΥΠΑ",
+      "file_url": "https://silia.eett.gr/silia/download/ddc43b11-f34a-4db3-8f8a-125b83a94361"
+    },
+    {
+      "document_number": "444270/19-10-2021",
+      "protocol_number": "Μ.ι./411/19186/2021/18-10-2021",
+      "type": "Γνωμάτευση ΕΕΑΕ",
+      "file_url": "https://silia.eett.gr/silia/download/019bfde8-0882-43a0-9f4c-70a36dc420f1"
+    },
+    {
+      "document_number": "454950/31-03-2022",
+      "protocol_number": "43592/29-03-2022",
+      "type": "Άδεια Κατασκευής  Κεραίας",
+      "file_url": "https://silia.eett.gr/silia/download/fc8b8836-57d5-4e16-93d5-68d77a801ad4"
+    },
+    {
+      "document_number": "440166/02-09-2021",
+      "protocol_number": "ΜΕΣΩ ΣΗΛΥΑ/",
+      "type": "Δήλωση υπαγωγής σε ΠΠΔ και Συνοδευτικά Έγγραφα",
+      "file_url": "https://silia.eett.gr/silia/download/fc4516d4-b72f-48e7-87d8-6ab7f0530ddd"
+    },
+    {
+      "document_number": "440168/02-09-2021",
+      "protocol_number": "Αρχείο Αίτησης/",
+      "type": "Δήλωση ΠΠΔ",
+      "file_url": "https://silia.eett.gr/silia/download/c319f80f-8b0c-445b-aa49-f6349f0f7648"
+    }
+  ]
+}

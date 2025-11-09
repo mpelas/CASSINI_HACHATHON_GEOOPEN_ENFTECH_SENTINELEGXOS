@@ -1,0 +1,87 @@
+{
+  "antenna_id": "169478",
+  "address": "ΛΕΩΦΟΡΟΣ ΔΗΜΟΚΡΑΤΙΑΣ 266Α, ΑΝΑΛΗΨΗ, ΔΗΜ. ΕΝΟΤΗΤΑ ΑΓ. ΑΝΑΡΓΥΡΩΝ",
+  "position_code": 1404119,
+  "municipality": "Αγίων Αναργύρων - Καματερού",
+  "code_name": "DELIGIANNI",
+  "region": "Αττικής",
+  "latitude": 38.043611,
+  "company": "OTE",
+  "longitude": 23.728056,
+  "permit_status": "Από τα στοιχεία που τηρούνται στην Ενημερωτική Πύλη προκύπτει ότι, για τη θέση \"ΛΕΩΦΟΡΟΣ ΔΗΜΟΚΡΑΤΙΑΣ 266Α, ΑΝΑΛΗΨΗ, ΔΗΜ. ΕΝΟΤΗΤΑ ΑΓ. ΑΝΑΡΓΥΡΩΝ\" στον Δήμο Αγίων Αναργύρων - Καματερού Περιφέρειας  Αττικής \n\t(κωδικός αριθμός θέσης 1404119, κωδική ονομασία \"DELIGIANNI\") χορηγήθηκε, με την Απόφαση της ΕΕΤΤ \n52175/25-02-2025, άδεια κατασκευής κεραίας στην εταιρία OTE. \nΑπό τo έγγραφο της άδειας μπορείτε να ενημερωθείτε για τις σχετικές εγκρίσεις των συναρμόδιων φορέων, καθώς και εάν πρόκειται για τροποποίηση παλαιότερης άδειας.\n\tΣύμφωνα με τα στοιχεία που έχουν υποβληθεί στο ΣΗΛΥΑ, ο κάτοχος της κατασκευής κεραίας έχει δηλώσει ότι θα προβεί σε έκδοση έγκρισης δομικών κατασκευών \n\t\tκεραίας μέσω του e-Άδειες \n\t\tμετά την έκδοση της άδειας κατασκευής κεραίας / δημοσιοποίηση της δήλωσης τροποποίησης της κατασκευής κεραίας",
+  "measurements_eaee": "-",
+  "documents": [
+    {
+      "document_number": "493971/08-09-2023",
+      "protocol_number": "ΜΕΣΩ ΣΗΛΥΑ    /",
+      "type": "Τοπογραφικό",
+      "file_url": "https://silia.eett.gr/silia/download/c706d696-fc10-4e59-9b72-d367762683fc"
+    },
+    {
+      "document_number": "493972/08-09-2023",
+      "protocol_number": "ΜΕΣΩ ΣΗΛΥΑ    /",
+      "type": "Αρχιτεκτονικά Σχέδια",
+      "file_url": "https://silia.eett.gr/silia/download/c551f76d-c721-4886-9cb7-6a9e64d3b25f"
+    },
+    {
+      "document_number": "493974/08-09-2023",
+      "protocol_number": "93869/31-08-2023",
+      "type": "Επιστολή Ενημέρωσης προς Αρμόδιο Φορέα",
+      "file_url": "https://silia.eett.gr/silia/download/c64d77e2-fef2-4240-838a-fab10f13736c"
+    },
+    {
+      "document_number": "526254/19-09-2024",
+      "protocol_number": "ΜΕΛΕΤΗ EMC/10-05-2024",
+      "type": "Αποτελέσματα μελέτης στη ζώνης 2.6GHz για ΥΠΑ/ΓΕΕΘΑ",
+      "file_url": "https://silia.eett.gr/silia/download/25m4UD5ko8ZmxrV1VbzeGCEThg7cIHyrWQyS"
+    },
+    {
+      "document_number": "526255/19-09-2024",
+      "protocol_number": "ΑΝΑΚΟΙΝΩΣΗ ΓΕΜΗ/19-09-2024",
+      "type": "Άλλο",
+      "file_url": "https://silia.eett.gr/silia/download/m17YqUy00RVs8Qe1zb7glviRRcnCmEZqwc7A"
+    },
+    {
+      "document_number": "526409/20-09-2024",
+      "protocol_number": "ΜΕΛΕΤΗ Ρ/Ε/26-07-2023",
+      "type": "Αίτηση - Μελέτη Ραδιοεκπομπών ΕΕΑΕ",
+      "file_url": "https://silia.eett.gr/silia/download/NhVLn7MugOnCuGZz2qtrs5ZWHMeYheooRFsu"
+    },
+    {
+      "document_number": "526410/20-09-2024",
+      "protocol_number": "Αρχείο Αίτησης/20-09-2024",
+      "type": "Αίτηση Άδειας Κατασκευής Κεραίας ΕΕΤΤ",
+      "file_url": "https://silia.eett.gr/silia/download/CGMlVKMCVg1XKb7aM9g6xmYmVBVVgN9LnvXo"
+    },
+    {
+      "document_number": "532119/11-11-2024",
+      "protocol_number": "TMIA/411/15853/2024/11-11-2024",
+      "type": "Γνωμάτευση ΕΕΑΕ",
+      "file_url": "https://silia.eett.gr/silia/download/Qdw3H4Q134S8g75R3w9X0U2gxR9QqqBq9x2L"
+    },
+    {
+      "document_number": "533706/26-11-2024",
+      "protocol_number": "ΚΓ/Δ3/Δ/23151/26-11-2024",
+      "type": "Γνωμάτευση ΥΠΑ",
+      "file_url": "https://silia.eett.gr/silia/download/8chNMw7BoIC7Shd1DrRClfEGWtaiYOgz7Z7Q"
+    },
+    {
+      "document_number": "542343/27-02-2025",
+      "protocol_number": "52175/25-02-2025",
+      "type": "Άδεια Κατασκευής  Κεραίας",
+      "file_url": "https://silia.eett.gr/silia/download/ggIy4hxtyMrTggkNBDpIZ0ycpK0qshXokMsK"
+    },
+    {
+      "document_number": "493966/08-09-2023",
+      "protocol_number": "ΣΥΝΟΔΕΥΤΙΚΑ ΕΓΓΡΑΦΑ/",
+      "type": "Δήλωση υπαγωγής σε ΠΠΔ και Συνοδευτικά Έγγραφα",
+      "file_url": "https://silia.eett.gr/silia/download/f010413b-fb7e-4314-97d0-65c3aee4ce08"
+    },
+    {
+      "document_number": "526411/20-09-2024",
+      "protocol_number": "Αρχείο Αίτησης/20-09-2024",
+      "type": "Δήλωση ΠΠΔ",
+      "file_url": "https://silia.eett.gr/silia/download/EZ8GnqnZXUk88RnBFzscWVgGg88vMyI9BLef"
+    }
+  ]
+}

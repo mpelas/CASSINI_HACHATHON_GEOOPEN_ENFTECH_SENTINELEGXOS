@@ -1,0 +1,87 @@
+{
+  "antenna_id": "162681",
+  "address": "ΝΟΤΙΟ ΤΜΗΜΑ ΣΗΡΑΓΓΑΣ ΚΛΟΚΟΒΑΣ , ΙΟΝΙΑ ΟΔΟΣ",
+  "position_code": 1402343,
+  "municipality": "Ναυπακτίας",
+  "code_name": "ΙΟΝ KLOK",
+  "region": "Δυτικής Ελλάδας",
+  "latitude": 38.354167,
+  "company": "OTE",
+  "longitude": 21.698333,
+  "permit_status": "Από τα στοιχεία που τηρούνται στην Ενημερωτική Πύλη προκύπτει ότι, για τη θέση \"ΝΟΤΙΟ ΤΜΗΜΑ ΣΗΡΑΓΓΑΣ ΚΛΟΚΟΒΑΣ , ΙΟΝΙΑ ΟΔΟΣ\" στον Δήμο Ναυπακτίας Περιφέρειας  Δυτικής Ελλάδας \n\t(κωδικός αριθμός θέσης 1402343, κωδική ονομασία \"ΙΟΝ KLOK\") χορηγήθηκε, με την Απόφαση της ΕΕΤΤ \n44927/27-07-2022, άδεια κατασκευής κεραίας στην εταιρία OTE. \nΑπό τo έγγραφο της άδειας μπορείτε να ενημερωθείτε για τις σχετικές εγκρίσεις των συναρμόδιων φορέων, καθώς και εάν πρόκειται για τροποποίηση παλαιότερης άδειας.",
+  "measurements_eaee": "-",
+  "documents": [
+    {
+      "document_number": "453048/14-03-2022",
+      "protocol_number": "ΜΕΣΩ ΣΗΛΥΑ/",
+      "type": "Τοπογραφικό",
+      "file_url": "https://silia.eett.gr/silia/download/74aea1f9-6c6d-429b-a269-8915e8e2e358"
+    },
+    {
+      "document_number": "453049/14-03-2022",
+      "protocol_number": "ΜΕΣΩ ΣΗΛΥΑ/",
+      "type": "Αρχιτεκτονικά Σχέδια",
+      "file_url": "https://silia.eett.gr/silia/download/d703be0e-8eee-42f0-bac5-04b859298ad3"
+    },
+    {
+      "document_number": "453050/14-03-2022",
+      "protocol_number": "ΜΕΣΩ ΣΗΛΥΑ/25-02-2022",
+      "type": "Αίτηση - Μελέτη Ραδιοεκπομπών ΕΕΑΕ",
+      "file_url": "https://silia.eett.gr/silia/download/a67c96f1-58d6-4a57-987e-f55d3d4c477e"
+    },
+    {
+      "document_number": "453051/14-03-2022",
+      "protocol_number": "22097/03-03-2022",
+      "type": "Επιστολή Ενημέρωσης προς Αρμόδιο Φορέα",
+      "file_url": "https://silia.eett.gr/silia/download/efb0991c-50f1-40c3-b66a-1c2dcbf959ec"
+    },
+    {
+      "document_number": "453052/14-03-2022",
+      "protocol_number": "Δ3/Δ/45989/15-11-2019",
+      "type": "Γνωμάτευση ΥΠΑ",
+      "file_url": "https://silia.eett.gr/silia/download/5e489a1c-307e-4a93-ac51-5f6644b4129c"
+    },
+    {
+      "document_number": "453166/15-03-2022",
+      "protocol_number": "ΥΔ ΣΥΝΕΓΚΑΤΑΣΤΑΣΗΣ WIND/",
+      "type": "Άλλο",
+      "file_url": "https://silia.eett.gr/silia/download/ae09c6d5-1245-443f-8459-937ce8e5e78b"
+    },
+    {
+      "document_number": "453167/15-03-2022",
+      "protocol_number": "ΥΔ ΣΥΝΕΓΚΑΤΑΣΤΑΣΗΣ VODAFONE/",
+      "type": "Άλλο",
+      "file_url": "https://silia.eett.gr/silia/download/8d242bf1-e4e7-4a1c-a536-4f76815d517e"
+    },
+    {
+      "document_number": "453168/15-03-2022",
+      "protocol_number": "ΥΔ ΔΙΑΣΥΝΔΕΣΗΣ VODAFONE/",
+      "type": "Άλλο",
+      "file_url": "https://silia.eett.gr/silia/download/c8029436-a76b-4c3d-a624-d5d2bd45ba36"
+    },
+    {
+      "document_number": "453207/15-03-2022",
+      "protocol_number": "Αρχείο Αίτησης/",
+      "type": "Αίτηση Άδειας Κατασκευής Κεραίας ΕΕΤΤ",
+      "file_url": "https://silia.eett.gr/silia/download/8547fa7d-e48a-4dc0-8c2b-8c31f2f89402"
+    },
+    {
+      "document_number": "462057/18-06-2022",
+      "protocol_number": "Μ.ι./411/9003/2022/17-06-2022",
+      "type": "Γνωμάτευση ΕΕΑΕ",
+      "file_url": "https://silia.eett.gr/silia/download/4cbf7203-0376-4f35-ad64-e646e86b6d75"
+    },
+    {
+      "document_number": "466958/01-09-2022",
+      "protocol_number": "44927/27-07-2022",
+      "type": "Άδεια Κατασκευής  Κεραίας",
+      "file_url": "https://silia.eett.gr/silia/download/92f54011-f284-47a1-8763-187bee29b067"
+    },
+    {
+      "document_number": "453208/15-03-2022",
+      "protocol_number": "Αρχείο Αίτησης/",
+      "type": "Δήλωση ΠΠΔ",
+      "file_url": "https://silia.eett.gr/silia/download/d3307fa9-1d34-4f47-9817-762095a5fd03"
+    }
+  ]
+}

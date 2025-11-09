@@ -1,0 +1,57 @@
+{
+  "antenna_id": "177141",
+  "address": "ΚΩΝΣΤΑΝΤΙΑ ΠΕΛΛΗΣ.",
+  "position_code": 1152582,
+  "municipality": "Αλμωπίας",
+  "code_name": "3032582 SYZEFXIS PI KONSTANTIAS PELLAS",
+  "region": "Κεντρικής Μακεδονίας",
+  "latitude": 41.0,
+  "company": "VODAFONE",
+  "longitude": 22.172778,
+  "permit_status": "Από τα στοιχεία που τηρούνται στην Ενημερωτική Πύλη προκύπτει ότι, για τη θέση \"ΚΩΝΣΤΑΝΤΙΑ ΠΕΛΛΗΣ.\" στον Δήμο Αλμωπίας Περιφέρειας  Κεντρικής Μακεδονίας \n\t(κωδικός αριθμός θέσης 1152582, κωδική ονομασία \"3032582 SYZEFXIS PI KONSTANTIAS PELLAS\") έχει κατατεθεί από την εταιρία VODAFONE\tδήλωση εγκατάστασης κατασκευής κεραίας (αριθ. πρωτ. \n\t59056/17-01-2025) που εμπίπτει στις διατάξεις της νομοθεσίας για Εγκαταστάσεις Κατασκευών Κεραιών Χαμηλής Ηλεκτρομαγνητικής Περιβαλλοντικής Όχλησης (ΕΚΚΧΟ).",
+  "measurements_eaee": "-",
+  "documents": [
+    {
+      "document_number": "537518/10-01-2025",
+      "protocol_number": "Φωτορεαλιστική απεικόνιση κεραίας ΕΚΚΧΟ/10-01-2025",
+      "type": "Φωτογραφικό Υλικό - Σκαρίφημα",
+      "file_url": "https://silia.eett.gr/silia/download/YffysTgxh5RLUPMicROGDX7cGHhnXCm8qFpl"
+    },
+    {
+      "document_number": "537519/10-01-2025",
+      "protocol_number": "Ψηφιακός χάρτης με προβολή της θέσης ΕΚΚΧΟ/10-01-2025",
+      "type": "Φωτογραφικό Υλικό - Σκαρίφημα",
+      "file_url": "https://silia.eett.gr/silia/download/28VMucrOrBQ4BC9MbVhBrrgQIGHvekkVWByI"
+    },
+    {
+      "document_number": "537521/10-01-2025",
+      "protocol_number": "ΜΕΛΕΤΗ ΕΚΚΧΟ/10-01-2025",
+      "type": "Άλλο",
+      "file_url": "https://silia.eett.gr/silia/download/nv48YTH6FM4UiFubLFG04udN7CCCc2dGKFAk"
+    },
+    {
+      "document_number": "537522/10-01-2025",
+      "protocol_number": "Σκαρίφημα με περιοχή απαγόρευσης/10-01-2025",
+      "type": "Φωτογραφικό Υλικό - Σκαρίφημα",
+      "file_url": "https://silia.eett.gr/silia/download/SIhogyTa9lgZcnx472FbK4M2dSGV6zFcgHgP"
+    },
+    {
+      "document_number": "538217/17-01-2025",
+      "protocol_number": "Αρχείο Αίτησης/17-01-2025",
+      "type": "Δήλωση ΕΚΚΧΟ",
+      "file_url": "https://silia.eett.gr/silia/download/UThAe0gGMWIqMBlEGEimmG9T25frwltu0lKo"
+    },
+    {
+      "document_number": "540044/05-02-2025",
+      "protocol_number": "ΥΔ ΜΗΧΑΝΙΚΟΥ/21-01-2025",
+      "type": "Άλλο",
+      "file_url": "https://silia.eett.gr/silia/download/LdVXGIBiVBoh21vghgGOSZTrgtPa10kLkr6N"
+    },
+    {
+      "document_number": "540126/05-02-2025",
+      "protocol_number": "ΥΔ ΕΓΚΑΤΑΣΤΑΣΗΣ/05-02-2025",
+      "type": "Άλλο",
+      "file_url": "https://silia.eett.gr/silia/download/egoSI8gg2bgnGppXZlFQMl1hxQ6kFwwtKdzG"
+    }
+  ]
+}

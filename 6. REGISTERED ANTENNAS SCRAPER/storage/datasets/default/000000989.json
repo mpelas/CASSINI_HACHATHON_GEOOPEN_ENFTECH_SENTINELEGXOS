@@ -1,0 +1,39 @@
+{
+  "antenna_id": "172228",
+  "address": "ΘΕΣΣΑΛΟΝΙΚΗΣ 184,Δ. ΒΕΡΟΙΑΣ,Ν. ΗΜΑΘΙΑΣ",
+  "position_code": 1496533,
+  "municipality": "Βέροιας",
+  "code_name": "GAVRIILIDIS_VEROIA",
+  "region": "Κεντρικής Μακεδονίας",
+  "latitude": 40.538611,
+  "company": "OTE",
+  "longitude": 22.220278,
+  "permit_status": "Από τα στοιχεία που τηρούνται στην Ενημερωτική Πύλη προκύπτει ότι, για τη θέση \"ΘΕΣΣΑΛΟΝΙΚΗΣ 184,Δ. ΒΕΡΟΙΑΣ,Ν. ΗΜΑΘΙΑΣ\" στον Δήμο Βέροιας Περιφέρειας  Κεντρικής Μακεδονίας \n\t(κωδικός αριθμός θέσης 1496533, κωδική ονομασία \"GAVRIILIDIS_VEROIA\") έχει κατατεθεί από την εταιρία OTE\tδήλωση εγκατάστασης κατασκευής κεραίας (αριθ. πρωτ. \n\t55831/13-05-2024) που εμπίπτει στις διατάξεις της νομοθεσίας για Εγκαταστάσεις Κατασκευών Κεραιών Χαμηλής Ηλεκτρομαγνητικής Περιβαλλοντικής Όχλησης (ΕΚΚΧΟ).",
+  "measurements_eaee": "-",
+  "documents": [
+    {
+      "document_number": "507961/19-02-2024",
+      "protocol_number": "ΦΩΤΟΓΡΑΦΙΑ/",
+      "type": "Φωτογραφικό Υλικό - Σκαρίφημα",
+      "file_url": "https://silia.eett.gr/silia/download/126c386a-77c1-44c5-a369-88384a0874ba"
+    },
+    {
+      "document_number": "514542/02-05-2024",
+      "protocol_number": "ΜΕΛΕΤΗ/02-05-2024",
+      "type": "Αίτηση - Μελέτη Ραδιοεκπομπών ΕΕΑΕ",
+      "file_url": "https://silia.eett.gr/silia/download/NtB625vqWYsQRXZVDqAasdG8rfFyYxQw3Fw2"
+    },
+    {
+      "document_number": "514852/13-05-2024",
+      "protocol_number": "Αρχείο Αίτησης/13-05-2024",
+      "type": "Δήλωση ΕΚΚΧΟ",
+      "file_url": "https://silia.eett.gr/silia/download/Nr7ZtHRzx2aG8fmvykGU3zsiArSzLAYSKINt"
+    },
+    {
+      "document_number": "528451/10-10-2024",
+      "protocol_number": "ΥΠ.ΔΗΛΩΣΗ/10-10-2024",
+      "type": "Άλλο",
+      "file_url": "https://silia.eett.gr/silia/download/nPIxtZYRusy1zBEKiVHtVtGG86fm5PkNdAhH"
+    }
+  ]
+}

@@ -1,0 +1,117 @@
+{
+  "antenna_id": "165624",
+  "address": "ΘΕΣΗ \"ΕΥΔΑΠ ΨΥΤΤΑΛΕΙΑ\"",
+  "position_code": 1007047,
+  "municipality": "Πειραιώς",
+  "code_name": "ΨΥΤΤΑΛΕΙΑ",
+  "region": "Αττικής",
+  "latitude": 37.941389,
+  "company": "VODAFONE",
+  "longitude": 23.591667,
+  "permit_status": "Από τα στοιχεία που τηρούνται στην Ενημερωτική Πύλη προκύπτει ότι, για τη θέση \"ΘΕΣΗ \"ΕΥΔΑΠ ΨΥΤΤΑΛΕΙΑ\"\" στον Δήμο Πειραιώς Περιφέρειας  Αττικής \n\t(κωδικός αριθμός θέσης 1007047, κωδική ονομασία \"ΨΥΤΤΑΛΕΙΑ\") χορηγήθηκε, με την Απόφαση της ΕΕΤΤ \n46811/27-12-2022, άδεια κατασκευής κεραίας στην εταιρία VODAFONE. \nΑπό τo έγγραφο της άδειας μπορείτε να ενημερωθείτε για τις σχετικές εγκρίσεις των συναρμόδιων φορέων, καθώς και εάν πρόκειται για τροποποίηση παλαιότερης άδειας.\n\tΣύμφωνα με τα στοιχεία που έχουν υποβληθεί στο ΣΗΛΥΑ, ο κάτοχος της κατασκευής κεραίας έχει δηλώσει ότι θα προβεί σε έκδοση έγκρισης δομικών κατασκευών \n\t\tκεραίας μέσω του e-Άδειες \n\t\tμετά την έκδοση της άδειας κατασκευής κεραίας / δημοσιοποίηση της δήλωσης τροποποίησης της κατασκευής κεραίας",
+  "measurements_eaee": "-",
+  "documents": [
+    {
+      "document_number": "468385/28-09-2022",
+      "protocol_number": "ΤΟΠΟΓΡΑΦΙΚΟ ΔΙΑΓΡΑΜΜΑ/",
+      "type": "Τοπογραφικό",
+      "file_url": "https://silia.eett.gr/silia/download/04de0a23-65e6-41e4-b4a9-8c732df530e9"
+    },
+    {
+      "document_number": "468386/28-09-2022",
+      "protocol_number": "ΑΡΧΙΤΕΚΤΟΝΙΚΗ ΜΕΛΕΤΗ/",
+      "type": "Αρχιτεκτονικά Σχέδια",
+      "file_url": "https://silia.eett.gr/silia/download/3bc75ee4-34c3-4c5a-b960-8827199b5165"
+    },
+    {
+      "document_number": "468388/28-09-2022",
+      "protocol_number": "100432/23-09-2022",
+      "type": "Αποτελέσματα μελέτης στη ζώνης 2.6GHz για ΥΠΑ/ΓΕΕΘΑ",
+      "file_url": "https://silia.eett.gr/silia/download/869a9622-8b37-4f7a-a20b-b05aa1890940"
+    },
+    {
+      "document_number": "468389/28-09-2022",
+      "protocol_number": "ΜΕΛΕΤΗ ΣΥΜΒΑΤΟΤΗΤΑΣ 2700MHz VF/23-09-2022",
+      "type": "Μελέτη για τη ζώνη  2,6GHz",
+      "file_url": "https://silia.eett.gr/silia/download/555cacec-90a4-4462-98e8-2f12c186b5c8"
+    },
+    {
+      "document_number": "468390/28-09-2022",
+      "protocol_number": "ΜΕΛΕΤΗ ΣΥΜΒΑΤΟΤΗΤΑΣ 2700MHz WIND/23-09-2022",
+      "type": "Μελέτη για τη ζώνη  2,6GHz",
+      "file_url": "https://silia.eett.gr/silia/download/4d36f2de-3976-452a-bdc2-02e0c64a2f61"
+    },
+    {
+      "document_number": "468391/28-09-2022",
+      "protocol_number": "21509/27-09-2022",
+      "type": "Αίτηση Ραδιοσυχνοτήτων",
+      "file_url": "https://silia.eett.gr/silia/download/2a11ba62-cd6c-4f09-af7b-ec246c0a092f"
+    },
+    {
+      "document_number": "468392/28-09-2022",
+      "protocol_number": "ΧΑΡΤΗΣ ΥΠΑ/",
+      "type": "Απόσπασμα Χάρτη ΓΥΣ 1:50.000",
+      "file_url": "https://silia.eett.gr/silia/download/7063ba2a-79ae-4e25-87ae-1fff6c3a99d5"
+    },
+    {
+      "document_number": "468393/28-09-2022",
+      "protocol_number": "ΥΠΕΥΘΥΝΗ ΔΗΛΩΣΗ ΟΡΘΟΤΗΤΑΣ WIND/27-09-2022",
+      "type": "Άλλο",
+      "file_url": "https://silia.eett.gr/silia/download/994928bc-51a0-48c5-b34b-83361e3b1058"
+    },
+    {
+      "document_number": "468394/28-09-2022",
+      "protocol_number": "ΥΠΕΥΘΥΝΗ ΔΗΛΩΣΗ ΔΙΑΣΥΝΔΕΣΗΣ WIND/27-09-2022",
+      "type": "Άλλο",
+      "file_url": "https://silia.eett.gr/silia/download/8318ed12-3b61-4ed4-8fb4-cd47f8bcf2e3"
+    },
+    {
+      "document_number": "468412/28-09-2022",
+      "protocol_number": "ΜΕΛΕΤΗ ΡΑΔΙΟΕΚΠΟΜΠΩΝ/22-09-2022",
+      "type": "Αίτηση - Μελέτη Ραδιοεκπομπών ΕΕΑΕ",
+      "file_url": "https://silia.eett.gr/silia/download/b1c08eaa-f816-41f3-b079-fc443115f913"
+    },
+    {
+      "document_number": "468420/28-09-2022",
+      "protocol_number": "Αρχείο Αίτησης/",
+      "type": "Αίτηση Άδειας Κατασκευής Κεραίας ΕΕΤΤ",
+      "file_url": "https://silia.eett.gr/silia/download/01003394-b297-486b-b652-dc0bd0ab756e"
+    },
+    {
+      "document_number": "469492/10-10-2022",
+      "protocol_number": "ΚΓ/Δ3/Δ/25464/10-10-2022",
+      "type": "Γνωμάτευση ΥΠΑ",
+      "file_url": "https://silia.eett.gr/silia/download/a349ea37-bd73-4e47-8f3c-a8ac9eb6dae3"
+    },
+    {
+      "document_number": "473367/25-11-2022",
+      "protocol_number": "ΤΜΙΑ/411/16423/2022/24-11-2022",
+      "type": "Γνωμάτευση ΕΕΑΕ",
+      "file_url": "https://silia.eett.gr/silia/download/44513e1d-346a-4221-aa40-83996a3354e4"
+    },
+    {
+      "document_number": "475863/05-01-2023",
+      "protocol_number": "46811/27-12-2022",
+      "type": "Άδεια Κατασκευής  Κεραίας",
+      "file_url": "https://silia.eett.gr/silia/download/2606f1b7-4cd0-470a-893b-4cf77ddb691b"
+    },
+    {
+      "document_number": "474481/09-12-2022",
+      "protocol_number": "ΜΕΛΕΤΗ ΡΑΔΙΟΕΚΠΟΜΠΩΝ/22-09-2022",
+      "type": "Αίτηση - Μελέτη Ραδιοεκπομπών ΕΕΑΕ",
+      "file_url": "https://silia.eett.gr/silia/download/b1c08eaa-f816-41f3-b079-fc443115f913"
+    },
+    {
+      "document_number": "474482/09-12-2022",
+      "protocol_number": "ΣΥΝΟΔΕΥΤΙΚΑ ΕΓΓΡΑΦΑ ΠΠΔ/",
+      "type": "Δήλωση υπαγωγής σε ΠΠΔ και Συνοδευτικά Έγγραφα",
+      "file_url": "https://silia.eett.gr/silia/download/df3d1932-b6f5-4d15-bbc5-ff1dcc59bc44"
+    },
+    {
+      "document_number": "474489/09-12-2022",
+      "protocol_number": "Αρχείο Αίτησης/",
+      "type": "Δήλωση ΠΠΔ",
+      "file_url": "https://silia.eett.gr/silia/download/1be82285-c6cc-49d7-b0ca-de8eb53e1d7f"
+    }
+  ]
+}

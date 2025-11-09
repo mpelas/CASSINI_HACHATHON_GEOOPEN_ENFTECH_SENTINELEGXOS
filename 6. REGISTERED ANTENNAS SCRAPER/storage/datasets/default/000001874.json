@@ -1,0 +1,39 @@
+{
+  "antenna_id": "133028",
+  "address": "ΑΡΧΑΙΟΛΟΓΙΚΟ  ΜΟΥΣΕΙΟ  ΗΡΑΚΛΕΙΟΥ",
+  "position_code": 1416532,
+  "municipality": "Ηρακλείου Κρήτης",
+  "code_name": "IRAKMUS  MI",
+  "region": "Κρήτης",
+  "latitude": 35.338889,
+  "company": "OTE",
+  "longitude": 25.137222,
+  "permit_status": "Από τα στοιχεία που τηρούνται στην Ενημερωτική Πύλη προκύπτει ότι, για τη θέση \"ΑΡΧΑΙΟΛΟΓΙΚΟ  ΜΟΥΣΕΙΟ  ΗΡΑΚΛΕΙΟΥ\" στον Δήμο Ηρακλείου Κρήτης Περιφέρειας  Κρήτης \n\t(κωδικός αριθμός θέσης 1416532, κωδική ονομασία \"IRAKMUS  MI\") έχει κατατεθεί από την εταιρία OTE\tδήλωση εγκατάστασης κατασκευής κεραίας (αριθ. πρωτ. \n\t27764/04-06-2018) που εμπίπτει στις διατάξεις της νομοθεσίας για Εγκαταστάσεις Κατασκευών Κεραιών Χαμηλής Ηλεκτρομαγνητικής Περιβαλλοντικής Όχλησης (ΕΚΚΧΟ).",
+  "measurements_eaee": "-",
+  "documents": [
+    {
+      "document_number": "329720/16-05-2018",
+      "protocol_number": "ΦΩΤΟΓΡΑΦΙΑ/",
+      "type": "Φωτογραφικό Υλικό - Σκαρίφημα",
+      "file_url": "https://silia.eett.gr/silia/download/38d01ca9-b4b1-434a-8ab8-2f1532347f3b"
+    },
+    {
+      "document_number": "329721/16-05-2018",
+      "protocol_number": "ΥΠΠΟΑ/ΓΔΑΠΚ/ΕΦΑΗΡΑ/ΤΒΜΑΜ/133393/92112/3808/780/05-04-2018",
+      "type": "Γνωμοδότηση ΕΒΑ",
+      "file_url": "https://silia.eett.gr/silia/download/51b3cce5-bae3-427b-b089-c4231cf9b93e"
+    },
+    {
+      "document_number": "331372/04-06-2018",
+      "protocol_number": "Μελέτη EMC/04-06-2018",
+      "type": "Αποτελέσματα μελέτης στη ζώνης 2.6GHz για ΥΠΑ/ΓΕΕΘΑ",
+      "file_url": "https://silia.eett.gr/silia/download/20d91db6-6b0b-4060-a36e-930c273efbc5"
+    },
+    {
+      "document_number": "331391/04-06-2018",
+      "protocol_number": "Αρχείο Αίτησης/",
+      "type": "Δήλωση ΕΚΚΧΟ",
+      "file_url": "https://silia.eett.gr/silia/download/cecce3bd-4930-4c07-b77f-dabd4f56f653"
+    }
+  ]
+}

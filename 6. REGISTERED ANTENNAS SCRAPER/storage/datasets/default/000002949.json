@@ -1,0 +1,51 @@
+{
+  "antenna_id": "176799",
+  "address": "Ερυθρού Σταυρού και Ποσειδώνος, ΠΥΛΑΙΑ ΘΕΣΣΑΛΟΝΙΚΗΣ.",
+  "position_code": 1150063,
+  "municipality": "Πυλαίας - Χορτιάτη",
+  "code_name": "3033659 ATTIKO METRO KALAMARIA",
+  "region": "Κεντρικής Μακεδονίας",
+  "latitude": 40.582222,
+  "company": "VODAFONE",
+  "longitude": 22.97,
+  "permit_status": "Από τα στοιχεία που τηρούνται στην Ενημερωτική Πύλη προκύπτει ότι, για τη θέση \"Ερυθρού Σταυρού και Ποσειδώνος, ΠΥΛΑΙΑ ΘΕΣΣΑΛΟΝΙΚΗΣ.\" στον Δήμο Πυλαίας - Χορτιάτη Περιφέρειας  Κεντρικής Μακεδονίας \n\t(κωδικός αριθμός θέσης 1150063, κωδική ονομασία \"3033659 ATTIKO METRO KALAMARIA\") έχει κατατεθεί από την εταιρία VODAFONE\tδήλωση εγκατάστασης κατασκευής κεραίας (αριθ. πρωτ. \n\t58670/10-12-2024) που εμπίπτει στις διατάξεις της νομοθεσίας για Εγκαταστάσεις Κατασκευών Κεραιών Χαμηλής Ηλεκτρομαγνητικής Περιβαλλοντικής Όχλησης (ΕΚΚΧΟ).",
+  "measurements_eaee": "-",
+  "documents": [
+    {
+      "document_number": "535141/10-12-2024",
+      "protocol_number": "Φωτορεαλιστική απεικόνιση κεραίας ΕΚΚΧΟ/10-12-2024",
+      "type": "Φωτογραφικό Υλικό - Σκαρίφημα",
+      "file_url": "https://silia.eett.gr/silia/download/hOsWfDlFZdVWIvUP5RytgMHF7VW9CM8iFRLF"
+    },
+    {
+      "document_number": "535142/10-12-2024",
+      "protocol_number": "Ψηφιακός χάρτης με προβολή της θέσης ΕΚΚΧΟ/10-12-2024",
+      "type": "Φωτογραφικό Υλικό - Σκαρίφημα",
+      "file_url": "https://silia.eett.gr/silia/download/ldoanBlNGggMsDKxUdyTCkdZgGSkBPOVHSGq"
+    },
+    {
+      "document_number": "535143/10-12-2024",
+      "protocol_number": "Σκαρίφημα θέσης κεραίας ΕΚΚΧΟ/10-12-2024",
+      "type": "Φωτογραφικό Υλικό - Σκαρίφημα",
+      "file_url": "https://silia.eett.gr/silia/download/GQOLPwdnFc7OzRikC0IYUMydlnVFTrBVZ9Bd"
+    },
+    {
+      "document_number": "535146/10-12-2024",
+      "protocol_number": "ΜΕΛΕΤΗ ΕΚΚΧΟ/10-12-2024",
+      "type": "Άλλο",
+      "file_url": "https://silia.eett.gr/silia/download/nCfHT92SCmvCmoxZGfgvTo4sdn9P2IUfL4ns"
+    },
+    {
+      "document_number": "535148/10-12-2024",
+      "protocol_number": "Αρχείο Αίτησης/10-12-2024",
+      "type": "Δήλωση ΕΚΚΧΟ",
+      "file_url": "https://silia.eett.gr/silia/download/X9sUiS2nVwWt0e6GOEnQZme98qEnfhIcB4p7"
+    },
+    {
+      "document_number": "540116/05-02-2025",
+      "protocol_number": "ΥΔ ΕΓΚΑΤΑΣΤΑΣΗΣ/05-02-2025",
+      "type": "Άλλο",
+      "file_url": "https://silia.eett.gr/silia/download/EhBiprg0gfn22RLDhge916Z4bNrorlfG3mPG"
+    }
+  ]
+}

@@ -1,0 +1,51 @@
+{
+  "antenna_id": "154819",
+  "address": "ΑΓΙΟΥ ΠΑΝΤΕΛΕΗΜΟΝΟΣ 17 , ΒΟΥΛΙΑΓΜΕΝΗ ΑΤΤΙΚΗΣ",
+  "position_code": 1410473,
+  "municipality": "Βάρης - Βούλας - Βουλιαγμένης",
+  "code_name": "PANOS  MI",
+  "region": "Αττικής",
+  "latitude": 37.810556,
+  "company": "OTE",
+  "longitude": 23.782222,
+  "permit_status": "Από τα στοιχεία που τηρούνται στην Ενημερωτική Πύλη προκύπτει ότι, για τη θέση \"ΑΓΙΟΥ ΠΑΝΤΕΛΕΗΜΟΝΟΣ 17 , ΒΟΥΛΙΑΓΜΕΝΗ ΑΤΤΙΚΗΣ\" στον Δήμο Βάρης - Βούλας - Βουλιαγμένης Περιφέρειας  Αττικής \n\t(κωδικός αριθμός θέσης 1410473, κωδική ονομασία \"PANOS  MI\") έχει κατατεθεί από την εταιρία OTE\tδήλωση εγκατάστασης κατασκευής κεραίας (αριθ. πρωτ. \n\t40727/28-09-2020) που εμπίπτει στις διατάξεις της νομοθεσίας για Εγκαταστάσεις Κατασκευών Κεραιών Χαμηλής Ηλεκτρομαγνητικής Περιβαλλοντικής Όχλησης (ΕΚΚΧΟ).",
+  "measurements_eaee": "-",
+  "documents": [
+    {
+      "document_number": "409335/29-05-2020",
+      "protocol_number": "ΣΚΑΡΙΦΗΜΑ/",
+      "type": "Φωτογραφικό Υλικό - Σκαρίφημα",
+      "file_url": "https://silia.eett.gr/silia/download/91d4549e-3671-4509-9367-ba360067aa55"
+    },
+    {
+      "document_number": "410229/09-06-2020",
+      "protocol_number": "μελέτη EMC/05-06-2020",
+      "type": "Αποτελέσματα μελέτης στη ζώνης 2.6GHz για ΥΠΑ/ΓΕΕΘΑ",
+      "file_url": "https://silia.eett.gr/silia/download/b6f66599-2219-4f75-a75a-4bdb45d63c19"
+    },
+    {
+      "document_number": "417506/28-09-2020",
+      "protocol_number": "Αρχείο Αίτησης/",
+      "type": "Δήλωση ΕΚΚΧΟ",
+      "file_url": "https://silia.eett.gr/silia/download/db0bedfb-6566-4712-bb9d-167a2761a482"
+    },
+    {
+      "document_number": "434871/14-05-2021",
+      "protocol_number": "51070 (ΚΟΙΝΟΠΟΙΗΣΗ ΓΕΑ)/12-05-2021",
+      "type": "Άλλο",
+      "file_url": "https://silia.eett.gr/silia/download/848026d9-98c3-49e1-8a4c-11d943917023"
+    },
+    {
+      "document_number": "434872/14-05-2021",
+      "protocol_number": "ΕΞ/ΜΑΡ/3263/29-04-2021",
+      "type": "Έγκριση Αρμοδίου Φορέα",
+      "file_url": "https://silia.eett.gr/silia/download/bc18d4a1-d8e0-4d05-b5a3-fc533a5262a9"
+    },
+    {
+      "document_number": "435232/20-05-2021",
+      "protocol_number": "ΣΚΑΡΙΦΗΜΑ/20-05-2021",
+      "type": "Φωτογραφικό Υλικό - Σκαρίφημα",
+      "file_url": "https://silia.eett.gr/silia/download/b0fb24d2-49f4-4091-b746-ed7cd86af1f4"
+    }
+  ]
+}

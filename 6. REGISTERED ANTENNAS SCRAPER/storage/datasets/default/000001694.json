@@ -1,0 +1,51 @@
+{
+  "antenna_id": "162776",
+  "address": "Λεωφ. Γεωργίου Παπανδρέου 42",
+  "position_code": 1004910,
+  "municipality": "Ζωγράφου",
+  "code_name": "G. PAPANDREOU-ZOGRAFOU MICRO",
+  "region": "Αττικής",
+  "latitude": 37.980556,
+  "company": "VODAFONE",
+  "longitude": 23.766111,
+  "permit_status": "Από τα στοιχεία που τηρούνται στην Ενημερωτική Πύλη προκύπτει ότι, για τη θέση \"Λεωφ. Γεωργίου Παπανδρέου 42\" στον Δήμο Ζωγράφου Περιφέρειας  Αττικής \n\t(κωδικός αριθμός θέσης 1004910, κωδική ονομασία \"G. PAPANDREOU-ZOGRAFOU MICRO\") έχει κατατεθεί από την εταιρία VODAFONE\tδήλωση εγκατάστασης κατασκευής κεραίας (αριθ. πρωτ. \n\t46924/17-03-2022) που εμπίπτει στις διατάξεις της νομοθεσίας για Εγκαταστάσεις Κατασκευών Κεραιών Χαμηλής Ηλεκτρομαγνητικής Περιβαλλοντικής Όχλησης (ΕΚΚΧΟ).",
+  "measurements_eaee": "-",
+  "documents": [
+    {
+      "document_number": "453594/17-03-2022",
+      "protocol_number": "Μελέτη συμβατότητας 2700 MHz VODAFONE/15-03-2022",
+      "type": "Μελέτη για τη ζώνη  2,6GHz",
+      "file_url": "https://silia.eett.gr/silia/download/8aa4abf4-a947-4466-ad33-f2e201f15cf5"
+    },
+    {
+      "document_number": "453595/17-03-2022",
+      "protocol_number": "Φωτογραφία θέσης ΕΚΚΧΟ από Google Earth/",
+      "type": "Φωτογραφικό Υλικό - Σκαρίφημα",
+      "file_url": "https://silia.eett.gr/silia/download/9c58f914-f77a-4d17-a065-a2a0c89b93d6"
+    },
+    {
+      "document_number": "453598/17-03-2022",
+      "protocol_number": "Φωτογραφία όψης κτιρίου-θέση κεραίας/",
+      "type": "Φωτογραφικό Υλικό - Σκαρίφημα",
+      "file_url": "https://silia.eett.gr/silia/download/951eddc1-d8a1-4f98-bbc7-0fd2d9265078"
+    },
+    {
+      "document_number": "453627/17-03-2022",
+      "protocol_number": "27481/17-03-2022",
+      "type": "Αποτελέσματα μελέτης στη ζώνης 2.6GHz για ΥΠΑ/ΓΕΕΘΑ",
+      "file_url": "https://silia.eett.gr/silia/download/ae6fa608-ca71-4a0d-87e2-731d3441805c"
+    },
+    {
+      "document_number": "453628/17-03-2022",
+      "protocol_number": "ΣΚΑΡΙΦΗΜΑ ΘΕΣΗΣ ΕΚΚΧΟ - ΟΨΗ ΚΤΙΡΙΟΥ/",
+      "type": "Φωτογραφικό Υλικό - Σκαρίφημα",
+      "file_url": "https://silia.eett.gr/silia/download/fcef1258-12bb-4160-8ea3-cdf970843cee"
+    },
+    {
+      "document_number": "453629/17-03-2022",
+      "protocol_number": "Αρχείο Αίτησης/",
+      "type": "Δήλωση ΕΚΚΧΟ",
+      "file_url": "https://silia.eett.gr/silia/download/f5d65e64-67a5-4196-903f-96a94f4167f8"
+    }
+  ]
+}

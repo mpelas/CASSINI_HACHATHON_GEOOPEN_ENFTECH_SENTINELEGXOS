@@ -1,0 +1,27 @@
+{
+  "antenna_id": "160879",
+  "address": "ΝΑΥΠΛΙΟ",
+  "position_code": 3006593,
+  "municipality": "Ναυπλιέων",
+  "code_name": "ΝΑΥΠΛΙΟ Μ",
+  "region": "Πελοποννήσου",
+  "latitude": 37.581667,
+  "company": "DIGEA",
+  "longitude": 22.811667,
+  "permit_status": "Από τα στοιχεία που τηρούνται στην Ενημερωτική Πύλη προκύπτει ότι για τη  θέση \"ΝΑΥΠΛΙΟ\" στον Δήμο Ναυπλιέων Περιφέρειας  Πελοποννήσου έχει κατατεθεί από την εταιρία DIGEA δήλωση κατασκευής κεραίας τηλεοπτικής ευρυεκπομπής με αριθ. πρωτ. ΣΗΛΥΑ \n45235/20-10-2021 κατά τα οριζόμενα στην παρ. 7 του άρθρου 39 του Ν.4635/2019.",
+  "measurements_eaee": "-",
+  "documents": [
+    {
+      "document_number": "444379/20-10-2021",
+      "protocol_number": "ΜΕΣΩ ΣΗΛΥΑ/",
+      "type": "Αίτηση ΥΠΑ",
+      "file_url": "https://silia.eett.gr/silia/download/bfc8041f-d9b1-42b5-8f33-a2aeafa35271"
+    },
+    {
+      "document_number": "444380/20-10-2021",
+      "protocol_number": "Αρχείο Αίτησης/",
+      "type": "Δήλωση Τηλεοπτικής Ευρυεκπομπής",
+      "file_url": "https://silia.eett.gr/silia/download/1a4fd6fa-bcc1-4e59-b9b6-d0addea416b0"
+    }
+  ]
+}

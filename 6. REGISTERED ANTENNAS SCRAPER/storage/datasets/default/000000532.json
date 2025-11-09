@@ -1,0 +1,45 @@
+{
+  "antenna_id": "158008",
+  "address": "Λεωφόρος Κηφισίας 168 Μαρούσι",
+  "position_code": 2340518,
+  "municipality": "Αμαρουσίου",
+  "code_name": "NRG TRADING HOUSE ΕΝΕΡΓΕΙΑΚΗ",
+  "region": "Αττικής",
+  "latitude": 38.055833,
+  "company": "NOVA Μ.Α.Ε.",
+  "longitude": 23.812222,
+  "permit_status": "Από τα στοιχεία που τηρούνται στην Ενημερωτική Πύλη προκύπτει ότι, για τη θέση \"Λεωφόρος Κηφισίας 168 Μαρούσι\" στον Δήμο Αμαρουσίου Περιφέρειας  Αττικής \n\t(κωδικός αριθμός θέσης 2340518, κωδική ονομασία \"NRG TRADING HOUSE ΕΝΕΡΓΕΙΑΚΗ\") έχει κατατεθεί από την εταιρία NOVA Μ.Α.Ε.\tδήλωση εγκατάστασης κατασκευής κεραίας (αριθ. πρωτ. \n\t42615/26-01-2021) που εμπίπτει στις διατάξεις της νομοθεσίας για Εγκαταστάσεις Κατασκευών Κεραιών Χαμηλής Ηλεκτρομαγνητικής Περιβαλλοντικής Όχλησης (ΕΚΚΧΟ).",
+  "measurements_eaee": "-",
+  "documents": [
+    {
+      "document_number": "427919/26-01-2021",
+      "protocol_number": "FOTO /",
+      "type": "Φωτογραφικό Υλικό - Σκαρίφημα",
+      "file_url": "https://silia.eett.gr/silia/download/e7f1491f-e0cc-418c-b04b-814bef770d03"
+    },
+    {
+      "document_number": "427920/26-01-2021",
+      "protocol_number": "δικαιωμα χρήσης/",
+      "type": "Χορήγηση Δικαιώματος Χρήσης Ραδιοσυχνοτήτων",
+      "file_url": "https://silia.eett.gr/silia/download/bff89043-93ad-4f89-8445-97882804707b"
+    },
+    {
+      "document_number": "427921/26-01-2021",
+      "protocol_number": "δικαιωμα χρήσης/",
+      "type": "Χορήγηση Δικαιώματος Χρήσης Ραδιοσυχνοτήτων",
+      "file_url": "https://silia.eett.gr/silia/download/9b06b6c3-6a0d-4d9b-b1e1-e525a6cb3387"
+    },
+    {
+      "document_number": "427922/26-01-2021",
+      "protocol_number": "δικαιωμα χρήσης/",
+      "type": "Χορήγηση Δικαιώματος Χρήσης Ραδιοσυχνοτήτων",
+      "file_url": "https://silia.eett.gr/silia/download/4d6a9958-f3b1-4573-afd1-06a8070b4d56"
+    },
+    {
+      "document_number": "427923/26-01-2021",
+      "protocol_number": "Αρχείο Αίτησης/",
+      "type": "Δήλωση ΕΚΚΧΟ",
+      "file_url": "https://silia.eett.gr/silia/download/77c1cfe6-c083-4b84-88ae-75cb40040518"
+    }
+  ]
+}

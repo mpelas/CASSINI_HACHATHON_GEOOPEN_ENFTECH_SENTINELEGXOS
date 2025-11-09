@@ -1,0 +1,45 @@
+{
+  "antenna_id": "169012",
+  "address": "ΑΚΤΗ ΜΙΑΟΥΛΗ 35 - ΠΕΙΡΑΙΑΣ-ΦΡΕΑΤΤΥΔΑ",
+  "position_code": 1496176,
+  "municipality": "Πειραιώς",
+  "code_name": "FAFALIOS_PEIRAIAS",
+  "region": "Αττικής",
+  "latitude": 37.940833,
+  "company": "OTE",
+  "longitude": 23.641944,
+  "permit_status": "Από τα στοιχεία που τηρούνται στην Ενημερωτική Πύλη προκύπτει ότι, για τη θέση \"ΑΚΤΗ ΜΙΑΟΥΛΗ 35 - ΠΕΙΡΑΙΑΣ-ΦΡΕΑΤΤΥΔΑ\" στον Δήμο Πειραιώς Περιφέρειας  Αττικής \n\t(κωδικός αριθμός θέσης 1496176, κωδική ονομασία \"FAFALIOS_PEIRAIAS\") έχει κατατεθεί από την εταιρία OTE\tδήλωση εγκατάστασης κατασκευής κεραίας (αριθ. πρωτ. \n\t54933/26-02-2024) που εμπίπτει στις διατάξεις της νομοθεσίας για Εγκαταστάσεις Κατασκευών Κεραιών Χαμηλής Ηλεκτρομαγνητικής Περιβαλλοντικής Όχλησης (ΕΚΚΧΟ).",
+  "measurements_eaee": "-",
+  "documents": [
+    {
+      "document_number": "508409/23-02-2024",
+      "protocol_number": "ΜΕΣΩ ΣΗΛΥΑ/",
+      "type": "Αίτηση - Μελέτη Ραδιοεκπομπών ΕΕΑΕ",
+      "file_url": "https://silia.eett.gr/silia/download/e2a03838-5d76-4602-9ce5-760d5964551d"
+    },
+    {
+      "document_number": "508571/26-02-2024",
+      "protocol_number": "Χαρτης/",
+      "type": "Φωτογραφικό Υλικό - Σκαρίφημα",
+      "file_url": "https://silia.eett.gr/silia/download/a96650b8-a41c-4c58-8235-c9860ce459fe"
+    },
+    {
+      "document_number": "508572/26-02-2024",
+      "protocol_number": "Φωτογραφία/",
+      "type": "Φωτογραφικό Υλικό - Σκαρίφημα",
+      "file_url": "https://silia.eett.gr/silia/download/9a021d5c-d038-4e37-8166-0d7884d3835e"
+    },
+    {
+      "document_number": "508573/26-02-2024",
+      "protocol_number": "Αρχείο Αίτησης/",
+      "type": "Δήλωση ΕΚΚΧΟ",
+      "file_url": "https://silia.eett.gr/silia/download/196cc623-7bb8-484b-aadd-b2bf6cd40d7f"
+    },
+    {
+      "document_number": "527351/01-10-2024",
+      "protocol_number": "ΥΠ.ΔΗΛΩΣΗ/01-10-2024",
+      "type": "Άλλο",
+      "file_url": "https://silia.eett.gr/silia/download/lV4r05YK911tdfv3zB0E3KqdutbnGZAHx2i4"
+    }
+  ]
+}

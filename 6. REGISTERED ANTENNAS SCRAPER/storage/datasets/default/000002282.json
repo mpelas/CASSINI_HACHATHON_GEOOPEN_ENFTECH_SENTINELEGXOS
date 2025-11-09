@@ -1,0 +1,51 @@
+{
+  "antenna_id": "175199",
+  "address": "6 ΧΛΜ, Επαρ.Οδ. Ξάνθης - Μαγγάνων",
+  "position_code": 1152502,
+  "municipality": "Ξάνθης",
+  "code_name": "3032502 VEZERIDIS XANTHI",
+  "region": "Ανατ. Μακεδονίας και Θράκης",
+  "latitude": 41.081667,
+  "company": "VODAFONE",
+  "longitude": 24.9025,
+  "permit_status": "Από τα στοιχεία που τηρούνται στην Ενημερωτική Πύλη προκύπτει ότι, για τη θέση \"6 ΧΛΜ, Επαρ.Οδ. Ξάνθης - Μαγγάνων\" στον Δήμο Ξάνθης Περιφέρειας  Ανατ. Μακεδονίας και Θράκης \n\t(κωδικός αριθμός θέσης 1152502, κωδική ονομασία \"3032502 VEZERIDIS XANTHI\") έχει κατατεθεί από την εταιρία VODAFONE\tδήλωση εγκατάστασης κατασκευής κεραίας (αριθ. πρωτ. \n\t57271/09-09-2024) που εμπίπτει στις διατάξεις της νομοθεσίας για Εγκαταστάσεις Κατασκευών Κεραιών Χαμηλής Ηλεκτρομαγνητικής Περιβαλλοντικής Όχλησης (ΕΚΚΧΟ).",
+  "measurements_eaee": "-",
+  "documents": [
+    {
+      "document_number": "525005/09-09-2024",
+      "protocol_number": "Φωτορεαλιστική απεικόνιση κεραίας ΕΚΚΧΟ/09-09-2024",
+      "type": "Φωτογραφικό Υλικό - Σκαρίφημα",
+      "file_url": "https://silia.eett.gr/silia/download/WVWFq6gDefgeTMMcYlX3TXEIXFYE5EWKfkAb"
+    },
+    {
+      "document_number": "525006/09-09-2024",
+      "protocol_number": "Ψηφιακός χάρτης με προβολή της θέσης ΕΚΚΧΟ/09-09-2024",
+      "type": "Φωτογραφικό Υλικό - Σκαρίφημα",
+      "file_url": "https://silia.eett.gr/silia/download/ALpdAOSWRbLiCmCLU9EpHQ3vWofu3B13bnAw"
+    },
+    {
+      "document_number": "525007/09-09-2024",
+      "protocol_number": "Σκαρίφημα θέσης κεραίας ΕΚΚΧΟ/09-09-2024",
+      "type": "Φωτογραφικό Υλικό - Σκαρίφημα",
+      "file_url": "https://silia.eett.gr/silia/download/5KnAq9lWSiwLk7Z2UciLgscO1t1tU3OQLNnR"
+    },
+    {
+      "document_number": "525008/09-09-2024",
+      "protocol_number": "ΜΕΛΕΤΗ ΕΚΚΧΟ/09-09-2024",
+      "type": "Άλλο",
+      "file_url": "https://silia.eett.gr/silia/download/nhoGOnuITmXiIfduhSPCgrRKzqELCFwxV39Y"
+    },
+    {
+      "document_number": "525009/09-09-2024",
+      "protocol_number": "Αρχείο Αίτησης/09-09-2024",
+      "type": "Δήλωση ΕΚΚΧΟ",
+      "file_url": "https://silia.eett.gr/silia/download/OY2pWGm6l9wOyXeWvCQSYqcXvToHlD9Qg1aX"
+    },
+    {
+      "document_number": "536064/19-12-2024",
+      "protocol_number": "ΥΔ ΕΓΚΑΤΑΣΤΑΣΗΣ/19-12-2024",
+      "type": "Άλλο",
+      "file_url": "https://silia.eett.gr/silia/download/B1iVYZU8bV0GUqGIgPfV9sBR4CVmlzx0wEYO"
+    }
+  ]
+}

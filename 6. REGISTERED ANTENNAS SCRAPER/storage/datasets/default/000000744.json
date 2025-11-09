@@ -1,0 +1,45 @@
+{
+  "antenna_id": "167717",
+  "address": "ΛΥΡΚΕΙΑ ΑΡΓΟΛΙΔΑΣ",
+  "position_code": 1498582,
+  "municipality": "Άργους - Μυκηνών",
+  "code_name": "LYRKEIA_TK",
+  "region": "Πελοποννήσου",
+  "latitude": 37.704444,
+  "company": "OTE",
+  "longitude": 22.552222,
+  "permit_status": "Από τα στοιχεία που τηρούνται στην Ενημερωτική Πύλη προκύπτει ότι, για τη θέση \"ΛΥΡΚΕΙΑ ΑΡΓΟΛΙΔΑΣ\" στον Δήμο Άργους - Μυκηνών Περιφέρειας  Πελοποννήσου \n\t(κωδικός αριθμός θέσης 1498582, κωδική ονομασία \"LYRKEIA_TK\") έχει κατατεθεί από την εταιρία OTE\tδήλωση εγκατάστασης κατασκευής κεραίας (αριθ. πρωτ. \n\t53205/10-10-2023) που εμπίπτει στις διατάξεις της νομοθεσίας για Εγκαταστάσεις Κατασκευών Κεραιών Χαμηλής Ηλεκτρομαγνητικής Περιβαλλοντικής Όχλησης (ΕΚΚΧΟ).",
+  "measurements_eaee": "-",
+  "documents": [
+    {
+      "document_number": "496610/10-10-2023",
+      "protocol_number": "ΜΕΣΩ ΣΗΛΥΑ/",
+      "type": "Αίτηση - Μελέτη Ραδιοεκπομπών ΕΕΑΕ",
+      "file_url": "https://silia.eett.gr/silia/download/5d6c0824-b91e-4371-b036-f75c40344cde"
+    },
+    {
+      "document_number": "496695/10-10-2023",
+      "protocol_number": "ΦΩΤΟΓΡΑΦΙΑ/10-10-2023",
+      "type": "Φωτογραφικό Υλικό - Σκαρίφημα",
+      "file_url": "https://silia.eett.gr/silia/download/b8f1ac55-1b28-4a76-abc6-61ecfeb84b5c"
+    },
+    {
+      "document_number": "496696/10-10-2023",
+      "protocol_number": "Αρχείο Αίτησης/",
+      "type": "Δήλωση ΕΚΚΧΟ",
+      "file_url": "https://silia.eett.gr/silia/download/7933a62a-cbe7-4978-bc6b-5d53d531b0a0"
+    },
+    {
+      "document_number": "524373/03-09-2024",
+      "protocol_number": "ΥΠ.ΔΗΛΩΣΗ/03-09-2024",
+      "type": "Άλλο",
+      "file_url": "https://silia.eett.gr/silia/download/P2GXncctBQrpPEOxdUNuHkwt7SMI7IW9EqM4"
+    },
+    {
+      "document_number": "524957/09-09-2024",
+      "protocol_number": "23167/05-09-2024",
+      "type": "Διόρθωση Σφάλματος",
+      "file_url": "https://silia.eett.gr/silia/download/m0BFoPTQC7HhvbZBKKRGDN0M3AXFrNGHzgFs"
+    }
+  ]
+}

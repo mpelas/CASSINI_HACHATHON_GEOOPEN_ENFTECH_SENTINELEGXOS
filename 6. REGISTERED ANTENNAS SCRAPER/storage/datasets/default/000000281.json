@@ -1,0 +1,39 @@
+{
+  "antenna_id": "154694",
+  "address": "Δήμος Αγράφων, Π.Ε Ευρυτανίας, Περιφέρεια Στερεάς Ελλάδας",
+  "position_code": 3207250,
+  "municipality": "Αγράφων",
+  "code_name": "ΤΡΟΒΑΤΟ-Δ",
+  "region": "Στερεάς Ελλάδας",
+  "latitude": 39.240556,
+  "company": "ΕΡΤ ΑΕ",
+  "longitude": 21.609722,
+  "permit_status": "Από τα στοιχεία που τηρούνται στην Ενημερωτική Πύλη προκύπτει ότι για τη  θέση \"Δήμος Αγράφων, Π.Ε Ευρυτανίας, Περιφέρεια Στερεάς Ελλάδας\" στον Δήμο Αγράφων Περιφέρειας  Στερεάς Ελλάδας έχει κατατεθεί από την εταιρία ΕΡΤ ΑΕ δήλωση δομικών κατασκευών κεραιών  \nμε αριθ. πρωτ. ΣΗΛΥΑ 39236/23-05-2020 κατά τα οριζόμενα στην παρ. 7 του άρθρου 34 του Ν.4635/2019.",
+  "measurements_eaee": "-",
+  "documents": [
+    {
+      "document_number": "407475/23-05-2020",
+      "protocol_number": "δορυφορική λήψη και στοιχεία δομικών κατασκευών/",
+      "type": "Άλλο",
+      "file_url": "https://silia.eett.gr/silia/download/838bb399-aee7-4de6-ad4d-3755220ea9f3"
+    },
+    {
+      "document_number": "407476/23-05-2020",
+      "protocol_number": "απογραφή 1987/",
+      "type": "Άλλο",
+      "file_url": "https://silia.eett.gr/silia/download/56618666-e53a-4c40-975d-ec6dd322debe"
+    },
+    {
+      "document_number": "407477/23-05-2020",
+      "protocol_number": "πίνακας 51 απογραφής ΕΡΤ 1987/",
+      "type": "Άλλο",
+      "file_url": "https://silia.eett.gr/silia/download/c48ee61d-3221-4a24-a3da-0a145262d380"
+    },
+    {
+      "document_number": "407669/23-05-2020",
+      "protocol_number": "Αρχείο Αίτησης/",
+      "type": "Δήλωση Δομικών ΕΡΤ",
+      "file_url": "https://silia.eett.gr/silia/download/cde1d6a2-9b59-4a1f-a341-4c354dc9b6a4"
+    }
+  ]
+}

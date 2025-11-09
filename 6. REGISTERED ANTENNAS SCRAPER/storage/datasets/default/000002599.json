@@ -1,0 +1,63 @@
+{
+  "antenna_id": "176007",
+  "address": "ΠΑΝΕΠΙΣΤΗΜΙΟ ΠΑΤΡΑΣ",
+  "position_code": 1299513,
+  "municipality": "Πατρέων",
+  "code_name": "ERICSON PATRA ICT EKKXO",
+  "region": "Δυτικής Ελλάδας",
+  "latitude": 38.288056,
+  "company": "NOVA Μ.Α.Ε.",
+  "longitude": 21.788611,
+  "permit_status": "Από τα στοιχεία που τηρούνται στην Ενημερωτική Πύλη προκύπτει ότι, για τη θέση \"ΠΑΝΕΠΙΣΤΗΜΙΟ ΠΑΤΡΑΣ\" στον Δήμο Πατρέων Περιφέρειας  Δυτικής Ελλάδας \n\t(κωδικός αριθμός θέσης 1299513, κωδική ονομασία \"ERICSON PATRA ICT EKKXO\") έχει κατατεθεί από την εταιρία NOVA Μ.Α.Ε.\tδήλωση εγκατάστασης κατασκευής κεραίας (αριθ. πρωτ. \n\t58121/31-10-2024) που εμπίπτει στις διατάξεις της νομοθεσίας για Εγκαταστάσεις Κατασκευών Κεραιών Χαμηλής Ηλεκτρομαγνητικής Περιβαλλοντικής Όχλησης (ΕΚΚΧΟ).",
+  "measurements_eaee": "-",
+  "documents": [
+    {
+      "document_number": "530628/29-10-2024",
+      "protocol_number": "ΑΠΕΙΚΟΝΙΣΗ GOOGLE EARTH/29-10-2024",
+      "type": "Άλλο",
+      "file_url": "https://silia.eett.gr/silia/download/bGdpsKIzVyZtgLhGsg5hM3dBLoPaFy4YtVd0"
+    },
+    {
+      "document_number": "530629/29-10-2024",
+      "protocol_number": "ΦΩΤΟΡΕΑΛΙΣΤΙΚΟ/29-10-2024",
+      "type": "Φωτογραφικό Υλικό - Σκαρίφημα",
+      "file_url": "https://silia.eett.gr/silia/download/HAwaE0tmiolt8laNr4Q1Z623VewBhHbiOguQ"
+    },
+    {
+      "document_number": "530630/29-10-2024",
+      "protocol_number": "ΤΟΠΟΓΡΑΦΙΚΟ/29-10-2024",
+      "type": "Τοπογραφικό",
+      "file_url": "https://silia.eett.gr/silia/download/LNMunTmzuqVfvhmGNuenz6ktoke2wsBagvoB"
+    },
+    {
+      "document_number": "530631/29-10-2024",
+      "protocol_number": "ΣΚΑΡΙΦΗΜΑ ΕΚΚΧΟ/29-10-2024",
+      "type": "Φωτογραφικό Υλικό - Σκαρίφημα",
+      "file_url": "https://silia.eett.gr/silia/download/0zI15DslNyAa7me7gM87gzLHqi9keqPVgQmB"
+    },
+    {
+      "document_number": "530632/29-10-2024",
+      "protocol_number": "ΣΚΑΡΙΦΗΜΑ ΕΚΚΧΟ1/29-10-2024",
+      "type": "Φωτογραφικό Υλικό - Σκαρίφημα",
+      "file_url": "https://silia.eett.gr/silia/download/OYdMMyehzPnORXGCkZ8R0kT7X6fYNVaWzV5B"
+    },
+    {
+      "document_number": "530958/31-10-2024",
+      "protocol_number": "ΜΕΛΕΤΗ ΕΚΚΧΟ/30-10-2024",
+      "type": "Άλλο",
+      "file_url": "https://silia.eett.gr/silia/download/iFvgNqRvHwLNPMVCDCyXlxsIgbqza9QCpECO"
+    },
+    {
+      "document_number": "531009/31-10-2024",
+      "protocol_number": "ΟΡΙΖΟΝΤΙΟ ΔΙΑΓΡΑΜΜΑ ΚΕΡΑΙΑΣ/31-10-2024",
+      "type": "Άλλο",
+      "file_url": "https://silia.eett.gr/silia/download/DEG9cMfY1wUmHq7LBaXqxlRmZVqd74DIa27y"
+    },
+    {
+      "document_number": "531012/31-10-2024",
+      "protocol_number": "Αρχείο Αίτησης/31-10-2024",
+      "type": "Δήλωση ΕΚΚΧΟ",
+      "file_url": "https://silia.eett.gr/silia/download/g6HxUC2tMrqZsFEzkEGslXzoUTBLecTGp7zI"
+    }
+  ]
+}

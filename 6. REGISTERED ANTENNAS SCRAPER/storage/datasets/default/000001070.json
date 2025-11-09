@@ -1,0 +1,45 @@
+{
+  "antenna_id": "177963",
+  "address": "ΑΓΙΟΣ ΒΛΑΣΙΟΣ ΜΑΓΝΗΣΙΑΣ",
+  "position_code": 400313,
+  "municipality": "Βόλου",
+  "code_name": "AG.VLASIOS_MAGN",
+  "region": "Θεσσαλίας",
+  "latitude": 39.340833,
+  "company": "OTE",
+  "longitude": 23.0675,
+  "permit_status": "Από τα στοιχεία που τηρούνται στην Ενημερωτική Πύλη προκύπτει ότι, για τη θέση \"ΑΓΙΟΣ ΒΛΑΣΙΟΣ ΜΑΓΝΗΣΙΑΣ\" στον Δήμο Βόλου Περιφέρειας  Θεσσαλίας \n\t(κωδικός αριθμός θέσης 0400313, κωδική ονομασία \"AG.VLASIOS_MAGN\") έχει κατατεθεί από την εταιρία OTE\tδήλωση εγκατάστασης κατασκευής κεραίας (αριθ. πρωτ. \n\t59691/04-03-2025) που εμπίπτει στις διατάξεις της νομοθεσίας για Εγκαταστάσεις Κατασκευών Κεραιών Χαμηλής Ηλεκτρομαγνητικής Περιβαλλοντικής Όχλησης (ΕΚΚΧΟ).",
+  "measurements_eaee": "-",
+  "documents": [
+    {
+      "document_number": "542457/28-02-2025",
+      "protocol_number": "ΦΩΤΟΓΡΑΦΙΑ/28-02-2025",
+      "type": "Φωτογραφικό Υλικό - Σκαρίφημα",
+      "file_url": "https://silia.eett.gr/silia/download/K3CTCu6QDQ73p2ZoLZctKsR4bB6em10kG8kc"
+    },
+    {
+      "document_number": "542458/28-02-2025",
+      "protocol_number": "ΦΩΤΟΓΡΑΦΙΑ1/28-02-2025",
+      "type": "Φωτογραφικό Υλικό - Σκαρίφημα",
+      "file_url": "https://silia.eett.gr/silia/download/QKmcUBkigBG5Q7gxR6KM39b6xultiN4gKCsf"
+    },
+    {
+      "document_number": "542459/28-02-2025",
+      "protocol_number": "ΜΕΛΕΤΗ/28-02-2025",
+      "type": "Αίτηση - Μελέτη Ραδιοεκπομπών ΕΕΑΕ",
+      "file_url": "https://silia.eett.gr/silia/download/bYsNLYcXQMDHzZV55dqZ2GhbkGzAqWMKdbrh"
+    },
+    {
+      "document_number": "542733/04-03-2025",
+      "protocol_number": "Αρχείο Αίτησης/04-03-2025",
+      "type": "Δήλωση ΕΚΚΧΟ",
+      "file_url": "https://silia.eett.gr/silia/download/6nUfiyPS0qB9p2sAwrgSZgKNTzs0GsSQos7o"
+    },
+    {
+      "document_number": "554645/08-07-2025",
+      "protocol_number": "ΥΠ.ΔΗΛΩΣΗ/08-07-2025",
+      "type": "Άλλο",
+      "file_url": "https://silia.eett.gr/silia/download/EChGbh6QdmXSuxbgiVGVVSE6mnVcZeg8VloW"
+    }
+  ]
+}

@@ -1,0 +1,69 @@
+{
+  "antenna_id": "172704",
+  "address": "ΑΓΙΟΣ ΙΩΑΝΝΗΣ ΘΕΟΛΟΓΟΣ, ΑΝΤΙΠΑΡΟΣ (CAMPING ΑΝΤΙΠΑΡΟΣ)",
+  "position_code": 1442578,
+  "municipality": "Αντιπάρου",
+  "code_name": "ANTIPAR_  CAMP_MI",
+  "region": "Νοτίου Αιγαίου",
+  "latitude": 37.047778,
+  "company": "OTE",
+  "longitude": 25.082222,
+  "permit_status": "Από τα στοιχεία που τηρούνται στην Ενημερωτική Πύλη προκύπτει ότι, για τη θέση \"ΑΓΙΟΣ ΙΩΑΝΝΗΣ ΘΕΟΛΟΓΟΣ, ΑΝΤΙΠΑΡΟΣ (CAMPING ΑΝΤΙΠΑΡΟΣ)\" στον Δήμο Αντιπάρου Περιφέρειας  Νοτίου Αιγαίου \n\t(κωδικός αριθμός θέσης 1442578, κωδική ονομασία \"ANTIPAR_  CAMP_MI\") έχει κατατεθεί από την εταιρία OTE\tδήλωση εγκατάστασης κατασκευής κεραίας (αριθ. πρωτ. \n\t55243/20-03-2024) που εμπίπτει στις διατάξεις της νομοθεσίας για Εγκαταστάσεις Κατασκευών Κεραιών Χαμηλής Ηλεκτρομαγνητικής Περιβαλλοντικής Όχλησης (ΕΚΚΧΟ).",
+  "measurements_eaee": "-",
+  "documents": [
+    {
+      "document_number": "510563/20-03-2024",
+      "protocol_number": "ΤΟΜΗ/20-03-2024",
+      "type": "Αρχιτεκτονικά [Κάτοψη - Τομή - Όψη]",
+      "file_url": "https://silia.eett.gr/silia/download/EKiHZu1glhC6nHkImGDAkuGAW3zqGLG14wFG"
+    },
+    {
+      "document_number": "510564/20-03-2024",
+      "protocol_number": "ΚΑΤΟΨΗ/20-03-2024",
+      "type": "Αρχιτεκτονικά [Κάτοψη - Τομή - Όψη]",
+      "file_url": "https://silia.eett.gr/silia/download/8g0qWMbzGGyGPVFC6Zs4Rc9ylPPoLW1b8Fa9"
+    },
+    {
+      "document_number": "510565/20-03-2024",
+      "protocol_number": "ΦΩΤΟΓΡΑΦΙΑ/20-03-2024",
+      "type": "Φωτογραφικό Υλικό - Σκαρίφημα",
+      "file_url": "https://silia.eett.gr/silia/download/CwSGlvbac7r1B7TPWt86x1ky3GtRx1DBAAQc"
+    },
+    {
+      "document_number": "510566/20-03-2024",
+      "protocol_number": "ΦΩΤΟΓΡΑΦΙΑ1/20-03-2024",
+      "type": "Φωτογραφικό Υλικό - Σκαρίφημα",
+      "file_url": "https://silia.eett.gr/silia/download/D2nZ931QAvdY2pNY5dGepLEps97uu1oikV50"
+    },
+    {
+      "document_number": "510567/20-03-2024",
+      "protocol_number": "549945/28-12-2023",
+      "type": "Γνωμοδότηση ΕΠΚΑ",
+      "file_url": "https://silia.eett.gr/silia/download/Cue50MKhWEB6wCWV27LqudlK0YuRcDfZBBi1"
+    },
+    {
+      "document_number": "510568/20-03-2024",
+      "protocol_number": "444028/26-09-2023",
+      "type": "Γνωμοδότηση Υπηρεσίας Νεωτέρων Μνημείων",
+      "file_url": "https://silia.eett.gr/silia/download/8cZRT7083LgGmtu6Q8D8g29QtYrfbsGrmsZu"
+    },
+    {
+      "document_number": "510586/20-03-2024",
+      "protocol_number": "ΜΕΛΕΤΗ/20-03-2024",
+      "type": "Αίτηση - Μελέτη Ραδιοεκπομπών ΕΕΑΕ",
+      "file_url": "https://silia.eett.gr/silia/download/ICUhNow88QOCwy6ufxTwbNM4o6Ar8CgqfaRM"
+    },
+    {
+      "document_number": "510663/20-03-2024",
+      "protocol_number": "Αρχείο Αίτησης/20-03-2024",
+      "type": "Δήλωση ΕΚΚΧΟ",
+      "file_url": "https://silia.eett.gr/silia/download/4ocMxRhDPwyIOEKoK2dAOHCfAYzvVXWHa0gY"
+    },
+    {
+      "document_number": "517525/11-06-2024",
+      "protocol_number": "ΥΠ.ΔΗΛΩΣΗ/11-06-2024",
+      "type": "Άλλο",
+      "file_url": "https://silia.eett.gr/silia/download/1SbivaunZPPMNcsG3n0OosbV18O1Ha7dtDPd"
+    }
+  ]
+}

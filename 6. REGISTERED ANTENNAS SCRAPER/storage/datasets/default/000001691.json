@@ -1,0 +1,81 @@
+{
+  "antenna_id": "173329",
+  "address": "ΠΛΗΣΙΟΝ ΡΟΔΟΤΟΠΙΟΥ",
+  "position_code": 1203153,
+  "municipality": "Ζίτσας",
+  "code_name": "ΙΩΑΝΝΙΝΑ  INDUSTRIAL",
+  "region": "Ηπείρου",
+  "latitude": 39.696944,
+  "company": "NOVA Μ.Α.Ε.",
+  "longitude": 20.748056,
+  "permit_status": "Από τα στοιχεία που τηρούνται στην Ενημερωτική Πύλη προκύπτει ότι, για τη θέση \"ΠΛΗΣΙΟΝ ΡΟΔΟΤΟΠΙΟΥ\" στον Δήμο Ζίτσας Περιφέρειας  Ηπείρου \n\t(κωδικός αριθμός θέσης 1203153, κωδική ονομασία \"ΙΩΑΝΝΙΝΑ  INDUSTRIAL\") χορηγήθηκε, με την Απόφαση της ΕΕΤΤ \n51374/20-09-2024, άδεια κατασκευής κεραίας στην εταιρία NOVA Μ.Α.Ε.. \nΑπό τo έγγραφο της άδειας μπορείτε να ενημερωθείτε για τις σχετικές εγκρίσεις των συναρμόδιων φορέων, καθώς και εάν πρόκειται για τροποποίηση παλαιότερης άδειας.\n\tΣύμφωνα με τα στοιχεία που έχουν υποβληθεί στο ΣΗΛΥΑ για την κατασκευή κεραίας από τον κάτοχό της, έχει εκδοθεί έγκριση δομικών κατασκευών κεραίας",
+  "measurements_eaee": "-",
+  "documents": [
+    {
+      "document_number": "514304/29-04-2024",
+      "protocol_number": "20776/2016/13/23-05-2013",
+      "type": "Έγκριση δομικών κατασκευών (έντυπη)",
+      "file_url": "https://silia.eett.gr/silia/download/RgiSiQGRd37hvGsP3xDYkcsHNgZTmG1f1G6r"
+    },
+    {
+      "document_number": "514305/29-04-2024",
+      "protocol_number": "Δ3/Δ/3068/503/10-02-2004",
+      "type": "Γνωμάτευση ΥΠΑ",
+      "file_url": "https://silia.eett.gr/silia/download/bmq9Uzzr7RoCNrcRrPNz8WtmrgZnezAwfccZ"
+    },
+    {
+      "document_number": "514311/29-04-2024",
+      "protocol_number": "ΤΟΠΟΓΡΑΦΙΚΟ & ΑΡΧΙΤΕΚΤΟΝΙΚΑ/29-04-2024",
+      "type": "Αρχιτεκτονικά Σχέδια",
+      "file_url": "https://silia.eett.gr/silia/download/13LkOXnWdlDG4mgIzLGwN6A8GLrdxZl32NU0"
+    },
+    {
+      "document_number": "514312/29-04-2024",
+      "protocol_number": "ΜΕΣΩ ΣΗΛΥΑ/15-02-2024",
+      "type": "Αίτηση - Μελέτη Ραδιοεκπομπών ΕΕΑΕ",
+      "file_url": "https://silia.eett.gr/silia/download/lrsdgTzG9U05SDbWAbEKIkCekvS4Sp8DiceT"
+    },
+    {
+      "document_number": "514313/29-04-2024",
+      "protocol_number": "ΥΔ ΚΟΙΝΗΣ ΧΡΗΣΗΣ VODAFONE/20-02-2024",
+      "type": "Άλλο",
+      "file_url": "https://silia.eett.gr/silia/download/DgvLfwddMh4aXgpsGxnDh7wlYFF6yB8X4g1R"
+    },
+    {
+      "document_number": "514314/29-04-2024",
+      "protocol_number": "ΥΔ ΔΙΑΣΥΝΔΕΣΗΣ VODAFONE/20-02-2024",
+      "type": "Άλλο",
+      "file_url": "https://silia.eett.gr/silia/download/8iRATw7CZVQYkrlnI7W18DQcpAo7Z9mmZRCn"
+    },
+    {
+      "document_number": "514320/29-04-2024",
+      "protocol_number": "Αρχείο Αίτησης/29-04-2024",
+      "type": "Αίτηση Άδειας Κατασκευής Κεραίας ΕΕΤΤ",
+      "file_url": "https://silia.eett.gr/silia/download/87yVPg2uFS8ilQ6k2AlelBtghYyCXQhyTS5x"
+    },
+    {
+      "document_number": "519710/07-07-2024",
+      "protocol_number": "ΤΜΙΑ/411/9321/2024/05-07-2024",
+      "type": "Γνωμάτευση ΕΕΑΕ",
+      "file_url": "https://silia.eett.gr/silia/download/YyYIEZUdmCn3fvhnIGXkAedrCbCFCqtVEhPq"
+    },
+    {
+      "document_number": "526447/20-09-2024",
+      "protocol_number": "51374/20-09-2024",
+      "type": "Άδεια Κατασκευής  Κεραίας",
+      "file_url": "https://silia.eett.gr/silia/download/Mggx4iwgfoqRhieiWKZEwp9aycYccK1qGwW7"
+    },
+    {
+      "document_number": "514304/29-04-2024",
+      "protocol_number": "20776/2016/13/23-05-2013",
+      "type": "Έγκριση δομικών κατασκευών (έντυπη)",
+      "file_url": "https://silia.eett.gr/silia/download/RgiSiQGRd37hvGsP3xDYkcsHNgZTmG1f1G6r"
+    },
+    {
+      "document_number": "514321/29-04-2024",
+      "protocol_number": "Αρχείο Αίτησης/29-04-2024",
+      "type": "Δήλωση ΠΠΔ",
+      "file_url": "https://silia.eett.gr/silia/download/sfTREZgGMnE1gGo7921HX9I9HPORmg1nSLQR"
+    }
+  ]
+}

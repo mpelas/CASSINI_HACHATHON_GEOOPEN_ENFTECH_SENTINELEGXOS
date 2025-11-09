@@ -1,0 +1,39 @@
+{
+  "antenna_id": "161106",
+  "address": "Επαρ. Οδ. Οινόης - Μαγούλας, Ελευσίνα.",
+  "position_code": 1158107,
+  "municipality": "Ελευσίνας",
+  "code_name": "FARMA KATERINA MAGOULA",
+  "region": "Αττικής",
+  "latitude": 38.079722,
+  "company": "VODAFONE",
+  "longitude": 23.533333,
+  "permit_status": "Από τα στοιχεία που τηρούνται στην Ενημερωτική Πύλη προκύπτει ότι, για τη θέση \"Επαρ. Οδ. Οινόης - Μαγούλας, Ελευσίνα.\" στον Δήμο Ελευσίνας Περιφέρειας  Αττικής \n\t(κωδικός αριθμός θέσης 1158107, κωδική ονομασία \"FARMA KATERINA MAGOULA\") έχει κατατεθεί από την εταιρία VODAFONE\tδήλωση εγκατάστασης κατασκευής κεραίας (αριθ. πρωτ. \n\t45437/03-11-2021) που εμπίπτει στις διατάξεις της νομοθεσίας για Εγκαταστάσεις Κατασκευών Κεραιών Χαμηλής Ηλεκτρομαγνητικής Περιβαλλοντικής Όχλησης (ΕΚΚΧΟ).",
+  "measurements_eaee": "-",
+  "documents": [
+    {
+      "document_number": "445527/03-11-2021",
+      "protocol_number": "ΣΚΑΡΙΦΗΜΑ ΘΕΣΗΣ ΙΣΤΟΥ ΕΚΚΧΟ - ΟΨΗ ΚΕΡΑΙΑΣ/",
+      "type": "Φωτογραφικό Υλικό - Σκαρίφημα",
+      "file_url": "https://silia.eett.gr/silia/download/db322aa3-c5a4-4424-8bb8-59dd9140d1e4"
+    },
+    {
+      "document_number": "445532/03-11-2021",
+      "protocol_number": "Φ.550/763267/17-06-1999",
+      "type": "Γνωμάτευση ΓΕΑ",
+      "file_url": "https://silia.eett.gr/silia/download/75408b41-f24c-4723-acf0-09afc85bd249"
+    },
+    {
+      "document_number": "445543/03-11-2021",
+      "protocol_number": "Φωτογραφία θέσης EKKXO απο Google Earth/",
+      "type": "Φωτογραφικό Υλικό - Σκαρίφημα",
+      "file_url": "https://silia.eett.gr/silia/download/cf551c51-b218-402c-aaa3-81b4ac23855b"
+    },
+    {
+      "document_number": "445544/03-11-2021",
+      "protocol_number": "Αρχείο Αίτησης/",
+      "type": "Δήλωση ΕΚΚΧΟ",
+      "file_url": "https://silia.eett.gr/silia/download/3ef385d9-5ead-4e29-80b8-8974299f9b3e"
+    }
+  ]
+}

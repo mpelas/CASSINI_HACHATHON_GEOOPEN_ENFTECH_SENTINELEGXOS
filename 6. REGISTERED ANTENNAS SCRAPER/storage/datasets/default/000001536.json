@@ -1,0 +1,81 @@
+{
+  "antenna_id": "167623",
+  "address": "Πλατεία Ηρώων 2",
+  "position_code": 1150389,
+  "municipality": "Ελευσίνας",
+  "code_name": "ΚΟΥΛΗΣ ΠΛΑΤΕΙΑ ΗΡΩΩΝ ΕΛΕΥΣΙΝΑ",
+  "region": "Αττικής",
+  "latitude": 38.0425,
+  "company": "VODAFONE",
+  "longitude": 23.541111,
+  "permit_status": "Από τα στοιχεία που τηρούνται στην Ενημερωτική Πύλη προκύπτει ότι, για τη θέση \"Πλατεία Ηρώων 2\" στον Δήμο Ελευσίνας Περιφέρειας  Αττικής \n\t(κωδικός αριθμός θέσης 1150389, κωδική ονομασία \"ΚΟΥΛΗΣ ΠΛΑΤΕΙΑ ΗΡΩΩΝ ΕΛΕΥΣΙΝΑ\") έχει κατατεθεί από την εταιρία VODAFONE\tδήλωση εγκατάστασης κατασκευής κεραίας (αριθ. πρωτ. \n\t51056/20-03-2023) που εμπίπτει στις διατάξεις της νομοθεσίας για Εγκαταστάσεις Κατασκευών Κεραιών Χαμηλής Ηλεκτρομαγνητικής Περιβαλλοντικής Όχλησης (ΕΚΚΧΟ).",
+  "measurements_eaee": "-",
+  "documents": [
+    {
+      "document_number": "480626/20-03-2023",
+      "protocol_number": "Φωτορεαλιστική απεικόνιση ΕΚΚΧΟ/",
+      "type": "Φωτογραφικό Υλικό - Σκαρίφημα",
+      "file_url": "https://silia.eett.gr/silia/download/17353102-b9b3-42f8-8529-51eb0cd7087d"
+    },
+    {
+      "document_number": "480627/20-03-2023",
+      "protocol_number": "Ψηφιακός Χάρτης με προβολή της θέσης ΕΚΚΧΟ/",
+      "type": "Φωτογραφικό Υλικό - Σκαρίφημα",
+      "file_url": "https://silia.eett.gr/silia/download/9dddcc8d-c111-41f6-b6ce-462e70b6131a"
+    },
+    {
+      "document_number": "480628/20-03-2023",
+      "protocol_number": "Αρχιτεκτονικά σχέδια ΕΚΚΧΟ/",
+      "type": "Αρχιτεκτονικά Σχέδια",
+      "file_url": "https://silia.eett.gr/silia/download/e2b182b2-c78d-46fc-b33a-b0fc5a7f288a"
+    },
+    {
+      "document_number": "480629/20-03-2023",
+      "protocol_number": "58355/14-02-2023",
+      "type": "Έγκριση Αρμοδίου Φορέα",
+      "file_url": "https://silia.eett.gr/silia/download/6d9961b7-35e7-45dc-b523-5ba53a6ab004"
+    },
+    {
+      "document_number": "480630/20-03-2023",
+      "protocol_number": "57474/08-02-2023",
+      "type": "Έγκριση Αρμοδίου Φορέα",
+      "file_url": "https://silia.eett.gr/silia/download/6d1ffd9e-56a2-46b6-90b6-13a96a4cb5d7"
+    },
+    {
+      "document_number": "480631/20-03-2023",
+      "protocol_number": "Φ.550/ΑΔ.2892/Σ.543/06-03-2023",
+      "type": "Γνωμάτευση ΓΕΑ",
+      "file_url": "https://silia.eett.gr/silia/download/d9c909e5-3929-4b9e-82c5-8f24b778b4c6"
+    },
+    {
+      "document_number": "480643/20-03-2023",
+      "protocol_number": "Μελέτη ΕΚΚΧΟ/20-03-2023",
+      "type": "Άλλο",
+      "file_url": "https://silia.eett.gr/silia/download/64f70988-d09f-4100-92cc-31b4e6222410"
+    },
+    {
+      "document_number": "480644/20-03-2023",
+      "protocol_number": "Σκαρίφημα με περιοχή απαγόρευσης/",
+      "type": "Φωτογραφικό Υλικό - Σκαρίφημα",
+      "file_url": "https://silia.eett.gr/silia/download/56a25a42-b980-4cab-977c-2ed3f37c9ad9"
+    },
+    {
+      "document_number": "480645/20-03-2023",
+      "protocol_number": "Αρχείο Αίτησης/",
+      "type": "Δήλωση ΕΚΚΧΟ",
+      "file_url": "https://silia.eett.gr/silia/download/6ee7ea72-b30c-4430-ae8e-b333e3e9a756"
+    },
+    {
+      "document_number": "483214/26-04-2023",
+      "protocol_number": "ΥΔ εγκατάστασης/26-04-2023",
+      "type": "Άλλο",
+      "file_url": "https://silia.eett.gr/silia/download/d3e87b35-e2eb-4dbc-a0e0-d13e9d9e7504"
+    },
+    {
+      "document_number": "488542/22-06-2023",
+      "protocol_number": "Ψηφιακός Χάρτης με προβολή της θέσης ΕΚΚΧΟ/",
+      "type": "Φωτογραφικό Υλικό - Σκαρίφημα",
+      "file_url": "https://silia.eett.gr/silia/download/e2a1671a-85c7-4ad2-b68a-c6aab6f29d11"
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "antenna_id": "174530",
+  "address": "ΜΑΥΡΟΛΟΦΟΣ ΜΑΓΝΗΣΙΑΣ",
+  "position_code": 1496765,
+  "municipality": "Αλμυρού",
+  "code_name": "FORMANO_SOLAR_MAGN",
+  "region": "Θεσσαλίας",
+  "latitude": 39.200278,
+  "company": "OTE",
+  "longitude": 22.718611,
+  "permit_status": "Από τα στοιχεία που τηρούνται στην Ενημερωτική Πύλη προκύπτει ότι, για τη θέση \"ΜΑΥΡΟΛΟΦΟΣ ΜΑΓΝΗΣΙΑΣ\" στον Δήμο Αλμυρού Περιφέρειας  Θεσσαλίας \n\t(κωδικός αριθμός θέσης 1496765, κωδική ονομασία \"FORMANO_SOLAR_MAGN\") έχει κατατεθεί από την εταιρία OTE\tδήλωση εγκατάστασης κατασκευής κεραίας (αριθ. πρωτ. \n\t57597/02-10-2024) που εμπίπτει στις διατάξεις της νομοθεσίας για Εγκαταστάσεις Κατασκευών Κεραιών Χαμηλής Ηλεκτρομαγνητικής Περιβαλλοντικής Όχλησης (ΕΚΚΧΟ).",
+  "measurements_eaee": "-",
+  "documents": [
+    {
+      "document_number": "521611/23-07-2024",
+      "protocol_number": "ΦΩΤΟΓΡΑΦΙΑ/23-07-2024",
+      "type": "Φωτογραφικό Υλικό - Σκαρίφημα",
+      "file_url": "https://silia.eett.gr/silia/download/c7xWebQOGWMadfq6fbbZpdT58MDMuQodWx0D"
+    },
+    {
+      "document_number": "527481/02-10-2024",
+      "protocol_number": "ΜΕΛΕΤΗ/02-10-2024",
+      "type": "Αίτηση - Μελέτη Ραδιοεκπομπών ΕΕΑΕ",
+      "file_url": "https://silia.eett.gr/silia/download/troI4AfsDVQqFWl7TB1w0cZhFpIxHp2ENDOG"
+    },
+    {
+      "document_number": "527552/02-10-2024",
+      "protocol_number": "Αρχείο Αίτησης/02-10-2024",
+      "type": "Δήλωση ΕΚΚΧΟ",
+      "file_url": "https://silia.eett.gr/silia/download/X7KxGg0LYxnNnG4fOIaT7i4LbtC7cg7giKqg"
+    },
+    {
+      "document_number": "533186/21-11-2024",
+      "protocol_number": "ΥΠ.ΔΗΛΩΣΗ/21-11-2024",
+      "type": "Άλλο",
+      "file_url": "https://silia.eett.gr/silia/download/SOvdD4HfZblokH5faPRpA8BTHOOoVcY5R40T"
+    }
+  ]
+}

@@ -1,0 +1,111 @@
+{
+  "antenna_id": "172049",
+  "address": "20 χλμ Ε.Ο ΣΕΡΡΩΝ ΘΕΣΣΑΛΟΝΙΚΗΣ ΣΤΡΥΜΟΝΙΚΟ",
+  "position_code": 3000249,
+  "municipality": "Ηρακλείας",
+  "code_name": "ΜΥΛΟΙ ΣΤΡΥΜΟΝΙΚΟ",
+  "region": "Κεντρικής Μακεδονίας",
+  "latitude": 41.053056,
+  "company": "ERMIS-WISP",
+  "longitude": 23.316111,
+  "permit_status": "Από τα στοιχεία που τηρούνται στην Ενημερωτική Πύλη προκύπτει ότι, για τη θέση \"20 χλμ Ε.Ο ΣΕΡΡΩΝ ΘΕΣΣΑΛΟΝΙΚΗΣ ΣΤΡΥΜΟΝΙΚΟ\" στον Δήμο Ηρακλείας Περιφέρειας  Κεντρικής Μακεδονίας \n\t(κωδικός αριθμός θέσης 3000249, κωδική ονομασία \"ΜΥΛΟΙ ΣΤΡΥΜΟΝΙΚΟ\") έχει κατατεθεί από την εταιρία ERMIS-WISP\tδήλωση εγκατάστασης κατασκευής κεραίας (αριθ. πρωτ. \n\t54739/09-02-2024) που εμπίπτει στις διατάξεις της νομοθεσίας για Εγκαταστάσεις Κατασκευών Κεραιών Χαμηλής Ηλεκτρομαγνητικής Περιβαλλοντικής Όχλησης (ΕΚΚΧΟ).",
+  "measurements_eaee": "-",
+  "documents": [
+    {
+      "document_number": "507254/09-02-2024",
+      "protocol_number": "Φωτορεαλιστική απεικόνιση /",
+      "type": "Φωτογραφικό Υλικό - Σκαρίφημα",
+      "file_url": "https://silia.eett.gr/silia/download/6b744582-98e0-434a-bc1f-d711cb4ddc54"
+    },
+    {
+      "document_number": "507255/09-02-2024",
+      "protocol_number": "Τοπογραφικό Google Eatrh/",
+      "type": "Τοπογραφικό",
+      "file_url": "https://silia.eett.gr/silia/download/2055df3e-6540-4518-8d2a-ee1acc1edddd"
+    },
+    {
+      "document_number": "507256/09-02-2024",
+      "protocol_number": "Οψη Ιστου χωρων προστασιας Βορεια/",
+      "type": "Αρχιτεκτονικά Σχέδια",
+      "file_url": "https://silia.eett.gr/silia/download/191c33c8-dfdb-4ebd-9250-8cff842e386b"
+    },
+    {
+      "document_number": "507257/09-02-2024",
+      "protocol_number": "Οψη Ιστου χωρων προστασιας Ανατολικα/",
+      "type": "Αρχιτεκτονικά Σχέδια",
+      "file_url": "https://silia.eett.gr/silia/download/cf06efd0-2139-40f6-95ff-94b762dcfdfe"
+    },
+    {
+      "document_number": "507258/09-02-2024",
+      "protocol_number": "Οψη  Ιστου & Κεραιων/",
+      "type": "Αρχιτεκτονικά Σχέδια",
+      "file_url": "https://silia.eett.gr/silia/download/b4cd8309-9aab-4fb9-87ef-e828ad5ad804"
+    },
+    {
+      "document_number": "507259/09-02-2024",
+      "protocol_number": "Κατοψη Κτιριου/",
+      "type": "Αρχιτεκτονικά Σχέδια",
+      "file_url": "https://silia.eett.gr/silia/download/cebe1b74-89eb-4113-ad39-8be0f94fca5f"
+    },
+    {
+      "document_number": "507260/09-02-2024",
+      "protocol_number": "Κατοψη χωρων προστασιας/",
+      "type": "Αρχιτεκτονικά Σχέδια",
+      "file_url": "https://silia.eett.gr/silia/download/95f23c76-10f9-4818-8195-b5fc31c23e5a"
+    },
+    {
+      "document_number": "507261/09-02-2024",
+      "protocol_number": "Κατοψη Ιστου & κεραιων/",
+      "type": "Αρχιτεκτονικά Σχέδια",
+      "file_url": "https://silia.eett.gr/silia/download/c23c46ff-79de-4e90-aeb5-ec9209c22519"
+    },
+    {
+      "document_number": "507262/09-02-2024",
+      "protocol_number": "Τεχνικα Χαρακτηριστικα Mimosa C5Χ & Διαγραμμα ακτινοβολιας/",
+      "type": "Άλλο",
+      "file_url": "https://silia.eett.gr/silia/download/7abfa682-3869-4163-b46a-079dc727befa"
+    },
+    {
+      "document_number": "507263/09-02-2024",
+      "protocol_number": "Δήλωση συμμόρφωσης Mimosa c5x/",
+      "type": "Άλλο",
+      "file_url": "https://silia.eett.gr/silia/download/ef72f094-9d0d-4767-8a4e-cd0fb0bdebae"
+    },
+    {
+      "document_number": "507264/09-02-2024",
+      "protocol_number": "Δήλωση συμμόρφωσης mANTBOX-19s/",
+      "type": "Άλλο",
+      "file_url": "https://silia.eett.gr/silia/download/6f306e10-4cb0-4796-ba49-e5f0df0ce5c9"
+    },
+    {
+      "document_number": "507265/09-02-2024",
+      "protocol_number": "Τεχνικα Χαρακτηριστικα mANTBOX 19s/",
+      "type": "Άλλο",
+      "file_url": "https://silia.eett.gr/silia/download/0fc21025-2571-486d-9d77-069af3106d9b"
+    },
+    {
+      "document_number": "507266/09-02-2024",
+      "protocol_number": "Τεχνικα Χαρακτηριστικα Mikrotik MANT30PA/",
+      "type": "Άλλο",
+      "file_url": "https://silia.eett.gr/silia/download/c99a4508-8c83-4c1f-94ca-ada6d50fe13e"
+    },
+    {
+      "document_number": "507267/09-02-2024",
+      "protocol_number": "Δήλωση συμμόρφωσης mANT30-PA/",
+      "type": "Άλλο",
+      "file_url": "https://silia.eett.gr/silia/download/74c27db6-a219-4e63-a7e5-bc498a9344ca"
+    },
+    {
+      "document_number": "507268/09-02-2024",
+      "protocol_number": "Αρχείο Αίτησης/",
+      "type": "Δήλωση ΕΚΚΧΟ",
+      "file_url": "https://silia.eett.gr/silia/download/f74154c8-de2b-4711-844e-67c14afab387"
+    },
+    {
+      "document_number": "509124/29-02-2024",
+      "protocol_number": "Υπευθυνη Δηλωση Εγκαταστασης /",
+      "type": "Άλλο",
+      "file_url": "https://silia.eett.gr/silia/download/5c1be827-eade-4afb-b15f-e6d8408066ad"
+    }
+  ]
+}

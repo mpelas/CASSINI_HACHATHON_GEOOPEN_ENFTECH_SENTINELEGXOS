@@ -1,0 +1,87 @@
+{
+  "antenna_id": "131713",
+  "address": "ΑΙΝΟΥ 26 & ΑΓΙΟΥ ΝΕΚΤΑΡΙΟΥ 46",
+  "position_code": 1001543,
+  "municipality": "Ηρακλείου",
+  "code_name": "ΑΙΝΟΥ ΗΡΑΚΛΕΙΟ",
+  "region": "Αττικής",
+  "latitude": 38.0525,
+  "company": "VODAFONE",
+  "longitude": 23.76,
+  "permit_status": "Από τα στοιχεία που τηρούνται στην Ενημερωτική Πύλη προκύπτει ότι, για τη θέση \"ΑΙΝΟΥ 26 & ΑΓΙΟΥ ΝΕΚΤΑΡΙΟΥ 46\" στον Δήμο Ηρακλείου Περιφέρειας  Αττικής \n\t(κωδικός αριθμός θέσης 1001543, κωδική ονομασία \"ΑΙΝΟΥ ΗΡΑΚΛΕΙΟ\") χορηγήθηκε, με την Απόφαση της ΕΕΤΤ \n40011/26-03-2021, άδεια κατασκευής κεραίας στην εταιρία VODAFONE. \nΑπό τo έγγραφο της άδειας μπορείτε να ενημερωθείτε για τις σχετικές εγκρίσεις των συναρμόδιων φορέων, καθώς και εάν πρόκειται για τροποποίηση παλαιότερης άδειας.\nΗ άδεια χορηγήθηκε με τη διαδικασία αδειοδότησης που ορίζει ο ν. 4635/2019, κατόπιν της με αριθ. πρωτ. 26493/02-03-2018 \n\tαίτησης, και βάσει σχετικής δήλωσης του κατόχου της περί υπαγωγή της κατασκευής κεραίας στο άρθρο 34 του ν. 4635/2019.",
+  "measurements_eaee": "-",
+  "documents": [
+    {
+      "document_number": "321874/23-02-2018",
+      "protocol_number": "ΜΕΛΕΤΗ ΡΑΔΙΟΕΚΠΟΜΠΩΝ/21-02-2018",
+      "type": "Αίτηση - Μελέτη Ραδιοεκπομπών ΕΕΑΕ",
+      "file_url": "https://silia.eett.gr/silia/download/68b233a4-ff56-42d6-b807-192a8920c92c"
+    },
+    {
+      "document_number": "322469/02-03-2018",
+      "protocol_number": "Τοπογραφικό/",
+      "type": "Τοπογραφικό",
+      "file_url": "https://silia.eett.gr/silia/download/790c3497-d9cc-45bf-abb0-ec99667d423c"
+    },
+    {
+      "document_number": "322470/02-03-2018",
+      "protocol_number": "Αρχιτεκτονικά/",
+      "type": "Αρχιτεκτονικά Σχέδια",
+      "file_url": "https://silia.eett.gr/silia/download/219e04ce-5eb2-4784-8f15-5a24bed4bf93"
+    },
+    {
+      "document_number": "322471/02-03-2018",
+      "protocol_number": "13799/15-04-2005",
+      "type": "Αίτηση ΥΠΑ",
+      "file_url": "https://silia.eett.gr/silia/download/53f1b3a6-9791-45e4-9079-1d94c6fcd425"
+    },
+    {
+      "document_number": "322472/02-03-2018",
+      "protocol_number": "13799/3474/25-04-2005",
+      "type": "Γνωμάτευση ΥΠΑ",
+      "file_url": "https://silia.eett.gr/silia/download/b041a951-b2dd-418d-9901-e00a195bd593"
+    },
+    {
+      "document_number": "322473/02-03-2018",
+      "protocol_number": "Μελέτη Η/Μ υποβάθρου/23-02-2018",
+      "type": "Αίτηση - Μελέτη Ραδιοεκπομπών ΕΕΑΕ (υποβάθρου)",
+      "file_url": "https://silia.eett.gr/silia/download/ffa0fa10-3d05-479e-903d-2f349e70164b"
+    },
+    {
+      "document_number": "322475/02-03-2018",
+      "protocol_number": "Αρχείο Αίτησης/",
+      "type": "Αίτηση Άδειας Κατασκευής Κεραίας ΕΕΤΤ",
+      "file_url": "https://silia.eett.gr/silia/download/df9b9221-1645-4d0c-891e-39dbedeecf1d"
+    },
+    {
+      "document_number": "330274/23-05-2018",
+      "protocol_number": "Μι/411/6635/2018/16-05-2018",
+      "type": "Γνωμάτευση ΕΕΑΕ",
+      "file_url": "https://silia.eett.gr/silia/download/ee525be2-15df-4f11-8651-b77588e79635"
+    },
+    {
+      "document_number": "432935/06-04-2021",
+      "protocol_number": "40011/26-03-2021",
+      "type": "Άδεια Κατασκευής  Κεραίας",
+      "file_url": "https://silia.eett.gr/silia/download/6a425269-ab20-4e1c-b2d9-ba5629f71bf0"
+    },
+    {
+      "document_number": "321875/23-02-2018",
+      "protocol_number": "ΜΕΛΕΤΗ ΡΑΔΙΟΕΚΠΟΜΠΩΝ/21-02-2018",
+      "type": "Αίτηση - Μελέτη Ραδιοεκπομπών ΕΕΑΕ",
+      "file_url": "https://silia.eett.gr/silia/download/68b233a4-ff56-42d6-b807-192a8920c92c"
+    },
+    {
+      "document_number": "321904/23-02-2018",
+      "protocol_number": "ΣΥΝΟΔΕΥΤΙΚΑ ΕΓΓΡΑΦΑ ΠΠΔ/",
+      "type": "Δήλωση υπαγωγής σε ΠΠΔ και Συνοδευτικά Έγγραφα",
+      "file_url": "https://silia.eett.gr/silia/download/4e6aacfb-f90b-4295-9c39-13a1b18b9e06"
+    },
+    {
+      "document_number": "322476/02-03-2018",
+      "protocol_number": "Αρχείο Αίτησης/",
+      "type": "Δήλωση ΠΠΔ",
+      "file_url": "https://silia.eett.gr/silia/download/96643e7b-d29b-46b1-9065-ce0dde1ce4f7"
+    }
+  ]
+}

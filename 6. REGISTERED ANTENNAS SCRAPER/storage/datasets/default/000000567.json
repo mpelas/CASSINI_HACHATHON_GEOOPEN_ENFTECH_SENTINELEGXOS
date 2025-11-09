@@ -1,0 +1,51 @@
+{
+  "antenna_id": "178356",
+  "address": "ΔΗΜΟΚΡΙΤΟΥ 6 ΜΑΡΟΥΣΙ",
+  "position_code": 1267331,
+  "municipality": "Αμαρουσίου",
+  "code_name": "GERMANIKI SXOLI ATHENS (C331)",
+  "region": "Αττικής",
+  "latitude": 38.037222,
+  "company": "NOVA Μ.Α.Ε.",
+  "longitude": 23.794167,
+  "permit_status": "Από τα στοιχεία που τηρούνται στην Ενημερωτική Πύλη προκύπτει ότι, για τη θέση \"ΔΗΜΟΚΡΙΤΟΥ 6 ΜΑΡΟΥΣΙ\" στον Δήμο Αμαρουσίου Περιφέρειας  Αττικής \n\t(κωδικός αριθμός θέσης 1267331, κωδική ονομασία \"GERMANIKI SXOLI ATHENS (C331)\") έχει κατατεθεί από την εταιρία NOVA Μ.Α.Ε.\tδήλωση εγκατάστασης κατασκευής κεραίας (αριθ. πρωτ. \n\t59992/18-03-2025) που εμπίπτει στις διατάξεις της νομοθεσίας για Εγκαταστάσεις Κατασκευών Κεραιών Χαμηλής Ηλεκτρομαγνητικής Περιβαλλοντικής Όχλησης (ΕΚΚΧΟ).",
+  "measurements_eaee": "-",
+  "documents": [
+    {
+      "document_number": "544229/18-03-2025",
+      "protocol_number": "Φωτορεαλιστική απεικόνιση κεραίας ΕΚΚΧΟ/18-03-2025",
+      "type": "Φωτογραφικό Υλικό - Σκαρίφημα",
+      "file_url": "https://silia.eett.gr/silia/download/OW56YYHaGgIfKqoN2OKU0HQ8Ulf2ZigXswh9"
+    },
+    {
+      "document_number": "544230/18-03-2025",
+      "protocol_number": "Ψηφιακός χάρτης με προβολή της θέσης ΕΚΚΧΟ/18-03-2025",
+      "type": "Φωτογραφικό Υλικό - Σκαρίφημα",
+      "file_url": "https://silia.eett.gr/silia/download/75919K8gOQeHX4WtH6XnQs0bH23K23k5TNHH"
+    },
+    {
+      "document_number": "544231/18-03-2025",
+      "protocol_number": "ΜΕΛΕΤΗ ΕΚΚΧΟ/18-03-2025",
+      "type": "Άλλο",
+      "file_url": "https://silia.eett.gr/silia/download/mOlesOaHR21Q3YDI2XdIGDWtUwfpq1EynIDi"
+    },
+    {
+      "document_number": "544232/18-03-2025",
+      "protocol_number": "Σκαρίφημα με περιοχή απαγόρευσης/18-03-2025",
+      "type": "Φωτογραφικό Υλικό - Σκαρίφημα",
+      "file_url": "https://silia.eett.gr/silia/download/cGd7U3U6Pz6ygByW6rEE8tHdrUCUDDFVi36V"
+    },
+    {
+      "document_number": "544233/18-03-2025",
+      "protocol_number": "Αρχείο Αίτησης/18-03-2025",
+      "type": "Δήλωση ΕΚΚΧΟ",
+      "file_url": "https://silia.eett.gr/silia/download/3iwKewuKLy35mqLCiNNGDw5OLLEUkG6lO8Mi"
+    },
+    {
+      "document_number": "545086/27-03-2025",
+      "protocol_number": "ΥΔ ΕΓΚΑΤΑΣΤΑΣΗΣ/27-03-2025",
+      "type": "Άλλο",
+      "file_url": "https://silia.eett.gr/silia/download/mP9ozGvezs7wEU27DUpBZ09TqgvgGgKvHxNz"
+    }
+  ]
+}

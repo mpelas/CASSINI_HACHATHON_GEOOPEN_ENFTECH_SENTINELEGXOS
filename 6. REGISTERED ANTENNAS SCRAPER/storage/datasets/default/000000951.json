@@ -1,0 +1,93 @@
+{
+  "antenna_id": "167964",
+  "address": "ΠΑΡΟΥ 9 , ΑΝΩ ΒΟΥΛΑ ΑΤΤΙΚΗΣ",
+  "position_code": 1410715,
+  "municipality": "Βάρης - Βούλας - Βουλιαγμένης",
+  "code_name": "TEPELENIOU",
+  "region": "Αττικής",
+  "latitude": 37.844444,
+  "company": "OTE",
+  "longitude": 23.780556,
+  "permit_status": "Από τα στοιχεία που τηρούνται στην Ενημερωτική Πύλη προκύπτει ότι, για τη θέση \"ΠΑΡΟΥ 9 , ΑΝΩ ΒΟΥΛΑ ΑΤΤΙΚΗΣ\" στον Δήμο Βάρης - Βούλας - Βουλιαγμένης Περιφέρειας  Αττικής \n\t(κωδικός αριθμός θέσης 1410715, κωδική ονομασία \"TEPELENIOU\") χορηγήθηκε, με την Απόφαση της ΕΕΤΤ \n48777/20-07-2023, άδεια κατασκευής κεραίας στην εταιρία OTE. \nΑπό τo έγγραφο της άδειας μπορείτε να ενημερωθείτε για τις σχετικές εγκρίσεις των συναρμόδιων φορέων, καθώς και εάν πρόκειται για τροποποίηση παλαιότερης άδειας.\n\tΣύμφωνα με τα στοιχεία που έχουν υποβληθεί στο ΣΗΛΥΑ, ο κάτοχος της κατασκευής κεραίας έχει δηλώσει ότι θα προβεί σε έκδοση έγκρισης δομικών κατασκευών \n\t\tκεραίας μέσω του e-Άδειες \n\t\tμετά την έκδοση της άδειας κατασκευής κεραίας / δημοσιοποίηση της δήλωσης τροποποίησης της κατασκευής κεραίας",
+  "measurements_eaee": "-",
+  "documents": [
+    {
+      "document_number": "482495/13-04-2023",
+      "protocol_number": "ΜΕΣΩ ΣΗΛΥΑ    /",
+      "type": "Τοπογραφικό",
+      "file_url": "https://silia.eett.gr/silia/download/59661d25-3d38-40ca-a3e9-faa70a118fb4"
+    },
+    {
+      "document_number": "482496/13-04-2023",
+      "protocol_number": "ΜΕΣΩ ΣΗΛΥΑ    /",
+      "type": "Αρχιτεκτονικά Σχέδια",
+      "file_url": "https://silia.eett.gr/silia/download/1c019c7b-a337-45ae-9eda-185b79025754"
+    },
+    {
+      "document_number": "482497/13-04-2023",
+      "protocol_number": "ΜΕΣΩ ΣΗΛΥΑ    /22-02-2023",
+      "type": "Αίτηση - Μελέτη Ραδιοεκπομπών ΕΕΑΕ",
+      "file_url": "https://silia.eett.gr/silia/download/dd07807e-8346-49f6-acf2-2188891a73dd"
+    },
+    {
+      "document_number": "482498/13-04-2023",
+      "protocol_number": "EMC/21-03-2023",
+      "type": "Αποτελέσματα μελέτης στη ζώνης 2.6GHz για ΥΠΑ/ΓΕΕΘΑ",
+      "file_url": "https://silia.eett.gr/silia/download/16639759-aa18-462a-b14d-b831ddb1c5c5"
+    },
+    {
+      "document_number": "482499/13-04-2023",
+      "protocol_number": "27856/09-03-2023",
+      "type": "Επιστολή Ενημέρωσης προς Αρμόδιο Φορέα",
+      "file_url": "https://silia.eett.gr/silia/download/d15e33ef-751c-411e-9d8b-bad960c674b9"
+    },
+    {
+      "document_number": "482500/13-04-2023",
+      "protocol_number": "Αρχείο Αίτησης/",
+      "type": "Αίτηση Άδειας Κατασκευής Κεραίας ΕΕΤΤ",
+      "file_url": "https://silia.eett.gr/silia/download/a064a78c-56c0-48e9-b64e-6c33ea8dab4c"
+    },
+    {
+      "document_number": "484401/10-05-2023",
+      "protocol_number": "ΚΓ/Δ3/Δ/9677/10-05-2023",
+      "type": "Γνωμάτευση ΥΠΑ",
+      "file_url": "https://silia.eett.gr/silia/download/e215fd97-d95f-411b-a8c2-a78980281e97"
+    },
+    {
+      "document_number": "484402/10-05-2023",
+      "protocol_number": "ΚΓ/Δ3/Δ/9677/10-05-2023",
+      "type": "Γνωμάτευση ΥΠΑ",
+      "file_url": "https://silia.eett.gr/silia/download/119f24d4-392a-4bc8-9e62-7f61932659bb"
+    },
+    {
+      "document_number": "489208/29-06-2023",
+      "protocol_number": "TMIA/411/8260/2023/29-06-2023",
+      "type": "Γνωμάτευση ΕΕΑΕ",
+      "file_url": "https://silia.eett.gr/silia/download/4342687a-d54b-471a-8680-a6263248d798"
+    },
+    {
+      "document_number": "490746/20-07-2023",
+      "protocol_number": "48777/20-07-2023",
+      "type": "Άδεια Κατασκευής  Κεραίας",
+      "file_url": "https://silia.eett.gr/silia/download/c020058d-2467-496f-9956-835dd06d15b9"
+    },
+    {
+      "document_number": "490966/21-07-2023",
+      "protocol_number": "48777/20-07-2023",
+      "type": "Άδεια Κατασκευής  Κεραίας",
+      "file_url": "https://silia.eett.gr/silia/download/30610179-8bb3-4d79-bb62-5e9f7aee560c"
+    },
+    {
+      "document_number": "482494/13-04-2023",
+      "protocol_number": "ΜΕΣΩ ΣΗΛΥΑ    /",
+      "type": "Δήλωση υπαγωγής σε ΠΠΔ και Συνοδευτικά Έγγραφα",
+      "file_url": "https://silia.eett.gr/silia/download/73730489-ca0d-4a52-acf3-d58e52bb40c4"
+    },
+    {
+      "document_number": "482501/13-04-2023",
+      "protocol_number": "Αρχείο Αίτησης/",
+      "type": "Δήλωση ΠΠΔ",
+      "file_url": "https://silia.eett.gr/silia/download/a6d1d4cd-e5ce-4a2d-9c99-640410001f91"
+    }
+  ]
+}

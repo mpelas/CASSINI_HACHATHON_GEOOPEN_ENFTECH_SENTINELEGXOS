@@ -1,0 +1,33 @@
+{
+  "antenna_id": "118925",
+  "address": "ΟΥΛΩΦ_ΠΑΛΜΕ_44",
+  "position_code": 1203755,
+  "municipality": "Ζωγράφου",
+  "code_name": "PUBLIC_ΖΩΓΡΑΦΟΥ",
+  "region": "Αττικής",
+  "latitude": 37.978611,
+  "company": "NOVA Μ.Α.Ε.",
+  "longitude": 23.763056,
+  "permit_status": "Από τα στοιχεία που τηρούνται στην Ενημερωτική Πύλη προκύπτει ότι, για τη θέση \"ΟΥΛΩΦ_ΠΑΛΜΕ_44\" στον Δήμο Ζωγράφου Περιφέρειας  Αττικής \n\t(κωδικός αριθμός θέσης 1203755, κωδική ονομασία \"PUBLIC_ΖΩΓΡΑΦΟΥ\") έχει κατατεθεί από την εταιρία NOVA Μ.Α.Ε.\tδήλωση εγκατάστασης κατασκευής κεραίας (αριθ. πρωτ. \n\t17435/09-06-2016) που εμπίπτει στις διατάξεις της νομοθεσίας για Εγκαταστάσεις Κατασκευών Κεραιών Χαμηλής Ηλεκτρομαγνητικής Περιβαλλοντικής Όχλησης (ΕΚΚΧΟ).",
+  "measurements_eaee": "-",
+  "documents": [
+    {
+      "document_number": "262404/09-06-2016",
+      "protocol_number": "ΣΧΕΔΙΟ/",
+      "type": "Άλλο",
+      "file_url": "https://silia.eett.gr/silia/download/94dddaff-5af2-4be5-915c-0274207fa148"
+    },
+    {
+      "document_number": "262405/09-06-2016",
+      "protocol_number": "ΜΕΛΕΤΗ ΓΙΑ 2.600ΜHz LTE/",
+      "type": "Άλλο",
+      "file_url": "https://silia.eett.gr/silia/download/ce314a8e-0cb5-4bc0-8707-2d9f32e5c77a"
+    },
+    {
+      "document_number": "262412/09-06-2016",
+      "protocol_number": "Αρχείο Αίτησης/",
+      "type": "Δήλωση ΕΚΚΧΟ",
+      "file_url": "https://silia.eett.gr/silia/download/3ba374fb-6fd3-4871-8933-fe6c89e6d4e4"
+    }
+  ]
+}

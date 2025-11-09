@@ -1,0 +1,33 @@
+{
+  "antenna_id": "145006",
+  "address": "OAKA ΣΠΥΡΟΥ ΛΟΥΗ",
+  "position_code": 1222832,
+  "municipality": "Αμαρουσίου",
+  "code_name": "ΟΑΚΑ OLYMPIC CENTER",
+  "region": "Αττικής",
+  "latitude": 38.035833,
+  "company": "NOVA Μ.Α.Ε.",
+  "longitude": 23.7875,
+  "permit_status": "Από τα στοιχεία που τηρούνται στην Ενημερωτική Πύλη προκύπτει ότι, για τη θέση \"OAKA ΣΠΥΡΟΥ ΛΟΥΗ\" στον Δήμο Αμαρουσίου Περιφέρειας  Αττικής \n\t(κωδικός αριθμός θέσης 1222832, κωδική ονομασία \"ΟΑΚΑ OLYMPIC CENTER\") έχει κατατεθεί από την εταιρία NOVA Μ.Α.Ε.\tδήλωση εγκατάστασης κατασκευής κεραίας (αριθ. πρωτ. \n\t35266/30-10-2019) που εμπίπτει στις διατάξεις της νομοθεσίας για Εγκαταστάσεις Κατασκευών Κεραιών Χαμηλής Ηλεκτρομαγνητικής Περιβαλλοντικής Όχλησης (ΕΚΚΧΟ).",
+  "measurements_eaee": "-",
+  "documents": [
+    {
+      "document_number": "381764/30-10-2019",
+      "protocol_number": "ΣΚΑΡΙΦΗΜΑ ΚΕΡΑΙΩΝ ΕΚΚΧΟ/",
+      "type": "Φωτογραφικό Υλικό - Σκαρίφημα",
+      "file_url": "https://silia.eett.gr/silia/download/903198e9-2aa6-4681-afe9-65c1fbe0d924"
+    },
+    {
+      "document_number": "381800/30-10-2019",
+      "protocol_number": "Αρχείο Αίτησης/",
+      "type": "Δήλωση ΕΚΚΧΟ",
+      "file_url": "https://silia.eett.gr/silia/download/4c703f76-b3c1-4a00-a1c0-0c89a3ca3790"
+    },
+    {
+      "document_number": "389905/17-01-2020",
+      "protocol_number": "ΜΕΛΕΤΗ ΣΥΜΒΑΤΟΤΗΤΑΣ ΣΤΑΘΜΟΥ/",
+      "type": "Μελέτη για τη ζώνη  2,6GHz",
+      "file_url": "https://silia.eett.gr/silia/download/e3ed6256-df29-44b3-9d0b-82f6fcdeb1b1"
+    }
+  ]
+}

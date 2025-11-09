@@ -1,0 +1,87 @@
+{
+  "antenna_id": "166500",
+  "address": "ΘΕΣΗ \"ΚΟΡΥΦΗ\", ΠΛΗΣΙΟΝ Δ.Δ. ΜΙΑΜΟΥ",
+  "position_code": 1406380,
+  "municipality": "Γόρτυνας",
+  "code_name": "ΛΕΝΤΑΣ / Χ",
+  "region": "Κρήτης",
+  "latitude": 34.954167,
+  "company": "OTE",
+  "longitude": 24.940278,
+  "permit_status": "Από τα στοιχεία που τηρούνται στην Ενημερωτική Πύλη προκύπτει ότι, για τη θέση \"ΘΕΣΗ \"ΚΟΡΥΦΗ\", ΠΛΗΣΙΟΝ Δ.Δ. ΜΙΑΜΟΥ\" στον Δήμο Γόρτυνας Περιφέρειας  Κρήτης \n\t(κωδικός αριθμός θέσης 1406380, κωδική ονομασία \"ΛΕΝΤΑΣ / Χ\") χορηγήθηκε, με την Απόφαση της ΕΕΤΤ \n51704/18-11-2024, άδεια κατασκευής κεραίας στην εταιρία OTE. \nΑπό τo έγγραφο της άδειας μπορείτε να ενημερωθείτε για τις σχετικές εγκρίσεις των συναρμόδιων φορέων, καθώς και εάν πρόκειται για τροποποίηση παλαιότερης άδειας.\n\tΣύμφωνα με τα στοιχεία που έχουν υποβληθεί στο ΣΗΛΥΑ, ο κάτοχος της κατασκευής κεραίας έχει δηλώσει ότι θα προβεί σε έκδοση έγκρισης δομικών κατασκευών \n\t\tκεραίας μέσω του e-Άδειες \n\t\tμετά την έκδοση της άδειας κατασκευής κεραίας / δημοσιοποίηση της δήλωσης τροποποίησης της κατασκευής κεραίας",
+  "measurements_eaee": "-",
+  "documents": [
+    {
+      "document_number": "474127/05-12-2022",
+      "protocol_number": "4029/28-11-2022",
+      "type": "Αίτηση / Μελέτη για Έγκριση Περιβαλλοντικών Επιπτώσεων",
+      "file_url": "https://silia.eett.gr/silia/download/849e4d93-f589-48b2-a5ab-40f1f4438b59"
+    },
+    {
+      "document_number": "474136/05-12-2022",
+      "protocol_number": "ΜΕΣΩ ΣΗΛΥΑ    /",
+      "type": "Τοπογραφικό",
+      "file_url": "https://silia.eett.gr/silia/download/b58aada9-14f3-4dd1-8c6b-380be251e214"
+    },
+    {
+      "document_number": "474137/05-12-2022",
+      "protocol_number": "ΜΕΣΩ ΣΗΛΥΑ    /",
+      "type": "Αρχιτεκτονικά Σχέδια",
+      "file_url": "https://silia.eett.gr/silia/download/40b87abb-b16f-43f5-8812-9e343ab3bddc"
+    },
+    {
+      "document_number": "474138/05-12-2022",
+      "protocol_number": "ΜΕΣΩ ΣΗΛΥΑ    /07-10-2022",
+      "type": "Αίτηση - Μελέτη Ραδιοεκπομπών ΕΕΑΕ",
+      "file_url": "https://silia.eett.gr/silia/download/2ef2d636-4d69-4f33-939e-d316d964d769"
+    },
+    {
+      "document_number": "474186/05-12-2022",
+      "protocol_number": "ΥΔ ΣΥΝΕΓΚΑΤΑΣΤΑΣΗΣ ΟΤΕ/05-12-2022",
+      "type": "Άλλο",
+      "file_url": "https://silia.eett.gr/silia/download/f2b32574-cf11-42dd-9a5e-15c80a4ce66c"
+    },
+    {
+      "document_number": "474188/05-12-2022",
+      "protocol_number": "Δ3/Δ/22323/3700/27-07-2000",
+      "type": "Γνωμάτευση ΥΠΑ",
+      "file_url": "https://silia.eett.gr/silia/download/916c7ead-b142-4b5b-8683-cd4e8169c741"
+    },
+    {
+      "document_number": "474189/05-12-2022",
+      "protocol_number": "ΜΕΣΩ ΣΗΛΥΑ    /05-12-2022",
+      "type": "Αίτηση ΥΠΑ",
+      "file_url": "https://silia.eett.gr/silia/download/a2d84014-1c53-460a-a3c0-751e4e225c8b"
+    },
+    {
+      "document_number": "474619/13-12-2022",
+      "protocol_number": "ΥΔ ΣΥΝΕΓΚΑΤΑΣΤΑΣΗΣ WIND/05-12-2022",
+      "type": "Άλλο",
+      "file_url": "https://silia.eett.gr/silia/download/e57fc096-b045-4682-ad75-a8d29b57b5ce"
+    },
+    {
+      "document_number": "474621/13-12-2022",
+      "protocol_number": "Αρχείο Αίτησης/",
+      "type": "Αίτηση Άδειας Κατασκευής Κεραίας ΕΕΤΤ",
+      "file_url": "https://silia.eett.gr/silia/download/bd4d2e39-c881-4a1d-91b3-ed37249f190d"
+    },
+    {
+      "document_number": "475258/20-12-2022",
+      "protocol_number": "ΤΜΙΑ/411/17891/2022/20-12-2022",
+      "type": "Γνωμάτευση ΕΕΑΕ",
+      "file_url": "https://silia.eett.gr/silia/download/d65c3373-a5e9-49ef-812b-55c58d1de0f9"
+    },
+    {
+      "document_number": "531110/01-11-2024",
+      "protocol_number": "2531/31-07-2024",
+      "type": "Έγκριση Περιβαλλοντικών Όρων",
+      "file_url": "https://silia.eett.gr/silia/download/CTuN1qeqgGXF2UhmavFEOVAyVybGx2ms3MzD"
+    },
+    {
+      "document_number": "532814/18-11-2024",
+      "protocol_number": "51704/18-11-2024",
+      "type": "Άδεια Κατασκευής  Κεραίας",
+      "file_url": "https://silia.eett.gr/silia/download/OGMGzGUfzXiii5i6udeqYS2XrGIBwpZiVDll"
+    }
+  ]
+}

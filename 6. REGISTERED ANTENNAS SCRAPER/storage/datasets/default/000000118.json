@@ -1,0 +1,33 @@
+{
+  "antenna_id": "161387",
+  "address": "Λ. Μεσογείων 448",
+  "position_code": 1158470,
+  "municipality": "Αγίας Παρασκευής",
+  "code_name": "3028470 DIXONS AG PARASKEVI",
+  "region": "Αττικής",
+  "latitude": 38.013611,
+  "company": "VODAFONE",
+  "longitude": 23.829722,
+  "permit_status": "Από τα στοιχεία που τηρούνται στην Ενημερωτική Πύλη προκύπτει ότι, για τη θέση \"Λ. Μεσογείων 448\" στον Δήμο Αγίας Παρασκευής Περιφέρειας  Αττικής \n\t(κωδικός αριθμός θέσης 1158470, κωδική ονομασία \"3028470 DIXONS AG PARASKEVI\") έχει κατατεθεί από την εταιρία VODAFONE\tδήλωση εγκατάστασης κατασκευής κεραίας (αριθ. πρωτ. \n\t45715/30-11-2021) που εμπίπτει στις διατάξεις της νομοθεσίας για Εγκαταστάσεις Κατασκευών Κεραιών Χαμηλής Ηλεκτρομαγνητικής Περιβαλλοντικής Όχλησης (ΕΚΚΧΟ).",
+  "measurements_eaee": "-",
+  "documents": [
+    {
+      "document_number": "447076/30-11-2021",
+      "protocol_number": "Φωτογραφία θέσης κεραίας ΕΚΚΧΟ/",
+      "type": "Φωτογραφικό Υλικό - Σκαρίφημα",
+      "file_url": "https://silia.eett.gr/silia/download/de629711-8504-4f1b-939b-b2771d39242a"
+    },
+    {
+      "document_number": "447077/30-11-2021",
+      "protocol_number": "Φωτογραφία θέσης ΕΚΚΧΟ από Google Earth/",
+      "type": "Φωτογραφικό Υλικό - Σκαρίφημα",
+      "file_url": "https://silia.eett.gr/silia/download/12515d7d-c4b0-4ca2-828d-918af43af29c"
+    },
+    {
+      "document_number": "447082/30-11-2021",
+      "protocol_number": "Αρχείο Αίτησης/",
+      "type": "Δήλωση ΕΚΚΧΟ",
+      "file_url": "https://silia.eett.gr/silia/download/ec9390aa-d8e8-47c7-8265-c1fb71434339"
+    }
+  ]
+}

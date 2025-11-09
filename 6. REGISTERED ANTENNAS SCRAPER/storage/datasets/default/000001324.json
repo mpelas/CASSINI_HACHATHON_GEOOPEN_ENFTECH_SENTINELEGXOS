@@ -1,0 +1,75 @@
+{
+  "antenna_id": "165592",
+  "address": "ΥΨΩΜΑ ΤΡΕΤΙΜΟΣ , ΠΛΗΣΙΩΝ ΔΕΣΚΑΤΗΣ",
+  "position_code": 1441744,
+  "municipality": "Δεσκάτης",
+  "code_name": "TRETIMOS_X",
+  "region": "Δυτικής Μακεδονίας",
+  "latitude": 39.906667,
+  "company": "OTE",
+  "longitude": 21.807222,
+  "permit_status": "Από τα στοιχεία που τηρούνται στην Ενημερωτική Πύλη προκύπτει ότι, για τη θέση \"ΥΨΩΜΑ ΤΡΕΤΙΜΟΣ , ΠΛΗΣΙΩΝ ΔΕΣΚΑΤΗΣ \" στον Δήμο Δεσκάτης Περιφέρειας  Δυτικής Μακεδονίας \n\t(κωδικός αριθμός θέσης 1441744, κωδική ονομασία \"TRETIMOS_X\") χορηγήθηκε, με την Απόφαση της ΕΕΤΤ \n47463/10-03-2023, άδεια κατασκευής κεραίας στην εταιρία OTE. \nΑπό τo έγγραφο της άδειας μπορείτε να ενημερωθείτε για τις σχετικές εγκρίσεις των συναρμόδιων φορέων, καθώς και εάν πρόκειται για τροποποίηση παλαιότερης άδειας.\n\tΣύμφωνα με τα στοιχεία που έχουν υποβληθεί στο ΣΗΛΥΑ, ο κάτοχος της κατασκευής κεραίας έχει δηλώσει ότι θα προβεί σε έκδοση έγκρισης δομικών κατασκευών \n\t\tκεραίας μέσω του e-Άδειες \n\t\tμετά την έκδοση της άδειας κατασκευής κεραίας / δημοσιοποίηση της δήλωσης τροποποίησης της κατασκευής κεραίας",
+  "measurements_eaee": "-",
+  "documents": [
+    {
+      "document_number": "468220/23-09-2022",
+      "protocol_number": "ΜΕΣΩ ΣΗΛΥΑ    /13-09-2022",
+      "type": "Αίτηση - Μελέτη Ραδιοεκπομπών ΕΕΑΕ",
+      "file_url": "https://silia.eett.gr/silia/download/c6676223-4352-4a45-8342-e14bcea932a6"
+    },
+    {
+      "document_number": "468221/23-09-2022",
+      "protocol_number": "ΥΔ ΣΥΝΕΓΚΑΤΑΣΤΑΣΗΣ ΟΤΕ/23-09-2022",
+      "type": "Άλλο",
+      "file_url": "https://silia.eett.gr/silia/download/2d0f8488-37ed-4d53-8157-170e706bab50"
+    },
+    {
+      "document_number": "469587/12-10-2022",
+      "protocol_number": "ΜΕΣΩ ΣΗΛΥΑ    /",
+      "type": "Τοπογραφικό",
+      "file_url": "https://silia.eett.gr/silia/download/963f7d7c-f691-487b-a8d7-1014667cdbc1"
+    },
+    {
+      "document_number": "469588/12-10-2022",
+      "protocol_number": "ΜΕΣΩ ΣΗΛΥΑ    /",
+      "type": "Αρχιτεκτονικά Σχέδια",
+      "file_url": "https://silia.eett.gr/silia/download/eeee7dd8-62d5-46b0-8ca6-1eff71e099c9"
+    },
+    {
+      "document_number": "469589/12-10-2022",
+      "protocol_number": "Αρχείο Αίτησης/",
+      "type": "Αίτηση Άδειας Κατασκευής Κεραίας ΕΕΤΤ",
+      "file_url": "https://silia.eett.gr/silia/download/0de8e578-bab7-4dfc-a4aa-2121c8dbae6d"
+    },
+    {
+      "document_number": "470332/19-10-2022",
+      "protocol_number": "ΚΓ/Δ3/Δ/26194/19-10-2022",
+      "type": "Γνωμάτευση ΥΠΑ",
+      "file_url": "https://silia.eett.gr/silia/download/b75c3633-e802-44ed-9529-c6f30217e0e0"
+    },
+    {
+      "document_number": "478211/15-02-2023",
+      "protocol_number": "ΤΜΙΑ/411/2299/2023/15-02-2023",
+      "type": "Γνωμάτευση ΕΕΑΕ",
+      "file_url": "https://silia.eett.gr/silia/download/d7460202-bdbd-4427-89f6-5f1cbe9cb52e"
+    },
+    {
+      "document_number": "480169/14-03-2023",
+      "protocol_number": "47463/10-03-2023",
+      "type": "Άδεια Κατασκευής  Κεραίας",
+      "file_url": "https://silia.eett.gr/silia/download/94f39893-1ecd-4cfb-a256-218c9a910fbc"
+    },
+    {
+      "document_number": "469584/12-10-2022",
+      "protocol_number": "ΣΥΝΟΔΕΥΤΙΚΑ ΕΓΓΡΑΦΑ/",
+      "type": "Δήλωση υπαγωγής σε ΠΠΔ και Συνοδευτικά Έγγραφα",
+      "file_url": "https://silia.eett.gr/silia/download/06c81643-1c69-4096-a426-efc11834973f"
+    },
+    {
+      "document_number": "469590/12-10-2022",
+      "protocol_number": "Αρχείο Αίτησης/",
+      "type": "Δήλωση ΠΠΔ",
+      "file_url": "https://silia.eett.gr/silia/download/ac708d3c-3d74-4a3b-93c9-cb722ec670fd"
+    }
+  ]
+}

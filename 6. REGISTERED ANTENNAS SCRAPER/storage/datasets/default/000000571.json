@@ -1,0 +1,69 @@
+{
+  "antenna_id": "173125",
+  "address": "Νερατζιωτίσσης 111 Μαρούσι",
+  "position_code": 1441988,
+  "municipality": "Αμαρουσίου",
+  "code_name": "KAIZEN_MI",
+  "region": "Αττικής",
+  "latitude": 38.045,
+  "company": "OTE",
+  "longitude": 23.794444,
+  "permit_status": "Από τα στοιχεία που τηρούνται στην Ενημερωτική Πύλη προκύπτει ότι, για τη θέση \"Νερατζιωτίσσης 111 Μαρούσι\" στον Δήμο Αμαρουσίου Περιφέρειας  Αττικής \n\t(κωδικός αριθμός θέσης 1441988, κωδική ονομασία \"KAIZEN_MI\") έχει κατατεθεί από την εταιρία OTE\tδήλωση εγκατάστασης κατασκευής κεραίας (αριθ. πρωτ. \n\t55583/15-04-2024) που εμπίπτει στις διατάξεις της νομοθεσίας για Εγκαταστάσεις Κατασκευών Κεραιών Χαμηλής Ηλεκτρομαγνητικής Περιβαλλοντικής Όχλησης (ΕΚΚΧΟ).",
+  "measurements_eaee": "-",
+  "documents": [
+    {
+      "document_number": "512874/15-04-2024",
+      "protocol_number": "ΜΕΛΕΤΗ/15-04-2024",
+      "type": "Αίτηση - Μελέτη Ραδιοεκπομπών ΕΕΑΕ",
+      "file_url": "https://silia.eett.gr/silia/download/cgpNxhAbrzO3GTNfiM2nUBo3P4TX9t3fRNHT"
+    },
+    {
+      "document_number": "512875/15-04-2024",
+      "protocol_number": "ΚΑΤΟΨΗ/15-04-2024",
+      "type": "Αρχιτεκτονικά [Κάτοψη - Τομή - Όψη]",
+      "file_url": "https://silia.eett.gr/silia/download/S8fSiXBMGLkpkNYQwQqgsuoDVLgnQSnqY7E1"
+    },
+    {
+      "document_number": "512876/15-04-2024",
+      "protocol_number": "ΤΟΜΗ/15-04-2024",
+      "type": "Αρχιτεκτονικά [Κάτοψη - Τομή - Όψη]",
+      "file_url": "https://silia.eett.gr/silia/download/en35DAzlVyIgbZTLlkYZhuqgcomLfPN7hDqs"
+    },
+    {
+      "document_number": "512877/15-04-2024",
+      "protocol_number": "ΦΩΤΟΓΡΑΦΙΑ/15-04-2024",
+      "type": "Φωτογραφικό Υλικό - Σκαρίφημα",
+      "file_url": "https://silia.eett.gr/silia/download/zeVCaYQ9Hukpl0GxbI966rykIEx6TgYGHFhP"
+    },
+    {
+      "document_number": "512878/15-04-2024",
+      "protocol_number": "ΦΩΤΟΓΡΑΦΙΑ1/15-04-2024",
+      "type": "Φωτογραφικό Υλικό - Σκαρίφημα",
+      "file_url": "https://silia.eett.gr/silia/download/QX9FY4BB01YDkITU5Gvv9ZBAGvSHzQ1l82G7"
+    },
+    {
+      "document_number": "512897/15-04-2024",
+      "protocol_number": "Αρχείο Αίτησης/15-04-2024",
+      "type": "Δήλωση ΕΚΚΧΟ",
+      "file_url": "https://silia.eett.gr/silia/download/48ZmiozOELkPglvgXdQ4BUXdoamZF3BKiG2C"
+    },
+    {
+      "document_number": "519244/01-07-2024",
+      "protocol_number": "ΥΠ.ΔΗΛΩΣΗ/01-07-2024",
+      "type": "Άλλο",
+      "file_url": "https://silia.eett.gr/silia/download/ccBw6zbqH5op1uQzkmUs01qgqGXYboqIWZY0"
+    },
+    {
+      "document_number": "547796/28-04-2025",
+      "protocol_number": "ΜΕΛΕΤΗ EMC/28-04-2025",
+      "type": "Αποτελέσματα μελέτης στη ζώνης 2.6GHz για ΥΠΑ/ΓΕΕΘΑ",
+      "file_url": "https://silia.eett.gr/silia/download/MIrq6z4FttKs0NudETNnCwtkkZgbKohE0zyu"
+    },
+    {
+      "document_number": "547797/28-04-2025",
+      "protocol_number": "18490/11-02-2025",
+      "type": "Επιστολή Ενημέρωσης προς Αρμόδιο Φορέα",
+      "file_url": "https://silia.eett.gr/silia/download/375dGigPidQFn5pPlqzCa9pn1ggcPxxTac2B"
+    }
+  ]
+}

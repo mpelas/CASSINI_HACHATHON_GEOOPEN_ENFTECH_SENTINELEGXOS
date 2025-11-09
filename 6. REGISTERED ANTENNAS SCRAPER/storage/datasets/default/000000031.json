@@ -1,0 +1,81 @@
+{
+  "antenna_id": "170459",
+  "address": "ΘΕΣΗ ΣΑΪΤΕΣ, ΔΗΜΟΤΙΚΗ ΕΝΟΤΗΤΑ ΜΕΛΙΒΟΙΑΣ",
+  "position_code": 1200113,
+  "municipality": "Αγιάς",
+  "code_name": "ΣΑΪΤΕΣ",
+  "region": "Θεσσαλίας",
+  "latitude": 39.788611,
+  "company": "NOVA Μ.Α.Ε.",
+  "longitude": 22.84,
+  "permit_status": "Από τα στοιχεία που τηρούνται στην Ενημερωτική Πύλη προκύπτει ότι, για τη θέση \"ΘΕΣΗ ΣΑΪΤΕΣ, ΔΗΜΟΤΙΚΗ ΕΝΟΤΗΤΑ ΜΕΛΙΒΟΙΑΣ\" στον Δήμο Αγιάς Περιφέρειας  Θεσσαλίας \n\t(κωδικός αριθμός θέσης 1200113, κωδική ονομασία \"ΣΑΪΤΕΣ\") χορηγήθηκε, με την Απόφαση της ΕΕΤΤ \n50538/01-02-2024, άδεια κατασκευής κεραίας στην εταιρία NOVA Μ.Α.Ε.. \nΑπό τo έγγραφο της άδειας μπορείτε να ενημερωθείτε για τις σχετικές εγκρίσεις των συναρμόδιων φορέων, καθώς και εάν πρόκειται για τροποποίηση παλαιότερης άδειας.\n\tΣύμφωνα με τα στοιχεία που έχουν υποβληθεί στο ΣΗΛΥΑ, ο κάτοχος της κατασκευής κεραίας έχει δηλώσει ότι θα προβεί σε έκδοση έγκρισης δομικών κατασκευών \n\t\tκεραίας μέσω του e-Άδειες \n\t\tμετά την έκδοση της άδειας κατασκευής κεραίας / δημοσιοποίηση της δήλωσης τροποποίησης της κατασκευής κεραίας",
+  "measurements_eaee": "-",
+  "documents": [
+    {
+      "document_number": "497481/17-10-2023",
+      "protocol_number": "ΤΟΠΟΓΡΑΦΙΚΟ & ΑΡΧΙΤΕΚΤΟΝΙΚΑ/",
+      "type": "Αρχιτεκτονικά Σχέδια",
+      "file_url": "https://silia.eett.gr/silia/download/ebc91dee-8c18-4680-9a42-abc165a4e870"
+    },
+    {
+      "document_number": "497482/17-10-2023",
+      "protocol_number": "ΜΕΣΩ ΣΗΛΥΑ/26-09-2023",
+      "type": "Αίτηση - Μελέτη Ραδιοεκπομπών ΕΕΑΕ",
+      "file_url": "https://silia.eett.gr/silia/download/08303cd9-c50f-4e09-bd05-0492b17a96dc"
+    },
+    {
+      "document_number": "497483/17-10-2023",
+      "protocol_number": "Δ3/Δ/65889/5213/05-11-1993",
+      "type": "Γνωμάτευση ΥΠΑ",
+      "file_url": "https://silia.eett.gr/silia/download/6a2d83cf-2970-4ddc-8754-8aac8989c3f2"
+    },
+    {
+      "document_number": "497484/17-10-2023",
+      "protocol_number": "Δ3/Δ/5078/23-06-2003",
+      "type": "Γνωμάτευση ΥΠΑ",
+      "file_url": "https://silia.eett.gr/silia/download/dca29e37-b3d1-4a5d-80b4-763acbaa3dec"
+    },
+    {
+      "document_number": "497485/17-10-2023",
+      "protocol_number": "Δ3/Δ/44227/10734/26-11-2009",
+      "type": "Γνωμάτευση ΥΠΑ",
+      "file_url": "https://silia.eett.gr/silia/download/367105cb-9322-4e09-a6c2-195c6dfdc4fd"
+    },
+    {
+      "document_number": "497486/17-10-2023",
+      "protocol_number": "ΥΔ ΚΟΙΝΗΣ ΧΡΗΣΗΣ VODAFONE/09-10-2023",
+      "type": "Άλλο",
+      "file_url": "https://silia.eett.gr/silia/download/22335df6-40a1-45ab-b084-ff14cf4b8bb0"
+    },
+    {
+      "document_number": "497492/17-10-2023",
+      "protocol_number": "Αρχείο Αίτησης/",
+      "type": "Αίτηση Άδειας Κατασκευής Κεραίας ΕΕΤΤ",
+      "file_url": "https://silia.eett.gr/silia/download/ed932fe1-b722-41d3-a2da-74000cca1bbf"
+    },
+    {
+      "document_number": "502678/07-12-2023",
+      "protocol_number": "ΤΜΙΑ/411/16323/2023/30-11-2023",
+      "type": "Γνωμάτευση ΕΕΑΕ",
+      "file_url": "https://silia.eett.gr/silia/download/ad2e2586-cbd7-4028-b52c-4a57bd7b1c85"
+    },
+    {
+      "document_number": "506680/06-02-2024",
+      "protocol_number": "50538/01-02-2024",
+      "type": "Άδεια Κατασκευής  Κεραίας",
+      "file_url": "https://silia.eett.gr/silia/download/f40839b4-6164-46e7-92b6-38ab39b2f973"
+    },
+    {
+      "document_number": "497479/17-10-2023",
+      "protocol_number": "ΣΥΝΟΔΕΥΤΙΚΑ ΕΓΓΡΑΦΑ/",
+      "type": "Δήλωση υπαγωγής σε ΠΠΔ και Συνοδευτικά Έγγραφα",
+      "file_url": "https://silia.eett.gr/silia/download/f8e66e66-bfc0-483e-acff-eb36f9745ed3"
+    },
+    {
+      "document_number": "497493/17-10-2023",
+      "protocol_number": "Αρχείο Αίτησης/",
+      "type": "Δήλωση ΠΠΔ",
+      "file_url": "https://silia.eett.gr/silia/download/e85ddb23-c0b5-4ca6-9be9-cdbc1901e3dd"
+    }
+  ]
+}

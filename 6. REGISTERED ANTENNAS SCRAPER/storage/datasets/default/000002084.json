@@ -1,0 +1,87 @@
+{
+  "antenna_id": "164491",
+  "address": "ΒΑΣ. ΣΟΥΛΙΝΗ 3, ΣΥΚΙΕΣ",
+  "position_code": 1401014,
+  "municipality": "Νεάπολης - Συκεών",
+  "code_name": "Ν. ΒΑΡΝΑ",
+  "region": "Κεντρικής Μακεδονίας",
+  "latitude": 40.6475,
+  "company": "OTE",
+  "longitude": 22.946944,
+  "permit_status": "Από τα στοιχεία που τηρούνται στην Ενημερωτική Πύλη προκύπτει ότι, για τη θέση \"ΒΑΣ. ΣΟΥΛΙΝΗ 3, ΣΥΚΙΕΣ\" στον Δήμο Νεάπολης - Συκεών Περιφέρειας  Κεντρικής Μακεδονίας \n\t(κωδικός αριθμός θέσης 1401014, κωδική ονομασία \"Ν. ΒΑΡΝΑ\") χορηγήθηκε, με την Απόφαση της ΕΕΤΤ \n45921/10-11-2022, άδεια κατασκευής κεραίας στην εταιρία OTE. \nΑπό τo έγγραφο της άδειας μπορείτε να ενημερωθείτε για τις σχετικές εγκρίσεις των συναρμόδιων φορέων, καθώς και εάν πρόκειται για τροποποίηση παλαιότερης άδειας.",
+  "measurements_eaee": "-",
+  "documents": [
+    {
+      "document_number": "462404/22-06-2022",
+      "protocol_number": "ΜΕΣΩ ΣΗΛΥΑ    /",
+      "type": "Τοπογραφικό",
+      "file_url": "https://silia.eett.gr/silia/download/dc9a0bae-0ec9-4889-beec-a1d49c4dcec6"
+    },
+    {
+      "document_number": "462405/22-06-2022",
+      "protocol_number": "ΜΕΣΩ ΣΗΛΥΑ    /",
+      "type": "Αρχιτεκτονικά Σχέδια",
+      "file_url": "https://silia.eett.gr/silia/download/fd26eca1-0a86-4b45-b6e1-d31d5f0ccd1e"
+    },
+    {
+      "document_number": "462406/22-06-2022",
+      "protocol_number": "ΜΕΣΩ ΣΗΛΥΑ    /21-02-2022",
+      "type": "Αίτηση - Μελέτη Ραδιοεκπομπών ΕΕΑΕ",
+      "file_url": "https://silia.eett.gr/silia/download/fce16b1d-41ca-4a04-aa71-f938817a4cbf"
+    },
+    {
+      "document_number": "462407/22-06-2022",
+      "protocol_number": "EMC/05-04-2022",
+      "type": "Αποτελέσματα μελέτης στη ζώνης 2.6GHz για ΥΠΑ/ΓΕΕΘΑ",
+      "file_url": "https://silia.eett.gr/silia/download/8d48343c-5f77-4a29-a0c7-2add5e97d4e9"
+    },
+    {
+      "document_number": "462408/22-06-2022",
+      "protocol_number": "Δ3/Δ/18710/2731/29-05-1997",
+      "type": "Γνωμάτευση ΥΠΑ",
+      "file_url": "https://silia.eett.gr/silia/download/badc3c13-4b7c-4688-b5de-698e2afeb9d3"
+    },
+    {
+      "document_number": "462409/22-06-2022",
+      "protocol_number": "Δ3/Δ/4952/14-06-2004",
+      "type": "Γνωμάτευση ΥΠΑ",
+      "file_url": "https://silia.eett.gr/silia/download/09ee5410-f9f4-4162-9ef7-828bd3444dcc"
+    },
+    {
+      "document_number": "462410/22-06-2022",
+      "protocol_number": "ΜΕΣΩ ΣΗΛΥΑ    /22-06-2022",
+      "type": "Αίτηση ΥΠΑ",
+      "file_url": "https://silia.eett.gr/silia/download/3250c53a-eb02-44b5-82eb-16107dfe810c"
+    },
+    {
+      "document_number": "462411/22-06-2022",
+      "protocol_number": "Αρχείο Αίτησης/",
+      "type": "Αίτηση Άδειας Κατασκευής Κεραίας ΕΕΤΤ",
+      "file_url": "https://silia.eett.gr/silia/download/99f3e0e1-c751-452c-9116-3a1dbbc9aad9"
+    },
+    {
+      "document_number": "468246/26-09-2022",
+      "protocol_number": "Μ.ι./411/13027/2022/21-09-2022",
+      "type": "Γνωμάτευση ΕΕΑΕ",
+      "file_url": "https://silia.eett.gr/silia/download/7b1d4ab3-64c3-4be8-8ac4-9488f33078e3"
+    },
+    {
+      "document_number": "473226/23-11-2022",
+      "protocol_number": "45921/10-11-2022",
+      "type": "Άδεια Κατασκευής  Κεραίας",
+      "file_url": "https://silia.eett.gr/silia/download/648a13ce-6c03-4bf0-abee-b7f19d74f9e4"
+    },
+    {
+      "document_number": "462402/22-06-2022",
+      "protocol_number": "ΣΥΝΟΔΕΥΤΙΚΑ ΕΓΓΡΑΦΑ/",
+      "type": "Δήλωση υπαγωγής σε ΠΠΔ και Συνοδευτικά Έγγραφα",
+      "file_url": "https://silia.eett.gr/silia/download/8627927d-1439-46d0-b436-f3c92d615c62"
+    },
+    {
+      "document_number": "462412/22-06-2022",
+      "protocol_number": "Αρχείο Αίτησης/",
+      "type": "Δήλωση ΠΠΔ",
+      "file_url": "https://silia.eett.gr/silia/download/75b43dcd-08d7-4ace-a7d9-adba5c6cefc6"
+    }
+  ]
+}

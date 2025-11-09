@@ -1,0 +1,87 @@
+{
+  "antenna_id": "105259",
+  "address": "ΕΡΥΜΑΝΘΕΙΑ",
+  "position_code": 10071,
+  "municipality": "Ερυμάνθου",
+  "code_name": "ΕΡΥΜΑΝΘΕΙΑ Τ/Κ",
+  "region": "Δυτικής Ελλάδας",
+  "latitude": 37.980278,
+  "company": "OTE",
+  "longitude": 21.725278,
+  "permit_status": "Από τα στοιχεία που τηρούνται στην Ενημερωτική Πύλη προκύπτει ότι, για τη θέση \"ΕΡΥΜΑΝΘΕΙΑ\" στον Δήμο Ερυμάνθου Περιφέρειας  Δυτικής Ελλάδας \n\t(κωδικός αριθμός θέσης 0010071, κωδική ονομασία \"ΕΡΥΜΑΝΘΕΙΑ Τ/Κ\") χορηγήθηκε, με την Απόφαση της ΕΕΤΤ \n21072/Φ610/21-07-2016, άδεια κατασκευής κεραίας στην εταιρία OTE. \nΑπό τo έγγραφο της άδειας μπορείτε να ενημερωθείτε για τις σχετικές εγκρίσεις των συναρμόδιων φορέων, καθώς και εάν πρόκειται για τροποποίηση παλαιότερης άδειας.\n\tΗ άδεια χορηγήθηκε κατόπιν της με Αριθ. Πρωτ. 3648 /18-01-2008 αίτησης. \n\tΓια την έκδοση της άδειας εφαρμόστηκε το προγενέστερο του Ν.4053/2012 νομοθετικό πλαίσιο, καθώς κατά δήλωση της εταιρίας, η κατασκευή πληρούσε \nτις προϋποθέσεις του άρθρου 31 του Ν.4053/2012.",
+  "measurements_eaee": "-",
+  "documents": [
+    {
+      "document_number": "201704/31-03-2015",
+      "protocol_number": "Μ.ι./411/2791/17-07-2009",
+      "type": "Γνωμάτευση ΕΕΑΕ",
+      "file_url": "https://silia.eett.gr/silia/download/9b415abf-437e-44e0-a2ac-8f69e32efa3d"
+    },
+    {
+      "document_number": "201705/31-03-2015",
+      "protocol_number": "9171/27-09-2007",
+      "type": "Αίτηση / Μελέτη για Έγκριση Περιβαλλοντικών Επιπτώσεων (νόμιμη λειτουργία)",
+      "file_url": null
+    },
+    {
+      "document_number": "201706/31-03-2015",
+      "protocol_number": "3648/18-01-2008",
+      "type": "Αίτηση Άδειας Κατασκευής Κεραίας ΕΕΤΤ (νομίμως λειτουργούσα)",
+      "file_url": null
+    },
+    {
+      "document_number": "201708/31-03-2015",
+      "protocol_number": "610/16-01-2007",
+      "type": "Αποδεικτικό Καταβολής Τελών ΕΕΤΤ",
+      "file_url": "https://silia.eett.gr/silia/download/e31f2309-c97b-49ab-a4a9-5e17ea277fa3"
+    },
+    {
+      "document_number": "201709/31-03-2015",
+      "protocol_number": "Δ3/Δ/8230/2027/18-03-2005",
+      "type": "Γνωμάτευση ΥΠΑ",
+      "file_url": "https://silia.eett.gr/silia/download/548f10fd-acb9-42d8-9966-d9072d5d43ad"
+    },
+    {
+      "document_number": "204516/24-04-2015",
+      "protocol_number": "ΜΕΣΩ ΣΗΛΥΑ/",
+      "type": "Δήλωση υπαγωγής σε ΠΠΔ και Συνοδευτικά Έγγραφα",
+      "file_url": "https://silia.eett.gr/silia/download/734ceeba-31a8-4800-a0de-8dfa8cc2b375"
+    },
+    {
+      "document_number": "226764/31-07-2015",
+      "protocol_number": "7173/13-09-2007",
+      "type": "Αίτηση - Μελέτη Ραδιοεκπομπών ΕΕΑΕ",
+      "file_url": "https://silia.eett.gr/silia/download/d22a65cd-a1a4-469a-8a4f-e2cfff48dee2"
+    },
+    {
+      "document_number": "226766/31-07-2015",
+      "protocol_number": "Υ.Δ. Ορθής Επανάληψης κατάθεσης ΣΗΛΥΑ/31-07-2015",
+      "type": "Άλλο",
+      "file_url": "https://silia.eett.gr/silia/download/248d1782-eec5-4530-8f07-d9f4d72731cc"
+    },
+    {
+      "document_number": "227370/06-08-2015",
+      "protocol_number": "Αρχείο Αίτησης/",
+      "type": "Αίτηση Άδειας Κατασκευής Κεραίας ΕΕΤΤ",
+      "file_url": "https://silia.eett.gr/silia/download/7a1ba444-ba10-489f-b9d8-1197a260501e"
+    },
+    {
+      "document_number": "266789/22-07-2016",
+      "protocol_number": "21072/Φ610/21-07-2016",
+      "type": "Άδεια Κατασκευής  Κεραίας",
+      "file_url": "https://silia.eett.gr/silia/download/6a9a9e95-2b75-45af-b430-16d7f9990bfa"
+    },
+    {
+      "document_number": "265693/12-07-2016",
+      "protocol_number": "ΣΥΝΟΔΕΥΤΙΚΑ ΕΓΓΡΑΦΑ/",
+      "type": "Δήλωση υπαγωγής σε ΠΠΔ και Συνοδευτικά Έγγραφα",
+      "file_url": "https://silia.eett.gr/silia/download/8cc9a298-b626-49c6-b28c-a00023f50927"
+    },
+    {
+      "document_number": "265694/12-07-2016",
+      "protocol_number": "Αρχείο Αίτησης/",
+      "type": "Δήλωση ΠΠΔ",
+      "file_url": "https://silia.eett.gr/silia/download/a1c447c1-fdee-4548-95c8-5b275908cd24"
+    }
+  ]
+}

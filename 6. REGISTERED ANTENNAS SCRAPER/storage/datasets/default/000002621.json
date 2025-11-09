@@ -1,0 +1,75 @@
+{
+  "antenna_id": "176567",
+  "address": "ΑΡΟΗ ΠΑΤΡΑΣ ΑΧΑΙΑΣ",
+  "position_code": 5000315,
+  "municipality": "Πατρέων",
+  "code_name": "PBR-AROH-TWR4",
+  "region": "Δυτικής Ελλάδας",
+  "latitude": 38.248333,
+  "company": "PATRAS BROADBAND",
+  "longitude": 21.763611,
+  "permit_status": "Από τα στοιχεία που τηρούνται στην Ενημερωτική Πύλη προκύπτει ότι, για τη θέση \"ΑΡΟΗ ΠΑΤΡΑΣ ΑΧΑΙΑΣ\" στον Δήμο Πατρέων Περιφέρειας  Δυτικής Ελλάδας \n\t(κωδικός αριθμός θέσης 5000315, κωδική ονομασία \"PBR-AROH-TWR4\") έχει κατατεθεί από την εταιρία PATRAS BROADBAND\tδήλωση εγκατάστασης κατασκευής κεραίας (αριθ. πρωτ. \n\t58769/19-12-2024) που εμπίπτει στις διατάξεις της νομοθεσίας για Εγκαταστάσεις Κατασκευών Κεραιών Χαμηλής Ηλεκτρομαγνητικής Περιβαλλοντικής Όχλησης (ΕΚΚΧΟ).",
+  "measurements_eaee": "-",
+  "documents": [
+    {
+      "document_number": "536130/19-12-2024",
+      "protocol_number": "ΤΟΠΟΓΡΑΦΙΚΟ GOOGLE EARTH KΘ5000315 ΑΡΟΗ ΠΑΤΡΑΣ/19-12-2024",
+      "type": "Τοπογραφικό",
+      "file_url": "https://silia.eett.gr/silia/download/QihxgdmMWlN2SuXTy61SrlqIlGeOmhbLglU0"
+    },
+    {
+      "document_number": "536131/19-12-2024",
+      "protocol_number": "ΚΑΤΟΨΗ ΜΕ ΠΕΡΙΟΧΕΣ ΠΡΟΣΤΑΣΙΑΣ ΚΘ5000315 ΑΡΟΗ ΠΑΤΡΑΣ/19-12-2024",
+      "type": "Αρχιτεκτονικά Σχέδια",
+      "file_url": "https://silia.eett.gr/silia/download/5D4LVH9nGL71YEf5bUY8ghfrpX35NTqWgxCf"
+    },
+    {
+      "document_number": "536132/19-12-2024",
+      "protocol_number": "ΟΨΗ ΕΚΚΧΟ ΚΘ5000315 ΑΡΟΗ ΠΑΤΡΑΣ/19-12-2024",
+      "type": "Αρχιτεκτονικά Σχέδια",
+      "file_url": "https://silia.eett.gr/silia/download/RKSigbyN0muv0ZLBFChrh4v4HMoKVrKimIN8"
+    },
+    {
+      "document_number": "536133/19-12-2024",
+      "protocol_number": "ΦΩΤΟΡΕΑΛΙΣΤΙΚΟ ΕΚΚΧΟ ΚΘ5000315 ΑΡΟΗ ΠΑΤΡΑΣ/19-12-2024",
+      "type": "Φωτογραφικό Υλικό - Σκαρίφημα",
+      "file_url": "https://silia.eett.gr/silia/download/23gwyw6ERc8EKi0uZ4nftuvERFlGkZNVUVEf"
+    },
+    {
+      "document_number": "536142/19-12-2024",
+      "protocol_number": "ΜΕΛΕΤΗ ΡΑΔΙΟΕΚΠΟΜΠΏΝ - ΕΚΚΧΟ ΚΘ5000315 ΑΡΟΗ ΠΑΤΡΑΣ/19-12-2024",
+      "type": "Μελέτη Ραδιοεκπομπών",
+      "file_url": "https://silia.eett.gr/silia/download/H9tZe6gPdi6ie3elCKR7a4zzLN6dARDzAwg9"
+    },
+    {
+      "document_number": "536144/19-12-2024",
+      "protocol_number": "Αρχείο Αίτησης/19-12-2024",
+      "type": "Δήλωση ΕΚΚΧΟ",
+      "file_url": "https://silia.eett.gr/silia/download/FFG8qe75X7W1EzpPXsG6l3aimyyRWKvbucua"
+    },
+    {
+      "document_number": "539077/27-01-2025",
+      "protocol_number": "ΦΩΤΟΡΕΑΛΙΣΤΙΚΗ ΑΠΕΙΚΟΝΙΣΗ ΕΚΚΧΟ ΚΘ.5000315 ΑΡΟΗ-1/27-01-2025",
+      "type": "Φωτογραφικό Υλικό - Σκαρίφημα",
+      "file_url": "https://silia.eett.gr/silia/download/lAgXaL0r4qGyfBpGCsVLbCZG687Azhd3KKbO"
+    },
+    {
+      "document_number": "539078/27-01-2025",
+      "protocol_number": "ΟΨΗ ΕΚΚΧΟ ΚΘ5000315 ΑΡΟΗ-1/27-01-2025",
+      "type": "Φωτογραφικό Υλικό - Σκαρίφημα",
+      "file_url": "https://silia.eett.gr/silia/download/A5xu2CPpi02vgrtqIWK8KowTDOK6iawPRoN8"
+    },
+    {
+      "document_number": "539079/27-01-2025",
+      "protocol_number": "ΚΑΤΟΨΗ ΜΕ ΠΕΡ.ΠΡΟΣΤ. ΚΕΡΑΙΑΣ ΕΚΚΧΟ 2,5Μ ΚΘ.5000315 ΑΡΟΗ-1/27-01-2025",
+      "type": "Φωτογραφικό Υλικό - Σκαρίφημα",
+      "file_url": "https://silia.eett.gr/silia/download/FPZUhupAkrq48CtU0ggdFCOPaG4vuqskqUZ2"
+    },
+    {
+      "document_number": "539080/27-01-2025",
+      "protocol_number": "ΜΕΛΕΤΗ ΡΑΔΙΟΕΚΠΟΜΠΏΝ ΚΕΡΑΙΑΣ ΕΚΚΧΟ ΚΘ.5000315 ΑΡΟΗ-1/27-01-2025",
+      "type": "Μελέτη Ραδιοεκπομπών",
+      "file_url": "https://silia.eett.gr/silia/download/WfBPigaSi8yhKkyTgggm6mRmNHSger4YX7HF"
+    }
+  ]
+}

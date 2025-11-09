@@ -1,0 +1,69 @@
+{
+  "antenna_id": "131244",
+  "address": "ΕΜΠΕΣΣΟΣ, Δ.Ε ΙΝΑΧΟΥ",
+  "position_code": 20063,
+  "municipality": "Αμφιλοχίας",
+  "code_name": "ΕΜΠΕΣΣΟΣ Τ/Κ",
+  "region": "Δυτικής Ελλάδας",
+  "latitude": 39.025833,
+  "company": "OTE",
+  "longitude": 21.3225,
+  "permit_status": "Από τα στοιχεία που τηρούνται στην Ενημερωτική Πύλη προκύπτει ότι, για τη θέση \"ΕΜΠΕΣΣΟΣ, Δ.Ε ΙΝΑΧΟΥ\" στον Δήμο Αμφιλοχίας Περιφέρειας  Δυτικής Ελλάδας \n\t(κωδικός αριθμός θέσης 0020063, κωδική ονομασία \"ΕΜΠΕΣΣΟΣ Τ/Κ\") χορηγήθηκε, με την Απόφαση της ΕΕΤΤ \n39028/Φ610/23-12-2020, άδεια κατασκευής κεραίας στην εταιρία OTE. \nΑπό τo έγγραφο της άδειας μπορείτε να ενημερωθείτε για τις σχετικές εγκρίσεις των συναρμόδιων φορέων, καθώς και εάν πρόκειται για τροποποίηση παλαιότερης άδειας.\nΗ άδεια χορηγήθηκε με τη διαδικασία αδειοδότησης που ορίζει ο ν. 4635/2019, κατόπιν της με αριθ. πρωτ. 25908/17-01-2018 \n\tαίτησης, και βάσει σχετικής δήλωσης του κατόχου της περί υπαγωγή της κατασκευής κεραίας στο άρθρο 34 του ν. 4635/2019.",
+  "measurements_eaee": "-",
+  "documents": [
+    {
+      "document_number": "318453/17-01-2018",
+      "protocol_number": "233/10-01-2018",
+      "type": "Τοπογραφικό",
+      "file_url": "https://silia.eett.gr/silia/download/84c511fd-f24c-46a7-b584-00cc2009d3f7"
+    },
+    {
+      "document_number": "318454/17-01-2018",
+      "protocol_number": "233/10-01-2018",
+      "type": "Αρχιτεκτονικά Σχέδια",
+      "file_url": "https://silia.eett.gr/silia/download/b74b9896-1c4d-4d0e-aaab-c97845cce8df"
+    },
+    {
+      "document_number": "318455/17-01-2018",
+      "protocol_number": "ΜΕΣΩ ΣΗΛΥΑ/01-06-2016",
+      "type": "Αίτηση - Μελέτη Ραδιοεκπομπών ΕΕΑΕ",
+      "file_url": "https://silia.eett.gr/silia/download/92820f6d-2ff9-42a5-a436-49810ed9cd26"
+    },
+    {
+      "document_number": "318459/17-01-2018",
+      "protocol_number": "Αρχείο Αίτησης/",
+      "type": "Αίτηση Άδειας Κατασκευής Κεραίας ΕΕΤΤ",
+      "file_url": "https://silia.eett.gr/silia/download/36e25ea3-8d0d-4b8d-a141-8e196804f130"
+    },
+    {
+      "document_number": "319031/26-01-2018",
+      "protocol_number": "Δ3/Δ/1119/343/18-1-2018/26-01-2018",
+      "type": "Γνωμάτευση ΥΠΑ",
+      "file_url": "https://silia.eett.gr/silia/download/17528135-6484-4753-92b8-b739038542b0"
+    },
+    {
+      "document_number": "328690/07-05-2018",
+      "protocol_number": "Μ.ι./411/5802/2018/27-04-2018",
+      "type": "Γνωμάτευση ΕΕΑΕ",
+      "file_url": "https://silia.eett.gr/silia/download/91f5315d-5319-4568-84f5-ce906ba0927b"
+    },
+    {
+      "document_number": "426299/23-12-2020",
+      "protocol_number": "39028/Φ610/23-12-2020",
+      "type": "Άδεια Κατασκευής  Κεραίας",
+      "file_url": "https://silia.eett.gr/silia/download/47d6af9c-3c38-4f96-bf2a-b2e7d7f83989"
+    },
+    {
+      "document_number": "318458/17-01-2018",
+      "protocol_number": "ΣΥΝΟΔΕΥΤΙΚΑ ΕΓΓΡΑΦΑ/",
+      "type": "Δήλωση υπαγωγής σε ΠΠΔ και Συνοδευτικά Έγγραφα",
+      "file_url": "https://silia.eett.gr/silia/download/ba68cffb-600d-4a1b-a2e4-ed6a93134089"
+    },
+    {
+      "document_number": "318460/17-01-2018",
+      "protocol_number": "Αρχείο Αίτησης/",
+      "type": "Δήλωση ΠΠΔ",
+      "file_url": "https://silia.eett.gr/silia/download/1ed9ea78-2186-415d-92d2-895cb4c5cd36"
+    }
+  ]
+}

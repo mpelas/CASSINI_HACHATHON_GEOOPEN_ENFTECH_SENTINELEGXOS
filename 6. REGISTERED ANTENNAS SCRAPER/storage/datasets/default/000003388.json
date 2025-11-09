@@ -1,0 +1,45 @@
+{
+  "antenna_id": "132796",
+  "address": "ΟΙΝΟΦΥΤΑ ΒΟΙΩΤΙΑΣ",
+  "position_code": 1134567,
+  "municipality": "Τανάγρας",
+  "code_name": "MAILIS OINOFYTA",
+  "region": "Στερεάς Ελλάδας",
+  "latitude": 38.309722,
+  "company": "VODAFONE",
+  "longitude": 23.623611,
+  "permit_status": "Από τα στοιχεία που τηρούνται στην Ενημερωτική Πύλη προκύπτει ότι, για τη θέση \"ΟΙΝΟΦΥΤΑ ΒΟΙΩΤΙΑΣ\" στον Δήμο Τανάγρας Περιφέρειας  Στερεάς Ελλάδας \n\t(κωδικός αριθμός θέσης 1134567, κωδική ονομασία \"MAILIS OINOFYTA\") έχει κατατεθεί από την εταιρία VODAFONE\tδήλωση εγκατάστασης κατασκευής κεραίας (αριθ. πρωτ. \n\t27382/30-04-2018) που εμπίπτει στις διατάξεις της νομοθεσίας για Εγκαταστάσεις Κατασκευών Κεραιών Χαμηλής Ηλεκτρομαγνητικής Περιβαλλοντικής Όχλησης (ΕΚΚΧΟ).",
+  "measurements_eaee": "-",
+  "documents": [
+    {
+      "document_number": "328069/27-04-2018",
+      "protocol_number": "ΦΩΤΟΓΡΑΦΙΑ ΘΕΣΗΣ ΚΕΡΑΙΩΝ ΕΚΚΧΟ 1, 2 & 3./",
+      "type": "Φωτογραφικό Υλικό - Σκαρίφημα",
+      "file_url": "https://silia.eett.gr/silia/download/28905519-8d87-47e7-a8e2-916ce104a784"
+    },
+    {
+      "document_number": "328128/30-04-2018",
+      "protocol_number": "ΦΩΤΟΓΡΑΦΙΑ ΘΕΣΗΣ ΚΕΡΑΙΑΣ 6/",
+      "type": "Φωτογραφικό Υλικό - Σκαρίφημα",
+      "file_url": "https://silia.eett.gr/silia/download/bd9575b6-269a-43e3-9119-d5838ab77476"
+    },
+    {
+      "document_number": "328129/30-04-2018",
+      "protocol_number": "ΦΩΤΟΓΡΑΦΙΑ ΘΕΣΗΣ ΚΕΡΑΙΑΣ 7/",
+      "type": "Φωτογραφικό Υλικό - Σκαρίφημα",
+      "file_url": "https://silia.eett.gr/silia/download/57c1d9bf-7a54-4beb-94be-7d84d1790398"
+    },
+    {
+      "document_number": "328130/30-04-2018",
+      "protocol_number": "ΦΩΤΟΓΡΑΦΙΑ ΘΕΣΗΣ ΚΕΡΑΙΑΣ 8/",
+      "type": "Φωτογραφικό Υλικό - Σκαρίφημα",
+      "file_url": "https://silia.eett.gr/silia/download/85163219-81d9-48dc-bb86-ec440ac99f17"
+    },
+    {
+      "document_number": "328188/30-04-2018",
+      "protocol_number": "Αρχείο Αίτησης/",
+      "type": "Δήλωση ΕΚΚΧΟ",
+      "file_url": "https://silia.eett.gr/silia/download/218410b1-e2da-48bc-b60a-03c193363e25"
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "antenna_id": "154477",
+  "address": "Δ.Δ Νεοχωρίου - Δήμος Φαρκαδόνας - Π.Ε. Τρικάλων Περιφ. Θεσσαλίας",
+  "position_code": 3207616,
+  "municipality": "Φαρκαδόνας",
+  "code_name": "ΝΕΟΧΩΡΙ-Δ",
+  "region": "Θεσσαλίας",
+  "latitude": 39.603056,
+  "company": "ΕΡΤ ΑΕ",
+  "longitude": 22.012222,
+  "permit_status": "Από τα στοιχεία που τηρούνται στην Ενημερωτική Πύλη προκύπτει ότι για τη  θέση \"Δ.Δ Νεοχωρίου - Δήμος Φαρκαδόνας - Π.Ε. Τρικάλων Περιφ. Θεσσαλίας\" στον Δήμο Φαρκαδόνας Περιφέρειας  Θεσσαλίας έχει κατατεθεί από την εταιρία ΕΡΤ ΑΕ δήλωση δομικών κατασκευών κεραιών  \nμε αριθ. πρωτ. ΣΗΛΥΑ 38851/17-05-2020 κατά τα οριζόμενα στην παρ. 7 του άρθρου 34 του Ν.4635/2019.",
+  "measurements_eaee": "-",
+  "documents": [
+    {
+      "document_number": "404971/12-05-2020",
+      "protocol_number": "απογραφή 1987/",
+      "type": "Άλλο",
+      "file_url": "https://silia.eett.gr/silia/download/d035500c-1819-407d-b710-9202d03daa83"
+    },
+    {
+      "document_number": "404972/12-05-2020",
+      "protocol_number": "πίνακας 49 απογραφής ΕΡΤ 1987/",
+      "type": "Άλλο",
+      "file_url": "https://silia.eett.gr/silia/download/f2c5c19b-c701-45fa-83bb-879e2ee43cc0"
+    },
+    {
+      "document_number": "404973/12-05-2020",
+      "protocol_number": "δορυφορική λήψη και στοιχεία δομικών κατασκευών/",
+      "type": "Άλλο",
+      "file_url": "https://silia.eett.gr/silia/download/9e6bf909-d724-467a-ba47-f5ac82f3ccaf"
+    },
+    {
+      "document_number": "406097/17-05-2020",
+      "protocol_number": "Αρχείο Αίτησης/",
+      "type": "Δήλωση Δομικών ΕΡΤ",
+      "file_url": "https://silia.eett.gr/silia/download/d678c8a3-9e8e-4c11-9b5b-d136edf92815"
+    }
+  ]
+}

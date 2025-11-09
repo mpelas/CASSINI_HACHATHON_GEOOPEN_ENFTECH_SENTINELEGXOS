@@ -1,0 +1,99 @@
+{
+  "antenna_id": "163489",
+  "address": "ΤΜΗΜΑ ΑΓΡ. 404 - ΘΕΣΗ ΣΟΥΡΠΗ - ΠΕΡΙΟΧΗ ΑΓΙΑΣ ΤΡΙΑΔΟΣ",
+  "position_code": 1291257,
+  "municipality": "Αλμυρού",
+  "code_name": "ΣΟΥΡΠΗ",
+  "region": "Θεσσαλίας",
+  "latitude": 39.107222,
+  "company": "NOVA Μ.Α.Ε.",
+  "longitude": 22.880278,
+  "permit_status": "Από τα στοιχεία που τηρούνται στην Ενημερωτική Πύλη προκύπτει ότι, για τη θέση \"ΤΜΗΜΑ ΑΓΡ. 404 - ΘΕΣΗ ΣΟΥΡΠΗ - ΠΕΡΙΟΧΗ ΑΓΙΑΣ ΤΡΙΑΔΟΣ\" στον Δήμο Αλμυρού Περιφέρειας  Θεσσαλίας \n\t(κωδικός αριθμός θέσης 1291257, κωδική ονομασία \"ΣΟΥΡΠΗ\") χορηγήθηκε, με την Απόφαση της ΕΕΤΤ \n44875/18-07-2022, άδεια κατασκευής κεραίας στην εταιρία NOVA Μ.Α.Ε.. \nΑπό τo έγγραφο της άδειας μπορείτε να ενημερωθείτε για τις σχετικές εγκρίσεις των συναρμόδιων φορέων, καθώς και εάν πρόκειται για τροποποίηση παλαιότερης άδειας.",
+  "measurements_eaee": "-",
+  "documents": [
+    {
+      "document_number": "457437/19-04-2022",
+      "protocol_number": "ΣΥΝΗΜΜΕΝOΣ ΜΕ ΤΗΝ ΚΑΤΑΘΕΣΗ ΣΤΗΝ ΥΠΑ/",
+      "type": "Απόσπασμα Χάρτη ΓΥΣ 1:50.000",
+      "file_url": "https://silia.eett.gr/silia/download/69ee75de-5d5b-45e5-bc22-e23bedb3d497"
+    },
+    {
+      "document_number": "457441/19-04-2022",
+      "protocol_number": "ΣΥΝΗΜΜΕΝΗ ΜΕ ΤΗΝ ΚΑΤΑΘΕΣΗ ΣΤΗΝ ΕΕΑΕ/18-04-2022",
+      "type": "Αίτηση - Μελέτη Ραδιοεκπομπών ΕΕΑΕ",
+      "file_url": "https://silia.eett.gr/silia/download/0eeebe03-1138-4786-a3ba-a10c318b03bb"
+    },
+    {
+      "document_number": "457442/19-04-2022",
+      "protocol_number": "ΣΥΝΗΜΜΕΝA ΜΕ ΤΗΝ ΚΑΤΑΘΕΣΗ ΣΤΗΝ ΕΕΑΕ/",
+      "type": "Αρχιτεκτονικά Σχέδια",
+      "file_url": "https://silia.eett.gr/silia/download/07debc40-046b-4dac-a715-dd23a012a214"
+    },
+    {
+      "document_number": "457443/19-04-2022",
+      "protocol_number": "ΣΥΝΗΜΜΕΝΟ ΜΕ ΤΗΝ ΚΑΤΑΘΕΣΗ ΣΤΗΝ ΕΕΑΕ/",
+      "type": "Τοπογραφικό",
+      "file_url": "https://silia.eett.gr/silia/download/e9fc66a8-6db2-4d5c-bf9d-5b550298798a"
+    },
+    {
+      "document_number": "457446/19-04-2022",
+      "protocol_number": "ΣΥΝΗΜΜΕΝΗ ΜΕ ΤΗΝ ΚΑΤΑΘΕΣΗ ΣΤΗΝ ΕΕΤΤ/13-04-2022",
+      "type": "Βεβαίωση πολιτικού μηχανικού",
+      "file_url": "https://silia.eett.gr/silia/download/c8e23016-f5b8-461b-b53e-631fe9973f65"
+    },
+    {
+      "document_number": "457652/20-04-2022",
+      "protocol_number": "41225/20-04-2022",
+      "type": "Αποτελέσματα μελέτης στη ζώνης 2.6GHz για ΥΠΑ/ΓΕΕΘΑ",
+      "file_url": "https://silia.eett.gr/silia/download/2bff6617-3dcf-47c6-a5b6-c1d6f3ceacdc"
+    },
+    {
+      "document_number": "457654/20-04-2022",
+      "protocol_number": "Αρχείο Αίτησης/",
+      "type": "Αίτηση Άδειας Κατασκευής Κεραίας ΕΕΤΤ",
+      "file_url": "https://silia.eett.gr/silia/download/1b67362a-a0df-4d74-8ce9-15562fada65a"
+    },
+    {
+      "document_number": "458785/10-05-2022",
+      "protocol_number": "ΚΓ/Δ3/Δ/11363/6-5-2022/06-05-2022",
+      "type": "Γνωμάτευση ΥΠΑ",
+      "file_url": "https://silia.eett.gr/silia/download/fb633c5c-57ca-4ceb-94e4-c3de97c1957a"
+    },
+    {
+      "document_number": "460306/27-05-2022",
+      "protocol_number": "Μι/411/7967/26-05-2022",
+      "type": "Γνωμάτευση ΕΕΑΕ",
+      "file_url": "https://silia.eett.gr/silia/download/324dc8e7-e7cb-4eb0-ad6d-f6b52e9144c9"
+    },
+    {
+      "document_number": "464585/25-07-2022",
+      "protocol_number": "44875/18-07-2022",
+      "type": "Άδεια Κατασκευής  Κεραίας",
+      "file_url": "https://silia.eett.gr/silia/download/72132821-ced1-4392-aa9b-1e00e5efe899"
+    },
+    {
+      "document_number": "457448/19-04-2022",
+      "protocol_number": "ΣΥΝΗΜΜΕΝΗ ΜΕ ΤΗΝ ΚΑΤΑΘΕΣΗ ΣΤΗΝ ΕΕΑΕ/18-04-2022",
+      "type": "Αίτηση - Μελέτη Ραδιοεκπομπών ΕΕΑΕ",
+      "file_url": "https://silia.eett.gr/silia/download/0eeebe03-1138-4786-a3ba-a10c318b03bb"
+    },
+    {
+      "document_number": "457449/19-04-2022",
+      "protocol_number": "41868/09-03-2022",
+      "type": "Έγκριση Αρμοδίου Φορέα",
+      "file_url": "https://silia.eett.gr/silia/download/ea8b8b73-6635-4cd5-a40b-673e951e8415"
+    },
+    {
+      "document_number": "457450/19-04-2022",
+      "protocol_number": "40821/11-02-2022",
+      "type": "Γνωμοδότηση Υπηρεσίας Νεωτέρων Μνημείων",
+      "file_url": "https://silia.eett.gr/silia/download/1aaa01e1-2562-4839-bb61-418d05e89614"
+    },
+    {
+      "document_number": "457655/20-04-2022",
+      "protocol_number": "Αρχείο Αίτησης/",
+      "type": "Δήλωση ΠΠΔ",
+      "file_url": "https://silia.eett.gr/silia/download/0907aba6-1b12-4e97-99bb-9680ded04f65"
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "antenna_id": "163996",
+  "address": "ΣΚΥΡΟΣ ΠΕΡ. ΣΤΕΡΕΑΣ ΕΛΛΑΔΑΣ",
+  "position_code": 3206054,
+  "municipality": "Σκύρου",
+  "code_name": "ΣΚΥΡΟΣ",
+  "region": "Στερεάς Ελλάδας",
+  "latitude": 38.885556,
+  "company": "ΕΡΤ ΑΕ",
+  "longitude": 24.547778,
+  "permit_status": "Από τα στοιχεία που τηρούνται στην Ενημερωτική Πύλη προκύπτει ότι για τη  θέση \"ΣΚΥΡΟΣ ΠΕΡ. ΣΤΕΡΕΑΣ ΕΛΛΑΔΑΣ\" στον Δήμο Σκύρου Περιφέρειας  Στερεάς Ελλάδας έχει κατατεθεί από την εταιρία ΕΡΤ ΑΕ δήλωση κατασκευής κεραίας τηλεοπτικής ευρυεκπομπής με αριθ. πρωτ. ΣΗΛΥΑ \n47964/19-05-2022 κατά τα οριζόμενα στην παρ. 7 του άρθρου 39 του Ν.4635/2019.",
+  "measurements_eaee": "-",
+  "documents": [
+    {
+      "document_number": "459549/19-05-2022",
+      "protocol_number": "Επαναυποβολή_ΥΠΑ_μετάβαση/",
+      "type": "Αίτηση ΥΠΑ",
+      "file_url": "https://silia.eett.gr/silia/download/602d91f3-36ea-44f8-81af-0e6468525f80"
+    },
+    {
+      "document_number": "459550/19-05-2022",
+      "protocol_number": "screenshot/",
+      "type": "Φωτογραφικό Υλικό - Σκαρίφημα",
+      "file_url": "https://silia.eett.gr/silia/download/9ab062a5-b4d6-43aa-96d7-d134cc7a94df"
+    },
+    {
+      "document_number": "459552/19-05-2022",
+      "protocol_number": "Αρχείο Αίτησης/",
+      "type": "Δήλωση Τηλεοπτικής Ευρυεκπομπής",
+      "file_url": "https://silia.eett.gr/silia/download/dc5b3073-e438-49d6-a9aa-d16718f1c6ff"
+    }
+  ]
+}

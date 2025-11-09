@@ -1,0 +1,33 @@
+{
+  "antenna_id": "152717",
+  "address": "Δαιδάλου 9, Χερσόνησος, ΤΚ 70014.",
+  "position_code": 1145722,
+  "municipality": "Χερσονήσου",
+  "code_name": "INFINITY BLUE HOTEL HERSONISSOS",
+  "region": "Κρήτης",
+  "latitude": 35.323056,
+  "company": "VODAFONE",
+  "longitude": 25.388333,
+  "permit_status": "Από τα στοιχεία που τηρούνται στην Ενημερωτική Πύλη προκύπτει ότι, για τη θέση \"Δαιδάλου 9, Χερσόνησος, ΤΚ 70014.\" στον Δήμο Χερσονήσου Περιφέρειας  Κρήτης \n\t(κωδικός αριθμός θέσης 1145722, κωδική ονομασία \"INFINITY BLUE HOTEL HERSONISSOS\") έχει κατατεθεί από την εταιρία VODAFONE\tδήλωση εγκατάστασης κατασκευής κεραίας (αριθ. πρωτ. \n\t38247/13-04-2020) που εμπίπτει στις διατάξεις της νομοθεσίας για Εγκαταστάσεις Κατασκευών Κεραιών Χαμηλής Ηλεκτρομαγνητικής Περιβαλλοντικής Όχλησης (ΕΚΚΧΟ).",
+  "measurements_eaee": "-",
+  "documents": [
+    {
+      "document_number": "401715/09-04-2020",
+      "protocol_number": "ΣΚΑΡΙΦΗΜΑ ΘΕΣΗΣ ΙΣΤΟΥ ΕΚΚΧΟ - ΚΑΤΟΨΗ - ΚΕΡΑΙΑΣ 1/",
+      "type": "Φωτογραφικό Υλικό - Σκαρίφημα",
+      "file_url": "https://silia.eett.gr/silia/download/b7fce5dd-cd73-481f-89ea-27b37acb71f0"
+    },
+    {
+      "document_number": "402127/13-04-2020",
+      "protocol_number": "ΦΩΤΟΓΡΑΦΙΑ ΘΕΣΗΣ ΚΕΡΑΙΑΣ ΕΚΚΧΟ ΑΠΟ GOOGLE EARTH/",
+      "type": "Φωτογραφικό Υλικό - Σκαρίφημα",
+      "file_url": "https://silia.eett.gr/silia/download/e79fb0c8-c712-4817-a694-cbb92a964a7e"
+    },
+    {
+      "document_number": "402128/13-04-2020",
+      "protocol_number": "Αρχείο Αίτησης/",
+      "type": "Δήλωση ΕΚΚΧΟ",
+      "file_url": "https://silia.eett.gr/silia/download/1fec7e1e-ba5e-4eae-8114-0b472a524c5b"
+    }
+  ]
+}

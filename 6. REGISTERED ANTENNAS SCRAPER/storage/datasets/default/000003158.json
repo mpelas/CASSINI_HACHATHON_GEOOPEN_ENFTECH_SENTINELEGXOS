@@ -1,0 +1,45 @@
+{
+  "antenna_id": "179174",
+  "address": "ΤΕΡΜΑ ΜΑΓΝΗΣΙΑΣ ΣΕΡΡΕΣ",
+  "position_code": 1144416,
+  "municipality": "Σερρών",
+  "code_name": "3034416 DIETHNES PANEPISTHMIO SERRES",
+  "region": "Κεντρικής Μακεδονίας",
+  "latitude": 41.076389,
+  "company": "VODAFONE",
+  "longitude": 23.553333,
+  "permit_status": "Από τα στοιχεία που τηρούνται στην Ενημερωτική Πύλη προκύπτει ότι, για τη θέση \"ΤΕΡΜΑ ΜΑΓΝΗΣΙΑΣ ΣΕΡΡΕΣ\" στον Δήμο Σερρών Περιφέρειας  Κεντρικής Μακεδονίας \n\t(κωδικός αριθμός θέσης 1144416, κωδική ονομασία \"3034416 DIETHNES PANEPISTHMIO SERRES\") έχει κατατεθεί από την εταιρία VODAFONE\tδήλωση εγκατάστασης κατασκευής κεραίας (αριθ. πρωτ. \n\t60751/24-04-2025) που εμπίπτει στις διατάξεις της νομοθεσίας για Εγκαταστάσεις Κατασκευών Κεραιών Χαμηλής Ηλεκτρομαγνητικής Περιβαλλοντικής Όχλησης (ΕΚΚΧΟ).",
+  "measurements_eaee": "-",
+  "documents": [
+    {
+      "document_number": "547473/24-04-2025",
+      "protocol_number": "Φωτορεαλιστική απεικόνιση κεραίας ΕΚΚΧΟ/24-04-2025",
+      "type": "Φωτογραφικό Υλικό - Σκαρίφημα",
+      "file_url": "https://silia.eett.gr/silia/download/4MGeHp2Syap9dL37g2RwmCBiRDFnZsvXUSeg"
+    },
+    {
+      "document_number": "547474/24-04-2025",
+      "protocol_number": "Ψηφιακός χάρτης με προβολή της θέσης ΕΚΚΧΟ/24-04-2025",
+      "type": "Φωτογραφικό Υλικό - Σκαρίφημα",
+      "file_url": "https://silia.eett.gr/silia/download/P0r59uav2t2q7DeQ7K0TOgPLmGGqfDffLtxZ"
+    },
+    {
+      "document_number": "547476/24-04-2025",
+      "protocol_number": "ΜΕΛΕΤΗ ΕΚΚΧΟ/24-04-2025",
+      "type": "Άλλο",
+      "file_url": "https://silia.eett.gr/silia/download/QwR2dcdQaMYnXDRkaeOWCLWG3ASICIdxKHZ3"
+    },
+    {
+      "document_number": "547480/24-04-2025",
+      "protocol_number": "Σκαρίφημα με περιοχή απαγόρευσης/24-04-2025",
+      "type": "Φωτογραφικό Υλικό - Σκαρίφημα",
+      "file_url": "https://silia.eett.gr/silia/download/svqBZZ7oTn90glADlG6ULO1CrbxeDQOmulV3"
+    },
+    {
+      "document_number": "547481/24-04-2025",
+      "protocol_number": "Αρχείο Αίτησης/24-04-2025",
+      "type": "Δήλωση ΕΚΚΧΟ",
+      "file_url": "https://silia.eett.gr/silia/download/uG1g6ah5EHCdCDsCPv8vkSNrv8CcuoXZYGgy"
+    }
+  ]
+}

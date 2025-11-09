@@ -1,0 +1,51 @@
+{
+  "antenna_id": "133491",
+  "address": "Μιχαήλ Λογαριαστάκη 3, Ηράκλειο Κρήτης.",
+  "position_code": 1132287,
+  "municipality": "Ηρακλείου Κρήτης",
+  "code_name": "TEI HERAKLIOU Α2",
+  "region": "Κρήτης",
+  "latitude": 35.32,
+  "company": "VODAFONE",
+  "longitude": 25.101111,
+  "permit_status": "Από τα στοιχεία που τηρούνται στην Ενημερωτική Πύλη προκύπτει ότι, για τη θέση \"Μιχαήλ Λογαριαστάκη 3, Ηράκλειο Κρήτης.\" στον Δήμο Ηρακλείου Κρήτης Περιφέρειας  Κρήτης \n\t(κωδικός αριθμός θέσης 1132287, κωδική ονομασία \"TEI HERAKLIOU Α2\") έχει κατατεθεί από την εταιρία VODAFONE\tδήλωση εγκατάστασης κατασκευής κεραίας (αριθ. πρωτ. \n\t28000/19-06-2018) που εμπίπτει στις διατάξεις της νομοθεσίας για Εγκαταστάσεις Κατασκευών Κεραιών Χαμηλής Ηλεκτρομαγνητικής Περιβαλλοντικής Όχλησης (ΕΚΚΧΟ).",
+  "measurements_eaee": "-",
+  "documents": [
+    {
+      "document_number": "332717/15-06-2018",
+      "protocol_number": "ΦΩΤΟΓΡΑΦΙΑ ΘΕΣΗΣ ΚΕΡΑΙΑΣ 2/",
+      "type": "Φωτογραφικό Υλικό - Σκαρίφημα",
+      "file_url": "https://silia.eett.gr/silia/download/1cc1421d-7159-4687-89f9-95c4f4072873"
+    },
+    {
+      "document_number": "332718/15-06-2018",
+      "protocol_number": "ΥΔ ΠΟΛΙΤΙΚΟΥ ΜΗΧΑΝΙΚΟΥ/",
+      "type": "Άλλο",
+      "file_url": "https://silia.eett.gr/silia/download/2966e901-8526-47ff-a695-28b73d83cd0b"
+    },
+    {
+      "document_number": "332719/15-06-2018",
+      "protocol_number": "ΚΑΤΟΨΗ ΕΚΚΧΟ 1132287/",
+      "type": "Αρχιτεκτονικά Σχέδια",
+      "file_url": "https://silia.eett.gr/silia/download/b8d23442-88e7-43aa-bde8-d54b25757783"
+    },
+    {
+      "document_number": "332987/19-06-2018",
+      "protocol_number": "Μελέτη συμβατότητας 2700 MHz VODAFONE/",
+      "type": "Μελέτη για τη ζώνη  2,6GHz",
+      "file_url": "https://silia.eett.gr/silia/download/76fec7e8-90ef-4bf6-a1c8-ad5c8b297078"
+    },
+    {
+      "document_number": "332988/19-06-2018",
+      "protocol_number": "Μελέτη συμβατότητας 2700 MHz WIND/",
+      "type": "Μελέτη για τη ζώνη  2,6GHz",
+      "file_url": "https://silia.eett.gr/silia/download/a6ae0e19-9c10-4ebb-aef5-78d20e5d1c4d"
+    },
+    {
+      "document_number": "332992/19-06-2018",
+      "protocol_number": "Αρχείο Αίτησης/",
+      "type": "Δήλωση ΕΚΚΧΟ",
+      "file_url": "https://silia.eett.gr/silia/download/acecf90c-8086-4989-b30f-d8ac7d2cb7f4"
+    }
+  ]
+}

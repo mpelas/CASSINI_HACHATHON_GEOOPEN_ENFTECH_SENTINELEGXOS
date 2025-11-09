@@ -1,0 +1,105 @@
+{
+  "antenna_id": "133342",
+  "address": "ΔΩΜΑ ΚΤΙΡΙΟΥ ΟΤΕ, ΚΕΡΑΣΙΤΣΑ",
+  "position_code": 1405443,
+  "municipality": "Τρίπολης",
+  "code_name": "ΚΕΡΑΣΙΤΣΑ Τ/Κ",
+  "region": "Πελοποννήσου",
+  "latitude": 37.455278,
+  "company": "OTE",
+  "longitude": 22.409722,
+  "permit_status": "Από τα στοιχεία που τηρούνται στην Ενημερωτική Πύλη προκύπτει ότι, για τη θέση \"ΔΩΜΑ ΚΤΙΡΙΟΥ ΟΤΕ, ΚΕΡΑΣΙΤΣΑ\" στον Δήμο Τρίπολης Περιφέρειας  Πελοποννήσου \n\t(κωδικός αριθμός θέσης 1405443, κωδική ονομασία \"ΚΕΡΑΣΙΤΣΑ Τ/Κ\") χορηγήθηκε, με την Απόφαση της ΕΕΤΤ \n31667/Φ610/26-02-2019, άδεια κατασκευής κεραίας στην εταιρία OTE. \nΑπό τo έγγραφο της άδειας μπορείτε να ενημερωθείτε για τις σχετικές εγκρίσεις των συναρμόδιων φορέων, καθώς και εάν πρόκειται για τροποποίηση παλαιότερης άδειας.\nΗ άδεια χορηγήθηκε, κατόπιν της με Αριθ. Πρωτ. 27838/07-06-2018 αίτησης, \n\tμε τη διαδικασία αδειοδότησης της παρ. 17 του άρθρου 30 του Ν.4070/2012 που πλέον έχει αντικατασταθεί από τη διαδικασία που ορίζει ο ν. 4635/2019.\n\tΣύμφωνα με τα στοιχεία που έχουν υποβληθεί στο ΣΗΛΥΑ για την κατασκευή κεραίας από τον κάτοχό της, έχει εκδοθεί έγκριση δομικών κατασκευών κεραίας",
+  "measurements_eaee": "-",
+  "documents": [
+    {
+      "document_number": "331891/07-06-2018",
+      "protocol_number": "12053/26-04-2018",
+      "type": "Τοπογραφικό",
+      "file_url": "https://silia.eett.gr/silia/download/2e34cbd7-23d6-4251-be1f-b4aef05c34ce"
+    },
+    {
+      "document_number": "331892/07-06-2018",
+      "protocol_number": "12053/26-04-2018",
+      "type": "Αρχιτεκτονικά Σχέδια",
+      "file_url": "https://silia.eett.gr/silia/download/c53fda26-bc82-4afb-a9c5-851206bdb6cf"
+    },
+    {
+      "document_number": "331894/07-06-2018",
+      "protocol_number": "Δ3/Δ/40532/8972/07-11-2002",
+      "type": "Γνωμάτευση ΥΠΑ",
+      "file_url": "https://silia.eett.gr/silia/download/9c9a7965-b873-48e6-92b4-6de4311b0fc2"
+    },
+    {
+      "document_number": "331895/07-06-2018",
+      "protocol_number": "ΜΕΣΩ ΣΗΛΥΑ/07-06-2018",
+      "type": "Αίτηση ΥΠΑ",
+      "file_url": "https://silia.eett.gr/silia/download/84dfc821-ab02-432f-838c-89bf45a5b87e"
+    },
+    {
+      "document_number": "331896/07-06-2018",
+      "protocol_number": "ΜΕΣΩ ΣΗΛΥΑ/03-06-2018",
+      "type": "Αίτηση - Μελέτη Ραδιοεκπομπών ΕΕΑΕ",
+      "file_url": "https://silia.eett.gr/silia/download/6fc44177-5587-4144-baa0-83f73fd26685"
+    },
+    {
+      "document_number": "331899/07-06-2018",
+      "protocol_number": "ΥΠΕΥΘΥΝΗ ΔΗΛΩΣΗ ΣΥΝΕΓΚΑΤΑΣΤΑΣΗΣ  ΟΤΕ/07-06-2018",
+      "type": "Άλλο",
+      "file_url": "https://silia.eett.gr/silia/download/273d1ed2-04de-49e7-8f2c-cae1f4466e64"
+    },
+    {
+      "document_number": "332001/07-06-2018",
+      "protocol_number": "Αρχείο Αίτησης/",
+      "type": "Αίτηση Άδειας Κατασκευής Κεραίας ΕΕΤΤ",
+      "file_url": "https://silia.eett.gr/silia/download/9cfbe264-80f0-4ccb-8f15-3d426649f289"
+    },
+    {
+      "document_number": "333155/19-06-2018",
+      "protocol_number": "12053/26.04.2018/18-06-2018",
+      "type": "Έγκριση δομικών κατασκευών (έντυπη)",
+      "file_url": "https://silia.eett.gr/silia/download/9466ec32-d11f-40e0-b2c4-a5116458a6b5"
+    },
+    {
+      "document_number": "339776/10-09-2018",
+      "protocol_number": "Μ.ι./411/11748/2018/03-09-2018",
+      "type": "Γνωμάτευση ΕΕΑΕ",
+      "file_url": "https://silia.eett.gr/silia/download/5d17b9e8-56ca-4dde-93a8-6f8d05911d56"
+    },
+    {
+      "document_number": "342925/02-10-2018",
+      "protocol_number": "Δ3/Δ/22955/6647/28-9-2018/02-10-2018",
+      "type": "Γνωμάτευση ΥΠΑ",
+      "file_url": "https://silia.eett.gr/silia/download/d6b21429-7326-4101-a7d2-8ad932f90f81"
+    },
+    {
+      "document_number": "356507/05-02-2019",
+      "protocol_number": "ΥΠΕΥΘΥΝΗ ΔΗΛΩΣΗ/05-02-2019",
+      "type": "Άλλο",
+      "file_url": "https://silia.eett.gr/silia/download/68c37606-b4d5-48c3-a79d-823fa8a464f6"
+    },
+    {
+      "document_number": "361017/20-03-2019",
+      "protocol_number": "31667/Φ610/26-03-2019",
+      "type": "Άδεια Κατασκευής  Κεραίας",
+      "file_url": "https://silia.eett.gr/silia/download/8feb69b3-08d1-4dd8-a8a4-a9b3d4900c34"
+    },
+    {
+      "document_number": "333155/19-06-2018",
+      "protocol_number": "12053/26.04.2018/18-06-2018",
+      "type": "Έγκριση δομικών κατασκευών (έντυπη)",
+      "file_url": "https://silia.eett.gr/silia/download/9466ec32-d11f-40e0-b2c4-a5116458a6b5"
+    },
+    {
+      "document_number": "331900/07-06-2018",
+      "protocol_number": "ΜΕΣΩ ΣΗΛΥΑ/",
+      "type": "Δήλωση υπαγωγής σε ΠΠΔ και Συνοδευτικά Έγγραφα",
+      "file_url": "https://silia.eett.gr/silia/download/80bcc740-f08b-429d-a915-89da9c86993f"
+    },
+    {
+      "document_number": "332002/07-06-2018",
+      "protocol_number": "Αρχείο Αίτησης/",
+      "type": "Δήλωση ΠΠΔ",
+      "file_url": "https://silia.eett.gr/silia/download/60d4153e-cf1b-468d-90a0-d789ae4cf93f"
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "antenna_id": "164717",
+  "address": "ΛΕΩΦΟΡΟΣ ΛΑΥΡΙΟΥ 2, ΓΛΥΚΑ ΝΕΡΑ.",
+  "position_code": 1159607,
+  "municipality": "Παιανίας",
+  "code_name": "3029607 GENIKI TAXIDROMIKI GLIKA NERA",
+  "region": "Αττικής",
+  "latitude": 38.01,
+  "company": "VODAFONE",
+  "longitude": 23.843611,
+  "permit_status": "Από τα στοιχεία που τηρούνται στην Ενημερωτική Πύλη προκύπτει ότι, για τη θέση \"ΛΕΩΦΟΡΟΣ ΛΑΥΡΙΟΥ 2, ΓΛΥΚΑ ΝΕΡΑ.\" στον Δήμο Παιανίας Περιφέρειας  Αττικής \n\t(κωδικός αριθμός θέσης 1159607, κωδική ονομασία \"3029607 GENIKI TAXIDROMIKI GLIKA NERA\") έχει κατατεθεί από την εταιρία VODAFONE\tδήλωση εγκατάστασης κατασκευής κεραίας (αριθ. πρωτ. \n\t48565/07-07-2022) που εμπίπτει στις διατάξεις της νομοθεσίας για Εγκαταστάσεις Κατασκευών Κεραιών Χαμηλής Ηλεκτρομαγνητικής Περιβαλλοντικής Όχλησης (ΕΚΚΧΟ).",
+  "measurements_eaee": "-",
+  "documents": [
+    {
+      "document_number": "463633/07-07-2022",
+      "protocol_number": "Φωτογραφία θέσης κεραίας ΕΚΚΧΟ/",
+      "type": "Φωτογραφικό Υλικό - Σκαρίφημα",
+      "file_url": "https://silia.eett.gr/silia/download/9023c4db-c855-4f01-bbd2-5f2f9e7c953b"
+    },
+    {
+      "document_number": "463634/07-07-2022",
+      "protocol_number": "Φωτογραφία θέσης ΕΚΚΧΟ από Google Earth/",
+      "type": "Φωτογραφικό Υλικό - Σκαρίφημα",
+      "file_url": "https://silia.eett.gr/silia/download/ff2296da-c37b-46db-9b15-b7e87a6b8821"
+    },
+    {
+      "document_number": "463636/07-07-2022",
+      "protocol_number": "Αρχείο Αίτησης/",
+      "type": "Δήλωση ΕΚΚΧΟ",
+      "file_url": "https://silia.eett.gr/silia/download/de55c1a4-54e5-40b6-b8d2-68381c959fd5"
+    }
+  ]
+}

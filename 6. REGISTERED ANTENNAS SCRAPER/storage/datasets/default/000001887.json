@@ -1,0 +1,39 @@
+{
+  "antenna_id": "119236",
+  "address": "ΑΕΡΟΔΡΟΜΙΟ ΗΡΑΚΛΕΙΟΥ \"Ν. ΚΑΖΑΝΤΖΑΚΗΣ\"",
+  "position_code": 1204990,
+  "municipality": "Ηρακλείου Κρήτης",
+  "code_name": "IRAKLIO AIRPORT MICRO",
+  "region": "Κρήτης",
+  "latitude": 35.336944,
+  "company": "NOVA Μ.Α.Ε.",
+  "longitude": 25.172778,
+  "permit_status": "Από τα στοιχεία που τηρούνται στην Ενημερωτική Πύλη προκύπτει ότι, για τη θέση \"ΑΕΡΟΔΡΟΜΙΟ ΗΡΑΚΛΕΙΟΥ \"Ν. ΚΑΖΑΝΤΖΑΚΗΣ\"\" στον Δήμο Ηρακλείου Κρήτης Περιφέρειας  Κρήτης \n\t(κωδικός αριθμός θέσης 1204990, κωδική ονομασία \"IRAKLIO AIRPORT MICRO\") έχει κατατεθεί από την εταιρία NOVA Μ.Α.Ε.\tδήλωση εγκατάστασης κατασκευής κεραίας (αριθ. πρωτ. \n\t17742/29-06-2016) που εμπίπτει στις διατάξεις της νομοθεσίας για Εγκαταστάσεις Κατασκευών Κεραιών Χαμηλής Ηλεκτρομαγνητικής Περιβαλλοντικής Όχλησης (ΕΚΚΧΟ).",
+  "measurements_eaee": "-",
+  "documents": [
+    {
+      "document_number": "264308/28-06-2016",
+      "protocol_number": "ΦΩΤΟΓΡΑΦΙΑ/",
+      "type": "Φωτογραφικό Υλικό - Σκαρίφημα",
+      "file_url": "https://silia.eett.gr/silia/download/bad636ee-c95f-4797-bba1-f02812b3588e"
+    },
+    {
+      "document_number": "264407/29-06-2016",
+      "protocol_number": "Αρχείο Αίτησης/",
+      "type": "Δήλωση ΕΚΚΧΟ",
+      "file_url": "https://silia.eett.gr/silia/download/521e6498-0e84-47c3-8162-09560077efcf"
+    },
+    {
+      "document_number": "264966/05-07-2016",
+      "protocol_number": "ΠΑΡΑΡΤΗΜΑ Α ΜΟΔ/04-07-2016",
+      "type": "Άλλο",
+      "file_url": "https://silia.eett.gr/silia/download/70063018-13c8-4c71-b604-e857ffb11533"
+    },
+    {
+      "document_number": "268404/05-08-2016",
+      "protocol_number": "ΠΑΡΑΡΤΗΜΑ Α ΜΟΔ-130/",
+      "type": "Άλλο",
+      "file_url": "https://silia.eett.gr/silia/download/59a1533a-859b-42b1-b799-53a1a305ab69"
+    }
+  ]
+}

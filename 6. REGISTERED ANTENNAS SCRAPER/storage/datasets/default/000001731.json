@@ -1,0 +1,57 @@
+{
+  "antenna_id": "161707",
+  "address": "ΨΑΘΙ ΠΕΡΔΙΚΑΣ ΘΕΣΠΡΩΤΙΑΣ",
+  "position_code": 8001641,
+  "municipality": "Ηγουμενίτσας",
+  "code_name": "ΚΑΡΑΒΟΣΤΑΣΙ",
+  "region": "Ηπείρου",
+  "latitude": 39.342778,
+  "company": "EUROSTAR",
+  "longitude": 20.295278,
+  "permit_status": "Από τα στοιχεία που τηρούνται στην Ενημερωτική Πύλη προκύπτει ότι, για τη θέση \"ΨΑΘΙ ΠΕΡΔΙΚΑΣ ΘΕΣΠΡΩΤΙΑΣ\" στον Δήμο Ηγουμενίτσας Περιφέρειας  Ηπείρου \n\t(κωδικός αριθμός θέσης 8001641, κωδική ονομασία \"ΚΑΡΑΒΟΣΤΑΣΙ\") έχει κατατεθεί από την εταιρία EUROSTAR\tδήλωση εγκατάστασης κατασκευής κεραίας (αριθ. πρωτ. \n\t45975/17-12-2021) που εμπίπτει στις διατάξεις της νομοθεσίας για Εγκαταστάσεις Κατασκευών Κεραιών Χαμηλής Ηλεκτρομαγνητικής Περιβαλλοντικής Όχλησης (ΕΚΚΧΟ).",
+  "measurements_eaee": "-",
+  "documents": [
+    {
+      "document_number": "448337/17-12-2021",
+      "protocol_number": "ΚΑΤΟΨΗ ΕΚΚΧΟ/",
+      "type": "Άλλο",
+      "file_url": null
+    },
+    {
+      "document_number": "448338/17-12-2021",
+      "protocol_number": "ΚΑΤΟΨΗ ΙΣΤΟΥ ΚΑΙ ΚΕΡΑΙΩΝ ΕΚΚΧΟ/",
+      "type": "Άλλο",
+      "file_url": "https://silia.eett.gr/silia/download/08d03108-a37b-4586-8573-9ad4dd5d3acf"
+    },
+    {
+      "document_number": "448339/17-12-2021",
+      "protocol_number": "ΚΑΤΟΨΗ ΧΩΡΟΥ ΠΡΟΣΤΑΣΙΑΣ/",
+      "type": "Άλλο",
+      "file_url": "https://silia.eett.gr/silia/download/71d95701-13ee-4977-ae80-19ccdb35d1a5"
+    },
+    {
+      "document_number": "448340/17-12-2021",
+      "protocol_number": "ΟΨΗ ΙΣΤΟΥ ΚΑΙ ΚΕΡΑΙΩΝ/",
+      "type": "Άλλο",
+      "file_url": "https://silia.eett.gr/silia/download/25fed3a9-cf20-441e-bf12-a0ac4fd5337e"
+    },
+    {
+      "document_number": "448341/17-12-2021",
+      "protocol_number": "ΟΨΗ ΧΩΡΟΥ ΠΡΟΣΤΑΣΙΑΣ/",
+      "type": "Άλλο",
+      "file_url": "https://silia.eett.gr/silia/download/f53cc882-22a5-46c1-b1a6-0430ac55826a"
+    },
+    {
+      "document_number": "448342/17-12-2021",
+      "protocol_number": "ΤΟΠΟΓΡΑΦΙΚΟ/",
+      "type": "Άλλο",
+      "file_url": "https://silia.eett.gr/silia/download/68d3e376-a374-4bf6-af2b-098c1029dcb5"
+    },
+    {
+      "document_number": "448343/17-12-2021",
+      "protocol_number": "Αρχείο Αίτησης/",
+      "type": "Δήλωση ΕΚΚΧΟ",
+      "file_url": "https://silia.eett.gr/silia/download/062e626f-a5b8-4961-9d5e-70924fc36158"
+    }
+  ]
+}

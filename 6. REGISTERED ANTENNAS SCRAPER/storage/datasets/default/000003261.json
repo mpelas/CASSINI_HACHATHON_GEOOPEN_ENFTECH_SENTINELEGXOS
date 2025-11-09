@@ -1,0 +1,27 @@
+{
+  "antenna_id": "160832",
+  "address": "ΨΑΚΑ",
+  "position_code": 3006546,
+  "municipality": "Σουλίου",
+  "code_name": "ΨΑΚΑ Μ",
+  "region": "Ηπείρου",
+  "latitude": 39.458889,
+  "company": "DIGEA",
+  "longitude": 20.388056,
+  "permit_status": "Από τα στοιχεία που τηρούνται στην Ενημερωτική Πύλη προκύπτει ότι για τη  θέση \"ΨΑΚΑ\" στον Δήμο Σουλίου Περιφέρειας  Ηπείρου έχει κατατεθεί από την εταιρία DIGEA δήλωση κατασκευής κεραίας τηλεοπτικής ευρυεκπομπής με αριθ. πρωτ. ΣΗΛΥΑ \n45190/19-10-2021 κατά τα οριζόμενα στην παρ. 7 του άρθρου 39 του Ν.4635/2019.",
+  "measurements_eaee": "-",
+  "documents": [
+    {
+      "document_number": "444271/19-10-2021",
+      "protocol_number": "ΜΕΣΩ ΣΗΛΥΑ/",
+      "type": "Αίτηση ΥΠΑ",
+      "file_url": "https://silia.eett.gr/silia/download/7be64c61-7289-45b4-b578-a2bdda9824ef"
+    },
+    {
+      "document_number": "444272/19-10-2021",
+      "protocol_number": "Αρχείο Αίτησης/",
+      "type": "Δήλωση Τηλεοπτικής Ευρυεκπομπής",
+      "file_url": "https://silia.eett.gr/silia/download/5bc389c7-7fa3-4e26-8a1d-fae54ae5ac8a"
+    }
+  ]
+}

@@ -1,0 +1,87 @@
+{
+  "antenna_id": "75481",
+  "address": "ΕΘΝΙΚΗΣ ΑΝΤΙΣΤΑΣΕΩΣ 78",
+  "position_code": 1202576,
+  "municipality": "Δάφνης - Υμηττού",
+  "code_name": "MILTIADOU MICRO",
+  "region": "Αττικής",
+  "latitude": 37.950278,
+  "company": "NOVA Μ.Α.Ε.",
+  "longitude": 23.738889,
+  "permit_status": "Από τα στοιχεία που τηρούνται στην Ενημερωτική Πύλη προκύπτει ότι, για τη θέση \"ΕΘΝΙΚΗΣ ΑΝΤΙΣΤΑΣΕΩΣ 78\" στον Δήμο Δάφνης - Υμηττού Περιφέρειας  Αττικής \n\t(κωδικός αριθμός θέσης 1202576, κωδική ονομασία \"MILTIADOU MICRO\") χορηγήθηκε, με την Απόφαση της ΕΕΤΤ \n13871/Φ610/05-11-2014, άδεια κατασκευής κεραίας στην εταιρία NOVA Μ.Α.Ε.. \nΑπό τo έγγραφο της άδειας μπορείτε να ενημερωθείτε για τις σχετικές εγκρίσεις των συναρμόδιων φορέων, καθώς και εάν πρόκειται για τροποποίηση παλαιότερης άδειας.\n\tΗ άδεια χορηγήθηκε κατόπιν της με Αριθ. Πρωτ. 39543/17-08-2009 αίτησης. \n\tΓια την έκδοση της άδειας εφαρμόστηκε το προγενέστερο του Ν.4053/2012 νομοθετικό πλαίσιο, καθώς κατά δήλωση της εταιρίας, η κατασκευή πληρούσε \nτις προϋποθέσεις του άρθρου 31 του Ν.4053/2012.",
+  "measurements_eaee": "-",
+  "documents": [
+    {
+      "document_number": "11081/16-11-2012",
+      "protocol_number": "39543/17-08-2009",
+      "type": "Αίτηση Άδειας Κατασκευής Κεραίας ΕΕΤΤ (νομίμως λειτουργούσα)",
+      "file_url": "https://silia.eett.gr/silia/download/25bb28da-3140-413e-9713-86dcbd57ae9f"
+    },
+    {
+      "document_number": "38496/16-11-2012",
+      "protocol_number": "372/557(ΕΓΓΡΑΦΟ ΜΕ ΑΡ ΠΡΩΤ Φ10/οικ 3901 - 13/8/2012 ΠΟΥ ΚΑΝΕΙ ΑΝΑΦΟΡΑ ΣΤΟ ΠΡΩΤΟΚΟΛΛΟ ΚΑΤΑΘΕΣΗΣ ΜΠΕ)/23-03-2009",
+      "type": "Αίτηση / Μελέτη για Έγκριση Περιβαλλοντικών Επιπτώσεων (νόμιμη λειτουργία)",
+      "file_url": "https://silia.eett.gr/silia/download/42d3903c-8272-4636-83c8-eb8e1fe4ffbc"
+    },
+    {
+      "document_number": "121468/13-01-2014",
+      "protocol_number": "ΔΗΛΩΣΗ ΧΑΜΗΛΗΣ ΕΚΠΕΜΠΟΜΕΝΗΣ ΙΧΥΟΣ < 164w EIRP/04-02-2009",
+      "type": "Άλλο",
+      "file_url": "https://silia.eett.gr/silia/download/73118cae-afeb-4cdd-83a6-8a1daa794268"
+    },
+    {
+      "document_number": "121469/13-01-2014",
+      "protocol_number": "Τ:E26287/18-02-2009",
+      "type": "Αποδεικτικό Καταβολής Τελών ΕΕΤΤ",
+      "file_url": "https://silia.eett.gr/silia/download/c29f8d35-187c-4b9e-a8c0-813d5751707c"
+    },
+    {
+      "document_number": "121470/13-01-2014",
+      "protocol_number": "Δ3/Δ/8384/2329/23-03-2009",
+      "type": "Γνωμάτευση ΥΠΑ",
+      "file_url": "https://silia.eett.gr/silia/download/a9113dfa-f831-40e3-9855-5433d66a0155"
+    },
+    {
+      "document_number": "121483/13-01-2014",
+      "protocol_number": "Φ204/5370/27-11-2013",
+      "type": "Αίτηση προς Αρμόδιο Φορέα",
+      "file_url": "https://silia.eett.gr/silia/download/eb8d269c-fce5-4780-818e-e74934977d4f"
+    },
+    {
+      "document_number": "121484/13-01-2014",
+      "protocol_number": "ΠΠΔ/18-12-2013",
+      "type": "Δήλωση υπαγωγής σε ΠΠΔ και Συνοδευτικά Έγγραφα",
+      "file_url": "https://silia.eett.gr/silia/download/5b30be5f-3eb7-4d96-80b1-7ba401eaef31"
+    },
+    {
+      "document_number": "132620/23-02-2014",
+      "protocol_number": "Αρχείο Αίτησης/",
+      "type": "Αίτηση Άδειας Κατασκευής Κεραίας ΕΕΤΤ",
+      "file_url": "https://silia.eett.gr/silia/download/8a3affe6-c2c2-4bea-a473-70c930dc904d"
+    },
+    {
+      "document_number": "185442/01-10-2014",
+      "protocol_number": "ΥΠΕΥΘΥΝΗ ΔΗΛΩΣΗ/01-10-2014",
+      "type": "Άλλο",
+      "file_url": "https://silia.eett.gr/silia/download/062ac541-da2b-4784-9bdc-2c32ededeaac"
+    },
+    {
+      "document_number": "188595/02-11-2014",
+      "protocol_number": "Δ3/Δ/8212/06-10-2014",
+      "type": "Γνωμάτευση ΥΠΑ",
+      "file_url": "https://silia.eett.gr/silia/download/2f59fcb4-5bc6-4bc4-80ea-49bee2066d42"
+    },
+    {
+      "document_number": "188596/02-11-2014",
+      "protocol_number": "ΠΠΔ/30-10-2014",
+      "type": "Δήλωση υπαγωγής σε ΠΠΔ και Συνοδευτικά Έγγραφα",
+      "file_url": "https://silia.eett.gr/silia/download/f7a62de1-d781-420d-bb64-b71fae9aae8f"
+    },
+    {
+      "document_number": "189538/07-11-2014",
+      "protocol_number": "13871/Φ610/05-11-2014",
+      "type": "Άδεια Κατασκευής  Κεραίας",
+      "file_url": "https://silia.eett.gr/silia/download/6399ff59-8bfa-44e3-a6a7-861329e49f82"
+    }
+  ]
+}

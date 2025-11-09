@@ -1,0 +1,57 @@
+{
+  "antenna_id": "154886",
+  "address": "όρος Κεδρύλιο",
+  "position_code": 8000700,
+  "municipality": "Αμφίπολης",
+  "code_name": "ΚΕΔΡΥΛΙΟ 700",
+  "region": "Κεντρικής Μακεδονίας",
+  "latitude": 40.814444,
+  "company": "ERMIS-WISP",
+  "longitude": 23.800278,
+  "permit_status": "Από τα στοιχεία που τηρούνται στην Ενημερωτική Πύλη προκύπτει ότι, για τη θέση \"όρος Κεδρύλιο\" στον Δήμο Αμφίπολης Περιφέρειας  Κεντρικής Μακεδονίας \n\t(κωδικός αριθμός θέσης 8000700, κωδική ονομασία \"ΚΕΔΡΥΛΙΟ 700\") έχει κατατεθεί από την εταιρία ERMIS-WISP\tδήλωση εγκατάστασης κατασκευής κεραίας (αριθ. πρωτ. \n\t39780/30-05-2020) που εμπίπτει στις διατάξεις της νομοθεσίας για Εγκαταστάσεις Κατασκευών Κεραιών Χαμηλής Ηλεκτρομαγνητικής Περιβαλλοντικής Όχλησης (ΕΚΚΧΟ).",
+  "measurements_eaee": "-",
+  "documents": [
+    {
+      "document_number": "409506/30-05-2020",
+      "protocol_number": "Σχέδιο κάτοψης εγκατάστασης/30-05-2020",
+      "type": "Αρχιτεκτονικά Σχέδια",
+      "file_url": "https://silia.eett.gr/silia/download/564f95e1-8fde-4d5d-9688-eaa0214e75f5"
+    },
+    {
+      "document_number": "409507/30-05-2020",
+      "protocol_number": "Όψη ΕΚΚΧΟ/30-05-2020",
+      "type": "Αρχιτεκτονικά Σχέδια",
+      "file_url": "https://silia.eett.gr/silia/download/650a5498-566e-438c-8c49-269c6af6eec5"
+    },
+    {
+      "document_number": "409508/30-05-2020",
+      "protocol_number": "Κάτοψη ιστού ΕΚΚΧΟ/30-05-2020",
+      "type": "Αρχιτεκτονικά Σχέδια",
+      "file_url": "https://silia.eett.gr/silia/download/ea10184a-18bf-45b6-ab58-31c3ff341b4c"
+    },
+    {
+      "document_number": "409509/30-05-2020",
+      "protocol_number": "Όψη χώρου προστασίας/30-05-2020",
+      "type": "Αρχιτεκτονικά Σχέδια",
+      "file_url": "https://silia.eett.gr/silia/download/a3be87b8-c0a7-4196-bf85-99efc900f6a3"
+    },
+    {
+      "document_number": "409510/30-05-2020",
+      "protocol_number": "Κάτοψη χώρου προστασίας/30-05-2020",
+      "type": "Αρχιτεκτονικά Σχέδια",
+      "file_url": "https://silia.eett.gr/silia/download/b35e6001-0cf7-4de4-8f46-d8c0fead2bb9"
+    },
+    {
+      "document_number": "409511/30-05-2020",
+      "protocol_number": "Τοπογραφικό διάγραμμα/30-05-2020",
+      "type": "Τοπογραφικό",
+      "file_url": "https://silia.eett.gr/silia/download/67109b03-d04d-4dbb-9bca-676f105f2322"
+    },
+    {
+      "document_number": "409518/30-05-2020",
+      "protocol_number": "Αρχείο Αίτησης/",
+      "type": "Δήλωση ΕΚΚΧΟ",
+      "file_url": "https://silia.eett.gr/silia/download/6ce4359a-5d5e-4554-af70-342a05aa3390"
+    }
+  ]
+}

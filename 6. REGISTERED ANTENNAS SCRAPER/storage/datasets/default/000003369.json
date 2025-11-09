@@ -1,0 +1,69 @@
+{
+  "antenna_id": "173877",
+  "address": "\"ΦΙΔΑΣ\", ΤΚ ΙΜΠΡΟΥ",
+  "position_code": 1121578,
+  "municipality": "Σφακίων",
+  "code_name": "ΙΜΒΡΟΣ MICRO",
+  "region": "Κρήτης",
+  "latitude": 35.238056,
+  "company": "VODAFONE",
+  "longitude": 24.170278,
+  "permit_status": "Από τα στοιχεία που τηρούνται στην Ενημερωτική Πύλη προκύπτει ότι, για τη θέση \"\"ΦΙΔΑΣ\", ΤΚ ΙΜΠΡΟΥ\" στον Δήμο Σφακίων Περιφέρειας  Κρήτης \n\t(κωδικός αριθμός θέσης 1121578, κωδική ονομασία \"ΙΜΒΡΟΣ MICRO\") έχει κατατεθεί από την εταιρία VODAFONE\tδήλωση εγκατάστασης κατασκευής κεραίας (αριθ. πρωτ. \n\t56260/13-06-2024) που εμπίπτει στις διατάξεις της νομοθεσίας για Εγκαταστάσεις Κατασκευών Κεραιών Χαμηλής Ηλεκτρομαγνητικής Περιβαλλοντικής Όχλησης (ΕΚΚΧΟ).",
+  "measurements_eaee": "-",
+  "documents": [
+    {
+      "document_number": "517787/13-06-2024",
+      "protocol_number": "Αρχιτεκτονικά Σχέδια ΕΚΚΧΟ/22-05-2024",
+      "type": "Αρχιτεκτονικά Σχέδια",
+      "file_url": "https://silia.eett.gr/silia/download/LpkROIVGAI7GB3nI69Evue9O5E6xerc6fKbc"
+    },
+    {
+      "document_number": "517788/13-06-2024",
+      "protocol_number": "Μελέτη ΕΚΚΧΟ/04-06-2024",
+      "type": "Άλλο",
+      "file_url": "https://silia.eett.gr/silia/download/SxB4DEPVLb6wV0CgOHokuqszzHhDYwCzXfL2"
+    },
+    {
+      "document_number": "517789/13-06-2024",
+      "protocol_number": "Ψηφιακός χάρτης με προβολή της θέσης ΕΚΚΧΟ/13-06-2024",
+      "type": "Φωτογραφικό Υλικό - Σκαρίφημα",
+      "file_url": "https://silia.eett.gr/silia/download/BQtOB5yIL61IKFrcftK96Nx17mL8r797Q2Zh"
+    },
+    {
+      "document_number": "517790/13-06-2024",
+      "protocol_number": "Φωτορεαλιστική απεικόνιση κεραίας ΕΚΚΧΟ/13-06-2024",
+      "type": "Φωτογραφικό Υλικό - Σκαρίφημα",
+      "file_url": "https://silia.eett.gr/silia/download/kLMlMf57FZnL1A8BqqtwSffhdg42rlPeOVLF"
+    },
+    {
+      "document_number": "517791/13-06-2024",
+      "protocol_number": "74199/12-06-2024",
+      "type": "Αποτελέσματα μελέτης στη ζώνης 2.6GHz για ΥΠΑ/ΓΕΕΘΑ",
+      "file_url": "https://silia.eett.gr/silia/download/HWLdH6YxaentN66H9ZhLWT8uPsVC8Oo0YIGZ"
+    },
+    {
+      "document_number": "517792/13-06-2024",
+      "protocol_number": "Υπεύθυνη Δήλωση κοινής χρήσης Nova/12-06-2024",
+      "type": "Άλλο",
+      "file_url": "https://silia.eett.gr/silia/download/e8GD6IqvL5ASllK6vv93idF0axGNDDYbZPnY"
+    },
+    {
+      "document_number": "517802/13-06-2024",
+      "protocol_number": "Αρχείο Αίτησης/13-06-2024",
+      "type": "Δήλωση ΕΚΚΧΟ",
+      "file_url": "https://silia.eett.gr/silia/download/rtRbpWSFAR2lgpX9pKfkv58UFAYg3BvRruNK"
+    },
+    {
+      "document_number": "525883/17-09-2024",
+      "protocol_number": "272889/06-08-2024",
+      "type": "Έγγραφο Αρμοδίου Φορέα",
+      "file_url": "https://silia.eett.gr/silia/download/sTYE7lEKKPv46fKKt4AD0B54LRH9aYsG29na"
+    },
+    {
+      "document_number": "527120/27-09-2024",
+      "protocol_number": "ΥΔ εγκατάστασης ΕΚΚΧΟ/27-09-2024",
+      "type": "Άλλο",
+      "file_url": "https://silia.eett.gr/silia/download/XBZFSKlUeR0nrK62sKGsGnteHRwwkglkZ9Tn"
+    }
+  ]
+}

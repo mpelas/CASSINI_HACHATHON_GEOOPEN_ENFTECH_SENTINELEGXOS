@@ -1,0 +1,99 @@
+{
+  "antenna_id": "130930",
+  "address": "ΘΕΜΟΣΤΟΚΛΕΟΥΣ 12,",
+  "position_code": 1201640,
+  "municipality": "Δράμας",
+  "code_name": "ΔΡΑΜΑ RAILWAY STATION",
+  "region": "Ανατ. Μακεδονίας και Θράκης",
+  "latitude": 41.143333,
+  "company": "NOVA Μ.Α.Ε.",
+  "longitude": 24.145556,
+  "permit_status": "Από τα στοιχεία που τηρούνται στην Ενημερωτική Πύλη προκύπτει ότι, για τη θέση \"ΘΕΜΟΣΤΟΚΛΕΟΥΣ 12,  \" στον Δήμο Δράμας Περιφέρειας  Ανατ. Μακεδονίας και Θράκης \n\t(κωδικός αριθμός θέσης 1201640, κωδική ονομασία \"ΔΡΑΜΑ RAILWAY STATION\") χορηγήθηκε, με την Απόφαση της ΕΕΤΤ \n39313/11-02-2021, άδεια κατασκευής κεραίας στην εταιρία NOVA Μ.Α.Ε.. \nΑπό τo έγγραφο της άδειας μπορείτε να ενημερωθείτε για τις σχετικές εγκρίσεις των συναρμόδιων φορέων, καθώς και εάν πρόκειται για τροποποίηση παλαιότερης άδειας.",
+  "measurements_eaee": "-",
+  "documents": [
+    {
+      "document_number": "316606/18-12-2017",
+      "protocol_number": "24326/Φ615/02-06-2017",
+      "type": "Χορήγηση Δικαιώματος Χρήσης Ραδιοσυχνοτήτων",
+      "file_url": null
+    },
+    {
+      "document_number": "316607/18-12-2017",
+      "protocol_number": "Δ3/Δ/17956/4764/20-05-2009",
+      "type": "Γνωμάτευση ΥΠΑ",
+      "file_url": "https://silia.eett.gr/silia/download/537e6db1-e193-44c9-816d-2646b34599c3"
+    },
+    {
+      "document_number": "316608/18-12-2017",
+      "protocol_number": "ΜΕΛΕΤΗ ΡΑΔΙΟΕΚΠΟΜΠΩΝ/10-11-2017",
+      "type": "Αίτηση - Μελέτη Ραδιοεκπομπών ΕΕΑΕ",
+      "file_url": "https://silia.eett.gr/silia/download/a08e9f63-288a-4efc-b666-e21bb08689e3"
+    },
+    {
+      "document_number": "316610/18-12-2017",
+      "protocol_number": "ΤΟΠΟΓΡΑΦΙΚΟ/",
+      "type": "Τοπογραφικό",
+      "file_url": "https://silia.eett.gr/silia/download/3f0e76ee-c95d-4e91-a146-1908ffcb107f"
+    },
+    {
+      "document_number": "316611/18-12-2017",
+      "protocol_number": "ΑΡΧΙΤΕΚΤΟΝΙΚΑ ΣΧΕΔΙΑ/",
+      "type": "Αρχιτεκτονικά Σχέδια",
+      "file_url": "https://silia.eett.gr/silia/download/52656382-f2a0-4d58-a431-ca427be195f8"
+    },
+    {
+      "document_number": "316612/18-12-2017",
+      "protocol_number": "ΜΕΛΕΤΗ ΥΠΟΒΑΘΡΟΥ/05-12-2017",
+      "type": "Αίτηση - Μελέτη Ραδιοεκπομπών ΕΕΑΕ (υποβάθρου)",
+      "file_url": "https://silia.eett.gr/silia/download/86e59034-6c96-4c6a-b518-9c9d3fecc92a"
+    },
+    {
+      "document_number": "316613/18-12-2017",
+      "protocol_number": "ΧΧΓ  /",
+      "type": "Χάρτης Ευαίσθητων Χρήσεων Γης",
+      "file_url": "https://silia.eett.gr/silia/download/58463980-b03e-48a5-9383-e03c60e7360f"
+    },
+    {
+      "document_number": "316619/18-12-2017",
+      "protocol_number": "Αρχείο Αίτησης/",
+      "type": "Αίτηση Άδειας Κατασκευής Κεραίας ΕΕΤΤ",
+      "file_url": "https://silia.eett.gr/silia/download/c6f877bb-ec33-4f0a-b2e4-ede9d9110f3d"
+    },
+    {
+      "document_number": "323606/16-03-2018",
+      "protocol_number": "Μ.ι./411/3696/2018/15-03-2018",
+      "type": "Γνωμάτευση ΕΕΑΕ",
+      "file_url": "https://silia.eett.gr/silia/download/c53f503e-2f81-44a6-a8ef-26142fa9c2e1"
+    },
+    {
+      "document_number": "429579/17-02-2021",
+      "protocol_number": "39313/11-02-2021",
+      "type": "Άδεια Κατασκευής  Κεραίας",
+      "file_url": "https://silia.eett.gr/silia/download/4b1c5799-1c1a-41b7-bc6d-2dd37b6612fc"
+    },
+    {
+      "document_number": "316615/18-12-2017",
+      "protocol_number": "ΜΕΛΕΤΗ ΡΑΔΙΟΕΚΠΟΜΠΩΝ/10-11-2017",
+      "type": "Αίτηση - Μελέτη Ραδιοεκπομπών ΕΕΑΕ",
+      "file_url": "https://silia.eett.gr/silia/download/a08e9f63-288a-4efc-b666-e21bb08689e3"
+    },
+    {
+      "document_number": "316616/18-12-2017",
+      "protocol_number": "ΜΕΛΕΤΗ ΥΠΟΒΑΘΡΟΥ/05-12-2017",
+      "type": "Αίτηση - Μελέτη Ραδιοεκπομπών ΕΕΑΕ (υποβάθρου)",
+      "file_url": "https://silia.eett.gr/silia/download/86e59034-6c96-4c6a-b518-9c9d3fecc92a"
+    },
+    {
+      "document_number": "316617/18-12-2017",
+      "protocol_number": "ΧΧΓ  /",
+      "type": "Χάρτης Ευαίσθητων Χρήσεων Γης",
+      "file_url": "https://silia.eett.gr/silia/download/58463980-b03e-48a5-9383-e03c60e7360f"
+    },
+    {
+      "document_number": "316620/18-12-2017",
+      "protocol_number": "Αρχείο Αίτησης/",
+      "type": "Δήλωση ΠΠΔ",
+      "file_url": "https://silia.eett.gr/silia/download/e3d4e256-fad2-44c2-ab8e-216bb5b1055c"
+    }
+  ]
+}

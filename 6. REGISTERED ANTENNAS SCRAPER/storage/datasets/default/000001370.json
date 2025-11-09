@@ -1,0 +1,51 @@
+{
+  "antenna_id": "177786",
+  "address": "ΠΡΑΤΗΡΙΟ ΜΑΚΡΑΙΩΝ ΣΕΑ ΚΑΤΕΡΙΝΗ-ΛΕΠΤΟΚΑΡΥΑ 406 ΧΛΜ. ΑΥΤΟΚ/ΜΟΥ ΑΙΓΑΙΟΥ ΑΘΗΝΑ ΜΑΛΙΑΚΟΣ",
+  "position_code": 1275635,
+  "municipality": "Δίου - Ολύμπου",
+  "code_name": "AVIN SEA SKOTINAS AR. KLADOS (K635)",
+  "region": "Κεντρικής Μακεδονίας",
+  "latitude": 40.026111,
+  "company": "NOVA Μ.Α.Ε.",
+  "longitude": 22.573056,
+  "permit_status": "Από τα στοιχεία που τηρούνται στην Ενημερωτική Πύλη προκύπτει ότι, για τη θέση \"ΠΡΑΤΗΡΙΟ ΜΑΚΡΑΙΩΝ ΣΕΑ ΚΑΤΕΡΙΝΗ-ΛΕΠΤΟΚΑΡΥΑ 406 ΧΛΜ. ΑΥΤΟΚ/ΜΟΥ ΑΙΓΑΙΟΥ ΑΘΗΝΑ ΜΑΛΙΑΚΟΣ\" στον Δήμο Δίου - Ολύμπου Περιφέρειας  Κεντρικής Μακεδονίας \n\t(κωδικός αριθμός θέσης 1275635, κωδική ονομασία \"AVIN SEA SKOTINAS AR. KLADOS (K635)\") έχει κατατεθεί από την εταιρία NOVA Μ.Α.Ε.\tδήλωση εγκατάστασης κατασκευής κεραίας (αριθ. πρωτ. \n\t59514/23-02-2025) που εμπίπτει στις διατάξεις της νομοθεσίας για Εγκαταστάσεις Κατασκευών Κεραιών Χαμηλής Ηλεκτρομαγνητικής Περιβαλλοντικής Όχλησης (ΕΚΚΧΟ).",
+  "measurements_eaee": "-",
+  "documents": [
+    {
+      "document_number": "541744/23-02-2025",
+      "protocol_number": "Φωτορεαλιστική απεικόνιση κεραίας ΕΚΚΧΟ/23-02-2025",
+      "type": "Φωτογραφικό Υλικό - Σκαρίφημα",
+      "file_url": "https://silia.eett.gr/silia/download/QwqhMqTgIgmmSR7qyxrzYiAGPG0QOGsthxVZ"
+    },
+    {
+      "document_number": "541745/23-02-2025",
+      "protocol_number": "Ψηφιακός χάρτης με προβολή της θέσης ΕΚΚΧΟ/23-02-2025",
+      "type": "Φωτογραφικό Υλικό - Σκαρίφημα",
+      "file_url": "https://silia.eett.gr/silia/download/ttoDF2xWtwmh4k9vL1gsI4V2eLmTdaEFO6SM"
+    },
+    {
+      "document_number": "541746/23-02-2025",
+      "protocol_number": "Σκαρίφημα θέσης κεραίας ΕΚΚΧΟ/23-02-2025",
+      "type": "Φωτογραφικό Υλικό - Σκαρίφημα",
+      "file_url": "https://silia.eett.gr/silia/download/FalV9Pwi0Wez0pwo1hoH0Ufkbr4VlgpxZb4F"
+    },
+    {
+      "document_number": "541747/23-02-2025",
+      "protocol_number": "ΜΕΛΈΤΗ ΕΚΚΧΟ/23-02-2025",
+      "type": "Άλλο",
+      "file_url": "https://silia.eett.gr/silia/download/tZ53zAQmFAElHXp0gOGFz5xOKe3g8htEMwRn"
+    },
+    {
+      "document_number": "541748/23-02-2025",
+      "protocol_number": "Αρχείο Αίτησης/23-02-2025",
+      "type": "Δήλωση ΕΚΚΧΟ",
+      "file_url": "https://silia.eett.gr/silia/download/eZwFPpgr2P9Gco5dD8HpGahhdOD3CCkIGCD3"
+    },
+    {
+      "document_number": "550986/30-05-2025",
+      "protocol_number": "ΥΔ ΕΓΚΑΤΑΣΤΑΣΗΣ/30-05-2025",
+      "type": "Άλλο",
+      "file_url": "https://silia.eett.gr/silia/download/6DzXTdItG7laI6AyD1f9CEqGf3EICOI4y7ZE"
+    }
+  ]
+}

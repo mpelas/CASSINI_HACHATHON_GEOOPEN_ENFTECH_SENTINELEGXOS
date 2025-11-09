@@ -1,0 +1,33 @@
+{
+  "antenna_id": "142693",
+  "address": "Ακτή Μιαούλη 57 Πειραιάς",
+  "position_code": 2340433,
+  "municipality": "Πειραιώς",
+  "code_name": "GREEK ENVIROMENTAL AND ENERGY NETWORK",
+  "region": "Αττικής",
+  "latitude": 37.94,
+  "company": "NOVA Μ.Α.Ε.",
+  "longitude": 23.641111,
+  "permit_status": "Από τα στοιχεία που τηρούνται στην Ενημερωτική Πύλη προκύπτει ότι, για τη θέση \"Ακτή Μιαούλη 57 Πειραιάς\" στον Δήμο Πειραιώς Περιφέρειας  Αττικής \n\t(κωδικός αριθμός θέσης 2340433, κωδική ονομασία \"GREEK ENVIROMENTAL AND ENERGY NETWORK\") έχει κατατεθεί από την εταιρία NOVA Μ.Α.Ε.\tδήλωση εγκατάστασης κατασκευής κεραίας (αριθ. πρωτ. \n\t33171/07-06-2019) που εμπίπτει στις διατάξεις της νομοθεσίας για Εγκαταστάσεις Κατασκευών Κεραιών Χαμηλής Ηλεκτρομαγνητικής Περιβαλλοντικής Όχλησης (ΕΚΚΧΟ).",
+  "measurements_eaee": "-",
+  "documents": [
+    {
+      "document_number": "367457/07-06-2019",
+      "protocol_number": "FOTO GREEEK /",
+      "type": "Φωτογραφικό Υλικό - Σκαρίφημα",
+      "file_url": "https://silia.eett.gr/silia/download/551331b4-6db2-4e54-b4af-e6e0e90c5c35"
+    },
+    {
+      "document_number": "367465/07-06-2019",
+      "protocol_number": "δικαιωμα χρήσης/",
+      "type": "Χορήγηση Δικαιώματος Χρήσης Ραδιοσυχνοτήτων",
+      "file_url": "https://silia.eett.gr/silia/download/d2089db0-2241-4dfc-ad32-fb43820cb94d"
+    },
+    {
+      "document_number": "367466/07-06-2019",
+      "protocol_number": "Αρχείο Αίτησης/",
+      "type": "Δήλωση ΕΚΚΧΟ",
+      "file_url": "https://silia.eett.gr/silia/download/77717d93-aa9d-4656-8383-62309bd8cf5f"
+    }
+  ]
+}

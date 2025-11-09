@@ -1,0 +1,87 @@
+{
+  "antenna_id": "174333",
+  "address": "ΔΗΜΟΤΙΚΗ ΟΔΟΣ ΤΡΙΚΑΛΩΝ ΡΙΖΑΡΙΟΥ, ΑΓ. ΓΕΩΡΓΙΟΣ",
+  "position_code": 1404107,
+  "municipality": "Τρικκαίων",
+  "code_name": "ΑΠΟΘ. ΤΡΙΚΑΛΩΝ",
+  "region": "Θεσσαλίας",
+  "latitude": 39.543333,
+  "company": "OTE",
+  "longitude": 21.790833,
+  "permit_status": "Από τα στοιχεία που τηρούνται στην Ενημερωτική Πύλη προκύπτει ότι, για τη θέση \"ΔΗΜΟΤΙΚΗ ΟΔΟΣ ΤΡΙΚΑΛΩΝ ΡΙΖΑΡΙΟΥ, ΑΓ. ΓΕΩΡΓΙΟΣ\" στον Δήμο Τρικκαίων Περιφέρειας  Θεσσαλίας \n\t(κωδικός αριθμός θέσης 1404107, κωδική ονομασία \"ΑΠΟΘ. ΤΡΙΚΑΛΩΝ\") χορηγήθηκε, με την Απόφαση της ΕΕΤΤ \n51562/25-10-2024, άδεια κατασκευής κεραίας στην εταιρία OTE. \nΑπό τo έγγραφο της άδειας μπορείτε να ενημερωθείτε για τις σχετικές εγκρίσεις των συναρμόδιων φορέων, καθώς και εάν πρόκειται για τροποποίηση παλαιότερης άδειας.\n\tΣύμφωνα με τα στοιχεία που έχουν υποβληθεί στο ΣΗΛΥΑ, ο κάτοχος της κατασκευής κεραίας έχει δηλώσει ότι θα προβεί σε έκδοση έγκρισης δομικών κατασκευών \n\t\tκεραίας μέσω του e-Άδειες \n\t\tμετά την έκδοση της άδειας κατασκευής κεραίας / δημοσιοποίηση της δήλωσης τροποποίησης της κατασκευής κεραίας",
+  "measurements_eaee": "-",
+  "documents": [
+    {
+      "document_number": "520661/16-07-2024",
+      "protocol_number": "ΑΡΧΙΤΕΚΤΟΝΙΚΑ/16-07-2024",
+      "type": "Αρχιτεκτονικά Σχέδια",
+      "file_url": "https://silia.eett.gr/silia/download/FV7dNV4Hv7cxF577HLZwWbKszPNFEqlNUNT6"
+    },
+    {
+      "document_number": "520662/16-07-2024",
+      "protocol_number": "ΜΕΛΕΤΗ Ρ/Ε/08-02-2024",
+      "type": "Αίτηση - Μελέτη Ραδιοεκπομπών ΕΕΑΕ",
+      "file_url": "https://silia.eett.gr/silia/download/ufhX6z4PfGcrbdqysrln9PDGKfCpLTbosuLG"
+    },
+    {
+      "document_number": "520663/16-07-2024",
+      "protocol_number": "Δ3/Δ41258/6533/30-09-1998",
+      "type": "Γνωμάτευση ΥΠΑ",
+      "file_url": "https://silia.eett.gr/silia/download/IgLtoZ27N6bgMiIni7utHHm7ELkcy5NCG43o"
+    },
+    {
+      "document_number": "520664/16-07-2024",
+      "protocol_number": "Δ3/Δ/9013/16-11-2011",
+      "type": "Γνωμάτευση ΥΠΑ",
+      "file_url": "https://silia.eett.gr/silia/download/zdgKt4qrPdYymKgxBz6piSpxNS5ir2HAkggg"
+    },
+    {
+      "document_number": "520665/16-07-2024",
+      "protocol_number": "ΜΕΣΩ ΣΗΛΥΑ/16-07-2024",
+      "type": "Αίτηση ΥΠΑ",
+      "file_url": "https://silia.eett.gr/silia/download/ZGGGBcyc2fMVtZ1MuNifIymUAVyaKsT2GiHU"
+    },
+    {
+      "document_number": "520666/16-07-2024",
+      "protocol_number": "ΑΝΑΚΟΙΝΩΣΗ ΓΕΜΗ/16-07-2024",
+      "type": "Άλλο",
+      "file_url": "https://silia.eett.gr/silia/download/wO4MwrpW33fVId68SFxHY9So2C0A9hI5P5lK"
+    },
+    {
+      "document_number": "520900/17-07-2024",
+      "protocol_number": "ΤΟΠΟΓΡΑΦΙΚΟ/17-07-2024",
+      "type": "Τοπογραφικό",
+      "file_url": "https://silia.eett.gr/silia/download/4KlGBdtmgvFeCscG7DbEhzANeSHOtOVeAGep"
+    },
+    {
+      "document_number": "520901/17-07-2024",
+      "protocol_number": "Αρχείο Αίτησης/17-07-2024",
+      "type": "Αίτηση Άδειας Κατασκευής Κεραίας ΕΕΤΤ",
+      "file_url": "https://silia.eett.gr/silia/download/fowy6KYxSB5msVdP9MmhbzgBKii3g3wgl9Fv"
+    },
+    {
+      "document_number": "527408/01-10-2024",
+      "protocol_number": "ΤΜΙΑ/411/12592/2024/30-09-2024",
+      "type": "Γνωμάτευση ΕΕΑΕ",
+      "file_url": "https://silia.eett.gr/silia/download/eOBK1xyF5S3vfq5TENMTDwF4sd2c6094YHTT"
+    },
+    {
+      "document_number": "530659/29-10-2024",
+      "protocol_number": "51562/25-10-2024",
+      "type": "Άδεια Κατασκευής  Κεραίας",
+      "file_url": "https://silia.eett.gr/silia/download/w9HW55vQzP64sMh28tziAxq8pLT2W10QCDhc"
+    },
+    {
+      "document_number": "520671/16-07-2024",
+      "protocol_number": "ΠΠΔ/16-07-2024",
+      "type": "Δήλωση υπαγωγής σε ΠΠΔ και Συνοδευτικά Έγγραφα",
+      "file_url": "https://silia.eett.gr/silia/download/ZLBcbXBZIZu685nnsVNZ1GEYmc216omH5iCI"
+    },
+    {
+      "document_number": "520902/17-07-2024",
+      "protocol_number": "Αρχείο Αίτησης/17-07-2024",
+      "type": "Δήλωση ΠΠΔ",
+      "file_url": "https://silia.eett.gr/silia/download/uLG0yoIgoBQUkRteEsgHMhTOX9IiggM7HBkY"
+    }
+  ]
+}

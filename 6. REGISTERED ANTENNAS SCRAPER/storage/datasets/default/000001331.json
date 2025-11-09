@@ -1,0 +1,87 @@
+{
+  "antenna_id": "177170",
+  "address": "ΠΛΗΣΙΟΝ ΟΙΚΙΣΜΟΥ ΒΑΣΙΛΙΚΑ, ΠΕΡΙΘΕΙΑ",
+  "position_code": 1404548,
+  "municipality": "Δήμων Βόρειας Κέρκυρας",
+  "code_name": "ΝΗΣΟΣ-Χ",
+  "region": "Ιονίων Νήσων",
+  "latitude": 39.793056,
+  "company": "OTE",
+  "longitude": 19.855556,
+  "permit_status": "Από τα στοιχεία που τηρούνται στην Ενημερωτική Πύλη προκύπτει ότι, για τη θέση \"ΠΛΗΣΙΟΝ ΟΙΚΙΣΜΟΥ ΒΑΣΙΛΙΚΑ, ΠΕΡΙΘΕΙΑ\" στον Δήμο Δήμων Βόρειας Κέρκυρας Περιφέρειας  Ιονίων Νήσων \n\t(κωδικός αριθμός θέσης 1404548, κωδική ονομασία \"ΝΗΣΟΣ-Χ\") χορηγήθηκε, με την Απόφαση της ΕΕΤΤ \n52863/07-07-2025, άδεια κατασκευής κεραίας στην εταιρία OTE. \nΑπό τo έγγραφο της άδειας μπορείτε να ενημερωθείτε για τις σχετικές εγκρίσεις των συναρμόδιων φορέων, καθώς και εάν πρόκειται για τροποποίηση παλαιότερης άδειας.\n\tΣύμφωνα με τα στοιχεία που έχουν υποβληθεί στο ΣΗΛΥΑ, ο κάτοχος της κατασκευής κεραίας έχει δηλώσει ότι θα προβεί σε έκδοση έγκρισης δομικών κατασκευών \n\t\tκεραίας μέσω του e-Άδειες \n\t\tμετά την έκδοση της άδειας κατασκευής κεραίας / δημοσιοποίηση της δήλωσης τροποποίησης της κατασκευής κεραίας",
+  "measurements_eaee": "-",
+  "documents": [
+    {
+      "document_number": "541263/18-02-2025",
+      "protocol_number": "ΤΟΠΟΓΡΑΦΙΚΟ/18-02-2025",
+      "type": "Τοπογραφικό",
+      "file_url": "https://silia.eett.gr/silia/download/3TBwSXwvgwrLNBptU8FtDN7tXBZ2QTNmzk0U"
+    },
+    {
+      "document_number": "541264/18-02-2025",
+      "protocol_number": "ΑΡΧΙΤΕΚΤΟΝΙΚΑ/18-02-2025",
+      "type": "Αρχιτεκτονικά Σχέδια",
+      "file_url": "https://silia.eett.gr/silia/download/hSkxgWRDDaaPzob5gUM5QPzRWv5VtGFB143Y"
+    },
+    {
+      "document_number": "541265/18-02-2025",
+      "protocol_number": "ΜΕΛΕΤΗ Ρ/Ε/08-11-2024",
+      "type": "Αίτηση - Μελέτη Ραδιοεκπομπών ΕΕΑΕ",
+      "file_url": "https://silia.eett.gr/silia/download/B6E7ze5k9GZYER75QIWhC2w9dYSv72v8zQEQ"
+    },
+    {
+      "document_number": "541266/18-02-2025",
+      "protocol_number": "ΜΕΛΕΤΗ EMC/15-01-2025",
+      "type": "Αποτελέσματα μελέτης στη ζώνης 2.6GHz για ΥΠΑ/ΓΕΕΘΑ",
+      "file_url": "https://silia.eett.gr/silia/download/T6PGNdpuHm0a7lH5Q6yVGmFluvZqwZu70vR5"
+    },
+    {
+      "document_number": "541267/18-02-2025",
+      "protocol_number": "Δ3/Δ/42317/10733/28-11-2005",
+      "type": "Γνωμάτευση ΥΠΑ",
+      "file_url": "https://silia.eett.gr/silia/download/oiBp9t0TQdD6RP4cAKt5smGDoinsSH56Y501"
+    },
+    {
+      "document_number": "541268/18-02-2025",
+      "protocol_number": "ΜΕΣΩ ΣΗΛΥΑ/18-02-2025",
+      "type": "Αίτηση ΥΠΑ",
+      "file_url": "https://silia.eett.gr/silia/download/iqe6xXsTh7Tpi8Qx3VLg4aYFIltXuAM6fZov"
+    },
+    {
+      "document_number": "541270/18-02-2025",
+      "protocol_number": "Αρχείο Αίτησης/18-02-2025",
+      "type": "Αίτηση Άδειας Κατασκευής Κεραίας ΕΕΤΤ",
+      "file_url": "https://silia.eett.gr/silia/download/GUuEGtN32ahxgGx1FBQZgaWXH3y6uBbCNOFi"
+    },
+    {
+      "document_number": "547679/28-04-2025",
+      "protocol_number": "ΚΓ/Δ3Δ/Δ/7854/28-04-2025",
+      "type": "Γνωμάτευση ΥΠΑ",
+      "file_url": "https://silia.eett.gr/silia/download/DidoTNGsUc8vpsCvzniBlxn8yebE4rlQYUP8"
+    },
+    {
+      "document_number": "550801/29-05-2025",
+      "protocol_number": "TMIA/411/7219/2025/28-05-2025",
+      "type": "Γνωμάτευση ΕΕΑΕ",
+      "file_url": "https://silia.eett.gr/silia/download/82IBiWGIGBY1nxIpyFSl5C8hhKTw4CWrNPo8"
+    },
+    {
+      "document_number": "554599/07-07-2025",
+      "protocol_number": "52863/07-07-2025",
+      "type": "Άδεια Κατασκευής  Κεραίας",
+      "file_url": "https://silia.eett.gr/silia/download/loPyyGlSErXqP640gAOYVsbuiqrqwD2sSWGD"
+    },
+    {
+      "document_number": "541269/18-02-2025",
+      "protocol_number": "ΠΠΔ/18-02-2025",
+      "type": "Δήλωση υπαγωγής σε ΠΠΔ και Συνοδευτικά Έγγραφα",
+      "file_url": "https://silia.eett.gr/silia/download/bfKqfwZVGC2x6EGutUocWmWV4LXgR5bZ4i0p"
+    },
+    {
+      "document_number": "541271/18-02-2025",
+      "protocol_number": "Αρχείο Αίτησης/18-02-2025",
+      "type": "Δήλωση ΠΠΔ",
+      "file_url": "https://silia.eett.gr/silia/download/2i8Yuh4quVKBXY94E06XuE6RgSwCcCNmG4Vl"
+    }
+  ]
+}

@@ -1,0 +1,99 @@
+{
+  "antenna_id": "165997",
+  "address": "ΠΛΗΣΙΟΝ ΝΕΑΣ ΤΥΡΙΝΘΑΣ",
+  "position_code": 1290865,
+  "municipality": "Ναυπλιέων",
+  "code_name": "ΝΕΑ ΤΥΡΙΝΘΑ",
+  "region": "Πελοποννήσου",
+  "latitude": 37.618889,
+  "company": "NOVA Μ.Α.Ε.",
+  "longitude": 22.838333,
+  "permit_status": "Από τα στοιχεία που τηρούνται στην Ενημερωτική Πύλη προκύπτει ότι, για τη θέση \"ΠΛΗΣΙΟΝ ΝΕΑΣ ΤΥΡΙΝΘΑΣ\" στον Δήμο Ναυπλιέων Περιφέρειας  Πελοποννήσου \n\t(κωδικός αριθμός θέσης 1290865, κωδική ονομασία \"ΝΕΑ ΤΥΡΙΝΘΑ\") χορηγήθηκε, με την Απόφαση της ΕΕΤΤ \n51574/29-10-2024, άδεια κατασκευής κεραίας στην εταιρία NOVA Μ.Α.Ε.. \nΑπό τo έγγραφο της άδειας μπορείτε να ενημερωθείτε για τις σχετικές εγκρίσεις των συναρμόδιων φορέων, καθώς και εάν πρόκειται για τροποποίηση παλαιότερης άδειας.\n\tΣύμφωνα με τα στοιχεία που έχουν υποβληθεί στο ΣΗΛΥΑ, ο κάτοχος της κατασκευής κεραίας έχει δηλώσει ότι θα προβεί σε έκδοση έγκρισης δομικών κατασκευών \n\t\tκεραίας μέσω του e-Άδειες \n\t\tμετά την έκδοση της άδειας κατασκευής κεραίας / δημοσιοποίηση της δήλωσης τροποποίησης της κατασκευής κεραίας",
+  "measurements_eaee": "-",
+  "documents": [
+    {
+      "document_number": "471180/27-10-2022",
+      "protocol_number": "ΣΥΝΗΜΕΝΝΟΣ ΜΕ ΤΗΝ ΚΑΤΑΘΕΣΗ ΣΤΗΝ ΥΠΑ/",
+      "type": "Απόσπασμα Χάρτη ΓΥΣ 1:50.000",
+      "file_url": "https://silia.eett.gr/silia/download/ae1d79c4-0159-473b-8465-e91bb8852c8d"
+    },
+    {
+      "document_number": "471181/27-10-2022",
+      "protocol_number": "ΣΥΝΗΜΕΝΝΗ ΜΕ ΤΗΝ ΚΑΤΑΘΕΣΗ ΣΤΗΝ ΕΕΑΕ/26-10-2022",
+      "type": "Αίτηση - Μελέτη Ραδιοεκπομπών ΕΕΑΕ",
+      "file_url": "https://silia.eett.gr/silia/download/aab5bdbe-6a5e-4f1c-ae04-036f42e2165a"
+    },
+    {
+      "document_number": "471182/27-10-2022",
+      "protocol_number": "ΣΥΝΗΜΕΝΝΑ ΜΕ ΤΗΝ ΚΑΤΑΘΕΣΗ ΣΤΗΝ ΕΕΑΕ/",
+      "type": "Αρχιτεκτονικά Σχέδια",
+      "file_url": "https://silia.eett.gr/silia/download/e69fd3fc-e75e-4376-bad0-04c58e4ee09a"
+    },
+    {
+      "document_number": "471183/27-10-2022",
+      "protocol_number": "ΣΥΝΗΜΕΝΝΟ ΜΕ ΤΗΝ ΚΑΤΑΘΕΣΗ ΣΤΗΝ ΕΕΑΕ/",
+      "type": "Τοπογραφικό",
+      "file_url": "https://silia.eett.gr/silia/download/42d7672b-67d8-4920-8e45-685db18ed4d4"
+    },
+    {
+      "document_number": "471184/27-10-2022",
+      "protocol_number": "ΣΥΝΗΜΕΝΝΗ ΜΕ ΤΗΝ ΚΑΤΑΘΕΣΗ ΣΤΗΝ ΕΕΤΤ/20-10-2022",
+      "type": "Βεβαίωση πολιτικού μηχανικού",
+      "file_url": "https://silia.eett.gr/silia/download/2ebbc411-4224-4963-bf2d-2f51d6234a80"
+    },
+    {
+      "document_number": "471194/27-10-2022",
+      "protocol_number": "73593/09-03-2021",
+      "type": "Έγκριση Αρμοδίου Φορέα",
+      "file_url": "https://silia.eett.gr/silia/download/124e4361-6917-4cf5-9bc8-0999bcbccf60"
+    },
+    {
+      "document_number": "471195/27-10-2022",
+      "protocol_number": "Φ04-ε/75853/08-03-2021",
+      "type": "Γνωμοδότηση Υπηρεσίας Νεωτέρων Μνημείων",
+      "file_url": "https://silia.eett.gr/silia/download/10db7b4f-39cd-4b4f-9b1e-db9a67dd46d3"
+    },
+    {
+      "document_number": "471196/27-10-2022",
+      "protocol_number": "55048/03-03-2021",
+      "type": "Βεβαίωση Υπουργείου Αγροτικής Ανάπτυξης",
+      "file_url": "https://silia.eett.gr/silia/download/6e063195-fcf9-4899-8b76-c1f1a683f709"
+    },
+    {
+      "document_number": "473572/28-11-2022",
+      "protocol_number": "173997/28-11-2022",
+      "type": "Αίτηση / Μελέτη για Έγκριση Περιβαλλοντικών Επιπτώσεων",
+      "file_url": "https://silia.eett.gr/silia/download/abd7eab4-de50-471c-aae8-b582c8601ff9"
+    },
+    {
+      "document_number": "473573/28-11-2022",
+      "protocol_number": "Αρχείο Αίτησης/",
+      "type": "Αίτηση Άδειας Κατασκευής Κεραίας ΕΕΤΤ",
+      "file_url": "https://silia.eett.gr/silia/download/441fff46-c873-4abf-8fe9-bd309dc32012"
+    },
+    {
+      "document_number": "474055/02-12-2022",
+      "protocol_number": "ΚΓ/Δ3/Δ/29645/02-12-2022",
+      "type": "Γνωμάτευση ΥΠΑ",
+      "file_url": "https://silia.eett.gr/silia/download/1553aa8e-22a7-4dd4-a475-6e77257e364b"
+    },
+    {
+      "document_number": "475203/20-12-2022",
+      "protocol_number": "Μ.ι./411/17790/2022/19-12-2022",
+      "type": "Γνωμάτευση ΕΕΑΕ",
+      "file_url": "https://silia.eett.gr/silia/download/ba73633e-86c7-4e12-a5cd-4cfdc2eec8ac"
+    },
+    {
+      "document_number": "525693/16-09-2024",
+      "protocol_number": "68245/12-09-2024",
+      "type": "Έγκριση Περιβαλλοντικών Όρων",
+      "file_url": "https://silia.eett.gr/silia/download/aID9L1fF8OzaNiTgrD7QrEYxwm7ZgGnzll8B"
+    },
+    {
+      "document_number": "530539/29-10-2024",
+      "protocol_number": "51574/29-10-2024",
+      "type": "Άδεια Κατασκευής  Κεραίας",
+      "file_url": "https://silia.eett.gr/silia/download/FCvaotAMkfVdiXTNbZyvebabBaAsCqfr9PRY"
+    }
+  ]
+}

@@ -1,0 +1,117 @@
+{
+  "antenna_id": "128599",
+  "address": "\"ΣΚΙΑΔΑΙΙΚΑ\" ΠΛΗΣΙΟΝ ΟΙΚΙΣΜΟΥ ΧΟΥΝΗ ΠΑΡΑΚΑΜΠΥΛΙΩΝ",
+  "position_code": 2422204,
+  "municipality": "Αγρινίου",
+  "code_name": "ΧΟΥΝΗ",
+  "region": "Δυτικής Ελλάδας",
+  "latitude": 38.856389,
+  "company": "RC",
+  "longitude": 21.556944,
+  "permit_status": "Από τα στοιχεία που τηρούνται στην Ενημερωτική Πύλη προκύπτει ότι, για τη θέση \"\"ΣΚΙΑΔΑΙΙΚΑ\" ΠΛΗΣΙΟΝ ΟΙΚΙΣΜΟΥ ΧΟΥΝΗ ΠΑΡΑΚΑΜΠΥΛΙΩΝ\" στον Δήμο Αγρινίου Περιφέρειας  Δυτικής Ελλάδας \n\t(κωδικός αριθμός θέσης 2422204, κωδική ονομασία \"ΧΟΥΝΗ\") χορηγήθηκε, με την Απόφαση της ΕΕΤΤ \n25882/Φ610/07-11-2017, άδεια κατασκευής κεραίας στην εταιρία RC. \nΑπό τo έγγραφο της άδειας μπορείτε να ενημερωθείτε για τις σχετικές εγκρίσεις των συναρμόδιων φορέων, καθώς και εάν πρόκειται για τροποποίηση παλαιότερης άδειας.\nΗ άδεια χορηγήθηκε, κατόπιν της με Αριθ. Πρωτ. 23495/01-08-2017 αίτησης, \n\tμε τη διαδικασία αδειοδότησης της παρ. 17 του άρθρου 30 του Ν.4070/2012 που πλέον έχει αντικατασταθεί από τη διαδικασία που ορίζει ο ν. 4635/2019.\n\tΣύμφωνα με τα στοιχεία που έχουν υποβληθεί στο ΣΗΛΥΑ για την κατασκευή κεραίας από τον κάτοχό της, έχει εκδοθεί έγκριση δομικών κατασκευών κεραίας",
+  "measurements_eaee": "-",
+  "documents": [
+    {
+      "document_number": "302953/01-08-2017",
+      "protocol_number": "ΡΑΔ_2204 ΧΟΥΝΗ ΑΙΤΩΛΟΑΚΑΡΝΑΝΙΑΣ/",
+      "type": "Αίτηση - Μελέτη Ραδιοεκπομπών ΕΕΑΕ",
+      "file_url": "https://silia.eett.gr/silia/download/f002ec90-e9c4-4801-b6fe-416cfaab4c01"
+    },
+    {
+      "document_number": "302954/01-08-2017",
+      "protocol_number": "1.2204 ΠΠΔ ΚΑΙ ΣΥΝΟΔΕΥΤΙΚΑ/",
+      "type": "Δήλωση υπαγωγής σε ΠΠΔ και Συνοδευτικά Έγγραφα",
+      "file_url": "https://silia.eett.gr/silia/download/1a2b8426-3dfb-4ae0-b4d5-0b40cd2a413d"
+    },
+    {
+      "document_number": "302955/01-08-2017",
+      "protocol_number": "2.2204 TOPOGRAFIKO & GYS 1:5000/",
+      "type": "Τοπογραφικό",
+      "file_url": "https://silia.eett.gr/silia/download/a51d20ed-c6b5-4351-bc09-02dfc3de6787"
+    },
+    {
+      "document_number": "302956/01-08-2017",
+      "protocol_number": "3.2204 ARXITEKTONIKA ME SFRAGIDA/",
+      "type": "Αρχιτεκτονικά Σχέδια",
+      "file_url": "https://silia.eett.gr/silia/download/8a07d71f-a06b-4a65-982c-87b199da4b68"
+    },
+    {
+      "document_number": "302962/01-08-2017",
+      "protocol_number": "ΧΑΡΤΗΣ ΥΠΑ/",
+      "type": "Συμπληρωματικά Έγγραφα Αίτησης / Μελέτης",
+      "file_url": "https://silia.eett.gr/silia/download/85de8e44-f15e-4ef8-9c23-30117798117e"
+    },
+    {
+      "document_number": "302964/01-08-2017",
+      "protocol_number": "2.150623 ΕΚΠΡΟΣΩΠΗΣΗ RURAL/",
+      "type": "Συμπληρωματικά Έγγραφα",
+      "file_url": "https://silia.eett.gr/silia/download/5a30672a-a9e6-47ff-8828-e81af541d2a9"
+    },
+    {
+      "document_number": "302965/01-08-2017",
+      "protocol_number": "ΑΠ. ΣΥΜΒΑΣΗΣ ΔΙΚ. ΧΡΗΣΗΣ ΣΥΧΝΟΤΗΤΑΣ 3,8GHz/",
+      "type": "Συμπληρωματικά Έγγραφα",
+      "file_url": "https://silia.eett.gr/silia/download/01e6088d-bae0-44c2-9121-962ed1765855"
+    },
+    {
+      "document_number": "302966/01-08-2017",
+      "protocol_number": "Αρχείο Αίτησης/",
+      "type": "Αίτηση Άδειας Κατασκευής Κεραίας ΕΕΤΤ",
+      "file_url": "https://silia.eett.gr/silia/download/40bee313-dd72-4d88-a43f-11d5fe15cc1a"
+    },
+    {
+      "document_number": "305188/06-09-2017",
+      "protocol_number": "Μ.ι./411/10767/2017/04-09-2017",
+      "type": "Γνωμάτευση ΕΕΑΕ",
+      "file_url": "https://silia.eett.gr/silia/download/13f530e6-7026-4bf2-a58b-56fbf56e2a3d"
+    },
+    {
+      "document_number": "306998/21-09-2017",
+      "protocol_number": "ΠΟΛΕΟΔΟΜΙΚΗ ΕΓΚΡΙΣΗ Α.Κ. 2204 ΧΟΥΝΗ/",
+      "type": "Έγκριση δομικών κατασκευών (έντυπη)",
+      "file_url": "https://silia.eett.gr/silia/download/84ab9d37-ab14-4fd2-bad0-ffd17ebb2947"
+    },
+    {
+      "document_number": "306999/21-09-2017",
+      "protocol_number": "ΤΕΛΗ ΕΚΧΩΡΗΣΗΣ_18-9-2017/",
+      "type": "Αποδεικτικό Καταβολής Τελών ΕΕΤΤ",
+      "file_url": "https://silia.eett.gr/silia/download/95ca1186-3748-4f37-b8e6-2f366dbde18e"
+    },
+    {
+      "document_number": "307058/22-09-2017",
+      "protocol_number": "ΑΡ. ΠΡΩΤ. ΑΙΤΗΣΗΣ ΡΣ_26118_21-9-2017/",
+      "type": "Αίτηση Ραδιοσυχνοτήτων",
+      "file_url": "https://silia.eett.gr/silia/download/3ad780f1-1f35-44df-a6a3-0ff5a9ff14a6"
+    },
+    {
+      "document_number": "311140/27-10-2017",
+      "protocol_number": "Δ3/Δ/22725/8473/26-10-2017/27-10-2017",
+      "type": "Γνωμάτευση ΥΠΑ",
+      "file_url": "https://silia.eett.gr/silia/download/ae47db23-771f-4e9e-bba9-9fa0095a32e7"
+    },
+    {
+      "document_number": "315296/06-12-2017",
+      "protocol_number": "25882/Φ610/07-11-2017",
+      "type": "Άδεια Κατασκευής  Κεραίας",
+      "file_url": "https://silia.eett.gr/silia/download/6d397da7-f825-4f0c-9a7f-e9f3e48767f4"
+    },
+    {
+      "document_number": "306998/21-09-2017",
+      "protocol_number": "ΠΟΛΕΟΔΟΜΙΚΗ ΕΓΚΡΙΣΗ Α.Κ. 2204 ΧΟΥΝΗ/",
+      "type": "Έγκριση δομικών κατασκευών (έντυπη)",
+      "file_url": "https://silia.eett.gr/silia/download/84ab9d37-ab14-4fd2-bad0-ffd17ebb2947"
+    },
+    {
+      "document_number": "304575/30-08-2017",
+      "protocol_number": "1.2204 ΠΠΔ ΚΑΙ ΣΥΝΟΔΕΥΤΙΚΑ/",
+      "type": "Δήλωση υπαγωγής σε ΠΠΔ και Συνοδευτικά Έγγραφα",
+      "file_url": "https://silia.eett.gr/silia/download/cc0cff18-2447-4297-9192-e3d5e0f5a4c6"
+    },
+    {
+      "document_number": "304576/30-08-2017",
+      "protocol_number": "Αρχείο Αίτησης/",
+      "type": "Δήλωση ΠΠΔ",
+      "file_url": "https://silia.eett.gr/silia/download/61541c5c-5658-4f53-b0c1-9d14f77259cd"
+    }
+  ]
+}

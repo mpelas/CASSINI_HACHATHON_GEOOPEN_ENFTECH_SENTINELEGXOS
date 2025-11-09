@@ -1,0 +1,87 @@
+{
+  "antenna_id": "171990",
+  "address": "ΡΗΓΑ ΦΕΡΡΑΙΟΥ 25",
+  "position_code": 1404022,
+  "municipality": "Ρήγα Φερραίου",
+  "code_name": "ΒΕΛΕΣΤΙΝΟ",
+  "region": "Θεσσαλίας",
+  "latitude": 39.383889,
+  "company": "OTE",
+  "longitude": 22.746389,
+  "permit_status": "Από τα στοιχεία που τηρούνται στην Ενημερωτική Πύλη προκύπτει ότι, για τη θέση \"ΡΗΓΑ ΦΕΡΡΑΙΟΥ 25\" στον Δήμο Ρήγα Φερραίου Περιφέρειας  Θεσσαλίας \n\t(κωδικός αριθμός θέσης 1404022, κωδική ονομασία \"ΒΕΛΕΣΤΙΝΟ\") χορηγήθηκε, με την Απόφαση της ΕΕΤΤ \n51143/28-06-2024, άδεια κατασκευής κεραίας στην εταιρία OTE. \nΑπό τo έγγραφο της άδειας μπορείτε να ενημερωθείτε για τις σχετικές εγκρίσεις των συναρμόδιων φορέων, καθώς και εάν πρόκειται για τροποποίηση παλαιότερης άδειας.\n\tΣύμφωνα με τα στοιχεία που έχουν υποβληθεί στο ΣΗΛΥΑ, ο κάτοχος της κατασκευής κεραίας έχει δηλώσει ότι θα προβεί σε έκδοση έγκρισης δομικών κατασκευών \n\t\tκεραίας μέσω του e-Άδειες \n\t\tμετά την έκδοση της άδειας κατασκευής κεραίας / δημοσιοποίηση της δήλωσης τροποποίησης της κατασκευής κεραίας",
+  "measurements_eaee": "-",
+  "documents": [
+    {
+      "document_number": "509417/06-03-2024",
+      "protocol_number": "ΤΟΠΟΓΡΑΦΙΚΟ/06-03-2024",
+      "type": "Τοπογραφικό",
+      "file_url": "https://silia.eett.gr/silia/download/H3p9KBxg7aZv3r94KhKT7KsiuTMPPkDcX6s9"
+    },
+    {
+      "document_number": "509418/06-03-2024",
+      "protocol_number": "ΑΡΧΙΤΕΚΤΟΝΙΚΑ/06-03-2024",
+      "type": "Αρχιτεκτονικά Σχέδια",
+      "file_url": "https://silia.eett.gr/silia/download/kSQm0KGZCElNZ8H6dUVqF8f5TY09enOHPTCA"
+    },
+    {
+      "document_number": "509419/06-03-2024",
+      "protocol_number": "ΜΕΛΕΤΗ Ρ/Ε/26-10-2023",
+      "type": "Αίτηση - Μελέτη Ραδιοεκπομπών ΕΕΑΕ",
+      "file_url": "https://silia.eett.gr/silia/download/zcRUc3bfvzbkLek2DGf5L2S9VA4O8lAdeKmF"
+    },
+    {
+      "document_number": "509420/06-03-2024",
+      "protocol_number": "ΓΕΜΗ/02-01-2024",
+      "type": "Άλλο",
+      "file_url": "https://silia.eett.gr/silia/download/o0BqKfrr6l9HLtNGxEgZiiezicgDVQpr7cG7"
+    },
+    {
+      "document_number": "509441/06-03-2024",
+      "protocol_number": "κοινοποίηση ΓΕΑ/31-10-2023",
+      "type": "Επιστολή Ενημέρωσης προς Αρμόδιο Φορέα",
+      "file_url": "https://silia.eett.gr/silia/download/8nqTM31l4SYz6HARSQg4eGvidOv94GVUUb3d"
+    },
+    {
+      "document_number": "509444/06-03-2024",
+      "protocol_number": "Αρχείο Αίτησης/06-03-2024",
+      "type": "Αίτηση Άδειας Κατασκευής Κεραίας ΕΕΤΤ",
+      "file_url": "https://silia.eett.gr/silia/download/iW4dxusOgyM9OSmMOe7dg4k7IgcUpN4tuwzH"
+    },
+    {
+      "document_number": "512225/05-04-2024",
+      "protocol_number": "ΚΓ/Δ3/Δ/6692/04-04-2024",
+      "type": "Γνωμάτευση ΥΠΑ",
+      "file_url": "https://silia.eett.gr/silia/download/E2NA1czKK4pMhisCkGRT0Qu0tHpZu6MyoEg7"
+    },
+    {
+      "document_number": "514497/01-05-2024",
+      "protocol_number": "TMIA/411/6431/2024/30-04-2024",
+      "type": "Γνωμάτευση ΕΕΑΕ",
+      "file_url": "https://silia.eett.gr/silia/download/IGqulzAKfmBEMZfGzlEeQbXGewY9sm47VIIX"
+    },
+    {
+      "document_number": "519397/02-07-2024",
+      "protocol_number": "51143/28-06-2024",
+      "type": "Άδεια Κατασκευής  Κεραίας",
+      "file_url": "https://silia.eett.gr/silia/download/wihGBERw7CSQeMLOYKYFa022GWIGHESlH1aR"
+    },
+    {
+      "document_number": "519398/02-07-2024",
+      "protocol_number": "511431/28-06-2024",
+      "type": "Άδεια Κατασκευής  Κεραίας",
+      "file_url": "https://silia.eett.gr/silia/download/0SGUnKQRngQrhgNc6pZ8Gu3LBcG9ll3allRM"
+    },
+    {
+      "document_number": "509423/06-03-2024",
+      "protocol_number": "ΠΠΔ/06-03-2024",
+      "type": "Δήλωση υπαγωγής σε ΠΠΔ και Συνοδευτικά Έγγραφα",
+      "file_url": "https://silia.eett.gr/silia/download/ogQZmxSgKX88X9Y3CNyw21gEqTyIefm8sYva"
+    },
+    {
+      "document_number": "509445/06-03-2024",
+      "protocol_number": "Αρχείο Αίτησης/06-03-2024",
+      "type": "Δήλωση ΠΠΔ",
+      "file_url": "https://silia.eett.gr/silia/download/5gmfs6ino7os3xHzsbA6WtONA1MHNGU3KYK7"
+    }
+  ]
+}

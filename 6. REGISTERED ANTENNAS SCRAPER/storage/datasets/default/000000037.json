@@ -1,0 +1,45 @@
+{
+  "antenna_id": "172424",
+  "address": "AΓΙΟΚΑΜΠΟΥ 54 ΑΓΙΑΣ ΛΑΡΙΣΗΣ",
+  "position_code": 1142120,
+  "municipality": "Αγιάς",
+  "code_name": "3032120 SYZEFXIS KENTRO YGEIAS AGIA",
+  "region": "Θεσσαλίας",
+  "latitude": 39.715556,
+  "company": "VODAFONE",
+  "longitude": 22.759167,
+  "permit_status": "Από τα στοιχεία που τηρούνται στην Ενημερωτική Πύλη προκύπτει ότι, για τη θέση \"AΓΙΟΚΑΜΠΟΥ 54 ΑΓΙΑΣ ΛΑΡΙΣΗΣ\" στον Δήμο Αγιάς Περιφέρειας  Θεσσαλίας \n\t(κωδικός αριθμός θέσης 1142120, κωδική ονομασία \"3032120 SYZEFXIS KENTRO YGEIAS AGIA\") έχει κατατεθεί από την εταιρία VODAFONE\tδήλωση εγκατάστασης κατασκευής κεραίας (αριθ. πρωτ. \n\t55017/29-02-2024) που εμπίπτει στις διατάξεις της νομοθεσίας για Εγκαταστάσεις Κατασκευών Κεραιών Χαμηλής Ηλεκτρομαγνητικής Περιβαλλοντικής Όχλησης (ΕΚΚΧΟ).",
+  "measurements_eaee": "-",
+  "documents": [
+    {
+      "document_number": "508984/29-02-2024",
+      "protocol_number": "Φωτορεαλιστική απεικόνιση κεραίας ΕΚΚΧΟ/",
+      "type": "Φωτογραφικό Υλικό - Σκαρίφημα",
+      "file_url": "https://silia.eett.gr/silia/download/b1b0b8a8-8cc5-413c-8e38-187135fe0ac5"
+    },
+    {
+      "document_number": "508985/29-02-2024",
+      "protocol_number": "Ψηφιακός Χάρτης με προβολή της θέσης της κεραίας ΕΚΚΧΟ/",
+      "type": "Φωτογραφικό Υλικό - Σκαρίφημα",
+      "file_url": "https://silia.eett.gr/silia/download/c21e3169-7285-4a1b-9a6b-246d77a8654c"
+    },
+    {
+      "document_number": "509128/29-02-2024",
+      "protocol_number": "Μελέτη ΕΚΚΧΟ/29-02-2024",
+      "type": "Άλλο",
+      "file_url": "https://silia.eett.gr/silia/download/a337901a-26f3-4e13-bea4-634fff9d807b"
+    },
+    {
+      "document_number": "509129/29-02-2024",
+      "protocol_number": "Αρχείο Αίτησης/",
+      "type": "Δήλωση ΕΚΚΧΟ",
+      "file_url": "https://silia.eett.gr/silia/download/51aa9be6-62a0-402c-8190-4de3e4b4a11b"
+    },
+    {
+      "document_number": "513919/24-04-2024",
+      "protocol_number": "ΥΔ εγκατάστασης ΕΚΚΧΟ/24-04-2024",
+      "type": "Άλλο",
+      "file_url": "https://silia.eett.gr/silia/download/ShSAn39U2xhxdRHfL3PQsaMQ2fmrcoOKgVFb"
+    }
+  ]
+}

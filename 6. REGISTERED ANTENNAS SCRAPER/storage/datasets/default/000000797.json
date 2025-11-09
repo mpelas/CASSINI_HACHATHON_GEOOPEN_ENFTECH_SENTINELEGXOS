@@ -1,0 +1,39 @@
+{
+  "antenna_id": "159309",
+  "address": "ΑΡΧΑΙΟΛΟΓΙΚΟΣ ΧΩΡΟΣ ΟΛΥΜΠΙΑΣ",
+  "position_code": 1409209,
+  "municipality": "Αρχαίας Ολυμπίας",
+  "code_name": "OLYMPZEUS_WIFI",
+  "region": "Δυτικής Ελλάδας",
+  "latitude": 37.6375,
+  "company": "OTE",
+  "longitude": 21.631389,
+  "permit_status": "Από τα στοιχεία που τηρούνται στην Ενημερωτική Πύλη προκύπτει ότι, για τη θέση \"ΑΡΧΑΙΟΛΟΓΙΚΟΣ ΧΩΡΟΣ ΟΛΥΜΠΙΑΣ\" στον Δήμο Αρχαίας Ολυμπίας Περιφέρειας  Δυτικής Ελλάδας \n\t(κωδικός αριθμός θέσης 1409209, κωδική ονομασία \"OLYMPZEUS_WIFI\") έχει κατατεθεί από την εταιρία OTE\tδήλωση εγκατάστασης κατασκευής κεραίας (αριθ. πρωτ. \n\t43788/18-05-2021) που εμπίπτει στις διατάξεις της νομοθεσίας για Εγκαταστάσεις Κατασκευών Κεραιών Χαμηλής Ηλεκτρομαγνητικής Περιβαλλοντικής Όχλησης (ΕΚΚΧΟ).",
+  "measurements_eaee": "-",
+  "documents": [
+    {
+      "document_number": "435091/18-05-2021",
+      "protocol_number": "ΦΩΤΟΓΡΑΦΙΑ/",
+      "type": "Φωτογραφικό Υλικό - Σκαρίφημα",
+      "file_url": "https://silia.eett.gr/silia/download/d9333406-cdaf-419e-b928-6038f007a28b"
+    },
+    {
+      "document_number": "435092/18-05-2021",
+      "protocol_number": "40063/03-03-2021",
+      "type": "Γνωμοδότηση ΕΠΚΑ",
+      "file_url": "https://silia.eett.gr/silia/download/0eee88c1-e559-46aa-9af2-f8d60514fb4f"
+    },
+    {
+      "document_number": "435122/18-05-2021",
+      "protocol_number": "Αρχείο Αίτησης/",
+      "type": "Δήλωση ΕΚΚΧΟ",
+      "file_url": "https://silia.eett.gr/silia/download/90f60a99-3b23-420e-937a-1d00dc0e380b"
+    },
+    {
+      "document_number": "456695/13-04-2022",
+      "protocol_number": "4144/13-04-2022",
+      "type": "Έγκριση Αρμοδίου Φορέα",
+      "file_url": "https://silia.eett.gr/silia/download/a779ea18-9548-4941-9c9c-1550ebfee9d8"
+    }
+  ]
+}

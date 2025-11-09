@@ -1,0 +1,39 @@
+{
+  "antenna_id": "140966",
+  "address": "Δυτική ακτή της Νέας Ηράκλειας,  Καλλικράτεια Χαλκιδικής.",
+  "position_code": 1124907,
+  "municipality": "Νέας Προποντίδας",
+  "code_name": "SAHARA BEACH BAR",
+  "region": "Κεντρικής Μακεδονίας",
+  "latitude": 40.325278,
+  "company": "VODAFONE",
+  "longitude": 23.02,
+  "permit_status": "Από τα στοιχεία που τηρούνται στην Ενημερωτική Πύλη προκύπτει ότι, για τη θέση \"Δυτική ακτή της Νέας Ηράκλειας,  Καλλικράτεια Χαλκιδικής.\" στον Δήμο Νέας Προποντίδας Περιφέρειας  Κεντρικής Μακεδονίας \n\t(κωδικός αριθμός θέσης 1124907, κωδική ονομασία \"SAHARA BEACH BAR\") έχει κατατεθεί από την εταιρία VODAFONE\tδήλωση εγκατάστασης κατασκευής κεραίας (αριθ. πρωτ. \n\t31647/15-02-2019) που εμπίπτει στις διατάξεις της νομοθεσίας για Εγκαταστάσεις Κατασκευών Κεραιών Χαμηλής Ηλεκτρομαγνητικής Περιβαλλοντικής Όχλησης (ΕΚΚΧΟ).",
+  "measurements_eaee": "-",
+  "documents": [
+    {
+      "document_number": "357845/15-02-2019",
+      "protocol_number": "ΦΩΤΟΓΡΑΦΙΑ ΘΕΣΗΣ ΚΕΡΑΙΑΣ 1 ΚΑΙ 2/",
+      "type": "Φωτογραφικό Υλικό - Σκαρίφημα",
+      "file_url": "https://silia.eett.gr/silia/download/93703257-6d50-42f5-9467-bcb5a5e612b3"
+    },
+    {
+      "document_number": "357884/15-02-2019",
+      "protocol_number": "Μελέτη συμβατότητας 2700 MHz VODAFONE/",
+      "type": "Μελέτη για τη ζώνη  2,6GHz",
+      "file_url": "https://silia.eett.gr/silia/download/be090019-877d-42b1-976a-84adc557cd5a"
+    },
+    {
+      "document_number": "357885/15-02-2019",
+      "protocol_number": "Μελέτη συμβατότητας 2700 MHz WIND/",
+      "type": "Μελέτη για τη ζώνη  2,6GHz",
+      "file_url": "https://silia.eett.gr/silia/download/fc3bb8d8-26a9-4940-aba9-5602e42fbea7"
+    },
+    {
+      "document_number": "357892/15-02-2019",
+      "protocol_number": "Αρχείο Αίτησης/",
+      "type": "Δήλωση ΕΚΚΧΟ",
+      "file_url": "https://silia.eett.gr/silia/download/3b0d9c37-3074-49e0-bd03-0b366c0262d2"
+    }
+  ]
+}

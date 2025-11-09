@@ -1,0 +1,57 @@
+{
+  "antenna_id": "153030",
+  "address": "ΘΕΣΗ \"ΒΙΓΛΑΚΙ-ΒΑΓΙΕΣ\" Δ.Δ. ΠΑΛΑΙΟΚΑΣΤΡΟΥ.",
+  "position_code": 1010946,
+  "municipality": "Σητείας",
+  "code_name": "FOINIKODASOS 1",
+  "region": "Κρήτης",
+  "latitude": 35.255833,
+  "company": "VODAFONE",
+  "longitude": 26.265,
+  "permit_status": "Από τα στοιχεία που τηρούνται στην Ενημερωτική Πύλη προκύπτει ότι, για τη θέση \"ΘΕΣΗ \"ΒΙΓΛΑΚΙ-ΒΑΓΙΕΣ\" Δ.Δ. ΠΑΛΑΙΟΚΑΣΤΡΟΥ.\" στον Δήμο Σητείας Περιφέρειας  Κρήτης \n\t(κωδικός αριθμός θέσης 1010946, κωδική ονομασία \"FOINIKODASOS 1\") έχει κατατεθεί από την εταιρία VODAFONE\tδήλωση εγκατάστασης κατασκευής κεραίας (αριθ. πρωτ. \n\t38603/11-05-2020) που εμπίπτει στις διατάξεις της νομοθεσίας για Εγκαταστάσεις Κατασκευών Κεραιών Χαμηλής Ηλεκτρομαγνητικής Περιβαλλοντικής Όχλησης (ΕΚΚΧΟ).",
+  "measurements_eaee": "-",
+  "documents": [
+    {
+      "document_number": "404458/06-05-2020",
+      "protocol_number": "ΣΚΑΡΙΦΗΜΑ ΘΕΣΗΣ ΚΕΡΑΙΑΣ ΕΚΚΧΟ/",
+      "type": "Φωτογραφικό Υλικό - Σκαρίφημα",
+      "file_url": "https://silia.eett.gr/silia/download/5e1d22a5-9516-4edb-a485-41733f3f2b10"
+    },
+    {
+      "document_number": "404459/06-05-2020",
+      "protocol_number": "ΣΚΑΡΙΦΗΜΑ ΘΕΣΗΣ ΚΕΡΑΙΩΝ ΕΚΚΧΟ / ΚΑΤΟΨΗ/",
+      "type": "Φωτογραφικό Υλικό - Σκαρίφημα",
+      "file_url": "https://silia.eett.gr/silia/download/3eac7943-6748-417a-9533-449227d99866"
+    },
+    {
+      "document_number": "404460/06-05-2020",
+      "protocol_number": "ΣΚΑΡΙΦΗΜΑ ΘΕΣΗΣ ΚΕΡΑΙΩΝ ΕΚΚΧΟ / ΟΨΗ/",
+      "type": "Φωτογραφικό Υλικό - Σκαρίφημα",
+      "file_url": "https://silia.eett.gr/silia/download/7380bcd4-6c9c-4d01-b5fc-b2e7b9287b94"
+    },
+    {
+      "document_number": "404760/11-05-2020",
+      "protocol_number": "Αρχείο Αίτησης/",
+      "type": "Δήλωση ΕΚΚΧΟ",
+      "file_url": "https://silia.eett.gr/silia/download/57946bd7-94a9-4416-b34c-6b0bd38b119f"
+    },
+    {
+      "document_number": "413111/15-07-2020",
+      "protocol_number": "293688/206914/2972/30-06-2020",
+      "type": "Έγκριση Αρμοδίου Φορέα",
+      "file_url": "https://silia.eett.gr/silia/download/e45b2e1e-f7cf-45b5-9bca-00854eac168c"
+    },
+    {
+      "document_number": "413112/15-07-2020",
+      "protocol_number": "293038/33632/2123/1230/14-07-2020",
+      "type": "Γνωμοδότηση Υπηρεσίας Νεωτέρων Μνημείων",
+      "file_url": "https://silia.eett.gr/silia/download/eb94138f-938e-48ac-89e1-ba39c52af641"
+    },
+    {
+      "document_number": "413115/15-07-2020",
+      "protocol_number": "97/2020/03-06-2020",
+      "type": "Έγκριση Αρμοδίου Φορέα",
+      "file_url": "https://silia.eett.gr/silia/download/6635a682-0078-498e-9277-12239e7dc641"
+    }
+  ]
+}

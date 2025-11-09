@@ -1,0 +1,39 @@
+{
+  "antenna_id": "161331",
+  "address": "Δήμος Σάμου, Π.Ε Σάμου, Περιφέρεια Βορείου Αιγαίου",
+  "position_code": 3206155,
+  "municipality": "Σάμου",
+  "code_name": "ΒΑΘΥ ΖΕΡΒΟΥ",
+  "region": "Βορείου Αιγαίου",
+  "latitude": 37.738889,
+  "company": "ΕΡΤ ΑΕ",
+  "longitude": 26.946111,
+  "permit_status": "Από τα στοιχεία που τηρούνται στην Ενημερωτική Πύλη προκύπτει ότι για τη  θέση \"Δήμος Σάμου, Π.Ε Σάμου, Περιφέρεια Βορείου Αιγαίου\" στον Δήμο Σάμου Περιφέρειας  Βορείου Αιγαίου έχει κατατεθεί από την εταιρία ΕΡΤ ΑΕ δήλωση κατασκευής κεραίας τηλεοπτικής ευρυεκπομπής με αριθ. πρωτ. ΣΗΛΥΑ \n45702/30-11-2021 κατά τα οριζόμενα στην παρ. 7 του άρθρου 39 του Ν.4635/2019.",
+  "measurements_eaee": "-",
+  "documents": [
+    {
+      "document_number": "446710/24-11-2021",
+      "protocol_number": "Επαναυποβολή_ΥΠΑ_μετάβαση/",
+      "type": "Αίτηση ΥΠΑ",
+      "file_url": "https://silia.eett.gr/silia/download/c390ece8-7281-41c6-9d35-fbba410fee4f"
+    },
+    {
+      "document_number": "446711/24-11-2021",
+      "protocol_number": "screenshot/",
+      "type": "Φωτογραφικό Υλικό - Σκαρίφημα",
+      "file_url": "https://silia.eett.gr/silia/download/1318897d-7fd6-4de7-b74c-d8e3b16fe994"
+    },
+    {
+      "document_number": "447013/30-11-2021",
+      "protocol_number": "Αρχείο Αίτησης/",
+      "type": "Δήλωση Τηλεοπτικής Ευρυεκπομπής",
+      "file_url": "https://silia.eett.gr/silia/download/8f5a1762-ca19-406b-9744-8b9caa4c5a8e"
+    },
+    {
+      "document_number": "459777/20-05-2022",
+      "protocol_number": "Αίτηση ΥΠΑ/",
+      "type": "Αίτηση ΥΠΑ",
+      "file_url": "https://silia.eett.gr/silia/download/2755bb29-d01f-4f86-8fdc-d80a85011789"
+    }
+  ]
+}

@@ -1,0 +1,57 @@
+{
+  "antenna_id": "168882",
+  "address": "ΚΑΛΑΒΡΥΤΩΝ 202 (ΟΤ 1212)",
+  "position_code": 1121141,
+  "municipality": "Πατρέων",
+  "code_name": "TEI PATRAS 1",
+  "region": "Δυτικής Ελλάδας",
+  "latitude": 38.219722,
+  "company": "VODAFONE",
+  "longitude": 21.745556,
+  "permit_status": "Από τα στοιχεία που τηρούνται στην Ενημερωτική Πύλη προκύπτει ότι, για τη θέση \"ΚΑΛΑΒΡΥΤΩΝ 202 (ΟΤ 1212)\" στον Δήμο Πατρέων Περιφέρειας  Δυτικής Ελλάδας \n\t(κωδικός αριθμός θέσης 1121141, κωδική ονομασία \"TEI PATRAS 1\") έχει κατατεθεί από την εταιρία VODAFONE\tδήλωση εγκατάστασης κατασκευής κεραίας (αριθ. πρωτ. \n\t52017/14-06-2023) που εμπίπτει στις διατάξεις της νομοθεσίας για Εγκαταστάσεις Κατασκευών Κεραιών Χαμηλής Ηλεκτρομαγνητικής Περιβαλλοντικής Όχλησης (ΕΚΚΧΟ).",
+  "measurements_eaee": "-",
+  "documents": [
+    {
+      "document_number": "487938/14-06-2023",
+      "protocol_number": "Φωτορεαλιστική απεικόνιση κεραιών ΕΚΚΧΟ/",
+      "type": "Φωτογραφικό Υλικό - Σκαρίφημα",
+      "file_url": "https://silia.eett.gr/silia/download/82ba5924-9018-461a-a89c-a52bb0e6ec6b"
+    },
+    {
+      "document_number": "487939/14-06-2023",
+      "protocol_number": "Ψηφιακός Χάρτης με προβολή της θέσης ΕΚΚΧΟ/",
+      "type": "Φωτογραφικό Υλικό - Σκαρίφημα",
+      "file_url": "https://silia.eett.gr/silia/download/9aa26060-da94-451e-80c6-32a935cd5b7f"
+    },
+    {
+      "document_number": "487941/14-06-2023",
+      "protocol_number": "Αρχιτεκτονικά σχέδια ΕΚΚΧΟ/",
+      "type": "Αρχιτεκτονικά Σχέδια",
+      "file_url": "https://silia.eett.gr/silia/download/ed3ad52b-a014-4fda-ae46-8c8e6f8f53d2"
+    },
+    {
+      "document_number": "487961/14-06-2023",
+      "protocol_number": "Μελέτη ΕΚΚΧΟ/23-05-2023",
+      "type": "Άλλο",
+      "file_url": "https://silia.eett.gr/silia/download/de8b334c-a9d7-4651-ba2c-5e4a63d0388d"
+    },
+    {
+      "document_number": "487962/14-06-2023",
+      "protocol_number": "Αρχείο Αίτησης/",
+      "type": "Δήλωση ΕΚΚΧΟ",
+      "file_url": "https://silia.eett.gr/silia/download/154e0d6e-4d95-4270-ba5a-0c680c41d198"
+    },
+    {
+      "document_number": "488716/23-06-2023",
+      "protocol_number": "ΥΔ μηχανικού/19-06-2023",
+      "type": "Άλλο",
+      "file_url": "https://silia.eett.gr/silia/download/c74b39ce-7aff-46fe-9bd3-d2efa9dce7b0"
+    },
+    {
+      "document_number": "495159/25-09-2023",
+      "protocol_number": "ΥΔ εγκατάστασης/25-09-2023",
+      "type": "Άλλο",
+      "file_url": "https://silia.eett.gr/silia/download/38fb5913-f75c-4ab5-a96b-ad902d80e4a7"
+    }
+  ]
+}

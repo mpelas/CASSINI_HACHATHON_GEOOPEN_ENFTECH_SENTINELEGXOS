@@ -1,0 +1,45 @@
+{
+  "antenna_id": "171213",
+  "address": "Κάτω Σωτηρίτσα Λαρίσης",
+  "position_code": 1141885,
+  "municipality": "Αγιάς",
+  "code_name": "3031885 SYZEFXIS SOTIRITSA LARISAS",
+  "region": "Θεσσαλίας",
+  "latitude": 39.730833,
+  "company": "VODAFONE",
+  "longitude": 22.858056,
+  "permit_status": "Από τα στοιχεία που τηρούνται στην Ενημερωτική Πύλη προκύπτει ότι, για τη θέση \"Κάτω Σωτηρίτσα Λαρίσης\" στον Δήμο Αγιάς Περιφέρειας  Θεσσαλίας \n\t(κωδικός αριθμός θέσης 1141885, κωδική ονομασία \"3031885 SYZEFXIS SOTIRITSA LARISAS\") έχει κατατεθεί από την εταιρία VODAFONE\tδήλωση εγκατάστασης κατασκευής κεραίας (αριθ. πρωτ. \n\t54018/30-11-2023) που εμπίπτει στις διατάξεις της νομοθεσίας για Εγκαταστάσεις Κατασκευών Κεραιών Χαμηλής Ηλεκτρομαγνητικής Περιβαλλοντικής Όχλησης (ΕΚΚΧΟ).",
+  "measurements_eaee": "-",
+  "documents": [
+    {
+      "document_number": "501750/28-11-2023",
+      "protocol_number": "Φωτορεαλιστική απεικόνιση κεραιας ΕΚΚΧΟ/",
+      "type": "Φωτογραφικό Υλικό - Σκαρίφημα",
+      "file_url": "https://silia.eett.gr/silia/download/15274c71-5ab5-4d58-84e9-a4c6f3844206"
+    },
+    {
+      "document_number": "501751/28-11-2023",
+      "protocol_number": "Ψηφιακός Χάρτης με προβολή της θέσης της κεραίας ΕΚΚΧΟ/",
+      "type": "Φωτογραφικό Υλικό - Σκαρίφημα",
+      "file_url": "https://silia.eett.gr/silia/download/2aed5764-a1d5-48c6-a7b7-2fb2268a55f0"
+    },
+    {
+      "document_number": "502085/30-11-2023",
+      "protocol_number": "Μελέτη ΕΚΚΧΟ/29-11-2023",
+      "type": "Άλλο",
+      "file_url": "https://silia.eett.gr/silia/download/0612b23a-e9ca-4c30-a58f-593660f005a7"
+    },
+    {
+      "document_number": "502086/30-11-2023",
+      "protocol_number": "Σκαρίφημα με περιοχή απαγόρευσης/",
+      "type": "Φωτογραφικό Υλικό - Σκαρίφημα",
+      "file_url": "https://silia.eett.gr/silia/download/15e4f0b6-4e6e-4e8f-8e60-6a488a57d9ff"
+    },
+    {
+      "document_number": "502088/30-11-2023",
+      "protocol_number": "Αρχείο Αίτησης/",
+      "type": "Δήλωση ΕΚΚΧΟ",
+      "file_url": "https://silia.eett.gr/silia/download/b305df83-2450-41fe-b59e-ec18a4e6268d"
+    }
+  ]
+}

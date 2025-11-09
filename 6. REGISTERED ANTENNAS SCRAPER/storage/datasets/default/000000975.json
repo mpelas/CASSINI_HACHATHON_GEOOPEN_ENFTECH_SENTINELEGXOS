@@ -1,0 +1,87 @@
+{
+  "antenna_id": "168028",
+  "address": "ΕΠΙ ΤΩΝ ΟΔΩΝ ΠΟΛΥΤΕΧΝΕΙΟΥ & ΚΡΗΤΗΣ",
+  "position_code": 230021,
+  "municipality": "Βέροιας",
+  "code_name": "ΜΑΚΡΟΧΩΡΙ Τ/Κ",
+  "region": "Κεντρικής Μακεδονίας",
+  "latitude": 40.551667,
+  "company": "OTE",
+  "longitude": 22.246389,
+  "permit_status": "Από τα στοιχεία που τηρούνται στην Ενημερωτική Πύλη προκύπτει ότι, για τη θέση \"ΕΠΙ ΤΩΝ ΟΔΩΝ ΠΟΛΥΤΕΧΝΕΙΟΥ & ΚΡΗΤΗΣ\" στον Δήμο Βέροιας Περιφέρειας  Κεντρικής Μακεδονίας \n\t(κωδικός αριθμός θέσης 0230021, κωδική ονομασία \"ΜΑΚΡΟΧΩΡΙ Τ/Κ\") χορηγήθηκε, με την Απόφαση της ΕΕΤΤ \n48799/20-07-2023, άδεια κατασκευής κεραίας στην εταιρία OTE. \nΑπό τo έγγραφο της άδειας μπορείτε να ενημερωθείτε για τις σχετικές εγκρίσεις των συναρμόδιων φορέων, καθώς και εάν πρόκειται για τροποποίηση παλαιότερης άδειας.\n\tΣύμφωνα με τα στοιχεία που έχουν υποβληθεί στο ΣΗΛΥΑ, ο κάτοχος της κατασκευής κεραίας έχει δηλώσει ότι θα προβεί σε έκδοση έγκρισης δομικών κατασκευών \n\t\tκεραίας μέσω του e-Άδειες \n\t\tμετά την έκδοση της άδειας κατασκευής κεραίας / δημοσιοποίηση της δήλωσης τροποποίησης της κατασκευής κεραίας",
+  "measurements_eaee": "-",
+  "documents": [
+    {
+      "document_number": "482719/20-04-2023",
+      "protocol_number": "ΜΕΣΩ ΣΗΛΥΑ    /",
+      "type": "Τοπογραφικό",
+      "file_url": "https://silia.eett.gr/silia/download/82669595-f34c-4524-9491-5e1b33ec29db"
+    },
+    {
+      "document_number": "482720/20-04-2023",
+      "protocol_number": "ΜΕΣΩ ΣΗΛΥΑ    /",
+      "type": "Αρχιτεκτονικά Σχέδια",
+      "file_url": "https://silia.eett.gr/silia/download/bfe74ab2-5910-4ebc-87e6-fb662ede6e9a"
+    },
+    {
+      "document_number": "482721/20-04-2023",
+      "protocol_number": "ΜΕΣΩ ΣΗΛΥΑ    /05-04-2023",
+      "type": "Αίτηση - Μελέτη Ραδιοεκπομπών ΕΕΑΕ",
+      "file_url": "https://silia.eett.gr/silia/download/01dc66a9-48de-4bb1-9b3e-0682b69edf2b"
+    },
+    {
+      "document_number": "482722/20-04-2023",
+      "protocol_number": "Δ3/Δ/38185/9282/04-10-2004",
+      "type": "Γνωμάτευση ΥΠΑ",
+      "file_url": "https://silia.eett.gr/silia/download/487db89a-a78a-4ca3-ad25-7d00ea9ca6da"
+    },
+    {
+      "document_number": "482724/20-04-2023",
+      "protocol_number": "ΜΕΣΩ ΣΗΛΥΑ    /20-04-2023",
+      "type": "Αίτηση ΥΠΑ",
+      "file_url": "https://silia.eett.gr/silia/download/4b8a59f8-beaa-4bec-af24-0a562bbabd48"
+    },
+    {
+      "document_number": "482725/20-04-2023",
+      "protocol_number": "ΥΔ ΣΥΝΕΓΚΑΤΑΣΤΑΣΗΣ COSMΟΤΕ/20-04-2023",
+      "type": "Άλλο",
+      "file_url": "https://silia.eett.gr/silia/download/16afa3db-5570-4128-890d-c15fc22aa4e8"
+    },
+    {
+      "document_number": "482730/20-04-2023",
+      "protocol_number": "Αρχείο Αίτησης/",
+      "type": "Αίτηση Άδειας Κατασκευής Κεραίας ΕΕΤΤ",
+      "file_url": "https://silia.eett.gr/silia/download/e3e2ef87-19e5-4f67-9cd5-ef5a593b6262"
+    },
+    {
+      "document_number": "484411/10-05-2023",
+      "protocol_number": "ΚΓ/Δ3/Δ/9685/10-05-2023",
+      "type": "Γνωμάτευση ΥΠΑ",
+      "file_url": "https://silia.eett.gr/silia/download/1c697256-e883-44a4-a8c5-2cd7985720cc"
+    },
+    {
+      "document_number": "489353/30-06-2023",
+      "protocol_number": "TMIA/411/8317/2023/30-06-2023",
+      "type": "Γνωμάτευση ΕΕΑΕ",
+      "file_url": "https://silia.eett.gr/silia/download/8a84f41e-821b-43db-a2af-1aae15d5772e"
+    },
+    {
+      "document_number": "490969/21-07-2023",
+      "protocol_number": "48799/20-07-2023",
+      "type": "Άδεια Κατασκευής  Κεραίας",
+      "file_url": "https://silia.eett.gr/silia/download/7ecbc0f0-1dad-4ec9-ac3d-133805082bc9"
+    },
+    {
+      "document_number": "482717/20-04-2023",
+      "protocol_number": "ΣΥΝΟΔΕΥΤΙΚΑ ΕΓΓΡΑΦΑ/",
+      "type": "Δήλωση υπαγωγής σε ΠΠΔ και Συνοδευτικά Έγγραφα",
+      "file_url": "https://silia.eett.gr/silia/download/729c9bbd-1f00-4bac-839f-48e4cfdd54fa"
+    },
+    {
+      "document_number": "482731/20-04-2023",
+      "protocol_number": "Αρχείο Αίτησης/",
+      "type": "Δήλωση ΠΠΔ",
+      "file_url": "https://silia.eett.gr/silia/download/7efcb2ab-1f07-4d6b-a917-7b80f8961215"
+    }
+  ]
+}

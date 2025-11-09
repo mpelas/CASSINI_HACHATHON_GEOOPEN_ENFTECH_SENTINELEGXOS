@@ -1,0 +1,51 @@
+{
+  "antenna_id": "168097",
+  "address": "ΜΑΡΑΘΩΝΟΜΑΧΩΝ 91 ΕΓΚΛΥΚΑΔΑ ΠΑΤΡΕΩΝ",
+  "position_code": 1150236,
+  "municipality": "Πατρέων",
+  "code_name": "3030236 PROSYFA PATRA",
+  "region": "Δυτικής Ελλάδας",
+  "latitude": 38.219444,
+  "company": "VODAFONE",
+  "longitude": 21.764722,
+  "permit_status": "Από τα στοιχεία που τηρούνται στην Ενημερωτική Πύλη προκύπτει ότι, για τη θέση \"ΜΑΡΑΘΩΝΟΜΑΧΩΝ 91 ΕΓΚΛΥΚΑΔΑ ΠΑΤΡΕΩΝ\" στον Δήμο Πατρέων Περιφέρειας  Δυτικής Ελλάδας \n\t(κωδικός αριθμός θέσης 1150236, κωδική ονομασία \"3030236 PROSYFA PATRA\") έχει κατατεθεί από την εταιρία VODAFONE\tδήλωση εγκατάστασης κατασκευής κεραίας (αριθ. πρωτ. \n\t51413/25-04-2023) που εμπίπτει στις διατάξεις της νομοθεσίας για Εγκαταστάσεις Κατασκευών Κεραιών Χαμηλής Ηλεκτρομαγνητικής Περιβαλλοντικής Όχλησης (ΕΚΚΧΟ).",
+  "measurements_eaee": "-",
+  "documents": [
+    {
+      "document_number": "483130/25-04-2023",
+      "protocol_number": "Φωτορεαλιστική απεικόνιση κεραίας ΕΚΚΧΟ/",
+      "type": "Φωτογραφικό Υλικό - Σκαρίφημα",
+      "file_url": "https://silia.eett.gr/silia/download/6909a844-c6c9-40d3-ae1b-f91788c60be7"
+    },
+    {
+      "document_number": "483131/25-04-2023",
+      "protocol_number": "Ψηφιακός Χάρτης με προβολή της θέσης ΕΚΚΧΟ/",
+      "type": "Φωτογραφικό Υλικό - Σκαρίφημα",
+      "file_url": "https://silia.eett.gr/silia/download/06cbf8e1-13a7-4ee3-b97c-d25e7c7af41e"
+    },
+    {
+      "document_number": "483132/25-04-2023",
+      "protocol_number": "Μελέτη ΕΚΚΧΟ/25-04-2023",
+      "type": "Άλλο",
+      "file_url": "https://silia.eett.gr/silia/download/0f4aed84-3148-4f30-9b2f-76a5e9d2b44e"
+    },
+    {
+      "document_number": "483133/25-04-2023",
+      "protocol_number": "Σκαρίφημα με περιοχή απαγόρευσης/",
+      "type": "Φωτογραφικό Υλικό - Σκαρίφημα",
+      "file_url": "https://silia.eett.gr/silia/download/22eb6c9e-3a41-4c50-becb-e5822e97d542"
+    },
+    {
+      "document_number": "483134/25-04-2023",
+      "protocol_number": "Αρχείο Αίτησης/",
+      "type": "Δήλωση ΕΚΚΧΟ",
+      "file_url": "https://silia.eett.gr/silia/download/a7b0a846-077d-491c-b3d7-e553a2d934a3"
+    },
+    {
+      "document_number": "487311/07-06-2023",
+      "protocol_number": "ΥΔ εγκατάστασης/07-06-2023",
+      "type": "Άλλο",
+      "file_url": "https://silia.eett.gr/silia/download/e7767002-40b3-4606-b4a6-e8ebc49ba4c7"
+    }
+  ]
+}

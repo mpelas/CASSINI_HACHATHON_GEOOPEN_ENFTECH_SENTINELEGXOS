@@ -1,0 +1,39 @@
+{
+  "antenna_id": "169298",
+  "address": "6 Χλμ. Σερρών - Θεσ/νίκης, Σέρρες",
+  "position_code": 1497717,
+  "municipality": "Σερρών",
+  "code_name": "AUTO_KOKONIS_SER",
+  "region": "Κεντρικής Μακεδονίας",
+  "latitude": 41.098889,
+  "company": "OTE",
+  "longitude": 23.480278,
+  "permit_status": "Από τα στοιχεία που τηρούνται στην Ενημερωτική Πύλη προκύπτει ότι, για τη θέση \"6 Χλμ. Σερρών - Θεσ/νίκης, Σέρρες\" στον Δήμο Σερρών Περιφέρειας  Κεντρικής Μακεδονίας \n\t(κωδικός αριθμός θέσης 1497717, κωδική ονομασία \"AUTO_KOKONIS_SER\") έχει κατατεθεί από την εταιρία OTE\tδήλωση εγκατάστασης κατασκευής κεραίας (αριθ. πρωτ. \n\t53756/10-11-2023) που εμπίπτει στις διατάξεις της νομοθεσίας για Εγκαταστάσεις Κατασκευών Κεραιών Χαμηλής Ηλεκτρομαγνητικής Περιβαλλοντικής Όχλησης (ΕΚΚΧΟ).",
+  "measurements_eaee": "-",
+  "documents": [
+    {
+      "document_number": "490350/18-07-2023",
+      "protocol_number": "ΦΩΤΟΓΡΑΦΙΑ/",
+      "type": "Φωτογραφικό Υλικό - Σκαρίφημα",
+      "file_url": "https://silia.eett.gr/silia/download/6b35803d-abdd-4575-8b78-be663670cb58"
+    },
+    {
+      "document_number": "500158/09-11-2023",
+      "protocol_number": "ΜΕΣΩ ΣΗΛΥΑ/",
+      "type": "Αίτηση - Μελέτη Ραδιοεκπομπών ΕΕΑΕ",
+      "file_url": "https://silia.eett.gr/silia/download/4157ac48-a7ab-4af9-a44c-8e2df1c5ad2b"
+    },
+    {
+      "document_number": "500196/10-11-2023",
+      "protocol_number": "Αρχείο Αίτησης/",
+      "type": "Δήλωση ΕΚΚΧΟ",
+      "file_url": "https://silia.eett.gr/silia/download/5de6dfed-12a6-4f45-b065-af12c791ae7b"
+    },
+    {
+      "document_number": "526775/25-09-2024",
+      "protocol_number": "ΥΠ.ΔΗΛΩΣΗ/25-09-2024",
+      "type": "Άλλο",
+      "file_url": "https://silia.eett.gr/silia/download/UCCVHrzloeo4ai9vITb1IhqQNlANZpGwOHun"
+    }
+  ]
+}

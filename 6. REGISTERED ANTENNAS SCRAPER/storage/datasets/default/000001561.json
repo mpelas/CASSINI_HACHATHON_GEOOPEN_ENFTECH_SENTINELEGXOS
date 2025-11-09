@@ -1,0 +1,87 @@
+{
+  "antenna_id": "172797",
+  "address": "ΨΥΧΙΚΟ ΣΕΡΡΩΝ",
+  "position_code": 5000078,
+  "municipality": "Εμμανουήλ Παππά",
+  "code_name": "ΨΥΧΙΚΟ - Β",
+  "region": "Κεντρικής Μακεδονίας",
+  "latitude": 41.003889,
+  "company": "ERMIS-WISP",
+  "longitude": 23.629722,
+  "permit_status": "Από τα στοιχεία που τηρούνται στην Ενημερωτική Πύλη προκύπτει ότι, για τη θέση \"ΨΥΧΙΚΟ ΣΕΡΡΩΝ\" στον Δήμο Εμμανουήλ Παππά Περιφέρειας  Κεντρικής Μακεδονίας \n\t(κωδικός αριθμός θέσης 5000078, κωδική ονομασία \"ΨΥΧΙΚΟ - Β\") έχει κατατεθεί από την εταιρία ERMIS-WISP\tδήλωση εγκατάστασης κατασκευής κεραίας (αριθ. πρωτ. \n\t55305/27-03-2024) που εμπίπτει στις διατάξεις της νομοθεσίας για Εγκαταστάσεις Κατασκευών Κεραιών Χαμηλής Ηλεκτρομαγνητικής Περιβαλλοντικής Όχλησης (ΕΚΚΧΟ).",
+  "measurements_eaee": "-",
+  "documents": [
+    {
+      "document_number": "511033/26-03-2024",
+      "protocol_number": "ΦΩΤΟΡΕΑΛΙΣΤΙΚΗ ΑΠΕΙΚΟΝΙΣΗ/26-03-2024",
+      "type": "Φωτογραφικό Υλικό - Σκαρίφημα",
+      "file_url": "https://silia.eett.gr/silia/download/PUOsLZSIIQ6ZO2GxKd1TV1a7hDfyL7rEqM41"
+    },
+    {
+      "document_number": "511034/26-03-2024",
+      "protocol_number": "ΤΟΠΟΓΡΑΦΙΚΟ/26-03-2024",
+      "type": "Τοπογραφικό",
+      "file_url": "https://silia.eett.gr/silia/download/cmu5OvUdl0zECtNoKwGOAKM65wFTz6tXrNGg"
+    },
+    {
+      "document_number": "511035/26-03-2024",
+      "protocol_number": "ΚΑΤΟΨΗ ΚΤΙΡΙΟΥ/26-03-2024",
+      "type": "Αρχιτεκτονικά [Κάτοψη - Τομή - Όψη]",
+      "file_url": "https://silia.eett.gr/silia/download/miR4D5K5Meh86l2Iuv3NIEHVyYPOBvzetsms"
+    },
+    {
+      "document_number": "511036/26-03-2024",
+      "protocol_number": "ΚΑΤΟΨΗ ΧΩΡΩΝ ΠΡΟΣΤΑΣΙΑΣ/26-03-2024",
+      "type": "Αρχιτεκτονικά [Κάτοψη - Τομή - Όψη]",
+      "file_url": "https://silia.eett.gr/silia/download/kcIPXr8OO8SzgEkXvdw4E3nHcqeOyF1KqPOc"
+    },
+    {
+      "document_number": "511037/26-03-2024",
+      "protocol_number": "ΟΨΗ ΧΩΡΩΝ ΠΡΟΣΤΑΣΙΑΣ/26-03-2024",
+      "type": "Αρχιτεκτονικά [Κάτοψη - Τομή - Όψη]",
+      "file_url": "https://silia.eett.gr/silia/download/doPGX8QfoI42QCNnlNq7rMnhM6Ig9Q4w0XKD"
+    },
+    {
+      "document_number": "511040/26-03-2024",
+      "protocol_number": "ΟΨΗ/26-03-2024",
+      "type": "Αρχιτεκτονικά [Κάτοψη - Τομή - Όψη]",
+      "file_url": "https://silia.eett.gr/silia/download/6XU1yZSIikzoVgik50bIkvux09Au0eI6cer4"
+    },
+    {
+      "document_number": "511041/26-03-2024",
+      "protocol_number": "ΔΙΑΓΡΑΜΜΑ ΑΚΤΙΝΟΒΟΛΙΑΣ OmniTik/26-03-2024",
+      "type": "Άλλο",
+      "file_url": "https://silia.eett.gr/silia/download/DPiUgiEkNytmGaUsIu9gUIx6c9TaCbapqHb4"
+    },
+    {
+      "document_number": "511042/26-03-2024",
+      "protocol_number": "ΔΗΛΩΣΗ ΣΥΜΜΟΡΦΩΣΗΣ ΟΜΝΙΤΙΚ 5/26-03-2024",
+      "type": "Άλλο",
+      "file_url": "https://silia.eett.gr/silia/download/eqtpZG37VtT2BQTuFIAbgnuDp4nKwvW8aPA1"
+    },
+    {
+      "document_number": "511043/26-03-2024",
+      "protocol_number": "ΔΗΛΩΣΗ ΣΥΝΝΟΡΦΟΣΗΣ LHG 60GHz/26-03-2024",
+      "type": "Άλλο",
+      "file_url": "https://silia.eett.gr/silia/download/cezW6uGDTxy9mabsKkRKTSYOLUQRm5AbxOWN"
+    },
+    {
+      "document_number": "511044/26-03-2024",
+      "protocol_number": "ΤΕΧΝΙΚΑ ΧΑΡΑΚΤΗΡΙΣΤΙΚΑ OMNITIK 5/26-03-2024",
+      "type": "Άλλο",
+      "file_url": "https://silia.eett.gr/silia/download/Dfgg8VnOOB86HSeh3VNMAUkTGnM0qzHGeLi2"
+    },
+    {
+      "document_number": "511048/27-03-2024",
+      "protocol_number": "Αρχείο Αίτησης/27-03-2024",
+      "type": "Δήλωση ΕΚΚΧΟ",
+      "file_url": "https://silia.eett.gr/silia/download/k3CaBinmgWCvF3xw8HmEnRCwrkFObRufPSo5"
+    },
+    {
+      "document_number": "513226/16-04-2024",
+      "protocol_number": "ΥΠΕΘΥΝΗ ΔΗΛΩΣΗ ΕΓΚΑΤΑΣΤΑΣΗΣ/16-04-2024",
+      "type": "Υπεύθυνη Δήλωση Πληρότητας Φακέλου",
+      "file_url": "https://silia.eett.gr/silia/download/80ysTNAKOVFvbaT7DqsBEOfTUT32FmASOS6G"
+    }
+  ]
+}

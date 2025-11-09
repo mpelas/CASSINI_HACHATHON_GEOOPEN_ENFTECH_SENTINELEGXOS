@@ -1,0 +1,147 @@
+{
+  "antenna_id": "119861",
+  "address": "ΓΚΟΣΤΙΛΑ ΠΛΗΣΙΟΝ ΟΙΚΙΣΜΟΥ ΓΟΡΓΟΜΥΛΟΣ ΑΝΩΓΕΙΟΥ",
+  "position_code": 2423605,
+  "municipality": "Ζηρού",
+  "code_name": "ΓΟΡΓΟΜΥΛΟΣ",
+  "region": "Ηπείρου",
+  "latitude": 39.325,
+  "company": "RC",
+  "longitude": 20.941389,
+  "permit_status": "Από τα στοιχεία που τηρούνται στην Ενημερωτική Πύλη προκύπτει ότι, για τη θέση \"ΓΚΟΣΤΙΛΑ ΠΛΗΣΙΟΝ ΟΙΚΙΣΜΟΥ ΓΟΡΓΟΜΥΛΟΣ ΑΝΩΓΕΙΟΥ\" στον Δήμο Ζηρού Περιφέρειας  Ηπείρου \n\t(κωδικός αριθμός θέσης 2423605, κωδική ονομασία \"ΓΟΡΓΟΜΥΛΟΣ\") χορηγήθηκε, με την Απόφαση της ΕΕΤΤ \n25003/Φ610/14-07-2017, άδεια κατασκευής κεραίας στην εταιρία RC. \nΑπό τo έγγραφο της άδειας μπορείτε να ενημερωθείτε για τις σχετικές εγκρίσεις των συναρμόδιων φορέων, καθώς και εάν πρόκειται για τροποποίηση παλαιότερης άδειας.\nΗ άδεια χορηγήθηκε, κατόπιν της με Αριθ. Πρωτ. 18690/15-09-2016 αίτησης, \n\tμε τη διαδικασία αδειοδότησης της παρ. 17 του άρθρου 30 του Ν.4070/2012 που πλέον έχει αντικατασταθεί από τη διαδικασία που ορίζει ο ν. 4635/2019.\n\tΣύμφωνα με τα στοιχεία που έχουν υποβληθεί στο ΣΗΛΥΑ για την κατασκευή κεραίας από τον κάτοχό της, έχει εκδοθεί έγκριση δομικών κατασκευών κεραίας",
+  "measurements_eaee": "-",
+  "documents": [
+    {
+      "document_number": "268448/05-08-2016",
+      "protocol_number": "ΡΑΔ_3605 GORGOMYLOS/",
+      "type": "Αίτηση - Μελέτη Ραδιοεκπομπών ΕΕΑΕ",
+      "file_url": "https://silia.eett.gr/silia/download/ea0da828-f217-4468-9678-a8809f8a0544"
+    },
+    {
+      "document_number": "268449/05-08-2016",
+      "protocol_number": "1.3605 PPD/",
+      "type": "Έγκριση Περιβαλλοντικών Όρων",
+      "file_url": "https://silia.eett.gr/silia/download/fd00c2bc-4567-4adb-8fcd-d74ff7a486b5"
+    },
+    {
+      "document_number": "268450/05-08-2016",
+      "protocol_number": "2.3605 TOPOGRAFIKO&GSYS 1:5000/",
+      "type": "Τοπογραφικό",
+      "file_url": "https://silia.eett.gr/silia/download/00641a62-659b-43eb-bcd5-72388ffe385d"
+    },
+    {
+      "document_number": "268451/05-08-2016",
+      "protocol_number": "3605 ΓΟΡΓΟΜΥΛΟΣ ΕΦΑ/",
+      "type": "Αρχαιολογική έγκριση/γνωμοδότηση (μη τυπική)",
+      "file_url": "https://silia.eett.gr/silia/download/9337c651-9d46-40d2-b58e-6dea84695dc3"
+    },
+    {
+      "document_number": "268452/05-08-2016",
+      "protocol_number": "3605 ΓΟΡΓΟΜΥΛΟΣ_ΕΝΜ/",
+      "type": "Γνωμοδότηση Υπηρεσίας Νεωτέρων Μνημείων",
+      "file_url": "https://silia.eett.gr/silia/download/f8319618-c654-4ba6-bc07-b05f3a4c2b16"
+    },
+    {
+      "document_number": "268453/05-08-2016",
+      "protocol_number": "3605 PPD/",
+      "type": "Δήλωση υπαγωγής σε ΠΠΔ και Συνοδευτικά Έγγραφα",
+      "file_url": "https://silia.eett.gr/silia/download/4182103a-63a1-4593-9316-099341d42061"
+    },
+    {
+      "document_number": "268454/05-08-2016",
+      "protocol_number": "3.3605 ARXITEKTONIKA ME SFRAGIDA/",
+      "type": "Αρχιτεκτονικά Σχέδια",
+      "file_url": "https://silia.eett.gr/silia/download/c790df50-4e8a-46f5-bbcb-2644cbd2b438"
+    },
+    {
+      "document_number": "268456/05-08-2016",
+      "protocol_number": "3605 YPA/",
+      "type": "Συμπληρωματικά Έγγραφα Αίτησης / Μελέτης",
+      "file_url": "https://silia.eett.gr/silia/download/a57e1ede-010b-487d-8758-d47fc196748d"
+    },
+    {
+      "document_number": "269334/25-08-2016",
+      "protocol_number": "2.150623 ΕΚΠΡΟΣΩΠΗΣΗ RURAL/",
+      "type": "Συμπληρωματικά Έγγραφα",
+      "file_url": "https://silia.eett.gr/silia/download/6c60adf8-52a2-4231-afeb-80578affbc45"
+    },
+    {
+      "document_number": "269717/30-08-2016",
+      "protocol_number": "ΑΠ. ΣΥΜΒΑΣΗΣ ΔΙΚ. ΧΡΗΣΗΣ ΣΥΧΝΟΤΗΤΑΣ 3,8GHz/",
+      "type": "Συμπληρωματικά Έγγραφα",
+      "file_url": "https://silia.eett.gr/silia/download/4e8ad9f8-8662-44f3-813e-d5e5d18ef8d4"
+    },
+    {
+      "document_number": "271557/15-09-2016",
+      "protocol_number": "ΑΡ. ΠΡΩΤ.20577-14 9 16 ΑΙΤΗΣΗ ΕΚΧΩΡΗΣΗΣ ΣΥΧΝΟΤΗΤΩΝ/",
+      "type": "Αίτηση Ραδιοσυχνοτήτων",
+      "file_url": "https://silia.eett.gr/silia/download/5326b56f-b4ca-492e-b6b6-701e013ec2c5"
+    },
+    {
+      "document_number": "271558/15-09-2016",
+      "protocol_number": "ΤΕΛΗ ΕΚΧΩΡΗΣΗΣ 7-9-16/",
+      "type": "Αποδεικτικό Καταβολής Τελών ΕΕΤΤ",
+      "file_url": "https://silia.eett.gr/silia/download/ab837eec-2f25-49a0-b12f-19b2009ec09f"
+    },
+    {
+      "document_number": "271559/15-09-2016",
+      "protocol_number": "Αρχείο Αίτησης/",
+      "type": "Αίτηση Άδειας Κατασκευής Κεραίας ΕΕΤΤ",
+      "file_url": "https://silia.eett.gr/silia/download/a3d2a486-d0ea-41cf-b519-7849444159cb"
+    },
+    {
+      "document_number": "275339/12-10-2016",
+      "protocol_number": "Δ3/Δ/23371/8414/7-10-2016/12-10-2016",
+      "type": "Γνωμάτευση ΥΠΑ",
+      "file_url": "https://silia.eett.gr/silia/download/7f151574-c941-4e90-8bc6-da433683b585"
+    },
+    {
+      "document_number": "282611/20-12-2016",
+      "protocol_number": "Μ.ι./411/14373/2016/09-12-2016",
+      "type": "Γνωμάτευση ΕΕΑΕ",
+      "file_url": "https://silia.eett.gr/silia/download/d2076cf2-b235-4a0b-9698-c3fabea38eff"
+    },
+    {
+      "document_number": "288993/10-03-2017",
+      "protocol_number": "ΣΥΜΠΛ.ΠΡΩΤ.ΓΟΡΓΟΜΥΛΟΣ 3605/",
+      "type": "Συμπληρωματικά Έγγραφα Αίτησης / Μελέτης",
+      "file_url": "https://silia.eett.gr/silia/download/0ae66b44-36d6-4807-b4b3-e68719ebb9e1"
+    },
+    {
+      "document_number": "288994/10-03-2017",
+      "protocol_number": "ΣΥΜΠΛΗΡΩΜΑΤΙΚΑ 3605 ΓΟΡΓΟΜΥΛΟΣ/",
+      "type": "Συμπληρωματικά Έγγραφα Αίτησης / Μελέτης",
+      "file_url": "https://silia.eett.gr/silia/download/47d1744d-edb7-4b47-a2c4-300d1303489c"
+    },
+    {
+      "document_number": "297928/19-06-2017",
+      "protocol_number": "3605 ΠΟΛΕΟΔΟΜΙΚΗ ΕΓΚΡΙΣΗ/",
+      "type": "Έγκριση δομικών κατασκευών (έντυπη)",
+      "file_url": "https://silia.eett.gr/silia/download/8a393e15-ae7b-488e-9b81-23450a7e8611"
+    },
+    {
+      "document_number": "304593/30-08-2017",
+      "protocol_number": "25003/Φ610/14-07-2017",
+      "type": "Άδεια Κατασκευής  Κεραίας",
+      "file_url": "https://silia.eett.gr/silia/download/b665dffa-e1c3-4642-b147-66f9cce0ca0f"
+    },
+    {
+      "document_number": "297928/19-06-2017",
+      "protocol_number": "3605 ΠΟΛΕΟΔΟΜΙΚΗ ΕΓΚΡΙΣΗ/",
+      "type": "Έγκριση δομικών κατασκευών (έντυπη)",
+      "file_url": "https://silia.eett.gr/silia/download/8a393e15-ae7b-488e-9b81-23450a7e8611"
+    },
+    {
+      "document_number": "288989/10-03-2017",
+      "protocol_number": "1.3605 PPD_new/",
+      "type": "Δήλωση υπαγωγής σε ΠΠΔ και Συνοδευτικά Έγγραφα",
+      "file_url": "https://silia.eett.gr/silia/download/ff2e16ce-916c-4220-b3f5-bdc4c328af13"
+    },
+    {
+      "document_number": "288990/10-03-2017",
+      "protocol_number": "Αρχείο Αίτησης/",
+      "type": "Δήλωση ΠΠΔ",
+      "file_url": "https://silia.eett.gr/silia/download/ef22bddb-3dd6-475d-811f-8322f6dc11c5"
+    }
+  ]
+}

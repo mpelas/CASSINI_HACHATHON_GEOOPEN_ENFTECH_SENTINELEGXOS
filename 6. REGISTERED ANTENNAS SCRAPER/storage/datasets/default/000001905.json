@@ -1,0 +1,45 @@
+{
+  "antenna_id": "154765",
+  "address": "Δήμος Θάσου, Π.Ε. Θάσου, Περιφέρεια Ανατολικής Μακεδονίας και Θράκης",
+  "position_code": 3207007,
+  "municipality": "Θάσου",
+  "code_name": "ΘΑΣΟΣ-Δ",
+  "region": "Ανατ. Μακεδονίας και Θράκης",
+  "latitude": 40.730556,
+  "company": "ΕΡΤ ΑΕ",
+  "longitude": 24.661389,
+  "permit_status": "Από τα στοιχεία που τηρούνται στην Ενημερωτική Πύλη προκύπτει ότι για τη  θέση \"Δήμος Θάσου, Π.Ε. Θάσου, Περιφέρεια Ανατολικής Μακεδονίας και Θράκης\" στον Δήμο Θάσου Περιφέρειας  Ανατ. Μακεδονίας και Θράκης έχει κατατεθεί από την εταιρία ΕΡΤ ΑΕ δήλωση δομικών κατασκευών κεραιών  \nμε αριθ. πρωτ. ΣΗΛΥΑ 39502/25-05-2020 κατά τα οριζόμενα στην παρ. 7 του άρθρου 34 του Ν.4635/2019.",
+  "measurements_eaee": "-",
+  "documents": [
+    {
+      "document_number": "408149/25-05-2020",
+      "protocol_number": "δορυφορική λήψη και στοιχεία δομικών κατασκευών/",
+      "type": "Άλλο",
+      "file_url": "https://silia.eett.gr/silia/download/5ea7c07f-5454-42b5-a4b0-895107cb51f4"
+    },
+    {
+      "document_number": "408150/25-05-2020",
+      "protocol_number": "απογραφή 1987/",
+      "type": "Άλλο",
+      "file_url": "https://silia.eett.gr/silia/download/72a100b0-a4bb-4afa-b283-62485683e3c9"
+    },
+    {
+      "document_number": "408151/25-05-2020",
+      "protocol_number": "πίνακας 7 απογραφής ΕΡΤ 1987/",
+      "type": "Άλλο",
+      "file_url": "https://silia.eett.gr/silia/download/a04a5511-b846-43db-a088-c0f1e163421d"
+    },
+    {
+      "document_number": "408152/25-05-2020",
+      "protocol_number": "βεβαίωση 1ης ηλεκτροδότησης/",
+      "type": "Άλλο",
+      "file_url": "https://silia.eett.gr/silia/download/74e009ca-7ea4-4726-9357-254144002331"
+    },
+    {
+      "document_number": "408153/25-05-2020",
+      "protocol_number": "Αρχείο Αίτησης/",
+      "type": "Δήλωση Δομικών ΕΡΤ",
+      "file_url": "https://silia.eett.gr/silia/download/8406bb01-931a-4419-90de-382041a0208f"
+    }
+  ]
+}

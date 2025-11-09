@@ -1,0 +1,51 @@
+{
+  "antenna_id": "172422",
+  "address": "ΜΥΤΗ ΓΡΥΝΤΑ",
+  "position_code": 1271812,
+  "municipality": "Ρεθύμνης",
+  "code_name": "DHMOTIKH YDREUSI RETHIMNOU",
+  "region": "Κρήτης",
+  "latitude": 35.368889,
+  "company": "NOVA Μ.Α.Ε.",
+  "longitude": 24.444722,
+  "permit_status": "Από τα στοιχεία που τηρούνται στην Ενημερωτική Πύλη προκύπτει ότι, για τη θέση \"ΜΥΤΗ ΓΡΥΝΤΑ\" στον Δήμο Ρεθύμνης Περιφέρειας  Κρήτης \n\t(κωδικός αριθμός θέσης 1271812, κωδική ονομασία \"DHMOTIKH YDREUSI RETHIMNOU\") έχει κατατεθεί από την εταιρία NOVA Μ.Α.Ε.\tδήλωση εγκατάστασης κατασκευής κεραίας (αριθ. πρωτ. \n\t55004/29-02-2024) που εμπίπτει στις διατάξεις της νομοθεσίας για Εγκαταστάσεις Κατασκευών Κεραιών Χαμηλής Ηλεκτρομαγνητικής Περιβαλλοντικής Όχλησης (ΕΚΚΧΟ).",
+  "measurements_eaee": "-",
+  "documents": [
+    {
+      "document_number": "508964/29-02-2024",
+      "protocol_number": "ΑΠΕΙΚΟΝΙΣΗ GOOGLE EARTH/",
+      "type": "Άλλο",
+      "file_url": "https://silia.eett.gr/silia/download/c6962346-8af1-4a31-aaa1-da60cedc36f4"
+    },
+    {
+      "document_number": "508973/29-02-2024",
+      "protocol_number": "ΦΩΤΟΓΡΑΦΙΑ ΕΚΚΧΟ/",
+      "type": "Φωτογραφικό Υλικό - Σκαρίφημα",
+      "file_url": "https://silia.eett.gr/silia/download/c98cc610-4f61-4f2d-aa91-fa55b64b7940"
+    },
+    {
+      "document_number": "508974/29-02-2024",
+      "protocol_number": "ΣΚΑΡΙΦΗΜΑ ΕΚΚΧΟ/",
+      "type": "Φωτογραφικό Υλικό - Σκαρίφημα",
+      "file_url": "https://silia.eett.gr/silia/download/e07f4fbe-6838-45db-bd98-3be75cd95cd4"
+    },
+    {
+      "document_number": "509053/29-02-2024",
+      "protocol_number": "ΜΕΛΕΤΗ ΕΚΚΧΟ/",
+      "type": "Άλλο",
+      "file_url": "https://silia.eett.gr/silia/download/6d56704f-16d6-4155-83ab-9ee10adb1da9"
+    },
+    {
+      "document_number": "509054/29-02-2024",
+      "protocol_number": "ΠΕΡΙΟΧΗ ΑΠΑΓΟΡΕΥΣΗΣ/",
+      "type": "Άλλο",
+      "file_url": "https://silia.eett.gr/silia/download/cc1d718d-11be-474b-9fc6-b0c78b2bd00a"
+    },
+    {
+      "document_number": "509055/29-02-2024",
+      "protocol_number": "Αρχείο Αίτησης/",
+      "type": "Δήλωση ΕΚΚΧΟ",
+      "file_url": "https://silia.eett.gr/silia/download/055b9b05-1798-4b30-a1b8-cbfd75008a6b"
+    }
+  ]
+}

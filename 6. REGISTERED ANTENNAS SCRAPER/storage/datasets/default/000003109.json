@@ -1,0 +1,75 @@
+{
+  "antenna_id": "150762",
+  "address": "ΚΑΣΤΑΝΙΑ ΚΟΖΑΝΗΣ",
+  "position_code": 330123,
+  "municipality": "Σερβίων - Βελβεντού",
+  "code_name": "ΚΑΛΥΒΙΑ ΣΑΡΑΝΤΑΠΟΡΟΥ Τ/Κ",
+  "region": "Δυτικής Μακεδονίας",
+  "latitude": 40.109167,
+  "company": "OTE",
+  "longitude": 22.045556,
+  "permit_status": "Από τα στοιχεία που τηρούνται στην Ενημερωτική Πύλη προκύπτει ότι, για τη θέση \"ΚΑΣΤΑΝΙΑ ΚΟΖΑΝΗΣ\" στον Δήμο Σερβίων - Βελβεντού Περιφέρειας  Δυτικής Μακεδονίας \n\t(κωδικός αριθμός θέσης 0330123, κωδική ονομασία \"ΚΑΛΥΒΙΑ ΣΑΡΑΝΤΑΠΟΡΟΥ Τ/Κ\") χορηγήθηκε, με την Απόφαση της ΕΕΤΤ \n40452/Φ610/27-04-2021, άδεια κατασκευής κεραίας στην εταιρία OTE. \nΑπό τo έγγραφο της άδειας μπορείτε να ενημερωθείτε για τις σχετικές εγκρίσεις των συναρμόδιων φορέων, καθώς και εάν πρόκειται για τροποποίηση παλαιότερης άδειας.\nΗ άδεια χορηγήθηκε με τη διαδικασία αδειοδότησης που ορίζει ο ν. 4635/2019, κατόπιν της με αριθ. πρωτ. 37405/25-02-2020 \n\tαίτησης, και βάσει σχετικής δήλωσης του κατόχου της περί υπαγωγή της κατασκευής κεραίας στο άρθρο 34 του ν. 4635/2019.",
+  "measurements_eaee": "-",
+  "documents": [
+    {
+      "document_number": "396299/25-02-2020",
+      "protocol_number": "ΜΕΣΩ ΣΗΛΥΑ/",
+      "type": "Τοπογραφικό",
+      "file_url": "https://silia.eett.gr/silia/download/70dc86d7-fd44-48a8-9dcd-722aead07e95"
+    },
+    {
+      "document_number": "396300/25-02-2020",
+      "protocol_number": "ΜΕΣΩ ΣΗΛΥΑ/",
+      "type": "Αρχιτεκτονικά Σχέδια",
+      "file_url": "https://silia.eett.gr/silia/download/e21fc9ff-f463-4b67-a391-e99cea59d1c0"
+    },
+    {
+      "document_number": "396301/25-02-2020",
+      "protocol_number": "Δ3/Δ/7132/1781/07-03-2012",
+      "type": "Γνωμάτευση ΥΠΑ",
+      "file_url": "https://silia.eett.gr/silia/download/dd5c9a81-fd55-40ea-ba85-ea17998bc3a8"
+    },
+    {
+      "document_number": "396302/25-02-2020",
+      "protocol_number": "Δ3/Δ/4058/938/08-02-2010",
+      "type": "Γνωμάτευση ΥΠΑ",
+      "file_url": "https://silia.eett.gr/silia/download/a6932d67-df29-4296-83a7-7f5871e90cb4"
+    },
+    {
+      "document_number": "396303/25-02-2020",
+      "protocol_number": "ΜΕΣΩ ΣΗΛΥΑ/21-01-2020",
+      "type": "Αίτηση - Μελέτη Ραδιοεκπομπών ΕΕΑΕ",
+      "file_url": "https://silia.eett.gr/silia/download/3c6f4029-c1e7-4d3c-9c39-af60c153e9c2"
+    },
+    {
+      "document_number": "396411/25-02-2020",
+      "protocol_number": "Αρχείο Αίτησης/",
+      "type": "Αίτηση Άδειας Κατασκευής Κεραίας ΕΕΤΤ",
+      "file_url": "https://silia.eett.gr/silia/download/1f7d3aad-691e-4c5b-8fd8-11920a46df09"
+    },
+    {
+      "document_number": "405425/14-05-2020",
+      "protocol_number": "Μ.ι./411/6363/2020 /13-05-2020",
+      "type": "Γνωμάτευση ΕΕΑΕ",
+      "file_url": "https://silia.eett.gr/silia/download/11cf4932-c7c6-4eb0-8c43-d13d0864d6fd"
+    },
+    {
+      "document_number": "434609/29-04-2021",
+      "protocol_number": "40452/Φ610/27-04-2021",
+      "type": "Άδεια Κατασκευής  Κεραίας",
+      "file_url": "https://silia.eett.gr/silia/download/f293a201-e270-49ab-91bf-7e73ae324acf"
+    },
+    {
+      "document_number": "432689/01-04-2021",
+      "protocol_number": "ΣΥΝΟΔΕΥΤΙΚΑ ΕΓΓΡΑΦΑ/",
+      "type": "Δήλωση υπαγωγής σε ΠΠΔ και Συνοδευτικά Έγγραφα",
+      "file_url": "https://silia.eett.gr/silia/download/223180d6-0d95-427e-8241-14b3e2201bba"
+    },
+    {
+      "document_number": "432690/01-04-2021",
+      "protocol_number": "Αρχείο Αίτησης/",
+      "type": "Δήλωση ΠΠΔ",
+      "file_url": "https://silia.eett.gr/silia/download/4b66a01d-d1f8-4ce7-90d1-bfe5ab58f6cd"
+    }
+  ]
+}

@@ -1,0 +1,117 @@
+{
+  "antenna_id": "145231",
+  "address": "\"ΚΑΤΩ ΚΕΦΑΛΟ\", ΤΟΠΙΚ. ΚΟΙΝΟΤΗΤΑ ΡΟΔΑΚΙΝΟΥ, ΔΗΜΟΤΙΚΗ ΕΝΟΤΗΤΑ ΦΟΙΝΙΚΑ, ΔΗΜΟΣ ΑΓΙΟΥ ΒΑΣΙΛΕΙΟΥ",
+  "position_code": 1201812,
+  "municipality": "Αγίου Βασιλείου",
+  "code_name": "ΡΟΔΑΚΙΝΟ",
+  "region": "Κρήτης",
+  "latitude": 35.193889,
+  "company": "NOVA Μ.Α.Ε.",
+  "longitude": 24.305833,
+  "permit_status": "Από τα στοιχεία που τηρούνται στην Ενημερωτική Πύλη προκύπτει ότι, για τη θέση \"\"ΚΑΤΩ ΚΕΦΑΛΟ\", ΤΟΠΙΚ. ΚΟΙΝΟΤΗΤΑ ΡΟΔΑΚΙΝΟΥ, ΔΗΜΟΤΙΚΗ ΕΝΟΤΗΤΑ ΦΟΙΝΙΚΑ, ΔΗΜΟΣ ΑΓΙΟΥ ΒΑΣΙΛΕΙΟΥ\" στον Δήμο Αγίου Βασιλείου Περιφέρειας  Κρήτης \n\t(κωδικός αριθμός θέσης 1201812, κωδική ονομασία \"ΡΟΔΑΚΙΝΟ\") χορηγήθηκε, με την Απόφαση της ΕΕΤΤ \n40892/17-06-2021, άδεια κατασκευής κεραίας στην εταιρία NOVA Μ.Α.Ε.. \nΑπό τo έγγραφο της άδειας μπορείτε να ενημερωθείτε για τις σχετικές εγκρίσεις των συναρμόδιων φορέων, καθώς και εάν πρόκειται για τροποποίηση παλαιότερης άδειας.\nΗ άδεια χορηγήθηκε με τη διαδικασία αδειοδότησης που ορίζει ο ν. 4635/2019, κατόπιν της με αριθ. πρωτ. 39613/27-05-2020 \n\tαίτησης, και βάσει σχετικής δήλωσης του κατόχου της περί υπαγωγή της κατασκευής κεραίας στο άρθρο 34 του ν. 4635/2019.",
+  "measurements_eaee": "-",
+  "documents": [
+    {
+      "document_number": "383154/14-11-2019",
+      "protocol_number": "33768/Φ615/23-09-2019",
+      "type": "Χορήγηση Δικαιώματος Χρήσης Ραδιοσυχνοτήτων",
+      "file_url": null
+    },
+    {
+      "document_number": "383155/14-11-2019",
+      "protocol_number": "ΥΠΕΥΘΥΝΗ ΔΗΛΩΣΗ ΚΟΙΝΗΣ ΧΡΗΣΗΣ VODAFONE/14-11-2019",
+      "type": "Άλλο",
+      "file_url": "https://silia.eett.gr/silia/download/8fe7fbe1-77a0-4ea0-8efe-5d154ad909ec"
+    },
+    {
+      "document_number": "383156/14-11-2019",
+      "protocol_number": "ΥΠΕΥΘΥΝΗ ΔΗΛΩΣΗ ΔΙΑΣΥΝΔΕΣΗΣ VODAFONE/14-11-2019",
+      "type": "Άλλο",
+      "file_url": "https://silia.eett.gr/silia/download/56c88847-f68f-4fa1-b401-7b47ed97b361"
+    },
+    {
+      "document_number": "383157/14-11-2019",
+      "protocol_number": "ΜΕΛΕΤΗ ΡΑΔΙΟΕΚΠΟΜΠΩΝ/30-10-2019",
+      "type": "Αίτηση - Μελέτη Ραδιοεκπομπών ΕΕΑΕ",
+      "file_url": "https://silia.eett.gr/silia/download/63df4788-d6f2-44d7-a011-14b959e35aef"
+    },
+    {
+      "document_number": "383158/14-11-2019",
+      "protocol_number": "Δ3/Δ/36071/7468/12-12-2001",
+      "type": "Γνωμάτευση ΥΠΑ",
+      "file_url": "https://silia.eett.gr/silia/download/6553802d-49d1-478a-9049-a2add58218ca"
+    },
+    {
+      "document_number": "383159/14-11-2019",
+      "protocol_number": "ΤΟΠΟΓΡΑΦΙΚΟ & ΑΡΧΙΤΕΚΤΟΝΙΚΑ/",
+      "type": "Αρχιτεκτονικά Σχέδια",
+      "file_url": "https://silia.eett.gr/silia/download/154fe392-bc23-45a3-a601-856d02309c21"
+    },
+    {
+      "document_number": "408305/26-05-2020",
+      "protocol_number": "24144/09-04-2020",
+      "type": "Αίτηση ΓΕΑ",
+      "file_url": "https://silia.eett.gr/silia/download/6ae062d6-4f1f-4473-9308-56f6a2e5d8c8"
+    },
+    {
+      "document_number": "408518/27-05-2020",
+      "protocol_number": "Αρχείο Αίτησης/",
+      "type": "Αίτηση Άδειας Κατασκευής Κεραίας ΕΕΤΤ",
+      "file_url": "https://silia.eett.gr/silia/download/0ff35dfe-613e-4e52-8364-6f1b6146d813"
+    },
+    {
+      "document_number": "411706/24-06-2020",
+      "protocol_number": "Μ.ι./411/8179/2020/24-06-2020",
+      "type": "Γνωμάτευση ΕΕΑΕ",
+      "file_url": "https://silia.eett.gr/silia/download/6d600845-9617-44e1-9e51-35b3c298436f"
+    },
+    {
+      "document_number": "418391/08-10-2020",
+      "protocol_number": "ΥΠΕΥΘΥΝΗ ΔΗΛΩΣΗ ΕΞΑΙΡΕΣΗΣ ΓΕΑ/11-06-2020",
+      "type": "Άλλο",
+      "file_url": "https://silia.eett.gr/silia/download/46f587c5-9193-439e-8b8a-61baa9f8663d"
+    },
+    {
+      "document_number": "423998/03-12-2020",
+      "protocol_number": "Δ3/Δ/41093/3-12-2020/03-12-2020",
+      "type": "Γνωμάτευση ΥΠΑ",
+      "file_url": "https://silia.eett.gr/silia/download/ee84391c-6590-4b55-8549-ffc2735cfcac"
+    },
+    {
+      "document_number": "424006/03-12-2020",
+      "protocol_number": "ΥΠΕΥΘΥΝΗ ΔΗΛΩΣΗ ΕΞΑΙΡΕΣΗΣ ΓΕΑ/11-06-2020",
+      "type": "Άλλο",
+      "file_url": "https://silia.eett.gr/silia/download/b6fe4a9b-4950-4658-b710-aea211794268"
+    },
+    {
+      "document_number": "436601/22-06-2021",
+      "protocol_number": "40892/17-06-2021",
+      "type": "Άδεια Κατασκευής  Κεραίας",
+      "file_url": "https://silia.eett.gr/silia/download/4448ffea-1b9d-4791-983c-7b0d0d309396"
+    },
+    {
+      "document_number": "418386/08-10-2020",
+      "protocol_number": "Μ.ι./411/8179/2020/24-06-2020",
+      "type": "Γνωμάτευση ΕΕΑΕ",
+      "file_url": "https://silia.eett.gr/silia/download/6d600845-9617-44e1-9e51-35b3c298436f"
+    },
+    {
+      "document_number": "418387/08-10-2020",
+      "protocol_number": "289006/13-11-2019",
+      "type": "Αίτηση προς Αρμόδιο Φορέα",
+      "file_url": "https://silia.eett.gr/silia/download/44c1cebe-a0fd-4839-bdbb-881744024e1b"
+    },
+    {
+      "document_number": "418388/08-10-2020",
+      "protocol_number": "222950/05-10-2020",
+      "type": "Έγκριση Αρμοδίου Φορέα",
+      "file_url": "https://silia.eett.gr/silia/download/1e164bbf-730e-4730-b8e4-759108c55d42"
+    },
+    {
+      "document_number": "418392/08-10-2020",
+      "protocol_number": "Αρχείο Αίτησης/",
+      "type": "Δήλωση ΠΠΔ",
+      "file_url": "https://silia.eett.gr/silia/download/18b8f104-91a7-4313-a917-a94d82531217"
+    }
+  ]
+}

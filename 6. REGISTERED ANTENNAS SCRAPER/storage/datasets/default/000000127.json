@@ -1,0 +1,45 @@
+{
+  "antenna_id": "173352",
+  "address": "ΑΤΤΙΚΗ ΟΔΟΣ - ΤΟΥΝΕΛ ΠΑΝΑΓΟΥΛΗ",
+  "position_code": 1103670,
+  "municipality": "Αγίας Παρασκευής",
+  "code_name": "ΑΤΤΙΚΗ ΟΔΟΣ - ΤΟΥΝΕΛ ΠΑΝΑΓΟΥΛΗ",
+  "region": "Αττικής",
+  "latitude": 38.012778,
+  "company": "VODAFONE",
+  "longitude": 23.843333,
+  "permit_status": "Από τα στοιχεία που τηρούνται στην Ενημερωτική Πύλη προκύπτει ότι, για τη θέση \"ΑΤΤΙΚΗ ΟΔΟΣ - ΤΟΥΝΕΛ ΠΑΝΑΓΟΥΛΗ\" στον Δήμο Αγίας Παρασκευής Περιφέρειας  Αττικής \n\t(κωδικός αριθμός θέσης 1103670, κωδική ονομασία \"ΑΤΤΙΚΗ ΟΔΟΣ - ΤΟΥΝΕΛ ΠΑΝΑΓΟΥΛΗ\") έχει κατατεθεί από την εταιρία VODAFONE\tδήλωση εγκατάστασης κατασκευής κεραίας (αριθ. πρωτ. \n\t55853/15-05-2024) που εμπίπτει στις διατάξεις της νομοθεσίας για Εγκαταστάσεις Κατασκευών Κεραιών Χαμηλής Ηλεκτρομαγνητικής Περιβαλλοντικής Όχλησης (ΕΚΚΧΟ).",
+  "measurements_eaee": "-",
+  "documents": [
+    {
+      "document_number": "514963/14-05-2024",
+      "protocol_number": "Φωτορεαλιστική απεικόνιση ΕΚΚΧΟ/14-05-2024",
+      "type": "Φωτογραφικό Υλικό - Σκαρίφημα",
+      "file_url": "https://silia.eett.gr/silia/download/aSIxKvgeKdVaKbxO1YPhUBnimbH6acR4rX9s"
+    },
+    {
+      "document_number": "514965/14-05-2024",
+      "protocol_number": "Μελέτη ΕΚΚΧΟ/02-05-2024",
+      "type": "Άλλο",
+      "file_url": "https://silia.eett.gr/silia/download/2ml2hvpV16DEXGiGB2X1gYWHTats1t0dVGnC"
+    },
+    {
+      "document_number": "514966/14-05-2024",
+      "protocol_number": "Αρχιτεκτονικά Σχέδια ΕΚΚΧΟ/17-04-2024",
+      "type": "Τοπογραφικό",
+      "file_url": "https://silia.eett.gr/silia/download/Wiv4cNobvEiKgNCNCCr8y4n9B0W7uffmzZdy"
+    },
+    {
+      "document_number": "514970/14-05-2024",
+      "protocol_number": "Ψηφιακός χάρτης με προβολή της θέσης ΕΚΚΧΟ/14-05-2024",
+      "type": "Φωτογραφικό Υλικό - Σκαρίφημα",
+      "file_url": "https://silia.eett.gr/silia/download/oo75W4cvRD8nh0BwmwehbuZRTWIzMhuPFlym"
+    },
+    {
+      "document_number": "515014/15-05-2024",
+      "protocol_number": "Αρχείο Αίτησης/15-05-2024",
+      "type": "Δήλωση ΕΚΚΧΟ",
+      "file_url": "https://silia.eett.gr/silia/download/PIE8PU7flaRlPgW18uwRve5CHGtSisB7v6HV"
+    }
+  ]
+}

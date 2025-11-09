@@ -1,0 +1,39 @@
+{
+  "antenna_id": "152560",
+  "address": "Δήμος Γορτυνίας, Π.Ε Αρκαδίας, Περιφέρεια Πελοποννήσου",
+  "position_code": 3207223,
+  "municipality": "Γορτυνίας",
+  "code_name": "ΛΥΣΣΑΡΕΑ-Δ",
+  "region": "Πελοποννήσου",
+  "latitude": 37.655833,
+  "company": "ΕΡΤ ΑΕ",
+  "longitude": 21.928056,
+  "permit_status": "Από τα στοιχεία που τηρούνται στην Ενημερωτική Πύλη προκύπτει ότι για τη  θέση \"Δήμος Γορτυνίας, Π.Ε Αρκαδίας, Περιφέρεια Πελοποννήσου\" στον Δήμο Γορτυνίας Περιφέρειας  Πελοποννήσου έχει κατατεθεί από την εταιρία ΕΡΤ ΑΕ δήλωση δομικών κατασκευών κεραιών  \nμε αριθ. πρωτ. ΣΗΛΥΑ 38177/09-04-2020 κατά τα οριζόμενα στην παρ. 7 του άρθρου 34 του Ν.4635/2019.",
+  "measurements_eaee": "-",
+  "documents": [
+    {
+      "document_number": "400326/27-03-2020",
+      "protocol_number": "δορυφορική λήψη και στοιχεία δομικών κατασκευών/",
+      "type": "Άλλο",
+      "file_url": "https://silia.eett.gr/silia/download/de6a64c9-449f-4402-bf23-6bc0173b024e"
+    },
+    {
+      "document_number": "400504/30-03-2020",
+      "protocol_number": "απογραφή 1987/",
+      "type": "Άλλο",
+      "file_url": "https://silia.eett.gr/silia/download/f10589a7-aef7-4d4b-aa58-0fdf85167b80"
+    },
+    {
+      "document_number": "400505/30-03-2020",
+      "protocol_number": "πίνακας 51 απογραφής ΕΡΤ 1987/",
+      "type": "Άλλο",
+      "file_url": "https://silia.eett.gr/silia/download/e4bb46b4-0666-4eb1-8972-4cb6994a89fe"
+    },
+    {
+      "document_number": "401854/09-04-2020",
+      "protocol_number": "Αρχείο Αίτησης/",
+      "type": "Δήλωση Δομικών ΕΡΤ",
+      "file_url": "https://silia.eett.gr/silia/download/3f8af64c-1604-4d57-a7ad-482917b9de13"
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "antenna_id": "152725",
+  "address": "Περικλέους 11-13 & Δανάης, Γέρακας Αττικής.",
+  "position_code": 1155238,
+  "municipality": "Παλλήνης",
+  "code_name": "IN2SOLUTION GERAKAS",
+  "region": "Αττικής",
+  "latitude": 38.023056,
+  "company": "VODAFONE",
+  "longitude": 23.843333,
+  "permit_status": "Από τα στοιχεία που τηρούνται στην Ενημερωτική Πύλη προκύπτει ότι, για τη θέση \"Περικλέους 11-13 & Δανάης, Γέρακας Αττικής.\" στον Δήμο Παλλήνης Περιφέρειας  Αττικής \n\t(κωδικός αριθμός θέσης 1155238, κωδική ονομασία \"IN2SOLUTION GERAKAS\") έχει κατατεθεί από την εταιρία VODAFONE\tδήλωση εγκατάστασης κατασκευής κεραίας (αριθ. πρωτ. \n\t38118/09-04-2020) που εμπίπτει στις διατάξεις της νομοθεσίας για Εγκαταστάσεις Κατασκευών Κεραιών Χαμηλής Ηλεκτρομαγνητικής Περιβαλλοντικής Όχλησης (ΕΚΚΧΟ).",
+  "measurements_eaee": "-",
+  "documents": [
+    {
+      "document_number": "401754/09-04-2020",
+      "protocol_number": "ΣΚΑΡΙΦΗΜΑ ΘΕΣΗΣ ΥΠΟΔΕΚΤΗ ΕΚΚΧΟ - ΚΑΤΟΨΗ/",
+      "type": "Φωτογραφικό Υλικό - Σκαρίφημα",
+      "file_url": "https://silia.eett.gr/silia/download/5fc65f07-f79f-49be-ae03-92d4205346ff"
+    },
+    {
+      "document_number": "401755/09-04-2020",
+      "protocol_number": "ΣΚΑΡΙΦΗΜΑ ΘΕΣΗΣ ΚΕΡΑΙΑΣ ΕΚΚΧΟ (ΟΨΗ)/",
+      "type": "Φωτογραφικό Υλικό - Σκαρίφημα",
+      "file_url": "https://silia.eett.gr/silia/download/866c0b4d-47ab-4efb-ab6c-2c00e68e3473"
+    },
+    {
+      "document_number": "401756/09-04-2020",
+      "protocol_number": "ΦΩΤΟΓΡΑΦΙΑ ΘΕΣΗΣ ΚΕΡΑΙΑΣ 1/",
+      "type": "Φωτογραφικό Υλικό - Σκαρίφημα",
+      "file_url": "https://silia.eett.gr/silia/download/596584a8-e069-46d2-a5f3-c6bc68623c4e"
+    },
+    {
+      "document_number": "401757/09-04-2020",
+      "protocol_number": "Αρχείο Αίτησης/",
+      "type": "Δήλωση ΕΚΚΧΟ",
+      "file_url": "https://silia.eett.gr/silia/download/cab95f3e-6de6-4bf3-8300-d02f55ea2d54"
+    }
+  ]
+}

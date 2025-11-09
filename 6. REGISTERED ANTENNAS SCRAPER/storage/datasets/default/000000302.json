@@ -1,0 +1,39 @@
+{
+  "antenna_id": "170834",
+  "address": "ΚΑΣΤΡΑΚΙ, Δ. ΣΤΡΑΤΟΥ, Ν. ΑΙΤΩΛΟΑΚΑΡΝΑΝΙΑΣ",
+  "position_code": 1496418,
+  "municipality": "Αγρινίου",
+  "code_name": "HOL_DEH_YHS_STRATOU",
+  "region": "Δυτικής Ελλάδας",
+  "latitude": 38.738333,
+  "company": "OTE",
+  "longitude": 21.363056,
+  "permit_status": "Από τα στοιχεία που τηρούνται στην Ενημερωτική Πύλη προκύπτει ότι, για τη θέση \"ΚΑΣΤΡΑΚΙ, Δ. ΣΤΡΑΤΟΥ, Ν. ΑΙΤΩΛΟΑΚΑΡΝΑΝΙΑΣ\" στον Δήμο Αγρινίου Περιφέρειας  Δυτικής Ελλάδας \n\t(κωδικός αριθμός θέσης 1496418, κωδική ονομασία \"HOL_DEH_YHS_STRATOU\") έχει κατατεθεί από την εταιρία OTE\tδήλωση εγκατάστασης κατασκευής κεραίας (αριθ. πρωτ. \n\t54684/07-02-2024) που εμπίπτει στις διατάξεις της νομοθεσίας για Εγκαταστάσεις Κατασκευών Κεραιών Χαμηλής Ηλεκτρομαγνητικής Περιβαλλοντικής Όχλησης (ΕΚΚΧΟ).",
+  "measurements_eaee": "-",
+  "documents": [
+    {
+      "document_number": "499436/01-11-2023",
+      "protocol_number": "ΦΩΤΟΓΡΑΦΙΑ/",
+      "type": "Φωτογραφικό Υλικό - Σκαρίφημα",
+      "file_url": "https://silia.eett.gr/silia/download/64dc8a27-946c-4ba5-8da1-02cf6b16c910"
+    },
+    {
+      "document_number": "506643/05-02-2024",
+      "protocol_number": "ΜΕΣΩ ΣΗΛΥΑ/",
+      "type": "Αίτηση - Μελέτη Ραδιοεκπομπών ΕΕΑΕ",
+      "file_url": "https://silia.eett.gr/silia/download/fddc32fd-4ef3-47ab-a3c8-d46932f0fd71"
+    },
+    {
+      "document_number": "506894/07-02-2024",
+      "protocol_number": "Αρχείο Αίτησης/",
+      "type": "Δήλωση ΕΚΚΧΟ",
+      "file_url": "https://silia.eett.gr/silia/download/e588fae1-515c-42ef-afdf-1e824e8ac10f"
+    },
+    {
+      "document_number": "527501/02-10-2024",
+      "protocol_number": "ΥΠ.ΔΗΛΩΣΗ/02-10-2024",
+      "type": "Άλλο",
+      "file_url": "https://silia.eett.gr/silia/download/K2nuwvuOgUUQfFkhX2GQqNBGCvXgqYpzecoz"
+    }
+  ]
+}

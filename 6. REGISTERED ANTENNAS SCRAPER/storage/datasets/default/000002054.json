@@ -1,0 +1,87 @@
+{
+  "antenna_id": "144462",
+  "address": "ΟΔΟΣ ΕΠΤΑΠΥΡΓΙΟΥ 10, ΣΥΚΙΕΣ",
+  "position_code": 1204027,
+  "municipality": "Νεάπολης - Συκεών",
+  "code_name": "ΚΟΜΒΟΣ ΕΠΤΑΠΥΡΓΙΟΥ",
+  "region": "Κεντρικής Μακεδονίας",
+  "latitude": 40.653889,
+  "company": "NOVA Μ.Α.Ε.",
+  "longitude": 22.952222,
+  "permit_status": "Από τα στοιχεία που τηρούνται στην Ενημερωτική Πύλη προκύπτει ότι, για τη θέση \"ΟΔΟΣ ΕΠΤΑΠΥΡΓΙΟΥ 10, ΣΥΚΙΕΣ\" στον Δήμο Νεάπολης - Συκεών Περιφέρειας  Κεντρικής Μακεδονίας \n\t(κωδικός αριθμός θέσης 1204027, κωδική ονομασία \"ΚΟΜΒΟΣ ΕΠΤΑΠΥΡΓΙΟΥ\") χορηγήθηκε, με την Απόφαση της ΕΕΤΤ \n37800/Φ610/09-11-2020, άδεια κατασκευής κεραίας στην εταιρία NOVA Μ.Α.Ε.. \nΑπό τo έγγραφο της άδειας μπορείτε να ενημερωθείτε για τις σχετικές εγκρίσεις των συναρμόδιων φορέων, καθώς και εάν πρόκειται για τροποποίηση παλαιότερης άδειας.\nΗ άδεια χορηγήθηκε με τη διαδικασία αδειοδότησης που ορίζει ο ν. 4635/2019, κατόπιν της με αριθ. πρωτ. 34715/04-10-2019 \n\tαίτησης, και βάσει σχετικής δήλωσης του κατόχου της περί υπαγωγή της κατασκευής κεραίας στο άρθρο 34 του ν. 4635/2019.",
+  "measurements_eaee": "-",
+  "documents": [
+    {
+      "document_number": "378261/04-10-2019",
+      "protocol_number": "Δ3/Δ/13809/3287/18-06-2007",
+      "type": "Γνωμάτευση ΥΠΑ",
+      "file_url": "https://silia.eett.gr/silia/download/809f69a5-3131-4c27-9403-d0896a910b66"
+    },
+    {
+      "document_number": "378262/04-10-2019",
+      "protocol_number": "ΜΕΛΕΤΗ ΡΑΔΙΟΕΚΠΟΜΠΩΝ/04-10-2019",
+      "type": "Αίτηση - Μελέτη Ραδιοεκπομπών ΕΕΑΕ",
+      "file_url": "https://silia.eett.gr/silia/download/0a9c821a-b3d8-49f3-93b5-6b57ae435a9a"
+    },
+    {
+      "document_number": "378263/04-10-2019",
+      "protocol_number": "ΤΟΠΟΓΡΑΦΙΚΟ/",
+      "type": "Τοπογραφικό",
+      "file_url": "https://silia.eett.gr/silia/download/954c6a7d-1cb3-4be5-8983-5971a89fb0a8"
+    },
+    {
+      "document_number": "378264/04-10-2019",
+      "protocol_number": "ΑΡΧΙΤΕΚΤΟΝΙΚΑ ΣΧΕΔΙΑ/",
+      "type": "Αρχιτεκτονικά Σχέδια",
+      "file_url": "https://silia.eett.gr/silia/download/e4208ebd-97d2-4612-97ee-556c47868aa1"
+    },
+    {
+      "document_number": "378284/04-10-2019",
+      "protocol_number": "ΥΠΕΥΘΥΝΗ ΔΗΛΩΣΗ ΔΙΑΣΥΝΔΕΣΗΣ WIND/04-10-2019",
+      "type": "Άλλο",
+      "file_url": "https://silia.eett.gr/silia/download/95b16326-eab3-479c-8e37-2b8d36d5f4a2"
+    },
+    {
+      "document_number": "378285/04-10-2019",
+      "protocol_number": "Αρχείο Αίτησης/",
+      "type": "Αίτηση Άδειας Κατασκευής Κεραίας ΕΕΤΤ",
+      "file_url": "https://silia.eett.gr/silia/download/82936050-d1fa-47a2-bcfa-12fcad2d4e24"
+    },
+    {
+      "document_number": "391362/28-01-2020",
+      "protocol_number": "Μ.ι./411/1411/2020/27-01-2020",
+      "type": "Γνωμάτευση ΕΕΑΕ",
+      "file_url": "https://silia.eett.gr/silia/download/f0e905eb-bd2c-4fcf-8411-c8c4b6573b1f"
+    },
+    {
+      "document_number": "402158/13-04-2020",
+      "protocol_number": "21385/27-03-2020",
+      "type": "Αίτηση ΓΕΑ",
+      "file_url": "https://silia.eett.gr/silia/download/ea895058-9b3f-402a-a889-205b64cda315"
+    },
+    {
+      "document_number": "410068/05-06-2020",
+      "protocol_number": "ΥΠΕΥΘΥΝΗ ΔΗΛΩΣΗ ΜΕΤΑΒΑΣΗΣ ΣΕ ΑΙΤΗΣΗ 4635/19/22-05-2020",
+      "type": "Άλλο",
+      "file_url": "https://silia.eett.gr/silia/download/b13431fa-b243-4dd4-80fb-9ff712a9b042"
+    },
+    {
+      "document_number": "421388/11-11-2020",
+      "protocol_number": "37800/Φ610/09-11-2020",
+      "type": "Άδεια Κατασκευής  Κεραίας",
+      "file_url": "https://silia.eett.gr/silia/download/2054e839-59ac-4502-a5a4-72ab194de894"
+    },
+    {
+      "document_number": "378265/04-10-2019",
+      "protocol_number": "ΜΕΛΕΤΗ ΡΑΔΙΟΕΚΠΟΜΠΩΝ/04-10-2019",
+      "type": "Αίτηση - Μελέτη Ραδιοεκπομπών ΕΕΑΕ",
+      "file_url": "https://silia.eett.gr/silia/download/0a9c821a-b3d8-49f3-93b5-6b57ae435a9a"
+    },
+    {
+      "document_number": "378286/04-10-2019",
+      "protocol_number": "Αρχείο Αίτησης/",
+      "type": "Δήλωση ΠΠΔ",
+      "file_url": "https://silia.eett.gr/silia/download/ef83fe72-38d9-4b9b-9234-77473526daef"
+    }
+  ]
+}

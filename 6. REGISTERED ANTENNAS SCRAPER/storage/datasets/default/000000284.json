@@ -1,0 +1,39 @@
+{
+  "antenna_id": "161584",
+  "address": "ΦΡΑΓΚΙΣΤΑ  ΠΕΡ. ΣΤΕΡΕΑΣ ΕΛΛΑΔΑΣ",
+  "position_code": 3206060,
+  "municipality": "Αγράφων",
+  "code_name": "ΦΡΑΓΚΙΣΤΑ",
+  "region": "Στερεάς Ελλάδας",
+  "latitude": 38.989444,
+  "company": "ΕΡΤ ΑΕ",
+  "longitude": 21.598056,
+  "permit_status": "Από τα στοιχεία που τηρούνται στην Ενημερωτική Πύλη προκύπτει ότι για τη  θέση \"ΦΡΑΓΚΙΣΤΑ  ΠΕΡ. ΣΤΕΡΕΑΣ ΕΛΛΑΔΑΣ\" στον Δήμο Αγράφων Περιφέρειας  Στερεάς Ελλάδας έχει κατατεθεί από την εταιρία ΕΡΤ ΑΕ δήλωση κατασκευής κεραίας τηλεοπτικής ευρυεκπομπής με αριθ. πρωτ. ΣΗΛΥΑ \n45843/10-12-2021 κατά τα οριζόμενα στην παρ. 7 του άρθρου 39 του Ν.4635/2019.",
+  "measurements_eaee": "-",
+  "documents": [
+    {
+      "document_number": "447711/10-12-2021",
+      "protocol_number": "screenshot/",
+      "type": "Φωτογραφικό Υλικό - Σκαρίφημα",
+      "file_url": "https://silia.eett.gr/silia/download/ac1b8edb-ab8d-40aa-8dfc-10fc5e79d62a"
+    },
+    {
+      "document_number": "447712/10-12-2021",
+      "protocol_number": "Επαναυποβολή_ΥΠΑ_μετάβαση/",
+      "type": "Αίτηση ΥΠΑ",
+      "file_url": "https://silia.eett.gr/silia/download/1b3d0dd0-96b4-441b-940d-b2b0c340b9a7"
+    },
+    {
+      "document_number": "447713/10-12-2021",
+      "protocol_number": "Αρχείο Αίτησης/",
+      "type": "Δήλωση Τηλεοπτικής Ευρυεκπομπής",
+      "file_url": "https://silia.eett.gr/silia/download/e5966940-42f5-44d4-881e-3b46ce670a72"
+    },
+    {
+      "document_number": "461598/15-06-2022",
+      "protocol_number": "ΚΓ/Δ3/Δ/15405/15/6/2022/15-06-2022",
+      "type": "Γνωμάτευση ΥΠΑ",
+      "file_url": "https://silia.eett.gr/silia/download/ed8993f4-f495-437a-90c0-5fcccf103572"
+    }
+  ]
+}

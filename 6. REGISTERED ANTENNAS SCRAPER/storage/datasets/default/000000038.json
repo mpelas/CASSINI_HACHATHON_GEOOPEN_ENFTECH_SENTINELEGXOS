@@ -1,0 +1,45 @@
+{
+  "antenna_id": "172828",
+  "address": "ΑΓΙΑ ΛΑΡΙΣΑΣ",
+  "position_code": 1142108,
+  "municipality": "Αγιάς",
+  "code_name": "3032108 SYZEFXIS KEP AGIAS LARISSAS",
+  "region": "Θεσσαλίας",
+  "latitude": 39.718889,
+  "company": "VODAFONE",
+  "longitude": 22.755833,
+  "permit_status": "Από τα στοιχεία που τηρούνται στην Ενημερωτική Πύλη προκύπτει ότι, για τη θέση \"ΑΓΙΑ ΛΑΡΙΣΑΣ\" στον Δήμο Αγιάς Περιφέρειας  Θεσσαλίας \n\t(κωδικός αριθμός θέσης 1142108, κωδική ονομασία \"3032108 SYZEFXIS KEP AGIAS LARISSAS\") έχει κατατεθεί από την εταιρία VODAFONE\tδήλωση εγκατάστασης κατασκευής κεραίας (αριθ. πρωτ. \n\t55416/29-03-2024) που εμπίπτει στις διατάξεις της νομοθεσίας για Εγκαταστάσεις Κατασκευών Κεραιών Χαμηλής Ηλεκτρομαγνητικής Περιβαλλοντικής Όχλησης (ΕΚΚΧΟ).",
+  "measurements_eaee": "-",
+  "documents": [
+    {
+      "document_number": "511721/29-03-2024",
+      "protocol_number": "Φωτορεαλιστική απεικόνιση κεραίας ΕΚΚΧΟ/29-03-2024",
+      "type": "Φωτογραφικό Υλικό - Σκαρίφημα",
+      "file_url": "https://silia.eett.gr/silia/download/uttdf3PYsEXtew5OpxieUKcQGaGi02QDtM72"
+    },
+    {
+      "document_number": "511722/29-03-2024",
+      "protocol_number": "Ψηφιακός χάρτης με προβολή της θέσης ΕΚΚΧΟ/29-03-2024",
+      "type": "Φωτογραφικό Υλικό - Σκαρίφημα",
+      "file_url": "https://silia.eett.gr/silia/download/aQ1wWOCBXiMQcOpnKwuQxQRoVuB3PbEkthe1"
+    },
+    {
+      "document_number": "511723/29-03-2024",
+      "protocol_number": "ΜΕΛΕΤΗ ΕΚΚΧΟ/29-03-2024",
+      "type": "Άλλο",
+      "file_url": "https://silia.eett.gr/silia/download/xwGsy8rg5Ax16GYzcUHv1aC3oS6LhvcwRbgo"
+    },
+    {
+      "document_number": "511724/29-03-2024",
+      "protocol_number": "Σκαρίφημα με περιοχή απαγόρευσης/29-03-2024",
+      "type": "Φωτογραφικό Υλικό - Σκαρίφημα",
+      "file_url": "https://silia.eett.gr/silia/download/14Se3HOn7VqCZrmMFpM9f7ZrVUIfiInFuabV"
+    },
+    {
+      "document_number": "511725/29-03-2024",
+      "protocol_number": "Αρχείο Αίτησης/29-03-2024",
+      "type": "Δήλωση ΕΚΚΧΟ",
+      "file_url": "https://silia.eett.gr/silia/download/AQzhYN1Eff6vgWK4XA4CWYDpGqZDtAxZoaqR"
+    }
+  ]
+}

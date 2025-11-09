@@ -1,0 +1,99 @@
+{
+  "antenna_id": "179333",
+  "address": "ΟΛΥΜΠΙΑΚΟ ΚΕΝΤΡΟ ΓΑΛΑΤΣΙ (Λεωφ. Βεΐκου)",
+  "position_code": 1114980,
+  "municipality": "Γαλατσίου",
+  "code_name": "VAN ΓΑΛΑΤΣΙ ΟΛΥΜΠΙΑΚΟ ΚΕΝΤΡΟ",
+  "region": "Αττικής",
+  "latitude": 38.026944,
+  "company": "VODAFONE",
+  "longitude": 23.761944,
+  "permit_status": "Από τα στοιχεία που τηρούνται στην Ενημερωτική Πύλη προκύπτει ότι, για τη θέση \"ΟΛΥΜΠΙΑΚΟ ΚΕΝΤΡΟ ΓΑΛΑΤΣΙ (Λεωφ. Βεΐκου)\" στον Δήμο Γαλατσίου Περιφέρειας  Αττικής \n\t(κωδικός αριθμός θέσης 1114980, κωδική ονομασία \"VAN ΓΑΛΑΤΣΙ ΟΛΥΜΠΙΑΚΟ ΚΕΝΤΡΟ\") έχει υποβληθεί από την εταιρία VODAFONE\tη με αριθ. πρωτ. ΣΗΛΥΑ 60895/05-05-2025 δήλωση εγκατάστασης κατασκευής κεραίας μεταφερόμενου σταθμού, \n\tσύμφωνα με τα οριζόμενα στην παρ. 3 του άρθρου 13 του Κανονισμού Αδειών Κατασκευών Κεραιών της ΕΕΤΤ.",
+  "measurements_eaee": "-",
+  "documents": [
+    {
+      "document_number": "548283/05-05-2025",
+      "protocol_number": "ΤΟΠΟΓΡΑΦΙΚΟ/30-04-2025",
+      "type": "Τοπογραφικό",
+      "file_url": "https://silia.eett.gr/silia/download/8BluSWK4P2uG6elmUyhcx8cVf11E3zdHi465"
+    },
+    {
+      "document_number": "548284/05-05-2025",
+      "protocol_number": "ΣΧΕΔΙΑ/30-04-2025",
+      "type": "Αρχιτεκτονικά Σχέδια",
+      "file_url": "https://silia.eett.gr/silia/download/aafmKdwcsA6DcboHGFN03ibiou4TaKWv8qVP"
+    },
+    {
+      "document_number": "548285/05-05-2025",
+      "protocol_number": "Μελέτη Ρ-Ε/02-05-2025",
+      "type": "Μελέτη Ραδιοεκπομπών",
+      "file_url": "https://silia.eett.gr/silia/download/cFyKzuqRQFxIoKTgfHw40NN65lvIvfFyaZcs"
+    },
+    {
+      "document_number": "548286/05-05-2025",
+      "protocol_number": "Τεχνικά Στοιχεία/02-05-2025",
+      "type": "Άλλο",
+      "file_url": "https://silia.eett.gr/silia/download/yEhQheGKPDt6luzS1EsM13fXg7T6arpNSpoB"
+    },
+    {
+      "document_number": "548293/05-05-2025",
+      "protocol_number": "Αποτελέσματα Μελέτης 2600MHz/02-05-2025",
+      "type": "Αποτελέσματα μελέτης στη ζώνης 2.6GHz για ΥΠΑ/ΓΕΕΘΑ",
+      "file_url": "https://silia.eett.gr/silia/download/UbIqIusPVlkVnMrLEDoUW2ephwGsYyzRnXx3"
+    },
+    {
+      "document_number": "548303/05-05-2025",
+      "protocol_number": "Αρχείο Αίτησης/05-05-2025",
+      "type": "Δήλωση Μεταφερόμενου Σταθμού",
+      "file_url": "https://silia.eett.gr/silia/download/UKgMDN7Tp3gqrLf2i767uKaDvIs0X2evTtqd"
+    },
+    {
+      "document_number": "548478/06-05-2025",
+      "protocol_number": "ΜΕΛΕΤΗ ΡΕ/06-05-2025",
+      "type": "Αίτηση - Μελέτη Ραδιοεκπομπών ΕΕΑΕ",
+      "file_url": "https://silia.eett.gr/silia/download/Pxi2kirRqLc2rARaiHa4gM3SGeMktBg1YKRP"
+    },
+    {
+      "document_number": "548696/08-05-2025",
+      "protocol_number": "ΤΜΙΑ/411/6066/2025/07-05-2025",
+      "type": "Γνωμάτευση ΕΕΑΕ",
+      "file_url": "https://silia.eett.gr/silia/download/KQAgRYOpmNGH33nRufvmqLGXyedhVWiGCLxf"
+    },
+    {
+      "document_number": "548825/09-05-2025",
+      "protocol_number": "ΚΓ/Δ3/Δ/8740/09-05-2025",
+      "type": "Γνωμάτευση ΥΠΑ",
+      "file_url": "https://silia.eett.gr/silia/download/lazZmcpr0AF4HEDt5xPnPL6SoAE9mCyPE208"
+    },
+    {
+      "document_number": "550614/27-05-2025",
+      "protocol_number": "193268/16-05-2025",
+      "type": "Έγκριση Αρμοδίου Φορέα",
+      "file_url": "https://silia.eett.gr/silia/download/GFyMKs1zITfl0TWv74TCPkQNnnp1gsXt2Tpn"
+    },
+    {
+      "document_number": "550615/27-05-2025",
+      "protocol_number": "67362/27-05-2025",
+      "type": "Αποτελέσματα μελέτης στη ζώνης 2.6GHz για ΥΠΑ/ΓΕΕΘΑ",
+      "file_url": "https://silia.eett.gr/silia/download/4HOGZHU1uqobsYp71LXSgmfKLi786giW8goh"
+    },
+    {
+      "document_number": "551262/02-06-2025",
+      "protocol_number": "Υ.Δ. Εγκατάστασης/02-06-2025",
+      "type": "Άλλο",
+      "file_url": "https://silia.eett.gr/silia/download/4VBFPhWnTgkiaRSP0ZqyVGFg0MgX8hppP1rr"
+    },
+    {
+      "document_number": "551663/05-06-2025",
+      "protocol_number": "Μελέτη Παρεμβολών (εκπομπών 2600ΜΗz VF)/03-06-2025",
+      "type": "Μελέτη για τη ζώνη  2,6GHz",
+      "file_url": "https://silia.eett.gr/silia/download/oOxIGTcYt5EoYYPOADBWx2519icFfKTq4XLs"
+    },
+    {
+      "document_number": "551664/05-06-2025",
+      "protocol_number": "193423/04-06-2025",
+      "type": "Έγκριση Αρμοδίου Φορέα",
+      "file_url": "https://silia.eett.gr/silia/download/cCGy4GiETRPUsdVhwSp86LOo7ev0RoKGH8ci"
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "antenna_id": "177572",
+  "address": "Πλησίον Τοπικής Κοινότητας Πραστού ΑΣΤΡΟΣ Βόρεια Κυνουρία.",
+  "position_code": 1143652,
+  "municipality": "Βόρειας Κυνουρίας",
+  "code_name": "3033652 ALLANTOBIOMHXANIA ASTROS",
+  "region": "Πελοποννήσου",
+  "latitude": 37.328333,
+  "company": "VODAFONE",
+  "longitude": 22.723611,
+  "permit_status": "Από τα στοιχεία που τηρούνται στην Ενημερωτική Πύλη προκύπτει ότι, για τη θέση \"Πλησίον Τοπικής Κοινότητας Πραστού ΑΣΤΡΟΣ Βόρεια Κυνουρία.\" στον Δήμο Βόρειας Κυνουρίας Περιφέρειας  Πελοποννήσου \n\t(κωδικός αριθμός θέσης 1143652, κωδική ονομασία \"3033652 ALLANTOBIOMHXANIA ASTROS\") έχει κατατεθεί από την εταιρία VODAFONE\tδήλωση εγκατάστασης κατασκευής κεραίας (αριθ. πρωτ. \n\t59316/07-02-2025) που εμπίπτει στις διατάξεις της νομοθεσίας για Εγκαταστάσεις Κατασκευών Κεραιών Χαμηλής Ηλεκτρομαγνητικής Περιβαλλοντικής Όχλησης (ΕΚΚΧΟ).",
+  "measurements_eaee": "-",
+  "documents": [
+    {
+      "document_number": "540250/07-02-2025",
+      "protocol_number": "Φωτορεαλιστική απεικόνιση κεραίας ΕΚΚΧΟ/07-02-2025",
+      "type": "Φωτογραφικό Υλικό - Σκαρίφημα",
+      "file_url": "https://silia.eett.gr/silia/download/cwviLYKXPlMqsIxDErwIGVXAwzgfttvmznpA"
+    },
+    {
+      "document_number": "540251/07-02-2025",
+      "protocol_number": "Ψηφιακός χάρτης με προβολή της θέσης ΕΚΚΧΟ/07-02-2025",
+      "type": "Φωτογραφικό Υλικό - Σκαρίφημα",
+      "file_url": "https://silia.eett.gr/silia/download/gO4qRwypgi1cR0A1V4ncss6LazKFiZ4ZxrGf"
+    },
+    {
+      "document_number": "540252/07-02-2025",
+      "protocol_number": "Σκαρίφημα θέσης κεραίας ΕΚΚΧΟ/07-02-2025",
+      "type": "Φωτογραφικό Υλικό - Σκαρίφημα",
+      "file_url": "https://silia.eett.gr/silia/download/fOAAtcTrrEg3RVgaCgElT7kwneKPIEC17FrF"
+    },
+    {
+      "document_number": "540253/07-02-2025",
+      "protocol_number": "ΜΕΛΕΤΗ ΕΚΚΧΟ/07-02-2025",
+      "type": "Άλλο",
+      "file_url": "https://silia.eett.gr/silia/download/lqMTmKhutueGWks3t9mUHx3gz2fPi9L0eVwm"
+    },
+    {
+      "document_number": "540254/07-02-2025",
+      "protocol_number": "Αρχείο Αίτησης/07-02-2025",
+      "type": "Δήλωση ΕΚΚΧΟ",
+      "file_url": "https://silia.eett.gr/silia/download/egDdKVzDGGOS9frRUShiMxM14VMKKfZpE9ZG"
+    }
+  ]
+}

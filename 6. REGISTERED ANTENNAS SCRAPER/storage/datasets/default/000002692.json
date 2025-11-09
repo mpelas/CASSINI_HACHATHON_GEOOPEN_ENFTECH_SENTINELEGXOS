@@ -1,0 +1,117 @@
+{
+  "antenna_id": "143283",
+  "address": "ΟΔΟΣ ΓΡ. ΛΑΜΠΡΑΚΗ 17 ΠΕΙΡΑΙΑΣ",
+  "position_code": 1211112,
+  "municipality": "Πειραιώς",
+  "code_name": "ΠΕΙΡΑΙΑΣ 2",
+  "region": "Αττικής",
+  "latitude": 37.946389,
+  "company": "NOVA Μ.Α.Ε.",
+  "longitude": 23.655,
+  "permit_status": "Από τα στοιχεία που τηρούνται στην Ενημερωτική Πύλη προκύπτει ότι, για τη θέση \"ΟΔΟΣ ΓΡ. ΛΑΜΠΡΑΚΗ 17 ΠΕΙΡΑΙΑΣ\" στον Δήμο Πειραιώς Περιφέρειας  Αττικής \n\t(κωδικός αριθμός θέσης 1211112, κωδική ονομασία \"ΠΕΙΡΑΙΑΣ 2\") χορηγήθηκε, με την Απόφαση της ΕΕΤΤ \n36232/Φ.610/01-07-2020, άδεια κατασκευής κεραίας στην εταιρία NOVA Μ.Α.Ε.. \nΑπό τo έγγραφο της άδειας μπορείτε να ενημερωθείτε για τις σχετικές εγκρίσεις των συναρμόδιων φορέων, καθώς και εάν πρόκειται για τροποποίηση παλαιότερης άδειας.",
+  "measurements_eaee": "-",
+  "documents": [
+    {
+      "document_number": "371294/23-07-2019",
+      "protocol_number": "32514/Φ615/13-05-2019",
+      "type": "Χορήγηση Δικαιώματος Χρήσης Ραδιοσυχνοτήτων",
+      "file_url": null
+    },
+    {
+      "document_number": "371295/23-07-2019",
+      "protocol_number": "Δ3/Δ/40227/9629/15-12-2011",
+      "type": "Γνωμάτευση ΥΠΑ",
+      "file_url": "https://silia.eett.gr/silia/download/b0fdc39a-a66d-4e89-aa1a-a43e18b0fbc2"
+    },
+    {
+      "document_number": "371296/23-07-2019",
+      "protocol_number": "Δ3/Δ/8454/30-09-2015",
+      "type": "Γνωμάτευση ΥΠΑ",
+      "file_url": "https://silia.eett.gr/silia/download/508cf137-49c6-43b6-921a-f9b9bf1dcdd7"
+    },
+    {
+      "document_number": "371297/23-07-2019",
+      "protocol_number": "Δ3/Δ/358/18-01-2016",
+      "type": "Γνωμάτευση ΥΠΑ",
+      "file_url": "https://silia.eett.gr/silia/download/4487fc73-ec22-483c-9c82-d52f67b2b403"
+    },
+    {
+      "document_number": "371298/23-07-2019",
+      "protocol_number": "ΜΕΛΕΤΗ ΡΑΔΙΟΕΚΠΟΜΠΩΝ/19-07-2019",
+      "type": "Αίτηση - Μελέτη Ραδιοεκπομπών ΕΕΑΕ",
+      "file_url": "https://silia.eett.gr/silia/download/cea8744b-788f-4226-8ec2-9bae0e2f9143"
+    },
+    {
+      "document_number": "371299/23-07-2019",
+      "protocol_number": "ΤΟΠΟΓΡΑΦΙΚΟ/",
+      "type": "Τοπογραφικό",
+      "file_url": "https://silia.eett.gr/silia/download/3c946d49-8531-46e1-bbfd-25fb365453f3"
+    },
+    {
+      "document_number": "371300/23-07-2019",
+      "protocol_number": "ΑΡΧΙΤΕΚΤΟΝΙΚΑ ΣΧΕΔΙΑ/",
+      "type": "Αρχιτεκτονικά Σχέδια",
+      "file_url": "https://silia.eett.gr/silia/download/8b370299-ea50-427b-aeb1-a1f42b6ea2be"
+    },
+    {
+      "document_number": "371302/23-07-2019",
+      "protocol_number": "ΜΕΛΕΤΗ ΥΠΟΒΑΘΡΟΥ/22-07-2019",
+      "type": "Αίτηση - Μελέτη Ραδιοεκπομπών ΕΕΑΕ (υποβάθρου)",
+      "file_url": "https://silia.eett.gr/silia/download/40e7cc3c-c9a9-486f-9803-edde00484163"
+    },
+    {
+      "document_number": "371303/23-07-2019",
+      "protocol_number": "ΧΧΓ  /",
+      "type": "Χάρτης Ευαίσθητων Χρήσεων Γης",
+      "file_url": "https://silia.eett.gr/silia/download/b7e5ade6-ce4d-430b-a82e-504991ca307b"
+    },
+    {
+      "document_number": "371304/23-07-2019",
+      "protocol_number": "ΜΕΛΕΤΗ ΣΥΜΒΑΤΟΤΗΤΑΣ/19-07-2019",
+      "type": "Μελέτη για τη ζώνη  2,6GHz",
+      "file_url": "https://silia.eett.gr/silia/download/5d4fd9d3-3dc7-41af-a3da-069ffdb8d94a"
+    },
+    {
+      "document_number": "371308/23-07-2019",
+      "protocol_number": "Αρχείο Αίτησης/",
+      "type": "Αίτηση Άδειας Κατασκευής Κεραίας ΕΕΤΤ",
+      "file_url": "https://silia.eett.gr/silia/download/a9092275-dab6-4ec3-94bf-0d326c263f14"
+    },
+    {
+      "document_number": "381013/24-10-2019",
+      "protocol_number": "Μ.ι./411/15336/2019/24-10-2019",
+      "type": "Γνωμάτευση ΕΕΑΕ",
+      "file_url": "https://silia.eett.gr/silia/download/7c7762ff-3464-40b8-9378-7010a7ac81ad"
+    },
+    {
+      "document_number": "413367/20-07-2020",
+      "protocol_number": "36232/Φ.610/01-07-2020",
+      "type": "Άδεια Κατασκευής  Κεραίας",
+      "file_url": "https://silia.eett.gr/silia/download/b8b43e7c-ed50-4601-b177-2fb317d8f6eb"
+    },
+    {
+      "document_number": "371305/23-07-2019",
+      "protocol_number": "ΜΕΛΕΤΗ ΡΑΔΙΟΕΚΠΟΜΠΩΝ/19-07-2019",
+      "type": "Αίτηση - Μελέτη Ραδιοεκπομπών ΕΕΑΕ",
+      "file_url": "https://silia.eett.gr/silia/download/cea8744b-788f-4226-8ec2-9bae0e2f9143"
+    },
+    {
+      "document_number": "371306/23-07-2019",
+      "protocol_number": "ΜΕΛΕΤΗ ΥΠΟΒΑΘΡΟΥ/22-07-2019",
+      "type": "Αίτηση - Μελέτη Ραδιοεκπομπών ΕΕΑΕ (υποβάθρου)",
+      "file_url": "https://silia.eett.gr/silia/download/40e7cc3c-c9a9-486f-9803-edde00484163"
+    },
+    {
+      "document_number": "371307/23-07-2019",
+      "protocol_number": "ΧΧΓ  /",
+      "type": "Χάρτης Ευαίσθητων Χρήσεων Γης",
+      "file_url": "https://silia.eett.gr/silia/download/b7e5ade6-ce4d-430b-a82e-504991ca307b"
+    },
+    {
+      "document_number": "371309/23-07-2019",
+      "protocol_number": "Αρχείο Αίτησης/",
+      "type": "Δήλωση ΠΠΔ",
+      "file_url": "https://silia.eett.gr/silia/download/e7b04136-56aa-40a3-83e5-b33660830940"
+    }
+  ]
+}

@@ -1,0 +1,105 @@
+{
+  "antenna_id": "166949",
+  "address": "ΕΠΕΚΤΑΣΗ ΣΧΕΔΙΟΥ Ν. ΠΕΡΑΜΟΥ - Ο.Τ. 272",
+  "position_code": 1290845,
+  "municipality": "Παγγαίου",
+  "code_name": "NEA PERAMOS KAVALAS 1",
+  "region": "Ανατ. Μακεδονίας και Θράκης",
+  "latitude": 40.850278,
+  "company": "NOVA Μ.Α.Ε.",
+  "longitude": 24.306667,
+  "permit_status": "Από τα στοιχεία που τηρούνται στην Ενημερωτική Πύλη προκύπτει ότι, για τη θέση \"ΕΠΕΚΤΑΣΗ ΣΧΕΔΙΟΥ Ν. ΠΕΡΑΜΟΥ - Ο.Τ. 272 \" στον Δήμο Παγγαίου Περιφέρειας  Ανατ. Μακεδονίας και Θράκης \n\t(κωδικός αριθμός θέσης 1290845, κωδική ονομασία \"NEA PERAMOS KAVALAS 1\") χορηγήθηκε, με την Απόφαση της ΕΕΤΤ \n48101/30-05-2023, άδεια κατασκευής κεραίας στην εταιρία NOVA Μ.Α.Ε.. \nΑπό τo έγγραφο της άδειας μπορείτε να ενημερωθείτε για τις σχετικές εγκρίσεις των συναρμόδιων φορέων, καθώς και εάν πρόκειται για τροποποίηση παλαιότερης άδειας.\n\tΣύμφωνα με τα στοιχεία που έχουν υποβληθεί στο ΣΗΛΥΑ, ο κάτοχος της κατασκευής κεραίας έχει δηλώσει ότι θα προβεί σε έκδοση έγκρισης δομικών κατασκευών \n\t\tκεραίας μέσω του e-Άδειες \n\t\tμετά την έκδοση της άδειας κατασκευής κεραίας / δημοσιοποίηση της δήλωσης τροποποίησης της κατασκευής κεραίας",
+  "measurements_eaee": "-",
+  "documents": [
+    {
+      "document_number": "478278/16-02-2023",
+      "protocol_number": "ΣΥΝΗΜΕΝΝΟΣ  ΜΕ ΤΗΝ ΚΑΤΑΘΕΣΗ ΣΤΗΝ ΥΠΑ/",
+      "type": "Απόσπασμα Χάρτη ΓΥΣ 1:50.000",
+      "file_url": "https://silia.eett.gr/silia/download/e948bb45-96ed-41bd-be23-536544001c7f"
+    },
+    {
+      "document_number": "478279/16-02-2023",
+      "protocol_number": "ΣΥΝΗΜΕΝΝΗ  ΜΕ ΤΗΝ ΚΑΤΑΘΕΣΗ ΣΤΗΝ ΕΕΑΕ/03-02-2023",
+      "type": "Αίτηση - Μελέτη Ραδιοεκπομπών ΕΕΑΕ",
+      "file_url": "https://silia.eett.gr/silia/download/72d06b4f-2193-4b31-87cc-b62796168cfe"
+    },
+    {
+      "document_number": "478280/16-02-2023",
+      "protocol_number": "ΣΥΝΗΜΕΝΝΑ ΜΕ ΤΗΝ ΚΑΤΑΘΕΣΗ ΣΤΗΝ ΕΕΑΕ/",
+      "type": "Αρχιτεκτονικά Σχέδια",
+      "file_url": "https://silia.eett.gr/silia/download/a9e8d651-142f-4186-9318-ca1f72968d75"
+    },
+    {
+      "document_number": "478281/16-02-2023",
+      "protocol_number": "ΣΥΝΗΜΕΝΝΟ  ΜΕ ΤΗΝ ΚΑΤΑΘΕΣΗ ΣΤΗΝ ΕΕΑΕ/",
+      "type": "Τοπογραφικό",
+      "file_url": "https://silia.eett.gr/silia/download/5777951c-77da-41cc-b521-e74f280f0c59"
+    },
+    {
+      "document_number": "478282/16-02-2023",
+      "protocol_number": "ΣΥΝΗΜΕΝΝΗ ΜΕ ΤΗΝ ΚΑΤΑΘΕΣΗ ΣΤΗΝ ΕΕΤΤ/27-01-2023",
+      "type": "Βεβαίωση πολιτικού μηχανικού",
+      "file_url": "https://silia.eett.gr/silia/download/a8fd8903-1cbb-4dd1-b642-abaa075acf45"
+    },
+    {
+      "document_number": "478292/16-02-2023",
+      "protocol_number": "Αρχείο Αίτησης/",
+      "type": "Αίτηση Άδειας Κατασκευής Κεραίας ΕΕΤΤ",
+      "file_url": "https://silia.eett.gr/silia/download/463094c0-92dc-4514-9ae3-910420366cc2"
+    },
+    {
+      "document_number": "479735/08-03-2023",
+      "protocol_number": "ΚΓ/Δ3/Δ/4727/08-03-2023",
+      "type": "Γνωμάτευση ΥΠΑ",
+      "file_url": "https://silia.eett.gr/silia/download/a5c8b10e-671a-4963-9c44-3614cbdb8325"
+    },
+    {
+      "document_number": "481256/29-03-2023",
+      "protocol_number": "Μ.ι./411/4229/2023/27-03-2023",
+      "type": "Γνωμάτευση ΕΕΑΕ",
+      "file_url": "https://silia.eett.gr/silia/download/aabb69ac-a5a8-46b5-9e88-248942f48bae"
+    },
+    {
+      "document_number": "487246/07-06-2023",
+      "protocol_number": "48101/30-05-2023",
+      "type": "Άδεια Κατασκευής  Κεραίας",
+      "file_url": "https://silia.eett.gr/silia/download/b66f068c-54ad-46d2-867a-ecf5396d06c8"
+    },
+    {
+      "document_number": "478283/16-02-2023",
+      "protocol_number": "ΣΥΝΗΜΕΝΝΗ  ΜΕ ΤΗΝ ΚΑΤΑΘΕΣΗ ΣΤΗΝ ΕΕΑΕ/03-02-2023",
+      "type": "Αίτηση - Μελέτη Ραδιοεκπομπών ΕΕΑΕ",
+      "file_url": "https://silia.eett.gr/silia/download/72d06b4f-2193-4b31-87cc-b62796168cfe"
+    },
+    {
+      "document_number": "478284/16-02-2023",
+      "protocol_number": "ΣΥΝΗΜΕΝΝΟΣ  ΜΕ ΤΗΝ ΚΑΤΑΘΕΣΗ ΣΤΗΝ  ΕΕΤΤ/",
+      "type": "Χάρτης Ευαίσθητων Χρήσεων Γης",
+      "file_url": "https://silia.eett.gr/silia/download/0f0faae9-4063-4f0a-b7ce-ec811bbe6fd7"
+    },
+    {
+      "document_number": "478285/16-02-2023",
+      "protocol_number": "ΣΥΝΗΜΕΝΝΗ ΜΕ ΤΗΝ ΚΑΤΑΘΕΣΗ ΣΤΗΝ ΕΕΤΤ/03-02-2023",
+      "type": "Αίτηση - Μελέτη Ραδιοεκπομπών ΕΕΑΕ (υποβάθρου)",
+      "file_url": "https://silia.eett.gr/silia/download/e1d4d944-a761-4b66-bd6c-38ccf7294794"
+    },
+    {
+      "document_number": "478286/16-02-2023",
+      "protocol_number": "474182/05-10-2022",
+      "type": "Έγκριση Αρμοδίου Φορέα",
+      "file_url": "https://silia.eett.gr/silia/download/40a5b624-e144-4149-b732-f69213eb043b"
+    },
+    {
+      "document_number": "478287/16-02-2023",
+      "protocol_number": "475493/19-10-2022",
+      "type": "Γνωμοδότηση Υπηρεσίας Νεωτέρων Μνημείων",
+      "file_url": "https://silia.eett.gr/silia/download/ab3fe3a6-0df8-4999-918c-90d75faffebd"
+    },
+    {
+      "document_number": "478293/16-02-2023",
+      "protocol_number": "Αρχείο Αίτησης/",
+      "type": "Δήλωση ΠΠΔ",
+      "file_url": "https://silia.eett.gr/silia/download/d08a3f0a-4378-4982-8868-81159b013675"
+    }
+  ]
+}

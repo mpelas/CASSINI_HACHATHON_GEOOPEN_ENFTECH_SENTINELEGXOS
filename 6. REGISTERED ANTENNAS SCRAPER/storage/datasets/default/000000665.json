@@ -1,0 +1,81 @@
+{
+  "antenna_id": "133911",
+  "address": "ΕΞΩΚΚΛΗΣΙ ΦΡΙΞΑΣ",
+  "position_code": 220121,
+  "municipality": "Ανδρίτσαινας - Κρεστένων",
+  "code_name": "ΕΞΩΚΚΛΗΣΙ ΦΡΙΞΑΣ Α/Δ",
+  "region": "Δυτικής Ελλάδας",
+  "latitude": 37.614444,
+  "company": "OTE",
+  "longitude": 21.712222,
+  "permit_status": "Από τα στοιχεία που τηρούνται στην Ενημερωτική Πύλη προκύπτει ότι, για τη θέση \"ΕΞΩΚΚΛΗΣΙ ΦΡΙΞΑΣ\" στον Δήμο Ανδρίτσαινας - Κρεστένων Περιφέρειας  Δυτικής Ελλάδας \n\t(κωδικός αριθμός θέσης 0220121, κωδική ονομασία \"ΕΞΩΚΚΛΗΣΙ ΦΡΙΞΑΣ Α/Δ\") χορηγήθηκε, με την Απόφαση της ΕΕΤΤ \n38504/Φ.610/27-11-2020, άδεια κατασκευής κεραίας στην εταιρία OTE. \nΑπό τo έγγραφο της άδειας μπορείτε να ενημερωθείτε για τις σχετικές εγκρίσεις των συναρμόδιων φορέων, καθώς και εάν πρόκειται για τροποποίηση παλαιότερης άδειας.\nΗ άδεια χορηγήθηκε με τη διαδικασία αδειοδότησης που ορίζει ο ν. 4635/2019, κατόπιν της με αριθ. πρωτ. 28363/11-07-2018 \n\tαίτησης, και βάσει σχετικής δήλωσης του κατόχου της περί υπαγωγή της κατασκευής κεραίας στο άρθρο 34 του ν. 4635/2019.",
+  "measurements_eaee": "-",
+  "documents": [
+    {
+      "document_number": "335351/11-07-2018",
+      "protocol_number": "ΜΕΣΩ ΣΗΛΥΑ/",
+      "type": "Τοπογραφικό",
+      "file_url": "https://silia.eett.gr/silia/download/fff46538-72c6-4f47-8eb9-cee2db59bf2b"
+    },
+    {
+      "document_number": "335352/11-07-2018",
+      "protocol_number": "ΜΕΣΩ ΣΗΛΥΑ/",
+      "type": "Αρχιτεκτονικά Σχέδια",
+      "file_url": "https://silia.eett.gr/silia/download/de0915e9-66ec-45be-9f17-68a987a7b0c4"
+    },
+    {
+      "document_number": "335353/11-07-2018",
+      "protocol_number": "ΜΕΣΩ ΣΗΛΥΑ/14-06-2016",
+      "type": "Αίτηση - Μελέτη Ραδιοεκπομπών ΕΕΑΕ",
+      "file_url": "https://silia.eett.gr/silia/download/549e2e5a-fd72-4dfb-819f-67e45c3fd4c3"
+    },
+    {
+      "document_number": "335362/11-07-2018",
+      "protocol_number": "Δ3/Δ/23626/5981/29-07-2005",
+      "type": "Γνωμάτευση ΥΠΑ",
+      "file_url": "https://silia.eett.gr/silia/download/fc7d608f-b020-4ab6-a79e-76a10938dfd3"
+    },
+    {
+      "document_number": "335408/11-07-2018",
+      "protocol_number": "ΜΕΣΩ ΣΗΛΥΑ/",
+      "type": "Αίτηση ΥΠΑ",
+      "file_url": "https://silia.eett.gr/silia/download/6bed3409-162b-47b7-aa28-af83c62fbedb"
+    },
+    {
+      "document_number": "335418/11-07-2018",
+      "protocol_number": "Αρχείο Αίτησης/",
+      "type": "Αίτηση Άδειας Κατασκευής Κεραίας ΕΕΤΤ",
+      "file_url": "https://silia.eett.gr/silia/download/395bfe8d-1eea-4b5a-a6cf-4bffd6167eb8"
+    },
+    {
+      "document_number": "339752/10-09-2018",
+      "protocol_number": "Mi/411/12549/07-09-2018",
+      "type": "Γνωμάτευση ΕΕΑΕ",
+      "file_url": "https://silia.eett.gr/silia/download/1cd29a06-8d50-4a86-be2b-cbe1818ea834"
+    },
+    {
+      "document_number": "423106/24-11-2020",
+      "protocol_number": "38082/Φ.610/18-11-2020",
+      "type": "Άδεια Κατασκευής  Κεραίας",
+      "file_url": "https://silia.eett.gr/silia/download/5746e4e3-8800-466a-b3ea-4e5d6c711d74"
+    },
+    {
+      "document_number": "423736/30-11-2020",
+      "protocol_number": "38504/Φ.610/27-11-2020",
+      "type": "Άδεια Κατασκευής  Κεραίας",
+      "file_url": "https://silia.eett.gr/silia/download/72fb5e51-5955-407d-b363-6ff739a6d4a2"
+    },
+    {
+      "document_number": "346149/24-10-2018",
+      "protocol_number": "ΣΥΝΟΔΕΥΤΙΚΑ ΕΓΓΡΑΦΑ/",
+      "type": "Δήλωση υπαγωγής σε ΠΠΔ και Συνοδευτικά Έγγραφα",
+      "file_url": "https://silia.eett.gr/silia/download/02d8029b-6f52-4254-9ae5-189cb33fe821"
+    },
+    {
+      "document_number": "346150/24-10-2018",
+      "protocol_number": "Αρχείο Αίτησης/",
+      "type": "Δήλωση ΠΠΔ",
+      "file_url": "https://silia.eett.gr/silia/download/7307908e-399a-4208-a7d4-e02b704c4cb3"
+    }
+  ]
+}

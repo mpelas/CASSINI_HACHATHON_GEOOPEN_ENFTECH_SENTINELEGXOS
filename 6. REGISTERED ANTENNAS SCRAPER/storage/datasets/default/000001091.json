@@ -1,0 +1,51 @@
+{
+  "antenna_id": "179208",
+  "address": "ΑΣΤΡΟΣ ΚΥΝΟΥΡΙΑΣ",
+  "position_code": 1269200,
+  "municipality": "Βόρειας Κυνουρίας",
+  "code_name": "SYZEFXIS DIM.V.KYNOURIAS (I200)",
+  "region": "Πελοποννήσου",
+  "latitude": 37.404167,
+  "company": "NOVA Μ.Α.Ε.",
+  "longitude": 22.722222,
+  "permit_status": "Από τα στοιχεία που τηρούνται στην Ενημερωτική Πύλη προκύπτει ότι, για τη θέση \"ΑΣΤΡΟΣ ΚΥΝΟΥΡΙΑΣ\" στον Δήμο Βόρειας Κυνουρίας Περιφέρειας  Πελοποννήσου \n\t(κωδικός αριθμός θέσης 1269200, κωδική ονομασία \"SYZEFXIS DIM.V.KYNOURIAS (I200)\") έχει κατατεθεί από την εταιρία NOVA Μ.Α.Ε.\tδήλωση εγκατάστασης κατασκευής κεραίας (αριθ. πρωτ. \n\t60778/28-04-2025) που εμπίπτει στις διατάξεις της νομοθεσίας για Εγκαταστάσεις Κατασκευών Κεραιών Χαμηλής Ηλεκτρομαγνητικής Περιβαλλοντικής Όχλησης (ΕΚΚΧΟ).",
+  "measurements_eaee": "-",
+  "documents": [
+    {
+      "document_number": "547666/28-04-2025",
+      "protocol_number": "Φωτορεαλιστική απεικόνιση κεραίας ΕΚΚΧΟ/28-04-2025",
+      "type": "Φωτογραφικό Υλικό - Σκαρίφημα",
+      "file_url": "https://silia.eett.gr/silia/download/HKhVSeMQpLiIyIvU3Iv8g1Ka6TR93c38AzPK"
+    },
+    {
+      "document_number": "547667/28-04-2025",
+      "protocol_number": "Ψηφιακός χάρτης με προβολή της θέσης ΕΚΚΧΟ/28-04-2025",
+      "type": "Φωτογραφικό Υλικό - Σκαρίφημα",
+      "file_url": "https://silia.eett.gr/silia/download/m3GBrruYRUsbByiGMgAlVoCKUw22GGG4uqWv"
+    },
+    {
+      "document_number": "547668/28-04-2025",
+      "protocol_number": "Σκαρίφημα θέσης κεραίας ΕΚΚΧΟ/28-04-2025",
+      "type": "Φωτογραφικό Υλικό - Σκαρίφημα",
+      "file_url": "https://silia.eett.gr/silia/download/tLH16npTmeBO71DqOszIuuoaS5MDf7x69dgX"
+    },
+    {
+      "document_number": "547675/28-04-2025",
+      "protocol_number": "ΜΕΛΕΤΗ ΕΚΚΧΟ/28-04-2025",
+      "type": "Άλλο",
+      "file_url": "https://silia.eett.gr/silia/download/7VV7LlvgECdD73UNRw6sHG0GTI5rwoMBxPw3"
+    },
+    {
+      "document_number": "547676/28-04-2025",
+      "protocol_number": "Αρχείο Αίτησης/28-04-2025",
+      "type": "Δήλωση ΕΚΚΧΟ",
+      "file_url": "https://silia.eett.gr/silia/download/GKGw82dcL1OEgYVBOyGEVbt7zGZmDPIqwA2R"
+    },
+    {
+      "document_number": "551007/30-05-2025",
+      "protocol_number": "ΥΔ ΕΓΚΑΤΑΣΤΑΣΗΣ/30-05-2025",
+      "type": "Άλλο",
+      "file_url": "https://silia.eett.gr/silia/download/1FNxweh7KPvIBIwAVr8FYE3R2IW3Oi6b9dgM"
+    }
+  ]
+}

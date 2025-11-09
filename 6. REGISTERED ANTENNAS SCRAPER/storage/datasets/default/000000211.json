@@ -1,0 +1,27 @@
+{
+  "antenna_id": "133899",
+  "address": "Παρ. Λεωφ. Βουλιαγμένης 276, Άγιος Δημήτριος / Metro Mall",
+  "position_code": 1222359,
+  "municipality": "Αγίου Δημητρίου",
+  "code_name": "PUBLIC METRO MALL AG. DIMITRIOS MICRO",
+  "region": "Αττικής",
+  "latitude": 37.939444,
+  "company": "NOVA Μ.Α.Ε.",
+  "longitude": 23.740278,
+  "permit_status": "Από τα στοιχεία που τηρούνται στην Ενημερωτική Πύλη προκύπτει ότι, για τη θέση \"Παρ. Λεωφ. Βουλιαγμένης 276, Άγιος Δημήτριος / Metro Mall\" στον Δήμο Αγίου Δημητρίου Περιφέρειας  Αττικής \n\t(κωδικός αριθμός θέσης 1222359, κωδική ονομασία \"PUBLIC METRO MALL AG. DIMITRIOS MICRO\") έχει κατατεθεί από την εταιρία NOVA Μ.Α.Ε.\tδήλωση εγκατάστασης κατασκευής κεραίας (αριθ. πρωτ. \n\t28347/10-07-2018) που εμπίπτει στις διατάξεις της νομοθεσίας για Εγκαταστάσεις Κατασκευών Κεραιών Χαμηλής Ηλεκτρομαγνητικής Περιβαλλοντικής Όχλησης (ΕΚΚΧΟ).",
+  "measurements_eaee": "-",
+  "documents": [
+    {
+      "document_number": "335224/10-07-2018",
+      "protocol_number": "ΦΩΤΟΓΡΑΦΙΑ ΚΕΡΑΙΩΝ ΕΚΚΧΟ/",
+      "type": "Φωτογραφικό Υλικό - Σκαρίφημα",
+      "file_url": "https://silia.eett.gr/silia/download/7e719fe9-2a83-4f2c-addb-194b19720653"
+    },
+    {
+      "document_number": "335288/10-07-2018",
+      "protocol_number": "Αρχείο Αίτησης/",
+      "type": "Δήλωση ΕΚΚΧΟ",
+      "file_url": "https://silia.eett.gr/silia/download/d25de91d-7f09-4ef9-969e-facc7bb498dd"
+    }
+  ]
+}

@@ -1,0 +1,51 @@
+{
+  "antenna_id": "160365",
+  "address": "ΣΥΜΒΟΛΗ Α.Ο. ΜΕ ΟΔΟ ΚΛΕΙΣΘΕΝΟΥΣ (ΣΥΝΟΡΑ ΓΕΡΑΚΑ - ΑΓ. ΠΑΡΑΣΚΕΥΗΣ)",
+  "position_code": 1400771,
+  "municipality": "Παλλήνης",
+  "code_name": "AO_GER1_MI",
+  "region": "Αττικής",
+  "latitude": 38.022222,
+  "company": "OTE",
+  "longitude": 23.847778,
+  "permit_status": "Από τα στοιχεία που τηρούνται στην Ενημερωτική Πύλη προκύπτει ότι, για τη θέση \"ΣΥΜΒΟΛΗ Α.Ο. ΜΕ ΟΔΟ ΚΛΕΙΣΘΕΝΟΥΣ (ΣΥΝΟΡΑ ΓΕΡΑΚΑ - ΑΓ. ΠΑΡΑΣΚΕΥΗΣ)\" στον Δήμο Παλλήνης Περιφέρειας  Αττικής \n\t(κωδικός αριθμός θέσης 1400771, κωδική ονομασία \"AO_GER1_MI\") έχει κατατεθεί από την εταιρία OTE\tδήλωση εγκατάστασης κατασκευής κεραίας (αριθ. πρωτ. \n\t44736/23-09-2021) που εμπίπτει στις διατάξεις της νομοθεσίας για Εγκαταστάσεις Κατασκευών Κεραιών Χαμηλής Ηλεκτρομαγνητικής Περιβαλλοντικής Όχλησης (ΕΚΚΧΟ).",
+  "measurements_eaee": "-",
+  "documents": [
+    {
+      "document_number": "441569/23-09-2021",
+      "protocol_number": "ΦΩΤΟΓΡΑΦΙΑ/",
+      "type": "Φωτογραφικό Υλικό - Σκαρίφημα",
+      "file_url": "https://silia.eett.gr/silia/download/907c9957-a2e4-4861-b469-c766158c8697"
+    },
+    {
+      "document_number": "441570/23-09-2021",
+      "protocol_number": "ΦΩΤΟΓΡΑΦΙΑ/",
+      "type": "Φωτογραφικό Υλικό - Σκαρίφημα",
+      "file_url": "https://silia.eett.gr/silia/download/a4a5e41e-d87b-4974-9dd7-e6aa6c51ed9e"
+    },
+    {
+      "document_number": "441574/23-09-2021",
+      "protocol_number": "ΥΠΠΟΑ/ΓΔΑΠΚ/Β ΕΠΚΑ/37763/22388/1224/26-02-2014",
+      "type": "Γνωμοδότηση ΕΠΚΑ",
+      "file_url": "https://silia.eett.gr/silia/download/9bd5b594-bf28-46b7-91c2-3b8e79babae3"
+    },
+    {
+      "document_number": "441575/23-09-2021",
+      "protocol_number": "ΥΠΠΟΑ/ΓΔΑΜΤΕ/ΕΝΜΑ/37835/4552/897/24-02-2014",
+      "type": "Γνωμοδότηση Υπηρεσίας Νεωτέρων Μνημείων",
+      "file_url": "https://silia.eett.gr/silia/download/f25f254a-c369-4c26-aa35-b30e11eede4f"
+    },
+    {
+      "document_number": "441576/23-09-2021",
+      "protocol_number": "ΥΠΠΟΑ/ΓΔΑΠΚ/1ηΕΒΑ/37815/22420/1161/21-03-2014",
+      "type": "Γνωμοδότηση ΕΒΑ",
+      "file_url": "https://silia.eett.gr/silia/download/5565d92a-2097-43af-b5a7-1bdbd3243835"
+    },
+    {
+      "document_number": "441581/23-09-2021",
+      "protocol_number": "Αρχείο Αίτησης/",
+      "type": "Δήλωση ΕΚΚΧΟ",
+      "file_url": "https://silia.eett.gr/silia/download/27d6c7d4-0086-4511-843f-edc1e73a9daa"
+    }
+  ]
+}

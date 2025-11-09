@@ -1,0 +1,45 @@
+{
+  "antenna_id": "158027",
+  "address": "ΑΣΤΙΓΓΟΣ 6 ΠΕΙΡΑΙΑΣ",
+  "position_code": 2340524,
+  "municipality": "Πειραιώς",
+  "code_name": "SRH ΗΛΕΚΤΡΟΝΙΚΑ ΝΑΥΤΙΛΙΑΣ",
+  "region": "Αττικής",
+  "latitude": 37.946111,
+  "company": "NOVA Μ.Α.Ε.",
+  "longitude": 23.640833,
+  "permit_status": "Από τα στοιχεία που τηρούνται στην Ενημερωτική Πύλη προκύπτει ότι, για τη θέση \"ΑΣΤΙΓΓΟΣ 6 ΠΕΙΡΑΙΑΣ\" στον Δήμο Πειραιώς Περιφέρειας  Αττικής \n\t(κωδικός αριθμός θέσης 2340524, κωδική ονομασία \"SRH ΗΛΕΚΤΡΟΝΙΚΑ ΝΑΥΤΙΛΙΑΣ\") έχει κατατεθεί από την εταιρία NOVA Μ.Α.Ε.\tδήλωση εγκατάστασης κατασκευής κεραίας (αριθ. πρωτ. \n\t42631/27-01-2021) που εμπίπτει στις διατάξεις της νομοθεσίας για Εγκαταστάσεις Κατασκευών Κεραιών Χαμηλής Ηλεκτρομαγνητικής Περιβαλλοντικής Όχλησης (ΕΚΚΧΟ).",
+  "measurements_eaee": "-",
+  "documents": [
+    {
+      "document_number": "428039/27-01-2021",
+      "protocol_number": "δικαιωμα χρήσης/",
+      "type": "Χορήγηση Δικαιώματος Χρήσης Ραδιοσυχνοτήτων",
+      "file_url": "https://silia.eett.gr/silia/download/3c6a1305-b7e0-4abd-990e-f7b60fe54053"
+    },
+    {
+      "document_number": "428040/27-01-2021",
+      "protocol_number": "δικαιωμα χρήσης/",
+      "type": "Χορήγηση Δικαιώματος Χρήσης Ραδιοσυχνοτήτων",
+      "file_url": "https://silia.eett.gr/silia/download/3936a2e4-8fef-47ad-b79b-a82a5ae6d596"
+    },
+    {
+      "document_number": "428041/27-01-2021",
+      "protocol_number": "δικαιωμα χρήσης/",
+      "type": "Χορήγηση Δικαιώματος Χρήσης Ραδιοσυχνοτήτων",
+      "file_url": "https://silia.eett.gr/silia/download/97862419-d269-4eeb-b7f0-73f497d646a4"
+    },
+    {
+      "document_number": "428042/27-01-2021",
+      "protocol_number": "Φωτογραφία/",
+      "type": "Φωτογραφικό Υλικό - Σκαρίφημα",
+      "file_url": "https://silia.eett.gr/silia/download/9af32e34-a0e4-4dfd-a0e9-128a40ee8216"
+    },
+    {
+      "document_number": "428053/27-01-2021",
+      "protocol_number": "Αρχείο Αίτησης/",
+      "type": "Δήλωση ΕΚΚΧΟ",
+      "file_url": "https://silia.eett.gr/silia/download/011a460a-2c7f-4afe-9813-0ebdf7ab6b7d"
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "antenna_id": "171535",
+  "address": "ΟΜΟΛΙΟ ΛΑΡΙΣΑΣ",
+  "position_code": 1152027,
+  "municipality": "Αγιάς",
+  "code_name": "3032027 SYZEFXIS KEP OMOLIOU",
+  "region": "Θεσσαλίας",
+  "latitude": 39.895278,
+  "company": "VODAFONE",
+  "longitude": 22.641667,
+  "permit_status": "Από τα στοιχεία που τηρούνται στην Ενημερωτική Πύλη προκύπτει ότι, για τη θέση \"ΟΜΟΛΙΟ ΛΑΡΙΣΑΣ\" στον Δήμο Αγιάς Περιφέρειας  Θεσσαλίας \n\t(κωδικός αριθμός θέσης 1152027, κωδική ονομασία \"3032027 SYZEFXIS KEP OMOLIOU\") έχει κατατεθεί από την εταιρία VODAFONE\tδήλωση εγκατάστασης κατασκευής κεραίας (αριθ. πρωτ. \n\t54258/21-12-2023) που εμπίπτει στις διατάξεις της νομοθεσίας για Εγκαταστάσεις Κατασκευών Κεραιών Χαμηλής Ηλεκτρομαγνητικής Περιβαλλοντικής Όχλησης (ΕΚΚΧΟ).",
+  "measurements_eaee": "-",
+  "documents": [
+    {
+      "document_number": "503605/20-12-2023",
+      "protocol_number": "Φωτορεαλιστική απεικόνιση κεραιας ΕΚΚΧΟ/",
+      "type": "Φωτογραφικό Υλικό - Σκαρίφημα",
+      "file_url": "https://silia.eett.gr/silia/download/675256c7-2bd8-47d4-8c07-7d54913f2c7e"
+    },
+    {
+      "document_number": "503606/20-12-2023",
+      "protocol_number": "Ψηφιακός Χάρτης με προβολή της θέσης της κεραίας ΕΚΚΧΟ/",
+      "type": "Φωτογραφικό Υλικό - Σκαρίφημα",
+      "file_url": "https://silia.eett.gr/silia/download/f8ff3d3f-43fb-482c-9203-7bebdd7ed95b"
+    },
+    {
+      "document_number": "503832/21-12-2023",
+      "protocol_number": "Μελέτη ΕΚΚΧΟ/20-12-2023",
+      "type": "Άλλο",
+      "file_url": "https://silia.eett.gr/silia/download/ecdbf3b2-6d1c-44ec-a576-966e47346eb1"
+    },
+    {
+      "document_number": "503833/21-12-2023",
+      "protocol_number": "Αρχείο Αίτησης/",
+      "type": "Δήλωση ΕΚΚΧΟ",
+      "file_url": "https://silia.eett.gr/silia/download/13283b4f-1efb-40de-bf3e-c9fa7bccde73"
+    },
+    {
+      "document_number": "507454/13-02-2024",
+      "protocol_number": "ΥΔ εγκατάστασης/13-02-2024",
+      "type": "Άλλο",
+      "file_url": "https://silia.eett.gr/silia/download/0e204eb3-2e2b-403d-a546-70aa6a86a597"
+    }
+  ]
+}

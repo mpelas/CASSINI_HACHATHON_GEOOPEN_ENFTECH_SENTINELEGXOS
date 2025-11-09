@@ -1,0 +1,45 @@
+{
+  "antenna_id": "166119",
+  "address": "Αγίου Στυλιανού - θέση Xάβωσι, Μαγούλα.",
+  "position_code": 1159872,
+  "municipality": "Ελευσίνας",
+  "code_name": "OXEA MAGOULA SITE 2",
+  "region": "Αττικής",
+  "latitude": 38.083056,
+  "company": "VODAFONE",
+  "longitude": 23.538056,
+  "permit_status": "Από τα στοιχεία που τηρούνται στην Ενημερωτική Πύλη προκύπτει ότι, για τη θέση \"Αγίου Στυλιανού - θέση Xάβωσι, Μαγούλα.\" στον Δήμο Ελευσίνας Περιφέρειας  Αττικής \n\t(κωδικός αριθμός θέσης 1159872, κωδική ονομασία \"OXEA MAGOULA SITE 2\") έχει κατατεθεί από την εταιρία VODAFONE\tδήλωση εγκατάστασης κατασκευής κεραίας (αριθ. πρωτ. \n\t49846/08-11-2022) που εμπίπτει στις διατάξεις της νομοθεσίας για Εγκαταστάσεις Κατασκευών Κεραιών Χαμηλής Ηλεκτρομαγνητικής Περιβαλλοντικής Όχλησης (ΕΚΚΧΟ).",
+  "measurements_eaee": "-",
+  "documents": [
+    {
+      "document_number": "472016/08-11-2022",
+      "protocol_number": "Αρχιτεκτονικά σχέδια ΕΚΚΧΟ/",
+      "type": "Αρχιτεκτονικά Σχέδια",
+      "file_url": "https://silia.eett.gr/silia/download/823e485c-5cf9-4dfe-bbb9-67c6d1aa1aaa"
+    },
+    {
+      "document_number": "472017/08-11-2022",
+      "protocol_number": "Φωτορεαλιστική απεικόνιση ΕΚΚΧΟ/",
+      "type": "Φωτογραφικό Υλικό - Σκαρίφημα",
+      "file_url": "https://silia.eett.gr/silia/download/54e3db8f-ac1c-45d3-80dd-75479fb4729c"
+    },
+    {
+      "document_number": "472018/08-11-2022",
+      "protocol_number": "Φ.550/ΑΔ.10157/Σ.1993/02-09-2022",
+      "type": "Γνωμάτευση ΓΕΑ",
+      "file_url": "https://silia.eett.gr/silia/download/15c67500-6e23-467e-b744-4258a8f80ceb"
+    },
+    {
+      "document_number": "472019/08-11-2022",
+      "protocol_number": "Μελέτη ΕΚΚΧΟ/08-11-2022",
+      "type": "Άλλο",
+      "file_url": "https://silia.eett.gr/silia/download/dd6f3e36-b7d3-4246-bbff-19124ed7219e"
+    },
+    {
+      "document_number": "472020/08-11-2022",
+      "protocol_number": "Αρχείο Αίτησης/",
+      "type": "Δήλωση ΕΚΚΧΟ",
+      "file_url": "https://silia.eett.gr/silia/download/2da8d76a-6117-42c7-84ab-b392aeb8d5e2"
+    }
+  ]
+}

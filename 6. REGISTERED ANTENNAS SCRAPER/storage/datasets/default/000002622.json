@@ -1,0 +1,63 @@
+{
+  "antenna_id": "174377",
+  "address": "ΠΛΗΣΙΟΝ ΟΙΚΙΣΜΟΥ ΜΑΝΕΣΙ",
+  "position_code": 1405301,
+  "municipality": "Πατρέων",
+  "code_name": "ΜΑΝΕΣΙ/Χ",
+  "region": "Δυτικής Ελλάδας",
+  "latitude": 38.013056,
+  "company": "OTE",
+  "longitude": 21.98,
+  "permit_status": "Από τα στοιχεία που τηρούνται στην Ενημερωτική Πύλη προκύπτει ότι, για τη θέση \"ΠΛΗΣΙΟΝ ΟΙΚΙΣΜΟΥ ΜΑΝΕΣΙ\" στον Δήμο Πατρέων Περιφέρειας  Δυτικής Ελλάδας \n\t(κωδικός αριθμός θέσης 1405301, κωδική ονομασία \"ΜΑΝΕΣΙ/Χ\") χορηγήθηκε, με την Απόφαση της ΕΕΤΤ \n51849/16-12-2024, άδεια κατασκευής κεραίας στην εταιρία OTE. \nΑπό τo έγγραφο της άδειας μπορείτε να ενημερωθείτε για τις σχετικές εγκρίσεις των συναρμόδιων φορέων, καθώς και εάν πρόκειται για τροποποίηση παλαιότερης άδειας.\n\tΣύμφωνα με τα στοιχεία που έχουν υποβληθεί στο ΣΗΛΥΑ, ο κάτοχος της κατασκευής κεραίας έχει δηλώσει ότι θα προβεί σε έκδοση έγκρισης δομικών κατασκευών \n\t\tκεραίας μέσω του e-Άδειες \n\t\tμετά την έκδοση της άδειας κατασκευής κεραίας / δημοσιοποίηση της δήλωσης τροποποίησης της κατασκευής κεραίας",
+  "measurements_eaee": "-",
+  "documents": [
+    {
+      "document_number": "521000/17-07-2024",
+      "protocol_number": "ΤΟΠΟΓΡΑΦΙΚΟ/17-07-2024",
+      "type": "Τοπογραφικό",
+      "file_url": "https://silia.eett.gr/silia/download/dSOZqg8MEG46WOKg3F4GtW7PFTAB00GlTgf8"
+    },
+    {
+      "document_number": "521001/17-07-2024",
+      "protocol_number": "ΑΡΧΙΤΕΚΤΟΝΙΚΑ/17-07-2024",
+      "type": "Αρχιτεκτονικά Σχέδια",
+      "file_url": "https://silia.eett.gr/silia/download/HYrReIkGUvpGNHM1zDXAGCG7qZ5vvdhSzYic"
+    },
+    {
+      "document_number": "521854/25-07-2024",
+      "protocol_number": "μελετη ρ/ε/11-09-2023",
+      "type": "Αίτηση - Μελέτη Ραδιοεκπομπών ΕΕΑΕ",
+      "file_url": "https://silia.eett.gr/silia/download/3yg1ucThT3F4iG6r0MapIyD5i2LZPk97hgnO"
+    },
+    {
+      "document_number": "521912/25-07-2024",
+      "protocol_number": "Αρχείο Αίτησης/25-07-2024",
+      "type": "Αίτηση Άδειας Κατασκευής Κεραίας ΕΕΤΤ",
+      "file_url": "https://silia.eett.gr/silia/download/ccB9fyqIo58aU5cWRvcufiGMf5BHcPeqQqCQ"
+    },
+    {
+      "document_number": "527219/30-09-2024",
+      "protocol_number": "TMIA/411/12535/2024/27-09-2024",
+      "type": "Γνωμάτευση ΕΕΑΕ",
+      "file_url": "https://silia.eett.gr/silia/download/9GDkhBG37tb2ePtLozRVqcICegeArGhA84to"
+    },
+    {
+      "document_number": "528940/16-10-2024",
+      "protocol_number": "ΚΓ/Δ3/Δ/20484/16-10-2024",
+      "type": "Γνωμάτευση ΥΠΑ",
+      "file_url": "https://silia.eett.gr/silia/download/V3xK3e7wQZlbKovBUz46SiRsbgKK47I6zh3y"
+    },
+    {
+      "document_number": "535747/16-12-2024",
+      "protocol_number": "51849/16-12-2024",
+      "type": "Άδεια Κατασκευής  Κεραίας",
+      "file_url": "https://silia.eett.gr/silia/download/eGrYznu5sa49EmALW1NOvtmH7eeG68xlpxst"
+    },
+    {
+      "document_number": "521913/25-07-2024",
+      "protocol_number": "Αρχείο Αίτησης/25-07-2024",
+      "type": "Δήλωση ΠΠΔ",
+      "file_url": "https://silia.eett.gr/silia/download/iQ5SZqG5EqZrutwgK9Lb7T7AtgaPCHa7Mqi4"
+    }
+  ]
+}

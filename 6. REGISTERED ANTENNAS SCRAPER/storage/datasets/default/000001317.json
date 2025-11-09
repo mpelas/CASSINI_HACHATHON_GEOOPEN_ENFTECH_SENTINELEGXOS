@@ -1,0 +1,33 @@
+{
+  "antenna_id": "161558",
+  "address": "ΚΑΤΣΙΚΑΣ-ΙΤΕΑ ΑΜΦΙΣΑ",
+  "position_code": 3206070,
+  "municipality": "Δελφών",
+  "code_name": "ΚΑΤΣΙΚΑΣ",
+  "region": "Στερεάς Ελλάδας",
+  "latitude": 38.433333,
+  "company": "ΕΡΤ ΑΕ",
+  "longitude": 22.476389,
+  "permit_status": "Από τα στοιχεία που τηρούνται στην Ενημερωτική Πύλη προκύπτει ότι για τη  θέση \"ΚΑΤΣΙΚΑΣ-ΙΤΕΑ ΑΜΦΙΣΑ\" στον Δήμο Δελφών Περιφέρειας  Στερεάς Ελλάδας έχει κατατεθεί από την εταιρία ΕΡΤ ΑΕ δήλωση κατασκευής κεραίας τηλεοπτικής ευρυεκπομπής με αριθ. πρωτ. ΣΗΛΥΑ \n45953/15-12-2021 κατά τα οριζόμενα στην παρ. 7 του άρθρου 39 του Ν.4635/2019.",
+  "measurements_eaee": "-",
+  "documents": [
+    {
+      "document_number": "447615/08-12-2021",
+      "protocol_number": "screenshot/",
+      "type": "Φωτογραφικό Υλικό - Σκαρίφημα",
+      "file_url": "https://silia.eett.gr/silia/download/e148c2f7-fb57-4e4a-9354-af2da7ac07cf"
+    },
+    {
+      "document_number": "447616/08-12-2021",
+      "protocol_number": "Επαναυποβολή_ΥΠΑ_μετάβαση/",
+      "type": "Αίτηση ΥΠΑ",
+      "file_url": "https://silia.eett.gr/silia/download/74f0d5f8-9040-4b0b-b3c7-4c3e49a2a7ca"
+    },
+    {
+      "document_number": "448100/15-12-2021",
+      "protocol_number": "Αρχείο Αίτησης/",
+      "type": "Δήλωση Τηλεοπτικής Ευρυεκπομπής",
+      "file_url": "https://silia.eett.gr/silia/download/ad433421-2b81-45ad-ab7a-4abd8df5a716"
+    }
+  ]
+}

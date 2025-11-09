@@ -1,0 +1,45 @@
+{
+  "antenna_id": "167024",
+  "address": "ΑΝΩ ΖΕΡΒΟΧΩΡΙ",
+  "position_code": 1497817,
+  "municipality": "Βέροιας",
+  "code_name": "HOL_ASPIS_IMATHIAS",
+  "region": "Κεντρικής Μακεδονίας",
+  "latitude": 40.639167,
+  "company": "OTE",
+  "longitude": 22.233611,
+  "permit_status": "Από τα στοιχεία που τηρούνται στην Ενημερωτική Πύλη προκύπτει ότι, για τη θέση \"ΑΝΩ ΖΕΡΒΟΧΩΡΙ \" στον Δήμο Βέροιας Περιφέρειας  Κεντρικής Μακεδονίας \n\t(κωδικός αριθμός θέσης 1497817, κωδική ονομασία \"HOL_ASPIS_IMATHIAS\") έχει κατατεθεί από την εταιρία OTE\tδήλωση εγκατάστασης κατασκευής κεραίας (αριθ. πρωτ. \n\t54706/08-02-2024) που εμπίπτει στις διατάξεις της νομοθεσίας για Εγκαταστάσεις Κατασκευών Κεραιών Χαμηλής Ηλεκτρομαγνητικής Περιβαλλοντικής Όχλησης (ΕΚΚΧΟ).",
+  "measurements_eaee": "-",
+  "documents": [
+    {
+      "document_number": "506464/02-02-2024",
+      "protocol_number": "ΜΕΣΩ ΣΗΛΥΑ/",
+      "type": "Αίτηση - Μελέτη Ραδιοεκπομπών ΕΕΑΕ",
+      "file_url": "https://silia.eett.gr/silia/download/4d7be3ea-8106-4f32-a92b-defe8448ceee"
+    },
+    {
+      "document_number": "507077/08-02-2024",
+      "protocol_number": "Χαρτης/",
+      "type": "Φωτογραφικό Υλικό - Σκαρίφημα",
+      "file_url": "https://silia.eett.gr/silia/download/08665a3a-4580-4d4c-b980-aba3e0359d34"
+    },
+    {
+      "document_number": "507078/08-02-2024",
+      "protocol_number": "Φωτογραφία/",
+      "type": "Φωτογραφικό Υλικό - Σκαρίφημα",
+      "file_url": "https://silia.eett.gr/silia/download/193ca480-8ba0-4f2a-aee8-2a76b69b11aa"
+    },
+    {
+      "document_number": "507079/08-02-2024",
+      "protocol_number": "Αρχείο Αίτησης/",
+      "type": "Δήλωση ΕΚΚΧΟ",
+      "file_url": "https://silia.eett.gr/silia/download/b0cdd87e-5212-4783-bea9-2ef1c91b088e"
+    },
+    {
+      "document_number": "552910/18-06-2025",
+      "protocol_number": "ΥΠ.ΔΗΛΩΣΗ/18-06-2025",
+      "type": "Άλλο",
+      "file_url": "https://silia.eett.gr/silia/download/gCa6zXXk9csm4rTZ7w5zbqrPg3StrBncG33t"
+    }
+  ]
+}

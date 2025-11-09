@@ -1,0 +1,45 @@
+{
+  "antenna_id": "171528",
+  "address": "Δ.Δ. ΝΕΡΑΪΔΑΣ",
+  "position_code": 400042,
+  "municipality": "Αλμυρού",
+  "code_name": "ΝΕΡΑΪΔΑ Α/Δ",
+  "region": "Θεσσαλίας",
+  "latitude": 39.174444,
+  "company": "OTE",
+  "longitude": 22.606389,
+  "permit_status": "Από τα στοιχεία που τηρούνται στην Ενημερωτική Πύλη προκύπτει ότι, για τη θέση \"Δ.Δ. ΝΕΡΑΪΔΑΣ\" στον Δήμο Αλμυρού Περιφέρειας  Θεσσαλίας \n\t(κωδικός αριθμός θέσης 0400042, κωδική ονομασία \"ΝΕΡΑΪΔΑ Α/Δ\") έχει κατατεθεί από την εταιρία OTE\tδήλωση εγκατάστασης κατασκευής κεραίας (αριθ. πρωτ. \n\t54605/01-02-2024) που εμπίπτει στις διατάξεις της νομοθεσίας για Εγκαταστάσεις Κατασκευών Κεραιών Χαμηλής Ηλεκτρομαγνητικής Περιβαλλοντικής Όχλησης (ΕΚΚΧΟ).",
+  "measurements_eaee": "-",
+  "documents": [
+    {
+      "document_number": "503565/20-12-2023",
+      "protocol_number": "Χαρτης/",
+      "type": "Φωτογραφικό Υλικό - Σκαρίφημα",
+      "file_url": "https://silia.eett.gr/silia/download/670993d5-eadd-4c32-8107-60b62dec6150"
+    },
+    {
+      "document_number": "503566/20-12-2023",
+      "protocol_number": "Φωτογραφία/",
+      "type": "Φωτογραφικό Υλικό - Σκαρίφημα",
+      "file_url": "https://silia.eett.gr/silia/download/408fa33e-ff08-4d0d-9b1f-c10ace6c5933"
+    },
+    {
+      "document_number": "506251/31-01-2024",
+      "protocol_number": "ΜΕΣΩ ΣΗΛΥΑ/",
+      "type": "Αίτηση - Μελέτη Ραδιοεκπομπών ΕΕΑΕ",
+      "file_url": "https://silia.eett.gr/silia/download/b3566b8a-18ed-48c8-aa80-0cf61fba2a53"
+    },
+    {
+      "document_number": "506449/01-02-2024",
+      "protocol_number": "Αρχείο Αίτησης/",
+      "type": "Δήλωση ΕΚΚΧΟ",
+      "file_url": "https://silia.eett.gr/silia/download/de2bd992-d610-4ba0-8eeb-5c6af3f43ede"
+    },
+    {
+      "document_number": "529277/17-10-2024",
+      "protocol_number": "ΥΠ.ΔΗΛΩΣΗ/17-10-2024",
+      "type": "Άλλο",
+      "file_url": "https://silia.eett.gr/silia/download/tCxAYBwwF01Pasmyi6xmI9vaz32F4GEzLN2n"
+    }
+  ]
+}

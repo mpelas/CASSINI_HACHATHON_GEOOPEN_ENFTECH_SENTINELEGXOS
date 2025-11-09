@@ -1,0 +1,39 @@
+{
+  "antenna_id": "152533",
+  "address": "ΓΑΒΡΟΛΙΜΝΗ ΔΗΜΟΣ ΝΑΥΠΑΚΤΙΑΣ ΠΕΡ. ΣΤΕΡΕΑΣ ΕΛΛΑΔΑΣ",
+  "position_code": 3207207,
+  "municipality": "Ναυπακτίας",
+  "code_name": "ΓΑΒΡΟΛΙΜΝΗ-Δ",
+  "region": "Δυτικής Ελλάδας",
+  "latitude": 38.384722,
+  "company": "ΕΡΤ ΑΕ",
+  "longitude": 21.626111,
+  "permit_status": "Από τα στοιχεία που τηρούνται στην Ενημερωτική Πύλη προκύπτει ότι για τη  θέση \"ΓΑΒΡΟΛΙΜΝΗ ΔΗΜΟΣ ΝΑΥΠΑΚΤΙΑΣ ΠΕΡ. ΣΤΕΡΕΑΣ ΕΛΛΑΔΑΣ\" στον Δήμο Ναυπακτίας Περιφέρειας  Δυτικής Ελλάδας έχει κατατεθεί από την εταιρία ΕΡΤ ΑΕ δήλωση δομικών κατασκευών κεραιών  \nμε αριθ. πρωτ. ΣΗΛΥΑ 38161/09-04-2020 κατά τα οριζόμενα στην παρ. 7 του άρθρου 34 του Ν.4635/2019.",
+  "measurements_eaee": "-",
+  "documents": [
+    {
+      "document_number": "400182/26-03-2020",
+      "protocol_number": "δορυφορική λήψη και στοιχεία δομικών κατασκευών/",
+      "type": "Άλλο",
+      "file_url": "https://silia.eett.gr/silia/download/5a643797-6b35-490f-a6b1-10d4b5143f13"
+    },
+    {
+      "document_number": "400473/30-03-2020",
+      "protocol_number": "απογραφή 1987/",
+      "type": "Άλλο",
+      "file_url": "https://silia.eett.gr/silia/download/2c6679a2-46bd-4070-8907-847d014bd3a7"
+    },
+    {
+      "document_number": "400474/30-03-2020",
+      "protocol_number": "πίνακας 49 απογραφής ΕΡΤ 1987/",
+      "type": "Άλλο",
+      "file_url": "https://silia.eett.gr/silia/download/eeea31b1-4a53-4b14-9a7e-0df651c3e281"
+    },
+    {
+      "document_number": "401838/09-04-2020",
+      "protocol_number": "Αρχείο Αίτησης/",
+      "type": "Δήλωση Δομικών ΕΡΤ",
+      "file_url": "https://silia.eett.gr/silia/download/961a69d2-e430-4c37-aedf-cdc4e992cb7f"
+    }
+  ]
+}

@@ -1,0 +1,81 @@
+{
+  "antenna_id": "173386",
+  "address": "ΠΛΗΣΙΟΝ ΕΚΚΛΗΣΙΑΣ ΑΓIΟΣ ΠΑΝΤΕΛΕΗΜΩΝ",
+  "position_code": 1204226,
+  "municipality": "Τροιζηνίας",
+  "code_name": "ΜΕΘΑΝΑ",
+  "region": "Αττικής",
+  "latitude": 37.591667,
+  "company": "NOVA Μ.Α.Ε.",
+  "longitude": 23.37,
+  "permit_status": "Από τα στοιχεία που τηρούνται στην Ενημερωτική Πύλη προκύπτει ότι, για τη θέση \"ΠΛΗΣΙΟΝ ΕΚΚΛΗΣΙΑΣ ΑΓIΟΣ ΠΑΝΤΕΛΕΗΜΩΝ\" στον Δήμο Τροιζηνίας Περιφέρειας  Αττικής \n\t(κωδικός αριθμός θέσης 1204226, κωδική ονομασία \"ΜΕΘΑΝΑ\") χορηγήθηκε, με την Απόφαση της ΕΕΤΤ \n51224/18-07-2024, άδεια κατασκευής κεραίας στην εταιρία NOVA Μ.Α.Ε.. \nΑπό τo έγγραφο της άδειας μπορείτε να ενημερωθείτε για τις σχετικές εγκρίσεις των συναρμόδιων φορέων, καθώς και εάν πρόκειται για τροποποίηση παλαιότερης άδειας.\n\tΣύμφωνα με τα στοιχεία που έχουν υποβληθεί στο ΣΗΛΥΑ, ο κάτοχος της κατασκευής κεραίας έχει δηλώσει ότι θα προβεί σε έκδοση έγκρισης δομικών κατασκευών \n\t\tκεραίας μέσω του e-Άδειες \n\t\tμετά την έκδοση της άδειας κατασκευής κεραίας / δημοσιοποίηση της δήλωσης τροποποίησης της κατασκευής κεραίας",
+  "measurements_eaee": "-",
+  "documents": [
+    {
+      "document_number": "514811/13-05-2024",
+      "protocol_number": "Δ3/Δ/27690 (Διορθωτικό ΥΠΑ)/25-09-2013",
+      "type": "Γνωμάτευση ΥΠΑ",
+      "file_url": "https://silia.eett.gr/silia/download/Y04rt4qwcbo2W5hcmmDTMR63pYpSgUikXxp9"
+    },
+    {
+      "document_number": "514812/13-05-2024",
+      "protocol_number": "ΜΕΣΩ ΣΗΛΥΑ/13-05-2024",
+      "type": "Τοπογραφικό",
+      "file_url": "https://silia.eett.gr/silia/download/d5rIaSYI5RPbDGE5hpXnYoP4FTqBFqmANiqr"
+    },
+    {
+      "document_number": "514813/13-05-2024",
+      "protocol_number": "ΜΕΣΩ ΣΗΛΥΑ/13-05-2024",
+      "type": "Αρχιτεκτονικά Σχέδια",
+      "file_url": "https://silia.eett.gr/silia/download/ZBsIaO1oWCmMsceWfQyePDowbU5BxGoCw3kK"
+    },
+    {
+      "document_number": "514835/13-05-2024",
+      "protocol_number": "ΜΕΣΩ ΣΗΛΥΑ/05-04-2024",
+      "type": "Αίτηση - Μελέτη Ραδιοεκπομπών ΕΕΑΕ",
+      "file_url": "https://silia.eett.gr/silia/download/IE0m5w5SdvLde9FCGRGGM2nyLT1s7gFuflbz"
+    },
+    {
+      "document_number": "514837/13-05-2024",
+      "protocol_number": "ΥΔ ΚΟΙΝΗΣ ΧΡΗΣΗΣ VODAFONE/19-04-2024",
+      "type": "Άλλο",
+      "file_url": "https://silia.eett.gr/silia/download/0FD4gtrsxXaaBQnmGNsyMRGowE8h96KBCzP2"
+    },
+    {
+      "document_number": "514838/13-05-2024",
+      "protocol_number": "ΥΔ ΔΙΑΣΥΝΔΕΣΗΣ VODAFONE/19-04-2024",
+      "type": "Άλλο",
+      "file_url": "https://silia.eett.gr/silia/download/i4lmtIp3vtUbf2Ng1PO9pvraxwNIpGHXm8nG"
+    },
+    {
+      "document_number": "514839/13-05-2024",
+      "protocol_number": "Αρχείο Αίτησης/13-05-2024",
+      "type": "Αίτηση Άδειας Κατασκευής Κεραίας ΕΕΤΤ",
+      "file_url": "https://silia.eett.gr/silia/download/GXpuMwWxBngHxNCtykDzrTzMGzg5bMz9cwAp"
+    },
+    {
+      "document_number": "518740/25-06-2024",
+      "protocol_number": "TMIA/411/8681/2024/21-06-2024",
+      "type": "Γνωμάτευση ΕΕΑΕ",
+      "file_url": "https://silia.eett.gr/silia/download/Dg6GDF9bYvWmlcf1ZPhI9M8kI2n21Gcx8Qui"
+    },
+    {
+      "document_number": "521096/18-07-2024",
+      "protocol_number": "51224/18-07-2024",
+      "type": "Άδεια Κατασκευής  Κεραίας",
+      "file_url": "https://silia.eett.gr/silia/download/F3H7tUUugAVvmB9A6n12bDsHH5ygACPn5AvW"
+    },
+    {
+      "document_number": "514810/13-05-2024",
+      "protocol_number": "ΣΥΝΟΔΕΥΤΙΚΑ ΕΓΓΡΑΦΑ ΠΠΔ/13-05-2024",
+      "type": "Δήλωση υπαγωγής σε ΠΠΔ και Συνοδευτικά Έγγραφα",
+      "file_url": "https://silia.eett.gr/silia/download/ZXQF4sBoa1OVtpiDPIyagwteLIbgaEOwSsV9"
+    },
+    {
+      "document_number": "514840/13-05-2024",
+      "protocol_number": "Αρχείο Αίτησης/13-05-2024",
+      "type": "Δήλωση ΠΠΔ",
+      "file_url": "https://silia.eett.gr/silia/download/df1vGc0cl2CHuhLAkLUXD3CxONrgzfvrvWT5"
+    }
+  ]
+}

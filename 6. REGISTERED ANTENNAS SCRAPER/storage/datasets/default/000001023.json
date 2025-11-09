@@ -1,0 +1,81 @@
+{
+  "antenna_id": "144788",
+  "address": "ΧΑΝΙΑ ΠΗΛΙΟΥ",
+  "position_code": 1404476,
+  "municipality": "Βόλου",
+  "code_name": "ΧΑΝΙΑ ΠΗΛΙΟΥ",
+  "region": "Θεσσαλίας",
+  "latitude": 39.396111,
+  "company": "OTE",
+  "longitude": 23.062778,
+  "permit_status": "Από τα στοιχεία που τηρούνται στην Ενημερωτική Πύλη προκύπτει ότι, για τη θέση \"ΧΑΝΙΑ ΠΗΛΙΟΥ\" στον Δήμο Βόλου Περιφέρειας  Θεσσαλίας \n\t(κωδικός αριθμός θέσης 1404476, κωδική ονομασία \"ΧΑΝΙΑ ΠΗΛΙΟΥ\") χορηγήθηκε, με την Απόφαση της ΕΕΤΤ \n37331/Φ610/23-10-2020, άδεια κατασκευής κεραίας στην εταιρία OTE. \nΑπό τo έγγραφο της άδειας μπορείτε να ενημερωθείτε για τις σχετικές εγκρίσεις των συναρμόδιων φορέων, καθώς και εάν πρόκειται για τροποποίηση παλαιότερης άδειας.\nΗ άδεια χορηγήθηκε με τη διαδικασία αδειοδότησης που ορίζει ο ν. 4635/2019, κατόπιν της με αριθ. πρωτ. 35015/21-10-2019 \n\tαίτησης, και βάσει σχετικής δήλωσης του κατόχου της περί υπαγωγή της κατασκευής κεραίας στο άρθρο 34 του ν. 4635/2019.",
+  "measurements_eaee": "-",
+  "documents": [
+    {
+      "document_number": "380243/21-10-2019",
+      "protocol_number": "ΜΕΣΩ ΣΗΛΥΑ/",
+      "type": "Τοπογραφικό",
+      "file_url": "https://silia.eett.gr/silia/download/c689eb20-8a06-46c0-a2c4-da2ea76742f2"
+    },
+    {
+      "document_number": "380244/21-10-2019",
+      "protocol_number": "ΜΕΣΩ ΣΗΛΥΑ/",
+      "type": "Αρχιτεκτονικά Σχέδια",
+      "file_url": "https://silia.eett.gr/silia/download/d7109b36-2d0a-4b8e-9c12-2f858a68b90e"
+    },
+    {
+      "document_number": "380245/21-10-2019",
+      "protocol_number": "ΜΕΣΩ ΣΗΛΥΑ/14-01-2019",
+      "type": "Αίτηση - Μελέτη Ραδιοεκπομπών ΕΕΑΕ",
+      "file_url": "https://silia.eett.gr/silia/download/65ef4bb4-669d-48bd-9df4-c4aca1f3c392"
+    },
+    {
+      "document_number": "380247/21-10-2019",
+      "protocol_number": "Δ3/Δ/3195/896/09-02-2012",
+      "type": "Γνωμάτευση ΥΠΑ",
+      "file_url": "https://silia.eett.gr/silia/download/2c0cbead-8974-47b3-9034-43969db89090"
+    },
+    {
+      "document_number": "380254/21-10-2019",
+      "protocol_number": "ΜΕΣΩ ΣΗΛΥΑ/21-10-2019",
+      "type": "Αίτηση ΥΠΑ",
+      "file_url": "https://silia.eett.gr/silia/download/8d68988f-bc21-4c4b-81b0-b2b2b9b5eaba"
+    },
+    {
+      "document_number": "380256/21-10-2019",
+      "protocol_number": "Αρχείο Αίτησης/",
+      "type": "Αίτηση Άδειας Κατασκευής Κεραίας ΕΕΤΤ",
+      "file_url": "https://silia.eett.gr/silia/download/8b41c135-2116-4cbc-b042-ae1923ea4c75"
+    },
+    {
+      "document_number": "399299/18-03-2020",
+      "protocol_number": "Μ.ι./411/3771/2020/11-03-2020",
+      "type": "Γνωμάτευση ΕΕΑΕ",
+      "file_url": "https://silia.eett.gr/silia/download/e7cba78d-eb78-4cbd-b0e2-708ef493058d"
+    },
+    {
+      "document_number": "418202/06-10-2020",
+      "protocol_number": "Δ3/Δ/1851/07-03-2014",
+      "type": "Γνωμάτευση ΥΠΑ",
+      "file_url": "https://silia.eett.gr/silia/download/1f6934e7-ceb3-494c-94f6-e4bb7e31b637"
+    },
+    {
+      "document_number": "420238/27-10-2020",
+      "protocol_number": "37331/Φ610/23-10-2020",
+      "type": "Άδεια Κατασκευής  Κεραίας",
+      "file_url": "https://silia.eett.gr/silia/download/b6fe1eed-5e2f-4715-bd03-8c42a2abb9ab"
+    },
+    {
+      "document_number": "382053/04-11-2019",
+      "protocol_number": "ΣΥΝΟΔΕΥΤΙΚΑ ΕΓΓΡΑΦΑ/",
+      "type": "Δήλωση υπαγωγής σε ΠΠΔ και Συνοδευτικά Έγγραφα",
+      "file_url": "https://silia.eett.gr/silia/download/38d42d19-eeea-4896-bdf0-97794e5af012"
+    },
+    {
+      "document_number": "382054/04-11-2019",
+      "protocol_number": "Αρχείο Αίτησης/",
+      "type": "Δήλωση ΠΠΔ",
+      "file_url": "https://silia.eett.gr/silia/download/2e3e761d-1b81-43f7-a8ff-14b1f6f56b73"
+    }
+  ]
+}

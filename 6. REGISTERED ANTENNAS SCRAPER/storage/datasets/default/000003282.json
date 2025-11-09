@@ -1,0 +1,45 @@
+{
+  "antenna_id": "154593",
+  "address": "Δ.ΣΟΥΦΛΙΟΥ, Ν.ΕΒΡΟΥ, Π.Ε.ΕΒΡΟΥ",
+  "position_code": 3207583,
+  "municipality": "Σουφλίου",
+  "code_name": "ΛΕΥΚΙΜΜΗ-Δ",
+  "region": "Ανατ. Μακεδονίας και Θράκης",
+  "latitude": 41.09,
+  "company": "ΕΡΤ ΑΕ",
+  "longitude": 26.134722,
+  "permit_status": "Από τα στοιχεία που τηρούνται στην Ενημερωτική Πύλη προκύπτει ότι για τη  θέση \"Δ.ΣΟΥΦΛΙΟΥ, Ν.ΕΒΡΟΥ, Π.Ε.ΕΒΡΟΥ \" στον Δήμο Σουφλίου Περιφέρειας  Ανατ. Μακεδονίας και Θράκης έχει κατατεθεί από την εταιρία ΕΡΤ ΑΕ δήλωση δομικών κατασκευών κεραιών  \nμε αριθ. πρωτ. ΣΗΛΥΑ 39100/21-05-2020 κατά τα οριζόμενα στην παρ. 7 του άρθρου 34 του Ν.4635/2019.",
+  "measurements_eaee": "-",
+  "documents": [
+    {
+      "document_number": "406014/17-05-2020",
+      "protocol_number": "σχέδια/",
+      "type": "Άλλο",
+      "file_url": "https://silia.eett.gr/silia/download/c813e657-d7f2-405b-bc34-41d11e9bb3a6"
+    },
+    {
+      "document_number": "406015/17-05-2020",
+      "protocol_number": "απογραφή 1987/",
+      "type": "Άλλο",
+      "file_url": "https://silia.eett.gr/silia/download/1d59e5f6-e844-40ee-b953-78bf50142a08"
+    },
+    {
+      "document_number": "406016/17-05-2020",
+      "protocol_number": "πίνακας 7 απογραφής ΕΡΤ 1987/",
+      "type": "Άλλο",
+      "file_url": "https://silia.eett.gr/silia/download/67773498-7eec-4e5f-8282-8a1de1270157"
+    },
+    {
+      "document_number": "406884/21-05-2020",
+      "protocol_number": "δορυφορική λήψη και στοιχεία δομικών κατασκευών/",
+      "type": "Άλλο",
+      "file_url": "https://silia.eett.gr/silia/download/c20019aa-684c-4d2a-b83f-2c4526a2c072"
+    },
+    {
+      "document_number": "406915/21-05-2020",
+      "protocol_number": "Αρχείο Αίτησης/",
+      "type": "Δήλωση Δομικών ΕΡΤ",
+      "file_url": "https://silia.eett.gr/silia/download/cbaea92b-5b92-463c-b584-6d1a81d6e6c2"
+    }
+  ]
+}

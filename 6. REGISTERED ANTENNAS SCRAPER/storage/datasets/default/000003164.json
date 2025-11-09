@@ -1,0 +1,123 @@
+{
+  "antenna_id": "141446",
+  "address": "ΘΕΣΗ \"ΒΟΡΝΑ, ΕΤΙΑΝΗ ΚΕΦΑΛΑ\"",
+  "position_code": 1000298,
+  "municipality": "Σητείας",
+  "code_name": "ΛΙΘΙΝΕΣ",
+  "region": "Κρήτης",
+  "latitude": 35.069167,
+  "company": "VODAFONE",
+  "longitude": 26.0675,
+  "permit_status": "Από τα στοιχεία που τηρούνται στην Ενημερωτική Πύλη προκύπτει ότι, για τη θέση \"ΘΕΣΗ \"ΒΟΡΝΑ, ΕΤΙΑΝΗ ΚΕΦΑΛΑ\"\" στον Δήμο Σητείας Περιφέρειας  Κρήτης \n\t(κωδικός αριθμός θέσης 1000298, κωδική ονομασία \"ΛΙΘΙΝΕΣ\") χορηγήθηκε, με την Απόφαση της ΕΕΤΤ \n37076/12-10-2020, άδεια κατασκευής κεραίας στην εταιρία VODAFONE. \nΑπό τo έγγραφο της άδειας μπορείτε να ενημερωθείτε για τις σχετικές εγκρίσεις των συναρμόδιων φορέων, καθώς και εάν πρόκειται για τροποποίηση παλαιότερης άδειας.\nΗ άδεια χορηγήθηκε με τη διαδικασία αδειοδότησης που ορίζει ο ν. 4635/2019, κατόπιν της με αριθ. πρωτ. 32102/15-03-2019 \n\tαίτησης, και βάσει σχετικής δήλωσης του κατόχου της περί υπαγωγή της κατασκευής κεραίας στο άρθρο 34 του ν. 4635/2019.\nΕπιπλέον, έχει υποβληθεί η με αριθ. πρωτ. ΣΗΛΥΑ 42789/08-02-2021 (Δήλωση Παρ. 1Γ, άρθρ. 28, ν. 4635/2019) δήλωση που αφορά σε τροποποίηση/επικαιροποίηση στοιχείων της κατασκευής κεραίας που αφορούν τον(ους) Τομέα(εις) Αδειοδότησης:Στέγαση, Έκταση.\n\tΔιευκρινίζεται ότι υπό ορισμένες προϋποθέσεις για την τροποποίηση αδειοδοτημένης κατασκευής κεραίας ή/και την επικαιροποίηση στοιχείων της δεν απαιτείται η έκδοση νέας άδειας \n\tκατασκευής κεραίας ή η τροποποίηση της υφιστάμενης άδειας κατασκευής κεραίας, αλλά απαιτείται η υποβολή κατάλληλης δήλωσης από τον κάτοχο της κατασκευής κεραίας συνοδευόμενη \n\tαπό επικαιροποίηση επιμέρους εγκρίσεων.",
+  "measurements_eaee": "-",
+  "documents": [
+    {
+      "document_number": "360639/14-03-2019",
+      "protocol_number": "ΜΕΛΕΤΗ Ρ-Ε/11-01-2019",
+      "type": "Αίτηση - Μελέτη Ραδιοεκπομπών ΕΕΑΕ",
+      "file_url": "https://silia.eett.gr/silia/download/97aef733-97db-4683-bf87-e91e7dcddbc1"
+    },
+    {
+      "document_number": "360718/15-03-2019",
+      "protocol_number": "Δ3/Δ/34780/4990 αρχικη/08-08-1995",
+      "type": "Γνωμάτευση ΥΠΑ",
+      "file_url": "https://silia.eett.gr/silia/download/ec644604-cf82-479d-b966-9590f9d136b0"
+    },
+    {
+      "document_number": "360719/15-03-2019",
+      "protocol_number": "Δ3/Δ/8931/13-11-2007",
+      "type": "Γνωμάτευση ΥΠΑ",
+      "file_url": "https://silia.eett.gr/silia/download/d926460f-9755-45df-8bea-00181cd88b6d"
+    },
+    {
+      "document_number": "360720/15-03-2019",
+      "protocol_number": "ΤΟΠΟΓΡΑΦΙΚΟ /",
+      "type": "Τοπογραφικό",
+      "file_url": "https://silia.eett.gr/silia/download/cb1aa071-c052-4ab4-85d5-b021caff44e4"
+    },
+    {
+      "document_number": "360721/15-03-2019",
+      "protocol_number": "ΑΡΧΙΤΕΚΤΟΝΙΚΑ/",
+      "type": "Αρχιτεκτονικά Σχέδια",
+      "file_url": "https://silia.eett.gr/silia/download/6f47ece4-c23d-4f3b-9cf2-04914c6a93f9"
+    },
+    {
+      "document_number": "360783/15-03-2019",
+      "protocol_number": "Αρχείο Αίτησης/",
+      "type": "Αίτηση Άδειας Κατασκευής Κεραίας ΕΕΤΤ",
+      "file_url": "https://silia.eett.gr/silia/download/f668e2a5-fd29-4eb5-a5f5-dadd7edc2178"
+    },
+    {
+      "document_number": "360805/15-03-2019",
+      "protocol_number": "ΥΔ WIND/15-03-2019",
+      "type": "Άλλο",
+      "file_url": "https://silia.eett.gr/silia/download/ced7d12b-5f71-4647-80a2-632ec54e7842"
+    },
+    {
+      "document_number": "367072/03-06-2019",
+      "protocol_number": "Mi/411/8215/31-05-2019",
+      "type": "Γνωμάτευση ΕΕΑΕ",
+      "file_url": "https://silia.eett.gr/silia/download/48f3010e-87a8-4b2e-918f-61910de60d93"
+    },
+    {
+      "document_number": "415575/01-09-2020",
+      "protocol_number": "574/12-03-2019",
+      "type": "Έγκριση Αρμοδίου Φορέα",
+      "file_url": "https://silia.eett.gr/silia/download/b1ce3a2c-5412-4844-aaac-3843d82fd00e"
+    },
+    {
+      "document_number": "418899/14-10-2020",
+      "protocol_number": "36076/12-10-2020",
+      "type": "Άδεια Κατασκευής  Κεραίας",
+      "file_url": "https://silia.eett.gr/silia/download/0d6423f7-d742-4c9b-88f5-dbc97601e739"
+    },
+    {
+      "document_number": "419450/20-10-2020",
+      "protocol_number": "37076/12-10-2020",
+      "type": "Άδεια Κατασκευής  Κεραίας",
+      "file_url": "https://silia.eett.gr/silia/download/fcb90f40-3347-41db-b920-a355e46a12b8"
+    },
+    {
+      "document_number": "360640/14-03-2019",
+      "protocol_number": "ΣΥΝΟΔΕΥΤΙΚΑ ΕΓΓΡΑΦΑ ΠΠΔ/",
+      "type": "Δήλωση υπαγωγής σε ΠΠΔ και Συνοδευτικά Έγγραφα",
+      "file_url": "https://silia.eett.gr/silia/download/f64cd5ed-c092-47e7-bafb-9b6d72207be8"
+    },
+    {
+      "document_number": "360642/14-03-2019",
+      "protocol_number": "ΜΕΛΕΤΗ Ρ-Ε/11-01-2019",
+      "type": "Αίτηση - Μελέτη Ραδιοεκπομπών ΕΕΑΕ",
+      "file_url": "https://silia.eett.gr/silia/download/97aef733-97db-4683-bf87-e91e7dcddbc1"
+    },
+    {
+      "document_number": "360784/15-03-2019",
+      "protocol_number": "Αρχείο Αίτησης/",
+      "type": "Δήλωση ΠΠΔ",
+      "file_url": "https://silia.eett.gr/silia/download/736d0f0f-7cd7-476d-b304-b31c4a890350"
+    },
+    {
+      "document_number": "428948/05-02-2021",
+      "protocol_number": "Τοπογραφικό διάγραμμα/",
+      "type": "Τοπογραφικό",
+      "file_url": "https://silia.eett.gr/silia/download/1f8a16fc-d41c-4547-b150-cce513770e54"
+    },
+    {
+      "document_number": "428949/05-02-2021",
+      "protocol_number": "Αρχιτεκτονικά σχέδια/",
+      "type": "Αρχιτεκτονικά Σχέδια",
+      "file_url": "https://silia.eett.gr/silia/download/642f9118-8d83-4552-a3a7-e297fcaf9e50"
+    },
+    {
+      "document_number": "429035/08-02-2021",
+      "protocol_number": "ΥΔ κοινής χρήσης Wind/08-02-2021",
+      "type": "Άλλο",
+      "file_url": "https://silia.eett.gr/silia/download/33974ae9-2a59-43b9-b4d6-bcacf9f9748b"
+    },
+    {
+      "document_number": "429036/08-02-2021",
+      "protocol_number": "Αρχείο Αίτησης/",
+      "type": "Δήλωση ΔΤΚΚ",
+      "file_url": "https://silia.eett.gr/silia/download/2607ada4-947f-44cd-ba11-2a32f1057ac8"
+    }
+  ]
+}

@@ -1,0 +1,87 @@
+{
+  "antenna_id": "141087",
+  "address": "ΑΓΙΟΙ ΣΑΡΑΝΤΑ -ΑΝΔΡΟΣ -Ν. ΚΥΚΛΑΔΩΝ",
+  "position_code": 1000461,
+  "municipality": "Άνδρου",
+  "code_name": "Β. Α. ΑΝΔΡΟΣ",
+  "region": "Νοτίου Αιγαίου",
+  "latitude": 37.933056,
+  "company": "NOVA Μ.Α.Ε.",
+  "longitude": 24.779167,
+  "permit_status": "Από τα στοιχεία που τηρούνται στην Ενημερωτική Πύλη προκύπτει ότι, για τη θέση \"ΑΓΙΟΙ ΣΑΡΑΝΤΑ -ΑΝΔΡΟΣ -Ν. ΚΥΚΛΑΔΩΝ\" στον Δήμο Άνδρου Περιφέρειας  Νοτίου Αιγαίου \n\t(κωδικός αριθμός θέσης 1000461, κωδική ονομασία \"Β. Α. ΑΝΔΡΟΣ\") χορηγήθηκε, με την Απόφαση της ΕΕΤΤ \n40448/27-04-2021, άδεια κατασκευής κεραίας στην εταιρία NOVA Μ.Α.Ε.. \nΑπό τo έγγραφο της άδειας μπορείτε να ενημερωθείτε για τις σχετικές εγκρίσεις των συναρμόδιων φορέων, καθώς και εάν πρόκειται για τροποποίηση παλαιότερης άδειας.\nΗ άδεια χορηγήθηκε με τη διαδικασία αδειοδότησης που ορίζει ο ν. 4635/2019, κατόπιν της με αριθ. πρωτ. 31784/20-02-2019 \n\tαίτησης, και βάσει σχετικής δήλωσης του κατόχου της περί υπαγωγή της κατασκευής κεραίας στο άρθρο 34 του ν. 4635/2019.",
+  "measurements_eaee": "-",
+  "documents": [
+    {
+      "document_number": "358589/20-02-2019",
+      "protocol_number": "ΜΕΛΕΤΗ Ρ-Ε/01-10-2018",
+      "type": "Αίτηση - Μελέτη Ραδιοεκπομπών ΕΕΑΕ",
+      "file_url": "https://silia.eett.gr/silia/download/35976bd6-2ce7-4333-a450-2888fd1a8aae"
+    },
+    {
+      "document_number": "358597/20-02-2019",
+      "protocol_number": "Αρχείο Αίτησης/",
+      "type": "Αίτηση Άδειας Κατασκευής Κεραίας ΕΕΤΤ",
+      "file_url": "https://silia.eett.gr/silia/download/b0a875ab-441f-47b4-a9a6-21617ba0d5d2"
+    },
+    {
+      "document_number": "379870/16-10-2019",
+      "protocol_number": "Δ3/Δ/35396/5233/01-09-1997",
+      "type": "Γνωμάτευση ΥΠΑ",
+      "file_url": "https://silia.eett.gr/silia/download/12302f51-49c9-4d41-903b-d567fd76fdf2"
+    },
+    {
+      "document_number": "379965/17-10-2019",
+      "protocol_number": "ΤΟΠΟΓΡΑΦΙΚΟ/",
+      "type": "Τοπογραφικό",
+      "file_url": "https://silia.eett.gr/silia/download/5c782876-8cd6-4e87-97b8-4bb751d037a6"
+    },
+    {
+      "document_number": "379966/17-10-2019",
+      "protocol_number": "ΑΡΧΙΤΕΚΤΟΝΙΚΑ/",
+      "type": "Αρχιτεκτονικά Σχέδια",
+      "file_url": "https://silia.eett.gr/silia/download/dfe209f7-f38d-4fcc-9031-1d62fec6cba3"
+    },
+    {
+      "document_number": "379967/17-10-2019",
+      "protocol_number": "ΥΔ WIND/22-02-2019",
+      "type": "Άλλο",
+      "file_url": "https://silia.eett.gr/silia/download/1498aeb9-4b95-44a1-9784-b00c7e35dbc4"
+    },
+    {
+      "document_number": "383668/19-11-2019",
+      "protocol_number": "Μ.ι./411/16627/2019/18-11-2019",
+      "type": "Γνωμάτευση ΕΕΑΕ",
+      "file_url": "https://silia.eett.gr/silia/download/842dd118-9ffc-4e02-bfac-2f9815ba51e1"
+    },
+    {
+      "document_number": "419791/22-10-2020",
+      "protocol_number": "ΠΡΩΤΟΚΟΛΛΟ ΕΓΚΑΤΑΣΤΑΣΗΣ/14-10-2020",
+      "type": "Έγγραφο Αρμοδίου Φορέα",
+      "file_url": "https://silia.eett.gr/silia/download/b96699cf-3897-422e-8c0b-083300903d97"
+    },
+    {
+      "document_number": "434655/06-05-2021",
+      "protocol_number": "40448/27-04-2021",
+      "type": "Άδεια Κατασκευής  Κεραίας",
+      "file_url": "https://silia.eett.gr/silia/download/644dddeb-37cb-437a-9106-4b73add7661e"
+    },
+    {
+      "document_number": "358590/20-02-2019",
+      "protocol_number": "ΜΕΛΕΤΗ Ρ-Ε/01-10-2018",
+      "type": "Αίτηση - Μελέτη Ραδιοεκπομπών ΕΕΑΕ",
+      "file_url": "https://silia.eett.gr/silia/download/35976bd6-2ce7-4333-a450-2888fd1a8aae"
+    },
+    {
+      "document_number": "379857/16-10-2019",
+      "protocol_number": "ΣΥΝΟΔΕΥΤΙΚΑ ΕΓΓΡΑΦΑ ΠΠΔ/",
+      "type": "Δήλωση υπαγωγής σε ΠΠΔ και Συνοδευτικά Έγγραφα",
+      "file_url": "https://silia.eett.gr/silia/download/853bc4d9-458a-462f-91d7-ced05cdad680"
+    },
+    {
+      "document_number": "379968/17-10-2019",
+      "protocol_number": "Αρχείο Αίτησης/",
+      "type": "Δήλωση ΠΠΔ",
+      "file_url": "https://silia.eett.gr/silia/download/ffd28761-dc27-460f-8d40-e1cefd3c60a5"
+    }
+  ]
+}

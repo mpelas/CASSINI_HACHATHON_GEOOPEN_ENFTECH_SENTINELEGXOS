@@ -1,0 +1,45 @@
+{
+  "antenna_id": "168727",
+  "address": "ΝΕΟ ΜΟΝΑΣΤΗΡΙ ΔΟΜΟΚΟΥ",
+  "position_code": 1270713,
+  "municipality": "Δομοκού",
+  "code_name": "MARKOU ABEE",
+  "region": "Στερεάς Ελλάδας",
+  "latitude": 39.225278,
+  "company": "NOVA Μ.Α.Ε.",
+  "longitude": 22.284444,
+  "permit_status": "Από τα στοιχεία που τηρούνται στην Ενημερωτική Πύλη προκύπτει ότι, για τη θέση \"ΝΕΟ ΜΟΝΑΣΤΗΡΙ ΔΟΜΟΚΟΥ\" στον Δήμο Δομοκού Περιφέρειας  Στερεάς Ελλάδας \n\t(κωδικός αριθμός θέσης 1270713, κωδική ονομασία \"MARKOU ABEE\") έχει κατατεθεί από την εταιρία NOVA Μ.Α.Ε.\tδήλωση εγκατάστασης κατασκευής κεραίας (αριθ. πρωτ. \n\t51896/01-06-2023) που εμπίπτει στις διατάξεις της νομοθεσίας για Εγκαταστάσεις Κατασκευών Κεραιών Χαμηλής Ηλεκτρομαγνητικής Περιβαλλοντικής Όχλησης (ΕΚΚΧΟ).",
+  "measurements_eaee": "-",
+  "documents": [
+    {
+      "document_number": "486967/01-06-2023",
+      "protocol_number": "ΑΠΕΙΚΟΝΙΣΗ GOOGLE EARTH/",
+      "type": "Άλλο",
+      "file_url": "https://silia.eett.gr/silia/download/0e19b762-1d4f-4e07-99a6-1a7bef087e09"
+    },
+    {
+      "document_number": "486968/01-06-2023",
+      "protocol_number": "ΦΩΤΟΓΡΑΦΙΑ ΕΚΚΧΟ/",
+      "type": "Φωτογραφικό Υλικό - Σκαρίφημα",
+      "file_url": "https://silia.eett.gr/silia/download/464e86a7-0443-4c04-8d66-07a4da2d5e10"
+    },
+    {
+      "document_number": "486969/01-06-2023",
+      "protocol_number": "ΣΚΑΡΙΦΗΜΑ ΕΚΚΧΟ/",
+      "type": "Φωτογραφικό Υλικό - Σκαρίφημα",
+      "file_url": "https://silia.eett.gr/silia/download/6c5af55b-ca0c-4b9e-a69b-34a2098bfd13"
+    },
+    {
+      "document_number": "486977/01-06-2023",
+      "protocol_number": "ΜΕΛΕΤΗ ΕΚΚΧΟ/",
+      "type": "Άλλο",
+      "file_url": "https://silia.eett.gr/silia/download/d8521d66-0536-44fa-a223-d429377c7f62"
+    },
+    {
+      "document_number": "486978/01-06-2023",
+      "protocol_number": "Αρχείο Αίτησης/",
+      "type": "Δήλωση ΕΚΚΧΟ",
+      "file_url": "https://silia.eett.gr/silia/download/13b30a4b-d99b-4078-a4b2-f7a70b1551cd"
+    }
+  ]
+}

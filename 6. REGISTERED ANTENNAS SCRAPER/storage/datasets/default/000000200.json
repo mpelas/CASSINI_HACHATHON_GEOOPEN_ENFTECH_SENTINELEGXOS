@@ -1,0 +1,105 @@
+{
+  "antenna_id": "167568",
+  "address": "ΠΑΡΟΔΟΣ ΑΛΚΗ ΑΡΓΥΡΙΑΔΗ 157",
+  "position_code": 1007095,
+  "municipality": "Αγίου Δημητρίου",
+  "code_name": "ΜΕΝΕΛΑΟΥ ΑΓΙΟΣ ΔΗΜΗΤΡΙΟΣ",
+  "region": "Αττικής",
+  "latitude": 37.93,
+  "company": "VODAFONE",
+  "longitude": 23.727222,
+  "permit_status": "Από τα στοιχεία που τηρούνται στην Ενημερωτική Πύλη προκύπτει ότι, για τη θέση \"ΠΑΡΟΔΟΣ ΑΛΚΗ ΑΡΓΥΡΙΑΔΗ 157\" στον Δήμο Αγίου Δημητρίου Περιφέρειας  Αττικής \n\t(κωδικός αριθμός θέσης 1007095, κωδική ονομασία \"ΜΕΝΕΛΑΟΥ ΑΓΙΟΣ ΔΗΜΗΤΡΙΟΣ \") χορηγήθηκε, με την Απόφαση της ΕΕΤΤ \n47877/09-05-2023, άδεια κατασκευής κεραίας στην εταιρία VODAFONE. \nΑπό τo έγγραφο της άδειας μπορείτε να ενημερωθείτε για τις σχετικές εγκρίσεις των συναρμόδιων φορέων, καθώς και εάν πρόκειται για τροποποίηση παλαιότερης άδειας.\n\tΣύμφωνα με τα στοιχεία που έχουν υποβληθεί στο ΣΗΛΥΑ, ο κάτοχος της κατασκευής κεραίας έχει δηλώσει ότι θα προβεί σε έκδοση έγκρισης δομικών κατασκευών \n\t\tκεραίας μέσω του e-Άδειες \n\t\tμετά την έκδοση της άδειας κατασκευής κεραίας / δημοσιοποίηση της δήλωσης τροποποίησης της κατασκευής κεραίας",
+  "measurements_eaee": "-",
+  "documents": [
+    {
+      "document_number": "480266/14-03-2023",
+      "protocol_number": "ΤΟΠΟΓΡΑΦΙΚΟ ΔΙΑΓΡΑΜΜΑ/",
+      "type": "Τοπογραφικό",
+      "file_url": "https://silia.eett.gr/silia/download/3f2b10d7-7967-463f-9d8a-f7d37e269b65"
+    },
+    {
+      "document_number": "480267/14-03-2023",
+      "protocol_number": "ΑΡΧΙΤΕΚΤΟΝΙΚΗ ΜΕΛΕΤΗ/",
+      "type": "Αρχιτεκτονικά Σχέδια",
+      "file_url": "https://silia.eett.gr/silia/download/2261f1ec-9230-45e5-a69d-4f94495ee883"
+    },
+    {
+      "document_number": "480268/14-03-2023",
+      "protocol_number": "ΜΕΛΕΤΗ ΡΑΔΙΟΕΚΠΟΜΠΩΝ/10-03-2023",
+      "type": "Αίτηση - Μελέτη Ραδιοεκπομπών ΕΕΑΕ",
+      "file_url": "https://silia.eett.gr/silia/download/ffd06552-7882-4722-8d64-54a2e3db7f2a"
+    },
+    {
+      "document_number": "480269/14-03-2023",
+      "protocol_number": "ΜΕΛΕΤΗ ΣΥΜΒΑΤΟΤΗΤΑΣ 2700MHz VF/10-03-2023",
+      "type": "Μελέτη για τη ζώνη  2,6GHz",
+      "file_url": "https://silia.eett.gr/silia/download/b9c94900-e291-4ab2-bccc-5ebd4b8b75af"
+    },
+    {
+      "document_number": "480270/14-03-2023",
+      "protocol_number": "ΧΑΡΤΗΣ ΥΠΑ/",
+      "type": "Απόσπασμα Χάρτη ΓΥΣ 1:50.000",
+      "file_url": "https://silia.eett.gr/silia/download/a7a8f8cc-7972-4b83-a46e-7a956f8ae6b4"
+    },
+    {
+      "document_number": "480271/14-03-2023",
+      "protocol_number": "ΜΕΛΕΤΗ ΕΣΔΕΦΡ/13-03-2023",
+      "type": "Άλλο",
+      "file_url": "https://silia.eett.gr/silia/download/46e5d506-a650-4608-b9fe-c70f2b9a872e"
+    },
+    {
+      "document_number": "480272/14-03-2023",
+      "protocol_number": "6079/08-03-2023",
+      "type": "Αίτηση Ραδιοσυχνοτήτων",
+      "file_url": "https://silia.eett.gr/silia/download/256201d9-a815-4966-bf03-dcdc835ea2fe"
+    },
+    {
+      "document_number": "480710/21-03-2023",
+      "protocol_number": "31684/17-03-2023",
+      "type": "Αποτελέσματα μελέτης στη ζώνης 2.6GHz για ΥΠΑ/ΓΕΕΘΑ",
+      "file_url": "https://silia.eett.gr/silia/download/cbcf203c-1346-4482-b47e-7d71a4b9f3d3"
+    },
+    {
+      "document_number": "480711/21-03-2023",
+      "protocol_number": "Αρχείο Αίτησης/",
+      "type": "Αίτηση Άδειας Κατασκευής Κεραίας ΕΕΤΤ",
+      "file_url": "https://silia.eett.gr/silia/download/2eb81573-80f7-4683-9e19-8b286afbe980"
+    },
+    {
+      "document_number": "482114/07-04-2023",
+      "protocol_number": "ΚΓ/Δ3/Δ/7456/07-04-2023",
+      "type": "Γνωμάτευση ΥΠΑ",
+      "file_url": "https://silia.eett.gr/silia/download/74df2015-7d33-49e2-8db7-fb57b022570b"
+    },
+    {
+      "document_number": "482335/11-04-2023",
+      "protocol_number": "ΤΜΙΑ/411/4901/2023/11-04-2023",
+      "type": "Γνωμάτευση ΕΕΑΕ",
+      "file_url": "https://silia.eett.gr/silia/download/682b8769-4fa4-4ca2-a7d5-4fe4bc6f034e"
+    },
+    {
+      "document_number": "484717/12-05-2023",
+      "protocol_number": "47877/09-05-2023",
+      "type": "Άδεια Κατασκευής  Κεραίας",
+      "file_url": "https://silia.eett.gr/silia/download/be63faff-1313-4af0-8468-58e65ba3a26d"
+    },
+    {
+      "document_number": "480276/14-03-2023",
+      "protocol_number": "ΜΕΛΕΤΗ ΡΑΔΙΟΕΚΠΟΜΠΩΝ/10-03-2023",
+      "type": "Αίτηση - Μελέτη Ραδιοεκπομπών ΕΕΑΕ",
+      "file_url": "https://silia.eett.gr/silia/download/ffd06552-7882-4722-8d64-54a2e3db7f2a"
+    },
+    {
+      "document_number": "480277/14-03-2023",
+      "protocol_number": "ΣΥΝΟΔΕΥΤΙΚΑ ΕΓΓΡΑΦΑ ΠΠΔ/",
+      "type": "Δήλωση υπαγωγής σε ΠΠΔ και Συνοδευτικά Έγγραφα",
+      "file_url": "https://silia.eett.gr/silia/download/43644714-c2d8-42db-a79c-6c7b6da9eca8"
+    },
+    {
+      "document_number": "480712/21-03-2023",
+      "protocol_number": "Αρχείο Αίτησης/",
+      "type": "Δήλωση ΠΠΔ",
+      "file_url": "https://silia.eett.gr/silia/download/3ba6ba84-6848-4687-8be5-cfd1b4ad3ae6"
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "antenna_id": "154586",
+  "address": "Δήμος Αχαρνών, Π.Ε Ανατολικής Αττικής , Περιφέρεια Αττικής",
+  "position_code": 3207074,
+  "municipality": "Αχαρνών",
+  "code_name": "ΠΑΡΝΗΘΑ-Δ",
+  "region": "Αττικής",
+  "latitude": 38.171667,
+  "company": "ΕΡΤ ΑΕ",
+  "longitude": 23.731667,
+  "permit_status": "Από τα στοιχεία που τηρούνται στην Ενημερωτική Πύλη προκύπτει ότι για τη  θέση \"Δήμος Αχαρνών, Π.Ε Ανατολικής Αττικής , Περιφέρεια Αττικής\" στον Δήμο Αχαρνών Περιφέρειας  Αττικής έχει κατατεθεί από την εταιρία ΕΡΤ ΑΕ δήλωση δομικών κατασκευών κεραιών  \nμε αριθ. πρωτ. ΣΗΛΥΑ 39092/21-05-2020 κατά τα οριζόμενα στην παρ. 7 του άρθρου 34 του Ν.4635/2019.",
+  "measurements_eaee": "-",
+  "documents": [
+    {
+      "document_number": "405985/17-05-2020",
+      "protocol_number": "δορυφορική λήψη και στοιχεία δομικών κατασκευών/",
+      "type": "Άλλο",
+      "file_url": "https://silia.eett.gr/silia/download/ddd07d62-3f22-416e-a1bf-5ae3c6df137a"
+    },
+    {
+      "document_number": "405986/17-05-2020",
+      "protocol_number": "σχέδια/",
+      "type": "Άλλο",
+      "file_url": "https://silia.eett.gr/silia/download/cf0fe6d5-3090-4343-a25b-d8f84f9a5ac5"
+    },
+    {
+      "document_number": "405987/17-05-2020",
+      "protocol_number": "απογραφή 1987/",
+      "type": "Άλλο",
+      "file_url": "https://silia.eett.gr/silia/download/d6b01506-075c-44e3-9cdd-ce2c23d7a72b"
+    },
+    {
+      "document_number": "405988/17-05-2020",
+      "protocol_number": "πίνακας 44 απογραφής ΕΡΤ 1987/",
+      "type": "Άλλο",
+      "file_url": "https://silia.eett.gr/silia/download/b4fa0602-0ef3-4986-8df4-463b9de417f5"
+    },
+    {
+      "document_number": "406894/21-05-2020",
+      "protocol_number": "Αρχείο Αίτησης/",
+      "type": "Δήλωση Δομικών ΕΡΤ",
+      "file_url": "https://silia.eett.gr/silia/download/906aac10-ba5c-4d08-a488-1a8f07a3ea39"
+    }
+  ]
+}

@@ -1,0 +1,57 @@
+{
+  "antenna_id": "177849",
+  "address": "Στουντίου 10-12 Μαρούσι.",
+  "position_code": 1154003,
+  "municipality": "Αμαρουσίου",
+  "code_name": "3034003 SPORTNEWS MAROUSI",
+  "region": "Αττικής",
+  "latitude": 38.050833,
+  "company": "VODAFONE",
+  "longitude": 23.825,
+  "permit_status": "Από τα στοιχεία που τηρούνται στην Ενημερωτική Πύλη προκύπτει ότι, για τη θέση \"Στουντίου 10-12 Μαρούσι.\" στον Δήμο Αμαρουσίου Περιφέρειας  Αττικής \n\t(κωδικός αριθμός θέσης 1154003, κωδική ονομασία \"3034003 SPORTNEWS MAROUSI\") έχει κατατεθεί από την εταιρία VODAFONE\tδήλωση εγκατάστασης κατασκευής κεραίας (αριθ. πρωτ. \n\t59572/26-02-2025) που εμπίπτει στις διατάξεις της νομοθεσίας για Εγκαταστάσεις Κατασκευών Κεραιών Χαμηλής Ηλεκτρομαγνητικής Περιβαλλοντικής Όχλησης (ΕΚΚΧΟ).",
+  "measurements_eaee": "-",
+  "documents": [
+    {
+      "document_number": "542109/26-02-2025",
+      "protocol_number": "Φωτορεαλιστική απεικόνιση κεραίας ΕΚΚΧΟ/26-02-2025",
+      "type": "Φωτογραφικό Υλικό - Σκαρίφημα",
+      "file_url": "https://silia.eett.gr/silia/download/1ldwakUUYnHlnGbUigs6P8RdVCH2bPxbv2Rr"
+    },
+    {
+      "document_number": "542111/26-02-2025",
+      "protocol_number": "Ψηφιακός χάρτης με προβολή της θέσης ΕΚΚΧΟ/26-02-2025",
+      "type": "Φωτογραφικό Υλικό - Σκαρίφημα",
+      "file_url": "https://silia.eett.gr/silia/download/iTW1ng9nxvgB0NCmS9GsF4v6tGgcVzueQSXy"
+    },
+    {
+      "document_number": "542117/26-02-2025",
+      "protocol_number": "ΜΕΛΕΤΗ ΕΚΚΧΟ/26-02-2025",
+      "type": "Άλλο",
+      "file_url": "https://silia.eett.gr/silia/download/RN88eRZMBC0dccYIBOy00Z1S6CQFrbR3UgTR"
+    },
+    {
+      "document_number": "542122/26-02-2025",
+      "protocol_number": "Σκαρίφημα με περιοχή απαγόρευσης/26-02-2025",
+      "type": "Φωτογραφικό Υλικό - Σκαρίφημα",
+      "file_url": "https://silia.eett.gr/silia/download/1oGcSkHdkGMgnRIXpSwdGE2qTbfyLzNydWpI"
+    },
+    {
+      "document_number": "542125/26-02-2025",
+      "protocol_number": "Αρχείο Αίτησης/26-02-2025",
+      "type": "Δήλωση ΕΚΚΧΟ",
+      "file_url": "https://silia.eett.gr/silia/download/nHaO4OriysCWEMHQoqNuzs3VDqmp4H47tyOl"
+    },
+    {
+      "document_number": "543466/12-03-2025",
+      "protocol_number": "ΥΔ ΤΜ/06-03-2025",
+      "type": "Βεβαίωση πολιτικού μηχανικού",
+      "file_url": "https://silia.eett.gr/silia/download/bMFDn8UtPdVGR6tFF7nB3IfFxKeQayTg2Sqm"
+    },
+    {
+      "document_number": "543468/12-03-2025",
+      "protocol_number": "ΣΚΑΡΙΦΗΜΑ ΓΕΙΤΟΝΙΚΩΝ ΕΚΚΧΟ/12-03-2025",
+      "type": "Φωτογραφικό Υλικό - Σκαρίφημα",
+      "file_url": "https://silia.eett.gr/silia/download/bNM8dHyUIioGTgESQ2kfR81CFzBauSm7wYAS"
+    }
+  ]
+}

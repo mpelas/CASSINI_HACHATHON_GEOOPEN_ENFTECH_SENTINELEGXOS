@@ -1,0 +1,111 @@
+{
+  "antenna_id": "167867",
+  "address": "CRISTI ROOMS ΛΙΒΑΔΙ ΘΕΣΗ ΠΟΝΥΤΙ",
+  "position_code": 1204311,
+  "municipality": "Σερίφου",
+  "code_name": "SERIFOS LIVADI",
+  "region": "Νοτίου Αιγαίου",
+  "latitude": 37.140833,
+  "company": "NOVA Μ.Α.Ε.",
+  "longitude": 24.515833,
+  "permit_status": "Από τα στοιχεία που τηρούνται στην Ενημερωτική Πύλη προκύπτει ότι, για τη θέση \"CRISTI ROOMS ΛΙΒΑΔΙ ΘΕΣΗ ΠΟΝΥΤΙ\" στον Δήμο Σερίφου Περιφέρειας  Νοτίου Αιγαίου \n\t(κωδικός αριθμός θέσης 1204311, κωδική ονομασία \"SERIFOS LIVADI\") χορηγήθηκε, με την Απόφαση της ΕΕΤΤ \n50747/26-03-2024, άδεια κατασκευής κεραίας στην εταιρία NOVA Μ.Α.Ε.. \nΑπό τo έγγραφο της άδειας μπορείτε να ενημερωθείτε για τις σχετικές εγκρίσεις των συναρμόδιων φορέων, καθώς και εάν πρόκειται για τροποποίηση παλαιότερης άδειας.\n\tΣύμφωνα με τα στοιχεία που έχουν υποβληθεί στο ΣΗΛΥΑ, ο κάτοχος της κατασκευής κεραίας έχει δηλώσει ότι θα προβεί σε έκδοση έγκρισης δομικών κατασκευών \n\t\tκεραίας μέσω του e-Άδειες \n\t\tμετά την έκδοση της άδειας κατασκευής κεραίας / δημοσιοποίηση της δήλωσης τροποποίησης της κατασκευής κεραίας",
+  "measurements_eaee": "-",
+  "documents": [
+    {
+      "document_number": "503577/20-12-2023",
+      "protocol_number": "ΣΥΝΗΜΕΝΝΟΣ  ΜΕ ΤΗΝ ΚΑΤΑΘΕΣΗ ΣΤΗΝ ΥΠΑ/",
+      "type": "Απόσπασμα Χάρτη ΓΥΣ 1:50.000",
+      "file_url": "https://silia.eett.gr/silia/download/52520432-27ca-42c3-9add-c0fe20380515"
+    },
+    {
+      "document_number": "503578/20-12-2023",
+      "protocol_number": "ΣΥΝΗΜΕΝΝΗ ΜΕ ΤΗΝ ΚΑΤΑΘΕΣΗ ΣΤΗΝ ΕΕΑΕ/20-12-2023",
+      "type": "Αίτηση - Μελέτη Ραδιοεκπομπών ΕΕΑΕ",
+      "file_url": "https://silia.eett.gr/silia/download/58988129-e1bf-4e3a-9723-abe7bb2723fc"
+    },
+    {
+      "document_number": "503579/20-12-2023",
+      "protocol_number": "ΣΥΝΗΜΕΝΝΑ  ΜΕ ΤΗΝ ΚΑΤΑΘΕΣΗ ΣΤΗΝ ΕΕΑΕ ΑΡΧΙΤΕΚΤΟΝΙΚΑ & ΤΟΠΟΓΡΑΦΙΚΟ/",
+      "type": "Αρχιτεκτονικά Σχέδια",
+      "file_url": "https://silia.eett.gr/silia/download/e21cb4ce-ebba-4112-a497-a9972fd5fc4c"
+    },
+    {
+      "document_number": "503580/20-12-2023",
+      "protocol_number": "49081/Φ615/20-09-2023",
+      "type": "Χορήγηση Δικαιώματος Χρήσης Ραδιοσυχνοτήτων",
+      "file_url": null
+    },
+    {
+      "document_number": "503581/20-12-2023",
+      "protocol_number": "ΣΥΝΗΜΕΝΝΗ ΜΕ ΤΗΝ ΚΑΤΑΘΕΣΗ ΣΤΗΝ ΕΕΤΤ/04-04-2023",
+      "type": "Βεβαίωση πολιτικού μηχανικού",
+      "file_url": "https://silia.eett.gr/silia/download/bf42f7ca-3ad7-4f95-81aa-228072c55679"
+    },
+    {
+      "document_number": "503610/20-12-2023",
+      "protocol_number": "Αρχείο Αίτησης/",
+      "type": "Αίτηση Άδειας Κατασκευής Κεραίας ΕΕΤΤ",
+      "file_url": "https://silia.eett.gr/silia/download/c9e61901-afed-4448-8aae-c2f5b0ee5ebc"
+    },
+    {
+      "document_number": "504196/08-01-2024",
+      "protocol_number": "ΚΓ/Δ3/Δ/246/08-01-2024",
+      "type": "Γνωμάτευση ΥΠΑ",
+      "file_url": "https://silia.eett.gr/silia/download/30196eec-6858-493d-b90e-b0ecaba8d17e"
+    },
+    {
+      "document_number": "504197/08-01-2024",
+      "protocol_number": "ΚΓ/Δ3/Δ/246/08-01-2024",
+      "type": "Γνωμάτευση ΥΠΑ",
+      "file_url": "https://silia.eett.gr/silia/download/9a449e94-991e-429b-b9ab-f8d4768a5ca4"
+    },
+    {
+      "document_number": "508133/21-02-2024",
+      "protocol_number": "TMIA/411/3009/2024/21-02-2024",
+      "type": "Γνωμάτευση ΕΕΑΕ",
+      "file_url": "https://silia.eett.gr/silia/download/f09ef39c-4f7c-4615-8082-3e3b2b55041b"
+    },
+    {
+      "document_number": "511198/28-03-2024",
+      "protocol_number": "50747/26-03-2024",
+      "type": "Άδεια Κατασκευής  Κεραίας",
+      "file_url": "https://silia.eett.gr/silia/download/VedHGxnGkoErkMGGG3g9DKsut4Km2OLhvq1l"
+    },
+    {
+      "document_number": "503582/20-12-2023",
+      "protocol_number": "ΣΥΝΗΜΕΝΝΗ ΜΕ ΤΗΝ ΚΑΤΑΘΕΣΗ ΣΤΗΝ ΕΕΑΕ/20-12-2023",
+      "type": "Αίτηση - Μελέτη Ραδιοεκπομπών ΕΕΑΕ",
+      "file_url": "https://silia.eett.gr/silia/download/58988129-e1bf-4e3a-9723-abe7bb2723fc"
+    },
+    {
+      "document_number": "503583/20-12-2023",
+      "protocol_number": "ΣΥΝΗΜΕΝΝΟΣ ΜΕ ΤΗΝ ΚΑΤΑΘΕΣΗ ΣΤΗΝ ΕΕΤΤ/",
+      "type": "Χάρτης Ευαίσθητων Χρήσεων Γης",
+      "file_url": "https://silia.eett.gr/silia/download/22c697c9-e713-4c47-a54d-e2e40c22492c"
+    },
+    {
+      "document_number": "503584/20-12-2023",
+      "protocol_number": "ΣΥΝΗΜΕΝΝΗ ΜΕ ΤΗΝ ΚΑΤΑΘΕΣΗ ΣΤΗΝ ΕΕΤΤ/20-12-2023",
+      "type": "Αίτηση - Μελέτη Ραδιοεκπομπών ΕΕΑΕ (υποβάθρου)",
+      "file_url": "https://silia.eett.gr/silia/download/370a5381-76f4-4156-a83c-770c55c7f0c8"
+    },
+    {
+      "document_number": "503586/20-12-2023",
+      "protocol_number": "27682 /11-10-2022",
+      "type": "Έγκριση Αρμοδίου Φορέα",
+      "file_url": "https://silia.eett.gr/silia/download/c37746d5-5b61-4b38-acd5-c170ed12064d"
+    },
+    {
+      "document_number": "503604/20-12-2023",
+      "protocol_number": "581866/65796/10817/24-12-2020",
+      "type": "Γνωμοδότηση Υπηρεσίας Νεωτέρων Μνημείων",
+      "file_url": "https://silia.eett.gr/silia/download/9c39de52-8f65-479a-9ed4-4752f72420ac"
+    },
+    {
+      "document_number": "503611/20-12-2023",
+      "protocol_number": "Αρχείο Αίτησης/",
+      "type": "Δήλωση ΠΠΔ",
+      "file_url": "https://silia.eett.gr/silia/download/a2b699d5-fb07-4278-9c2a-c7dd7ef49fbe"
+    }
+  ]
+}

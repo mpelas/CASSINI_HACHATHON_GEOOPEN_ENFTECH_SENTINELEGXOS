@@ -1,0 +1,75 @@
+{
+  "antenna_id": "150612",
+  "address": "ΕΠΙ ΑΝΩΝΥΜΗΣ ΟΔΟΥ ΒΟΥΡΚΩΤΗ",
+  "position_code": 340048,
+  "municipality": "Άνδρου",
+  "code_name": "ΒΟΥΡΚΩΤΗ ΒΤΒ",
+  "region": "Νοτίου Αιγαίου",
+  "latitude": 37.871111,
+  "company": "OTE",
+  "longitude": 24.929722,
+  "permit_status": "Από τα στοιχεία που τηρούνται στην Ενημερωτική Πύλη προκύπτει ότι, για τη θέση \"ΕΠΙ ΑΝΩΝΥΜΗΣ ΟΔΟΥ ΒΟΥΡΚΩΤΗ \" στον Δήμο Άνδρου Περιφέρειας  Νοτίου Αιγαίου \n\t(κωδικός αριθμός θέσης 0340048, κωδική ονομασία \"ΒΟΥΡΚΩΤΗ ΒΤΒ \") χορηγήθηκε, με την Απόφαση της ΕΕΤΤ \n37392/Φ610/23-10-2020, άδεια κατασκευής κεραίας στην εταιρία OTE. \nΑπό τo έγγραφο της άδειας μπορείτε να ενημερωθείτε για τις σχετικές εγκρίσεις των συναρμόδιων φορέων, καθώς και εάν πρόκειται για τροποποίηση παλαιότερης άδειας.\nΗ άδεια χορηγήθηκε με τη διαδικασία αδειοδότησης που ορίζει ο ν. 4635/2019, κατόπιν της με αριθ. πρωτ. 37304/23-02-2020 \n\tαίτησης, και βάσει σχετικής δήλωσης του κατόχου της περί υπαγωγή της κατασκευής κεραίας στο άρθρο 34 του ν. 4635/2019.",
+  "measurements_eaee": "-",
+  "documents": [
+    {
+      "document_number": "395485/21-02-2020",
+      "protocol_number": "ΜΕΣΩ ΣΗΛΥΑ/",
+      "type": "Τοπογραφικό",
+      "file_url": "https://silia.eett.gr/silia/download/b93c4f8d-0d4a-478f-a099-d5da0fb066f4"
+    },
+    {
+      "document_number": "395486/21-02-2020",
+      "protocol_number": "ΜΕΣΩ ΣΗΛΥΑ/",
+      "type": "Αρχιτεκτονικά Σχέδια",
+      "file_url": "https://silia.eett.gr/silia/download/d3b97fef-df76-4190-aa8e-9a198084e01f"
+    },
+    {
+      "document_number": "395487/21-02-2020",
+      "protocol_number": "Δ3/Δ/17542/4359/26-05-2005",
+      "type": "Γνωμάτευση ΥΠΑ",
+      "file_url": "https://silia.eett.gr/silia/download/1822d322-922b-4ca3-906c-b55dd787b086"
+    },
+    {
+      "document_number": "395488/21-02-2020",
+      "protocol_number": "ΜΕΣΩ ΣΗΛΥΑ/03-01-2020",
+      "type": "Αίτηση - Μελέτη Ραδιοεκπομπών ΕΕΑΕ",
+      "file_url": "https://silia.eett.gr/silia/download/e8a676bc-4122-4be5-8371-438a114812aa"
+    },
+    {
+      "document_number": "395489/21-02-2020",
+      "protocol_number": "ΥΠ.ΔΗΛΩΣΗ ΣΥΝΕΓΚΑΤΑΣΤΑΣΗΣ COSMOTE/21-02-2020",
+      "type": "Άλλο",
+      "file_url": "https://silia.eett.gr/silia/download/e948b383-67fd-4a11-8f2c-c70189ae2c4c"
+    },
+    {
+      "document_number": "395675/23-02-2020",
+      "protocol_number": "Αρχείο Αίτησης/",
+      "type": "Αίτηση Άδειας Κατασκευής Κεραίας ΕΕΤΤ",
+      "file_url": "https://silia.eett.gr/silia/download/ae6bfdfd-9061-4da6-acba-f1e61ffada5f"
+    },
+    {
+      "document_number": "403180/24-04-2020",
+      "protocol_number": "Μι/411/5475/23-04-2020",
+      "type": "Γνωμάτευση ΕΕΑΕ",
+      "file_url": "https://silia.eett.gr/silia/download/dfa355f7-437d-4b73-8faa-99efef3a2fd5"
+    },
+    {
+      "document_number": "420131/26-10-2020",
+      "protocol_number": "37392/Φ610/23-10-2020",
+      "type": "Άδεια Κατασκευής  Κεραίας",
+      "file_url": "https://silia.eett.gr/silia/download/703d094f-aad4-43bf-8671-f6239c6d1cfc"
+    },
+    {
+      "document_number": "400905/01-04-2020",
+      "protocol_number": "ΣΥΝΟΔΕΥΤΙΚΑ ΕΓΓΡΑΦΑ/",
+      "type": "Δήλωση υπαγωγής σε ΠΠΔ και Συνοδευτικά Έγγραφα",
+      "file_url": "https://silia.eett.gr/silia/download/e28b8f2b-d7b4-44eb-ab94-6b89de68cfd3"
+    },
+    {
+      "document_number": "400906/01-04-2020",
+      "protocol_number": "Αρχείο Αίτησης/",
+      "type": "Δήλωση ΠΠΔ",
+      "file_url": "https://silia.eett.gr/silia/download/16f89235-aa0f-4e12-8356-e07750f0d716"
+    }
+  ]
+}

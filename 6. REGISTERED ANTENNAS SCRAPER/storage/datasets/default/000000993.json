@@ -1,0 +1,99 @@
+{
+  "antenna_id": "142914",
+  "address": "ΕΝΤΟΣ ΣΧΕΔΙΟΥ ΠΟΛΕΩΣ ΑΝΩ ΒΙΑΝΝΟΥ",
+  "position_code": 1406347,
+  "municipality": "Βιάννου",
+  "code_name": "VIANOS TK",
+  "region": "Κρήτης",
+  "latitude": 35.052778,
+  "company": "OTE",
+  "longitude": 25.411667,
+  "permit_status": "Από τα στοιχεία που τηρούνται στην Ενημερωτική Πύλη προκύπτει ότι, για τη θέση \"ΕΝΤΟΣ ΣΧΕΔΙΟΥ ΠΟΛΕΩΣ ΑΝΩ ΒΙΑΝΝΟΥ\" στον Δήμο Βιάννου Περιφέρειας  Κρήτης \n\t(κωδικός αριθμός θέσης 1406347, κωδική ονομασία \"VIANOS TK\") χορηγήθηκε, με την Απόφαση της ΕΕΤΤ \n37225/19-10-2020, άδεια κατασκευής κεραίας στην εταιρία OTE. \nΑπό τo έγγραφο της άδειας μπορείτε να ενημερωθείτε για τις σχετικές εγκρίσεις των συναρμόδιων φορέων, καθώς και εάν πρόκειται για τροποποίηση παλαιότερης άδειας.\nΗ άδεια χορηγήθηκε με τη διαδικασία αδειοδότησης που ορίζει ο ν. 4635/2019, κατόπιν της με αριθ. πρωτ. 36197/23-12-2019 \n\tαίτησης, και βάσει σχετικής δήλωσης του κατόχου της περί υπαγωγή της κατασκευής κεραίας στο άρθρο 34 του ν. 4635/2019.",
+  "measurements_eaee": "-",
+  "documents": [
+    {
+      "document_number": "368978/27-06-2019",
+      "protocol_number": "Δ3/Δ/11881/1908/25-05-2000",
+      "type": "Γνωμάτευση ΥΠΑ",
+      "file_url": "https://silia.eett.gr/silia/download/8e3722a1-b845-412c-bb33-b273c8799342"
+    },
+    {
+      "document_number": "368979/27-06-2019",
+      "protocol_number": "Δ3/Δ/1557/09-03-2011",
+      "type": "Γνωμάτευση ΥΠΑ",
+      "file_url": "https://silia.eett.gr/silia/download/5951311d-d895-4f44-a965-4ece00ea20fd"
+    },
+    {
+      "document_number": "368980/27-06-2019",
+      "protocol_number": "ΜΕΣΩ ΣΗΛΥΑ/27-06-2019",
+      "type": "Αίτηση ΥΠΑ",
+      "file_url": "https://silia.eett.gr/silia/download/5886ba70-eb09-405f-a6a5-651efca354dc"
+    },
+    {
+      "document_number": "368981/27-06-2019",
+      "protocol_number": "ΜΕΣΩ ΣΗΛΥΑ/25-04-2019",
+      "type": "Αίτηση - Μελέτη Ραδιοεκπομπών ΕΕΑΕ",
+      "file_url": "https://silia.eett.gr/silia/download/a877c749-a945-4451-a8cf-41913a166b4b"
+    },
+    {
+      "document_number": "368982/27-06-2019",
+      "protocol_number": "ΥΠΕΥΘΥΝΗ ΔΗΛΩΣΗ ΣΥΝΕΓΚΑΤΑΣΤΑΣΗΣ  ΟΤΕ/27-06-2019",
+      "type": "Άλλο",
+      "file_url": "https://silia.eett.gr/silia/download/322220af-8b33-4f97-9e96-3a4505b789f1"
+    },
+    {
+      "document_number": "376325/20-09-2019",
+      "protocol_number": "EMC/14-09-2019",
+      "type": "Μελέτη για τη ζώνη  2,6GHz",
+      "file_url": "https://silia.eett.gr/silia/download/213fa995-8ef3-4254-9651-482022ebc783"
+    },
+    {
+      "document_number": "385155/02-12-2019",
+      "protocol_number": "ΜΕΣΩ ΣΗΛΥΑ    /",
+      "type": "Τοπογραφικό",
+      "file_url": "https://silia.eett.gr/silia/download/c1583d18-e03d-4914-bdb7-c820c570ab59"
+    },
+    {
+      "document_number": "385156/02-12-2019",
+      "protocol_number": "ΜΕΣΩ ΣΗΛΥΑ    /",
+      "type": "Αρχιτεκτονικά Σχέδια",
+      "file_url": "https://silia.eett.gr/silia/download/cca73111-6a75-48c6-96e0-9a4d703cafce"
+    },
+    {
+      "document_number": "387595/23-12-2019",
+      "protocol_number": "Αρχείο Αίτησης/",
+      "type": "Αίτηση Άδειας Κατασκευής Κεραίας ΕΕΤΤ",
+      "file_url": "https://silia.eett.gr/silia/download/8d1767e2-447d-48bc-9952-b178b84cdd5d"
+    },
+    {
+      "document_number": "402257/14-04-2020",
+      "protocol_number": "Μ.ι./411/5103/2020/13-04-2020",
+      "type": "Γνωμάτευση ΕΕΑΕ",
+      "file_url": "https://silia.eett.gr/silia/download/dbb73dff-4693-4dd9-a4a5-defaad721614"
+    },
+    {
+      "document_number": "405154/12-05-2020",
+      "protocol_number": "29760/12-05-2020",
+      "type": "Επιστολή Ενημέρωσης προς Αρμόδιο Φορέα",
+      "file_url": "https://silia.eett.gr/silia/download/000eabeb-f94c-4a07-aea7-5b67fc32d2b5"
+    },
+    {
+      "document_number": "419818/22-10-2020",
+      "protocol_number": "37225/19-10-2020",
+      "type": "Άδεια Κατασκευής  Κεραίας",
+      "file_url": "https://silia.eett.gr/silia/download/d547f3cd-3118-4fe9-8c9a-89376bac580c"
+    },
+    {
+      "document_number": "368984/27-06-2019",
+      "protocol_number": "ΜΕΣΩ ΣΗΛΥΑ/",
+      "type": "Δήλωση υπαγωγής σε ΠΠΔ και Συνοδευτικά Έγγραφα",
+      "file_url": "https://silia.eett.gr/silia/download/d2785d54-1efd-41bb-b54b-12396879e0f0"
+    },
+    {
+      "document_number": "387596/23-12-2019",
+      "protocol_number": "Αρχείο Αίτησης/",
+      "type": "Δήλωση ΠΠΔ",
+      "file_url": "https://silia.eett.gr/silia/download/323be126-e7bb-46aa-a9c9-6bcd81763c27"
+    }
+  ]
+}

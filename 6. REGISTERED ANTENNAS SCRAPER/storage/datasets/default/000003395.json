@@ -1,0 +1,39 @@
+{
+  "antenna_id": "165723",
+  "address": "ΘΕΣΗ ΛΥΣΙΑ, ΠΕΟ Αθηνών Θεσσαλονίκης, Οινόφυτα",
+  "position_code": 1149605,
+  "municipality": "Τανάγρας",
+  "code_name": "3029605 PYRAMIS OINOFYTA TANAGRA",
+  "region": "Στερεάς Ελλάδας",
+  "latitude": 38.307778,
+  "company": "VODAFONE",
+  "longitude": 23.659167,
+  "permit_status": "Από τα στοιχεία που τηρούνται στην Ενημερωτική Πύλη προκύπτει ότι, για τη θέση \"ΘΕΣΗ ΛΥΣΙΑ, ΠΕΟ Αθηνών Θεσσαλονίκης, Οινόφυτα \" στον Δήμο Τανάγρας Περιφέρειας  Στερεάς Ελλάδας \n\t(κωδικός αριθμός θέσης 1149605, κωδική ονομασία \"3029605 PYRAMIS OINOFYTA TANAGRA\") έχει κατατεθεί από την εταιρία VODAFONE\tδήλωση εγκατάστασης κατασκευής κεραίας (αριθ. πρωτ. \n\t49618/19-10-2022) που εμπίπτει στις διατάξεις της νομοθεσίας για Εγκαταστάσεις Κατασκευών Κεραιών Χαμηλής Ηλεκτρομαγνητικής Περιβαλλοντικής Όχλησης (ΕΚΚΧΟ).",
+  "measurements_eaee": "-",
+  "documents": [
+    {
+      "document_number": "469166/06-10-2022",
+      "protocol_number": "Φωτορεαλιστική απεικόνιση ΕΚΚΧΟ/",
+      "type": "Φωτογραφικό Υλικό - Σκαρίφημα",
+      "file_url": "https://silia.eett.gr/silia/download/27bf8169-8bc3-4c0e-a112-8db20faa3110"
+    },
+    {
+      "document_number": "469167/06-10-2022",
+      "protocol_number": "Ψηφιακός Χάρτης με προβολή της θέσης ΕΚΚΧΟ/",
+      "type": "Φωτογραφικό Υλικό - Σκαρίφημα",
+      "file_url": "https://silia.eett.gr/silia/download/24043fcc-d440-49fc-9c75-82a077e6fc45"
+    },
+    {
+      "document_number": "469168/06-10-2022",
+      "protocol_number": "Μελέτη ΕΚΚΧΟ/03-10-2022",
+      "type": "Άλλο",
+      "file_url": "https://silia.eett.gr/silia/download/3dab2c6f-05dd-4b87-8517-201d3966db02"
+    },
+    {
+      "document_number": "470392/19-10-2022",
+      "protocol_number": "Αρχείο Αίτησης/",
+      "type": "Δήλωση ΕΚΚΧΟ",
+      "file_url": "https://silia.eett.gr/silia/download/8d286f17-1888-4f69-a9df-2a8d56471b50"
+    }
+  ]
+}

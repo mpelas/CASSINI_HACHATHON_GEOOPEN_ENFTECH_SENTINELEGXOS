@@ -1,0 +1,135 @@
+{
+  "antenna_id": "134996",
+  "address": "\"ΚΑΤΩ ΨΗΛΟΚΑΣΤΡΟ\", ΤΟΠΙΚΗ ΚΟΙΝ ΚΑΛΗΡΑΧΗΣ - ΔΗΜ ΕΝΟΤ ΑΓΙΟΥ ΚΟΣΜΑ",
+  "position_code": 1002874,
+  "municipality": "Γρεβενών",
+  "code_name": "ΑΛΑΤΟΠΕΤΡΑ",
+  "region": "Δυτικής Μακεδονίας",
+  "latitude": 40.07,
+  "company": "VODAFONE",
+  "longitude": 21.266944,
+  "permit_status": "Από τα στοιχεία που τηρούνται στην Ενημερωτική Πύλη προκύπτει ότι, για τη θέση \"\"ΚΑΤΩ ΨΗΛΟΚΑΣΤΡΟ\", ΤΟΠΙΚΗ ΚΟΙΝ ΚΑΛΗΡΑΧΗΣ - ΔΗΜ ΕΝΟΤ ΑΓΙΟΥ ΚΟΣΜΑ\" στον Δήμο Γρεβενών Περιφέρειας  Δυτικής Μακεδονίας \n\t(κωδικός αριθμός θέσης 1002874, κωδική ονομασία \"ΑΛΑΤΟΠΕΤΡΑ\") χορηγήθηκε, με την Απόφαση της ΕΕΤΤ \n37417/Φ610/26-10-2020, άδεια κατασκευής κεραίας στην εταιρία VODAFONE. \nΑπό τo έγγραφο της άδειας μπορείτε να ενημερωθείτε για τις σχετικές εγκρίσεις των συναρμόδιων φορέων, καθώς και εάν πρόκειται για τροποποίηση παλαιότερης άδειας.\nΗ άδεια χορηγήθηκε με τη διαδικασία αδειοδότησης που ορίζει ο ν. 4635/2019, κατόπιν της με αριθ. πρωτ. 29326/02-10-2018 \n\tαίτησης, και βάσει σχετικής δήλωσης του κατόχου της περί υπαγωγή της κατασκευής κεραίας στο άρθρο 34 του ν. 4635/2019.\nΕπιπλέον, έχει υποβληθεί η με αριθ. πρωτ. ΣΗΛΥΑ 45853/10-12-2021 (Δήλωση Παρ. 1Γ, άρθρ. 28, ν. 4635/2019) δήλωση που αφορά σε τροποποίηση/επικαιροποίηση στοιχείων της κατασκευής κεραίας που αφορούν τον(ους) Τομέα(εις) Αδειοδότησης:Στέγαση, Έκταση.\n\tΔιευκρινίζεται ότι υπό ορισμένες προϋποθέσεις για την τροποποίηση αδειοδοτημένης κατασκευής κεραίας ή/και την επικαιροποίηση στοιχείων της δεν απαιτείται η έκδοση νέας άδειας \n\tκατασκευής κεραίας ή η τροποποίηση της υφιστάμενης άδειας κατασκευής κεραίας, αλλά απαιτείται η υποβολή κατάλληλης δήλωσης από τον κάτοχο της κατασκευής κεραίας συνοδευόμενη \n\tαπό επικαιροποίηση επιμέρους εγκρίσεων.",
+  "measurements_eaee": "-",
+  "documents": [
+    {
+      "document_number": "342600/28-09-2018",
+      "protocol_number": "ΜΕΛΕΤΗ Ρ-Ε/28-09-2018",
+      "type": "Αίτηση - Μελέτη Ραδιοεκπομπών ΕΕΑΕ",
+      "file_url": "https://silia.eett.gr/silia/download/b3e81fd8-b0bb-440a-9561-9d30ed4e7f27"
+    },
+    {
+      "document_number": "342831/02-10-2018",
+      "protocol_number": "Δ3/Δ/4443/776/06-05-2004",
+      "type": "Γνωμάτευση ΥΠΑ",
+      "file_url": "https://silia.eett.gr/silia/download/a65235ff-03e3-4423-a3be-f755f27f85c0"
+    },
+    {
+      "document_number": "342832/02-10-2018",
+      "protocol_number": "Δ3/Δ/47011/11194 ΔΙΟΡΘ/09-12-2009",
+      "type": "Γνωμάτευση ΥΠΑ",
+      "file_url": "https://silia.eett.gr/silia/download/4da3e0cf-b310-4681-bd78-367786dda88b"
+    },
+    {
+      "document_number": "342834/02-10-2018",
+      "protocol_number": "ΤΟΠΟΓΡΑΦΙΚΟ -ΑΡΧΙΤΕΚΤΟΝΙΚΑ/",
+      "type": "Τοπογραφικό",
+      "file_url": "https://silia.eett.gr/silia/download/11818c4f-9d20-44ed-aff4-7e6d6b6ece4b"
+    },
+    {
+      "document_number": "342835/02-10-2018",
+      "protocol_number": "ΤΟΠΟΓΡΑΦΙΚΟ -ΑΡΧΙΤΕΚΤΟΝΙΚΑ/",
+      "type": "Αρχιτεκτονικά Σχέδια",
+      "file_url": "https://silia.eett.gr/silia/download/a75b6721-af9f-46c5-81e8-d7ec200ba5c2"
+    },
+    {
+      "document_number": "342836/02-10-2018",
+      "protocol_number": "ΥΔ COSMOTE/02-10-2018",
+      "type": "Άλλο",
+      "file_url": "https://silia.eett.gr/silia/download/cf83cbd1-7ac1-4c1c-b2df-2bf5ac76040e"
+    },
+    {
+      "document_number": "342837/02-10-2018",
+      "protocol_number": "Αρχείο Αίτησης/",
+      "type": "Αίτηση Άδειας Κατασκευής Κεραίας ΕΕΤΤ",
+      "file_url": "https://silia.eett.gr/silia/download/d86161bf-efa9-4519-b754-5b1bb9126537"
+    },
+    {
+      "document_number": "343105/03-10-2018",
+      "protocol_number": "ΥΔ WIND/02-10-2018",
+      "type": "Άλλο",
+      "file_url": "https://silia.eett.gr/silia/download/cc94d2ee-d401-45ca-878b-637e13f61eb0"
+    },
+    {
+      "document_number": "350591/28-11-2018",
+      "protocol_number": "Μ.ι./411/17983/2018/27-11-2018",
+      "type": "Γνωμάτευση ΕΕΑΕ",
+      "file_url": "https://silia.eett.gr/silia/download/89fc7f3e-41e3-4386-8306-67225a285fe3"
+    },
+    {
+      "document_number": "420043/26-10-2020",
+      "protocol_number": "37417/Φ610/26-10-2020",
+      "type": "Άδεια Κατασκευής  Κεραίας",
+      "file_url": "https://silia.eett.gr/silia/download/18d26eea-b879-43e8-861b-2c8b1bb401f9"
+    },
+    {
+      "document_number": "366635/28-05-2019",
+      "protocol_number": "ΜΕΛΕΤΗ Ρ-Ε/28-09-2018",
+      "type": "Αίτηση - Μελέτη Ραδιοεκπομπών ΕΕΑΕ",
+      "file_url": "https://silia.eett.gr/silia/download/b3e81fd8-b0bb-440a-9561-9d30ed4e7f27"
+    },
+    {
+      "document_number": "366636/28-05-2019",
+      "protocol_number": "ΣΥΝΟΔΕΥΤΙΚΑ ΕΓΓΡΑΦΑ ΠΠΔ/",
+      "type": "Δήλωση υπαγωγής σε ΠΠΔ και Συνοδευτικά Έγγραφα",
+      "file_url": "https://silia.eett.gr/silia/download/f68fdf5c-c94b-4510-92fa-f07e86e57f09"
+    },
+    {
+      "document_number": "367149/04-06-2019",
+      "protocol_number": "Αρχείο Αίτησης/",
+      "type": "Δήλωση ΠΠΔ",
+      "file_url": "https://silia.eett.gr/silia/download/09657d24-77a9-4fd4-ad44-69a35c7dca72"
+    },
+    {
+      "document_number": "447763/10-12-2021",
+      "protocol_number": "Αρχιτεκτονική Μελέτη/",
+      "type": "Τοπογραφικό",
+      "file_url": "https://silia.eett.gr/silia/download/072c90cc-df85-4653-a6f7-788eb8e43a95"
+    },
+    {
+      "document_number": "447764/10-12-2021",
+      "protocol_number": "Αρχιτεκτονική Μελέτη/",
+      "type": "Αρχιτεκτονικά Σχέδια",
+      "file_url": "https://silia.eett.gr/silia/download/d8490d6e-e082-4aa0-8983-72078c287143"
+    },
+    {
+      "document_number": "447765/10-12-2021",
+      "protocol_number": "Υπεύθυνη Δήλωση κοινής χρήσης Wind/10-12-2021",
+      "type": "Άλλο",
+      "file_url": "https://silia.eett.gr/silia/download/67bb4e8d-80f3-4ff1-844c-8021aff8955a"
+    },
+    {
+      "document_number": "447766/10-12-2021",
+      "protocol_number": "Υπεύθυνη Δήλωση κοινής χρήσης Cosmote/08-12-2021",
+      "type": "Άλλο",
+      "file_url": "https://silia.eett.gr/silia/download/5683039f-0772-43ea-bbdc-b613b8a99d0a"
+    },
+    {
+      "document_number": "447767/10-12-2021",
+      "protocol_number": "Υπεύθυνη Δήλωση Διασύνδεσης Cosmote/08-12-2021",
+      "type": "Άλλο",
+      "file_url": "https://silia.eett.gr/silia/download/0bf470fd-00e3-42f3-a57c-9f9b0c95321d"
+    },
+    {
+      "document_number": "447768/10-12-2021",
+      "protocol_number": "Υπεύθυνη Δήλωση κοινής χρήσης ΟΤΕ/08-12-2021",
+      "type": "Άλλο",
+      "file_url": "https://silia.eett.gr/silia/download/7f6fb6d1-aec9-44ac-a3b1-37e949fdf262"
+    },
+    {
+      "document_number": "447769/10-12-2021",
+      "protocol_number": "Αρχείο Αίτησης/",
+      "type": "Δήλωση ΔΤΚΚ",
+      "file_url": "https://silia.eett.gr/silia/download/313cb64e-4463-4a3d-8ba4-c3a65e567255"
+    }
+  ]
+}

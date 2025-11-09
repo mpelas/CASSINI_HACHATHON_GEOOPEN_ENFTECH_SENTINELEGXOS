@@ -1,0 +1,57 @@
+{
+  "antenna_id": "144558",
+  "address": "ΟΙΚΙΣΜΟΣ ΜΕΓΑΛΟΧΩΡΙΟΥ",
+  "position_code": 1290750,
+  "municipality": "Αγκιστρίου",
+  "code_name": "AGGISTRI MEGALOCHARI",
+  "region": "Αττικής",
+  "latitude": 37.711667,
+  "company": "NOVA Μ.Α.Ε.",
+  "longitude": 23.346389,
+  "permit_status": "Από τα στοιχεία που τηρούνται στην Ενημερωτική Πύλη προκύπτει ότι, για τη θέση \"ΟΙΚΙΣΜΟΣ ΜΕΓΑΛΟΧΩΡΙΟΥ\" στον Δήμο Αγκιστρίου Περιφέρειας  Αττικής \n\t(κωδικός αριθμός θέσης 1290750, κωδική ονομασία \"AGGISTRI MEGALOCHARI\") έχει κατατεθεί από την εταιρία NOVA Μ.Α.Ε.\tδήλωση εγκατάστασης κατασκευής κεραίας (αριθ. πρωτ. \n\t35354/05-11-2019) που εμπίπτει στις διατάξεις της νομοθεσίας για Εγκαταστάσεις Κατασκευών Κεραιών Χαμηλής Ηλεκτρομαγνητικής Περιβαλλοντικής Όχλησης (ΕΚΚΧΟ).",
+  "measurements_eaee": "-",
+  "documents": [
+    {
+      "document_number": "378792/09-10-2019",
+      "protocol_number": "ΣΚΑΡΙΦΗΜΑ ΕΚΚΧΟ LINK/",
+      "type": "Φωτογραφικό Υλικό - Σκαρίφημα",
+      "file_url": "https://silia.eett.gr/silia/download/3f05205d-6a4e-44ec-8b86-dfb7b288809a"
+    },
+    {
+      "document_number": "380893/24-10-2019",
+      "protocol_number": "ΥΠΠΟΑ/ΓΔΑΜΤΕ/ΥΝΜΤΕΑΑΣΕΚ/536337/55939/8906/14-10-2019",
+      "type": "Γνωμοδότηση Υπηρεσίας Νεωτέρων Μνημείων",
+      "file_url": "https://silia.eett.gr/silia/download/d6ba0efb-f54f-4b74-9c3a-f85c65ca9dbc"
+    },
+    {
+      "document_number": "381874/31-10-2019",
+      "protocol_number": "ΥΠΕΥΘΥΝΗ ΔΗΛΩΣΗ ΥΠΕΥΘΥΝΟΥ/",
+      "type": "Άλλο",
+      "file_url": "https://silia.eett.gr/silia/download/b60110ee-3c11-4b0d-8bf2-1466cd53616f"
+    },
+    {
+      "document_number": "382209/05-11-2019",
+      "protocol_number": "ΥΠΠΟΑ/ΓΔΑΠΚ/ΕΑΠΝ/536970/384364/9327/22-10-2019",
+      "type": "Αρχαιολογική έγκριση/γνωμοδότηση (μη τυπική)",
+      "file_url": "https://silia.eett.gr/silia/download/8d84402d-a3dd-40ef-b2fb-82492233dd63"
+    },
+    {
+      "document_number": "382222/05-11-2019",
+      "protocol_number": "Αρχείο Αίτησης/",
+      "type": "Δήλωση ΕΚΚΧΟ",
+      "file_url": "https://silia.eett.gr/silia/download/24e75e2a-17f5-49a8-ade9-073e629b60c2"
+    },
+    {
+      "document_number": "447778/12-12-2021",
+      "protocol_number": "42352/01-12-2021",
+      "type": "Ανάκληση Άδειας Κατασκευής Κεραίας",
+      "file_url": "https://silia.eett.gr/silia/download/bc8f99aa-b93f-445a-b3ef-21d0cc6e9df3"
+    },
+    {
+      "document_number": "521100/18-07-2024",
+      "protocol_number": "51223/18-07-2024",
+      "type": "Άλλο",
+      "file_url": "https://silia.eett.gr/silia/download/maqWgiHboiwbs71tc2sUQ4O7KGsd4ypcziZ6"
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "antenna_id": "158359",
+  "address": "ΘΕΣΗ ΔΥΟ ΠΕΥΚΑ ΑΣΠΡΟΠΥΡΓΟΣ",
+  "position_code": 2340540,
+  "municipality": "Ασπροπύργου",
+  "code_name": "SYNERGY 1",
+  "region": "Αττικής",
+  "latitude": 38.083056,
+  "company": "NOVA Μ.Α.Ε.",
+  "longitude": 23.628056,
+  "permit_status": "Από τα στοιχεία που τηρούνται στην Ενημερωτική Πύλη προκύπτει ότι, για τη θέση \"ΘΕΣΗ ΔΥΟ ΠΕΥΚΑ ΑΣΠΡΟΠΥΡΓΟΣ\" στον Δήμο Ασπροπύργου Περιφέρειας  Αττικής \n\t(κωδικός αριθμός θέσης 2340540, κωδική ονομασία \"SYNERGY 1\") έχει κατατεθεί από την εταιρία NOVA Μ.Α.Ε.\tδήλωση εγκατάστασης κατασκευής κεραίας (αριθ. πρωτ. \n\t42933/19-02-2021) που εμπίπτει στις διατάξεις της νομοθεσίας για Εγκαταστάσεις Κατασκευών Κεραιών Χαμηλής Ηλεκτρομαγνητικής Περιβαλλοντικής Όχλησης (ΕΚΚΧΟ).",
+  "measurements_eaee": "-",
+  "documents": [
+    {
+      "document_number": "429889/19-02-2021",
+      "protocol_number": "δικαιωμα χρήσης/",
+      "type": "Χορήγηση Δικαιώματος Χρήσης Ραδιοσυχνοτήτων",
+      "file_url": "https://silia.eett.gr/silia/download/0c0cad3e-b1bc-41d6-a3aa-ae07a0ad247f"
+    },
+    {
+      "document_number": "429890/19-02-2021",
+      "protocol_number": "δικαιωμα χρήσης/",
+      "type": "Χορήγηση Δικαιώματος Χρήσης Ραδιοσυχνοτήτων",
+      "file_url": "https://silia.eett.gr/silia/download/c2a65f56-2f97-4be6-bb6d-acdedce05c6f"
+    },
+    {
+      "document_number": "429891/19-02-2021",
+      "protocol_number": "δικαιωμα χρήσης/",
+      "type": "Χορήγηση Δικαιώματος Χρήσης Ραδιοσυχνοτήτων",
+      "file_url": "https://silia.eett.gr/silia/download/7654c514-567a-4d8f-af91-dfa729f53969"
+    },
+    {
+      "document_number": "429892/19-02-2021",
+      "protocol_number": "Φωτογραφία/",
+      "type": "Φωτογραφικό Υλικό - Σκαρίφημα",
+      "file_url": "https://silia.eett.gr/silia/download/d1b76c07-6dab-4ce6-8a75-ab52563e1342"
+    },
+    {
+      "document_number": "429893/19-02-2021",
+      "protocol_number": "Αρχείο Αίτησης/",
+      "type": "Δήλωση ΕΚΚΧΟ",
+      "file_url": "https://silia.eett.gr/silia/download/c7c66e9e-dc4f-47fc-b882-cd7369e2797b"
+    }
+  ]
+}

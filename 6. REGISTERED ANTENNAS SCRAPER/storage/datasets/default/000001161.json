@@ -1,0 +1,39 @@
+{
+  "antenna_id": "158260",
+  "address": "ΕΠΙ ΤΗΣ ΟΔΟΥ ΓΙΑΝΝΙΤΣΟΠΟΥΛΟΥ 1 & ΚΥΠΡΟΥ",
+  "position_code": 1402771,
+  "municipality": "Γλυφάδας",
+  "code_name": "KLEMANSO - MI",
+  "region": "Αττικής",
+  "latitude": 37.695,
+  "company": "OTE",
+  "longitude": 23.754722,
+  "permit_status": "Από τα στοιχεία που τηρούνται στην Ενημερωτική Πύλη προκύπτει ότι, για τη θέση \"ΕΠΙ ΤΗΣ ΟΔΟΥ ΓΙΑΝΝΙΤΣΟΠΟΥΛΟΥ 1 & ΚΥΠΡΟΥ\" στον Δήμο Γλυφάδας Περιφέρειας  Αττικής \n\t(κωδικός αριθμός θέσης 1402771, κωδική ονομασία \"KLEMANSO - MI\") έχει κατατεθεί από την εταιρία OTE\tδήλωση εγκατάστασης κατασκευής κεραίας (αριθ. πρωτ. \n\t42995/26-02-2021) που εμπίπτει στις διατάξεις της νομοθεσίας για Εγκαταστάσεις Κατασκευών Κεραιών Χαμηλής Ηλεκτρομαγνητικής Περιβαλλοντικής Όχλησης (ΕΚΚΧΟ).",
+  "measurements_eaee": "-",
+  "documents": [
+    {
+      "document_number": "429392/12-02-2021",
+      "protocol_number": "ΣΚΑΡΙΦΗΜΑ/",
+      "type": "Φωτογραφικό Υλικό - Σκαρίφημα",
+      "file_url": "https://silia.eett.gr/silia/download/b3102c4d-d8ce-4cc3-b5ce-04a12d42fd43"
+    },
+    {
+      "document_number": "430273/26-02-2021",
+      "protocol_number": "21377 (ΚΟΙΝΟΠΟΙΗΣΗ ΓΕΑ)/26-02-2021",
+      "type": "Άλλο",
+      "file_url": "https://silia.eett.gr/silia/download/5780df40-2f4f-4926-879c-f2611fba0c2f"
+    },
+    {
+      "document_number": "430293/26-02-2021",
+      "protocol_number": "μελέτη EMC/26-02-2021",
+      "type": "Αποτελέσματα μελέτης στη ζώνης 2.6GHz για ΥΠΑ/ΓΕΕΘΑ",
+      "file_url": "https://silia.eett.gr/silia/download/1f9735ef-fd8b-4b20-a03b-ef046fdd52bf"
+    },
+    {
+      "document_number": "430296/26-02-2021",
+      "protocol_number": "Αρχείο Αίτησης/",
+      "type": "Δήλωση ΕΚΚΧΟ",
+      "file_url": "https://silia.eett.gr/silia/download/da8da328-e181-4420-9097-db6e53f789db"
+    }
+  ]
+}

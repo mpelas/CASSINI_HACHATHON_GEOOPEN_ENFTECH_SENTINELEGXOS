@@ -1,0 +1,87 @@
+{
+  "antenna_id": "102481",
+  "address": "ΘΕΣΗ ΠΡΟΦΗΤΗΣ ΗΛΙΑΣ, Δ.Δ. ΑΝΤΙΠΑΡΟΥ",
+  "position_code": 1012655,
+  "municipality": "Αντιπάρου",
+  "code_name": "ΑΝΤΙΠΑΡΟΣ",
+  "region": "Νοτίου Αιγαίου",
+  "latitude": 36.995278,
+  "company": "VODAFONE",
+  "longitude": 25.046111,
+  "permit_status": "Από τα στοιχεία που τηρούνται στην Ενημερωτική Πύλη προκύπτει ότι, για τη θέση \"ΘΕΣΗ ΠΡΟΦΗΤΗΣ ΗΛΙΑΣ, Δ.Δ. ΑΝΤΙΠΑΡΟΥ\" στον Δήμο Αντιπάρου Περιφέρειας  Νοτίου Αιγαίου \n\t(κωδικός αριθμός θέσης 1012655, κωδική ονομασία \"ΑΝΤΙΠΑΡΟΣ\") χορηγήθηκε, με την Απόφαση της ΕΕΤΤ \n19956/Φ610/18-04-2016, άδεια κατασκευής κεραίας στην εταιρία VODAFONE. \nΑπό τo έγγραφο της άδειας μπορείτε να ενημερωθείτε για τις σχετικές εγκρίσεις των συναρμόδιων φορέων, καθώς και εάν πρόκειται για τροποποίηση παλαιότερης άδειας.\n\tΗ άδεια χορηγήθηκε κατόπιν της με Αριθ. Πρωτ. 23174 /23-04-2008 αίτησης. \n\tΓια την έκδοση της άδειας εφαρμόστηκε το προγενέστερο του Ν.4053/2012 νομοθετικό πλαίσιο, καθώς κατά δήλωση της εταιρίας, η κατασκευή πληρούσε \nτις προϋποθέσεις του άρθρου 31 του Ν.4053/2012.",
+  "measurements_eaee": "-",
+  "documents": [
+    {
+      "document_number": "229687/09-09-2015",
+      "protocol_number": "Δ3/Δ/1196/122\t/11-01-2008",
+      "type": "Γνωμάτευση ΥΠΑ",
+      "file_url": "https://silia.eett.gr/silia/download/21b33af3-bcc7-4144-906a-d6b520d9f179"
+    },
+    {
+      "document_number": "229688/09-09-2015",
+      "protocol_number": "Δ3/Δ/10501 - ΔΙΟΡΘΩΤΙΚΟ\t/08-12-2010",
+      "type": "Γνωμάτευση ΥΠΑ",
+      "file_url": "https://silia.eett.gr/silia/download/5d322f64-fc1e-4378-93bf-69859342cf33"
+    },
+    {
+      "document_number": "229689/09-09-2015",
+      "protocol_number": "Μ.ι./411/2750\t/06-07-2010",
+      "type": "Γνωμάτευση ΕΕΑΕ",
+      "file_url": "https://silia.eett.gr/silia/download/bbceeef2-01ab-4cff-a601-256d2f0a3497"
+    },
+    {
+      "document_number": "229690/09-09-2015",
+      "protocol_number": "82007/7079/21-01-2013",
+      "type": "Έγκριση Περιβαλλοντικών Όρων",
+      "file_url": "https://silia.eett.gr/silia/download/f6c0729e-9bc2-4866-b11e-c6937df19927"
+    },
+    {
+      "document_number": "229691/09-09-2015",
+      "protocol_number": "23174/23-04-2008",
+      "type": "Αίτηση Άδειας Κατασκευής Κεραίας ΕΕΤΤ (νομίμως λειτουργούσα)",
+      "file_url": "https://silia.eett.gr/silia/download/66a7853a-037c-4c2b-936d-2a4defcf0713"
+    },
+    {
+      "document_number": "229692/09-09-2015",
+      "protocol_number": "6358_συμπληρωματικη/17-02-2012",
+      "type": "Αίτηση Άδειας Κατασκευής Κεραίας ΕΕΤΤ (νομίμως λειτουργούσα)",
+      "file_url": "https://silia.eett.gr/silia/download/3866e974-8bdc-45cd-a4db-e68214d160fd"
+    },
+    {
+      "document_number": "229693/09-09-2015",
+      "protocol_number": "ΥΔ ΟΡΘΗΣ ΕΠΑΝΑΛΗΨΗΣ/09-09-2015",
+      "type": "Άλλο",
+      "file_url": "https://silia.eett.gr/silia/download/58146165-7c99-405b-ba45-6593c6747804"
+    },
+    {
+      "document_number": "229699/09-09-2015",
+      "protocol_number": "200804181121240018\t/21-04-2008",
+      "type": "Αποδεικτικό Καταβολής Τελών ΕΕΤΤ",
+      "file_url": null
+    },
+    {
+      "document_number": "230016/11-09-2015",
+      "protocol_number": "Αρχείο Αίτησης/",
+      "type": "Αίτηση Άδειας Κατασκευής Κεραίας ΕΕΤΤ",
+      "file_url": "https://silia.eett.gr/silia/download/ef3ff9de-7e17-4518-be8d-51e7dfcee5bb"
+    },
+    {
+      "document_number": "253970/22-03-2016",
+      "protocol_number": "5033/18-06-2010",
+      "type": "Αίτηση - Μελέτη Ραδιοεκπομπών ΕΕΑΕ",
+      "file_url": "https://silia.eett.gr/silia/download/1a712800-4739-4c6d-a5eb-206f926fabd1"
+    },
+    {
+      "document_number": "256366/12-04-2016",
+      "protocol_number": "28740/18771/07-12-2010",
+      "type": "Αίτηση / Μελέτη για Έγκριση Περιβαλλοντικών Επιπτώσεων",
+      "file_url": "https://silia.eett.gr/silia/download/90c37432-c925-4c7f-9c4c-2d3f49b4853f"
+    },
+    {
+      "document_number": "257175/19-04-2016",
+      "protocol_number": "19956/Φ610/18-04-2016",
+      "type": "Άδεια Κατασκευής  Κεραίας",
+      "file_url": "https://silia.eett.gr/silia/download/368b409f-69b3-45c9-97bf-10e5e4d667e9"
+    }
+  ]
+}

@@ -1,0 +1,111 @@
+{
+  "antenna_id": "125497",
+  "address": "ΕΛΛΗΣΠΟΝΤΟΥ 11-13",
+  "position_code": 1105159,
+  "municipality": "Χαλανδρίου",
+  "code_name": "ΧΑΛΑΝΔΡΙ ΗΡΑΚΛΕΙΤΟΥ",
+  "region": "Αττικής",
+  "latitude": 38.025,
+  "company": "VODAFONE",
+  "longitude": 23.836667,
+  "permit_status": "Από τα στοιχεία που τηρούνται στην Ενημερωτική Πύλη προκύπτει ότι, για τη θέση \"ΕΛΛΗΣΠΟΝΤΟΥ 11-13\" στον Δήμο Χαλανδρίου Περιφέρειας  Αττικής \n\t(κωδικός αριθμός θέσης 1105159, κωδική ονομασία \"ΧΑΛΑΝΔΡΙ ΗΡΑΚΛΕΙΤΟΥ \") χορηγήθηκε, με την Απόφαση της ΕΕΤΤ \n26380/Φ610/01-12-2017, άδεια κατασκευής κεραίας στην εταιρία VODAFONE. \nΑπό τo έγγραφο της άδειας μπορείτε να ενημερωθείτε για τις σχετικές εγκρίσεις των συναρμόδιων φορέων, καθώς και εάν πρόκειται για τροποποίηση παλαιότερης άδειας.\nΗ άδεια χορηγήθηκε, κατόπιν της με Αριθ. Πρωτ. 21739/29-03-2017 αίτησης, \n\tμε τη διαδικασία αδειοδότησης της παρ. 17 του άρθρου 30 του Ν.4070/2012 που πλέον έχει αντικατασταθεί από τη διαδικασία που ορίζει ο ν. 4635/2019.\n\tΣύμφωνα με τα στοιχεία που έχουν υποβληθεί στο ΣΗΛΥΑ για την κατασκευή κεραίας από τον κάτοχό της, έχει εκδοθεί έγκριση δομικών κατασκευών κεραίας",
+  "measurements_eaee": "-",
+  "documents": [
+    {
+      "document_number": "284288/10-01-2017",
+      "protocol_number": "ΜΕΛΕΤΗ ΡΑΔΙΟΕΚΠΟΜΠΩΝ/09-01-2017",
+      "type": "Αίτηση - Μελέτη Ραδιοεκπομπών ΕΕΑΕ",
+      "file_url": "https://silia.eett.gr/silia/download/e60ff3b4-7363-4dde-88ba-3ff89a4ec476"
+    },
+    {
+      "document_number": "290667/29-03-2017",
+      "protocol_number": "Αρχείο Αίτησης/",
+      "type": "Αίτηση Άδειας Κατασκευής Κεραίας ΕΕΤΤ",
+      "file_url": "https://silia.eett.gr/silia/download/dc6907fa-24a9-45d5-890d-079809b64bf7"
+    },
+    {
+      "document_number": "291437/05-04-2017",
+      "protocol_number": "ΧΑΡΤΗΣ ΓΥΣ/",
+      "type": "Απόσπασμα Χάρτη ΓΥΣ 1:50.000",
+      "file_url": "https://silia.eett.gr/silia/download/a012462d-002d-4b07-8d46-0ac2a66c1a64"
+    },
+    {
+      "document_number": "291438/05-04-2017",
+      "protocol_number": "3166/05-04-2017",
+      "type": "Τοπογραφικό",
+      "file_url": "https://silia.eett.gr/silia/download/869c5360-149a-4400-885f-7cc525673e36"
+    },
+    {
+      "document_number": "291439/05-04-2017",
+      "protocol_number": "3166/05-04-2017",
+      "type": "Αρχιτεκτονικά Σχέδια",
+      "file_url": "https://silia.eett.gr/silia/download/8135d232-87e1-4ebb-8e65-b5a6932c8c65"
+    },
+    {
+      "document_number": "291441/05-04-2017",
+      "protocol_number": "ΜΕΛΕΤΗ ΥΠΟΒΑΘΡΟΥ/10-01-2017",
+      "type": "Αίτηση - Μελέτη Ραδιοεκπομπών ΕΕΑΕ (υποβάθρου)",
+      "file_url": "https://silia.eett.gr/silia/download/aaede956-1b04-47d5-9bbf-53bd7a9a8600"
+    },
+    {
+      "document_number": "292931/24-04-2017",
+      "protocol_number": "Δ3/Δ/8155/3035/20-4-2017/24-04-2017",
+      "type": "Γνωμάτευση ΥΠΑ",
+      "file_url": "https://silia.eett.gr/silia/download/19fedd21-8105-4fc4-85dd-5a37ecdc3b20"
+    },
+    {
+      "document_number": "295638/24-05-2017",
+      "protocol_number": "3166/2017/24-05-2017",
+      "type": "Έγκριση Εγκατάστασης Σταθμού Κινητής Τηλεφωνίας",
+      "file_url": "https://silia.eett.gr/silia/download/5f285025-0c0c-4d9b-a15a-01bb29b9bcc1"
+    },
+    {
+      "document_number": "295731/25-05-2017",
+      "protocol_number": "3166/24-05-2017",
+      "type": "Έγκριση δομικών κατασκευών (έντυπη)",
+      "file_url": "https://silia.eett.gr/silia/download/b118de67-1888-4034-b195-183d29047a6b"
+    },
+    {
+      "document_number": "303044/01-08-2017",
+      "protocol_number": "Μ.ι./411/9378/2017/18-07-2017",
+      "type": "Γνωμάτευση ΕΕΑΕ",
+      "file_url": "https://silia.eett.gr/silia/download/60103806-b87b-47f3-b0c9-ab2a570d2414"
+    },
+    {
+      "document_number": "304482/29-08-2017",
+      "protocol_number": "23734/29-08-2017",
+      "type": "Αίτηση Ραδιοσυχνοτήτων",
+      "file_url": "https://silia.eett.gr/silia/download/da04e93a-02c0-44a1-8ad2-182ddbb2d536"
+    },
+    {
+      "document_number": "315751/12-12-2017",
+      "protocol_number": "26380/Φ610/01-12-2017",
+      "type": "Άδεια Κατασκευής  Κεραίας",
+      "file_url": "https://silia.eett.gr/silia/download/585d61af-591f-4ffa-b6fe-7857f2924026"
+    },
+    {
+      "document_number": "295731/25-05-2017",
+      "protocol_number": "3166/24-05-2017",
+      "type": "Έγκριση δομικών κατασκευών (έντυπη)",
+      "file_url": "https://silia.eett.gr/silia/download/b118de67-1888-4034-b195-183d29047a6b"
+    },
+    {
+      "document_number": "284289/10-01-2017",
+      "protocol_number": "ΜΕΛΕΤΗ ΡΑΔΙΟΕΚΠΟΜΠΩΝ/09-01-2017",
+      "type": "Αίτηση - Μελέτη Ραδιοεκπομπών ΕΕΑΕ",
+      "file_url": "https://silia.eett.gr/silia/download/e60ff3b4-7363-4dde-88ba-3ff89a4ec476"
+    },
+    {
+      "document_number": "284320/10-01-2017",
+      "protocol_number": "ΣΥΝΟΔΕΥΤΙΚΑ ΕΓΓΡΑΦΑ ΠΠΔ/",
+      "type": "Δήλωση υπαγωγής σε ΠΠΔ και Συνοδευτικά Έγγραφα",
+      "file_url": "https://silia.eett.gr/silia/download/3fcbc556-2a0a-4dc5-84ed-ace703c6047c"
+    },
+    {
+      "document_number": "304322/25-08-2017",
+      "protocol_number": "Αρχείο Αίτησης/",
+      "type": "Δήλωση ΠΠΔ",
+      "file_url": "https://silia.eett.gr/silia/download/c5f8bfb9-9cc7-4a88-86cc-0140488073b3"
+    }
+  ]
+}

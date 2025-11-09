@@ -1,0 +1,87 @@
+{
+  "antenna_id": "156207",
+  "address": "ΠΛΗΣΙΟΝ ΟΙΚΙΣΜΩΝ ΚΡΥΩΝ & ΣΚΟΡΔΙΛΩΝ , ΔΗΜΟΣ ΣΗΤΕΙΑΣ , Π.Ε.ΛΑΣΙΘΙΟΥ",
+  "position_code": 1401647,
+  "municipality": "Σητείας",
+  "code_name": "ΚΑΤΩ ΚΡΥΑ BTB",
+  "region": "Κρήτης",
+  "latitude": 35.131944,
+  "company": "OTE",
+  "longitude": 26.030556,
+  "permit_status": "Από τα στοιχεία που τηρούνται στην Ενημερωτική Πύλη προκύπτει ότι, για τη θέση \" ΠΛΗΣΙΟΝ ΟΙΚΙΣΜΩΝ ΚΡΥΩΝ & ΣΚΟΡΔΙΛΩΝ , ΔΗΜΟΣ ΣΗΤΕΙΑΣ , Π.Ε.ΛΑΣΙΘΙΟΥ\" στον Δήμο Σητείας Περιφέρειας  Κρήτης \n\t(κωδικός αριθμός θέσης 1401647, κωδική ονομασία \"ΚΑΤΩ ΚΡΥΑ BTB\") χορηγήθηκε, με την Απόφαση της ΕΕΤΤ \n40345/16-04-2021, άδεια κατασκευής κεραίας στην εταιρία OTE. \nΑπό τo έγγραφο της άδειας μπορείτε να ενημερωθείτε για τις σχετικές εγκρίσεις των συναρμόδιων φορέων, καθώς και εάν πρόκειται για τροποποίηση παλαιότερης άδειας.",
+  "measurements_eaee": "-",
+  "documents": [
+    {
+      "document_number": "417571/29-09-2020",
+      "protocol_number": "ΜΕΣΩ ΣΗΛΥΑ/",
+      "type": "Τοπογραφικό",
+      "file_url": "https://silia.eett.gr/silia/download/6268d01e-6f02-42eb-8fe7-2837bb3cb12f"
+    },
+    {
+      "document_number": "417572/29-09-2020",
+      "protocol_number": "ΜΕΣΩ ΣΗΛΥΑ/",
+      "type": "Αρχιτεκτονικά Σχέδια",
+      "file_url": "https://silia.eett.gr/silia/download/0348ff04-47be-4749-b09b-2ede674934bc"
+    },
+    {
+      "document_number": "417573/29-09-2020",
+      "protocol_number": "Δ3/Δ/44767/10303/03-12-2007",
+      "type": "Γνωμάτευση ΥΠΑ",
+      "file_url": "https://silia.eett.gr/silia/download/2159eb66-2f28-43c7-982a-9920a003f0e1"
+    },
+    {
+      "document_number": "417574/29-09-2020",
+      "protocol_number": "ΜΕΣΩ ΣΗΛΥΑ/29-09-2020",
+      "type": "Αίτηση ΥΠΑ",
+      "file_url": "https://silia.eett.gr/silia/download/b96662f9-e660-49d1-9e2e-eccc71c51c20"
+    },
+    {
+      "document_number": "417576/29-09-2020",
+      "protocol_number": "ΥΠ.ΔΗΛΩΣΗ ΣΥΝΕΓΚΑΤΑΣΤΑΣΗΣ ΟΤΕ/29-09-2020",
+      "type": "Άλλο",
+      "file_url": "https://silia.eett.gr/silia/download/5719ba89-6176-4145-9392-bb736d8cdeb6"
+    },
+    {
+      "document_number": "417665/30-09-2020",
+      "protocol_number": "ΜΕΣΩ ΣΗΛΥΑ/29-09-2020",
+      "type": "Αίτηση - Μελέτη Ραδιοεκπομπών ΕΕΑΕ",
+      "file_url": "https://silia.eett.gr/silia/download/c1f1e484-908e-4e00-9071-192ff01c0ed0"
+    },
+    {
+      "document_number": "418214/06-10-2020",
+      "protocol_number": "Αρχείο Αίτησης/",
+      "type": "Αίτηση Άδειας Κατασκευής Κεραίας ΕΕΤΤ",
+      "file_url": "https://silia.eett.gr/silia/download/c39db2e1-d7b4-40a7-9329-514813f450e0"
+    },
+    {
+      "document_number": "420995/05-11-2020",
+      "protocol_number": "Μ.ι./411/14113/2020/04-11-2020",
+      "type": "Γνωμάτευση ΕΕΑΕ",
+      "file_url": "https://silia.eett.gr/silia/download/b4eace09-4519-42e8-bc84-193b1962f4d3"
+    },
+    {
+      "document_number": "433071/08-04-2021",
+      "protocol_number": "1556/12-03-2021",
+      "type": "Επιστολή Κοινοποίησης Τυποποιημένης Αίτησης σε Αρμόδια Αρχή",
+      "file_url": "https://silia.eett.gr/silia/download/8b4b1697-7cec-4996-a8cf-e54e58a91062"
+    },
+    {
+      "document_number": "434026/21-04-2021",
+      "protocol_number": "40345/16-04-2021",
+      "type": "Άδεια Κατασκευής  Κεραίας",
+      "file_url": "https://silia.eett.gr/silia/download/07a84162-e05d-4596-a8bc-daadcb68aa04"
+    },
+    {
+      "document_number": "417577/29-09-2020",
+      "protocol_number": "ΜΕΣΩ ΣΗΛΥΑ/",
+      "type": "Δήλωση υπαγωγής σε ΠΠΔ και Συνοδευτικά Έγγραφα",
+      "file_url": "https://silia.eett.gr/silia/download/efb02755-6f7b-4544-ac46-954bb215cf1d"
+    },
+    {
+      "document_number": "418215/06-10-2020",
+      "protocol_number": "Αρχείο Αίτησης/",
+      "type": "Δήλωση ΠΠΔ",
+      "file_url": "https://silia.eett.gr/silia/download/2bcac069-c4cd-4311-8550-cdbd1918ee4f"
+    }
+  ]
+}

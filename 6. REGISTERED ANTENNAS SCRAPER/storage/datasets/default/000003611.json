@@ -1,0 +1,93 @@
+{
+  "antenna_id": "164394",
+  "address": "ΕΠΙ ΤΩΝ ΟΔΩΝ ΑΛ. ΠΑΝΑΓΟΥΛΗ & Ν. ΚΑΜΠΟΛΗ, Ο.Τ. 945, ΚΟΙΝΟΤΗΤΑ ΑΝΩ ΛΙΟΣΙΩΝ",
+  "position_code": 1400045,
+  "municipality": "Φυλής",
+  "code_name": "ΑΝΩ ΛΙΟΣΙΑ",
+  "region": "Αττικής",
+  "latitude": 38.078056,
+  "company": "OTE",
+  "longitude": 23.703889,
+  "permit_status": "Από τα στοιχεία που τηρούνται στην Ενημερωτική Πύλη προκύπτει ότι, για τη θέση \"ΕΠΙ ΤΩΝ ΟΔΩΝ ΑΛ. ΠΑΝΑΓΟΥΛΗ & Ν. ΚΑΜΠΟΛΗ, Ο.Τ. 945, ΚΟΙΝΟΤΗΤΑ ΑΝΩ ΛΙΟΣΙΩΝ \" στον Δήμο Φυλής Περιφέρειας  Αττικής \n\t(κωδικός αριθμός θέσης 1400045, κωδική ονομασία \"ΑΝΩ ΛΙΟΣΙΑ\") χορηγήθηκε, με την Απόφαση της ΕΕΤΤ \n46100/01-12-2022, άδεια κατασκευής κεραίας στην εταιρία OTE. \nΑπό τo έγγραφο της άδειας μπορείτε να ενημερωθείτε για τις σχετικές εγκρίσεις των συναρμόδιων φορέων, καθώς και εάν πρόκειται για τροποποίηση παλαιότερης άδειας.",
+  "measurements_eaee": "-",
+  "documents": [
+    {
+      "document_number": "461843/16-06-2022",
+      "protocol_number": "ΜΕΣΩ ΣΗΛΥΑ    /",
+      "type": "Τοπογραφικό",
+      "file_url": "https://silia.eett.gr/silia/download/3157eb3b-9552-4ee8-a896-f904c444b717"
+    },
+    {
+      "document_number": "461844/16-06-2022",
+      "protocol_number": "ΜΕΣΩ ΣΗΛΥΑ    /",
+      "type": "Αρχιτεκτονικά Σχέδια",
+      "file_url": "https://silia.eett.gr/silia/download/84fb3a59-f02c-43aa-b987-c98fa6718eda"
+    },
+    {
+      "document_number": "461845/16-06-2022",
+      "protocol_number": "ΜΕΣΩ ΣΗΛΥΑ    /23-01-2022",
+      "type": "Αίτηση - Μελέτη Ραδιοεκπομπών ΕΕΑΕ",
+      "file_url": "https://silia.eett.gr/silia/download/026ee421-6238-4459-b9f8-fe06871d53d7"
+    },
+    {
+      "document_number": "461846/16-06-2022",
+      "protocol_number": "EMC/14-06-2022",
+      "type": "Αποτελέσματα μελέτης στη ζώνης 2.6GHz για ΥΠΑ/ΓΕΕΘΑ",
+      "file_url": "https://silia.eett.gr/silia/download/b9ea4dfa-e83e-4f43-84d2-a087cb5b763a"
+    },
+    {
+      "document_number": "461847/16-06-2022",
+      "protocol_number": "22097/03-03-2022",
+      "type": "Επιστολή Ενημέρωσης προς Αρμόδιο Φορέα",
+      "file_url": "https://silia.eett.gr/silia/download/b8d1ab5f-a86f-4b50-a0b4-4d0574c8b3cd"
+    },
+    {
+      "document_number": "461848/16-06-2022",
+      "protocol_number": "Δ3/Δ/51377/7872/16-12-1997",
+      "type": "Γνωμάτευση ΥΠΑ",
+      "file_url": "https://silia.eett.gr/silia/download/1cbef707-afd0-49a2-a1eb-c13e578c3d7f"
+    },
+    {
+      "document_number": "461849/16-06-2022",
+      "protocol_number": "ΜΕΣΩ ΣΗΛΥΑ    /16-06-2022",
+      "type": "Αίτηση ΥΠΑ",
+      "file_url": "https://silia.eett.gr/silia/download/ef133350-e62e-4943-935d-ed2fce8f21eb"
+    },
+    {
+      "document_number": "461850/16-06-2022",
+      "protocol_number": "ΥΔ ΣΥΝΕΓΚΑΤΑΣΤΑΣΗΣ ΟΤΕ/16-06-2022",
+      "type": "Άλλο",
+      "file_url": "https://silia.eett.gr/silia/download/ef190a0a-fd65-409f-8d24-82d3fcd5f386"
+    },
+    {
+      "document_number": "461852/16-06-2022",
+      "protocol_number": "Αρχείο Αίτησης/",
+      "type": "Αίτηση Άδειας Κατασκευής Κεραίας ΕΕΤΤ",
+      "file_url": "https://silia.eett.gr/silia/download/d15562ce-3564-45d6-9ea8-420b6f8c8efe"
+    },
+    {
+      "document_number": "462823/28-06-2022",
+      "protocol_number": "ΚΓ/Δ3/Δ/16761/28-06-2022",
+      "type": "Γνωμάτευση ΥΠΑ",
+      "file_url": "https://silia.eett.gr/silia/download/80528eff-c85a-4ded-8427-1dd10b8d17dc"
+    },
+    {
+      "document_number": "471007/26-10-2022",
+      "protocol_number": "Μ.ι./411/14784/2022/25-10-2022",
+      "type": "Γνωμάτευση ΕΕΑΕ",
+      "file_url": "https://silia.eett.gr/silia/download/b366d0da-d3cb-4e1a-be3f-20ac65d447e8"
+    },
+    {
+      "document_number": "474097/04-12-2022",
+      "protocol_number": "46100/01-12-2022",
+      "type": "Άδεια Κατασκευής  Κεραίας",
+      "file_url": "https://silia.eett.gr/silia/download/62bebe3b-7388-46f4-aace-1d40f50c07ae"
+    },
+    {
+      "document_number": "461853/16-06-2022",
+      "protocol_number": "Αρχείο Αίτησης/",
+      "type": "Δήλωση ΠΠΔ",
+      "file_url": "https://silia.eett.gr/silia/download/ef21343b-6bae-4a65-9ff9-ffec16077b10"
+    }
+  ]
+}

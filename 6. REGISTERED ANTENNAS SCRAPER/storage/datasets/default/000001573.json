@@ -1,0 +1,39 @@
+{
+  "antenna_id": "144542",
+  "address": "ΔΕΗ, Υ/Σ ΓΡΑΤΣΙΑΝΗΣ, ΚΟΖΑΝΗΣ",
+  "position_code": 1267716,
+  "municipality": "Εορδαίας",
+  "code_name": "PPC GRATSIANI",
+  "region": "Δυτικής Μακεδονίας",
+  "latitude": 40.372222,
+  "company": "NOVA Μ.Α.Ε.",
+  "longitude": 21.654444,
+  "permit_status": "Από τα στοιχεία που τηρούνται στην Ενημερωτική Πύλη προκύπτει ότι, για τη θέση \"ΔΕΗ, Υ/Σ ΓΡΑΤΣΙΑΝΗΣ, ΚΟΖΑΝΗΣ\" στον Δήμο Εορδαίας Περιφέρειας  Δυτικής Μακεδονίας \n\t(κωδικός αριθμός θέσης 1267716, κωδική ονομασία \"PPC GRATSIANI\") έχει κατατεθεί από την εταιρία NOVA Μ.Α.Ε.\tδήλωση εγκατάστασης κατασκευής κεραίας (αριθ. πρωτ. \n\t34799/09-10-2019) που εμπίπτει στις διατάξεις της νομοθεσίας για Εγκαταστάσεις Κατασκευών Κεραιών Χαμηλής Ηλεκτρομαγνητικής Περιβαλλοντικής Όχλησης (ΕΚΚΧΟ).",
+  "measurements_eaee": "-",
+  "documents": [
+    {
+      "document_number": "378691/09-10-2019",
+      "protocol_number": "ΦΩΤΟΓΡΑΦΙΑ LINK ΕΚΚΧΟ/",
+      "type": "Φωτογραφικό Υλικό - Σκαρίφημα",
+      "file_url": "https://silia.eett.gr/silia/download/b27499ae-52f0-4ced-acd6-93c41e34a921"
+    },
+    {
+      "document_number": "378701/09-10-2019",
+      "protocol_number": "GOOGLE EARTH ΑΠΟΤΥΠΩΣΗ/",
+      "type": "Άλλο",
+      "file_url": "https://silia.eett.gr/silia/download/ceedf8c6-80f0-4b94-ad86-109f6232cec0"
+    },
+    {
+      "document_number": "378849/09-10-2019",
+      "protocol_number": "Αρχείο Αίτησης/",
+      "type": "Δήλωση ΕΚΚΧΟ",
+      "file_url": "https://silia.eett.gr/silia/download/98afc056-ad7f-44a6-a65a-0f7fed53150f"
+    },
+    {
+      "document_number": "462713/24-06-2022",
+      "protocol_number": "ΥΠΕΥΘΥΝΗ ΔΗΛΩΣΗ ΤΕΧΝΙΚΟΥ ΥΠΕΥΘΥΝΟΥ/",
+      "type": "Άλλο",
+      "file_url": "https://silia.eett.gr/silia/download/cc16d8c2-ccc0-4db7-ad19-637fb1d429ef"
+    }
+  ]
+}

@@ -1,0 +1,51 @@
+{
+  "antenna_id": "173819",
+  "address": "ΒΥΡΩΝΟΣ 6 ΧΑΛΑΝΔΡΙ.",
+  "position_code": 1148313,
+  "municipality": "Χαλανδρίου",
+  "code_name": "3028313 MANTIS CHALANDRI",
+  "region": "Αττικής",
+  "latitude": 38.004167,
+  "company": "VODAFONE",
+  "longitude": 23.793056,
+  "permit_status": "Από τα στοιχεία που τηρούνται στην Ενημερωτική Πύλη προκύπτει ότι, για τη θέση \"    ΒΥΡΩΝΟΣ 6 ΧΑΛΑΝΔΡΙ.\" στον Δήμο Χαλανδρίου Περιφέρειας  Αττικής \n\t(κωδικός αριθμός θέσης 1148313, κωδική ονομασία \"3028313 MANTIS CHALANDRI\") έχει κατατεθεί από την εταιρία VODAFONE\tδήλωση εγκατάστασης κατασκευής κεραίας (αριθ. πρωτ. \n\t56197/10-06-2024) που εμπίπτει στις διατάξεις της νομοθεσίας για Εγκαταστάσεις Κατασκευών Κεραιών Χαμηλής Ηλεκτρομαγνητικής Περιβαλλοντικής Όχλησης (ΕΚΚΧΟ).",
+  "measurements_eaee": "-",
+  "documents": [
+    {
+      "document_number": "517354/10-06-2024",
+      "protocol_number": "Φωτορεαλιστική απεικόνιση κεραίας ΕΚΚΧΟ/10-06-2024",
+      "type": "Φωτογραφικό Υλικό - Σκαρίφημα",
+      "file_url": "https://silia.eett.gr/silia/download/Yx2nlpguGdt2C5Ual8xAxcG5n6d9hWAGrhWB"
+    },
+    {
+      "document_number": "517355/10-06-2024",
+      "protocol_number": "Ψηφιακός χάρτης με προβολή της θέσης ΕΚΚΧΟ/10-06-2024",
+      "type": "Φωτογραφικό Υλικό - Σκαρίφημα",
+      "file_url": "https://silia.eett.gr/silia/download/Te9vCX2Ihny5rouYhyG3QffGfhTGGldUhMCx"
+    },
+    {
+      "document_number": "517356/10-06-2024",
+      "protocol_number": "Σκαρίφημα θέσης κεραίας ΕΚΚΧΟ/10-06-2024",
+      "type": "Φωτογραφικό Υλικό - Σκαρίφημα",
+      "file_url": "https://silia.eett.gr/silia/download/tB6CFmxMOVvpMtpnK7nmBStqsD0tlwRmscl4"
+    },
+    {
+      "document_number": "517358/10-06-2024",
+      "protocol_number": "ΜΕΛΕΤΗ ΕΚΚΧΟ/10-06-2024",
+      "type": "Άλλο",
+      "file_url": "https://silia.eett.gr/silia/download/IwqP9G2090u1w3PFru23Sd1iaIgMLgbChHyX"
+    },
+    {
+      "document_number": "517359/10-06-2024",
+      "protocol_number": "Αρχείο Αίτησης/10-06-2024",
+      "type": "Δήλωση ΕΚΚΧΟ",
+      "file_url": "https://silia.eett.gr/silia/download/UzmdwRr99W7XK16d4ZVSPoFlRteoOZFTGcei"
+    },
+    {
+      "document_number": "531051/31-10-2024",
+      "protocol_number": "ΥΔ ΕΓΚΑΤΑΣΤΑΣΗΣ/31-10-2024",
+      "type": "Άλλο",
+      "file_url": "https://silia.eett.gr/silia/download/lLo8KUcyvKEwO82utKyZYiVPqBsPG7mTZLnw"
+    }
+  ]
+}

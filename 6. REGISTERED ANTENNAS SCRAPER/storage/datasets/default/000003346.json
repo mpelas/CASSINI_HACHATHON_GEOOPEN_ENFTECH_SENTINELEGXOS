@@ -1,0 +1,27 @@
+{
+  "antenna_id": "154661",
+  "address": "ΣΤΑΘΜΟΣ ΔΙΟΔΙΩΝ ΠΕΛΑΣΓΙΑΣ - ΣΤΥΛΙΔΑ.",
+  "position_code": 1155781,
+  "municipality": "Στυλίδας",
+  "code_name": "AUTOKINITODROMOS AIGAIOU PELASGIA",
+  "region": "Στερεάς Ελλάδας",
+  "latitude": 38.920278,
+  "company": "VODAFONE",
+  "longitude": 22.845556,
+  "permit_status": "Από τα στοιχεία που τηρούνται στην Ενημερωτική Πύλη προκύπτει ότι, για τη θέση \"ΣΤΑΘΜΟΣ ΔΙΟΔΙΩΝ ΠΕΛΑΣΓΙΑΣ - ΣΤΥΛΙΔΑ.\" στον Δήμο Στυλίδας Περιφέρειας  Στερεάς Ελλάδας \n\t(κωδικός αριθμός θέσης 1155781, κωδική ονομασία \"AUTOKINITODROMOS AIGAIOU PELASGIA\") έχει κατατεθεί από την εταιρία VODAFONE\tδήλωση εγκατάστασης κατασκευής κεραίας (αριθ. πρωτ. \n\t39813/04-06-2020) που εμπίπτει στις διατάξεις της νομοθεσίας για Εγκαταστάσεις Κατασκευών Κεραιών Χαμηλής Ηλεκτρομαγνητικής Περιβαλλοντικής Όχλησης (ΕΚΚΧΟ).",
+  "measurements_eaee": "-",
+  "documents": [
+    {
+      "document_number": "407293/22-05-2020",
+      "protocol_number": "ΦΩΤΟΓΡΑΦΙΑ ΘΕΣΗΣ ΚΕΡΑΙΑΣ 1/",
+      "type": "Φωτογραφικό Υλικό - Σκαρίφημα",
+      "file_url": "https://silia.eett.gr/silia/download/abe897c8-d06a-4308-bac1-5c085ea2f700"
+    },
+    {
+      "document_number": "409914/04-06-2020",
+      "protocol_number": "Αρχείο Αίτησης/",
+      "type": "Δήλωση ΕΚΚΧΟ",
+      "file_url": "https://silia.eett.gr/silia/download/95c1241a-035b-4ffe-8abe-5ea26de50ee8"
+    }
+  ]
+}

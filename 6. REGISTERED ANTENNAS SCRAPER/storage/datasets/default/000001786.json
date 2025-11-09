@@ -1,0 +1,105 @@
+{
+  "antenna_id": "141865",
+  "address": "ΚΑΡΑΪΣΚΑΚΗ 5",
+  "position_code": 1106192,
+  "municipality": "Ηλιουπόλεως",
+  "code_name": "ΠΛΑΤΕΙΑ ΑΪΝΣΤΑΪΝ ΗΛΙΟΥΠΟΛΗ",
+  "region": "Αττικής",
+  "latitude": 37.928611,
+  "company": "VODAFONE",
+  "longitude": 23.757778,
+  "permit_status": "Από τα στοιχεία που τηρούνται στην Ενημερωτική Πύλη προκύπτει ότι, για τη θέση \"ΚΑΡΑΪΣΚΑΚΗ 5\" στον Δήμο Ηλιουπόλεως Περιφέρειας  Αττικής \n\t(κωδικός αριθμός θέσης 1106192, κωδική ονομασία \"ΠΛΑΤΕΙΑ ΑΪΝΣΤΑΪΝ ΗΛΙΟΥΠΟΛΗ\") χορηγήθηκε, με την Απόφαση της ΕΕΤΤ \n36267/Φ10/01-07-2020, άδεια κατασκευής κεραίας στην εταιρία VODAFONE. \nΑπό τo έγγραφο της άδειας μπορείτε να ενημερωθείτε για τις σχετικές εγκρίσεις των συναρμόδιων φορέων, καθώς και εάν πρόκειται για τροποποίηση παλαιότερης άδειας.",
+  "measurements_eaee": "-",
+  "documents": [
+    {
+      "document_number": "363174/10-04-2019",
+      "protocol_number": "ΜΕΛΕΤΗ ΡΑΔΙΟΕΚΠΟΜΠΩΝ/09-04-2019",
+      "type": "Αίτηση - Μελέτη Ραδιοεκπομπών ΕΕΑΕ",
+      "file_url": "https://silia.eett.gr/silia/download/7bf37b64-7bb5-442a-b863-6979a937a003"
+    },
+    {
+      "document_number": "363720/15-04-2019",
+      "protocol_number": "ΜΕΛΕΤΗ ΣΥΜΒΑΤΟΤΗΤΑΣ 2700 MHz/11-04-2019",
+      "type": "Μελέτη για τη ζώνη  2,6GHz",
+      "file_url": "https://silia.eett.gr/silia/download/17d8a8fd-ff31-4be2-ad28-fa192b43e4c4"
+    },
+    {
+      "document_number": "363901/16-04-2019",
+      "protocol_number": "ΧΑΡΤΗΣ ΥΠΑ/",
+      "type": "Απόσπασμα Χάρτη ΓΥΣ 1:50.000",
+      "file_url": "https://silia.eett.gr/silia/download/9e3294bb-f2cc-4d34-9021-7056e75d450c"
+    },
+    {
+      "document_number": "363902/16-04-2019",
+      "protocol_number": "ΜΕΛΕΤΗ ΥΠΟΒΑΘΡΟΥ/15-04-2019",
+      "type": "Αίτηση - Μελέτη Ραδιοεκπομπών ΕΕΑΕ (υποβάθρου)",
+      "file_url": "https://silia.eett.gr/silia/download/4f92fc22-4dd8-4e2c-90fd-9c6b570a2c6b"
+    },
+    {
+      "document_number": "363920/16-04-2019",
+      "protocol_number": "111485/12-04-2019",
+      "type": "Τοπογραφικό",
+      "file_url": "https://silia.eett.gr/silia/download/02eec450-a783-424c-bc71-4d69f2f85ae8"
+    },
+    {
+      "document_number": "363921/16-04-2019",
+      "protocol_number": "111485/12-04-2019",
+      "type": "Αρχιτεκτονικά Σχέδια",
+      "file_url": "https://silia.eett.gr/silia/download/76374e2e-ad62-44e0-a30a-cb2f16d45625"
+    },
+    {
+      "document_number": "363928/16-04-2019",
+      "protocol_number": "Αρχείο Αίτησης/",
+      "type": "Αίτηση Άδειας Κατασκευής Κεραίας ΕΕΤΤ",
+      "file_url": "https://silia.eett.gr/silia/download/3331b76d-d695-4e29-b281-fe4ad003d5ca"
+    },
+    {
+      "document_number": "365931/20-05-2019",
+      "protocol_number": "17025/20-5-2019/20-05-2019",
+      "type": "Έγγραφο Αρμοδίου Φορέα",
+      "file_url": "https://silia.eett.gr/silia/download/2469bd71-c43d-418b-8287-050a700f48a6"
+    },
+    {
+      "document_number": "367432/07-06-2019",
+      "protocol_number": "Δ3/Δ/20638/07-06-2019/07-06-2019",
+      "type": "Γνωμάτευση ΥΠΑ",
+      "file_url": "https://silia.eett.gr/silia/download/ef93f023-5f8d-4b07-b920-63ca32abace0"
+    },
+    {
+      "document_number": "367595/10-06-2019",
+      "protocol_number": "Μ.ι./411/8640/2019/10-06-2019",
+      "type": "Γνωμάτευση ΕΕΑΕ",
+      "file_url": "https://silia.eett.gr/silia/download/380f9ba8-a0b6-488f-81e0-28623cb719f9"
+    },
+    {
+      "document_number": "409855/04-06-2020",
+      "protocol_number": "32186/21-05-2020",
+      "type": "Αποτελέσματα μελέτης στη ζώνης 2.6GHz για ΥΠΑ/ΓΕΕΘΑ",
+      "file_url": "https://silia.eett.gr/silia/download/fc91c79c-5d2f-43a0-8c9e-6ed1e5392605"
+    },
+    {
+      "document_number": "416351/11-09-2020",
+      "protocol_number": "36267/Φ10/01-07-2020",
+      "type": "Άδεια Κατασκευής  Κεραίας",
+      "file_url": "https://silia.eett.gr/silia/download/7dc2e22f-aa03-432b-aaed-eb70c81370e1"
+    },
+    {
+      "document_number": "363721/15-04-2019",
+      "protocol_number": "ΜΕΛΕΤΗ ΡΑΔΙΟΕΚΠΟΜΠΩΝ/09-04-2019",
+      "type": "Αίτηση - Μελέτη Ραδιοεκπομπών ΕΕΑΕ",
+      "file_url": "https://silia.eett.gr/silia/download/7bf37b64-7bb5-442a-b863-6979a937a003"
+    },
+    {
+      "document_number": "363729/15-04-2019",
+      "protocol_number": "ΣΥΝΟΔΕΥΤΙΚΑ ΕΓΓΡΑΦΑ ΠΠΔ/",
+      "type": "Δήλωση υπαγωγής σε ΠΠΔ και Συνοδευτικά Έγγραφα",
+      "file_url": "https://silia.eett.gr/silia/download/716504fd-4b9a-4c7c-9b23-37cb52d78f7f"
+    },
+    {
+      "document_number": "363929/16-04-2019",
+      "protocol_number": "Αρχείο Αίτησης/",
+      "type": "Δήλωση ΠΠΔ",
+      "file_url": "https://silia.eett.gr/silia/download/4e3f842e-a276-4b65-abe9-d2928acd2d6c"
+    }
+  ]
+}

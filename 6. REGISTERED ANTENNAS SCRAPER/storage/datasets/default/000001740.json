@@ -1,0 +1,39 @@
+{
+  "antenna_id": "167531",
+  "address": "ΣΥΒΟΤΑ",
+  "position_code": 1498723,
+  "municipality": "Ηγουμενίτσας",
+  "code_name": "MIKROS_PARADISOS_SIVOTA",
+  "region": "Ηπείρου",
+  "latitude": 39.398889,
+  "company": "OTE",
+  "longitude": 20.254444,
+  "permit_status": "Από τα στοιχεία που τηρούνται στην Ενημερωτική Πύλη προκύπτει ότι, για τη θέση \"ΣΥΒΟΤΑ\" στον Δήμο Ηγουμενίτσας Περιφέρειας  Ηπείρου \n\t(κωδικός αριθμός θέσης 1498723, κωδική ονομασία \"MIKROS_PARADISOS_SIVOTA\") έχει κατατεθεί από την εταιρία OTE\tδήλωση εγκατάστασης κατασκευής κεραίας (αριθ. πρωτ. \n\t51052/20-03-2023) που εμπίπτει στις διατάξεις της νομοθεσίας για Εγκαταστάσεις Κατασκευών Κεραιών Χαμηλής Ηλεκτρομαγνητικής Περιβαλλοντικής Όχλησης (ΕΚΚΧΟ).",
+  "measurements_eaee": "-",
+  "documents": [
+    {
+      "document_number": "479977/10-03-2023",
+      "protocol_number": "ΦΩΤΟΓΡΑΦΙΑ/",
+      "type": "Φωτογραφικό Υλικό - Σκαρίφημα",
+      "file_url": "https://silia.eett.gr/silia/download/68565e89-3316-4818-97bb-b334666c7d72"
+    },
+    {
+      "document_number": "480595/20-03-2023",
+      "protocol_number": "ΜΕΣΩ ΣΗΛΥΑ/",
+      "type": "Αίτηση - Μελέτη Ραδιοεκπομπών ΕΕΑΕ",
+      "file_url": "https://silia.eett.gr/silia/download/9d64250e-7d0b-47e2-9126-22036aa063f3"
+    },
+    {
+      "document_number": "480623/20-03-2023",
+      "protocol_number": "Αρχείο Αίτησης/",
+      "type": "Δήλωση ΕΚΚΧΟ",
+      "file_url": "https://silia.eett.gr/silia/download/6bb28730-c60c-4ade-892b-5e12eb3ed197"
+    },
+    {
+      "document_number": "527659/03-10-2024",
+      "protocol_number": "ΥΠ.ΔΗΛΩΣΗ/03-10-2024",
+      "type": "Άλλο",
+      "file_url": "https://silia.eett.gr/silia/download/h5QnBwpxav2OYa1Ysy6XluoMW64Dsy1T7bSg"
+    }
+  ]
+}

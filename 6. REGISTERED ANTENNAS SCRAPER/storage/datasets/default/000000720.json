@@ -1,0 +1,33 @@
+{
+  "antenna_id": "164880",
+  "address": "Δήμος Αργιθέας, Π.Ε. Καρδίτσας, Περιφέρεια Θεσσαλίας",
+  "position_code": 3206251,
+  "municipality": "Αργιθέας",
+  "code_name": "ΠΕΤΡΙΛΟ",
+  "region": "Θεσσαλίας",
+  "latitude": 39.265278,
+  "company": "ΕΡΤ ΑΕ",
+  "longitude": 21.589444,
+  "permit_status": "Από τα στοιχεία που τηρούνται στην Ενημερωτική Πύλη προκύπτει ότι για τη  θέση \"Δήμος Αργιθέας, Π.Ε. Καρδίτσας, Περιφέρεια Θεσσαλίας\" στον Δήμο Αργιθέας Περιφέρειας  Θεσσαλίας έχει κατατεθεί από την εταιρία ΕΡΤ ΑΕ δήλωση κατασκευής κεραίας τηλεοπτικής ευρυεκπομπής με αριθ. πρωτ. ΣΗΛΥΑ \n48721/25-07-2022 κατά τα οριζόμενα στην παρ. 7 του άρθρου 39 του Ν.4635/2019.",
+  "measurements_eaee": "-",
+  "documents": [
+    {
+      "document_number": "464643/25-07-2022",
+      "protocol_number": "Αίτηση ΥΠΑ/",
+      "type": "Αίτηση ΥΠΑ",
+      "file_url": "https://silia.eett.gr/silia/download/8da93bd8-4fdf-48c2-bd85-e8ff60131c56"
+    },
+    {
+      "document_number": "464644/25-07-2022",
+      "protocol_number": "screenshot/",
+      "type": "Φωτογραφικό Υλικό - Σκαρίφημα",
+      "file_url": "https://silia.eett.gr/silia/download/df07cb57-2f2d-4673-b47d-edaa6aba545e"
+    },
+    {
+      "document_number": "464645/25-07-2022",
+      "protocol_number": "Αρχείο Αίτησης/",
+      "type": "Δήλωση Τηλεοπτικής Ευρυεκπομπής",
+      "file_url": "https://silia.eett.gr/silia/download/48ada035-52b5-4ed8-8950-fbce33649ebb"
+    }
+  ]
+}

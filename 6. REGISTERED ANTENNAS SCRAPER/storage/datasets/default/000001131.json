@@ -1,0 +1,33 @@
+{
+  "antenna_id": "152580",
+  "address": "ΜΕΓΑΛΟΧΑΡΗ ΑΡΤΑΣ",
+  "position_code": 1412689,
+  "municipality": "Γεωργίου Καραϊσκάκη",
+  "code_name": "MEGALOCHAR_MI",
+  "region": "Ηπείρου",
+  "latitude": 39.224722,
+  "company": "OTE",
+  "longitude": 21.309722,
+  "permit_status": "Από τα στοιχεία που τηρούνται στην Ενημερωτική Πύλη προκύπτει ότι, για τη θέση \"ΜΕΓΑΛΟΧΑΡΗ ΑΡΤΑΣ \" στον Δήμο Γεωργίου Καραϊσκάκη Περιφέρειας  Ηπείρου \n\t(κωδικός αριθμός θέσης 1412689, κωδική ονομασία \"MEGALOCHAR_MI\") έχει κατατεθεί από την εταιρία OTE\tδήλωση εγκατάστασης κατασκευής κεραίας (αριθ. πρωτ. \n\t37965/01-04-2020) που εμπίπτει στις διατάξεις της νομοθεσίας για Εγκαταστάσεις Κατασκευών Κεραιών Χαμηλής Ηλεκτρομαγνητικής Περιβαλλοντικής Όχλησης (ΕΚΚΧΟ).",
+  "measurements_eaee": "-",
+  "documents": [
+    {
+      "document_number": "400765/31-03-2020",
+      "protocol_number": "ΣΚΑΡΙΦΗΜΑ/",
+      "type": "Φωτογραφικό Υλικό - Σκαρίφημα",
+      "file_url": "https://silia.eett.gr/silia/download/e3714cc6-f3ef-4eed-96e0-caa9c16892c1"
+    },
+    {
+      "document_number": "400903/01-04-2020",
+      "protocol_number": "204/03-02-2020",
+      "type": "Έγκριση Αρμοδίου Φορέα",
+      "file_url": "https://silia.eett.gr/silia/download/df6a349e-cd43-4e53-a039-61df61f2bd1b"
+    },
+    {
+      "document_number": "400904/01-04-2020",
+      "protocol_number": "Αρχείο Αίτησης/",
+      "type": "Δήλωση ΕΚΚΧΟ",
+      "file_url": "https://silia.eett.gr/silia/download/70d0cfd3-2c58-4dc5-a787-8d4df965faa7"
+    }
+  ]
+}

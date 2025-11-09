@@ -1,0 +1,33 @@
+{
+  "antenna_id": "161409",
+  "address": "Ν. E.O. ΑΘΗΝΩΝ - ΠΑΤΡΩΝ 51",
+  "position_code": 1268235,
+  "municipality": "Πατρέων",
+  "code_name": "NESTLE PATRA",
+  "region": "Δυτικής Ελλάδας",
+  "latitude": 38.266667,
+  "company": "NOVA Μ.Α.Ε.",
+  "longitude": 21.753333,
+  "permit_status": "Από τα στοιχεία που τηρούνται στην Ενημερωτική Πύλη προκύπτει ότι, για τη θέση \"Ν. E.O. ΑΘΗΝΩΝ - ΠΑΤΡΩΝ 51\" στον Δήμο Πατρέων Περιφέρειας  Δυτικής Ελλάδας \n\t(κωδικός αριθμός θέσης 1268235, κωδική ονομασία \"NESTLE PATRA\") έχει κατατεθεί από την εταιρία NOVA Μ.Α.Ε.\tδήλωση εγκατάστασης κατασκευής κεραίας (αριθ. πρωτ. \n\t45692/30-11-2021) που εμπίπτει στις διατάξεις της νομοθεσίας για Εγκαταστάσεις Κατασκευών Κεραιών Χαμηλής Ηλεκτρομαγνητικής Περιβαλλοντικής Όχλησης (ΕΚΚΧΟ).",
+  "measurements_eaee": "-",
+  "documents": [
+    {
+      "document_number": "446970/30-11-2021",
+      "protocol_number": "ΣΚΑΡΙΦΗΜΑ ΕΚΚΧΟ/",
+      "type": "Φωτογραφικό Υλικό - Σκαρίφημα",
+      "file_url": "https://silia.eett.gr/silia/download/902c46b5-5c42-42df-8c75-0481e1c1811e"
+    },
+    {
+      "document_number": "446978/30-11-2021",
+      "protocol_number": "Αρχείο Αίτησης/",
+      "type": "Δήλωση ΕΚΚΧΟ",
+      "file_url": "https://silia.eett.gr/silia/download/e47d5202-2938-41e6-872c-d17cb93dc490"
+    },
+    {
+      "document_number": "520448/14-07-2024",
+      "protocol_number": "45692/12-07-2024",
+      "type": "Δειγματοληπτικός έλεγχος",
+      "file_url": "https://silia.eett.gr/silia/download/b3tFWRtSXhZyWsk16ZMTe9xO7LSg0crp3gGe"
+    }
+  ]
+}

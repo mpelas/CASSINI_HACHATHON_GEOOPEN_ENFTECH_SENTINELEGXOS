@@ -1,0 +1,171 @@
+{
+  "antenna_id": "150741",
+  "address": "ΠΛΗΣΙΟΝ ΔΟΞΑΤΟΥ",
+  "position_code": 1201769,
+  "municipality": "Δοξάτου",
+  "code_name": "ΔΟΞΑΤΟ",
+  "region": "Ανατ. Μακεδονίας και Θράκης",
+  "latitude": 41.0825,
+  "company": "NOVA Μ.Α.Ε.",
+  "longitude": 24.270833,
+  "permit_status": "Από τα στοιχεία που τηρούνται στην Ενημερωτική Πύλη προκύπτει ότι, για τη θέση \"ΠΛΗΣΙΟΝ ΔΟΞΑΤΟΥ\" στον Δήμο Δοξάτου Περιφέρειας  Ανατ. Μακεδονίας και Θράκης \n\t(κωδικός αριθμός θέσης 1201769, κωδική ονομασία \"ΔΟΞΑΤΟ\") χορηγήθηκε, με την Απόφαση της ΕΕΤΤ \n39533/26-02-2021, άδεια κατασκευής κεραίας στην εταιρία NOVA Μ.Α.Ε.. \nΑπό τo έγγραφο της άδειας μπορείτε να ενημερωθείτε για τις σχετικές εγκρίσεις των συναρμόδιων φορέων, καθώς και εάν πρόκειται για τροποποίηση παλαιότερης άδειας.\nΗ άδεια χορηγήθηκε με τη διαδικασία αδειοδότησης που ορίζει ο ν. 4635/2019, κατόπιν της με αριθ. πρωτ. 38329/21-04-2020 \n\tαίτησης, και βάσει σχετικής δήλωσης του κατόχου της περί υπαγωγή της κατασκευής κεραίας στο άρθρο 34 του ν. 4635/2019.\nΕπιπλέον, έχει υποβληθεί η με αριθ. πρωτ. ΣΗΛΥΑ 53937/24-11-2023 (Δήλωση παρ. 1Β, άρθρ. 28, ν. 4635/2019) δήλωση που αφορά σε τροποποίηση/επικαιροποίηση στοιχείων της κατασκευής κεραίας που αφορούν τον(ους) Τομέα(εις) Αδειοδότησης:Κεραιοσυστήματα, Περιβάλλον.\n\tΔιευκρινίζεται ότι υπό ορισμένες προϋποθέσεις για την τροποποίηση αδειοδοτημένης κατασκευής κεραίας ή/και την επικαιροποίηση στοιχείων της δεν απαιτείται η έκδοση νέας άδειας \n\tκατασκευής κεραίας ή η τροποποίηση της υφιστάμενης άδειας κατασκευής κεραίας, αλλά απαιτείται η υποβολή κατάλληλης δήλωσης από τον κάτοχο της κατασκευής κεραίας συνοδευόμενη \n\tαπό επικαιροποίηση επιμέρους εγκρίσεων. \n\t \tΣύμφωνα με τα στοιχεία που έχουν υποβληθεί στο ΣΗΛΥΑ για την κατασκευή κεραίας από τον κάτοχό της, έχει εκδοθεί έγκριση δομικών κατασκευών κεραίας",
+  "measurements_eaee": "-",
+  "documents": [
+    {
+      "document_number": "396172/25-02-2020",
+      "protocol_number": "31487/Φ615 wind/01-02-2019",
+      "type": "Χορήγηση Δικαιώματος Χρήσης Ραδιοσυχνοτήτων",
+      "file_url": null
+    },
+    {
+      "document_number": "396173/25-02-2020",
+      "protocol_number": "31849/Φ615 cosmote/06-03-2019",
+      "type": "Χορήγηση Δικαιώματος Χρήσης Ραδιοσυχνοτήτων",
+      "file_url": null
+    },
+    {
+      "document_number": "396190/25-02-2020",
+      "protocol_number": "Δ3/Δ/21571/4937/26-07-2002",
+      "type": "Γνωμάτευση ΥΠΑ",
+      "file_url": "https://silia.eett.gr/silia/download/01b7de31-4590-4440-bb9c-64c3e65034ed"
+    },
+    {
+      "document_number": "396191/25-02-2020",
+      "protocol_number": "ΜΕΛΕΤΗ ΡΑΔΙΟΕΚΠΟΜΠΩΝ/24-02-2020",
+      "type": "Αίτηση - Μελέτη Ραδιοεκπομπών ΕΕΑΕ",
+      "file_url": "https://silia.eett.gr/silia/download/30f5f1f7-8839-472a-a0c4-1d37aa2b2755"
+    },
+    {
+      "document_number": "396192/25-02-2020",
+      "protocol_number": "ΤΟΠΟΓΡΑΦΙΚΟ/",
+      "type": "Τοπογραφικό",
+      "file_url": "https://silia.eett.gr/silia/download/363ae2fa-7115-4ff7-94d5-5143cc023964"
+    },
+    {
+      "document_number": "396193/25-02-2020",
+      "protocol_number": "ΑΡΧΙΤΕΚΤΟΝΙΚΑ ΣΧΕΔΙΑ/",
+      "type": "Αρχιτεκτονικά Σχέδια",
+      "file_url": "https://silia.eett.gr/silia/download/af02bc26-f514-45b4-a8a1-a1dde046b5b6"
+    },
+    {
+      "document_number": "396276/25-02-2020",
+      "protocol_number": "ΥΠΕΥΘΥΝΗ ΔΗΛΩΣΗ ΚΟΙΝΗΣ ΧΡΗΣΗΣ COSMOTE/25-02-2020",
+      "type": "Άλλο",
+      "file_url": "https://silia.eett.gr/silia/download/01183477-721c-4e56-9215-0e9374967e1c"
+    },
+    {
+      "document_number": "396547/26-02-2020",
+      "protocol_number": "ΥΠΕΥΘΥΝΗ ΔΗΛΩΣΗ ΚΟΙΝΗΣ ΧΡΗΣΗΣ VODAFONE/26-02-2020",
+      "type": "Άλλο",
+      "file_url": "https://silia.eett.gr/silia/download/e43b2e03-a77f-457e-b041-1edc4c9c46c5"
+    },
+    {
+      "document_number": "396548/26-02-2020",
+      "protocol_number": "ΥΠΕΥΘΥΝΗ ΔΗΛΩΣΗ ΔΙΑΣΥΝΔΕΣΗΣ VODAFONE/26-02-2020",
+      "type": "Άλλο",
+      "file_url": "https://silia.eett.gr/silia/download/37767667-bbf4-4df4-b23b-0e3c16a2a3d9"
+    },
+    {
+      "document_number": "402781/21-04-2020",
+      "protocol_number": "23452/07-04-2020",
+      "type": "Αίτηση ΓΕΑ",
+      "file_url": "https://silia.eett.gr/silia/download/1d36fbc3-0d5d-477d-b50a-d56673d209dd"
+    },
+    {
+      "document_number": "402782/21-04-2020",
+      "protocol_number": "Αρχείο Αίτησης/",
+      "type": "Αίτηση Άδειας Κατασκευής Κεραίας ΕΕΤΤ",
+      "file_url": "https://silia.eett.gr/silia/download/276ecdba-a46b-428c-ab73-ee2f51444fe5"
+    },
+    {
+      "document_number": "410691/15-06-2020",
+      "protocol_number": "Μ.ι./411/7680/2020/15-06-2020",
+      "type": "Γνωμάτευση ΕΕΑΕ",
+      "file_url": "https://silia.eett.gr/silia/download/64f4d609-8205-4ebd-93f9-66c280375c26"
+    },
+    {
+      "document_number": "426454/28-12-2020",
+      "protocol_number": "Δ3/Δ/43596/28-12-2020/28-12-2020",
+      "type": "Γνωμάτευση ΥΠΑ",
+      "file_url": "https://silia.eett.gr/silia/download/15f14105-da3a-42bc-8839-b001f5a4a9a3"
+    },
+    {
+      "document_number": "426556/29-12-2020",
+      "protocol_number": "ΕΠΙΣΤΟΛΗ ΕΞΑΙΡΕΣΗΣ ΓΕΑ 68958/11-06-2020",
+      "type": "Επιστολή Ενημέρωσης προς Αρμόδιο Φορέα",
+      "file_url": "https://silia.eett.gr/silia/download/67ef4fa2-7859-4da7-b9e9-29b4813b847b"
+    },
+    {
+      "document_number": "428631/02-02-2021",
+      "protocol_number": "ΥΠΕΥΘΥΝΗ ΔΗΛΩΣΗ ΚΟΙΝΗΣ ΧΡΗΣΗΣ COSMOTE/02-02-2021",
+      "type": "Άλλο",
+      "file_url": "https://silia.eett.gr/silia/download/859c9b4b-4caf-4839-a447-28d25e00506b"
+    },
+    {
+      "document_number": "431046/10-03-2021",
+      "protocol_number": "39533/26-02-2021",
+      "type": "Άδεια Κατασκευής  Κεραίας",
+      "file_url": "https://silia.eett.gr/silia/download/172aa7e9-6e4b-4290-a737-2628e90268c8"
+    },
+    {
+      "document_number": "532757/18-11-2024",
+      "protocol_number": "51666/14-11-2024",
+      "type": "Διαπιστωτική Πράξη Υπαγωγής σε ΠΠΔ",
+      "file_url": "https://silia.eett.gr/silia/download/UhqdKGlpSqbwebXghc5igtqIyDuiFfEnp1lV"
+    },
+    {
+      "document_number": "501507/24-11-2023",
+      "protocol_number": "ΣΥΝΟΔΕΥΤΙΚΑ ΕΓΓΡΑΦΑ/",
+      "type": "Δήλωση υπαγωγής σε ΠΠΔ και Συνοδευτικά Έγγραφα",
+      "file_url": "https://silia.eett.gr/silia/download/832cf020-2e3c-4757-8775-9fee3068977b"
+    },
+    {
+      "document_number": "501508/24-11-2023",
+      "protocol_number": "ΤΟΠΟΓΡΑΦΙΚΟ & ΑΡΧΙΤΕΚΤΟΝΙΚΑ/",
+      "type": "Αρχιτεκτονικά Σχέδια",
+      "file_url": "https://silia.eett.gr/silia/download/38be18e7-d350-427a-bb6d-7f6aacd49edb"
+    },
+    {
+      "document_number": "501509/24-11-2023",
+      "protocol_number": "ΜΕΣΩ ΣΗΛΥΑ/23-11-2023",
+      "type": "Αίτηση - Μελέτη Ραδιοεκπομπών ΕΕΑΕ",
+      "file_url": "https://silia.eett.gr/silia/download/5d480cbc-466c-43dd-8dfd-e8c1ce773b43"
+    },
+    {
+      "document_number": "501513/24-11-2023",
+      "protocol_number": "ΥΔ ΚΟΙΝΗΣ ΧΡΗΣΗΣ VODAFONE/23-11-2023",
+      "type": "Άλλο",
+      "file_url": "https://silia.eett.gr/silia/download/9c8852b1-932a-499a-9d12-bd99d9f8f782"
+    },
+    {
+      "document_number": "501514/24-11-2023",
+      "protocol_number": "ΥΔ ΔΙΑΣΥΝΔΕΣΗΣ VODAFONE/23-11-2023",
+      "type": "Άλλο",
+      "file_url": "https://silia.eett.gr/silia/download/7c82fd9f-7f59-4e2f-93c2-88b679e37fc3"
+    },
+    {
+      "document_number": "501515/24-11-2023",
+      "protocol_number": "ΥΔ ΣΥΝΕΓΚΑΤΑΣΤΑΣΗΣ COSMOTE/23-11-2023",
+      "type": "Άλλο",
+      "file_url": "https://silia.eett.gr/silia/download/fd5240d5-8dbc-42ed-a4b2-4d9de6330b78"
+    },
+    {
+      "document_number": "501544/24-11-2023",
+      "protocol_number": "Αρχείο Αίτησης/",
+      "type": "Δήλωση ΔΤΚΚ",
+      "file_url": "https://silia.eett.gr/silia/download/22288538-562d-4ced-9c6b-f14b8982b737"
+    },
+    {
+      "document_number": "505067/19-01-2024",
+      "protocol_number": "TMIA/411/1092/2024/18-01-2024",
+      "type": "Γνωμάτευση ΕΕΑΕ",
+      "file_url": null
+    },
+    {
+      "document_number": "505068/19-01-2024",
+      "protocol_number": "TMIA/411/1092/2024/18-01-2024",
+      "type": "Γνωμάτευση ΕΕΑΕ",
+      "file_url": "https://silia.eett.gr/silia/download/ddded1df-45be-4e08-a42f-46a3becc1f6d"
+    }
+  ]
+}

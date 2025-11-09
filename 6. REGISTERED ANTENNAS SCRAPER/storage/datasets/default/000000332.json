@@ -1,0 +1,183 @@
+{
+  "antenna_id": "100354",
+  "address": "ΛΕΩΦΟΡΟΣ ΣΥΓΓΡΟΥ 115, ΑΘΗΝΑ, Τ.Κ. 11745",
+  "position_code": 2401110,
+  "municipality": "Αθηναίων",
+  "code_name": "ΛΗΔΡΑ ΜΑΡΙΟΤΤ",
+  "region": "Αττικής",
+  "latitude": 37.956944,
+  "company": "CONNECTICORE",
+  "longitude": 23.718333,
+  "permit_status": "Από τα στοιχεία που τηρούνται στην Ενημερωτική Πύλη προκύπτει ότι, για τη θέση \"ΛΕΩΦΟΡΟΣ ΣΥΓΓΡΟΥ 115, ΑΘΗΝΑ, Τ.Κ. 11745\" στον Δήμο Αθηναίων Περιφέρειας  Αττικής \n\t(κωδικός αριθμός θέσης 2401110, κωδική ονομασία \"ΛΗΔΡΑ ΜΑΡΙΟΤΤ\") χορηγήθηκε, με την Απόφαση της ΕΕΤΤ \n12502/Φ610/23-06-2014, άδεια κατασκευής κεραίας στην εταιρία CONNECTICORE. \nΑπό τo έγγραφο της άδειας μπορείτε να ενημερωθείτε για τις σχετικές εγκρίσεις των συναρμόδιων φορέων, καθώς και εάν πρόκειται για τροποποίηση παλαιότερης άδειας.\nΗ άδεια χορηγήθηκε, κατόπιν της με Αριθ. Πρωτ. 849/01-03-2013 αίτησης, \n\tμε τη διαδικασία αδειοδότησης της παρ. 17 του άρθρου 30 του Ν.4070/2012 που πλέον έχει αντικατασταθεί από τη διαδικασία που ορίζει ο ν. 4635/2019.",
+  "measurements_eaee": "-",
+  "documents": [
+    {
+      "document_number": "57575/15-02-2013",
+      "protocol_number": "Γνωμάτευση ΥΠΑ με αριθμό πρωτοκόλλου Δ3/Δ/37281/8893/23-11-2012/23-11-2012",
+      "type": "Γνωμάτευση ΥΠΑ",
+      "file_url": "https://silia.eett.gr/silia/download/7394a0fe-e594-41b5-9a3b-1b86275c4da5"
+    },
+    {
+      "document_number": "57710/18-02-2013",
+      "protocol_number": "Αριθμός πρωτοκόλλου εισερχομένου ΕΕΑΕ 8057/16-11-2012/16-11-2012",
+      "type": "Αίτηση - Μελέτη Ραδιοεκπομπών ΕΕΑΕ",
+      "file_url": "https://silia.eett.gr/silia/download/c6fe8431-3122-49b7-a29b-05a4aadad127"
+    },
+    {
+      "document_number": "57725/18-02-2013",
+      "protocol_number": "Αριθμός πρωτοκόλλου εισερχομένου ΕΕΑΕ 8057/16-11-2012/16-11-2012",
+      "type": "Αίτηση - Μελέτη Ραδιοεκπομπών ΕΕΑΕ (υποβάθρου)",
+      "file_url": "https://silia.eett.gr/silia/download/893aced2-a81d-401c-8d4f-058a80d6c387"
+    },
+    {
+      "document_number": "57726/18-02-2013",
+      "protocol_number": "Αριθμός πρωτοκόλλου εισερχομένου Περιφέρειας Αττικής (192856/24.12.2012 με Αρ.Φακέλου Φ.Κ./1652/12)/24-12-2012",
+      "type": "Αίτηση / Μελέτη για Έγκριση Περιβαλλοντικών Επιπτώσεων",
+      "file_url": "https://silia.eett.gr/silia/download/83aa40c3-cf3e-47e9-8bf0-532e7f542459"
+    },
+    {
+      "document_number": "57727/18-02-2013",
+      "protocol_number": "Αριθμός Εξερχομένου Πρωτοκόλλου Rolaware 20121106/06-11-2012",
+      "type": "Αίτηση ΥΠΑ",
+      "file_url": "https://silia.eett.gr/silia/download/158c30d2-df3f-4c5b-bb64-be12e131ae4e"
+    },
+    {
+      "document_number": "57728/18-02-2013",
+      "protocol_number": "Αριθμός Πρωτοκόλλου Εισερχομένου της Γ' ΕΠΚΑ 1156/14-2-2013/14-02-2013",
+      "type": "Αίτηση / Μελέτη για Έγκριση Περιβαλλοντικών Επιπτώσεων",
+      "file_url": "https://silia.eett.gr/silia/download/29d9c059-df24-4b9f-bb88-e8a167a5f039"
+    },
+    {
+      "document_number": "57746/18-02-2013",
+      "protocol_number": "Αριθμός Πρωτοκόλλου Εισερχομένου της Εφορείας Βυζαντινών Αρχαιοτήτων 919/08-02-2013/08-02-2013",
+      "type": "Αίτηση / Μελέτη για Έγκριση Περιβαλλοντικών Επιπτώσεων",
+      "file_url": "https://silia.eett.gr/silia/download/d519f4cf-e00a-4e0e-9ae0-d28bbb091a2b"
+    },
+    {
+      "document_number": "57747/18-02-2013",
+      "protocol_number": "Αριθμός Πρωτοκόλλου Εισερχομένου της Εφορείας Νεοτέρων Μνημείων Ατιικής: 624/08-02-2013/08-02-2013",
+      "type": "Αίτηση / Μελέτη για Έγκριση Περιβαλλοντικών Επιπτώσεων",
+      "file_url": "https://silia.eett.gr/silia/download/3007a6f6-05d5-42c1-9d67-f8d3288f998e"
+    },
+    {
+      "document_number": "57748/18-02-2013",
+      "protocol_number": "Αριθμός Πρωτοκόλλου Εισερχομένου Δήμου Αθηναίων 032350/12-02-2013/12-02-2013",
+      "type": "Αίτηση / Μελέτη για Έγκριση Περιβαλλοντικών Επιπτώσεων",
+      "file_url": "https://silia.eett.gr/silia/download/cf91466f-2b13-48f8-8711-56be3f142251"
+    },
+    {
+      "document_number": "57749/18-02-2013",
+      "protocol_number": "20130218 Αποδεικτικό καταβολής διοικητικού τέλους ΕΕΤΤ/18-02-2013",
+      "type": "Αποδεικτικό Καταβολής Τελών ΕΕΤΤ",
+      "file_url": "https://silia.eett.gr/silia/download/5cec3e7c-969a-4d20-960f-5d2bd8812d6e"
+    },
+    {
+      "document_number": "58263/21-02-2013",
+      "protocol_number": "Κάτοψη Δώματος Λήδρα Μάριοτ/21-02-2013",
+      "type": "Συμπληρωματικά Έγγραφα Αίτησης / Μελέτης",
+      "file_url": "https://silia.eett.gr/silia/download/838fa3f7-294e-434f-b682-22ee0c24a19e"
+    },
+    {
+      "document_number": "58264/21-02-2013",
+      "protocol_number": "Τομή Λήδρα Μάριοτ/21-02-2013",
+      "type": "Συμπληρωματικά Έγγραφα Αίτησης / Μελέτης",
+      "file_url": "https://silia.eett.gr/silia/download/754627ff-3bb7-464b-92bd-2d34ebd5694c"
+    },
+    {
+      "document_number": "58644/25-02-2013",
+      "protocol_number": "Τοπογραφικό Λήδρα Μάριοτ/25-02-2013",
+      "type": "Τοπογραφικό",
+      "file_url": "https://silia.eett.gr/silia/download/372c34f9-d7a9-4e98-b862-bebe248187f4"
+    },
+    {
+      "document_number": "59586/01-03-2013",
+      "protocol_number": "Αρχείο Αίτησης/",
+      "type": "Αίτηση Άδειας Κατασκευής Κεραίας ΕΕΤΤ",
+      "file_url": "https://silia.eett.gr/silia/download/e43550e2-d0e7-4351-b168-6452da214a6f"
+    },
+    {
+      "document_number": "62359/28-03-2013",
+      "protocol_number": "Θετική Γνωμάτευση ΕΕΑΕ επί των μελετών ΗΜ και υποβάθρου με αριθμό πρωτοκόλλου: Μ.ι./411/425/27-02-2013",
+      "type": "Γνωμάτευση ΕΕΑΕ",
+      "file_url": "https://silia.eett.gr/silia/download/ae70b8e8-6a72-4fdd-8060-7f0f381da13a"
+    },
+    {
+      "document_number": "74153/10-06-2013",
+      "protocol_number": "Υποβολή Φακέλου σε Πολεοδομία Δήμου Αθηναίων (Αρ. Πρωτοκόλλου). Αρ. Πρωτοκόλλου Πολεοδομίας: /10-06-2013",
+      "type": "Αίτηση προς Αρμόδιο Φορέα",
+      "file_url": "https://silia.eett.gr/silia/download/a3a591d2-cf93-441b-809f-f91b33da83c2"
+    },
+    {
+      "document_number": "104548/08-10-2013",
+      "protocol_number": "Εκ νέου επισύναψη των σχεδίων με υπογραφή και σφραγίδα του μηχανικού./08-10-2013",
+      "type": "Αρχιτεκτονικά Σχέδια",
+      "file_url": "https://silia.eett.gr/silia/download/451a02db-e82c-45d6-bf35-bc19721cf2da"
+    },
+    {
+      "document_number": "104554/08-10-2013",
+      "protocol_number": "Αριθμός πρωτοκόλλου εισερχομένου Περιφέρειας Αττικής (192856/24.12.2012 με Αρ.Φακέλου Φ.Κ./1652/12)/24-12-2012",
+      "type": "Αίτηση / Μελέτη για Έγκριση Περιβαλλοντικών Επιπτώσεων",
+      "file_url": "https://silia.eett.gr/silia/download/7ef7cbd3-ca19-44ad-95e9-68e6d90ac9f4"
+    },
+    {
+      "document_number": "104568/08-10-2013",
+      "protocol_number": "Υποβολή Φακέλου σε Πολεοδομία Δήμου Αθηναίων. Αρ. Πρωτοκόλλου Πολεοδομίας: 129275/10-06-2013/10-06-2013",
+      "type": "Αίτηση προς Αρμόδιο Φορέα",
+      "file_url": "https://silia.eett.gr/silia/download/65159b82-b88a-4408-a454-1bd840fa0fc7"
+    },
+    {
+      "document_number": "109354/31-10-2013",
+      "protocol_number": "232568/17-10-2013",
+      "type": "Επιστολή Ελλιπούς Αίτησης από Αρμόδιο Φορέα",
+      "file_url": "https://silia.eett.gr/silia/download/0eb3c733-08a5-4cc0-a883-0ad1fce34b6e"
+    },
+    {
+      "document_number": "123827/22-01-2014",
+      "protocol_number": "192856/12/16-12-2013",
+      "type": "Έγκριση Περιβαλλοντικών Όρων",
+      "file_url": "https://silia.eett.gr/silia/download/64a552d5-6b8c-45e1-80c5-2e766bed00ef"
+    },
+    {
+      "document_number": "124531/24-01-2014",
+      "protocol_number": "283823/17-12-2013",
+      "type": "Αίτηση προς Αρμόδιο Φορέα",
+      "file_url": "https://silia.eett.gr/silia/download/5fa95e9b-ae7b-422f-82a3-5427b47b6d50"
+    },
+    {
+      "document_number": "170304/08-04-2014",
+      "protocol_number": "21277/13-2/4/2014/02-04-2014",
+      "type": "Έγκριση Αρμοδίου Φορέα",
+      "file_url": "https://silia.eett.gr/silia/download/3c76054f-1c97-4870-82aa-d99a18131195"
+    },
+    {
+      "document_number": "170311/08-04-2014",
+      "protocol_number": "21277/13-2/4/2014/02-04-2014",
+      "type": "Έγκριση Αρμοδίου Φορέα",
+      "file_url": "https://silia.eett.gr/silia/download/aecad159-10d0-4721-8cb1-af13abaed661"
+    },
+    {
+      "document_number": "170777/10-04-2014",
+      "protocol_number": "ΚΑΤΟΨΗ ΛΗΔΡΑ ΜΑΡΙΟΤ ΘΕΩΡΗΜΕΝΗ ΑΠΟ ΠΟΛΕΟΔΟΜΙΑ ΔΗΜΟΥ ΑΘΗΝΑΙΩΝ/28-03-2014",
+      "type": "Αρχιτεκτονικά Σχέδια",
+      "file_url": "https://silia.eett.gr/silia/download/ba8ac516-4880-43a1-8a59-6170de44f0ae"
+    },
+    {
+      "document_number": "170779/10-04-2014",
+      "protocol_number": "ΠΛΑΓΙΑ ΟΨΗ ΛΗΔΡΑ ΜΑΡΙΟΤ ΘΕΩΡΗΜΕΝΗ ΑΠΟ ΠΟΛΕΟΔΟΜΙΑ ΔΗΜΟΥ ΑΘΗΝΑΙΩΝ/28-03-2014",
+      "type": "Αρχιτεκτονικά Σχέδια",
+      "file_url": "https://silia.eett.gr/silia/download/14b4e55f-87d8-45b1-870c-48abba3e7c3d"
+    },
+    {
+      "document_number": "170780/10-04-2014",
+      "protocol_number": "ΤΟΠΟΓΡΑΦΙΚΟ ΛΗΔΡΑ ΜΑΡΙΟΤ ΘΕΩΡΗΜΕΝΟ ΑΠΟ ΠΟΛΕΟΔΟΜΙΑ ΔΗΜΟΥ ΑΘΗΝΑΙΩΝ/28-03-2014",
+      "type": "Τοπογραφικό",
+      "file_url": "https://silia.eett.gr/silia/download/259f1f99-da1b-4be2-a363-b6d5bde5a25c"
+    },
+    {
+      "document_number": "176979/24-06-2014",
+      "protocol_number": "12502/Φ610/23-06-2014",
+      "type": "Άδεια Κατασκευής  Κεραίας",
+      "file_url": "https://silia.eett.gr/silia/download/18c7db58-b059-4fb4-90cc-d4125074de6f"
+    }
+  ]
+}

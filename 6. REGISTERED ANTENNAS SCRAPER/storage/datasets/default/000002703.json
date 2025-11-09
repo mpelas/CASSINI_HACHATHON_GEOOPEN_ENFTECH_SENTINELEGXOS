@@ -1,0 +1,93 @@
+{
+  "antenna_id": "170963",
+  "address": "ΣΑΧΤΟΥΡΗ 12",
+  "position_code": 1402061,
+  "municipality": "Πειραιώς",
+  "code_name": "ΚΑΝΘΑΡΟΥ",
+  "region": "Αττικής",
+  "latitude": 37.938056,
+  "company": "OTE",
+  "longitude": 23.640556,
+  "permit_status": "Από τα στοιχεία που τηρούνται στην Ενημερωτική Πύλη προκύπτει ότι, για τη θέση \"ΣΑΧΤΟΥΡΗ 12\" στον Δήμο Πειραιώς Περιφέρειας  Αττικής \n\t(κωδικός αριθμός θέσης 1402061, κωδική ονομασία \"ΚΑΝΘΑΡΟΥ\") χορηγήθηκε, με την Απόφαση της ΕΕΤΤ \n51097/20-06-2024, άδεια κατασκευής κεραίας στην εταιρία OTE. \nΑπό τo έγγραφο της άδειας μπορείτε να ενημερωθείτε για τις σχετικές εγκρίσεις των συναρμόδιων φορέων, καθώς και εάν πρόκειται για τροποποίηση παλαιότερης άδειας.\n\tΣύμφωνα με τα στοιχεία που έχουν υποβληθεί στο ΣΗΛΥΑ, ο κάτοχος της κατασκευής κεραίας έχει δηλώσει ότι θα προβεί σε έκδοση έγκρισης δομικών κατασκευών \n\t\tκεραίας μέσω του e-Άδειες \n\t\tμετά την έκδοση της άδειας κατασκευής κεραίας / δημοσιοποίηση της δήλωσης τροποποίησης της κατασκευής κεραίας",
+  "measurements_eaee": "-",
+  "documents": [
+    {
+      "document_number": "510110/13-03-2024",
+      "protocol_number": "ΤΟΠΟΓΡΑΦΙΚΟ/13-03-2024",
+      "type": "Τοπογραφικό",
+      "file_url": "https://silia.eett.gr/silia/download/tqPgaZT7EXSQElwN5gckYNHUPrftILiGG9re"
+    },
+    {
+      "document_number": "510111/13-03-2024",
+      "protocol_number": "ΑΡΧΙΤΕΚΤΟΝΙΚΑ/13-03-2024",
+      "type": "Αρχιτεκτονικά Σχέδια",
+      "file_url": "https://silia.eett.gr/silia/download/oNgGDZ78qbxuTo8N9FNqAx5mOOXDqGbgHSoN"
+    },
+    {
+      "document_number": "510112/13-03-2024",
+      "protocol_number": "ΜΕΛΕΤΗ ΕΕΑΕ/24-10-2023",
+      "type": "Αίτηση - Μελέτη Ραδιοεκπομπών ΕΕΑΕ",
+      "file_url": "https://silia.eett.gr/silia/download/Tks0tMH90h9nVYQ5g2nCQQZTFPgWh7agsgyQ"
+    },
+    {
+      "document_number": "510113/13-03-2024",
+      "protocol_number": "ΜΕΛΕΤΗ EMC/01-12-2022",
+      "type": "Αποτελέσματα μελέτης στη ζώνης 2.6GHz για ΥΠΑ/ΓΕΕΘΑ",
+      "file_url": "https://silia.eett.gr/silia/download/ocVt7GR46DVEEQfPDdm1BwEGU5G4wTrLG8W8"
+    },
+    {
+      "document_number": "510114/13-03-2024",
+      "protocol_number": "121608/08-11-2022",
+      "type": "Επιστολή Ενημέρωσης προς Αρμόδιο Φορέα",
+      "file_url": "https://silia.eett.gr/silia/download/RSFnFenqHdqwT144MWVnca8VsENsKeZ37umo"
+    },
+    {
+      "document_number": "510115/13-03-2024",
+      "protocol_number": "Δ3/Δ/27230/7093/04-09-2014",
+      "type": "Γνωμάτευση ΥΠΑ",
+      "file_url": "https://silia.eett.gr/silia/download/qTWuyqbBWzkgALseYZVyVddz2fRZYbzc8DpI"
+    },
+    {
+      "document_number": "510116/13-03-2024",
+      "protocol_number": "ΜΕΣΩ ΣΗΛΥΑ/13-03-2024",
+      "type": "Αίτηση ΥΠΑ",
+      "file_url": "https://silia.eett.gr/silia/download/a8lV8Dy14f08UaIn89KGKnvQQ1hg9PoEIeaO"
+    },
+    {
+      "document_number": "510117/13-03-2024",
+      "protocol_number": "ΑΝΑΚΟΙΝΩΣΗ ΓΕΜΗ/13-03-2024",
+      "type": "Άλλο",
+      "file_url": "https://silia.eett.gr/silia/download/vzhiYZoWkqAfLl7QWKZCLgbM7Nhm2F5zszmm"
+    },
+    {
+      "document_number": "510180/13-03-2024",
+      "protocol_number": "Αρχείο Αίτησης/13-03-2024",
+      "type": "Αίτηση Άδειας Κατασκευής Κεραίας ΕΕΤΤ",
+      "file_url": "https://silia.eett.gr/silia/download/QgyKLlDiKe7Lbpq2vgefZKcReRxRcFlByOM6"
+    },
+    {
+      "document_number": "514502/01-05-2024",
+      "protocol_number": "TMIA/411/6426/2024/30-04-2024",
+      "type": "Γνωμάτευση ΕΕΑΕ",
+      "file_url": "https://silia.eett.gr/silia/download/gf5tChNKbW3XS8G5LMiCKOFrc1oxlkkX91iw"
+    },
+    {
+      "document_number": "518846/25-06-2024",
+      "protocol_number": "51097/20-06-2024",
+      "type": "Άδεια Κατασκευής  Κεραίας",
+      "file_url": "https://silia.eett.gr/silia/download/5Qvkrgp4fL5RUiwskrXywDAAYEnigSTrVZfC"
+    },
+    {
+      "document_number": "500234/10-11-2023",
+      "protocol_number": "ΜΕΣΩ ΣΗΛΥΑ/",
+      "type": "Δήλωση υπαγωγής σε ΠΠΔ και Συνοδευτικά Έγγραφα",
+      "file_url": "https://silia.eett.gr/silia/download/613d8b0e-ed22-4d9e-b098-7efeedbe68f5"
+    },
+    {
+      "document_number": "510181/13-03-2024",
+      "protocol_number": "Αρχείο Αίτησης/13-03-2024",
+      "type": "Δήλωση ΠΠΔ",
+      "file_url": "https://silia.eett.gr/silia/download/LFiUB4VWNoNyAgQMqtzmeG0n98tZdX1tK4lQ"
+    }
+  ]
+}

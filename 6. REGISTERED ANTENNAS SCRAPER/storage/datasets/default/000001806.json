@@ -1,0 +1,39 @@
+{
+  "antenna_id": "159577",
+  "address": "Κηφισίας 63, Ηράκλειο",
+  "position_code": 1410988,
+  "municipality": "Ηρακλείου",
+  "code_name": "DEGLER_MI",
+  "region": "Αττικής",
+  "latitude": 38.045,
+  "company": "OTE",
+  "longitude": 23.7775,
+  "permit_status": "Από τα στοιχεία που τηρούνται στην Ενημερωτική Πύλη προκύπτει ότι, για τη θέση \"Κηφισίας 63, Ηράκλειο\" στον Δήμο Ηρακλείου Περιφέρειας  Αττικής \n\t(κωδικός αριθμός θέσης 1410988, κωδική ονομασία \"DEGLER_MI\") έχει κατατεθεί από την εταιρία OTE\tδήλωση εγκατάστασης κατασκευής κεραίας (αριθ. πρωτ. \n\t44023/18-06-2021) που εμπίπτει στις διατάξεις της νομοθεσίας για Εγκαταστάσεις Κατασκευών Κεραιών Χαμηλής Ηλεκτρομαγνητικής Περιβαλλοντικής Όχλησης (ΕΚΚΧΟ).",
+  "measurements_eaee": "-",
+  "documents": [
+    {
+      "document_number": "436567/18-06-2021",
+      "protocol_number": "ΣΚΑΡΙΦΗΜΑ/",
+      "type": "Φωτογραφικό Υλικό - Σκαρίφημα",
+      "file_url": "https://silia.eett.gr/silia/download/7db6d497-c5dc-468a-b809-295cd04990ed"
+    },
+    {
+      "document_number": "436568/18-06-2021",
+      "protocol_number": "1879/27-04-2015",
+      "type": "Γνωμοδότηση Υπηρεσίας Νεωτέρων Μνημείων",
+      "file_url": "https://silia.eett.gr/silia/download/572121c1-f2db-45f1-a3ee-cc053c8c178d"
+    },
+    {
+      "document_number": "436569/18-06-2021",
+      "protocol_number": "9898/29-04-2015",
+      "type": "Γνωμοδότηση ΕΠΚΑ",
+      "file_url": "https://silia.eett.gr/silia/download/6b9bae42-0dd8-43af-89b8-e314dec2f18f"
+    },
+    {
+      "document_number": "436579/18-06-2021",
+      "protocol_number": "Αρχείο Αίτησης/",
+      "type": "Δήλωση ΕΚΚΧΟ",
+      "file_url": "https://silia.eett.gr/silia/download/90b7b0f5-50ce-4fd4-b0a0-0a9888d5afa9"
+    }
+  ]
+}

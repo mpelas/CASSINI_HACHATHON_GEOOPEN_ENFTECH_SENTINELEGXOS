@@ -1,0 +1,99 @@
+{
+  "antenna_id": "150914",
+  "address": "ΠΛΗΣΙΟΝ ΟΙΚΙΣΜΟΥ ΠΑΝΟΡΜΙΤΗ, ΝΗΣΟΣ ΣΥΜΗ",
+  "position_code": 110140,
+  "municipality": "Σύμης",
+  "code_name": "ΠΑΝΟΡΜΙΤΗΣ Τ/Κ ΣΥΜΗΣ",
+  "region": "Νοτίου Αιγαίου",
+  "latitude": 36.555278,
+  "company": "OTE",
+  "longitude": 27.849167,
+  "permit_status": "Από τα στοιχεία που τηρούνται στην Ενημερωτική Πύλη προκύπτει ότι, για τη θέση \"ΠΛΗΣΙΟΝ ΟΙΚΙΣΜΟΥ ΠΑΝΟΡΜΙΤΗ, ΝΗΣΟΣ ΣΥΜΗ\" στον Δήμο Σύμης Περιφέρειας  Νοτίου Αιγαίου \n\t(κωδικός αριθμός θέσης 0110140, κωδική ονομασία \"ΠΑΝΟΡΜΙΤΗΣ Τ/Κ ΣΥΜΗΣ\") χορηγήθηκε, με την Απόφαση της ΕΕΤΤ \n39722/Φ610/02-03-2021, άδεια κατασκευής κεραίας στην εταιρία OTE. \nΑπό τo έγγραφο της άδειας μπορείτε να ενημερωθείτε για τις σχετικές εγκρίσεις των συναρμόδιων φορέων, καθώς και εάν πρόκειται για τροποποίηση παλαιότερης άδειας.\nΗ άδεια χορηγήθηκε με τη διαδικασία αδειοδότησης που ορίζει ο ν. 4635/2019, κατόπιν της με αριθ. πρωτ. 37634/02-03-2020 \n\tαίτησης, και βάσει σχετικής δήλωσης του κατόχου της περί υπαγωγή της κατασκευής κεραίας στο άρθρο 34 του ν. 4635/2019.",
+  "measurements_eaee": "-",
+  "documents": [
+    {
+      "document_number": "397281/27-02-2020",
+      "protocol_number": "ΜΕΣΩ ΣΗΛΥΑ/",
+      "type": "Τοπογραφικό",
+      "file_url": "https://silia.eett.gr/silia/download/fc11ae1e-b947-4ba2-bb7f-fe6379b7b17d"
+    },
+    {
+      "document_number": "397282/27-02-2020",
+      "protocol_number": "ΜΕΣΩ ΣΗΛΥΑ/",
+      "type": "Αρχιτεκτονικά Σχέδια",
+      "file_url": "https://silia.eett.gr/silia/download/4e312a0a-9d00-4fae-80b9-3805a7d0d229"
+    },
+    {
+      "document_number": "397283/27-02-2020",
+      "protocol_number": "Δ3/Δ/19920/44333/27-06-2011",
+      "type": "Γνωμάτευση ΥΠΑ",
+      "file_url": "https://silia.eett.gr/silia/download/2bc954b2-baf3-4283-9320-0241a596a83b"
+    },
+    {
+      "document_number": "397284/27-02-2020",
+      "protocol_number": "Δ3/Δ/17542/4359/26-05-2005",
+      "type": "Γνωμάτευση ΥΠΑ",
+      "file_url": "https://silia.eett.gr/silia/download/6e961c0f-d361-453a-937a-36fb9114536d"
+    },
+    {
+      "document_number": "397285/27-02-2020",
+      "protocol_number": "ΜΕΣΩ ΣΗΛΥΑ/06-01-2020",
+      "type": "Αίτηση - Μελέτη Ραδιοεκπομπών ΕΕΑΕ",
+      "file_url": "https://silia.eett.gr/silia/download/72db7f50-4287-4616-8bf2-33a169efb82d"
+    },
+    {
+      "document_number": "397286/27-02-2020",
+      "protocol_number": "ΜΕΛΕΤΗ  EMC/12-02-2020",
+      "type": "Μελέτη για τη ζώνη  2,6GHz",
+      "file_url": "https://silia.eett.gr/silia/download/b8872760-8b85-447b-897b-852d1cda88b6"
+    },
+    {
+      "document_number": "397287/27-02-2020",
+      "protocol_number": "ΥΠ.ΔΗΛΩΣΗ ΣΥΝΕΓΚΑΤΑΣΤΑΣΗΣ COSMOTE/27-02-2020",
+      "type": "Άλλο",
+      "file_url": "https://silia.eett.gr/silia/download/8b3f83ea-9546-42b7-b70d-055c93dec210"
+    },
+    {
+      "document_number": "398018/02-03-2020",
+      "protocol_number": "Αρχείο Αίτησης/",
+      "type": "Αίτηση Άδειας Κατασκευής Κεραίας ΕΕΤΤ",
+      "file_url": "https://silia.eett.gr/silia/download/c25e281e-b68f-479f-93d1-a047109aa4df"
+    },
+    {
+      "document_number": "404626/08-05-2020",
+      "protocol_number": "ΜΕΣΩ ΣΗΛΥΑ/",
+      "type": "Αίτηση - Μελέτη Ραδιοεκπομπών ΕΕΑΕ",
+      "file_url": "https://silia.eett.gr/silia/download/60c1d1cb-61de-4178-b574-ab48f4ed9fc1"
+    },
+    {
+      "document_number": "404641/08-05-2020",
+      "protocol_number": "ΜΕΣΩ ΣΗΛΥΑ/",
+      "type": "Τοπογραφικό",
+      "file_url": "https://silia.eett.gr/silia/download/cccd9de1-fa15-40d0-adb8-f3b8d061ba20"
+    },
+    {
+      "document_number": "405081/12-05-2020",
+      "protocol_number": "Μ.ι./411/6305/12-05-2020",
+      "type": "Γνωμάτευση ΕΕΑΕ",
+      "file_url": "https://silia.eett.gr/silia/download/565bd5e1-9dde-402d-916b-91c021c9944c"
+    },
+    {
+      "document_number": "431697/23-03-2021",
+      "protocol_number": "39722/Φ610/02-03-2021",
+      "type": "Άδεια Κατασκευής  Κεραίας",
+      "file_url": "https://silia.eett.gr/silia/download/f9f45e01-5309-40ce-8523-1952016faa0b"
+    },
+    {
+      "document_number": "417348/25-09-2020",
+      "protocol_number": "ΣΥΝΟΔΕΥΤΙΚΑ ΕΓΓΡΑΦΑ/",
+      "type": "Δήλωση υπαγωγής σε ΠΠΔ και Συνοδευτικά Έγγραφα",
+      "file_url": "https://silia.eett.gr/silia/download/f555378a-fcf2-4dc3-9bd8-7308d50b77de"
+    },
+    {
+      "document_number": "417349/25-09-2020",
+      "protocol_number": "Αρχείο Αίτησης/",
+      "type": "Δήλωση ΠΠΔ",
+      "file_url": "https://silia.eett.gr/silia/download/7cef929f-4292-4ee5-9a4b-9c0411c3d315"
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "antenna_id": "165442",
+  "address": "Δήμος Ζαγοράς - Μουρεσίου, Π.Ε. Μαγνησίας, Περιφέρεια Θεσσαλίας",
+  "position_code": 3206278,
+  "municipality": "Ζαγοράς - Μουρεσίου",
+  "code_name": "ΚΙΣΣΟΣ",
+  "region": "Θεσσαλίας",
+  "latitude": 39.409444,
+  "company": "ΕΡΤ ΑΕ",
+  "longitude": 23.133333,
+  "permit_status": "Από τα στοιχεία που τηρούνται στην Ενημερωτική Πύλη προκύπτει ότι για τη  θέση \"Δήμος Ζαγοράς - Μουρεσίου, Π.Ε. Μαγνησίας, Περιφέρεια Θεσσαλίας\" στον Δήμο Ζαγοράς - Μουρεσίου Περιφέρειας  Θεσσαλίας έχει κατατεθεί από την εταιρία ΕΡΤ ΑΕ δήλωση κατασκευής κεραίας τηλεοπτικής ευρυεκπομπής με αριθ. πρωτ. ΣΗΛΥΑ \n49232/07-09-2022 κατά τα οριζόμενα στην παρ. 7 του άρθρου 39 του Ν.4635/2019.",
+  "measurements_eaee": "-",
+  "documents": [
+    {
+      "document_number": "467203/07-09-2022",
+      "protocol_number": "Αίτηση ΥΠΑ/",
+      "type": "Αίτηση ΥΠΑ",
+      "file_url": "https://silia.eett.gr/silia/download/db038be1-2bf5-4d7f-be33-128e55559d82"
+    },
+    {
+      "document_number": "467204/07-09-2022",
+      "protocol_number": "screenshot/",
+      "type": "Φωτογραφικό Υλικό - Σκαρίφημα",
+      "file_url": "https://silia.eett.gr/silia/download/bf40db69-2b77-4f52-bae7-f29201e0cd0e"
+    },
+    {
+      "document_number": "467205/07-09-2022",
+      "protocol_number": "ΓΝΩΜΑΤΕΥΣΗ ΥΠΑ/",
+      "type": "Γνωμάτευση ΥΠΑ",
+      "file_url": "https://silia.eett.gr/silia/download/7dac40de-1b86-49c5-9bd6-30a1bbbd3e24"
+    },
+    {
+      "document_number": "467206/07-09-2022",
+      "protocol_number": "Αρχείο Αίτησης/",
+      "type": "Δήλωση Τηλεοπτικής Ευρυεκπομπής",
+      "file_url": "https://silia.eett.gr/silia/download/6df4b8c9-0ead-455c-b15d-90ae76d56e96"
+    }
+  ]
+}

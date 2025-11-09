@@ -1,0 +1,63 @@
+{
+  "antenna_id": "168262",
+  "address": "ΛΕΩΦ. ΠΕΝΤΕΛΗΣ 42, ΒΡΙΛΗΣΣΙΑ",
+  "position_code": 1291649,
+  "municipality": "Βριλησσίων",
+  "code_name": "PENDELIS MICRO 3",
+  "region": "Αττικής",
+  "latitude": 38.037222,
+  "company": "NOVA Μ.Α.Ε.",
+  "longitude": 23.826944,
+  "permit_status": "Από τα στοιχεία που τηρούνται στην Ενημερωτική Πύλη προκύπτει ότι, για τη θέση \"ΛΕΩΦ. ΠΕΝΤΕΛΗΣ 42, ΒΡΙΛΗΣΣΙΑ\" στον Δήμο Βριλησσίων Περιφέρειας  Αττικής \n\t(κωδικός αριθμός θέσης 1291649, κωδική ονομασία \"PENDELIS MICRO 3\") έχει κατατεθεί από την εταιρία NOVA Μ.Α.Ε.\tδήλωση εγκατάστασης κατασκευής κεραίας (αριθ. πρωτ. \n\t51872/31-05-2023) που εμπίπτει στις διατάξεις της νομοθεσίας για Εγκαταστάσεις Κατασκευών Κεραιών Χαμηλής Ηλεκτρομαγνητικής Περιβαλλοντικής Όχλησης (ΕΚΚΧΟ).",
+  "measurements_eaee": "-",
+  "documents": [
+    {
+      "document_number": "484037/05-05-2023",
+      "protocol_number": "ΑΠΕΙΚΟΝΙΣΗ GOOGLE EARTH/",
+      "type": "Άλλο",
+      "file_url": "https://silia.eett.gr/silia/download/cef84a23-09c1-4f7c-9416-3e68e90babfe"
+    },
+    {
+      "document_number": "484038/05-05-2023",
+      "protocol_number": "ΦΩΤΟΓΡΑΦΙΑ ΕΚΚΧΟ/",
+      "type": "Φωτογραφικό Υλικό - Σκαρίφημα",
+      "file_url": "https://silia.eett.gr/silia/download/6f45b3e6-016a-4742-b9d2-2822c95fc269"
+    },
+    {
+      "document_number": "486795/31-05-2023",
+      "protocol_number": "ΜΕΛΕΤΗ ΣΥΜΒΑΤΟΤΗΤΑΣ/",
+      "type": "Μελέτη για τη ζώνη  2,6GHz",
+      "file_url": "https://silia.eett.gr/silia/download/6ffed117-fce7-4ea1-9263-7194c590e5cc"
+    },
+    {
+      "document_number": "486796/31-05-2023",
+      "protocol_number": "ΚΟΙΝΟΠΟΙΗΣΗ EMC/",
+      "type": "Άλλο",
+      "file_url": "https://silia.eett.gr/silia/download/14f5f1fb-1b1f-4b58-abf7-23b1777dfdb5"
+    },
+    {
+      "document_number": "486797/31-05-2023",
+      "protocol_number": "ΜΕΛΕΤΗ ΕΚΚΧΟ/",
+      "type": "Άλλο",
+      "file_url": "https://silia.eett.gr/silia/download/c488e4dc-9b6e-434e-87a6-082630d8fc02"
+    },
+    {
+      "document_number": "486800/31-05-2023",
+      "protocol_number": "ΣΚΑΡΙΦΗΜΑ ΕΚΚΧΟ/",
+      "type": "Φωτογραφικό Υλικό - Σκαρίφημα",
+      "file_url": "https://silia.eett.gr/silia/download/8ad8b098-1ca4-4b71-a8a5-2d644afd2881"
+    },
+    {
+      "document_number": "486801/31-05-2023",
+      "protocol_number": "ΣΚΑΡΙΦΗΜΑ ΕΚΚΧΟ/",
+      "type": "Φωτογραφικό Υλικό - Σκαρίφημα",
+      "file_url": "https://silia.eett.gr/silia/download/901be476-d502-4f98-ab4b-a758d8da9326"
+    },
+    {
+      "document_number": "486802/31-05-2023",
+      "protocol_number": "Αρχείο Αίτησης/",
+      "type": "Δήλωση ΕΚΚΧΟ",
+      "file_url": "https://silia.eett.gr/silia/download/38cb9015-28e8-4d5b-83e5-30a05341b265"
+    }
+  ]
+}

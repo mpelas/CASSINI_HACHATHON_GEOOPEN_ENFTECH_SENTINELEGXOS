@@ -1,0 +1,45 @@
+{
+  "antenna_id": "152416",
+  "address": "ΑΜΦΙΛΟΧΙΑ ΠΕΡ. ΣΤΕΡΕΑΣ ΕΛΛΑΔΑΣ",
+  "position_code": 3207049,
+  "municipality": "Αμφιλοχίας",
+  "code_name": "ΑΜΦΙΛΟΧΙΑ-Δ",
+  "region": "Δυτικής Ελλάδας",
+  "latitude": 38.8875,
+  "company": "ΕΡΤ ΑΕ",
+  "longitude": 21.173611,
+  "permit_status": "Από τα στοιχεία που τηρούνται στην Ενημερωτική Πύλη προκύπτει ότι για τη  θέση \"ΑΜΦΙΛΟΧΙΑ ΠΕΡ. ΣΤΕΡΕΑΣ ΕΛΛΑΔΑΣ\" στον Δήμο Αμφιλοχίας Περιφέρειας  Δυτικής Ελλάδας έχει κατατεθεί από την εταιρία ΕΡΤ ΑΕ δήλωση δομικών κατασκευών κεραιών  \nμε αριθ. πρωτ. ΣΗΛΥΑ 38049/08-04-2020 κατά τα οριζόμενα στην παρ. 7 του άρθρου 34 του Ν.4635/2019.",
+  "measurements_eaee": "-",
+  "documents": [
+    {
+      "document_number": "399788/23-03-2020",
+      "protocol_number": "δορυφορική λήψη και στοιχεία δομικών κατασκευών/",
+      "type": "Άλλο",
+      "file_url": "https://silia.eett.gr/silia/download/4c177599-00c6-47ea-b232-c5d3e557d96d"
+    },
+    {
+      "document_number": "399789/23-03-2020",
+      "protocol_number": "βεβαίωση 1ης ηλεκτροδότησης/",
+      "type": "Άλλο",
+      "file_url": "https://silia.eett.gr/silia/download/6c6beb9d-fc8b-4cca-b949-36328e9f9d59"
+    },
+    {
+      "document_number": "400629/30-03-2020",
+      "protocol_number": "απογραφή 1987/",
+      "type": "Άλλο",
+      "file_url": "https://silia.eett.gr/silia/download/6298e25c-0084-46c7-9885-0e0ada63f2d6"
+    },
+    {
+      "document_number": "400630/30-03-2020",
+      "protocol_number": "πίνακας 49 απογραφής ΕΡΤ 1987/",
+      "type": "Άλλο",
+      "file_url": "https://silia.eett.gr/silia/download/f80f44a0-45fe-49ba-8732-0d9f06e19f2d"
+    },
+    {
+      "document_number": "401648/08-04-2020",
+      "protocol_number": "Αρχείο Αίτησης/",
+      "type": "Δήλωση Δομικών ΕΡΤ",
+      "file_url": "https://silia.eett.gr/silia/download/fcab4ccc-4349-429f-8a83-64d1bf24b239"
+    }
+  ]
+}

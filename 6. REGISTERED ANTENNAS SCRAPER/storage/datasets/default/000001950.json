@@ -1,0 +1,117 @@
+{
+  "antenna_id": "130610",
+  "address": "ΠΛΗΣΙΟΝ ΟΙΚΙΣΜΟΥ ΕΛΕΥΘΕΡΙΑΝΗΣ",
+  "position_code": 2422238,
+  "municipality": "Ναυπακτίας",
+  "code_name": "ΕΛΕΥΘΕΡΙΑΝΗ",
+  "region": "Δυτικής Ελλάδας",
+  "latitude": 38.529167,
+  "company": "RC",
+  "longitude": 21.854722,
+  "permit_status": "Από τα στοιχεία που τηρούνται στην Ενημερωτική Πύλη προκύπτει ότι, για τη θέση \"ΠΛΗΣΙΟΝ ΟΙΚΙΣΜΟΥ ΕΛΕΥΘΕΡΙΑΝΗΣ\" στον Δήμο Ναυπακτίας Περιφέρειας  Δυτικής Ελλάδας \n\t(κωδικός αριθμός θέσης 2422238, κωδική ονομασία \"ΕΛΕΥΘΕΡΙΑΝΗ\") χορηγήθηκε, με την Απόφαση της ΕΕΤΤ \n27626/Φ610/13-04-2018, άδεια κατασκευής κεραίας στην εταιρία RC. \nΑπό τo έγγραφο της άδειας μπορείτε να ενημερωθείτε για τις σχετικές εγκρίσεις των συναρμόδιων φορέων, καθώς και εάν πρόκειται για τροποποίηση παλαιότερης άδειας.\nΗ άδεια χορηγήθηκε, κατόπιν της με Αριθ. Πρωτ. 25315/24-11-2017 αίτησης, \n\tμε τη διαδικασία αδειοδότησης της παρ. 17 του άρθρου 30 του Ν.4070/2012 που πλέον έχει αντικατασταθεί από τη διαδικασία που ορίζει ο ν. 4635/2019.\n\tΣύμφωνα με τα στοιχεία που έχουν υποβληθεί στο ΣΗΛΥΑ για την κατασκευή κεραίας από τον κάτοχό της, έχει εκδοθεί έγκριση δομικών κατασκευών κεραίας",
+  "measurements_eaee": "-",
+  "documents": [
+    {
+      "document_number": "314092/24-11-2017",
+      "protocol_number": "ΡΑΔ_2238 ΕΛΕΥΘΕΡΙΑΝΗ/",
+      "type": "Αίτηση - Μελέτη Ραδιοεκπομπών ΕΕΑΕ",
+      "file_url": "https://silia.eett.gr/silia/download/514d7a85-bd31-44dc-9f24-fe9da5e33b13"
+    },
+    {
+      "document_number": "314093/24-11-2017",
+      "protocol_number": "1.2238 ΠΠΔ ΚΑΙ ΣΥΝΟΔΕΥΤΙΚΑ/",
+      "type": "Δήλωση υπαγωγής σε ΠΠΔ και Συνοδευτικά Έγγραφα",
+      "file_url": "https://silia.eett.gr/silia/download/8bcc34d5-ece4-4d19-b422-12009a5f63f0"
+    },
+    {
+      "document_number": "314094/24-11-2017",
+      "protocol_number": "2.2238 TOPOGRAFIKO & GSYS 1:5000/",
+      "type": "Τοπογραφικό",
+      "file_url": "https://silia.eett.gr/silia/download/3cdd83ac-bcc0-49d4-b1a7-e96ac1a5e097"
+    },
+    {
+      "document_number": "314095/24-11-2017",
+      "protocol_number": "3.2238 ARXITEKTONIKA ME SFRAGIDA/",
+      "type": "Αρχιτεκτονικά Σχέδια",
+      "file_url": "https://silia.eett.gr/silia/download/d087c9d2-f76c-462a-8dd0-98aba6e7c2ae"
+    },
+    {
+      "document_number": "314099/24-11-2017",
+      "protocol_number": "2238 ΧΑΡΤΗΣ ΥΠΑ/",
+      "type": "Συμπληρωματικά Έγγραφα Αίτησης / Μελέτης",
+      "file_url": "https://silia.eett.gr/silia/download/5406d68b-35ef-4325-b449-8c600b4ee548"
+    },
+    {
+      "document_number": "314101/24-11-2017",
+      "protocol_number": "22824_3-1-17_OE_signed/",
+      "type": "Χορήγηση Δικαιώματος Χρήσης Ραδιοσυχνοτήτων",
+      "file_url": "https://silia.eett.gr/silia/download/c044eb0b-386c-4275-a631-127171952e81"
+    },
+    {
+      "document_number": "314102/24-11-2017",
+      "protocol_number": "2.150623 ΕΚΠΡΟΣΩΠΗΣΗ RURAL/",
+      "type": "Συμπληρωματικά Έγγραφα",
+      "file_url": "https://silia.eett.gr/silia/download/d951ed58-68ff-4a95-9314-effca3910210"
+    },
+    {
+      "document_number": "314103/24-11-2017",
+      "protocol_number": "ΑΠ. ΣΥΜΒΑΣΗΣ ΔΙΚ. ΧΡΗΣΗΣ ΣΥΧΝΟΤΗΤΑΣ 3,8GHz/",
+      "type": "Συμπληρωματικά Έγγραφα",
+      "file_url": "https://silia.eett.gr/silia/download/cf66a4f8-f6e4-4445-82ef-00525642133b"
+    },
+    {
+      "document_number": "314104/24-11-2017",
+      "protocol_number": "Αρχείο Αίτησης/",
+      "type": "Αίτηση Άδειας Κατασκευής Κεραίας ΕΕΤΤ",
+      "file_url": "https://silia.eett.gr/silia/download/7a13325b-b66c-419a-98a5-c20b5ef7b7a9"
+    },
+    {
+      "document_number": "315129/05-12-2017",
+      "protocol_number": "Α.Π.: Μ.ι./411/15132/2017/05-12-2017",
+      "type": "Γνωμάτευση ΕΕΑΕ",
+      "file_url": "https://silia.eett.gr/silia/download/25266493-1795-4c53-afe2-4d19ee600333"
+    },
+    {
+      "document_number": "316707/19-12-2017",
+      "protocol_number": "Δ3/Δ/26575/9747/15-12-2017/19-12-2017",
+      "type": "Γνωμάτευση ΥΠΑ",
+      "file_url": "https://silia.eett.gr/silia/download/c88e1cf5-fb81-4e1e-8ba7-01464921e530"
+    },
+    {
+      "document_number": "316737/19-12-2017",
+      "protocol_number": "ΠΟΛΕΟΔΟΜΙΚΗ ΕΓΚΡΙΣΗ ΑΚ 2238 ΕΛΕΥΘΕΡΙΑΝΗ/",
+      "type": "Έγκριση δομικών κατασκευών (έντυπη)",
+      "file_url": "https://silia.eett.gr/silia/download/042bd8c8-bb10-4969-b88b-2ac0af903f1f"
+    },
+    {
+      "document_number": "320376/09-02-2018",
+      "protocol_number": "2238 ΕΓΚΕΚΡΙΜΕΝΑ/",
+      "type": "Συμπληρωματικά Έγγραφα Αίτησης / Μελέτης",
+      "file_url": "https://silia.eett.gr/silia/download/60da098d-88df-49d7-b8c0-62675585c518"
+    },
+    {
+      "document_number": "327001/18-04-2018",
+      "protocol_number": "27626/Φ610/13-04-2018",
+      "type": "Άδεια Κατασκευής  Κεραίας",
+      "file_url": "https://silia.eett.gr/silia/download/22dce7f4-6507-49f7-9e61-977e31717356"
+    },
+    {
+      "document_number": "316737/19-12-2017",
+      "protocol_number": "ΠΟΛΕΟΔΟΜΙΚΗ ΕΓΚΡΙΣΗ ΑΚ 2238 ΕΛΕΥΘΕΡΙΑΝΗ/",
+      "type": "Έγκριση δομικών κατασκευών (έντυπη)",
+      "file_url": "https://silia.eett.gr/silia/download/042bd8c8-bb10-4969-b88b-2ac0af903f1f"
+    },
+    {
+      "document_number": "325626/02-04-2018",
+      "protocol_number": "1.2238 ΠΠΔ ΚΑΙ ΣΥΝΟΔΕΥΤΙΚΑ/",
+      "type": "Δήλωση υπαγωγής σε ΠΠΔ και Συνοδευτικά Έγγραφα",
+      "file_url": "https://silia.eett.gr/silia/download/4af0c56e-b40a-46da-9416-86c6ba71d6c1"
+    },
+    {
+      "document_number": "325627/02-04-2018",
+      "protocol_number": "Αρχείο Αίτησης/",
+      "type": "Δήλωση ΠΠΔ",
+      "file_url": "https://silia.eett.gr/silia/download/aba4b51a-c801-428d-b0d7-92118ac071d7"
+    }
+  ]
+}

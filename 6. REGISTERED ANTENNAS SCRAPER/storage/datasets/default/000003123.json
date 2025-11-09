@@ -1,0 +1,63 @@
+{
+  "antenna_id": "168105",
+  "address": "ΛΙΒΑΔΙ  ΣΕΡΙΦΟΥ",
+  "position_code": 1444073,
+  "municipality": "Σερίφου",
+  "code_name": "LIVADI  MI",
+  "region": "Νοτίου Αιγαίου",
+  "latitude": 37.141111,
+  "company": "OTE",
+  "longitude": 24.515833,
+  "permit_status": "Από τα στοιχεία που τηρούνται στην Ενημερωτική Πύλη προκύπτει ότι, για τη θέση \"ΛΙΒΑΔΙ  ΣΕΡΙΦΟΥ  \" στον Δήμο Σερίφου Περιφέρειας  Νοτίου Αιγαίου \n\t(κωδικός αριθμός θέσης 1444073, κωδική ονομασία \"LIVADI  MI \") έχει κατατεθεί από την εταιρία OTE\tδήλωση εγκατάστασης κατασκευής κεραίας (αριθ. πρωτ. \n\t51433/26-04-2023) που εμπίπτει στις διατάξεις της νομοθεσίας για Εγκαταστάσεις Κατασκευών Κεραιών Χαμηλής Ηλεκτρομαγνητικής Περιβαλλοντικής Όχλησης (ΕΚΚΧΟ).",
+  "measurements_eaee": "-",
+  "documents": [
+    {
+      "document_number": "483154/26-04-2023",
+      "protocol_number": "ΜΕΣΩ ΣΗΛΥΑ/",
+      "type": "Αίτηση - Μελέτη Ραδιοεκπομπών ΕΕΑΕ",
+      "file_url": "https://silia.eett.gr/silia/download/c4eb7264-a89a-4d3b-9d9d-dab6937b0469"
+    },
+    {
+      "document_number": "483155/26-04-2023",
+      "protocol_number": "ΦΩΤΟΓΡΑΦΙΑ/",
+      "type": "Φωτογραφικό Υλικό - Σκαρίφημα",
+      "file_url": "https://silia.eett.gr/silia/download/7d65a5c6-136e-4a51-b17f-d142756915df"
+    },
+    {
+      "document_number": "483156/26-04-2023",
+      "protocol_number": "ΣΚΑΡΙΦΗΜΑ/",
+      "type": "Φωτογραφικό Υλικό - Σκαρίφημα",
+      "file_url": "https://silia.eett.gr/silia/download/07089e00-f8ac-4346-b324-12e606103976"
+    },
+    {
+      "document_number": "483157/26-04-2023",
+      "protocol_number": "ΣΚΑΡΙΦΗΜΑ/",
+      "type": "Φωτογραφικό Υλικό - Σκαρίφημα",
+      "file_url": "https://silia.eett.gr/silia/download/3cf93dcf-aadc-47f0-bfc5-52b21248f0cd"
+    },
+    {
+      "document_number": "483158/26-04-2023",
+      "protocol_number": "ΦΩΤΟΓΡΑΦΙΑ/",
+      "type": "Φωτογραφικό Υλικό - Σκαρίφημα",
+      "file_url": "https://silia.eett.gr/silia/download/bc6fecbd-8a61-4b37-b6ab-43d4257c9f0a"
+    },
+    {
+      "document_number": "483160/26-04-2023",
+      "protocol_number": "ΣΤΟΙΧΕΙΑ ΜΙΚΡΟΚΥΜΑΤΙΚΗΣ ΖΕΥΞΗΣ/",
+      "type": "Άλλο",
+      "file_url": "https://silia.eett.gr/silia/download/4ca56b31-93f2-4858-96d1-df759966aa7c"
+    },
+    {
+      "document_number": "483229/26-04-2023",
+      "protocol_number": "Αρχείο Αίτησης/",
+      "type": "Δήλωση ΕΚΚΧΟ",
+      "file_url": "https://silia.eett.gr/silia/download/5d06bdb6-f26f-4b1d-a9c2-c5cab839774f"
+    },
+    {
+      "document_number": "487599/12-06-2023",
+      "protocol_number": "ΥΠ.ΔΗΛΩΣΗ ΕΓΚΑΤΑΣΤΑΣΗΣ/",
+      "type": "Άλλο",
+      "file_url": "https://silia.eett.gr/silia/download/558cc481-45d0-48e5-8793-c8333a820528"
+    }
+  ]
+}

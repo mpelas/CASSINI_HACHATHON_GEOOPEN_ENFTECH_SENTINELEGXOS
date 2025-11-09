@@ -1,0 +1,81 @@
+{
+  "antenna_id": "132525",
+  "address": "ΜΕΤΣΟΒΟΥ 7",
+  "position_code": 1004743,
+  "municipality": "Ηρακλείου",
+  "code_name": "ΜΕΤΣΟΒΟΥ ΠΕΥΚΗ",
+  "region": "Αττικής",
+  "latitude": 38.053889,
+  "company": "VODAFONE",
+  "longitude": 23.783611,
+  "permit_status": "Από τα στοιχεία που τηρούνται στην Ενημερωτική Πύλη προκύπτει ότι, για τη θέση \"ΜΕΤΣΟΒΟΥ 7\" στον Δήμο Ηρακλείου Περιφέρειας  Αττικής \n\t(κωδικός αριθμός θέσης 1004743, κωδική ονομασία \"ΜΕΤΣΟΒΟΥ ΠΕΥΚΗ\") χορηγήθηκε, με την Απόφαση της ΕΕΤΤ \n37383/23-10-2020, άδεια κατασκευής κεραίας στην εταιρία VODAFONE. \nΑπό τo έγγραφο της άδειας μπορείτε να ενημερωθείτε για τις σχετικές εγκρίσεις των συναρμόδιων φορέων, καθώς και εάν πρόκειται για τροποποίηση παλαιότερης άδειας.\nΗ άδεια χορηγήθηκε με τη διαδικασία αδειοδότησης που ορίζει ο ν. 4635/2019, κατόπιν της με αριθ. πρωτ. 27114/12-04-2018 \n\tαίτησης, και βάσει σχετικής δήλωσης του κατόχου της περί υπαγωγή της κατασκευής κεραίας στο άρθρο 34 του ν. 4635/2019.",
+  "measurements_eaee": "-",
+  "documents": [
+    {
+      "document_number": "326394/12-04-2018",
+      "protocol_number": "ΜΕΛΕΤΗ Ρ-Ε/11-04-2018",
+      "type": "Αίτηση - Μελέτη Ραδιοεκπομπών ΕΕΑΕ",
+      "file_url": "https://silia.eett.gr/silia/download/3c2054f9-6182-465f-bfc4-0edbaf1e7fcd"
+    },
+    {
+      "document_number": "326438/12-04-2018",
+      "protocol_number": "Δ3/Δ/27592/6387/25-07-2008",
+      "type": "Γνωμάτευση ΥΠΑ",
+      "file_url": "https://silia.eett.gr/silia/download/fb1149b9-7ce1-4913-b593-f9779ff5b808"
+    },
+    {
+      "document_number": "326439/12-04-2018",
+      "protocol_number": "ΜΕΛΕΤΗ ΥΠΟΒΑΘΡΟΥ/12-04-2018",
+      "type": "Αίτηση - Μελέτη Ραδιοεκπομπών ΕΕΑΕ (υποβάθρου)",
+      "file_url": "https://silia.eett.gr/silia/download/74bb343a-5d01-4f96-b9e5-efacc623cc37"
+    },
+    {
+      "document_number": "326440/12-04-2018",
+      "protocol_number": "ΤΟΠΟΓΡΑΦΙΚΟ /",
+      "type": "Τοπογραφικό",
+      "file_url": "https://silia.eett.gr/silia/download/c342b712-d009-4b91-9736-dbe582a790f0"
+    },
+    {
+      "document_number": "326441/12-04-2018",
+      "protocol_number": "ΑΡΧΙΤΕΚΤΟΝΙΚΑ/",
+      "type": "Αρχιτεκτονικά Σχέδια",
+      "file_url": "https://silia.eett.gr/silia/download/08542df0-d043-4a1e-be73-2dc9091860e2"
+    },
+    {
+      "document_number": "326442/12-04-2018",
+      "protocol_number": "Αρχείο Αίτησης/",
+      "type": "Αίτηση Άδειας Κατασκευής Κεραίας ΕΕΤΤ",
+      "file_url": "https://silia.eett.gr/silia/download/2334496d-b94d-4c00-bb08-d70b343ba15a"
+    },
+    {
+      "document_number": "332299/12-06-2018",
+      "protocol_number": "Mi/411/8045/08-06-2018",
+      "type": "Γνωμάτευση ΕΕΑΕ",
+      "file_url": "https://silia.eett.gr/silia/download/56e80777-2f9d-4c21-8f71-dcf74cb6d5d6"
+    },
+    {
+      "document_number": "420077/26-10-2020",
+      "protocol_number": "37383/23-10-2020",
+      "type": "Άδεια Κατασκευής  Κεραίας",
+      "file_url": "https://silia.eett.gr/silia/download/8c8ef4cc-125e-4b45-94b8-1fe3efa50a1f"
+    },
+    {
+      "document_number": "326395/12-04-2018",
+      "protocol_number": "ΜΕΛΕΤΗ Ρ-Ε/11-04-2018",
+      "type": "Αίτηση - Μελέτη Ραδιοεκπομπών ΕΕΑΕ",
+      "file_url": "https://silia.eett.gr/silia/download/3c2054f9-6182-465f-bfc4-0edbaf1e7fcd"
+    },
+    {
+      "document_number": "326396/12-04-2018",
+      "protocol_number": "ΣΥΝΟΔΕΥΤΙΚΑ ΕΓΓΡΑΦΑ ΠΠΔ/",
+      "type": "Δήλωση υπαγωγής σε ΠΠΔ και Συνοδευτικά Έγγραφα",
+      "file_url": "https://silia.eett.gr/silia/download/54db180a-4ad8-44e5-bc9d-3a5a15edffa9"
+    },
+    {
+      "document_number": "326443/12-04-2018",
+      "protocol_number": "Αρχείο Αίτησης/",
+      "type": "Δήλωση ΠΠΔ",
+      "file_url": "https://silia.eett.gr/silia/download/e5df9eab-d96c-49d6-a04c-1520a3ea5815"
+    }
+  ]
+}

@@ -1,0 +1,87 @@
+{
+  "antenna_id": "157397",
+  "address": "ΚΗΦΙΣΙΑΣ 112",
+  "position_code": 1402752,
+  "municipality": "Αμαρουσίου",
+  "code_name": "ΤΑΞΙΑΡΧΗΣ",
+  "region": "Αττικής",
+  "latitude": 38.050833,
+  "company": "OTE",
+  "longitude": 23.81,
+  "permit_status": "Από τα στοιχεία που τηρούνται στην Ενημερωτική Πύλη προκύπτει ότι, για τη θέση \"ΚΗΦΙΣΙΑΣ 112\" στον Δήμο Αμαρουσίου Περιφέρειας  Αττικής \n\t(κωδικός αριθμός θέσης 1402752, κωδική ονομασία \"ΤΑΞΙΑΡΧΗΣ\") χορηγήθηκε, με την Απόφαση της ΕΕΤΤ \n46143/01-12-2022, άδεια κατασκευής κεραίας στην εταιρία OTE. \nΑπό τo έγγραφο της άδειας μπορείτε να ενημερωθείτε για τις σχετικές εγκρίσεις των συναρμόδιων φορέων, καθώς και εάν πρόκειται για τροποποίηση παλαιότερης άδειας.",
+  "measurements_eaee": "-",
+  "documents": [
+    {
+      "document_number": "423632/30-11-2020",
+      "protocol_number": "ΜΕΣΩ ΣΗΛΥΑ/",
+      "type": "Τοπογραφικό",
+      "file_url": "https://silia.eett.gr/silia/download/16f443fa-89d3-4482-833d-2c6fb72384f7"
+    },
+    {
+      "document_number": "423633/30-11-2020",
+      "protocol_number": "ΜΕΣΩ ΣΗΛΥΑ/",
+      "type": "Αρχιτεκτονικά Σχέδια",
+      "file_url": "https://silia.eett.gr/silia/download/25de7f64-b5fc-487f-8c14-23109599b884"
+    },
+    {
+      "document_number": "423634/30-11-2020",
+      "protocol_number": "ΜΕΣΩ ΣΗΛΥΑ/23-10-2020",
+      "type": "Αίτηση - Μελέτη Ραδιοεκπομπών ΕΕΑΕ",
+      "file_url": "https://silia.eett.gr/silia/download/a178da5f-5bf0-47b0-815f-4786bed2b0bc"
+    },
+    {
+      "document_number": "423635/30-11-2020",
+      "protocol_number": "ΜΕΛΕΤΗ ΕΜC/27-10-2020",
+      "type": "Αποτελέσματα μελέτης στη ζώνης 2.6GHz για ΥΠΑ/ΓΕΕΘΑ",
+      "file_url": "https://silia.eett.gr/silia/download/49d14651-782f-497b-ba0f-f446b45e484d"
+    },
+    {
+      "document_number": "423636/30-11-2020",
+      "protocol_number": "72595/30-10-2020",
+      "type": "Επιστολή Ενημέρωσης προς Αρμόδιο Φορέα",
+      "file_url": "https://silia.eett.gr/silia/download/6b9d0157-b8c2-4b09-b90c-267985780035"
+    },
+    {
+      "document_number": "423637/30-11-2020",
+      "protocol_number": "Δ3/Δ/4397/1548/22-02-2012",
+      "type": "Γνωμάτευση ΥΠΑ",
+      "file_url": "https://silia.eett.gr/silia/download/3fd7a1fd-4ca1-42de-b447-fcf5cf88f0b0"
+    },
+    {
+      "document_number": "460235/26-05-2022",
+      "protocol_number": "Αρχείο Αίτησης/",
+      "type": "Αίτηση Άδειας Κατασκευής Κεραίας ΕΕΤΤ",
+      "file_url": "https://silia.eett.gr/silia/download/087e642c-938c-4cc8-b4af-98d92faec50b"
+    },
+    {
+      "document_number": "467572/12-09-2022",
+      "protocol_number": "Μέσω ΣΗΛΥΑ/12-09-2022",
+      "type": "Αίτηση - Μελέτη Ραδιοεκπομπών ΕΕΑΕ",
+      "file_url": "https://silia.eett.gr/silia/download/380ec3fb-9de9-4e9e-a47a-b564710260a5"
+    },
+    {
+      "document_number": "469444/10-10-2022",
+      "protocol_number": "Μ.ι./411/13875/2022/06-10-2022",
+      "type": "Γνωμάτευση ΕΕΑΕ",
+      "file_url": "https://silia.eett.gr/silia/download/d08635f6-3763-41b0-a32b-255748632ca5"
+    },
+    {
+      "document_number": "474104/04-12-2022",
+      "protocol_number": "46143/01-12-2022",
+      "type": "Άδεια Κατασκευής  Κεραίας",
+      "file_url": "https://silia.eett.gr/silia/download/87f585c8-41ed-44e8-abe1-3b7bb916db75"
+    },
+    {
+      "document_number": "423638/30-11-2020",
+      "protocol_number": "ΣΥΝΟΔΕΥΤΙΚΑ ΕΓΓΡΑΦΑ/",
+      "type": "Δήλωση υπαγωγής σε ΠΠΔ και Συνοδευτικά Έγγραφα",
+      "file_url": "https://silia.eett.gr/silia/download/38c09254-a9ff-4151-9a78-e1e4d72678cf"
+    },
+    {
+      "document_number": "460236/26-05-2022",
+      "protocol_number": "Αρχείο Αίτησης/",
+      "type": "Δήλωση ΠΠΔ",
+      "file_url": "https://silia.eett.gr/silia/download/b5943f0f-7033-437f-a059-e96709678a80"
+    }
+  ]
+}

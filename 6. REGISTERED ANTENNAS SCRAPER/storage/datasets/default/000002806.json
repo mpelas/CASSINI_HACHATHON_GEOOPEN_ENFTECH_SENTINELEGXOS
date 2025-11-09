@@ -1,0 +1,63 @@
+{
+  "antenna_id": "171229",
+  "address": "ΑΙΜΙΛΙΟΥ ΒΕΑΚΗ 37, ΠΕΡΙΣΤΕΡΙ",
+  "position_code": 1404440,
+  "municipality": "Περιστερίου",
+  "code_name": "AIMVEAKI_MI",
+  "region": "Αττικής",
+  "latitude": 38.011667,
+  "company": "OTE",
+  "longitude": 23.6925,
+  "permit_status": "Από τα στοιχεία που τηρούνται στην Ενημερωτική Πύλη προκύπτει ότι, για τη θέση \"ΑΙΜΙΛΙΟΥ ΒΕΑΚΗ 37, ΠΕΡΙΣΤΕΡΙ\" στον Δήμο Περιστερίου Περιφέρειας  Αττικής \n\t(κωδικός αριθμός θέσης 1404440, κωδική ονομασία \"AIMVEAKI_MI\") έχει κατατεθεί από την εταιρία OTE\tδήλωση εγκατάστασης κατασκευής κεραίας (αριθ. πρωτ. \n\t54058/01-12-2023) που εμπίπτει στις διατάξεις της νομοθεσίας για Εγκαταστάσεις Κατασκευών Κεραιών Χαμηλής Ηλεκτρομαγνητικής Περιβαλλοντικής Όχλησης (ΕΚΚΧΟ).",
+  "measurements_eaee": "-",
+  "documents": [
+    {
+      "document_number": "501832/29-11-2023",
+      "protocol_number": "ΜΕΛΕΤΗ  EMC/09-11-2023",
+      "type": "Άλλο",
+      "file_url": "https://silia.eett.gr/silia/download/beb12b27-603d-484d-8a30-b0f8d3664c27"
+    },
+    {
+      "document_number": "501833/29-11-2023",
+      "protocol_number": "ΜΕΣΩ ΣΗΛΥΑ/",
+      "type": "Αίτηση - Μελέτη Ραδιοεκπομπών ΕΕΑΕ",
+      "file_url": "https://silia.eett.gr/silia/download/385ab9b0-f678-464f-bdb6-f201d3dc0e2b"
+    },
+    {
+      "document_number": "501834/29-11-2023",
+      "protocol_number": "ΦΩΤΟΓΡΑΦΙΑ/",
+      "type": "Φωτογραφικό Υλικό - Σκαρίφημα",
+      "file_url": "https://silia.eett.gr/silia/download/7d5dce74-43f5-47b9-bfe8-5415ae4feb53"
+    },
+    {
+      "document_number": "501835/29-11-2023",
+      "protocol_number": "ΦΩΤΟΓΡΑΦΙΑ/",
+      "type": "Φωτογραφικό Υλικό - Σκαρίφημα",
+      "file_url": "https://silia.eett.gr/silia/download/f11caa49-351c-473c-8d9e-71ac1789bd3a"
+    },
+    {
+      "document_number": "501836/29-11-2023",
+      "protocol_number": "ΣΚΑΡΙΦΗΜΑ/",
+      "type": "Φωτογραφικό Υλικό - Σκαρίφημα",
+      "file_url": "https://silia.eett.gr/silia/download/da2f9f6d-1222-4f17-bb01-dd9ff6cbd09c"
+    },
+    {
+      "document_number": "501837/29-11-2023",
+      "protocol_number": "ΣΚΑΡΙΦΗΜΑ/",
+      "type": "Φωτογραφικό Υλικό - Σκαρίφημα",
+      "file_url": "https://silia.eett.gr/silia/download/f1100be3-5ce9-4ab7-9a4b-14f60d02abfd"
+    },
+    {
+      "document_number": "502063/30-11-2023",
+      "protocol_number": "ΔΙΑΒΙΒΑΣΤΙΚΟ ΓΕΑ/30-11-2023",
+      "type": "Άλλο",
+      "file_url": "https://silia.eett.gr/silia/download/28b2f5f2-7fbe-4a6c-8efa-846df983468b"
+    },
+    {
+      "document_number": "502304/01-12-2023",
+      "protocol_number": "Αρχείο Αίτησης/",
+      "type": "Δήλωση ΕΚΚΧΟ",
+      "file_url": "https://silia.eett.gr/silia/download/971ab157-a1cf-42d9-b205-c1a80fa6d2b7"
+    }
+  ]
+}

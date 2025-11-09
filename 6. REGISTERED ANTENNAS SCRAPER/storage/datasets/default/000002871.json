@@ -1,0 +1,33 @@
+{
+  "antenna_id": "175383",
+  "address": "ΚΕΚΥΚΑΜΕΑ - ΠΡΕΒΕΖΗΣ (S-PRE-13890)",
+  "position_code": 1495125,
+  "municipality": "Πρέβεζας",
+  "code_name": "KEKYKAMEA_PREV_SYZII",
+  "region": "Ηπείρου",
+  "latitude": 38.981667,
+  "company": "OTE",
+  "longitude": 20.791111,
+  "permit_status": "Από τα στοιχεία που τηρούνται στην Ενημερωτική Πύλη προκύπτει ότι, για τη θέση \"ΚΕΚΥΚΑΜΕΑ - ΠΡΕΒΕΖΗΣ (S-PRE-13890)\" στον Δήμο Πρέβεζας Περιφέρειας  Ηπείρου \n\t(κωδικός αριθμός θέσης 1495125, κωδική ονομασία \"KEKYKAMEA_PREV_SYZII\") έχει κατατεθεί από την εταιρία OTE\tδήλωση εγκατάστασης κατασκευής κεραίας (αριθ. πρωτ. \n\t61835/20-06-2025) που εμπίπτει στις διατάξεις της νομοθεσίας για Εγκαταστάσεις Κατασκευών Κεραιών Χαμηλής Ηλεκτρομαγνητικής Περιβαλλοντικής Όχλησης (ΕΚΚΧΟ).",
+  "measurements_eaee": "-",
+  "documents": [
+    {
+      "document_number": "526007/18-09-2024",
+      "protocol_number": "ΦΩΤΟΓΡΑΦΙΑ/18-09-2024",
+      "type": "Φωτογραφικό Υλικό - Σκαρίφημα",
+      "file_url": "https://silia.eett.gr/silia/download/7ei0dv8oghbNUndrr3vMYUvoG60OuniRZMe9"
+    },
+    {
+      "document_number": "553127/19-06-2025",
+      "protocol_number": "ΜΕΛΕΤΗ/19-06-2025",
+      "type": "Αίτηση - Μελέτη Ραδιοεκπομπών ΕΕΑΕ",
+      "file_url": "https://silia.eett.gr/silia/download/wDTRuIpbYnAgHwAb1hlZ7IftnuwOO09F15bU"
+    },
+    {
+      "document_number": "553219/20-06-2025",
+      "protocol_number": "Αρχείο Αίτησης/20-06-2025",
+      "type": "Δήλωση ΕΚΚΧΟ",
+      "file_url": "https://silia.eett.gr/silia/download/scDLnCSIGBRAuPyr0ZLZHgYutyycHZpKuIzF"
+    }
+  ]
+}

@@ -1,0 +1,63 @@
+{
+  "antenna_id": "166639",
+  "address": "Αγίου Ανδρέου 103, Πάτρα.",
+  "position_code": 1158194,
+  "municipality": "Πατρέων",
+  "code_name": "3028194 KTIMATOLOGIO PATRA",
+  "region": "Δυτικής Ελλάδας",
+  "latitude": 38.2475,
+  "company": "VODAFONE",
+  "longitude": 21.733333,
+  "permit_status": "Από τα στοιχεία που τηρούνται στην Ενημερωτική Πύλη προκύπτει ότι, για τη θέση \"Αγίου Ανδρέου 103, Πάτρα.\" στον Δήμο Πατρέων Περιφέρειας  Δυτικής Ελλάδας \n\t(κωδικός αριθμός θέσης 1158194, κωδική ονομασία \"3028194 KTIMATOLOGIO PATRA\") έχει κατατεθεί από την εταιρία VODAFONE\tδήλωση εγκατάστασης κατασκευής κεραίας (αριθ. πρωτ. \n\t50369/23-12-2022) που εμπίπτει στις διατάξεις της νομοθεσίας για Εγκαταστάσεις Κατασκευών Κεραιών Χαμηλής Ηλεκτρομαγνητικής Περιβαλλοντικής Όχλησης (ΕΚΚΧΟ).",
+  "measurements_eaee": "-",
+  "documents": [
+    {
+      "document_number": "474899/15-12-2022",
+      "protocol_number": "Φωτορεαλιστική απεικόνιση ΕΚΚΧΟ/",
+      "type": "Φωτογραφικό Υλικό - Σκαρίφημα",
+      "file_url": "https://silia.eett.gr/silia/download/4f3b1ab0-c47d-4481-a004-8c429c184178"
+    },
+    {
+      "document_number": "474900/15-12-2022",
+      "protocol_number": "Ψηφιακός Χάρτης με προβολή της θέσης ΕΚΚΧΟ/",
+      "type": "Φωτογραφικό Υλικό - Σκαρίφημα",
+      "file_url": "https://silia.eett.gr/silia/download/99df8bf4-3957-4922-abfe-0e05799be985"
+    },
+    {
+      "document_number": "474901/15-12-2022",
+      "protocol_number": "600725/12-12-2022",
+      "type": "Έγκριση Αρμοδίου Φορέα",
+      "file_url": "https://silia.eett.gr/silia/download/a9283a9e-86dc-4f29-8474-6b1f79e24c4b"
+    },
+    {
+      "document_number": "474902/15-12-2022",
+      "protocol_number": "512908/11-11-2022",
+      "type": "Έγκριση Αρμοδίου Φορέα",
+      "file_url": "https://silia.eett.gr/silia/download/cb7b15c3-6681-4e02-8c15-4890415dc0a1"
+    },
+    {
+      "document_number": "474955/16-12-2022",
+      "protocol_number": "Αρχιτεκτονικά σχέδια ΕΚΚΧΟ/",
+      "type": "Αρχιτεκτονικά Σχέδια",
+      "file_url": "https://silia.eett.gr/silia/download/6261a17b-b430-4e7b-99a0-7734f5797a19"
+    },
+    {
+      "document_number": "475653/23-12-2022",
+      "protocol_number": "Αρχείο Αίτησης/",
+      "type": "Δήλωση ΕΚΚΧΟ",
+      "file_url": "https://silia.eett.gr/silia/download/66108278-fb59-43f3-b9fd-b95d48f3f898"
+    },
+    {
+      "document_number": "476403/19-01-2023",
+      "protocol_number": "Μελέτη ΕΚΚΧΟ/09-01-2023",
+      "type": "Άλλο",
+      "file_url": "https://silia.eett.gr/silia/download/4cf44d74-bf4b-4238-8d1b-00e2c1f64bff"
+    },
+    {
+      "document_number": "490564/19-07-2023",
+      "protocol_number": "ΥΔ εγκατάστασης/19-07-2023",
+      "type": "Άλλο",
+      "file_url": "https://silia.eett.gr/silia/download/31b7b0c6-bf7e-40df-99b7-967bd9283f74"
+    }
+  ]
+}

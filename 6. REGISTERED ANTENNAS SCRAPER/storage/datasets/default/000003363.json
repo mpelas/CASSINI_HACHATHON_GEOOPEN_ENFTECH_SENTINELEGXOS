@@ -1,0 +1,39 @@
+{
+  "antenna_id": "163355",
+  "address": "ΣΥΡΟΣ(ΟΤΕ)",
+  "position_code": 3206136,
+  "municipality": "Σύρου - Ερμούπολης",
+  "code_name": "ΣΥΡΟΣ",
+  "region": "Νοτίου Αιγαίου",
+  "latitude": 37.456944,
+  "company": "ΕΡΤ ΑΕ",
+  "longitude": 24.926667,
+  "permit_status": "Από τα στοιχεία που τηρούνται στην Ενημερωτική Πύλη προκύπτει ότι για τη  θέση \"ΣΥΡΟΣ(ΟΤΕ)\" στον Δήμο Σύρου - Ερμούπολης Περιφέρειας  Νοτίου Αιγαίου έχει κατατεθεί από την εταιρία ΕΡΤ ΑΕ δήλωση κατασκευής κεραίας τηλεοπτικής ευρυεκπομπής με αριθ. πρωτ. ΣΗΛΥΑ \n47374/08-04-2022 κατά τα οριζόμενα στην παρ. 7 του άρθρου 39 του Ν.4635/2019.",
+  "measurements_eaee": "-",
+  "documents": [
+    {
+      "document_number": "456070/08-04-2022",
+      "protocol_number": "screenshot/",
+      "type": "Φωτογραφικό Υλικό - Σκαρίφημα",
+      "file_url": "https://silia.eett.gr/silia/download/48e4b061-82a7-4542-b3b1-110511f4b422"
+    },
+    {
+      "document_number": "456071/08-04-2022",
+      "protocol_number": "Επαναυποβολή_ΥΠΑ_μετάβαση(ΕΠΙΚΑΙΡΟΠΟΙΗΜΕΝΟ)/",
+      "type": "Αίτηση ΥΠΑ",
+      "file_url": "https://silia.eett.gr/silia/download/554907f8-3c80-43b1-91ed-e654705b93a6"
+    },
+    {
+      "document_number": "456074/08-04-2022",
+      "protocol_number": "Αρχείο Αίτησης/",
+      "type": "Δήλωση Τηλεοπτικής Ευρυεκπομπής",
+      "file_url": "https://silia.eett.gr/silia/download/a3d35b3b-f9af-41bf-a350-af2a485afa3a"
+    },
+    {
+      "document_number": "464155/15-07-2022",
+      "protocol_number": "ΚΓ/Δ3/Δ/18880/15-07-2022",
+      "type": "Γνωμάτευση ΥΠΑ",
+      "file_url": "https://silia.eett.gr/silia/download/1332d70e-8cd1-4461-81fc-575d7220145c"
+    }
+  ]
+}

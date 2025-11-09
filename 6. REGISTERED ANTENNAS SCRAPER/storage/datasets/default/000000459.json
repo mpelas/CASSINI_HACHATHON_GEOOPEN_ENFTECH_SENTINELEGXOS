@@ -1,0 +1,93 @@
+{
+  "antenna_id": "117376",
+  "address": "ΘΕΣΗ\" ΣΤΡΙΒΟΣ\"  ΚΤΗΜΑΤΙΚΗΣ ΠΕΡΙΦΕΡΕΙΑΣ ΔΥΜΟΥ ΑΛΜΥΡΟΥ",
+  "position_code": 1404477,
+  "municipality": "Αλμυρού",
+  "code_name": "ΝΗΕΣ / Χ",
+  "region": "Θεσσαλίας",
+  "latitude": 39.132778,
+  "company": "OTE",
+  "longitude": 22.896667,
+  "permit_status": "Από τα στοιχεία που τηρούνται στην Ενημερωτική Πύλη προκύπτει ότι, για τη θέση \"ΘΕΣΗ\" ΣΤΡΙΒΟΣ\"  ΚΤΗΜΑΤΙΚΗΣ ΠΕΡΙΦΕΡΕΙΑΣ ΔΥΜΟΥ ΑΛΜΥΡΟΥ\" στον Δήμο Αλμυρού Περιφέρειας  Θεσσαλίας \n\t(κωδικός αριθμός θέσης 1404477, κωδική ονομασία \"ΝΗΕΣ / Χ\") χορηγήθηκε, με την Απόφαση της ΕΕΤΤ \n37377/23-10-2020, άδεια κατασκευής κεραίας στην εταιρία OTE. \nΑπό τo έγγραφο της άδειας μπορείτε να ενημερωθείτε για τις σχετικές εγκρίσεις των συναρμόδιων φορέων, καθώς και εάν πρόκειται για τροποποίηση παλαιότερης άδειας.\n\tΣύμφωνα με τα στοιχεία που έχουν υποβληθεί στο ΣΗΛΥΑ για την κατασκευή κεραίας από τον κάτοχό της, έχει εκδοθεί έγκριση δομικών κατασκευών κεραίας",
+  "measurements_eaee": "-",
+  "documents": [
+    {
+      "document_number": "252424/08-03-2016",
+      "protocol_number": "526/01-08-2014",
+      "type": "Τοπογραφικό",
+      "file_url": "https://silia.eett.gr/silia/download/d018bcfb-3129-4a1a-a15e-0d519ba254d0"
+    },
+    {
+      "document_number": "252425/08-03-2016",
+      "protocol_number": "526/01-08-2014",
+      "type": "Αρχιτεκτονικά Σχέδια",
+      "file_url": "https://silia.eett.gr/silia/download/0907f38b-0343-408c-99fa-740b1afad6fa"
+    },
+    {
+      "document_number": "252428/08-03-2016",
+      "protocol_number": "Δ3/Δ/35899/8017/22-10-2002",
+      "type": "Γνωμάτευση ΥΠΑ",
+      "file_url": "https://silia.eett.gr/silia/download/9a80817f-316d-41bd-afc2-2a588069eab9"
+    },
+    {
+      "document_number": "252430/08-03-2016",
+      "protocol_number": "ΜΕΣΩ ΣΗΛΥΑ/11-08-2014",
+      "type": "Αίτηση - Μελέτη Ραδιοεκπομπών ΕΕΑΕ",
+      "file_url": "https://silia.eett.gr/silia/download/293d6d34-052f-43f6-88a9-8a9b36e5cbd5"
+    },
+    {
+      "document_number": "252664/09-03-2016",
+      "protocol_number": "ΜΕΣΩ ΣΥΛΥΑ/09-03-2016",
+      "type": "Αίτηση ΥΠΑ",
+      "file_url": "https://silia.eett.gr/silia/download/4c8622da-9c4e-4ac5-9b16-e00662433128"
+    },
+    {
+      "document_number": "252665/09-03-2016",
+      "protocol_number": "Αρχείο Αίτησης/",
+      "type": "Αίτηση Άδειας Κατασκευής Κεραίας ΕΕΤΤ",
+      "file_url": "https://silia.eett.gr/silia/download/7351e799-cae0-4fbe-9b2f-c7b293999658"
+    },
+    {
+      "document_number": "264591/30-06-2016",
+      "protocol_number": "Μι/411/7476/29-06-2016",
+      "type": "Γνωμάτευση ΕΕΑΕ",
+      "file_url": "https://silia.eett.gr/silia/download/7a0beebb-2a90-410d-8ff7-2278af87e95d"
+    },
+    {
+      "document_number": "418975/14-10-2020",
+      "protocol_number": "219/30-12-2014",
+      "type": "Άλλο",
+      "file_url": "https://silia.eett.gr/silia/download/6044949e-2663-4473-9fe8-deb159c9609f"
+    },
+    {
+      "document_number": "418976/14-10-2020",
+      "protocol_number": "2634/17-12-2014",
+      "type": "Άλλο",
+      "file_url": "https://silia.eett.gr/silia/download/c7425398-d9c0-4d7e-b500-61af497793b4"
+    },
+    {
+      "document_number": "421438/11-11-2020",
+      "protocol_number": "37377/23-10-2020",
+      "type": "Άδεια Κατασκευής  Κεραίας",
+      "file_url": "https://silia.eett.gr/silia/download/31622448-4f5e-493b-a5bb-f9391383604a"
+    },
+    {
+      "document_number": "521477/23-07-2024",
+      "protocol_number": "14044770161247/30-10-2014",
+      "type": "Έγκριση δομικών κατασκευών (έντυπη)",
+      "file_url": "https://silia.eett.gr/silia/download/y8d0AemP0iKaX25GviBQKG3GIIRxxKuVwz0c"
+    },
+    {
+      "document_number": "252432/08-03-2016",
+      "protocol_number": "ΜΕΣΩ ΣΗΛΥΑ/",
+      "type": "Δήλωση υπαγωγής σε ΠΠΔ και Συνοδευτικά Έγγραφα",
+      "file_url": "https://silia.eett.gr/silia/download/2926f37d-f844-480e-bc8b-ed17af842f43"
+    },
+    {
+      "document_number": "252666/09-03-2016",
+      "protocol_number": "Αρχείο Αίτησης/",
+      "type": "Δήλωση ΠΠΔ",
+      "file_url": "https://silia.eett.gr/silia/download/33568be4-e631-4833-b38e-6dbf3779a0d5"
+    }
+  ]
+}

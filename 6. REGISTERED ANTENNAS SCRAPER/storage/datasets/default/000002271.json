@@ -1,0 +1,39 @@
+{
+  "antenna_id": "154514",
+  "address": "Δήμος Ξάνθης, Π.Ε Ξάνθης, Περιφέρεια Ανατολικής Μακεδονίας και Θράκης",
+  "position_code": 3207559,
+  "municipality": "Ξάνθης",
+  "code_name": "ΠΙΛΗΜΑ-Δ",
+  "region": "Ανατ. Μακεδονίας και Θράκης",
+  "latitude": 41.185,
+  "company": "ΕΡΤ ΑΕ",
+  "longitude": 24.830833,
+  "permit_status": "Από τα στοιχεία που τηρούνται στην Ενημερωτική Πύλη προκύπτει ότι για τη  θέση \"Δήμος Ξάνθης, Π.Ε Ξάνθης, Περιφέρεια Ανατολικής Μακεδονίας και Θράκης\" στον Δήμο Ξάνθης Περιφέρειας  Ανατ. Μακεδονίας και Θράκης έχει κατατεθεί από την εταιρία ΕΡΤ ΑΕ δήλωση δομικών κατασκευών κεραιών  \nμε αριθ. πρωτ. ΣΗΛΥΑ 38878/17-05-2020 κατά τα οριζόμενα στην παρ. 7 του άρθρου 34 του Ν.4635/2019.",
+  "measurements_eaee": "-",
+  "documents": [
+    {
+      "document_number": "405201/12-05-2020",
+      "protocol_number": "δορυφορική λήψη και στοιχεία δομικών κατασκευών/",
+      "type": "Άλλο",
+      "file_url": "https://silia.eett.gr/silia/download/32f19c6d-4b62-4acd-865d-0daf48866327"
+    },
+    {
+      "document_number": "405202/12-05-2020",
+      "protocol_number": "απογραφή 1987/",
+      "type": "Άλλο",
+      "file_url": "https://silia.eett.gr/silia/download/3065c62a-b0eb-4c4a-89d5-dd416d7cd04a"
+    },
+    {
+      "document_number": "405203/12-05-2020",
+      "protocol_number": "πίνακας 49 απογραφής ΕΡΤ 1987/",
+      "type": "Άλλο",
+      "file_url": "https://silia.eett.gr/silia/download/a8a2b43d-eb58-485d-8dc9-fe54d16ee4e3"
+    },
+    {
+      "document_number": "406124/17-05-2020",
+      "protocol_number": "Αρχείο Αίτησης/",
+      "type": "Δήλωση Δομικών ΕΡΤ",
+      "file_url": "https://silia.eett.gr/silia/download/e601081b-d3b9-45dd-bc91-dc0601323e65"
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "antenna_id": "137115",
+  "address": "ΓΚΟΡΤΣΟΛΟΓΛΟΥ 80, ΣΠΑΡΤΗ.",
+  "position_code": 1143392,
+  "municipality": "Σπάρτης",
+  "code_name": "AFFIDEA EVROIATRIKI SPARTIS",
+  "region": "Πελοποννήσου",
+  "latitude": 37.075556,
+  "company": "VODAFONE",
+  "longitude": 22.428889,
+  "permit_status": "Από τα στοιχεία που τηρούνται στην Ενημερωτική Πύλη προκύπτει ότι, για τη θέση \"ΓΚΟΡΤΣΟΛΟΓΛΟΥ 80, ΣΠΑΡΤΗ.\" στον Δήμο Σπάρτης Περιφέρειας  Πελοποννήσου \n\t(κωδικός αριθμός θέσης 1143392, κωδική ονομασία \"AFFIDEA EVROIATRIKI SPARTIS\") έχει κατατεθεί από την εταιρία VODAFONE\tδήλωση εγκατάστασης κατασκευής κεραίας (αριθ. πρωτ. \n\t31155/22-01-2019) που εμπίπτει στις διατάξεις της νομοθεσίας για Εγκαταστάσεις Κατασκευών Κεραιών Χαμηλής Ηλεκτρομαγνητικής Περιβαλλοντικής Όχλησης (ΕΚΚΧΟ).",
+  "measurements_eaee": "-",
+  "documents": [
+    {
+      "document_number": "354517/21-01-2019",
+      "protocol_number": "ΣΚΑΡΙΦΗΜΑ ΘΕΣΗΣ ΙΣΤΟΥ ΕΚΚΧΟ - ΚΑΤΟΨΗ/",
+      "type": "Φωτογραφικό Υλικό - Σκαρίφημα",
+      "file_url": "https://silia.eett.gr/silia/download/b6be4681-443b-4ef8-9d62-038d10d11d1f"
+    },
+    {
+      "document_number": "354554/21-01-2019",
+      "protocol_number": "ΣΚΑΡΙΦΗΜΑ ΘΕΣΗΣ ΚΕΡΑΙΑΣ 1/",
+      "type": "Φωτογραφικό Υλικό - Σκαρίφημα",
+      "file_url": "https://silia.eett.gr/silia/download/0786e65a-222b-469c-aea9-451948062870"
+    },
+    {
+      "document_number": "354728/22-01-2019",
+      "protocol_number": "Αρχείο Αίτησης/",
+      "type": "Δήλωση ΕΚΚΧΟ",
+      "file_url": "https://silia.eett.gr/silia/download/3c3eb8b2-8233-40d3-b67d-8c58700845d1"
+    }
+  ]
+}

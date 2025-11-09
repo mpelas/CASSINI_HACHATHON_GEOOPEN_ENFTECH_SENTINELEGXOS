@@ -1,0 +1,105 @@
+{
+  "antenna_id": "129758",
+  "address": "ΞΕΝΟΔΟΧΕΙΟ \"CRETA MARIS\"",
+  "position_code": 1001482,
+  "municipality": "Χερσονήσου",
+  "code_name": "CRETA MARIS",
+  "region": "Κρήτης",
+  "latitude": 35.325,
+  "company": "VODAFONE",
+  "longitude": 25.383611,
+  "permit_status": "Από τα στοιχεία που τηρούνται στην Ενημερωτική Πύλη προκύπτει ότι, για τη θέση \"ΞΕΝΟΔΟΧΕΙΟ \"CRETA MARIS\"\" στον Δήμο Χερσονήσου Περιφέρειας  Κρήτης \n\t(κωδικός αριθμός θέσης 1001482, κωδική ονομασία \"CRETA MARIS\") χορηγήθηκε, με την Απόφαση της ΕΕΤΤ \n40454/27-04-2021, άδεια κατασκευής κεραίας στην εταιρία VODAFONE. \nΑπό τo έγγραφο της άδειας μπορείτε να ενημερωθείτε για τις σχετικές εγκρίσεις των συναρμόδιων φορέων, καθώς και εάν πρόκειται για τροποποίηση παλαιότερης άδειας.",
+  "measurements_eaee": "-",
+  "documents": [
+    {
+      "document_number": "309170/06-10-2017",
+      "protocol_number": "ΜΕΛΕΤΗ ΡΑΔΙΟΕΚΠΟΜΠΩΝ/26-10-2015",
+      "type": "Αίτηση - Μελέτη Ραδιοεκπομπών ΕΕΑΕ",
+      "file_url": "https://silia.eett.gr/silia/download/6d696594-a7db-4866-bbb0-ee8b7c2289b1"
+    },
+    {
+      "document_number": "309209/09-10-2017",
+      "protocol_number": "13799/15-04-2005",
+      "type": "Αίτηση ΥΠΑ",
+      "file_url": "https://silia.eett.gr/silia/download/7d3499b7-c3e2-4538-86d7-a533c7a6eb31"
+    },
+    {
+      "document_number": "309210/09-10-2017",
+      "protocol_number": "Δ3/Δ/13799/3474/25-04-2005",
+      "type": "Γνωμάτευση ΥΠΑ",
+      "file_url": "https://silia.eett.gr/silia/download/a8fd3269-8c98-4184-8179-899c89dd6d74"
+    },
+    {
+      "document_number": "309212/09-10-2017",
+      "protocol_number": "28064/13-03-2017",
+      "type": "Τοπογραφικό",
+      "file_url": "https://silia.eett.gr/silia/download/80f9f041-5d7a-460c-b2d5-d5a45cc73b73"
+    },
+    {
+      "document_number": "309213/09-10-2017",
+      "protocol_number": "28064/13-03-2017",
+      "type": "Αρχιτεκτονικά Σχέδια",
+      "file_url": "https://silia.eett.gr/silia/download/cccad867-a55b-4636-92fb-40b3ff2bdcdd"
+    },
+    {
+      "document_number": "309224/09-10-2017",
+      "protocol_number": "Μ.ι./411/3934/2016/07-04-2016",
+      "type": "Γνωμάτευση ΕΕΑΕ",
+      "file_url": "https://silia.eett.gr/silia/download/71261ea8-d774-4724-8d16-39f935935648"
+    },
+    {
+      "document_number": "309298/09-10-2017",
+      "protocol_number": "Αρχείο Αίτησης/",
+      "type": "Αίτηση Άδειας Κατασκευής Κεραίας ΕΕΤΤ",
+      "file_url": "https://silia.eett.gr/silia/download/e135fda5-9e52-4874-ab65-470fee9eaf38"
+    },
+    {
+      "document_number": "316711/19-12-2017",
+      "protocol_number": "Μ.ι./411/15504/2017/14-12-2017",
+      "type": "Γνωμάτευση ΕΕΑΕ",
+      "file_url": "https://silia.eett.gr/silia/download/6aeaed36-5703-49e4-8543-ce3812153e93"
+    },
+    {
+      "document_number": "379970/17-10-2019",
+      "protocol_number": "ΑΕΚ 908/17/23-09-2019",
+      "type": "Άλλο",
+      "file_url": "https://silia.eett.gr/silia/download/bcc20e5f-8b57-4a63-8594-89fd1d0d8801"
+    },
+    {
+      "document_number": "379971/17-10-2019",
+      "protocol_number": "ΑΠΟΔΕΙΚΤΙΚΟ ΠΛΗΡΩΜΗΣ/11-10-2019",
+      "type": "Άλλο",
+      "file_url": "https://silia.eett.gr/silia/download/1ef7db22-7c3e-4e96-b213-586f2618a9ff"
+    },
+    {
+      "document_number": "433689/16-04-2021",
+      "protocol_number": "ΥΔ μετάβασης στον Ν. 4635/2019\t/31-03-2021",
+      "type": "Άλλο",
+      "file_url": "https://silia.eett.gr/silia/download/3d0df3f3-e55c-41b8-8c9d-e51bda13e987"
+    },
+    {
+      "document_number": "434478/28-04-2021",
+      "protocol_number": "40454/27-04-2021",
+      "type": "Άδεια Κατασκευής  Κεραίας",
+      "file_url": "https://silia.eett.gr/silia/download/eca2a7ec-98cd-481b-8d65-bccda0ff7bb8"
+    },
+    {
+      "document_number": "433690/16-04-2021",
+      "protocol_number": "ΜΕΛΕΤΗ ΡΑΔΙΟΕΚΠΟΜΠΩΝ/26-10-2015",
+      "type": "Αίτηση - Μελέτη Ραδιοεκπομπών ΕΕΑΕ",
+      "file_url": "https://silia.eett.gr/silia/download/6d696594-a7db-4866-bbb0-ee8b7c2289b1"
+    },
+    {
+      "document_number": "433691/16-04-2021",
+      "protocol_number": "Μ.ι./411/15504/2017/14-12-2017",
+      "type": "Γνωμάτευση ΕΕΑΕ",
+      "file_url": "https://silia.eett.gr/silia/download/6aeaed36-5703-49e4-8543-ce3812153e93"
+    },
+    {
+      "document_number": "433692/16-04-2021",
+      "protocol_number": "Αρχείο Αίτησης/",
+      "type": "Δήλωση ΠΠΔ",
+      "file_url": "https://silia.eett.gr/silia/download/6938b9d7-02ef-4a13-bfb2-48fed54a2ef1"
+    }
+  ]
+}

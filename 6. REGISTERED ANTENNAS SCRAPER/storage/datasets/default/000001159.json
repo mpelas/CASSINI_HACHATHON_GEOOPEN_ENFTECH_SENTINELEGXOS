@@ -1,0 +1,81 @@
+{
+  "antenna_id": "159117",
+  "address": "ΟΔΟΣ ΒΑΣ. ΓΕΩΡΓΙΟΥ 25Β",
+  "position_code": 1403969,
+  "municipality": "Γλυφάδας",
+  "code_name": "SEMELIS",
+  "region": "Αττικής",
+  "latitude": 37.862222,
+  "company": "OTE",
+  "longitude": 23.758889,
+  "permit_status": "Από τα στοιχεία που τηρούνται στην Ενημερωτική Πύλη προκύπτει ότι, για τη θέση \"ΟΔΟΣ ΒΑΣ. ΓΕΩΡΓΙΟΥ 25Β\" στον Δήμο Γλυφάδας Περιφέρειας  Αττικής \n\t(κωδικός αριθμός θέσης 1403969, κωδική ονομασία \"SEMELIS\") χορηγήθηκε, με την Απόφαση της ΕΕΤΤ \n41747/30-09-2021, άδεια κατασκευής κεραίας στην εταιρία OTE. \nΑπό τo έγγραφο της άδειας μπορείτε να ενημερωθείτε για τις σχετικές εγκρίσεις των συναρμόδιων φορέων, καθώς και εάν πρόκειται για τροποποίηση παλαιότερης άδειας.",
+  "measurements_eaee": "-",
+  "documents": [
+    {
+      "document_number": "433859/20-04-2021",
+      "protocol_number": "ΜΕΣΩ ΣΗΛΥΑ/",
+      "type": "Τοπογραφικό",
+      "file_url": "https://silia.eett.gr/silia/download/641f82fa-6c46-458d-b89b-15b4813f2820"
+    },
+    {
+      "document_number": "433860/20-04-2021",
+      "protocol_number": "ΜΕΣΩ ΣΗΛΥΑ/",
+      "type": "Αρχιτεκτονικά Σχέδια",
+      "file_url": "https://silia.eett.gr/silia/download/2b220b2b-8d77-47f3-a9f0-2738dc00eb13"
+    },
+    {
+      "document_number": "433861/20-04-2021",
+      "protocol_number": "ΜΕΣΩ ΣΗΛΥΑ/30-03-2021",
+      "type": "Αίτηση - Μελέτη Ραδιοεκπομπών ΕΕΑΕ",
+      "file_url": "https://silia.eett.gr/silia/download/59d6c0f4-5e5f-43de-b477-a9830032f263"
+    },
+    {
+      "document_number": "433862/20-04-2021",
+      "protocol_number": "ΜΕΛΕΤΗ  EMC/02-04-2021",
+      "type": "Αποτελέσματα μελέτης στη ζώνης 2.6GHz για ΥΠΑ/ΓΕΕΘΑ",
+      "file_url": "https://silia.eett.gr/silia/download/185d5630-8698-4c6f-b767-7bf323173515"
+    },
+    {
+      "document_number": "433863/20-04-2021",
+      "protocol_number": "38649/09-04-2021",
+      "type": "Επιστολή Ενημέρωσης προς Αρμόδιο Φορέα",
+      "file_url": "https://silia.eett.gr/silia/download/8efc4076-467b-4919-90b0-6684b149d730"
+    },
+    {
+      "document_number": "433901/20-04-2021",
+      "protocol_number": "Αρχείο Αίτησης/",
+      "type": "Αίτηση Άδειας Κατασκευής Κεραίας ΕΕΤΤ",
+      "file_url": "https://silia.eett.gr/silia/download/cc86f16d-3432-4905-902d-c8ca7b1b929d"
+    },
+    {
+      "document_number": "434682/07-05-2021",
+      "protocol_number": "Μ.ι./411/9612/2021/07-05-2021",
+      "type": "Γνωμάτευση ΕΕΑΕ",
+      "file_url": "https://silia.eett.gr/silia/download/036f296a-8e42-495f-91ad-08398eacf0de"
+    },
+    {
+      "document_number": "440244/06-09-2021",
+      "protocol_number": "Δ3/Δ/30063/6-9-2021/06-09-2021",
+      "type": "Γνωμάτευση ΥΠΑ",
+      "file_url": "https://silia.eett.gr/silia/download/bd506e1e-1c50-41ef-967e-e4d767b4dab4"
+    },
+    {
+      "document_number": "442854/05-10-2021",
+      "protocol_number": "41747/30-09-2021",
+      "type": "Άδεια Κατασκευής  Κεραίας",
+      "file_url": "https://silia.eett.gr/silia/download/290635c7-5d06-4060-811a-8936a7b014d0"
+    },
+    {
+      "document_number": "433864/20-04-2021",
+      "protocol_number": "ΜΕΣΩ ΣΗΛΥΑ/",
+      "type": "Δήλωση υπαγωγής σε ΠΠΔ και Συνοδευτικά Έγγραφα",
+      "file_url": "https://silia.eett.gr/silia/download/4c1b2394-052a-4653-8cde-91c65549d7bc"
+    },
+    {
+      "document_number": "433902/20-04-2021",
+      "protocol_number": "Αρχείο Αίτησης/",
+      "type": "Δήλωση ΠΠΔ",
+      "file_url": "https://silia.eett.gr/silia/download/60fd2579-2322-4d02-934c-2a756377bb72"
+    }
+  ]
+}

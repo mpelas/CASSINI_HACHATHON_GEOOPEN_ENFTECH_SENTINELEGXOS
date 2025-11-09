@@ -1,0 +1,123 @@
+{
+  "antenna_id": "114281",
+  "address": "ΚΟΙΝΟΤΙΚΗ ΟΔΟΣ  ΛΟΥΡΟΣ ΠΡΕΒΕΖΗΣ",
+  "position_code": 1404179,
+  "municipality": "Πρέβεζας",
+  "code_name": "ΛΟΥΡΟΣ Τ/Κ",
+  "region": "Ηπείρου",
+  "latitude": 39.164722,
+  "company": "OTE",
+  "longitude": 20.7525,
+  "permit_status": "Από τα στοιχεία που τηρούνται στην Ενημερωτική Πύλη προκύπτει ότι, για τη θέση \"ΚΟΙΝΟΤΙΚΗ ΟΔΟΣ  ΛΟΥΡΟΣ ΠΡΕΒΕΖΗΣ\" στον Δήμο Πρέβεζας Περιφέρειας  Ηπείρου \n\t(κωδικός αριθμός θέσης 1404179, κωδική ονομασία \"ΛΟΥΡΟΣ Τ/Κ\") χορηγήθηκε, με την Απόφαση της ΕΕΤΤ \n30014/Φ610/22-10-2018, άδεια κατασκευής κεραίας στην εταιρία OTE. \nΑπό τo έγγραφο της άδειας μπορείτε να ενημερωθείτε για τις σχετικές εγκρίσεις των συναρμόδιων φορέων, καθώς και εάν πρόκειται για τροποποίηση παλαιότερης άδειας.\nΗ άδεια χορηγήθηκε, κατόπιν της με Αριθ. Πρωτ. 13273/16-10-2015 αίτησης, \n\tμε τη διαδικασία αδειοδότησης της παρ. 17 του άρθρου 30 του Ν.4070/2012 που πλέον έχει αντικατασταθεί από τη διαδικασία που ορίζει ο ν. 4635/2019.\nΕπιπλέον, έχει υποβληθεί η με αριθ. πρωτ. ΣΗΛΥΑ 32747/02-05-2019 (Δήλωση παρ. 14 άρθρ. 60 ν. 4313/2014) δήλωση που αφορά σε τροποποίηση/επικαιροποίηση στοιχείων της κατασκευής κεραίας που αφορούν τον(ους) Τομέα(εις) Αδειοδότησης:Κεραιοσυστήματα, Περιβάλλον.\n\tΔιευκρινίζεται ότι υπό ορισμένες προϋποθέσεις για την τροποποίηση αδειοδοτημένης κατασκευής κεραίας ή/και την επικαιροποίηση στοιχείων της δεν απαιτείται η έκδοση νέας άδειας \n\tκατασκευής κεραίας ή η τροποποίηση της υφιστάμενης άδειας κατασκευής κεραίας, αλλά απαιτείται η υποβολή κατάλληλης δήλωσης από τον κάτοχο της κατασκευής κεραίας συνοδευόμενη \n\tαπό επικαιροποίηση επιμέρους εγκρίσεων.",
+  "measurements_eaee": "-",
+  "documents": [
+    {
+      "document_number": "234723/14-10-2015",
+      "protocol_number": "793/27-07-2015",
+      "type": "Τοπογραφικό",
+      "file_url": "https://silia.eett.gr/silia/download/097500c1-443a-4c08-a485-4da1470302cf"
+    },
+    {
+      "document_number": "234724/14-10-2015",
+      "protocol_number": "793/27-07-2015",
+      "type": "Αρχιτεκτονικά Σχέδια",
+      "file_url": "https://silia.eett.gr/silia/download/62501351-21ca-43bc-9757-e6fa1effaab3"
+    },
+    {
+      "document_number": "234726/14-10-2015",
+      "protocol_number": "Δ3/Δ/34127/6061/01-10-1999",
+      "type": "Γνωμάτευση ΥΠΑ",
+      "file_url": "https://silia.eett.gr/silia/download/8046ffec-cc5e-4575-85ba-0369099d12d3"
+    },
+    {
+      "document_number": "234727/14-10-2015",
+      "protocol_number": "Δ3/Δ/2264/16-03-2012",
+      "type": "Γνωμάτευση ΥΠΑ",
+      "file_url": "https://silia.eett.gr/silia/download/ad35d68c-d0c3-4834-8e29-15cba6fd91ab"
+    },
+    {
+      "document_number": "234728/14-10-2015",
+      "protocol_number": "ΜΕΣΩ ΣΗΛΥΑ/14-10-2015",
+      "type": "Αίτηση ΥΠΑ",
+      "file_url": "https://silia.eett.gr/silia/download/4a72671c-d7bd-4b34-9cbe-bfbd5a524092"
+    },
+    {
+      "document_number": "234729/14-10-2015",
+      "protocol_number": "ΜΕΣΩ ΣΗΛΥΑ/12-10-2015",
+      "type": "Αίτηση - Μελέτη Ραδιοεκπομπών ΕΕΑΕ",
+      "file_url": "https://silia.eett.gr/silia/download/7d1dc12d-b473-4278-b453-a46685cda077"
+    },
+    {
+      "document_number": "235224/16-10-2015",
+      "protocol_number": "Αρχείο Αίτησης/",
+      "type": "Αίτηση Άδειας Κατασκευής Κεραίας ΕΕΤΤ",
+      "file_url": "https://silia.eett.gr/silia/download/ba41ffc2-8c28-42db-85b4-c99f2364ae6f"
+    },
+    {
+      "document_number": "240384/13-11-2015",
+      "protocol_number": "793/13-11-2015",
+      "type": "Έγκριση δομικών κατασκευών (έντυπη)",
+      "file_url": "https://silia.eett.gr/silia/download/fa43a3f6-33e5-40bf-9b96-352dfae7e392"
+    },
+    {
+      "document_number": "281382/07-12-2016",
+      "protocol_number": "μεσω σηλυα/07-12-2016",
+      "type": "Αίτηση - Μελέτη Ραδιοεκπομπών ΕΕΑΕ",
+      "file_url": "https://silia.eett.gr/silia/download/e6ba8ac0-6c44-47c3-bfa6-7a1c54f3caa7"
+    },
+    {
+      "document_number": "298288/21-06-2017",
+      "protocol_number": "Μ.ι./411/7388/2017/09-06-2017",
+      "type": "Γνωμάτευση ΕΕΑΕ",
+      "file_url": "https://silia.eett.gr/silia/download/cf1e31ee-9d87-415d-98a6-130e34c94b96"
+    },
+    {
+      "document_number": "347869/06-11-2018",
+      "protocol_number": "30014/Φ610/22-10-2018",
+      "type": "Άδεια Κατασκευής  Κεραίας",
+      "file_url": "https://silia.eett.gr/silia/download/8b071bfd-54ef-4204-a27d-61be047580a6"
+    },
+    {
+      "document_number": "364859/02-05-2019",
+      "protocol_number": "ΜΕΣΩ ΣΗΛΥΑ/",
+      "type": "Τοπογραφικό",
+      "file_url": "https://silia.eett.gr/silia/download/8925fdd1-88c7-4bf1-984a-6506c241590c"
+    },
+    {
+      "document_number": "364860/02-05-2019",
+      "protocol_number": "ΜΕΣΩ ΣΗΛΥΑ/",
+      "type": "Αρχιτεκτονικά Σχέδια",
+      "file_url": "https://silia.eett.gr/silia/download/dc4cd330-1c4e-461b-9278-590f05976800"
+    },
+    {
+      "document_number": "364861/02-05-2019",
+      "protocol_number": "ΥΠΕΥΘΥΝΗ ΔΗΛΩΣΗ ΣΥΝΕΓΚΑΤΑΣΤΑΣΗΣ  ΟΤΕ/02-05-2019",
+      "type": "Άλλο",
+      "file_url": "https://silia.eett.gr/silia/download/a6262968-8855-4587-a724-c5f96e313b01"
+    },
+    {
+      "document_number": "364862/02-05-2019",
+      "protocol_number": "ΜΕΣΩ ΣΗΛΥΑ/",
+      "type": "Δήλωση υπαγωγής σε ΠΠΔ και Συνοδευτικά Έγγραφα",
+      "file_url": "https://silia.eett.gr/silia/download/d613ce65-634d-418c-b8fc-b04d55345172"
+    },
+    {
+      "document_number": "364867/02-05-2019",
+      "protocol_number": "ΜΕΣΩ ΣΗΛΥΑ/23-04-2019",
+      "type": "Αίτηση - Μελέτη Ραδιοεκπομπών ΕΕΑΕ",
+      "file_url": "https://silia.eett.gr/silia/download/03ede025-14c0-4773-be9c-b601e44a6b3b"
+    },
+    {
+      "document_number": "364868/02-05-2019",
+      "protocol_number": "Αρχείο Αίτησης/",
+      "type": "Δήλωση Αναβάθμισης",
+      "file_url": "https://silia.eett.gr/silia/download/f37905e3-08e7-4d67-b4f8-bd1777fd0d80"
+    },
+    {
+      "document_number": "377545/30-09-2019",
+      "protocol_number": "Μ.ι./411/13827/2019/30-09-2019",
+      "type": "Γνωμάτευση ΕΕΑΕ",
+      "file_url": "https://silia.eett.gr/silia/download/fd103878-d58c-4eb3-9e6c-2f34f4c8828d"
+    }
+  ]
+}

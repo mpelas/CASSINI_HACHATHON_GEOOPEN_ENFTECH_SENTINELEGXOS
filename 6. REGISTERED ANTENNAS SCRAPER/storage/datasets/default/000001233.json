@@ -1,0 +1,81 @@
+{
+  "antenna_id": "170413",
+  "address": "\"ΖΑΡΑΓΙΑΝΝΗ ΜΑΝΔΡΙ\", ΠΛΗΣΙΟΝ ΓΡΕΒΕΝΩΝ",
+  "position_code": 1403044,
+  "municipality": "Γρεβενών",
+  "code_name": "ΓΡΕΒΕΝΑ Π / Κ",
+  "region": "Δυτικής Μακεδονίας",
+  "latitude": 40.086667,
+  "company": "OTE",
+  "longitude": 21.398611,
+  "permit_status": "Από τα στοιχεία που τηρούνται στην Ενημερωτική Πύλη προκύπτει ότι, για τη θέση \"\"ΖΑΡΑΓΙΑΝΝΗ ΜΑΝΔΡΙ\", ΠΛΗΣΙΟΝ ΓΡΕΒΕΝΩΝ\" στον Δήμο Γρεβενών Περιφέρειας  Δυτικής Μακεδονίας \n\t(κωδικός αριθμός θέσης 1403044, κωδική ονομασία \"ΓΡΕΒΕΝΑ Π / Κ\") χορηγήθηκε, με την Απόφαση της ΕΕΤΤ \n50375/19-12-2023, άδεια κατασκευής κεραίας στην εταιρία OTE. \nΑπό τo έγγραφο της άδειας μπορείτε να ενημερωθείτε για τις σχετικές εγκρίσεις των συναρμόδιων φορέων, καθώς και εάν πρόκειται για τροποποίηση παλαιότερης άδειας.\n\tΣύμφωνα με τα στοιχεία που έχουν υποβληθεί στο ΣΗΛΥΑ, ο κάτοχος της κατασκευής κεραίας έχει δηλώσει ότι θα προβεί σε έκδοση έγκρισης δομικών κατασκευών \n\t\tκεραίας μέσω του e-Άδειες \n\t\tμετά την έκδοση της άδειας κατασκευής κεραίας / δημοσιοποίηση της δήλωσης τροποποίησης της κατασκευής κεραίας",
+  "measurements_eaee": "-",
+  "documents": [
+    {
+      "document_number": "497163/13-10-2023",
+      "protocol_number": "ΜΕΣΩ ΣΗΛΥΑ/",
+      "type": "Τοπογραφικό",
+      "file_url": "https://silia.eett.gr/silia/download/f54e25f7-0c54-4c35-b856-ea484cfdbc13"
+    },
+    {
+      "document_number": "497164/13-10-2023",
+      "protocol_number": "ΜΕΣΩ ΣΗΛΥΑ/",
+      "type": "Αρχιτεκτονικά Σχέδια",
+      "file_url": "https://silia.eett.gr/silia/download/e541d184-1aed-4646-b42a-524da27145cb"
+    },
+    {
+      "document_number": "497165/13-10-2023",
+      "protocol_number": "ΜΕΣΩ ΣΗΛΥΑ/18-09-2023",
+      "type": "Αίτηση - Μελέτη Ραδιοεκπομπών ΕΕΑΕ",
+      "file_url": "https://silia.eett.gr/silia/download/e1268423-698a-4cfb-8407-617fee173d09"
+    },
+    {
+      "document_number": "497169/13-10-2023",
+      "protocol_number": "Δ3/Δ/43028/8841/30-10-2001",
+      "type": "Γνωμάτευση ΥΠΑ",
+      "file_url": "https://silia.eett.gr/silia/download/92709b3f-ff62-4957-abdb-aa69991899a1"
+    },
+    {
+      "document_number": "497170/13-10-2023",
+      "protocol_number": "ΜΕΣΩ ΣΗΛΥΑ/",
+      "type": "Αίτηση ΥΠΑ",
+      "file_url": "https://silia.eett.gr/silia/download/22f19c19-c664-43e1-8def-12aa401730f0"
+    },
+    {
+      "document_number": "497171/13-10-2023",
+      "protocol_number": "Αρχείο Αίτησης/",
+      "type": "Αίτηση Άδειας Κατασκευής Κεραίας ΕΕΤΤ",
+      "file_url": "https://silia.eett.gr/silia/download/2b0d2c0f-d82e-4042-a2b6-3a095cce04b5"
+    },
+    {
+      "document_number": "498298/24-10-2023",
+      "protocol_number": "ΚΓ/Δ3/Δ/21770/",
+      "type": "Γνωμάτευση ΥΠΑ",
+      "file_url": null
+    },
+    {
+      "document_number": "498299/24-10-2023",
+      "protocol_number": "ΚΓ/Δ3/Δ/21770/24-10-2023",
+      "type": "Γνωμάτευση ΥΠΑ",
+      "file_url": "https://silia.eett.gr/silia/download/c16692be-75a7-4d2c-a1e7-60a5cab6c464"
+    },
+    {
+      "document_number": "501955/29-11-2023",
+      "protocol_number": "TMIA/411/16197/2023/29-11-2023",
+      "type": "Γνωμάτευση ΕΕΑΕ",
+      "file_url": "https://silia.eett.gr/silia/download/6c8bb1fd-644b-40b2-82ac-334e10e1e654"
+    },
+    {
+      "document_number": "503541/19-12-2023",
+      "protocol_number": "50375/19-12-2023",
+      "type": "Άδεια Κατασκευής  Κεραίας",
+      "file_url": "https://silia.eett.gr/silia/download/d86e25ef-46ae-49df-94de-93c8c5c7f780"
+    },
+    {
+      "document_number": "497172/13-10-2023",
+      "protocol_number": "Αρχείο Αίτησης/",
+      "type": "Δήλωση ΠΠΔ",
+      "file_url": "https://silia.eett.gr/silia/download/387072db-0cab-4ccf-8956-2a466e57fc0b"
+    }
+  ]
+}

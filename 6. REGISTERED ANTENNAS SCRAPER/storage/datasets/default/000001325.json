@@ -1,0 +1,51 @@
+{
+  "antenna_id": "124748",
+  "address": "ΤΡΙΚΟΚΚΙΑ ΓΡΕΒΕΝΩΝ",
+  "position_code": 1013575,
+  "municipality": "Δεσκάτης",
+  "code_name": "BOSMAN MINK GREVENA",
+  "region": "Δυτικής Μακεδονίας",
+  "latitude": 39.895,
+  "company": "VODAFONE",
+  "longitude": 21.601389,
+  "permit_status": "Από τα στοιχεία που τηρούνται στην Ενημερωτική Πύλη προκύπτει ότι, για τη θέση \"ΤΡΙΚΟΚΚΙΑ ΓΡΕΒΕΝΩΝ\" στον Δήμο Δεσκάτης Περιφέρειας  Δυτικής Μακεδονίας \n\t(κωδικός αριθμός θέσης 1013575, κωδική ονομασία \"BOSMAN MINK GREVENA\") έχει κατατεθεί από την εταιρία VODAFONE\tδήλωση εγκατάστασης κατασκευής κεραίας (αριθ. πρωτ. \n\t21655/22-03-2017) που εμπίπτει στις διατάξεις της νομοθεσίας για Εγκαταστάσεις Κατασκευών Κεραιών Χαμηλής Ηλεκτρομαγνητικής Περιβαλλοντικής Όχλησης (ΕΚΚΧΟ).",
+  "measurements_eaee": "-",
+  "documents": [
+    {
+      "document_number": "279776/22-11-2016",
+      "protocol_number": "ΦΩΤΟΓΡΑΦΙΑ ΘΕΣΗΣ ΚΕΡΑΙΑΣ 1/",
+      "type": "Φωτογραφικό Υλικό - Σκαρίφημα",
+      "file_url": "https://silia.eett.gr/silia/download/fd7f56ed-a4a6-41db-b1db-c7ebb1394734"
+    },
+    {
+      "document_number": "279777/22-11-2016",
+      "protocol_number": "ΦΩΤΟΓΡΑΦΙΑ ΘΕΣΗΣ ΚΕΡΑΙΑΣ 2/",
+      "type": "Φωτογραφικό Υλικό - Σκαρίφημα",
+      "file_url": "https://silia.eett.gr/silia/download/478ee960-1f8d-49aa-bc25-5be9fecacbe6"
+    },
+    {
+      "document_number": "279778/22-11-2016",
+      "protocol_number": "ΦΩΤΟΓΡΑΦΙΑ ΘΕΣΗΣ ΚΕΡΑΙΑΣ 3/",
+      "type": "Φωτογραφικό Υλικό - Σκαρίφημα",
+      "file_url": "https://silia.eett.gr/silia/download/a3db76f3-7df8-469a-9462-23ab208b1114"
+    },
+    {
+      "document_number": "279779/22-11-2016",
+      "protocol_number": "ΦΩΤΟΓΡΑΦΙΑ ΘΕΣΗΣ ΚΕΡΑΙΑΣ 4/",
+      "type": "Φωτογραφικό Υλικό - Σκαρίφημα",
+      "file_url": "https://silia.eett.gr/silia/download/c4ec58ea-1a21-4393-b5ab-56858e5a7419"
+    },
+    {
+      "document_number": "280341/28-11-2016",
+      "protocol_number": "ΦΩΤΟΓΡΑΦΙΑ ΘΕΣΗΣ ΚΕΡΑΙΑΣ 5/",
+      "type": "Φωτογραφικό Υλικό - Σκαρίφημα",
+      "file_url": "https://silia.eett.gr/silia/download/3821736e-3068-483e-863b-247561c9d7cc"
+    },
+    {
+      "document_number": "290183/22-03-2017",
+      "protocol_number": "Αρχείο Αίτησης/",
+      "type": "Δήλωση ΕΚΚΧΟ",
+      "file_url": "https://silia.eett.gr/silia/download/28452f68-041a-43d5-80c6-278311f823e9"
+    }
+  ]
+}

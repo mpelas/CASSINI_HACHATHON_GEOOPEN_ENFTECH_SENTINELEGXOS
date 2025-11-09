@@ -1,0 +1,51 @@
+{
+  "antenna_id": "176414",
+  "address": "4,5 χλμ ΘΕΣ/ΝΙΚΗΣ - ΑΣΒΕΣΤΟΧΩΡΙΟΥ ΚΟΙΝΟΤΗΤΑ ΠΕΥΚΩΝ - ΘΕΣ/ΝΙΚΗ",
+  "position_code": 1275651,
+  "municipality": "Νεάπολης - Συκεών",
+  "code_name": "CORAL Asvestochori (K651)",
+  "region": "Κεντρικής Μακεδονίας",
+  "latitude": 40.659167,
+  "company": "NOVA Μ.Α.Ε.",
+  "longitude": 22.971111,
+  "permit_status": "Από τα στοιχεία που τηρούνται στην Ενημερωτική Πύλη προκύπτει ότι, για τη θέση \"4,5 χλμ ΘΕΣ/ΝΙΚΗΣ - ΑΣΒΕΣΤΟΧΩΡΙΟΥ ΚΟΙΝΟΤΗΤΑ ΠΕΥΚΩΝ - ΘΕΣ/ΝΙΚΗ\" στον Δήμο Νεάπολης - Συκεών Περιφέρειας  Κεντρικής Μακεδονίας \n\t(κωδικός αριθμός θέσης 1275651, κωδική ονομασία \"CORAL Asvestochori (K651)\") έχει κατατεθεί από την εταιρία NOVA Μ.Α.Ε.\tδήλωση εγκατάστασης κατασκευής κεραίας (αριθ. πρωτ. \n\t58359/18-11-2024) που εμπίπτει στις διατάξεις της νομοθεσίας για Εγκαταστάσεις Κατασκευών Κεραιών Χαμηλής Ηλεκτρομαγνητικής Περιβαλλοντικής Όχλησης (ΕΚΚΧΟ).",
+  "measurements_eaee": "-",
+  "documents": [
+    {
+      "document_number": "532731/18-11-2024",
+      "protocol_number": "Φωτορεαλιστική απεικόνιση κεραίας ΕΚΚΧΟ/18-11-2024",
+      "type": "Φωτογραφικό Υλικό - Σκαρίφημα",
+      "file_url": "https://silia.eett.gr/silia/download/BB6hOgTGXYOEeKzoztRyLNuYACfO7mrgUVqm"
+    },
+    {
+      "document_number": "532732/18-11-2024",
+      "protocol_number": "Ψηφιακός χάρτης με προβολή της θέσης ΕΚΚΧΟ/18-11-2024",
+      "type": "Φωτογραφικό Υλικό - Σκαρίφημα",
+      "file_url": "https://silia.eett.gr/silia/download/OXqgeW78oLnuYY5yXLaizpRrSFHNWEzp7o5c"
+    },
+    {
+      "document_number": "532733/18-11-2024",
+      "protocol_number": "ΜΕΛΕΤΗ ΕΚΚΧΟ/18-11-2024",
+      "type": "Άλλο",
+      "file_url": "https://silia.eett.gr/silia/download/KLLSLwxX91m9h1zAze4KG3w0kLF3HmxG7OlE"
+    },
+    {
+      "document_number": "532734/18-11-2024",
+      "protocol_number": "Σκαρίφημα με περιοχή απαγόρευσης/18-11-2024",
+      "type": "Φωτογραφικό Υλικό - Σκαρίφημα",
+      "file_url": "https://silia.eett.gr/silia/download/YSCpMZRsPG5kUSriad0CnGw2UtoL4gpRoDZy"
+    },
+    {
+      "document_number": "532735/18-11-2024",
+      "protocol_number": "Αρχείο Αίτησης/18-11-2024",
+      "type": "Δήλωση ΕΚΚΧΟ",
+      "file_url": "https://silia.eett.gr/silia/download/IDu5eUACUSqToRiHEY8RnAugd3Uzyop2ol0F"
+    },
+    {
+      "document_number": "539868/03-02-2025",
+      "protocol_number": "ΥΔ ΕΓΚΑΤΑΣΤΑΣΗΣ/03-02-2025",
+      "type": "Άλλο",
+      "file_url": "https://silia.eett.gr/silia/download/fSdgXmKKWZz8b6XT7MORqsmVuZYHmiPbB3g4"
+    }
+  ]
+}

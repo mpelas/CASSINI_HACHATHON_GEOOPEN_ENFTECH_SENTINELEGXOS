@@ -1,0 +1,99 @@
+{
+  "antenna_id": "56979",
+  "address": "ΑΠΙ ΑΝΩΝΥΜΗΣ ΟΔΟΥ ΑΜΥΓΔΑΛΙΕΣ Α/Δ",
+  "position_code": 220123,
+  "municipality": "Ανδρίτσαινας - Κρεστένων",
+  "code_name": "ΑΜΥΓΔΑΛΙΑ Α/Δ",
+  "region": "Δυτικής Ελλάδας",
+  "latitude": 37.498333,
+  "company": "OTE",
+  "longitude": 21.844444,
+  "permit_status": "Από τα στοιχεία που τηρούνται στην Ενημερωτική Πύλη προκύπτει ότι, για τη θέση \"ΑΠΙ ΑΝΩΝΥΜΗΣ ΟΔΟΥ ΑΜΥΓΔΑΛΙΕΣ Α/Δ\" στον Δήμο Ανδρίτσαινας - Κρεστένων Περιφέρειας  Δυτικής Ελλάδας \n\t(κωδικός αριθμός θέσης 0220123, κωδική ονομασία \"ΑΜΥΓΔΑΛΙΑ Α/Δ\") χορηγήθηκε, με την Απόφαση της ΕΕΤΤ \n29462/Φ610/19-09-2018, άδεια κατασκευής κεραίας στην εταιρία OTE. \nΑπό τo έγγραφο της άδειας μπορείτε να ενημερωθείτε για τις σχετικές εγκρίσεις των συναρμόδιων φορέων, καθώς και εάν πρόκειται για τροποποίηση παλαιότερης άδειας.\n\tΗ άδεια χορηγήθηκε κατόπιν της με Αριθ. Πρωτ. 8283/01-03-2011 αίτησης. \n\tΓια την έκδοση της άδειας εφαρμόστηκε το προγενέστερο του Ν.4053/2012 νομοθετικό πλαίσιο, καθώς κατά δήλωση της εταιρίας, η κατασκευή πληρούσε \nτις προϋποθέσεις του άρθρου 31 του Ν.4053/2012.",
+  "measurements_eaee": "-",
+  "documents": [
+    {
+      "document_number": "26077/16-11-2012",
+      "protocol_number": "Μ.ι./411/1627/01-04-2009",
+      "type": "Γνωμάτευση ΕΕΑΕ",
+      "file_url": "https://silia.eett.gr/silia/download/223684c7-6c7b-412a-96e2-141ed62cfcfe"
+    },
+    {
+      "document_number": "26078/16-11-2012",
+      "protocol_number": "4893/77939/28-06-2010",
+      "type": "Αίτηση / Μελέτη για Έγκριση Περιβαλλοντικών Επιπτώσεων",
+      "file_url": null
+    },
+    {
+      "document_number": "31498/16-11-2012",
+      "protocol_number": "8283/01-03-2011",
+      "type": "Αίτηση Άδειας Κατασκευής Κεραίας ΕΕΤΤ (νομίμως λειτουργούσα)",
+      "file_url": "https://silia.eett.gr/silia/download/886f59ed-83a6-4124-9a8b-e46109b82466"
+    },
+    {
+      "document_number": "65822/16-04-2013",
+      "protocol_number": "35/07-01-2010",
+      "type": "Αποδεικτικό Καταβολής Τελών ΕΕΤΤ",
+      "file_url": "https://silia.eett.gr/silia/download/f3a018b6-f0ec-480e-9090-1f45a9fafdde"
+    },
+    {
+      "document_number": "65852/16-04-2013",
+      "protocol_number": "Δ3/Δ/23625/5981/29-07-2005",
+      "type": "Γνωμάτευση ΥΠΑ",
+      "file_url": "https://silia.eett.gr/silia/download/c3a5331e-5639-498a-944c-4f7798b0de08"
+    },
+    {
+      "document_number": "86687/01-08-2013",
+      "protocol_number": "4893/77939/28-06-2010",
+      "type": "Αίτηση / Μελέτη για Έγκριση Περιβαλλοντικών Επιπτώσεων (νόμιμη λειτουργία)",
+      "file_url": null
+    },
+    {
+      "document_number": "120036/23-12-2013",
+      "protocol_number": "ΠΠΔ /23-12-2013",
+      "type": "Δήλωση υπαγωγής σε ΠΠΔ και Συνοδευτικά Έγγραφα",
+      "file_url": "https://silia.eett.gr/silia/download/1de9538c-9424-4ad9-953e-b46a5f2f79ce"
+    },
+    {
+      "document_number": "130076/13-02-2014",
+      "protocol_number": "Αρχείο Αίτησης/",
+      "type": "Αίτηση Άδειας Κατασκευής Κεραίας ΕΕΤΤ",
+      "file_url": "https://silia.eett.gr/silia/download/773974cf-d4c5-4d23-8c86-1be2dcadc222"
+    },
+    {
+      "document_number": "199413/10-03-2015",
+      "protocol_number": "Υ.Δ. Διόρθωσης Λαθών/10-03-2015",
+      "type": "Άλλο",
+      "file_url": "https://silia.eett.gr/silia/download/e50204a5-e004-4395-9e5f-0e65edff5ea9"
+    },
+    {
+      "document_number": "199420/10-03-2015",
+      "protocol_number": "11898/22-12-2008",
+      "type": "Αίτηση - Μελέτη Ραδιοεκπομπών ΕΕΑΕ",
+      "file_url": "https://silia.eett.gr/silia/download/7c42dd6e-001f-4d74-897f-b3beccc87beb"
+    },
+    {
+      "document_number": "273954/30-09-2016",
+      "protocol_number": "4893/77939/28-06-2010",
+      "type": "Αίτηση / Μελέτη για Έγκριση Περιβαλλοντικών Επιπτώσεων (νόμιμη λειτουργία)",
+      "file_url": "https://silia.eett.gr/silia/download/b7e02859-4ecb-4582-bd95-f8798be9bb02"
+    },
+    {
+      "document_number": "350278/23-11-2018",
+      "protocol_number": "29462/Φ610/19-09-2018",
+      "type": "Άδεια Κατασκευής  Κεραίας",
+      "file_url": "https://silia.eett.gr/silia/download/bef924f4-e25c-4f50-a056-e6293a592cff"
+    },
+    {
+      "document_number": "273956/30-09-2016",
+      "protocol_number": "ΣΥΝΟΔΕΥΤΙΚΑ ΕΓΓΡΑΦΑ/",
+      "type": "Δήλωση υπαγωγής σε ΠΠΔ και Συνοδευτικά Έγγραφα",
+      "file_url": "https://silia.eett.gr/silia/download/05d0db23-baa7-4e5a-b427-a96fb0143bad"
+    },
+    {
+      "document_number": "273957/30-09-2016",
+      "protocol_number": "Αρχείο Αίτησης/",
+      "type": "Δήλωση ΠΠΔ",
+      "file_url": "https://silia.eett.gr/silia/download/26581092-a514-463a-9429-d4c8365ebce6"
+    }
+  ]
+}

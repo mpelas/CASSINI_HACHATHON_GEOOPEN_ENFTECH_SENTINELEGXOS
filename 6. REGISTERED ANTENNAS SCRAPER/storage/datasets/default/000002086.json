@@ -1,0 +1,63 @@
+{
+  "antenna_id": "166968",
+  "address": "ΑΓΡΑΦΩΝ & ΑΓ. ΑΝΑΣΤΑΣΙΑΣ, ΕΠΤΑΠΥΡΓΙΟ ΘΕΣΣΑΛΟΝΙΚΗΣ",
+  "position_code": 1411714,
+  "municipality": "Νεάπολης - Συκεών",
+  "code_name": "APOLI_METEO",
+  "region": "Κεντρικής Μακεδονίας",
+  "latitude": 40.644167,
+  "company": "OTE",
+  "longitude": 22.958611,
+  "permit_status": "Από τα στοιχεία που τηρούνται στην Ενημερωτική Πύλη προκύπτει ότι, για τη θέση \"ΑΓΡΑΦΩΝ & ΑΓ. ΑΝΑΣΤΑΣΙΑΣ, ΕΠΤΑΠΥΡΓΙΟ ΘΕΣΣΑΛΟΝΙΚΗΣ\" στον Δήμο Νεάπολης - Συκεών Περιφέρειας  Κεντρικής Μακεδονίας \n\t(κωδικός αριθμός θέσης 1411714, κωδική ονομασία \"APOLI_METEO\") έχει κατατεθεί από την εταιρία OTE\tδήλωση εγκατάστασης κατασκευής κεραίας (αριθ. πρωτ. \n\t50540/27-01-2023) που εμπίπτει στις διατάξεις της νομοθεσίας για Εγκαταστάσεις Κατασκευών Κεραιών Χαμηλής Ηλεκτρομαγνητικής Περιβαλλοντικής Όχλησης (ΕΚΚΧΟ).",
+  "measurements_eaee": "-",
+  "documents": [
+    {
+      "document_number": "476878/27-01-2023",
+      "protocol_number": "ΦΩΤΟΓΡΑΦΙΑ/",
+      "type": "Φωτογραφικό Υλικό - Σκαρίφημα",
+      "file_url": "https://silia.eett.gr/silia/download/554a0f8f-57d7-4bf4-b1ab-fa2ff8032af5"
+    },
+    {
+      "document_number": "476879/27-01-2023",
+      "protocol_number": "ΦΩΤΟΓΡΑΦΙΑ/",
+      "type": "Φωτογραφικό Υλικό - Σκαρίφημα",
+      "file_url": "https://silia.eett.gr/silia/download/71eef040-2e86-482a-920d-cb4e53808766"
+    },
+    {
+      "document_number": "476880/27-01-2023",
+      "protocol_number": "ΜΕΣΩ ΣΗΛΥΑ/",
+      "type": "Αίτηση - Μελέτη Ραδιοεκπομπών ΕΕΑΕ",
+      "file_url": "https://silia.eett.gr/silia/download/aaa171a0-de00-4825-a9b2-4106075cd235"
+    },
+    {
+      "document_number": "476881/27-01-2023",
+      "protocol_number": "ΜΕΛΕΤΗ  EMC/",
+      "type": "Άλλο",
+      "file_url": "https://silia.eett.gr/silia/download/512cfdce-199d-4aa1-b900-9cf5f6eb3240"
+    },
+    {
+      "document_number": "476882/27-01-2023",
+      "protocol_number": "ΣΚΑΡΙΦΗΜΑ/",
+      "type": "Φωτογραφικό Υλικό - Σκαρίφημα",
+      "file_url": "https://silia.eett.gr/silia/download/57d3d3eb-36fb-47fd-9b72-fd0838414245"
+    },
+    {
+      "document_number": "476883/27-01-2023",
+      "protocol_number": "ΣΚΑΡΙΦΗΜΑ/",
+      "type": "Φωτογραφικό Υλικό - Σκαρίφημα",
+      "file_url": "https://silia.eett.gr/silia/download/7cb9e091-f984-45b0-9e43-5793b6d2267b"
+    },
+    {
+      "document_number": "476938/27-01-2023",
+      "protocol_number": "ΣΤΟΙΧΕΙΑ ΜΙΚΡΟΚΥΜΑΤΙΚΗΣ ΖΕΥΞΗΣ/27-01-2023",
+      "type": "Άλλο",
+      "file_url": "https://silia.eett.gr/silia/download/8d64dcf5-17e6-4b6c-9512-60bd8d7be2ad"
+    },
+    {
+      "document_number": "476939/27-01-2023",
+      "protocol_number": "Αρχείο Αίτησης/",
+      "type": "Δήλωση ΕΚΚΧΟ",
+      "file_url": "https://silia.eett.gr/silia/download/e3cc5401-35c6-4d72-8b11-293c81fa2981"
+    }
+  ]
+}

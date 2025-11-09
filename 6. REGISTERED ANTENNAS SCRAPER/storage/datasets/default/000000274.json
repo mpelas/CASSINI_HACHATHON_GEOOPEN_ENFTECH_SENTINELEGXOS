@@ -1,0 +1,93 @@
+{
+  "antenna_id": "155628",
+  "address": "ΘΕΣΗ <<ΠΕΡΙΒΟΛΙ>> ΟΙΚΙΣΜΟΣ ΜΕΤΟΧΙΟΥ ΑΓΚΙΣΤΡΙΟΥ",
+  "position_code": 1001791,
+  "municipality": "Αγκιστρίου",
+  "code_name": "ΜΕΤΟΧΙ ΑΓΚΙΣΤΡΙ",
+  "region": "Αττικής",
+  "latitude": 37.706111,
+  "company": "VODAFONE",
+  "longitude": 23.360278,
+  "permit_status": "Από τα στοιχεία που τηρούνται στην Ενημερωτική Πύλη προκύπτει ότι, για τη θέση \" ΘΕΣΗ <<ΠΕΡΙΒΟΛΙ>> ΟΙΚΙΣΜΟΣ ΜΕΤΟΧΙΟΥ ΑΓΚΙΣΤΡΙΟΥ\" στον Δήμο Αγκιστρίου Περιφέρειας  Αττικής \n\t(κωδικός αριθμός θέσης 1001791, κωδική ονομασία \"ΜΕΤΟΧΙ ΑΓΚΙΣΤΡΙ\") χορηγήθηκε, με την Απόφαση της ΕΕΤΤ \n37142/14-10-2020, άδεια κατασκευής κεραίας στην εταιρία VODAFONE. \nΑπό τo έγγραφο της άδειας μπορείτε να ενημερωθείτε για τις σχετικές εγκρίσεις των συναρμόδιων φορέων, καθώς και εάν πρόκειται για τροποποίηση παλαιότερης άδειας.",
+  "measurements_eaee": "-",
+  "documents": [
+    {
+      "document_number": "414125/28-07-2020",
+      "protocol_number": "ΜΕΛΕΤΗ ΡΑΔΙΟΕΚΠΟΜΠΩΝ/10-07-2020",
+      "type": "Αίτηση - Μελέτη Ραδιοεκπομπών ΕΕΑΕ",
+      "file_url": "https://silia.eett.gr/silia/download/71a6d75a-c649-4467-9ab3-34808cae74e3"
+    },
+    {
+      "document_number": "414126/28-07-2020",
+      "protocol_number": "Τοπογραφικό διάγραμμα/",
+      "type": "Τοπογραφικό",
+      "file_url": "https://silia.eett.gr/silia/download/4686e28a-0b78-4dc9-ae40-87c6f3f86e43"
+    },
+    {
+      "document_number": "414127/28-07-2020",
+      "protocol_number": "Αρχιτεκτονικά Σχέδια/",
+      "type": "Αρχιτεκτονικά Σχέδια",
+      "file_url": "https://silia.eett.gr/silia/download/279c6b73-b92e-456f-8413-6574c1d24d50"
+    },
+    {
+      "document_number": "414128/28-07-2020",
+      "protocol_number": "Χάρτης ΥΠΑ/",
+      "type": "Απόσπασμα Χάρτη ΓΥΣ 1:50.000",
+      "file_url": "https://silia.eett.gr/silia/download/76a223c4-4384-4de2-bc92-c3a08843c7af"
+    },
+    {
+      "document_number": "414160/28-07-2020",
+      "protocol_number": "Υπεύθυνη Δήλωση κοινής χρήσης - Wind/28-07-2020",
+      "type": "Άλλο",
+      "file_url": "https://silia.eett.gr/silia/download/1dcff082-de3a-4ddd-8041-b160f1c6086d"
+    },
+    {
+      "document_number": "414262/28-07-2020",
+      "protocol_number": "Υπεύθυνη Δήλωση Διασύνδεσης - Wind/28-07-2020",
+      "type": "Άλλο",
+      "file_url": "https://silia.eett.gr/silia/download/0f28b731-062e-4297-a3e9-0417cf384a5c"
+    },
+    {
+      "document_number": "415219/24-08-2020",
+      "protocol_number": "Αρχείο Αίτησης/",
+      "type": "Αίτηση Άδειας Κατασκευής Κεραίας ΕΕΤΤ",
+      "file_url": "https://silia.eett.gr/silia/download/b06cb129-5bc5-4e12-965a-7d4b82f9a905"
+    },
+    {
+      "document_number": "417593/29-09-2020",
+      "protocol_number": "Δ3/Δ/32491/29-09-2020/",
+      "type": "Γνωμάτευση ΥΠΑ",
+      "file_url": "https://silia.eett.gr/silia/download/e2dfde01-b515-4262-b7ed-5e4ecf0de2a5"
+    },
+    {
+      "document_number": "418122/04-10-2020",
+      "protocol_number": "Μ.ι./411/12443/2020/02-10-2020",
+      "type": "Γνωμάτευση ΕΕΑΕ",
+      "file_url": "https://silia.eett.gr/silia/download/3ce54d59-79be-4bdb-b223-215e7e8478a7"
+    },
+    {
+      "document_number": "419395/19-10-2020",
+      "protocol_number": "37142/14-10-2020",
+      "type": "Άδεια Κατασκευής  Κεραίας",
+      "file_url": "https://silia.eett.gr/silia/download/997a1c4d-c011-4477-b7b2-486083659721"
+    },
+    {
+      "document_number": "414140/28-07-2020",
+      "protocol_number": "ΜΕΛΕΤΗ ΡΑΔΙΟΕΚΠΟΜΠΩΝ/10-07-2020",
+      "type": "Αίτηση - Μελέτη Ραδιοεκπομπών ΕΕΑΕ",
+      "file_url": "https://silia.eett.gr/silia/download/71a6d75a-c649-4467-9ab3-34808cae74e3"
+    },
+    {
+      "document_number": "415218/24-08-2020",
+      "protocol_number": "Συνοδευτικά Έγγραφα ΠΠΔ/",
+      "type": "Δήλωση υπαγωγής σε ΠΠΔ και Συνοδευτικά Έγγραφα",
+      "file_url": "https://silia.eett.gr/silia/download/8f66ba91-4ac8-4ded-9b12-e0f1ad278ce2"
+    },
+    {
+      "document_number": "415220/24-08-2020",
+      "protocol_number": "Αρχείο Αίτησης/",
+      "type": "Δήλωση ΠΠΔ",
+      "file_url": "https://silia.eett.gr/silia/download/af56f78a-a87a-4ef1-8e22-82039bc1e688"
+    }
+  ]
+}

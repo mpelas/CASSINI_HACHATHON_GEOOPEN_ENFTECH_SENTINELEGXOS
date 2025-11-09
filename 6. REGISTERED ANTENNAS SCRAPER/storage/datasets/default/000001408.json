@@ -1,0 +1,87 @@
+{
+  "antenna_id": "174415",
+  "address": "ΠΛΗΣΙΟΝ ΧΩΡΙΣΤΗΣ",
+  "position_code": 1201746,
+  "municipality": "Δράμας",
+  "code_name": "ΧΩΡΙΣΤΗ",
+  "region": "Ανατ. Μακεδονίας και Θράκης",
+  "latitude": 41.135,
+  "company": "NOVA Μ.Α.Ε.",
+  "longitude": 24.220278,
+  "permit_status": "Από τα στοιχεία που τηρούνται στην Ενημερωτική Πύλη προκύπτει ότι, για τη θέση \"ΠΛΗΣΙΟΝ ΧΩΡΙΣΤΗΣ\" στον Δήμο Δράμας Περιφέρειας  Ανατ. Μακεδονίας και Θράκης \n\t(κωδικός αριθμός θέσης 1201746, κωδική ονομασία \"ΧΩΡΙΣΤΗ\") χορηγήθηκε, με την Απόφαση της ΕΕΤΤ \n51601/04-11-2024, άδεια κατασκευής κεραίας στην εταιρία NOVA Μ.Α.Ε.. \nΑπό τo έγγραφο της άδειας μπορείτε να ενημερωθείτε για τις σχετικές εγκρίσεις των συναρμόδιων φορέων, καθώς και εάν πρόκειται για τροποποίηση παλαιότερης άδειας.\n\tΣύμφωνα με τα στοιχεία που έχουν υποβληθεί στο ΣΗΛΥΑ, ο κάτοχος της κατασκευής κεραίας έχει δηλώσει ότι θα προβεί σε έκδοση έγκρισης δομικών κατασκευών \n\t\tκεραίας μέσω του e-Άδειες \n\t\tμετά την έκδοση της άδειας κατασκευής κεραίας / δημοσιοποίηση της δήλωσης τροποποίησης της κατασκευής κεραίας",
+  "measurements_eaee": "-",
+  "documents": [
+    {
+      "document_number": "521210/19-07-2024",
+      "protocol_number": "Δ3/Δ/17033/3388/07-11-2001",
+      "type": "Γνωμάτευση ΥΠΑ",
+      "file_url": "https://silia.eett.gr/silia/download/2yQXQR96I5gVNLwgWUxuPHbiHQKR1dLHOPZo"
+    },
+    {
+      "document_number": "521211/19-07-2024",
+      "protocol_number": "Δ3/Δ/9677/03-11-2010",
+      "type": "Γνωμάτευση ΥΠΑ",
+      "file_url": "https://silia.eett.gr/silia/download/sZVNgLGxbhcCKpFuhL1mzEz7kAdPrOG4VwAh"
+    },
+    {
+      "document_number": "521212/19-07-2024",
+      "protocol_number": "Δ3/Δ/27690/7005/25-09-2013",
+      "type": "Γνωμάτευση ΥΠΑ",
+      "file_url": "https://silia.eett.gr/silia/download/sgkwcoBrfa276HNU8fgvMYEuqWiN5YbpkNVU"
+    },
+    {
+      "document_number": "521216/19-07-2024",
+      "protocol_number": "ΤΟΠΟΓΡΑΦΙΚΟ & ΑΡΧΙΤΕΚΤΟΝΙΚΑ/19-07-2024",
+      "type": "Αρχιτεκτονικά Σχέδια",
+      "file_url": "https://silia.eett.gr/silia/download/5cDSU7WsGMcfDr0wmWgP0D2ftiQylcrbUDQg"
+    },
+    {
+      "document_number": "521218/19-07-2024",
+      "protocol_number": "ΜΕΣΩ ΣΗΛΥΑ/30-05-2024",
+      "type": "Αίτηση - Μελέτη Ραδιοεκπομπών ΕΕΑΕ",
+      "file_url": "https://silia.eett.gr/silia/download/HgM9XQ10YaWTCGcvKaw2Q8BFYl4p2E4oob6G"
+    },
+    {
+      "document_number": "521219/19-07-2024",
+      "protocol_number": "ΥΔ ΚΟΙΝΗΣ ΧΡΗΣΗΣ VODAFONE/05-06-2024",
+      "type": "Άλλο",
+      "file_url": "https://silia.eett.gr/silia/download/32KzNYDlg0vAlrbQT0TGz94WVpb2eLQyYiEB"
+    },
+    {
+      "document_number": "521223/19-07-2024",
+      "protocol_number": "Αρχείο Αίτησης/19-07-2024",
+      "type": "Αίτηση Άδειας Κατασκευής Κεραίας ΕΕΤΤ",
+      "file_url": "https://silia.eett.gr/silia/download/yZtthcfOSFh6qlqg1m02xVKgwGgOmlrPF1g6"
+    },
+    {
+      "document_number": "525308/11-09-2024",
+      "protocol_number": "ΤΜΙΑ/411/11532/06-09-2024",
+      "type": "Γνωμάτευση ΕΕΑΕ",
+      "file_url": "https://silia.eett.gr/silia/download/vwL0FUNci6xb9rorpt7wYd7o4kGGDNFf0V8g"
+    },
+    {
+      "document_number": "529022/16-10-2024",
+      "protocol_number": "182111/26-11-2020",
+      "type": "Έγκριση δομικών κατασκευών (e-Άδειες, αντίγραφο)",
+      "file_url": "https://silia.eett.gr/silia/download/UKh3eKGkeVqGkqbb6zs7CduCgYqW4Y7TzxyZ"
+    },
+    {
+      "document_number": "531322/04-11-2024",
+      "protocol_number": "51601/04-11-2024",
+      "type": "Άδεια Κατασκευής  Κεραίας",
+      "file_url": "https://silia.eett.gr/silia/download/CdSG821AhDaE6uGcq45Uv61NgHuKWpAqggqQ"
+    },
+    {
+      "document_number": "521215/19-07-2024",
+      "protocol_number": "ΣΥΝΟΔΕΥΤΙΚΑ ΕΓΓΡΑΦΑ ΠΠΔ/19-07-2024",
+      "type": "Δήλωση υπαγωγής σε ΠΠΔ και Συνοδευτικά Έγγραφα",
+      "file_url": "https://silia.eett.gr/silia/download/f1PnIFba3wowPB6HQc242nn0z6FZDW0FikfD"
+    },
+    {
+      "document_number": "521224/19-07-2024",
+      "protocol_number": "Αρχείο Αίτησης/19-07-2024",
+      "type": "Δήλωση ΠΠΔ",
+      "file_url": "https://silia.eett.gr/silia/download/PbVygvNqRcukfWxc0xPmgVhlVxKisG8C2Mue"
+    }
+  ]
+}

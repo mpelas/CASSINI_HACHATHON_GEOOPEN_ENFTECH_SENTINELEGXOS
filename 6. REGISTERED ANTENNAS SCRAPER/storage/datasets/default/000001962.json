@@ -1,0 +1,39 @@
+{
+  "antenna_id": "154692",
+  "address": "Δήμος Ναυπακτίας, Π.Ε Αιτωλοακαρνανίας, Περιφέρεια Δυτικής Ελλάδος",
+  "position_code": 3207244,
+  "municipality": "Ναυπακτίας",
+  "code_name": "ΠΛΑΤΑΝΟΣ ΑΙΤΩΛΟΑΚΑΡΝΑΝΙΑΣ-Δ",
+  "region": "Δυτικής Ελλάδας",
+  "latitude": 38.612222,
+  "company": "ΕΡΤ ΑΕ",
+  "longitude": 21.792222,
+  "permit_status": "Από τα στοιχεία που τηρούνται στην Ενημερωτική Πύλη προκύπτει ότι για τη  θέση \"Δήμος Ναυπακτίας, Π.Ε Αιτωλοακαρνανίας, Περιφέρεια Δυτικής Ελλάδος\" στον Δήμο Ναυπακτίας Περιφέρειας  Δυτικής Ελλάδας έχει κατατεθεί από την εταιρία ΕΡΤ ΑΕ δήλωση δομικών κατασκευών κεραιών  \nμε αριθ. πρωτ. ΣΗΛΥΑ 39234/23-05-2020 κατά τα οριζόμενα στην παρ. 7 του άρθρου 34 του Ν.4635/2019.",
+  "measurements_eaee": "-",
+  "documents": [
+    {
+      "document_number": "407469/23-05-2020",
+      "protocol_number": "δορυφορική λήψη και στοιχεία δομικών κατασκευών/",
+      "type": "Άλλο",
+      "file_url": "https://silia.eett.gr/silia/download/a4aadd17-fa55-48b2-9bff-2827709c30fe"
+    },
+    {
+      "document_number": "407470/23-05-2020",
+      "protocol_number": "απογραφή 1987/",
+      "type": "Άλλο",
+      "file_url": "https://silia.eett.gr/silia/download/0891c28c-a36b-4da1-887d-80c1ebdf5b2d"
+    },
+    {
+      "document_number": "407471/23-05-2020",
+      "protocol_number": "πίνακας 51 απογραφής ΕΡΤ 1987/",
+      "type": "Άλλο",
+      "file_url": "https://silia.eett.gr/silia/download/e588d128-5386-43ac-9ca6-8b5ae831dfab"
+    },
+    {
+      "document_number": "407667/23-05-2020",
+      "protocol_number": "Αρχείο Αίτησης/",
+      "type": "Δήλωση Δομικών ΕΡΤ",
+      "file_url": "https://silia.eett.gr/silia/download/ddacaa1d-4f4c-4986-b6a2-9465be01aacc"
+    }
+  ]
+}

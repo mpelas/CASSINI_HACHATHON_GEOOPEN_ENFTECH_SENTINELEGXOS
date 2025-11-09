@@ -1,0 +1,153 @@
+{
+  "antenna_id": "127417",
+  "address": "\"ΤΣΟΥΚΑ\" ΥΨΗΛΟΥ ΧΩΡΙΟΥ ΒΑΡΔΟΥΣΙΩΝ",
+  "position_code": 2423146,
+  "municipality": "Δωρίδος",
+  "code_name": "ΥΨΗΛΟ ΧΩΡΙΟ",
+  "region": "Στερεάς Ελλάδας",
+  "latitude": 38.6525,
+  "company": "RC",
+  "longitude": 22.025833,
+  "permit_status": "Από τα στοιχεία που τηρούνται στην Ενημερωτική Πύλη προκύπτει ότι, για τη θέση \"\"ΤΣΟΥΚΑ\" ΥΨΗΛΟΥ ΧΩΡΙΟΥ ΒΑΡΔΟΥΣΙΩΝ\" στον Δήμο Δωρίδος Περιφέρειας  Στερεάς Ελλάδας \n\t(κωδικός αριθμός θέσης 2423146, κωδική ονομασία \"ΥΨΗΛΟ ΧΩΡΙΟ\") χορηγήθηκε, με την Απόφαση της ΕΕΤΤ \n26222/Φ610/27-11-2017, άδεια κατασκευής κεραίας στην εταιρία RC. \nΑπό τo έγγραφο της άδειας μπορείτε να ενημερωθείτε για τις σχετικές εγκρίσεις των συναρμόδιων φορέων, καθώς και εάν πρόκειται για τροποποίηση παλαιότερης άδειας.\nΗ άδεια χορηγήθηκε, κατόπιν της με Αριθ. Πρωτ. 22728/09-06-2017 αίτησης, \n\tμε τη διαδικασία αδειοδότησης της παρ. 17 του άρθρου 30 του Ν.4070/2012 που πλέον έχει αντικατασταθεί από τη διαδικασία που ορίζει ο ν. 4635/2019.\n\tΣύμφωνα με τα στοιχεία που έχουν υποβληθεί στο ΣΗΛΥΑ για την κατασκευή κεραίας από τον κάτοχό της, έχει εκδοθεί έγκριση δομικών κατασκευών κεραίας",
+  "measurements_eaee": "-",
+  "documents": [
+    {
+      "document_number": "295105/19-05-2017",
+      "protocol_number": "ΡΑΔ_3146 ΥΨΗΛΟ ΧΩΡΙΟ/",
+      "type": "Αίτηση - Μελέτη Ραδιοεκπομπών ΕΕΑΕ",
+      "file_url": "https://silia.eett.gr/silia/download/12d5628d-a2c0-4449-b461-48bb3831d9db"
+    },
+    {
+      "document_number": "295106/19-05-2017",
+      "protocol_number": "1.3146 PPD/",
+      "type": "Δήλωση υπαγωγής σε ΠΠΔ και Συνοδευτικά Έγγραφα",
+      "file_url": "https://silia.eett.gr/silia/download/87dc3ac0-ec80-4212-87e8-af2a7ac95d40"
+    },
+    {
+      "document_number": "295107/19-05-2017",
+      "protocol_number": "2.3146 TOPOGRAFIKO&GSYS 1:5000/",
+      "type": "Τοπογραφικό",
+      "file_url": "https://silia.eett.gr/silia/download/1c38f9f4-2e00-4f64-9368-c49208bc7727"
+    },
+    {
+      "document_number": "295108/19-05-2017",
+      "protocol_number": "3.3146 ARXITEKTONIKA ME SFRAGIDA/",
+      "type": "Αρχιτεκτονικά Σχέδια",
+      "file_url": "https://silia.eett.gr/silia/download/03f10739-76da-48f9-886c-b1e63b36db86"
+    },
+    {
+      "document_number": "295110/19-05-2017",
+      "protocol_number": "3146 ΥΨΗΛΟ ΧΩΡΙΟ ΦΩΚΙΔΑΣ_ΕΦΑ/",
+      "type": "Αρχαιολογική έγκριση/γνωμοδότηση (μη τυπική)",
+      "file_url": "https://silia.eett.gr/silia/download/cae39b90-df3c-4993-93eb-b3a404b7da4c"
+    },
+    {
+      "document_number": "295111/19-05-2017",
+      "protocol_number": "3146 ΥΨΗΛΟ ΧΩΡΙΟ _ΕΝΜ/",
+      "type": "Γνωμοδότηση Υπηρεσίας Νεωτέρων Μνημείων",
+      "file_url": "https://silia.eett.gr/silia/download/1797f6da-6f82-4825-b050-01b922360bdf"
+    },
+    {
+      "document_number": "295112/19-05-2017",
+      "protocol_number": "3146 YPA/",
+      "type": "Συμπληρωματικά Έγγραφα Αίτησης / Μελέτης",
+      "file_url": "https://silia.eett.gr/silia/download/c9db4138-b6ec-4dbf-87ac-346e5e0b44ef"
+    },
+    {
+      "document_number": "295114/19-05-2017",
+      "protocol_number": "2.150623 ΕΚΠΡΟΣΩΠΗΣΗ RURAL/",
+      "type": "Συμπληρωματικά Έγγραφα",
+      "file_url": "https://silia.eett.gr/silia/download/f5f757e1-b96b-4e1d-b0d4-67fee83e679c"
+    },
+    {
+      "document_number": "295115/19-05-2017",
+      "protocol_number": "ΑΠ. ΣΥΜΒΑΣΗΣ ΔΙΚ. ΧΡΗΣΗΣ ΣΥΧΝΟΤΗΤΑΣ 3,8GHz/",
+      "type": "Συμπληρωματικά Έγγραφα",
+      "file_url": "https://silia.eett.gr/silia/download/7021034f-c35a-4fad-b4c5-da2ee405a9c3"
+    },
+    {
+      "document_number": "296360/30-05-2017",
+      "protocol_number": "3146 ΕΓΚΡΙΣΗ ΥΔΟΜ/",
+      "type": "Έγκριση δομικών κατασκευών (έντυπη)",
+      "file_url": "https://silia.eett.gr/silia/download/bc4d4f32-4cf8-4432-a5f4-65b762b5f889"
+    },
+    {
+      "document_number": "297161/09-06-2017",
+      "protocol_number": "ΤΕΛΗ ΕΚΧΩΡΗΣΗΣ 30-5-2017/",
+      "type": "Αποδεικτικό Καταβολής Τελών ΕΕΤΤ",
+      "file_url": "https://silia.eett.gr/silia/download/d8e00314-9783-4e7e-b690-7795f15b1c95"
+    },
+    {
+      "document_number": "297162/09-06-2017",
+      "protocol_number": "ΑΡ. ΠΡΩΤ. 16080_8-6-2017/",
+      "type": "Αίτηση Ραδιοσυχνοτήτων",
+      "file_url": "https://silia.eett.gr/silia/download/39dbc6d8-009e-4226-83fd-3aacbef6f6b0"
+    },
+    {
+      "document_number": "297163/09-06-2017",
+      "protocol_number": "Αρχείο Αίτησης/",
+      "type": "Αίτηση Άδειας Κατασκευής Κεραίας ΕΕΤΤ",
+      "file_url": "https://silia.eett.gr/silia/download/5d80a9f0-4fbb-432e-8dfb-9353f5d84fb9"
+    },
+    {
+      "document_number": "298271/21-06-2017",
+      "protocol_number": "Δ3/Δ/12623/4862/20-6-2017/21-06-2017",
+      "type": "Γνωμάτευση ΥΠΑ",
+      "file_url": "https://silia.eett.gr/silia/download/a24cf2a5-950d-49ae-adfa-43b13d252d47"
+    },
+    {
+      "document_number": "308113/29-09-2017",
+      "protocol_number": "ΡΑΔ_3146 ΥΨΗΛΟ ΧΩΡΙΟ_μέτρηση/",
+      "type": "Αίτηση - Μελέτη Ραδιοεκπομπών ΕΕΑΕ",
+      "file_url": "https://silia.eett.gr/silia/download/d75cc33f-e263-47ea-bc1f-84534fb8e65d"
+    },
+    {
+      "document_number": "311124/27-10-2017",
+      "protocol_number": "Μ.ι./411/13284/2017/26-10-2017",
+      "type": "Γνωμάτευση ΕΕΑΕ",
+      "file_url": "https://silia.eett.gr/silia/download/f3682cfe-9909-4246-95d6-97dbe69743bf"
+    },
+    {
+      "document_number": "311253/30-10-2017",
+      "protocol_number": "3146 ΑΡΧΙΤΕΚΤΟΝΙΚΑ ΕΓΓΕΚΡΙΜΕΝΑ/",
+      "type": "Αρχιτεκτονικά Σχέδια",
+      "file_url": "https://silia.eett.gr/silia/download/bf8e22b2-dd65-4645-9400-f0444c5bd290"
+    },
+    {
+      "document_number": "311977/06-11-2017",
+      "protocol_number": "Υ.Δ. Α.Κ. 3146/",
+      "type": "Συμπληρωματικά Έγγραφα",
+      "file_url": "https://silia.eett.gr/silia/download/9f1899a8-285b-4606-ae51-d3eb1d3f6f10"
+    },
+    {
+      "document_number": "316174/13-12-2017",
+      "protocol_number": "26222/Φ610/27-11-2017",
+      "type": "Άδεια Κατασκευής  Κεραίας",
+      "file_url": null
+    },
+    {
+      "document_number": "316175/13-12-2017",
+      "protocol_number": "26222/Φ610/27-11-2017",
+      "type": "Άδεια Κατασκευής  Κεραίας",
+      "file_url": "https://silia.eett.gr/silia/download/08052c84-d99d-449c-8e4a-f90061b3859e"
+    },
+    {
+      "document_number": "296360/30-05-2017",
+      "protocol_number": "3146 ΕΓΚΡΙΣΗ ΥΔΟΜ/",
+      "type": "Έγκριση δομικών κατασκευών (έντυπη)",
+      "file_url": "https://silia.eett.gr/silia/download/bc4d4f32-4cf8-4432-a5f4-65b762b5f889"
+    },
+    {
+      "document_number": "298115/20-06-2017",
+      "protocol_number": "1.3146 PPD/",
+      "type": "Δήλωση υπαγωγής σε ΠΠΔ και Συνοδευτικά Έγγραφα",
+      "file_url": "https://silia.eett.gr/silia/download/29d6c880-6ff4-4d81-8079-fe032b9eab05"
+    },
+    {
+      "document_number": "298116/20-06-2017",
+      "protocol_number": "Αρχείο Αίτησης/",
+      "type": "Δήλωση ΠΠΔ",
+      "file_url": "https://silia.eett.gr/silia/download/c7cb42b3-95e7-4616-bc36-31d6da1b91c7"
+    }
+  ]
+}

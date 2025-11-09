@@ -1,0 +1,45 @@
+{
+  "antenna_id": "155259",
+  "address": "4ο ΧΛΜ ΑΡΓΟΥΣ - ΝΑΥΠΛΙΟΥ",
+  "position_code": 1155892,
+  "municipality": "Άργους - Μυκηνών",
+  "code_name": "DIXONS ARGOS",
+  "region": "Πελοποννήσου",
+  "latitude": 37.619722,
+  "company": "VODAFONE",
+  "longitude": 22.761111,
+  "permit_status": "Από τα στοιχεία που τηρούνται στην Ενημερωτική Πύλη προκύπτει ότι, για τη θέση \"4ο ΧΛΜ ΑΡΓΟΥΣ - ΝΑΥΠΛΙΟΥ\" στον Δήμο Άργους - Μυκηνών Περιφέρειας  Πελοποννήσου \n\t(κωδικός αριθμός θέσης 1155892, κωδική ονομασία \"DIXONS ARGOS\") έχει κατατεθεί από την εταιρία VODAFONE\tδήλωση εγκατάστασης κατασκευής κεραίας (αριθ. πρωτ. \n\t40228/22-07-2020) που εμπίπτει στις διατάξεις της νομοθεσίας για Εγκαταστάσεις Κατασκευών Κεραιών Χαμηλής Ηλεκτρομαγνητικής Περιβαλλοντικής Όχλησης (ΕΚΚΧΟ).",
+  "measurements_eaee": "-",
+  "documents": [
+    {
+      "document_number": "412171/30-06-2020",
+      "protocol_number": "ΣΚΑΡΙΦΗΜΑ ΘΕΣΗΣ ΙΣΤΟΥ ΕΚΚΧΟ - ΚΑΤΟΨΗ - ΚΕΡΑΙΑΣ 1/",
+      "type": "Φωτογραφικό Υλικό - Σκαρίφημα",
+      "file_url": "https://silia.eett.gr/silia/download/5d90e992-59b8-4004-9a4e-2ff1e190c64f"
+    },
+    {
+      "document_number": "412172/30-06-2020",
+      "protocol_number": "ΦΩΤΟΓΡΑΦΙΑ ΘΕΣΗΣ ΚΕΡΑΙΑΣ ΕΚΚΧΟ ΑΠΟ GOOGLE EARTH/",
+      "type": "Φωτογραφικό Υλικό - Σκαρίφημα",
+      "file_url": "https://silia.eett.gr/silia/download/c4e4e738-4f00-45c4-89a0-046bfef44da8"
+    },
+    {
+      "document_number": "413618/22-07-2020",
+      "protocol_number": "Αρχείο Αίτησης/",
+      "type": "Δήλωση ΕΚΚΧΟ",
+      "file_url": "https://silia.eett.gr/silia/download/801849d2-ddce-4937-8b4e-113352be2986"
+    },
+    {
+      "document_number": "415735/03-09-2020",
+      "protocol_number": "403373/45790/5257/617/02-08-0020",
+      "type": "Γνωμοδότηση Υπηρεσίας Νεωτέρων Μνημείων",
+      "file_url": "https://silia.eett.gr/silia/download/f7f86773-67eb-4078-91fb-c4eb6aa3a774"
+    },
+    {
+      "document_number": "415739/03-09-2020",
+      "protocol_number": "404809/284180/7708/311/18-08-2020",
+      "type": "Έγκριση Αρμοδίου Φορέα",
+      "file_url": "https://silia.eett.gr/silia/download/e91e2326-27eb-4d12-a483-cddfe82b1dcf"
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "antenna_id": "175767",
+  "address": "Βαλτινό",
+  "position_code": 1142387,
+  "municipality": "Τρικκαίων",
+  "code_name": "3032387 SYZEFXIS DIMOTIKI ENOTITA VALTINO",
+  "region": "Θεσσαλίας",
+  "latitude": 39.550556,
+  "company": "VODAFONE",
+  "longitude": 21.658056,
+  "permit_status": "Από τα στοιχεία που τηρούνται στην Ενημερωτική Πύλη προκύπτει ότι, για τη θέση \"Βαλτινό\" στον Δήμο Τρικκαίων Περιφέρειας  Θεσσαλίας \n\t(κωδικός αριθμός θέσης 1142387, κωδική ονομασία \"3032387 SYZEFXIS DIMOTIKI ENOTITA VALTINO\") έχει κατατεθεί από την εταιρία VODAFONE\tδήλωση εγκατάστασης κατασκευής κεραίας (αριθ. πρωτ. \n\t57740/10-10-2024) που εμπίπτει στις διατάξεις της νομοθεσίας για Εγκαταστάσεις Κατασκευών Κεραιών Χαμηλής Ηλεκτρομαγνητικής Περιβαλλοντικής Όχλησης (ΕΚΚΧΟ).",
+  "measurements_eaee": "-",
+  "documents": [
+    {
+      "document_number": "528528/10-10-2024",
+      "protocol_number": "Φωτορεαλιστική απεικόνιση κεραίας ΕΚΚΧΟ/10-10-2024",
+      "type": "Φωτογραφικό Υλικό - Σκαρίφημα",
+      "file_url": "https://silia.eett.gr/silia/download/lsGN8EReG8acdb9ea3AGb2MHa5WkHtgAD1A2"
+    },
+    {
+      "document_number": "528529/10-10-2024",
+      "protocol_number": "Ψηφιακός χάρτης με προβολή της θέσης ΕΚΚΧΟ/10-10-2024",
+      "type": "Φωτογραφικό Υλικό - Σκαρίφημα",
+      "file_url": "https://silia.eett.gr/silia/download/glSfyeieZdgal1M1KwE3GqvgoX7bEOwugtil"
+    },
+    {
+      "document_number": "528530/10-10-2024",
+      "protocol_number": "ΜΕΛΕΤΗ ΕΚΚΧΟ/10-10-2024",
+      "type": "Άλλο",
+      "file_url": "https://silia.eett.gr/silia/download/AuH2aDfi2BXRlHgiG6GNaKB4lbUthPhp4KC6"
+    },
+    {
+      "document_number": "528532/10-10-2024",
+      "protocol_number": "Σκαρίφημα θέσης κεραίας ΕΚΚΧΟ/10-10-2024",
+      "type": "Φωτογραφικό Υλικό - Σκαρίφημα",
+      "file_url": "https://silia.eett.gr/silia/download/anpLhNoRSd3PCAoRTve5TpZAbrC4llmLTtwm"
+    },
+    {
+      "document_number": "528533/10-10-2024",
+      "protocol_number": "Αρχείο Αίτησης/10-10-2024",
+      "type": "Δήλωση ΕΚΚΧΟ",
+      "file_url": "https://silia.eett.gr/silia/download/8gWQrgQz47fgm8BXkIu2EIDntpTvGWsf8IcY"
+    }
+  ]
+}

@@ -1,0 +1,111 @@
+{
+  "antenna_id": "164270",
+  "address": "ΟΔΟΣ ΚΥΚΛΑΔΩΝ ΚΑΙ ΝΥΝ ΜΕΛΙΝΑΣ ΜΕΡΚΟΥΡΗ ΚΑΙ ΣΤΕΦΑΝΟΥ ΝΙΚΟΛΑΙΔΗ",
+  "position_code": 1219022,
+  "municipality": "Ηρακλείου Κρήτης",
+  "code_name": "MASTABAS 5",
+  "region": "Κρήτης",
+  "latitude": 35.331667,
+  "company": "NOVA Μ.Α.Ε.",
+  "longitude": 25.126667,
+  "permit_status": "Από τα στοιχεία που τηρούνται στην Ενημερωτική Πύλη προκύπτει ότι, για τη θέση \"ΟΔΟΣ ΚΥΚΛΑΔΩΝ ΚΑΙ ΝΥΝ ΜΕΛΙΝΑΣ ΜΕΡΚΟΥΡΗ ΚΑΙ ΣΤΕΦΑΝΟΥ ΝΙΚΟΛΑΙΔΗ \" στον Δήμο Ηρακλείου Κρήτης Περιφέρειας  Κρήτης \n\t(κωδικός αριθμός θέσης 1219022, κωδική ονομασία \"MASTABAS 5\") χορηγήθηκε, με την Απόφαση της ΕΕΤΤ \n45307/30-09-2022, άδεια κατασκευής κεραίας στην εταιρία NOVA Μ.Α.Ε.. \nΑπό τo έγγραφο της άδειας μπορείτε να ενημερωθείτε για τις σχετικές εγκρίσεις των συναρμόδιων φορέων, καθώς και εάν πρόκειται για τροποποίηση παλαιότερης άδειας.",
+  "measurements_eaee": "-",
+  "documents": [
+    {
+      "document_number": "461110/08-06-2022",
+      "protocol_number": "ΣΥΝΗΜΜΕΝΟΣ ΜΕ ΤΗΝ ΚΑΤΑΘΕΣΗ ΣΤΗΝ ΥΠΑ/",
+      "type": "Απόσπασμα Χάρτη ΓΥΣ 1:50.000",
+      "file_url": "https://silia.eett.gr/silia/download/2d7243a8-50ee-4cee-9591-b9d3dbb641fd"
+    },
+    {
+      "document_number": "461111/08-06-2022",
+      "protocol_number": "5874/03-06-2022",
+      "type": "Αίτηση ΓΕΑ",
+      "file_url": "https://silia.eett.gr/silia/download/a999bbc3-c9a6-412f-977a-90228f0a2e92"
+    },
+    {
+      "document_number": "461112/08-06-2022",
+      "protocol_number": "ΣΥΝΗΜΜΕΝΗ ΜΕ ΤΗΝ ΚΑΤΑΘΕΣΗ ΣΤΗΝ ΕΕΑΕ/27-05-2022",
+      "type": "Αίτηση - Μελέτη Ραδιοεκπομπών ΕΕΑΕ",
+      "file_url": "https://silia.eett.gr/silia/download/6b9bf9bb-481e-4054-94f7-df2295a9177d"
+    },
+    {
+      "document_number": "461113/08-06-2022",
+      "protocol_number": "ΣΥΝΗΜΜΕΝΑ ΜΕ ΤΗΝ ΚΑΤΑΘΕΣΗ ΣΤΗΝ ΕΕΑΕ/",
+      "type": "Αρχιτεκτονικά Σχέδια",
+      "file_url": "https://silia.eett.gr/silia/download/c3740962-2ca8-4320-bcd6-3ca2e394608e"
+    },
+    {
+      "document_number": "461114/08-06-2022",
+      "protocol_number": "ΣΥΝΗΜΜΕΝΟ ΜΕ ΤΗΝ ΚΑΤΑΘΕΣΗ ΣΤΗΝ ΕΕΑΕ/",
+      "type": "Τοπογραφικό",
+      "file_url": "https://silia.eett.gr/silia/download/e53fe958-e62d-4157-8ac8-81c3b3499bcf"
+    },
+    {
+      "document_number": "461115/08-06-2022",
+      "protocol_number": "ΣΥΝΗΜΜΕΝΗ ΜΕ ΤΗΝ ΚΑΤΑΘΕΣΗ ΣΤΗΝ ΕΕΤΤ/24-05-2022",
+      "type": "Βεβαίωση πολιτικού μηχανικού",
+      "file_url": "https://silia.eett.gr/silia/download/a32a1420-d236-4f16-b0b0-7377dbb04c18"
+    },
+    {
+      "document_number": "461125/08-06-2022",
+      "protocol_number": "Αρχείο Αίτησης/",
+      "type": "Αίτηση Άδειας Κατασκευής Κεραίας ΕΕΤΤ",
+      "file_url": "https://silia.eett.gr/silia/download/ff93b53c-37e6-4e18-92a9-a6dbd10f62d0"
+    },
+    {
+      "document_number": "463937/13-07-2022",
+      "protocol_number": "Σ1304/Φ550/ΑΔ6699/21-06-2022",
+      "type": "Γνωμάτευση ΓΕΑ",
+      "file_url": "https://silia.eett.gr/silia/download/11d93880-e2d5-4699-95f9-c6c282d24cf6"
+    },
+    {
+      "document_number": "464146/15-07-2022",
+      "protocol_number": "ΚΓ/Δ3/Δ/18875/15-07-2022",
+      "type": "Γνωμάτευση ΥΠΑ",
+      "file_url": "https://silia.eett.gr/silia/download/d31a004d-0f64-4567-811a-b6ed94a63d93"
+    },
+    {
+      "document_number": "466124/09-08-2022",
+      "protocol_number": "ΣΥΝΗΜΕΝΝΗ ΜΕ ΤΗΝ ΚΑΤΑΘΕΣΗ ΣΤΗΝ ΕΕΑΕ/09-08-2022",
+      "type": "Αίτηση - Μελέτη Ραδιοεκπομπών ΕΕΑΕ",
+      "file_url": "https://silia.eett.gr/silia/download/5cdc7d7e-2b4c-449f-b79e-b378a657b4e3"
+    },
+    {
+      "document_number": "466291/19-08-2022",
+      "protocol_number": "Mi/411/11599/18-08-2022",
+      "type": "Γνωμάτευση ΕΕΑΕ",
+      "file_url": "https://silia.eett.gr/silia/download/0e6a36f0-af60-40ed-8a23-998b34d4decd"
+    },
+    {
+      "document_number": "468825/30-09-2022",
+      "protocol_number": "45307/30-09-2022",
+      "type": "Άδεια Κατασκευής  Κεραίας",
+      "file_url": "https://silia.eett.gr/silia/download/11da5e26-6b10-4305-91a6-31495d3ab7a3"
+    },
+    {
+      "document_number": "461116/08-06-2022",
+      "protocol_number": "ΣΥΝΗΜΜΕΝΗ ΜΕ ΤΗΝ ΚΑΤΑΘΕΣΗ ΣΤΗΝ ΕΕΑΕ/27-05-2022",
+      "type": "Αίτηση - Μελέτη Ραδιοεκπομπών ΕΕΑΕ",
+      "file_url": "https://silia.eett.gr/silia/download/6b9bf9bb-481e-4054-94f7-df2295a9177d"
+    },
+    {
+      "document_number": "461117/08-06-2022",
+      "protocol_number": "ΣΥΝΗΜΜΕΝΗ ΜΕ ΤΗΝ ΚΑΤΑΘΕΣΗ ΣΤΗΝ ΕΕΤΤ/27-05-2022",
+      "type": "Αίτηση - Μελέτη Ραδιοεκπομπών ΕΕΑΕ (υποβάθρου)",
+      "file_url": "https://silia.eett.gr/silia/download/6ab3c6d6-317f-40d5-abb6-db7c57c654d3"
+    },
+    {
+      "document_number": "461118/08-06-2022",
+      "protocol_number": "ΣΥΝΗΜΜΕΝΟΣ ΜΕ ΤΗΝ ΚΑΤΑΘΕΣΗ ΣΤΗΝ ΕΕΤΤ/",
+      "type": "Χάρτης Ευαίσθητων Χρήσεων Γης",
+      "file_url": "https://silia.eett.gr/silia/download/d80e4856-470d-44b5-b12c-5238b3be6542"
+    },
+    {
+      "document_number": "461126/08-06-2022",
+      "protocol_number": "Αρχείο Αίτησης/",
+      "type": "Δήλωση ΠΠΔ",
+      "file_url": "https://silia.eett.gr/silia/download/a091bf84-c79c-4a29-a62b-ce5c32f35074"
+    }
+  ]
+}

@@ -1,0 +1,87 @@
+{
+  "antenna_id": "163003",
+  "address": "ΠΛΗΣΙΟΝ ΑΕΤΟΧΩΡΙΟΥ ΚΑΡΔΙΤΣΑΣ",
+  "position_code": 1404226,
+  "municipality": "Αργιθέας",
+  "code_name": "ΑΕΤΟΧΩΡΙ",
+  "region": "Θεσσαλίας",
+  "latitude": 39.296944,
+  "company": "OTE",
+  "longitude": 21.447778,
+  "permit_status": "Από τα στοιχεία που τηρούνται στην Ενημερωτική Πύλη προκύπτει ότι, για τη θέση \"ΠΛΗΣΙΟΝ ΑΕΤΟΧΩΡΙΟΥ ΚΑΡΔΙΤΣΑΣ\" στον Δήμο Αργιθέας Περιφέρειας  Θεσσαλίας \n\t(κωδικός αριθμός θέσης 1404226, κωδική ονομασία \"ΑΕΤΟΧΩΡΙ\") χορηγήθηκε, με την Απόφαση της ΕΕΤΤ \n43879/29-04-2022, άδεια κατασκευής κεραίας στην εταιρία OTE. \nΑπό τo έγγραφο της άδειας μπορείτε να ενημερωθείτε για τις σχετικές εγκρίσεις των συναρμόδιων φορέων, καθώς και εάν πρόκειται για τροποποίηση παλαιότερης άδειας.\nΗ άδεια χορηγήθηκε με τη διαδικασία αδειοδότησης που ορίζει ο ν. 4635/2019, κατόπιν της με αριθ. πρωτ. 47036/29-03-2022 \n\tαίτησης, και βάσει σχετικής δήλωσης του κατόχου της περί υπαγωγή της κατασκευής κεραίας στο άρθρο 34 του ν. 4635/2019.",
+  "measurements_eaee": "-",
+  "documents": [
+    {
+      "document_number": "454358/29-03-2022",
+      "protocol_number": "ΜΕΣΩ ΣΗΛΥΑ    /",
+      "type": "Τοπογραφικό",
+      "file_url": "https://silia.eett.gr/silia/download/5174fcf4-2a57-4094-8454-800bb53fca70"
+    },
+    {
+      "document_number": "454359/29-03-2022",
+      "protocol_number": "ΜΕΣΩ ΣΗΛΥΑ    /",
+      "type": "Αρχιτεκτονικά Σχέδια",
+      "file_url": "https://silia.eett.gr/silia/download/5c07cc2b-4755-4613-aff3-3b1d6c54c7bc"
+    },
+    {
+      "document_number": "454360/29-03-2022",
+      "protocol_number": "Δ3/Δ/28883/6091/23-09-2001",
+      "type": "Γνωμάτευση ΥΠΑ",
+      "file_url": "https://silia.eett.gr/silia/download/728f1c82-7729-4707-9325-913eb036db0d"
+    },
+    {
+      "document_number": "454361/29-03-2022",
+      "protocol_number": "ΜΕΣΩ ΣΗΛΥΑ    /17-02-2020",
+      "type": "Αίτηση ΥΠΑ",
+      "file_url": "https://silia.eett.gr/silia/download/25562775-eefd-458d-9957-a63337d9d8ca"
+    },
+    {
+      "document_number": "454362/29-03-2022",
+      "protocol_number": "ΥΔ ΣΥΝΕΓΚΑΤΑΣΤΑΣΗΣ ΟΤΕ/17-02-2020",
+      "type": "Άλλο",
+      "file_url": "https://silia.eett.gr/silia/download/fba868b9-1b99-4068-9565-8c90fff0dfd5"
+    },
+    {
+      "document_number": "454419/29-03-2022",
+      "protocol_number": "ΜΕΣΩ ΣΗΛΥΑ    /29-03-2022",
+      "type": "Αίτηση - Μελέτη Ραδιοεκπομπών ΕΕΑΕ",
+      "file_url": "https://silia.eett.gr/silia/download/a8fcc400-d31e-4a85-8a91-6d35f0554e89"
+    },
+    {
+      "document_number": "454443/29-03-2022",
+      "protocol_number": "Αρχείο Αίτησης/",
+      "type": "Αίτηση Άδειας Κατασκευής Κεραίας ΕΕΤΤ",
+      "file_url": "https://silia.eett.gr/silia/download/caa2f2a0-afba-4d06-a64a-2577e9356595"
+    },
+    {
+      "document_number": "456431/12-04-2022",
+      "protocol_number": "μεσω σηλυα/12-04-2022",
+      "type": "Αίτηση - Μελέτη Ραδιοεκπομπών ΕΕΑΕ",
+      "file_url": "https://silia.eett.gr/silia/download/24a62753-42bd-4e04-91bd-a07456009775"
+    },
+    {
+      "document_number": "456842/15-04-2022",
+      "protocol_number": "Μ.ι./411/ 4779 /2022/14-04-2022",
+      "type": "Γνωμάτευση ΕΕΑΕ",
+      "file_url": "https://silia.eett.gr/silia/download/7cfa42b3-a267-4147-a2a7-a662d659a709"
+    },
+    {
+      "document_number": "458392/04-05-2022",
+      "protocol_number": "43879/29-04-2022",
+      "type": "Άδεια Κατασκευής  Κεραίας",
+      "file_url": "https://silia.eett.gr/silia/download/0ce8f783-8bf8-4f42-ae77-f9645897bada"
+    },
+    {
+      "document_number": "454356/29-03-2022",
+      "protocol_number": "ΣΥΝΟΔΕΥΤΙΚΑ ΕΓΓΡΑΦΑ/",
+      "type": "Δήλωση υπαγωγής σε ΠΠΔ και Συνοδευτικά Έγγραφα",
+      "file_url": "https://silia.eett.gr/silia/download/85e0d6b0-11b2-43ea-a40f-1ff9901a5963"
+    },
+    {
+      "document_number": "454444/29-03-2022",
+      "protocol_number": "Αρχείο Αίτησης/",
+      "type": "Δήλωση ΠΠΔ",
+      "file_url": "https://silia.eett.gr/silia/download/ca77aef3-8086-40e8-8970-fdda0ddbb6c0"
+    }
+  ]
+}

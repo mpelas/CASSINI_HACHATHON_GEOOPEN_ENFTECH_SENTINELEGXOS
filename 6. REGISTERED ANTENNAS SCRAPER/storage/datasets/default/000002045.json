@@ -1,0 +1,45 @@
+{
+  "antenna_id": "169900",
+  "address": "ΚΤΙΡΙΟ ΟΤΕ ΕΝΤΟΣ ΟΙΚΙΣΜΟΥ ΑΓΙΑΣ ΤΡΙΑΔΑΣ",
+  "position_code": 30005,
+  "municipality": "Ναυπλιέων",
+  "code_name": "ΑΓΙΑ ΤΡΙΑΔΑ Τ/Κ",
+  "region": "Πελοποννήσου",
+  "latitude": 37.637778,
+  "company": "OTE",
+  "longitude": 22.8075,
+  "permit_status": "Από τα στοιχεία που τηρούνται στην Ενημερωτική Πύλη προκύπτει ότι, για τη θέση \"ΚΤΙΡΙΟ ΟΤΕ ΕΝΤΟΣ ΟΙΚΙΣΜΟΥ ΑΓΙΑΣ ΤΡΙΑΔΑΣ\" στον Δήμο Ναυπλιέων Περιφέρειας  Πελοποννήσου \n\t(κωδικός αριθμός θέσης 0030005, κωδική ονομασία \"ΑΓΙΑ ΤΡΙΑΔΑ Τ/Κ\") έχει κατατεθεί από την εταιρία OTE\tδήλωση εγκατάστασης κατασκευής κεραίας (αριθ. πρωτ. \n\t52955/26-09-2023) που εμπίπτει στις διατάξεις της νομοθεσίας για Εγκαταστάσεις Κατασκευών Κεραιών Χαμηλής Ηλεκτρομαγνητικής Περιβαλλοντικής Όχλησης (ΕΚΚΧΟ).",
+  "measurements_eaee": "-",
+  "documents": [
+    {
+      "document_number": "494385/15-09-2023",
+      "protocol_number": "ΦΩΤΟΓΡΑΦΙΑ/",
+      "type": "Φωτογραφικό Υλικό - Σκαρίφημα",
+      "file_url": "https://silia.eett.gr/silia/download/48f54fac-857e-4720-b6a8-f2bd8c492487"
+    },
+    {
+      "document_number": "495269/26-09-2023",
+      "protocol_number": "ΜΕΣΩ ΣΗΛΥΑ/",
+      "type": "Αίτηση - Μελέτη Ραδιοεκπομπών ΕΕΑΕ",
+      "file_url": "https://silia.eett.gr/silia/download/4c9ed719-d3a7-4be0-a1e0-62441fa40a6a"
+    },
+    {
+      "document_number": "495280/26-09-2023",
+      "protocol_number": "Αρχείο Αίτησης/",
+      "type": "Δήλωση ΕΚΚΧΟ",
+      "file_url": "https://silia.eett.gr/silia/download/74287f0a-efe7-426c-863e-eba69d499e34"
+    },
+    {
+      "document_number": "524382/03-09-2024",
+      "protocol_number": "ΥΠ.ΔΗΛΩΣΗ/03-09-2024",
+      "type": "Άλλο",
+      "file_url": "https://silia.eett.gr/silia/download/FN6pHVRGYhLO1rY7F9UfT8vEh8DSkusFrURI"
+    },
+    {
+      "document_number": "526593/23-09-2024",
+      "protocol_number": "23148/03-09-2024",
+      "type": "Υπεύθυνη Δήλωση Πληρότητας Φακέλου",
+      "file_url": "https://silia.eett.gr/silia/download/Gi6iEEFSbT3WoEcz8xRCR9A8W3ARVxTN3Wiz"
+    }
+  ]
+}

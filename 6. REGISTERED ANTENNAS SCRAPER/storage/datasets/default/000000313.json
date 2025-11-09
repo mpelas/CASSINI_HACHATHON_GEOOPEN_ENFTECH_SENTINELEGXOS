@@ -1,0 +1,57 @@
+{
+  "antenna_id": "169163",
+  "address": "ΑΝΑΣΤΑΣΙΑΔΗ 2 ΑΓΡΙΝΙΟ",
+  "position_code": 1270763,
+  "municipality": "Αγρινίου",
+  "code_name": "SEPHORA GREECE AGRINIO",
+  "region": "Δυτικής Ελλάδας",
+  "latitude": 38.624444,
+  "company": "NOVA Μ.Α.Ε.",
+  "longitude": 21.408889,
+  "permit_status": "Από τα στοιχεία που τηρούνται στην Ενημερωτική Πύλη προκύπτει ότι, για τη θέση \"ΑΝΑΣΤΑΣΙΑΔΗ 2 ΑΓΡΙΝΙΟ\" στον Δήμο Αγρινίου Περιφέρειας  Δυτικής Ελλάδας \n\t(κωδικός αριθμός θέσης 1270763, κωδική ονομασία \"SEPHORA GREECE AGRINIO\") έχει κατατεθεί από την εταιρία NOVA Μ.Α.Ε.\tδήλωση εγκατάστασης κατασκευής κεραίας (αριθ. πρωτ. \n\t52282/10-07-2023) που εμπίπτει στις διατάξεις της νομοθεσίας για Εγκαταστάσεις Κατασκευών Κεραιών Χαμηλής Ηλεκτρομαγνητικής Περιβαλλοντικής Όχλησης (ΕΚΚΧΟ).",
+  "measurements_eaee": "-",
+  "documents": [
+    {
+      "document_number": "489677/06-07-2023",
+      "protocol_number": "ΑΠΕΙΚΟΝΙΣΗ GOOGLE EARTH/",
+      "type": "Άλλο",
+      "file_url": "https://silia.eett.gr/silia/download/ddea5d90-9386-4a2c-ba7a-774f0b2a930d"
+    },
+    {
+      "document_number": "489678/06-07-2023",
+      "protocol_number": "ΦΩΤΟΓΡΑΦΙΑ ΕΚΚΧΟ/",
+      "type": "Φωτογραφικό Υλικό - Σκαρίφημα",
+      "file_url": "https://silia.eett.gr/silia/download/08befd22-394a-4a1d-87e3-20bb5ec5a463"
+    },
+    {
+      "document_number": "489679/06-07-2023",
+      "protocol_number": "ΣΚΑΡΙΦΗΜΑ ΕΚΚΧΟ/",
+      "type": "Φωτογραφικό Υλικό - Σκαρίφημα",
+      "file_url": "https://silia.eett.gr/silia/download/3eb59fed-d5a5-405b-a964-d5b9c3e04518"
+    },
+    {
+      "document_number": "489900/10-07-2023",
+      "protocol_number": "ΠΕΡΙΟΧΗ ΑΠΑΓΟΡΕΥΣΗΣ/",
+      "type": "Άλλο",
+      "file_url": "https://silia.eett.gr/silia/download/f013edc0-196f-4448-98ab-4927afe730d8"
+    },
+    {
+      "document_number": "489901/10-07-2023",
+      "protocol_number": "ΜΕΛΕΤΗ ΕΚΚΧΟ/",
+      "type": "Άλλο",
+      "file_url": "https://silia.eett.gr/silia/download/ad655f8c-5910-4770-8380-2e9d04c54822"
+    },
+    {
+      "document_number": "489920/10-07-2023",
+      "protocol_number": "Αρχείο Αίτησης/",
+      "type": "Δήλωση ΕΚΚΧΟ",
+      "file_url": "https://silia.eett.gr/silia/download/6ff67e59-21c9-4463-932e-235b4f3a814f"
+    },
+    {
+      "document_number": "490963/21-07-2023",
+      "protocol_number": "ΥΠΕΥΘΥΝΗ ΔΗΛΩΣΗ ΤΕΧΝΙΚΟΥ ΥΠΕΥΘΥΝΟΥ/",
+      "type": "Άλλο",
+      "file_url": "https://silia.eett.gr/silia/download/2b44b20b-81a3-40de-b58f-0595398b46ba"
+    }
+  ]
+}

@@ -1,0 +1,51 @@
+{
+  "antenna_id": "171216",
+  "address": "Eργοτάξιο εντός πρώην Ανατολικού Αεροδρομίου Ελληνικού.",
+  "position_code": 1141586,
+  "municipality": "Ελληνικού - Αργυρούπολης",
+  "code_name": "3031586 INTRAKAT ELLINIKO",
+  "region": "Αττικής",
+  "latitude": 37.898333,
+  "company": "VODAFONE",
+  "longitude": 23.733611,
+  "permit_status": "Από τα στοιχεία που τηρούνται στην Ενημερωτική Πύλη προκύπτει ότι, για τη θέση \"Eργοτάξιο εντός πρώην Ανατολικού Αεροδρομίου Ελληνικού.\" στον Δήμο Ελληνικού - Αργυρούπολης Περιφέρειας  Αττικής \n\t(κωδικός αριθμός θέσης 1141586, κωδική ονομασία \"3031586 INTRAKAT ELLINIKO\") έχει κατατεθεί από την εταιρία VODAFONE\tδήλωση εγκατάστασης κατασκευής κεραίας (αριθ. πρωτ. \n\t54015/30-11-2023) που εμπίπτει στις διατάξεις της νομοθεσίας για Εγκαταστάσεις Κατασκευών Κεραιών Χαμηλής Ηλεκτρομαγνητικής Περιβαλλοντικής Όχλησης (ΕΚΚΧΟ).",
+  "measurements_eaee": "-",
+  "documents": [
+    {
+      "document_number": "501759/28-11-2023",
+      "protocol_number": "Φωτορεαλιστική απεικόνιση κεραιας  ΕΚΚΧΟ/",
+      "type": "Φωτογραφικό Υλικό - Σκαρίφημα",
+      "file_url": "https://silia.eett.gr/silia/download/e43b512d-3f7d-44e5-940b-7e1409ef5c15"
+    },
+    {
+      "document_number": "501760/28-11-2023",
+      "protocol_number": "Ψηφιακός Χάρτης με προβολή της θέσης της κεραίας ΕΚΚΧΟ/",
+      "type": "Φωτογραφικό Υλικό - Σκαρίφημα",
+      "file_url": "https://silia.eett.gr/silia/download/9cd5d177-3742-498d-b5fa-91fa2243a1d2"
+    },
+    {
+      "document_number": "502077/30-11-2023",
+      "protocol_number": "Μελέτη ΕΚΚΧΟ/30-11-2023",
+      "type": "Άλλο",
+      "file_url": "https://silia.eett.gr/silia/download/e2908650-9826-450d-a9a3-e1b4b48f7c3c"
+    },
+    {
+      "document_number": "502078/30-11-2023",
+      "protocol_number": "Σκαρίφημα με περιοχή απαγόρευσης/",
+      "type": "Φωτογραφικό Υλικό - Σκαρίφημα",
+      "file_url": "https://silia.eett.gr/silia/download/e4cec8be-db14-4521-a5d6-9c845e8c7673"
+    },
+    {
+      "document_number": "502079/30-11-2023",
+      "protocol_number": "Αρχείο Αίτησης/",
+      "type": "Δήλωση ΕΚΚΧΟ",
+      "file_url": "https://silia.eett.gr/silia/download/5022d2b4-4594-442b-b97a-6f7299dcd94c"
+    },
+    {
+      "document_number": "504669/12-01-2024",
+      "protocol_number": "ΥΔ εγκατάστασης/12-01-2024",
+      "type": "Άλλο",
+      "file_url": "https://silia.eett.gr/silia/download/88f9d181-89da-4f7c-a2e2-54d14a3798b8"
+    }
+  ]
+}

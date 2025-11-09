@@ -1,0 +1,87 @@
+{
+  "antenna_id": "164744",
+  "address": "ΥΨΩΜΑ \"ΚΟΚΚΑΛΗ\", ΡΑΧΗ",
+  "position_code": 1402284,
+  "municipality": "Δωρίδος",
+  "code_name": "ΠΟΤΙΔΙΑΝΑ Π/Κ",
+  "region": "Στερεάς Ελλάδας",
+  "latitude": 38.550278,
+  "company": "OTE",
+  "longitude": 22.105,
+  "permit_status": "Από τα στοιχεία που τηρούνται στην Ενημερωτική Πύλη προκύπτει ότι, για τη θέση \"ΥΨΩΜΑ \"ΚΟΚΚΑΛΗ\", ΡΑΧΗ\" στον Δήμο Δωρίδος Περιφέρειας  Στερεάς Ελλάδας \n\t(κωδικός αριθμός θέσης 1402284, κωδική ονομασία \"ΠΟΤΙΔΙΑΝΑ Π/Κ\") χορηγήθηκε, με την Απόφαση της ΕΕΤΤ \n45979/23-11-2022, άδεια κατασκευής κεραίας στην εταιρία OTE. \nΑπό τo έγγραφο της άδειας μπορείτε να ενημερωθείτε για τις σχετικές εγκρίσεις των συναρμόδιων φορέων, καθώς και εάν πρόκειται για τροποποίηση παλαιότερης άδειας.",
+  "measurements_eaee": "-",
+  "documents": [
+    {
+      "document_number": "463837/12-07-2022",
+      "protocol_number": "ΜΕΣΩ ΣΗΛΥΑ    /",
+      "type": "Τοπογραφικό",
+      "file_url": "https://silia.eett.gr/silia/download/e5c4446e-4a37-46a4-a14f-68227e9fcbaa"
+    },
+    {
+      "document_number": "463838/12-07-2022",
+      "protocol_number": "ΜΕΣΩ ΣΗΛΥΑ    /",
+      "type": "Αρχιτεκτονικά Σχέδια",
+      "file_url": "https://silia.eett.gr/silia/download/753de3ff-a2ab-467c-95ee-5c9affbd44fd"
+    },
+    {
+      "document_number": "463839/12-07-2022",
+      "protocol_number": "ΜΕΣΩ ΣΗΛΥΑ    /24-06-2022",
+      "type": "Αίτηση - Μελέτη Ραδιοεκπομπών ΕΕΑΕ",
+      "file_url": "https://silia.eett.gr/silia/download/c25c598c-46ac-46d8-acdf-a7e169d948ce"
+    },
+    {
+      "document_number": "463840/12-07-2022",
+      "protocol_number": "Δ3/Δ/14088/3204/07-10-2002",
+      "type": "Γνωμάτευση ΥΠΑ",
+      "file_url": "https://silia.eett.gr/silia/download/5a3f1ef9-eb1e-441b-82ee-29cce62bfe10"
+    },
+    {
+      "document_number": "463841/12-07-2022",
+      "protocol_number": "ΜΕΣΩ ΣΗΛΥΑ    /12-07-2022",
+      "type": "Αίτηση ΥΠΑ",
+      "file_url": "https://silia.eett.gr/silia/download/6d0cb6fb-0cda-4cb7-a9a1-a1604b63dd77"
+    },
+    {
+      "document_number": "463842/12-07-2022",
+      "protocol_number": "ΥΔ ΣΥΝΕΓΚΑΤΑΣΤΑΣΗΣ ΟΤΕ/12-07-2022",
+      "type": "Άλλο",
+      "file_url": "https://silia.eett.gr/silia/download/d41a9a5a-63f7-4e98-80ca-4f8a2eb19a0c"
+    },
+    {
+      "document_number": "463847/12-07-2022",
+      "protocol_number": "Αρχείο Αίτησης/",
+      "type": "Αίτηση Άδειας Κατασκευής Κεραίας ΕΕΤΤ",
+      "file_url": "https://silia.eett.gr/silia/download/9614fb5e-bedf-44d4-a586-f19743415226"
+    },
+    {
+      "document_number": "466222/10-08-2022",
+      "protocol_number": "179346/4796/03-08-2022",
+      "type": "Επιστολή Κοινοποίησης Τυποποιημένης Αίτησης σε Αρμόδια Αρχή",
+      "file_url": "https://silia.eett.gr/silia/download/cd8e7b8b-b945-45a2-87ae-cd380c667815"
+    },
+    {
+      "document_number": "471376/31-10-2022",
+      "protocol_number": "TMIA/411/15007/2022/31-10-2022",
+      "type": "Γνωμάτευση ΕΕΑΕ",
+      "file_url": "https://silia.eett.gr/silia/download/1d674b6e-64f8-4946-8b74-e366f3a4552b"
+    },
+    {
+      "document_number": "473654/28-11-2022",
+      "protocol_number": "45979/23-11-2022",
+      "type": "Άδεια Κατασκευής  Κεραίας",
+      "file_url": "https://silia.eett.gr/silia/download/b197b8c9-e491-439e-817a-bd985b503bae"
+    },
+    {
+      "document_number": "463843/12-07-2022",
+      "protocol_number": "ΣΥΝΟΔΕΥΤΙΚΑ ΕΓΓΡΑΦΑ/",
+      "type": "Δήλωση υπαγωγής σε ΠΠΔ και Συνοδευτικά Έγγραφα",
+      "file_url": "https://silia.eett.gr/silia/download/0b7a6a6e-7bca-4e8e-8161-a5215c9a11f5"
+    },
+    {
+      "document_number": "463848/12-07-2022",
+      "protocol_number": "Αρχείο Αίτησης/",
+      "type": "Δήλωση ΠΠΔ",
+      "file_url": "https://silia.eett.gr/silia/download/f51a0d5c-6047-4db3-9b73-3a2880163952"
+    }
+  ]
+}

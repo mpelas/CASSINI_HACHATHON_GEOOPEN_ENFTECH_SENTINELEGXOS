@@ -1,0 +1,51 @@
+{
+  "antenna_id": "176193",
+  "address": "ΝΟΤΑΡΑ 9 ΠΑΤΡΑ",
+  "position_code": 1271293,
+  "municipality": "Πατρέων",
+  "code_name": "LIDL PΑΤΡΑ (J293)",
+  "region": "Δυτικής Ελλάδας",
+  "latitude": 38.263333,
+  "company": "NOVA Μ.Α.Ε.",
+  "longitude": 21.743056,
+  "permit_status": "Από τα στοιχεία που τηρούνται στην Ενημερωτική Πύλη προκύπτει ότι, για τη θέση \"ΝΟΤΑΡΑ 9 ΠΑΤΡΑ\" στον Δήμο Πατρέων Περιφέρειας  Δυτικής Ελλάδας \n\t(κωδικός αριθμός θέσης 1271293, κωδική ονομασία \"LIDL PΑΤΡΑ (J293)\") έχει κατατεθεί από την εταιρία NOVA Μ.Α.Ε.\tδήλωση εγκατάστασης κατασκευής κεραίας (αριθ. πρωτ. \n\t58194/06-11-2024) που εμπίπτει στις διατάξεις της νομοθεσίας για Εγκαταστάσεις Κατασκευών Κεραιών Χαμηλής Ηλεκτρομαγνητικής Περιβαλλοντικής Όχλησης (ΕΚΚΧΟ).",
+  "measurements_eaee": "-",
+  "documents": [
+    {
+      "document_number": "531448/05-11-2024",
+      "protocol_number": "Φωτορεαλιστική απεικόνιση κεραίας ΕΚΚΧΟ/05-11-2024",
+      "type": "Φωτογραφικό Υλικό - Σκαρίφημα",
+      "file_url": "https://silia.eett.gr/silia/download/7621aD4BXnide0T6lAm2lYkp9suzVYzZ09G0"
+    },
+    {
+      "document_number": "531449/05-11-2024",
+      "protocol_number": "Ψηφιακός χάρτης με προβολή της θέσης ΕΚΚΧΟ/05-11-2024",
+      "type": "Φωτογραφικό Υλικό - Σκαρίφημα",
+      "file_url": "https://silia.eett.gr/silia/download/NkbykqPyGoI0V09LQpmWf3Iaf9u0whRYA7gk"
+    },
+    {
+      "document_number": "531464/05-11-2024",
+      "protocol_number": "Σκαρίφημα με περιοχή απαγόρευσης/05-11-2024",
+      "type": "Φωτογραφικό Υλικό - Σκαρίφημα",
+      "file_url": "https://silia.eett.gr/silia/download/MnUBaYFASTFmG4n7Fmr7BCu2G36LOIpT3aUY"
+    },
+    {
+      "document_number": "531474/06-11-2024",
+      "protocol_number": "ΜΕΛΕΤΗ ΕΚΚΧΟ/06-11-2024",
+      "type": "Άλλο",
+      "file_url": "https://silia.eett.gr/silia/download/xQZrPIwpoI5vYdWNhvYNa4RoGLvMrnh31oda"
+    },
+    {
+      "document_number": "531475/06-11-2024",
+      "protocol_number": "Αρχείο Αίτησης/06-11-2024",
+      "type": "Δήλωση ΕΚΚΧΟ",
+      "file_url": "https://silia.eett.gr/silia/download/kGA9kaMXpxWUcN5EC4EC5DHwziYopRb6oTTx"
+    },
+    {
+      "document_number": "536147/19-12-2024",
+      "protocol_number": "ΥΔ ΕΓΚΑΤΑΣΤΑΣΗΣ/19-12-2024",
+      "type": "Άλλο",
+      "file_url": "https://silia.eett.gr/silia/download/qMDlxdgsc8edCbdySzhZW5G2n1tclyTTh67H"
+    }
+  ]
+}

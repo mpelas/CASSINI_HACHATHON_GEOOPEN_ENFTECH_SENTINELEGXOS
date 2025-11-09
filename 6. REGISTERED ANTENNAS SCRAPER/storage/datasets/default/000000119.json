@@ -1,0 +1,33 @@
+{
+  "antenna_id": "159362",
+  "address": "ΛΕΩΦΟΡΟΣ ΜΕΣΟΓΕΙΩΝ 312, ΑΓΙΑ ΠΑΡΑΣΚΕΥΗ.",
+  "position_code": 1157740,
+  "municipality": "Αγίας Παρασκευής",
+  "code_name": "SPACE HELLAS MESSOGEION",
+  "region": "Αττικής",
+  "latitude": 38.008889,
+  "company": "VODAFONE",
+  "longitude": 23.805833,
+  "permit_status": "Από τα στοιχεία που τηρούνται στην Ενημερωτική Πύλη προκύπτει ότι, για τη θέση \"ΛΕΩΦΟΡΟΣ ΜΕΣΟΓΕΙΩΝ 312, ΑΓΙΑ ΠΑΡΑΣΚΕΥΗ.\" στον Δήμο Αγίας Παρασκευής Περιφέρειας  Αττικής \n\t(κωδικός αριθμός θέσης 1157740, κωδική ονομασία \"SPACE HELLAS MESSOGEION\") έχει κατατεθεί από την εταιρία VODAFONE\tδήλωση εγκατάστασης κατασκευής κεραίας (αριθ. πρωτ. \n\t44063/25-06-2021) που εμπίπτει στις διατάξεις της νομοθεσίας για Εγκαταστάσεις Κατασκευών Κεραιών Χαμηλής Ηλεκτρομαγνητικής Περιβαλλοντικής Όχλησης (ΕΚΚΧΟ).",
+  "measurements_eaee": "-",
+  "documents": [
+    {
+      "document_number": "436976/25-06-2021",
+      "protocol_number": "ΣΚΑΡΙΦΗΜΑ ΘΕΣΗΣ ΙΣΤΟΥ ΕΚΚΧΟ - ΚΑΤΟΨΗ ΚΕΡΑΙΑΣ/",
+      "type": "Φωτογραφικό Υλικό - Σκαρίφημα",
+      "file_url": "https://silia.eett.gr/silia/download/fdecac70-163d-4082-afac-a7d137671502"
+    },
+    {
+      "document_number": "436993/25-06-2021",
+      "protocol_number": "Φωτογραφία θέσης ΕΚΚΧΟ από Google Earth/",
+      "type": "Φωτογραφικό Υλικό - Σκαρίφημα",
+      "file_url": "https://silia.eett.gr/silia/download/d7d7854b-714a-42dd-b16f-0f9a5c13d0c1"
+    },
+    {
+      "document_number": "436994/25-06-2021",
+      "protocol_number": "Αρχείο Αίτησης/",
+      "type": "Δήλωση ΕΚΚΧΟ",
+      "file_url": "https://silia.eett.gr/silia/download/f4af33a7-9d61-40de-bfcd-e0d17969a540"
+    }
+  ]
+}

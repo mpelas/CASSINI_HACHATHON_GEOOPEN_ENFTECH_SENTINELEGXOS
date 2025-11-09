@@ -1,0 +1,63 @@
+{
+  "antenna_id": "174711",
+  "address": "Παραλία Αγίας Παρασκευής, Αλεξανδρούπολη",
+  "position_code": 1137616,
+  "municipality": "Αλεξανδρούπολης",
+  "code_name": "ALEXANDROUPOLI AG. PARASKEVI BEACH 2",
+  "region": "Ανατ. Μακεδονίας και Θράκης",
+  "latitude": 40.848056,
+  "company": "VODAFONE",
+  "longitude": 25.723611,
+  "permit_status": "Από τα στοιχεία που τηρούνται στην Ενημερωτική Πύλη προκύπτει ότι, για τη θέση \"Παραλία Αγίας Παρασκευής, Αλεξανδρούπολη\" στον Δήμο Αλεξανδρούπολης Περιφέρειας  Ανατ. Μακεδονίας και Θράκης \n\t(κωδικός αριθμός θέσης 1137616, κωδική ονομασία \"ALEXANDROUPOLI AG. PARASKEVI BEACH 2\") έχει κατατεθεί από την εταιρία VODAFONE\tδήλωση εγκατάστασης κατασκευής κεραίας (αριθ. πρωτ. \n\t56889/31-07-2024) που εμπίπτει στις διατάξεις της νομοθεσίας για Εγκαταστάσεις Κατασκευών Κεραιών Χαμηλής Ηλεκτρομαγνητικής Περιβαλλοντικής Όχλησης (ΕΚΚΧΟ).",
+  "measurements_eaee": "-",
+  "documents": [
+    {
+      "document_number": "522540/31-07-2024",
+      "protocol_number": "Φωτορεαλιστική απεικόνιση Ιστού 1 ΕΚΚΧΟ/31-07-2024",
+      "type": "Φωτογραφικό Υλικό - Σκαρίφημα",
+      "file_url": "https://silia.eett.gr/silia/download/V5XSA4cDfQgrQRcx2QFnOWx52HwgdpLhhd9G"
+    },
+    {
+      "document_number": "522541/31-07-2024",
+      "protocol_number": "Φωτορεαλιστική απεικόνιση Υποδέκτη mw ΕΚΚΧΟ/31-07-2024",
+      "type": "Φωτογραφικό Υλικό - Σκαρίφημα",
+      "file_url": "https://silia.eett.gr/silia/download/XCZm2PZAWHkghrUzB4NRY36w1WpS2YxCLHic"
+    },
+    {
+      "document_number": "522542/31-07-2024",
+      "protocol_number": "Ψηφιακός χάρτης με προβολή της θέσης ΕΚΚΧΟ/31-07-2024",
+      "type": "Φωτογραφικό Υλικό - Σκαρίφημα",
+      "file_url": "https://silia.eett.gr/silia/download/pGX9g8y2g7f97borHyguiCUs7E8gpZCB9zlG"
+    },
+    {
+      "document_number": "522543/31-07-2024",
+      "protocol_number": "Μελέτη ΕΚΚΧΟ/31-07-2024",
+      "type": "Άλλο",
+      "file_url": "https://silia.eett.gr/silia/download/EwKrYnGXz9wYUvqHF10bcDPOqYrRqDUf1Gc7"
+    },
+    {
+      "document_number": "522544/31-07-2024",
+      "protocol_number": "Αρχείο Αίτησης/31-07-2024",
+      "type": "Δήλωση ΕΚΚΧΟ",
+      "file_url": "https://silia.eett.gr/silia/download/OyirYhGgDL9CvTKICAmma0pHaAPseopeeX6l"
+    },
+    {
+      "document_number": "524124/30-08-2024",
+      "protocol_number": "ΥΔ κοινής χρήσης NOVA/31-07-2024",
+      "type": "Άλλο",
+      "file_url": "https://silia.eett.gr/silia/download/GOnbTUIKwRGTagZnAd24b8pu7cEhoGxEg9wz"
+    },
+    {
+      "document_number": "524132/30-08-2024",
+      "protocol_number": "Αρχιτεκτονικά σχέδια ΕΚΚΧΟ/10-04-2024",
+      "type": "Αρχιτεκτονικά Σχέδια",
+      "file_url": "https://silia.eett.gr/silia/download/8VdgYdNFz99QWHUEAWzg24pkXoGDk4dFSvyG"
+    },
+    {
+      "document_number": "543018/07-03-2025",
+      "protocol_number": "ΥΔ Εγκατάστασης/07-03-2025",
+      "type": "Άλλο",
+      "file_url": "https://silia.eett.gr/silia/download/0wE6e56qRZSyPTpePMI7E5R72Gr3Nb23lSG1"
+    }
+  ]
+}

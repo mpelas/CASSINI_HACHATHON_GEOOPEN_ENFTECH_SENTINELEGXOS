@@ -1,0 +1,51 @@
+{
+  "antenna_id": "173952",
+  "address": "ΜΠΟΡΣΑΣ ΑΡΓΟΛΙΔΑΣ",
+  "position_code": 1275188,
+  "municipality": "Άργους - Μυκηνών",
+  "code_name": "ERT MPORSA (K188)",
+  "region": "Πελοποννήσου",
+  "latitude": 37.747778,
+  "company": "NOVA Μ.Α.Ε.",
+  "longitude": 22.674722,
+  "permit_status": "Από τα στοιχεία που τηρούνται στην Ενημερωτική Πύλη προκύπτει ότι, για τη θέση \"ΜΠΟΡΣΑΣ ΑΡΓΟΛΙΔΑΣ\" στον Δήμο Άργους - Μυκηνών Περιφέρειας  Πελοποννήσου \n\t(κωδικός αριθμός θέσης 1275188, κωδική ονομασία \"ERT MPORSA (K188)\") έχει κατατεθεί από την εταιρία NOVA Μ.Α.Ε.\tδήλωση εγκατάστασης κατασκευής κεραίας (αριθ. πρωτ. \n\t56316/18-06-2024) που εμπίπτει στις διατάξεις της νομοθεσίας για Εγκαταστάσεις Κατασκευών Κεραιών Χαμηλής Ηλεκτρομαγνητικής Περιβαλλοντικής Όχλησης (ΕΚΚΧΟ).",
+  "measurements_eaee": "-",
+  "documents": [
+    {
+      "document_number": "518191/18-06-2024",
+      "protocol_number": "Φωτορεαλιστική απεικόνιση κεραίας ΕΚΚΧΟ/18-06-2024",
+      "type": "Φωτογραφικό Υλικό - Σκαρίφημα",
+      "file_url": "https://silia.eett.gr/silia/download/ZErtlQgMpfAVQ7X6a0pEwzRe2fkvrvzen0PP"
+    },
+    {
+      "document_number": "518192/18-06-2024",
+      "protocol_number": "Ψηφιακός χάρτης με προβολή της θέσης ΕΚΚΧΟ/18-06-2024",
+      "type": "Φωτογραφικό Υλικό - Σκαρίφημα",
+      "file_url": "https://silia.eett.gr/silia/download/siQo2TlMlK68ihZNKPqXS2WxKWPfoLpPgoqW"
+    },
+    {
+      "document_number": "518199/18-06-2024",
+      "protocol_number": "ΜΕΛΕΤΗ ΕΚΚΧΟ/18-06-2024",
+      "type": "Άλλο",
+      "file_url": "https://silia.eett.gr/silia/download/logaLci0AfS1afa4Z996c7RQUNS1XDhf298d"
+    },
+    {
+      "document_number": "518204/18-06-2024",
+      "protocol_number": "Σκαρίφημα με περιοχή απαγόρευσης/18-06-2024",
+      "type": "Φωτογραφικό Υλικό - Σκαρίφημα",
+      "file_url": "https://silia.eett.gr/silia/download/G8wcFfNKtC4UDmSiIsClfqZTZxiyA51fAX0p"
+    },
+    {
+      "document_number": "518207/18-06-2024",
+      "protocol_number": "Αρχείο Αίτησης/18-06-2024",
+      "type": "Δήλωση ΕΚΚΧΟ",
+      "file_url": "https://silia.eett.gr/silia/download/vcrs52gEWahhDXl7eKBYhBoKKZcYuzuWbW6Z"
+    },
+    {
+      "document_number": "529039/16-10-2024",
+      "protocol_number": "ΥΔ ΕΓΚΑΤΑΣΤΑΣΗΣ/16-10-2024",
+      "type": "Άλλο",
+      "file_url": "https://silia.eett.gr/silia/download/MYAL8icuNSixxTf2UnwnsWZA7gyEnBpzfp9X"
+    }
+  ]
+}

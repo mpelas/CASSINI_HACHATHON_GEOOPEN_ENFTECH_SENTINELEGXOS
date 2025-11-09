@@ -1,0 +1,39 @@
+{
+  "antenna_id": "169772",
+  "address": "ΛΑΕΡΤΟΥ 6, ΚΑΛΑΜΑΡΙΑ-ΦΟΙΝΙΚΑΣ ΘΕΣΣΑΛΟΝΙΚΗΣ",
+  "position_code": 1496246,
+  "municipality": "Πυλαίας - Χορτιάτη",
+  "code_name": "HOL_PAPAIOANNOU_THES",
+  "region": "Κεντρικής Μακεδονίας",
+  "latitude": 40.556111,
+  "company": "OTE",
+  "longitude": 22.983056,
+  "permit_status": "Από τα στοιχεία που τηρούνται στην Ενημερωτική Πύλη προκύπτει ότι, για τη θέση \"ΛΑΕΡΤΟΥ 6, ΚΑΛΑΜΑΡΙΑ-ΦΟΙΝΙΚΑΣ ΘΕΣΣΑΛΟΝΙΚΗΣ\" στον Δήμο Πυλαίας - Χορτιάτη Περιφέρειας  Κεντρικής Μακεδονίας \n\t(κωδικός αριθμός θέσης 1496246, κωδική ονομασία \"HOL_PAPAIOANNOU_THES\") έχει κατατεθεί από την εταιρία OTE\tδήλωση εγκατάστασης κατασκευής κεραίας (αριθ. πρωτ. \n\t57598/02-10-2024) που εμπίπτει στις διατάξεις της νομοθεσίας για Εγκαταστάσεις Κατασκευών Κεραιών Χαμηλής Ηλεκτρομαγνητικής Περιβαλλοντικής Όχλησης (ΕΚΚΧΟ).",
+  "measurements_eaee": "-",
+  "documents": [
+    {
+      "document_number": "493659/05-09-2023",
+      "protocol_number": "ΦΩΤΟΓΡΑΦΙΑ/",
+      "type": "Φωτογραφικό Υλικό - Σκαρίφημα",
+      "file_url": "https://silia.eett.gr/silia/download/f1dda245-be07-4b9a-a8f1-1d4841e50742"
+    },
+    {
+      "document_number": "527482/02-10-2024",
+      "protocol_number": "ΜΕΛΕΤΗ/02-10-2024",
+      "type": "Αίτηση - Μελέτη Ραδιοεκπομπών ΕΕΑΕ",
+      "file_url": "https://silia.eett.gr/silia/download/PBSZqCQ2TfX18dqfuhgtdXbtOaeh7GqNpBpx"
+    },
+    {
+      "document_number": "527553/02-10-2024",
+      "protocol_number": "Αρχείο Αίτησης/02-10-2024",
+      "type": "Δήλωση ΕΚΚΧΟ",
+      "file_url": "https://silia.eett.gr/silia/download/EHUi5kigTSP715E6ZyfqdcRXzGfg3WmgDrdB"
+    },
+    {
+      "document_number": "538965/27-01-2025",
+      "protocol_number": "ΥΠ.ΔΗΛΩΣΗ/27-01-2025",
+      "type": "Άλλο",
+      "file_url": "https://silia.eett.gr/silia/download/fUPslRhw7pn0EEHPrVYUcbQaaPgM5gFNVS6O"
+    }
+  ]
+}

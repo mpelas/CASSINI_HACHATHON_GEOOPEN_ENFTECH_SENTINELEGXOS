@@ -1,0 +1,27 @@
+{
+  "antenna_id": "160862",
+  "address": "ΣΚΥΡΟΣ",
+  "position_code": 3006560,
+  "municipality": "Σκύρου",
+  "code_name": "ΣΚΥΡΟΣ Μ",
+  "region": "Στερεάς Ελλάδας",
+  "latitude": 38.885278,
+  "company": "DIGEA",
+  "longitude": 24.547222,
+  "permit_status": "Από τα στοιχεία που τηρούνται στην Ενημερωτική Πύλη προκύπτει ότι για τη  θέση \"ΣΚΥΡΟΣ\" στον Δήμο Σκύρου Περιφέρειας  Στερεάς Ελλάδας έχει κατατεθεί από την εταιρία DIGEA δήλωση κατασκευής κεραίας τηλεοπτικής ευρυεκπομπής με αριθ. πρωτ. ΣΗΛΥΑ \n45216/19-10-2021 κατά τα οριζόμενα στην παρ. 7 του άρθρου 39 του Ν.4635/2019.",
+  "measurements_eaee": "-",
+  "documents": [
+    {
+      "document_number": "444332/19-10-2021",
+      "protocol_number": "ΜΕΣΩ ΣΗΛΥΑ/",
+      "type": "Αίτηση ΥΠΑ",
+      "file_url": "https://silia.eett.gr/silia/download/177af54a-c15f-4add-bda6-43f1858d6bd1"
+    },
+    {
+      "document_number": "444333/19-10-2021",
+      "protocol_number": "Αρχείο Αίτησης/",
+      "type": "Δήλωση Τηλεοπτικής Ευρυεκπομπής",
+      "file_url": "https://silia.eett.gr/silia/download/c0abaee8-9172-4cc9-b0f6-e1465d07339b"
+    }
+  ]
+}

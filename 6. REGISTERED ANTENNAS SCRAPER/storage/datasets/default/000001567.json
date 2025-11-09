@@ -1,0 +1,81 @@
+{
+  "antenna_id": "160092",
+  "address": "ΠΟΝΤΟΥ 5",
+  "position_code": 1012146,
+  "municipality": "Εορδαίας",
+  "code_name": "ΠΤΟΛΕΜΑΪΔΑ ΚΕΝΤΡΟ 2",
+  "region": "Δυτικής Μακεδονίας",
+  "latitude": 40.514167,
+  "company": "VODAFONE",
+  "longitude": 21.679167,
+  "permit_status": "Από τα στοιχεία που τηρούνται στην Ενημερωτική Πύλη προκύπτει ότι, για τη θέση \"ΠΟΝΤΟΥ 5\" στον Δήμο Εορδαίας Περιφέρειας  Δυτικής Μακεδονίας \n\t(κωδικός αριθμός θέσης 1012146, κωδική ονομασία \"ΠΤΟΛΕΜΑΪΔΑ ΚΕΝΤΡΟ 2\") χορηγήθηκε, με την Απόφαση της ΕΕΤΤ \n42732/22-12-2021, άδεια κατασκευής κεραίας στην εταιρία VODAFONE. \nΑπό τo έγγραφο της άδειας μπορείτε να ενημερωθείτε για τις σχετικές εγκρίσεις των συναρμόδιων φορέων, καθώς και εάν πρόκειται για τροποποίηση παλαιότερης άδειας.\nΗ άδεια χορηγήθηκε με τη διαδικασία αδειοδότησης που ορίζει ο ν. 4635/2019, κατόπιν της με αριθ. πρωτ. 44725/23-09-2021 \n\tαίτησης, και βάσει σχετικής δήλωσης του κατόχου της περί υπαγωγή της κατασκευής κεραίας στο άρθρο 34 του ν. 4635/2019.",
+  "measurements_eaee": "-",
+  "documents": [
+    {
+      "document_number": "441522/23-09-2021",
+      "protocol_number": "Τοπογραφικό Διάγραμμα/",
+      "type": "Τοπογραφικό",
+      "file_url": "https://silia.eett.gr/silia/download/42816013-cc71-4fe7-93c6-cebdf86a5d02"
+    },
+    {
+      "document_number": "441523/23-09-2021",
+      "protocol_number": "Αρχιτεκτονική Μελέτη/",
+      "type": "Αρχιτεκτονικά Σχέδια",
+      "file_url": "https://silia.eett.gr/silia/download/668c99c6-5f57-429d-bd29-fba4e304cf7e"
+    },
+    {
+      "document_number": "441524/23-09-2021",
+      "protocol_number": "Δ3/Δ/7454/1376\t/27-02-2004",
+      "type": "Γνωμάτευση ΥΠΑ",
+      "file_url": "https://silia.eett.gr/silia/download/1a0419db-2023-4acf-94e4-218bc432a8c1"
+    },
+    {
+      "document_number": "441525/23-09-2021",
+      "protocol_number": "Μελέτη ραδιοεκπομπών/13-12-2013",
+      "type": "Αίτηση - Μελέτη Ραδιοεκπομπών ΕΕΑΕ",
+      "file_url": "https://silia.eett.gr/silia/download/5d7fceb8-1c8b-4615-876b-6921637467b3"
+    },
+    {
+      "document_number": "441526/23-09-2021",
+      "protocol_number": "Μ.ι./411/1307\t/22-09-2014",
+      "type": "Γνωμάτευση ΕΕΑΕ",
+      "file_url": "https://silia.eett.gr/silia/download/bb981628-6266-4966-9f9c-88b5ce8cf7b6"
+    },
+    {
+      "document_number": "441529/23-09-2021",
+      "protocol_number": "Αρχείο Αίτησης/",
+      "type": "Αίτηση Άδειας Κατασκευής Κεραίας ΕΕΤΤ",
+      "file_url": "https://silia.eett.gr/silia/download/67967a8d-d5ab-49c5-9184-2b196a78c405"
+    },
+    {
+      "document_number": "444599/21-10-2021",
+      "protocol_number": "Μ.ι./411/19337/2021/21-10-2021",
+      "type": "Γνωμάτευση ΕΕΑΕ",
+      "file_url": "https://silia.eett.gr/silia/download/be461c0c-60de-4bb5-b8eb-9688d637857b"
+    },
+    {
+      "document_number": "448519/22-12-2021",
+      "protocol_number": "42732/22-12-2021",
+      "type": "Άδεια Κατασκευής  Κεραίας",
+      "file_url": "https://silia.eett.gr/silia/download/04c13d93-71c8-43e8-ac62-c35df6ad8fa8"
+    },
+    {
+      "document_number": "441527/23-09-2021",
+      "protocol_number": "Μελέτη ραδιοεκπομπών/13-12-2013",
+      "type": "Αίτηση - Μελέτη Ραδιοεκπομπών ΕΕΑΕ",
+      "file_url": "https://silia.eett.gr/silia/download/5d7fceb8-1c8b-4615-876b-6921637467b3"
+    },
+    {
+      "document_number": "441528/23-09-2021",
+      "protocol_number": "Συνοδευτικά Έγγραφα ΠΠΔ/",
+      "type": "Δήλωση υπαγωγής σε ΠΠΔ και Συνοδευτικά Έγγραφα",
+      "file_url": "https://silia.eett.gr/silia/download/ce33262d-5ecd-43a8-85e7-ee45e58af701"
+    },
+    {
+      "document_number": "441530/23-09-2021",
+      "protocol_number": "Αρχείο Αίτησης/",
+      "type": "Δήλωση ΠΠΔ",
+      "file_url": "https://silia.eett.gr/silia/download/1c26096c-cc62-4a08-b0d9-16a674e9156f"
+    }
+  ]
+}

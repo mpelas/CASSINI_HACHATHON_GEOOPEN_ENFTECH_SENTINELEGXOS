@@ -1,0 +1,51 @@
+{
+  "antenna_id": "168666",
+  "address": "Οδός Κύπρου 18 & Λήμνου",
+  "position_code": 1130056,
+  "municipality": "Πεντέλης",
+  "code_name": "ΤΣΑΛΔΑΡΗ ΜΕΛΙΣΣΙΑ REP",
+  "region": "Αττικής",
+  "latitude": 38.055833,
+  "company": "VODAFONE",
+  "longitude": 23.844167,
+  "permit_status": "Από τα στοιχεία που τηρούνται στην Ενημερωτική Πύλη προκύπτει ότι, για τη θέση \"Οδός Κύπρου 18 & Λήμνου\" στον Δήμο Πεντέλης Περιφέρειας  Αττικής \n\t(κωδικός αριθμός θέσης 1130056, κωδική ονομασία \"ΤΣΑΛΔΑΡΗ ΜΕΛΙΣΣΙΑ REP\") έχει κατατεθεί από την εταιρία VODAFONE\tδήλωση εγκατάστασης κατασκευής κεραίας (αριθ. πρωτ. \n\t51855/30-05-2023) που εμπίπτει στις διατάξεις της νομοθεσίας για Εγκαταστάσεις Κατασκευών Κεραιών Χαμηλής Ηλεκτρομαγνητικής Περιβαλλοντικής Όχλησης (ΕΚΚΧΟ).",
+  "measurements_eaee": "-",
+  "documents": [
+    {
+      "document_number": "486678/30-05-2023",
+      "protocol_number": "Φωτορεαλιστική απεικόνιση κεραιών ΕΚΚΧΟ/",
+      "type": "Φωτογραφικό Υλικό - Σκαρίφημα",
+      "file_url": "https://silia.eett.gr/silia/download/06ac5403-b271-4d91-81ec-3d61f3b8e069"
+    },
+    {
+      "document_number": "486679/30-05-2023",
+      "protocol_number": "Ψηφιακός Χάρτης με προβολή της θέσης ΕΚΚΧΟ/",
+      "type": "Φωτογραφικό Υλικό - Σκαρίφημα",
+      "file_url": "https://silia.eett.gr/silia/download/4413f20b-64b8-418b-8357-992f1c9309a2"
+    },
+    {
+      "document_number": "486681/30-05-2023",
+      "protocol_number": "Μελέτη ΕΚΚΧΟ/30-05-2023",
+      "type": "Άλλο",
+      "file_url": "https://silia.eett.gr/silia/download/d9d478ee-4be5-4b5e-9244-5dff26b95112"
+    },
+    {
+      "document_number": "486698/30-05-2023",
+      "protocol_number": "Αρχιτεκτονικά σχέδια ΕΚΚΧΟ/",
+      "type": "Αρχιτεκτονικά Σχέδια",
+      "file_url": "https://silia.eett.gr/silia/download/d7fece4d-da72-42b9-b0e7-c6e6701c4e62"
+    },
+    {
+      "document_number": "486699/30-05-2023",
+      "protocol_number": "Αρχείο Αίτησης/",
+      "type": "Δήλωση ΕΚΚΧΟ",
+      "file_url": "https://silia.eett.gr/silia/download/1fdada95-1453-4d4f-9463-8ece6c706ef1"
+    },
+    {
+      "document_number": "543654/14-03-2025",
+      "protocol_number": "ΥΔ Εγκατάστασης/13-03-2025",
+      "type": "Άλλο",
+      "file_url": "https://silia.eett.gr/silia/download/VBU2Gg9lXgDFHcUdx7tg7BcARYxBc5eltpLz"
+    }
+  ]
+}

@@ -1,0 +1,111 @@
+{
+  "antenna_id": "173613",
+  "address": "ΓΛΗΝΟΥ & ΚΑΛΛΕΡΓΗ - HOTEL PRIMIER",
+  "position_code": 1292086,
+  "municipality": "Αγρινίου",
+  "code_name": "AGRINIO SOUTH",
+  "region": "Δυτικής Ελλάδας",
+  "latitude": 38.617222,
+  "company": "NOVA Μ.Α.Ε.",
+  "longitude": 21.408056,
+  "permit_status": "Από τα στοιχεία που τηρούνται στην Ενημερωτική Πύλη προκύπτει ότι, για τη θέση \"ΓΛΗΝΟΥ & ΚΑΛΛΕΡΓΗ - HOTEL PRIMIER\" στον Δήμο Αγρινίου Περιφέρειας  Δυτικής Ελλάδας \n\t(κωδικός αριθμός θέσης 1292086, κωδική ονομασία \"AGRINIO SOUTH\") χορηγήθηκε, με την Απόφαση της ΕΕΤΤ \n51228/18-07-2024, άδεια κατασκευής κεραίας στην εταιρία NOVA Μ.Α.Ε.. \nΑπό τo έγγραφο της άδειας μπορείτε να ενημερωθείτε για τις σχετικές εγκρίσεις των συναρμόδιων φορέων, καθώς και εάν πρόκειται για τροποποίηση παλαιότερης άδειας.\n\tΣύμφωνα με τα στοιχεία που έχουν υποβληθεί στο ΣΗΛΥΑ, ο κάτοχος της κατασκευής κεραίας έχει δηλώσει ότι θα προβεί σε έκδοση έγκρισης δομικών κατασκευών \n\t\tκεραίας μέσω του e-Άδειες \n\t\tμετά την έκδοση της άδειας κατασκευής κεραίας / δημοσιοποίηση της δήλωσης τροποποίησης της κατασκευής κεραίας",
+  "measurements_eaee": "-",
+  "documents": [
+    {
+      "document_number": "516053/27-05-2024",
+      "protocol_number": "ΣΥΝΗΜΜΟΣ ΜΕ ΤΗΝ ΚΑΤΑΘΕΣΗ ΣΤΗΝ ΥΠΑ/27-05-2024",
+      "type": "Απόσπασμα Χάρτη ΓΥΣ 1:50.000",
+      "file_url": "https://silia.eett.gr/silia/download/mHxWM5E80MdfEgFQPYoaLv9SDOBxNTtRNcDF"
+    },
+    {
+      "document_number": "516054/27-05-2024",
+      "protocol_number": "Σ1010/4550/ΑΔ4147/15-04-2024",
+      "type": "Γνωμάτευση ΓΕΑ",
+      "file_url": "https://silia.eett.gr/silia/download/7XDOS6PPggg806SdSGQStZ2GphEOiHq9W40b"
+    },
+    {
+      "document_number": "516055/27-05-2024",
+      "protocol_number": "ΣΥΝΗΜΜΕΝΗ ΜΕ ΤΗΝ ΚΑΤΑΘΕΣΗ ΣΤΗΝ ΕΕΑΕ/23-05-2024",
+      "type": "Αίτηση - Μελέτη Ραδιοεκπομπών ΕΕΑΕ",
+      "file_url": "https://silia.eett.gr/silia/download/Zh6FgGa4E1e7kmhlknL3AolRKx9mywlFqQtq"
+    },
+    {
+      "document_number": "516056/27-05-2024",
+      "protocol_number": "ΣΥΝΗΜΜΕΝΑ ΜΕ ΤΗΝ ΚΑΤΑΘΕΣΗ ΣΤΗΝ ΕΕΑΕ ΑΡΧΙΤΕΚΤΟΝΙΚΑ ΚΑΙ ΤΟΠΟΓΡΑΦΙΚΟ/27-05-2024",
+      "type": "Αρχιτεκτονικά Σχέδια",
+      "file_url": "https://silia.eett.gr/silia/download/3LZvd5Sm7DxgeN4kEbVXrsvgAXw97D7nNu5v"
+    },
+    {
+      "document_number": "516057/27-05-2024",
+      "protocol_number": "ΔΗΛΩΣΗ ΔΙΑΣΥΝΔΕΣΗΣ NOVA/22-05-2024",
+      "type": "Άλλο",
+      "file_url": "https://silia.eett.gr/silia/download/WLHNTzXbGiLuVH8CQsWzX1lEKPhGbGnDZcvF"
+    },
+    {
+      "document_number": "516058/27-05-2024",
+      "protocol_number": "ΥΠΕΥΘΗΝΗ ΔΗΛΩΣΗ ΚΟΙΝΗΣ ΧΡΗΣΗΣ VODAFONE/27-05-2024",
+      "type": "Άλλο",
+      "file_url": "https://silia.eett.gr/silia/download/H68ZAGtcaceZpV5wyzBvv2r1W9qy8eGwI5No"
+    },
+    {
+      "document_number": "516059/27-05-2024",
+      "protocol_number": "ΥΠΕΥΘΥΝΗ ΔΗΛΩΣΗ ΔΙΑΣΥΝΔΕΣΗΣ VODAFONE/27-05-2024",
+      "type": "Άλλο",
+      "file_url": "https://silia.eett.gr/silia/download/tD9CIvmXsOmOuM3mWRDG8HqX9fRZuoGngaG8"
+    },
+    {
+      "document_number": "516060/27-05-2024",
+      "protocol_number": "ΣΥΝΗΜΜΕΝH ΜΕ ΤΗΝ ΚΑΤΑΘΕΣΗ ΣΤΗΝ EETT/15-05-2024",
+      "type": "Βεβαίωση πολιτικού μηχανικού",
+      "file_url": "https://silia.eett.gr/silia/download/p3bQNYp6gGR7Dv1S0bmyRTGTL9iXnMCl1tEw"
+    },
+    {
+      "document_number": "516064/27-05-2024",
+      "protocol_number": "Αρχείο Αίτησης/27-05-2024",
+      "type": "Αίτηση Άδειας Κατασκευής Κεραίας ΕΕΤΤ",
+      "file_url": "https://silia.eett.gr/silia/download/sGprOtsSZIRq2hvrNGLBumpMEs32zLowYUXt"
+    },
+    {
+      "document_number": "518177/18-06-2024",
+      "protocol_number": "ΚΓ/Δ3/Δ/12073/18-06-2024",
+      "type": "Γνωμάτευση ΥΠΑ",
+      "file_url": "https://silia.eett.gr/silia/download/z3XbnAA71kd51igEUgRwb6vMryfMGplLNg7c"
+    },
+    {
+      "document_number": "518743/25-06-2024",
+      "protocol_number": "TMIA/411/8687/2024/21-06-2024",
+      "type": "Γνωμάτευση ΕΕΑΕ",
+      "file_url": "https://silia.eett.gr/silia/download/cuvagqhCxadQpnD1WMkyPki48TeLs9c3DZFw"
+    },
+    {
+      "document_number": "521098/18-07-2024",
+      "protocol_number": "51228/18-07-2024",
+      "type": "Άδεια Κατασκευής  Κεραίας",
+      "file_url": "https://silia.eett.gr/silia/download/2XQp5oQP3TbUUoENS80fsq1AhkKKcGmz0GDr"
+    },
+    {
+      "document_number": "516061/27-05-2024",
+      "protocol_number": "ΣΥΝΗΜΜΕΝΗ ΜΕ ΤΗΝ ΚΑΤΑΘΕΣΗ ΣΤΗΝ ΕΕΑΕ/23-05-2024",
+      "type": "Αίτηση - Μελέτη Ραδιοεκπομπών ΕΕΑΕ",
+      "file_url": "https://silia.eett.gr/silia/download/Zh6FgGa4E1e7kmhlknL3AolRKx9mywlFqQtq"
+    },
+    {
+      "document_number": "516062/27-05-2024",
+      "protocol_number": "70852/03-04-2024",
+      "type": "Έγκριση Αρμοδίου Φορέα",
+      "file_url": "https://silia.eett.gr/silia/download/nbYrfCFq4npg1aiE9Vb9GIb0HGAYnddG3l7M"
+    },
+    {
+      "document_number": "516063/27-05-2024",
+      "protocol_number": "69238/21-02-2024",
+      "type": "Γνωμοδότηση Υπηρεσίας Νεωτέρων Μνημείων",
+      "file_url": "https://silia.eett.gr/silia/download/oRtyDgCbgxgXhw8UNOqq5A34WpzbCqtBgqHx"
+    },
+    {
+      "document_number": "516065/27-05-2024",
+      "protocol_number": "Αρχείο Αίτησης/27-05-2024",
+      "type": "Δήλωση ΠΠΔ",
+      "file_url": "https://silia.eett.gr/silia/download/TG19y4oaSOEsrvqG6hWGYyPDesFEXFbYpNbV"
+    }
+  ]
+}

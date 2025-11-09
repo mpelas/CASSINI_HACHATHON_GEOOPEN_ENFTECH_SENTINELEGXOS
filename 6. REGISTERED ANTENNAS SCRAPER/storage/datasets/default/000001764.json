@@ -1,0 +1,81 @@
+{
+  "antenna_id": "119991",
+  "address": "ΘΕΣΗ \" ΜΑΤΑΚΙΑ\"   Τ.Κ. ΣΑΒΑΛΙΩΝ",
+  "position_code": 1404379,
+  "municipality": "Ήλιδας",
+  "code_name": "GASTOUNI  /X",
+  "region": "Δυτικής Ελλάδας",
+  "latitude": 37.829722,
+  "company": "OTE",
+  "longitude": 21.269167,
+  "permit_status": "Από τα στοιχεία που τηρούνται στην Ενημερωτική Πύλη προκύπτει ότι, για τη θέση \"ΘΕΣΗ \" ΜΑΤΑΚΙΑ\"   Τ.Κ. ΣΑΒΑΛΙΩΝ\" στον Δήμο Ήλιδας Περιφέρειας  Δυτικής Ελλάδας \n\t(κωδικός αριθμός θέσης 1404379, κωδική ονομασία \"GASTOUNI  /X\") χορηγήθηκε, με την Απόφαση της ΕΕΤΤ \n23677/Φ610/23-03-2017, άδεια κατασκευής κεραίας στην εταιρία OTE. \nΑπό τo έγγραφο της άδειας μπορείτε να ενημερωθείτε για τις σχετικές εγκρίσεις των συναρμόδιων φορέων, καθώς και εάν πρόκειται για τροποποίηση παλαιότερης άδειας.\nΗ άδεια χορηγήθηκε, κατόπιν της με Αριθ. Πρωτ. 18474/31-08-2016 αίτησης, \n\tμε τη διαδικασία αδειοδότησης της παρ. 17 του άρθρου 30 του Ν.4070/2012 που πλέον έχει αντικατασταθεί από τη διαδικασία που ορίζει ο ν. 4635/2019.\n\tΣύμφωνα με τα στοιχεία που έχουν υποβληθεί στο ΣΗΛΥΑ για την κατασκευή κεραίας από τον κάτοχό της, έχει εκδοθεί έγκριση δομικών κατασκευών κεραίας",
+  "measurements_eaee": "-",
+  "documents": [
+    {
+      "document_number": "269572/29-08-2016",
+      "protocol_number": "19448/05-08-2016",
+      "type": "Τοπογραφικό",
+      "file_url": "https://silia.eett.gr/silia/download/5cc0e3c8-b792-49a5-a9fc-4edbff74ade9"
+    },
+    {
+      "document_number": "269573/29-08-2016",
+      "protocol_number": "19448/05-08-2016",
+      "type": "Αρχιτεκτονικά Σχέδια",
+      "file_url": "https://silia.eett.gr/silia/download/7f4b0553-dc8a-48b0-8bda-e3c24a2a97af"
+    },
+    {
+      "document_number": "269575/29-08-2016",
+      "protocol_number": "19448/18-08-2016",
+      "type": "Έγκριση δομικών κατασκευών (έντυπη)",
+      "file_url": "https://silia.eett.gr/silia/download/44f2e468-3b8f-44cd-969f-669a8762542f"
+    },
+    {
+      "document_number": "269576/29-08-2016",
+      "protocol_number": "ΜΕΣΩ ΣΗΛΥΑ/12-08-2016",
+      "type": "Αίτηση - Μελέτη Ραδιοεκπομπών ΕΕΑΕ",
+      "file_url": "https://silia.eett.gr/silia/download/9af60ac3-d3cb-4c71-ba09-adec4d8f928f"
+    },
+    {
+      "document_number": "270016/31-08-2016",
+      "protocol_number": "Αρχείο Αίτησης/",
+      "type": "Αίτηση Άδειας Κατασκευής Κεραίας ΕΕΤΤ",
+      "file_url": "https://silia.eett.gr/silia/download/2a82bb45-385e-40bb-94c5-8f04abd3e593"
+    },
+    {
+      "document_number": "272829/26-09-2016",
+      "protocol_number": "Δ3/Δ/21220/7775/14-9-2016/26-09-2016",
+      "type": "Γνωμάτευση ΥΠΑ",
+      "file_url": "https://silia.eett.gr/silia/download/a278f250-5d97-4b60-a28f-02ccc5e8b35b"
+    },
+    {
+      "document_number": "278382/08-11-2016",
+      "protocol_number": "Mi/411/12500/26-10-2016",
+      "type": "Γνωμάτευση ΕΕΑΕ",
+      "file_url": "https://silia.eett.gr/silia/download/d4deeff5-c7a4-4cbd-abe4-1cae33377be3"
+    },
+    {
+      "document_number": "291566/06-04-2017",
+      "protocol_number": "23677/Φ610/23-03-2017",
+      "type": "Άδεια Κατασκευής  Κεραίας",
+      "file_url": "https://silia.eett.gr/silia/download/bd38422e-e99e-4f4f-8fdc-bf508774a429"
+    },
+    {
+      "document_number": "269575/29-08-2016",
+      "protocol_number": "19448/18-08-2016",
+      "type": "Έγκριση δομικών κατασκευών (έντυπη)",
+      "file_url": "https://silia.eett.gr/silia/download/44f2e468-3b8f-44cd-969f-669a8762542f"
+    },
+    {
+      "document_number": "269578/29-08-2016",
+      "protocol_number": "ΜΕΣΩ ΣΗΛΥΑ/",
+      "type": "Δήλωση υπαγωγής σε ΠΠΔ και Συνοδευτικά Έγγραφα",
+      "file_url": "https://silia.eett.gr/silia/download/14097fb9-3794-4760-a0fe-1de286922483"
+    },
+    {
+      "document_number": "270017/31-08-2016",
+      "protocol_number": "Αρχείο Αίτησης/",
+      "type": "Δήλωση ΠΠΔ",
+      "file_url": "https://silia.eett.gr/silia/download/90804fc9-f022-4c19-8f6a-e0f87a5a8ea3"
+    }
+  ]
+}

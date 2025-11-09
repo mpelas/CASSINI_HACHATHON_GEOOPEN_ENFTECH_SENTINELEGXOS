@@ -1,0 +1,117 @@
+{
+  "antenna_id": "160956",
+  "address": "ΑΡΓΟΣΤΟΛΙΟΥ 30-32",
+  "position_code": 1209867,
+  "municipality": "Αγίου Δημητρίου",
+  "code_name": "AGIOS DIMITRIOS MONASTIRIO",
+  "region": "Αττικής",
+  "latitude": 37.925,
+  "company": "NOVA Μ.Α.Ε.",
+  "longitude": 23.728611,
+  "permit_status": "Από τα στοιχεία που τηρούνται στην Ενημερωτική Πύλη προκύπτει ότι, για τη θέση \"ΑΡΓΟΣΤΟΛΙΟΥ 30-32\" στον Δήμο Αγίου Δημητρίου Περιφέρειας  Αττικής \n\t(κωδικός αριθμός θέσης 1209867, κωδική ονομασία \"AGIOS DIMITRIOS MONASTIRIO\") χορηγήθηκε, με την Απόφαση της ΕΕΤΤ \n44869/18-07-2022, άδεια κατασκευής κεραίας στην εταιρία NOVA Μ.Α.Ε.. \nΑπό τo έγγραφο της άδειας μπορείτε να ενημερωθείτε για τις σχετικές εγκρίσεις των συναρμόδιων φορέων, καθώς και εάν πρόκειται για τροποποίηση παλαιότερης άδειας.",
+  "measurements_eaee": "-",
+  "documents": [
+    {
+      "document_number": "447819/13-12-2021",
+      "protocol_number": "ΣΥΝΗΜΜΕΝΟΣ ΜΕ ΤΗΝ ΚΑΤΑΘΕΣΗ ΣΤΗΝ ΥΠΑ/",
+      "type": "Απόσπασμα Χάρτη ΓΥΣ 1:50.000",
+      "file_url": "https://silia.eett.gr/silia/download/f078c8ea-bf43-467f-a9f9-2e940e5f51d6"
+    },
+    {
+      "document_number": "447820/13-12-2021",
+      "protocol_number": "ΣΥΝΗΜΜΕΝΗ ΜΕ ΤΗΝ ΚΑΤΑΘΕΣΗ ΣΤΗΝ ΥΠΑ/05-11-2021",
+      "type": "Αποτελέσματα μελέτης στη ζώνης 2.6GHz για ΥΠΑ/ΓΕΕΘΑ",
+      "file_url": "https://silia.eett.gr/silia/download/7c475a00-cc47-40c7-befe-ebc9a56dab09"
+    },
+    {
+      "document_number": "447821/13-12-2021",
+      "protocol_number": "121546/10-11-2021",
+      "type": "Αποτελέσματα μελέτης στη ζώνης 2.6GHz για ΥΠΑ/ΓΕΕΘΑ",
+      "file_url": "https://silia.eett.gr/silia/download/1f44d63f-c6e5-41ab-a5ac-b3bab2239bcb"
+    },
+    {
+      "document_number": "447822/13-12-2021",
+      "protocol_number": "ΣΥΝΗΜΜΕΝΗ ΜΕ ΤΗΝ ΚΑΤΑΘΕΣΗ ΣΤΗΝ ΕΕΑΕ/05-11-2021",
+      "type": "Αίτηση - Μελέτη Ραδιοεκπομπών ΕΕΑΕ",
+      "file_url": "https://silia.eett.gr/silia/download/a3864b67-42c5-4ba2-96fe-f507b9afbc51"
+    },
+    {
+      "document_number": "447823/13-12-2021",
+      "protocol_number": "ΣΥΝΗΜΜΕΝΑ ΜΕ ΤΗΝ ΚΑΤΑΘΕΣΗ ΣΤΗΝ ΕΕΑΕ/",
+      "type": "Αρχιτεκτονικά Σχέδια",
+      "file_url": "https://silia.eett.gr/silia/download/1f2e5de3-bdc3-4040-8996-ef80d6b5cb24"
+    },
+    {
+      "document_number": "447824/13-12-2021",
+      "protocol_number": "ΣΥΝΗΜΜΕΝΟ ΜΕ ΤΗΝ ΚΑΤΑΘΕΣΗ ΣΤΗΝ ΕΕΑΕ/",
+      "type": "Τοπογραφικό",
+      "file_url": "https://silia.eett.gr/silia/download/0edeb0e3-8e2e-4e6a-a87c-3d6392d56f18"
+    },
+    {
+      "document_number": "447825/13-12-2021",
+      "protocol_number": "ΣΥΝΗΜΜΕΝΗ ΜΕ ΤΗΝ ΚΑΤΑΘΕΣΗ ΣΤΗΝ ΕΕΤΤ/03-12-2021",
+      "type": "Βεβαίωση πολιτικού μηχανικού",
+      "file_url": "https://silia.eett.gr/silia/download/bf3f4f36-c0bc-4ade-8e2a-181d67d19c49"
+    },
+    {
+      "document_number": "447834/13-12-2021",
+      "protocol_number": "Αρχείο Αίτησης/",
+      "type": "Αίτηση Άδειας Κατασκευής Κεραίας ΕΕΤΤ",
+      "file_url": "https://silia.eett.gr/silia/download/4943bcbf-6e95-472a-a3e6-7c956eea1e4c"
+    },
+    {
+      "document_number": "458623/05-05-2022",
+      "protocol_number": "ΚΓ/Δ3/Δ/11181/5-5-2022/05-05-2022",
+      "type": "Γνωμάτευση ΥΠΑ",
+      "file_url": "https://silia.eett.gr/silia/download/4a05d6af-9fa3-4873-b4ec-17c4202ef573"
+    },
+    {
+      "document_number": "459661/20-05-2022",
+      "protocol_number": "Μ.ι./411/6125/2022/19-05-2022",
+      "type": "Γνωμάτευση ΕΕΑΕ",
+      "file_url": "https://silia.eett.gr/silia/download/9621f5ef-eb4d-4aab-b215-38478ea640ca"
+    },
+    {
+      "document_number": "464586/25-07-2022",
+      "protocol_number": "44869/18-07-2022",
+      "type": "Άδεια Κατασκευής  Κεραίας",
+      "file_url": "https://silia.eett.gr/silia/download/11cc9b07-7379-41bf-a63e-a8f5a608057e"
+    },
+    {
+      "document_number": "447826/13-12-2021",
+      "protocol_number": "ΣΥΝΗΜΜΕΝΗ ΜΕ ΤΗΝ ΚΑΤΑΘΕΣΗ ΣΤΗΝ ΕΕΑΕ/05-11-2021",
+      "type": "Αίτηση - Μελέτη Ραδιοεκπομπών ΕΕΑΕ",
+      "file_url": "https://silia.eett.gr/silia/download/a3864b67-42c5-4ba2-96fe-f507b9afbc51"
+    },
+    {
+      "document_number": "447827/13-12-2021",
+      "protocol_number": "ΣΥΝΗΜΜΕΝΗ ΜΕ ΤΗΝ ΚΑΤΑΘΕΣΗ ΣΤΗΝ ΕΕΤΤ/05-11-2021",
+      "type": "Αίτηση - Μελέτη Ραδιοεκπομπών ΕΕΑΕ (υποβάθρου)",
+      "file_url": "https://silia.eett.gr/silia/download/9d7f9442-636a-40e2-9cc0-7fccc34431b4"
+    },
+    {
+      "document_number": "447828/13-12-2021",
+      "protocol_number": "ΣΥΝΗΜΜΕΝΟΣ ΜΕ ΤΗΝ ΚΑΤΑΘΕΣΗ ΣΤΗΝ ΕΕΤΤ/",
+      "type": "Χάρτης Ευαίσθητων Χρήσεων Γης",
+      "file_url": "https://silia.eett.gr/silia/download/5f0b7d05-0d87-4374-a6c3-7966ae3ffaea"
+    },
+    {
+      "document_number": "447829/13-12-2021",
+      "protocol_number": "514925/30-11-2021",
+      "type": "Έγκριση Αρμοδίου Φορέα",
+      "file_url": "https://silia.eett.gr/silia/download/babf30fe-285a-4e13-98e0-f418702a5ed4"
+    },
+    {
+      "document_number": "447830/13-12-2021",
+      "protocol_number": "515377/02-12-2021",
+      "type": "Γνωμοδότηση Υπηρεσίας Νεωτέρων Μνημείων",
+      "file_url": "https://silia.eett.gr/silia/download/266ce1eb-5d72-45e6-97ee-82fc2dfe8bbe"
+    },
+    {
+      "document_number": "447835/13-12-2021",
+      "protocol_number": "Αρχείο Αίτησης/",
+      "type": "Δήλωση ΠΠΔ",
+      "file_url": "https://silia.eett.gr/silia/download/8e1081b4-85f0-4325-a86a-5a554dc0af61"
+    }
+  ]
+}

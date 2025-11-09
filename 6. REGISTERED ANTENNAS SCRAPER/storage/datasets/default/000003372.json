@@ -1,0 +1,111 @@
+{
+  "antenna_id": "161107",
+  "address": "Δ.Κ. ΚΟΜΙΤΑΔΕΣ",
+  "position_code": 1444098,
+  "municipality": "Σφακίων",
+  "code_name": "KOMITADES X",
+  "region": "Κρήτης",
+  "latitude": 35.205278,
+  "company": "OTE",
+  "longitude": 24.175833,
+  "permit_status": "Από τα στοιχεία που τηρούνται στην Ενημερωτική Πύλη προκύπτει ότι, για τη θέση \"Δ.Κ. ΚΟΜΙΤΑΔΕΣ\" στον Δήμο Σφακίων Περιφέρειας  Κρήτης \n\t(κωδικός αριθμός θέσης 1444098, κωδική ονομασία \"KOMITADES X\") χορηγήθηκε, με την Απόφαση της ΕΕΤΤ \n43845/21-04-2022, άδεια κατασκευής κεραίας στην εταιρία OTE. \nΑπό τo έγγραφο της άδειας μπορείτε να ενημερωθείτε για τις σχετικές εγκρίσεις των συναρμόδιων φορέων, καθώς και εάν πρόκειται για τροποποίηση παλαιότερης άδειας.\nΕπιπλέον, έχoυν υποβληθεί οι με αριθ. πρωτ. ΣΗΛΥΑ 47831/09-05-2022 (Δήλωση Παρ. 1Γ, άρθρ. 28, ν. 4635/2019), 59563/26-02-2025 (Δήλωση παρ. 1Β, άρθρ. 28, ν. 4635/2019) δηλώσεις που αφορούν σε τροποποίηση/επικαιροποίηση στοιχείων της κατασκευής κεραίας που αφορούν τον(ους) Τομέα(εις) Αδειοδότησης:Κεραιοσυστήματα, Στέγαση, Έκταση, Περιβάλλον.\n\tΔιευκρινίζεται ότι υπό ορισμένες προϋποθέσεις για την τροποποίηση αδειοδοτημένης κατασκευής κεραίας ή/και την επικαιροποίηση στοιχείων της δεν απαιτείται η έκδοση νέας άδειας \n\tκατασκευής κεραίας ή η τροποποίηση της υφιστάμενης άδειας κατασκευής κεραίας, αλλά απαιτείται η υποβολή κατάλληλης δήλωσης από τον κάτοχο της κατασκευής κεραίας συνοδευόμενη \n\tαπό επικαιροποίηση επιμέρους εγκρίσεων.",
+  "measurements_eaee": "-",
+  "documents": [
+    {
+      "document_number": "445528/03-11-2021",
+      "protocol_number": "ΜΕΣΩ ΣΗΛΥΑ/",
+      "type": "Τοπογραφικό",
+      "file_url": "https://silia.eett.gr/silia/download/40ca20da-1e39-4752-bddf-a87da852248e"
+    },
+    {
+      "document_number": "445529/03-11-2021",
+      "protocol_number": "ΜΕΣΩ ΣΗΛΥΑ/",
+      "type": "Αρχιτεκτονικά Σχέδια",
+      "file_url": "https://silia.eett.gr/silia/download/973f45f7-d59d-46e5-9adb-8d391b982d29"
+    },
+    {
+      "document_number": "445530/03-11-2021",
+      "protocol_number": "ΜΕΣΩ ΣΗΛΥΑ/11-08-2021",
+      "type": "Αίτηση - Μελέτη Ραδιοεκπομπών ΕΕΑΕ",
+      "file_url": "https://silia.eett.gr/silia/download/7195f30e-6d8a-4264-a55c-2344ed6441db"
+    },
+    {
+      "document_number": "445534/03-11-2021",
+      "protocol_number": "Αρχείο Αίτησης/",
+      "type": "Αίτηση Άδειας Κατασκευής Κεραίας ΕΕΤΤ",
+      "file_url": "https://silia.eett.gr/silia/download/69ab3637-f889-4703-a5a8-4b436c392f67"
+    },
+    {
+      "document_number": "445973/12-11-2021",
+      "protocol_number": "Μι/411/20026/08-11-2021",
+      "type": "Γνωμάτευση ΕΕΑΕ",
+      "file_url": "https://silia.eett.gr/silia/download/6cf54663-2fdd-495a-bd6d-3b486d835dd2"
+    },
+    {
+      "document_number": "454537/30-03-2022",
+      "protocol_number": "ΚΓ/Δ3/Δ/7846/30-03-2022/30-03-2022",
+      "type": "Γνωμάτευση ΥΠΑ",
+      "file_url": "https://silia.eett.gr/silia/download/eef36e21-2145-42bd-a95b-2eccddc191d1"
+    },
+    {
+      "document_number": "457949/26-04-2022",
+      "protocol_number": "43845/21-04-2022",
+      "type": "Άδεια Κατασκευής  Κεραίας",
+      "file_url": "https://silia.eett.gr/silia/download/09aebda3-351f-4daa-8640-4a4d855b9ec9"
+    },
+    {
+      "document_number": "458705/06-05-2022",
+      "protocol_number": "ΜΕΣΩ ΣΗΛΥΑ    /",
+      "type": "Τοπογραφικό",
+      "file_url": "https://silia.eett.gr/silia/download/58b959a1-7877-463c-ae5a-3358f661bbb3"
+    },
+    {
+      "document_number": "458706/06-05-2022",
+      "protocol_number": "ΜΕΣΩ ΣΗΛΥΑ    /",
+      "type": "Αρχιτεκτονικά Σχέδια",
+      "file_url": "https://silia.eett.gr/silia/download/b1be315e-d216-472d-91b4-e4126135b5d6"
+    },
+    {
+      "document_number": "458724/09-05-2022",
+      "protocol_number": "Αρχείο Αίτησης/",
+      "type": "Δήλωση ΔΤΚΚ",
+      "file_url": "https://silia.eett.gr/silia/download/74efb090-a10d-4830-83ac-9820f9bca3e2"
+    },
+    {
+      "document_number": "541898/25-02-2025",
+      "protocol_number": "ΔΗΛΩΣΗ ΠΠΔ/25-02-2025",
+      "type": "Δήλωση υπαγωγής σε ΠΠΔ και Συνοδευτικά Έγγραφα",
+      "file_url": "https://silia.eett.gr/silia/download/llLGqCb91PVooszwTb1C8mPKyI9mrBqkfw8f"
+    },
+    {
+      "document_number": "541899/25-02-2025",
+      "protocol_number": "ΤΟΠΟΓΡΑΦΙΚΟ/01-04-2024",
+      "type": "Τοπογραφικό",
+      "file_url": "https://silia.eett.gr/silia/download/tSickNlsuHsrqz5VIGuF7NG8UQWT0YSc2IZi"
+    },
+    {
+      "document_number": "541900/25-02-2025",
+      "protocol_number": "ΑΡΧΙΤΕΚΤΟΝΙΚΑ/01-04-2024",
+      "type": "Αρχιτεκτονικά Σχέδια",
+      "file_url": "https://silia.eett.gr/silia/download/l63skKVQgi9RRemvac5DaMUb72trE8CXIiiH"
+    },
+    {
+      "document_number": "541901/25-02-2025",
+      "protocol_number": "ΜΕΛΕΤΗ ΡΕ/19-02-2025",
+      "type": "Αίτηση - Μελέτη Ραδιοεκπομπών ΕΕΑΕ",
+      "file_url": "https://silia.eett.gr/silia/download/l5aOPw4ekCMG7ai5EbqSsC7tCGKUdkVvktLf"
+    },
+    {
+      "document_number": "542080/26-02-2025",
+      "protocol_number": "Αρχείο Αίτησης/26-02-2025",
+      "type": "Δήλωση ΔΤΚΚ",
+      "file_url": "https://silia.eett.gr/silia/download/MwpEboxgKn5EgCkC4QN6vYAU5d82x8cY6h1X"
+    },
+    {
+      "document_number": "550807/29-05-2025",
+      "protocol_number": "TMIA/411/7225/2025/28-05-2025",
+      "type": "Γνωμάτευση ΕΕΑΕ",
+      "file_url": "https://silia.eett.gr/silia/download/943c5YdHeiMGAA84x0YhqeYtbEMQl4UbN5ey"
+    }
+  ]
+}

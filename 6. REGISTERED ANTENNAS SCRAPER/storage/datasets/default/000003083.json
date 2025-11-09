@@ -1,0 +1,39 @@
+{
+  "antenna_id": "154702",
+  "address": "Δ.Ε. Καστανιάς, Δήμος Σάμου, Π.Ε. Σάμου, Περιφ. Βορείου Αιγαίου",
+  "position_code": 3207542,
+  "municipality": "Σάμου",
+  "code_name": "ΚΑΡΛΟΒΑΣΙ - ΚΑΣΤΑΝΙΑ-Δ",
+  "region": "Βορείου Αιγαίου",
+  "latitude": 37.752222,
+  "company": "ΕΡΤ ΑΕ",
+  "longitude": 26.691389,
+  "permit_status": "Από τα στοιχεία που τηρούνται στην Ενημερωτική Πύλη προκύπτει ότι για τη  θέση \"Δ.Ε. Καστανιάς, Δήμος Σάμου, Π.Ε. Σάμου, Περιφ. Βορείου Αιγαίου\" στον Δήμο Σάμου Περιφέρειας  Βορείου Αιγαίου έχει κατατεθεί από την εταιρία ΕΡΤ ΑΕ δήλωση δομικών κατασκευών κεραιών  \nμε αριθ. πρωτ. ΣΗΛΥΑ 39264/23-05-2020 κατά τα οριζόμενα στην παρ. 7 του άρθρου 34 του Ν.4635/2019.",
+  "measurements_eaee": "-",
+  "documents": [
+    {
+      "document_number": "407499/23-05-2020",
+      "protocol_number": "δορυφορική λήψη και στοιχεία δομικών κατασκευών/",
+      "type": "Άλλο",
+      "file_url": "https://silia.eett.gr/silia/download/f57a8680-8141-445a-93e4-351641ca746a"
+    },
+    {
+      "document_number": "407500/23-05-2020",
+      "protocol_number": "απογραφή 1987/",
+      "type": "Άλλο",
+      "file_url": "https://silia.eett.gr/silia/download/7bcbe5a6-6041-4d99-95d4-a88401958430"
+    },
+    {
+      "document_number": "407501/23-05-2020",
+      "protocol_number": "πίνακας 49 απογραφής ΕΡΤ 1987/",
+      "type": "Άλλο",
+      "file_url": "https://silia.eett.gr/silia/download/bd2cf6dc-e111-4a01-95f6-8e38e36831b7"
+    },
+    {
+      "document_number": "407700/23-05-2020",
+      "protocol_number": "Αρχείο Αίτησης/",
+      "type": "Δήλωση Δομικών ΕΡΤ",
+      "file_url": "https://silia.eett.gr/silia/download/3e001f2f-64bd-47ab-bbb3-1ba1c040af9a"
+    }
+  ]
+}

@@ -1,0 +1,93 @@
+{
+  "antenna_id": "168845",
+  "address": "ΠΛΗΣΙΟΝ ΟΙΚΙΣΜΟΥ ΟΙΝΟΦΥΤΩΝ, ΚΟΙΝΟΤΗΤΑ ΟΙΝΟΦΥΤΩΝ",
+  "position_code": 1200670,
+  "municipality": "Τανάγρας",
+  "code_name": "ΣΑΡΑΝΤΗΣ ΟΙΝΟΦΥΤΑ",
+  "region": "Στερεάς Ελλάδας",
+  "latitude": 38.308333,
+  "company": "NOVA Μ.Α.Ε.",
+  "longitude": 23.657778,
+  "permit_status": "Από τα στοιχεία που τηρούνται στην Ενημερωτική Πύλη προκύπτει ότι, για τη θέση \"ΠΛΗΣΙΟΝ ΟΙΚΙΣΜΟΥ ΟΙΝΟΦΥΤΩΝ, ΚΟΙΝΟΤΗΤΑ ΟΙΝΟΦΥΤΩΝ\" στον Δήμο Τανάγρας Περιφέρειας  Στερεάς Ελλάδας \n\t(κωδικός αριθμός θέσης 1200670, κωδική ονομασία \"ΣΑΡΑΝΤΗΣ ΟΙΝΟΦΥΤΑ\") χορηγήθηκε, με την Απόφαση της ΕΕΤΤ \n49262/02-10-2023, άδεια κατασκευής κεραίας στην εταιρία NOVA Μ.Α.Ε.. \nΑπό τo έγγραφο της άδειας μπορείτε να ενημερωθείτε για τις σχετικές εγκρίσεις των συναρμόδιων φορέων, καθώς και εάν πρόκειται για τροποποίηση παλαιότερης άδειας.\n\tΣύμφωνα με τα στοιχεία που έχουν υποβληθεί στο ΣΗΛΥΑ, ο κάτοχος της κατασκευής κεραίας έχει δηλώσει ότι θα προβεί σε έκδοση έγκρισης δομικών κατασκευών \n\t\tκεραίας μέσω του e-Άδειες \n\t\tμετά την έκδοση της άδειας κατασκευής κεραίας / δημοσιοποίηση της δήλωσης τροποποίησης της κατασκευής κεραίας",
+  "measurements_eaee": "-",
+  "documents": [
+    {
+      "document_number": "487682/12-06-2023",
+      "protocol_number": "47606/Φ615/24-03-2023",
+      "type": "Χορήγηση Δικαιώματος Χρήσης Ραδιοσυχνοτήτων",
+      "file_url": null
+    },
+    {
+      "document_number": "487683/12-06-2023",
+      "protocol_number": "ΥΠΕΥΘΥΝΗ ΔΗΛΩΣΗ ΚΟΙΝΗΣ ΧΡΗΣΗΣ VODAFONE/06-06-2023",
+      "type": "Άλλο",
+      "file_url": "https://silia.eett.gr/silia/download/b4885f07-0579-4e55-ae26-d8bbc02ddc64"
+    },
+    {
+      "document_number": "487684/12-06-2023",
+      "protocol_number": "ΥΠΕΥΘΥΝΗ ΔΗΛΩΣΗ ΔΙΑΣΥΝΔΕΣΗΣ VODAFONE/06-06-2023",
+      "type": "Άλλο",
+      "file_url": "https://silia.eett.gr/silia/download/4b75466c-d43a-49c3-96bd-00bfd55b8ed7"
+    },
+    {
+      "document_number": "487685/12-06-2023",
+      "protocol_number": "Δ3/Δ/8142/1496/22-02-2001",
+      "type": "Γνωμάτευση ΥΠΑ",
+      "file_url": "https://silia.eett.gr/silia/download/6fed4b97-e676-42f7-a0dc-eb6927039ac6"
+    },
+    {
+      "document_number": "487686/12-06-2023",
+      "protocol_number": "ΜΕΛΕΤΗ ΡΑΔΙΟΕΚΠΟΜΠΩΝ/02-06-2023",
+      "type": "Αίτηση - Μελέτη Ραδιοεκπομπών ΕΕΑΕ",
+      "file_url": "https://silia.eett.gr/silia/download/b88367d0-5554-425d-893c-ee3e8524e75e"
+    },
+    {
+      "document_number": "487687/12-06-2023",
+      "protocol_number": "ΤΟΠΟΓΡΑΦΙΚΟ/",
+      "type": "Τοπογραφικό",
+      "file_url": "https://silia.eett.gr/silia/download/723cc796-2abe-4537-9e76-ec6e1a931c9f"
+    },
+    {
+      "document_number": "487688/12-06-2023",
+      "protocol_number": "ΑΡΧΙΤΕΚΤΟΝΙΚΑ ΣΧΕΔΙΑ/",
+      "type": "Αρχιτεκτονικά Σχέδια",
+      "file_url": "https://silia.eett.gr/silia/download/fa16f4f8-0987-4609-aecc-b86239b73ec5"
+    },
+    {
+      "document_number": "487689/12-06-2023",
+      "protocol_number": "64352/08-06-2023",
+      "type": "Αποτελέσματα μελέτης στη ζώνης 2.6GHz για ΥΠΑ/ΓΕΕΘΑ",
+      "file_url": "https://silia.eett.gr/silia/download/bff7fb51-6e8b-47fe-8c17-0bd3a1c9ebac"
+    },
+    {
+      "document_number": "487812/13-06-2023",
+      "protocol_number": "Αρχείο Αίτησης/",
+      "type": "Αίτηση Άδειας Κατασκευής Κεραίας ΕΕΤΤ",
+      "file_url": "https://silia.eett.gr/silia/download/f68acfe9-5816-4f01-ac60-3a3ccd53b462"
+    },
+    {
+      "document_number": "491589/28-07-2023",
+      "protocol_number": "TMIA/411/9691/2023/27-07-2023",
+      "type": "Γνωμάτευση ΕΕΑΕ",
+      "file_url": "https://silia.eett.gr/silia/download/e07d521b-ada0-42b5-b82b-2455d20c3716"
+    },
+    {
+      "document_number": "496113/02-10-2023",
+      "protocol_number": "49262/02-10-2023",
+      "type": "Άδεια Κατασκευής  Κεραίας",
+      "file_url": "https://silia.eett.gr/silia/download/09455ead-9ff1-4e63-841b-13e116f32369"
+    },
+    {
+      "document_number": "487690/12-06-2023",
+      "protocol_number": "ΜΕΛΕΤΗ ΡΑΔΙΟΕΚΠΟΜΠΩΝ/02-06-2023",
+      "type": "Αίτηση - Μελέτη Ραδιοεκπομπών ΕΕΑΕ",
+      "file_url": "https://silia.eett.gr/silia/download/b88367d0-5554-425d-893c-ee3e8524e75e"
+    },
+    {
+      "document_number": "487813/13-06-2023",
+      "protocol_number": "Αρχείο Αίτησης/",
+      "type": "Δήλωση ΠΠΔ",
+      "file_url": "https://silia.eett.gr/silia/download/e0a86a1f-e3c0-4935-aeda-bdc57417dbaa"
+    }
+  ]
+}

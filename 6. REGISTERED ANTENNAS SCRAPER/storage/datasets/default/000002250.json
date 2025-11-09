@@ -1,0 +1,75 @@
+{
+  "antenna_id": "166815",
+  "address": "ΘΕΣΗ \"ΑΛΩΝΙΑ\" ΑΡΓΑΛΑΣΤΗΣ",
+  "position_code": 1414217,
+  "municipality": "Νοτίου Πηλίου",
+  "code_name": "ΑΡΓΑΛΑΣΤΗ Χ",
+  "region": "Θεσσαλίας",
+  "latitude": 39.216389,
+  "company": "OTE",
+  "longitude": 23.214444,
+  "permit_status": "Από τα στοιχεία που τηρούνται στην Ενημερωτική Πύλη προκύπτει ότι, για τη θέση \"ΘΕΣΗ \"ΑΛΩΝΙΑ\" ΑΡΓΑΛΑΣΤΗΣ\" στον Δήμο Νοτίου Πηλίου Περιφέρειας  Θεσσαλίας \n\t(κωδικός αριθμός θέσης 1414217, κωδική ονομασία \"ΑΡΓΑΛΑΣΤΗ Χ\") χορηγήθηκε, με την Απόφαση της ΕΕΤΤ \n47895/09-05-2023, άδεια κατασκευής κεραίας στην εταιρία OTE. \nΑπό τo έγγραφο της άδειας μπορείτε να ενημερωθείτε για τις σχετικές εγκρίσεις των συναρμόδιων φορέων, καθώς και εάν πρόκειται για τροποποίηση παλαιότερης άδειας.\n\tΣύμφωνα με τα στοιχεία που έχουν υποβληθεί στο ΣΗΛΥΑ, ο κάτοχος της κατασκευής κεραίας έχει δηλώσει ότι θα προβεί σε έκδοση έγκρισης δομικών κατασκευών \n\t\tκεραίας μέσω του e-Άδειες \n\t\tμετά την έκδοση της άδειας κατασκευής κεραίας / δημοσιοποίηση της δήλωσης τροποποίησης της κατασκευής κεραίας",
+  "measurements_eaee": "-",
+  "documents": [
+    {
+      "document_number": "476640/24-01-2023",
+      "protocol_number": "ΜΕΣΩ ΣΗΛΥΑ    /",
+      "type": "Τοπογραφικό",
+      "file_url": "https://silia.eett.gr/silia/download/7fd79c4b-1e51-4bf0-ab37-408580fb4274"
+    },
+    {
+      "document_number": "476641/24-01-2023",
+      "protocol_number": "ΜΕΣΩ ΣΗΛΥΑ    /",
+      "type": "Αρχιτεκτονικά Σχέδια",
+      "file_url": "https://silia.eett.gr/silia/download/0716fefc-ea1b-4d5f-91c3-4ef3c0ff533e"
+    },
+    {
+      "document_number": "476642/24-01-2023",
+      "protocol_number": "ΜΕΣΩ ΣΗΛΥΑ    /06-09-2022",
+      "type": "Αίτηση - Μελέτη Ραδιοεκπομπών ΕΕΑΕ",
+      "file_url": "https://silia.eett.gr/silia/download/7514e6d5-6c27-4704-bcbe-cb725b1f43f2"
+    },
+    {
+      "document_number": "476643/24-01-2023",
+      "protocol_number": "Δ3/Δ/24766/6966/10-10-2018",
+      "type": "Γνωμάτευση ΥΠΑ",
+      "file_url": "https://silia.eett.gr/silia/download/c4c7e828-f987-4c54-ae08-f99bae4b85f5"
+    },
+    {
+      "document_number": "476644/24-01-2023",
+      "protocol_number": "ΥΔ ΣΥΝΕΓΚΑΤΑΣΤΑΣΗΣ ΟΤΕ/24-01-2023",
+      "type": "Άλλο",
+      "file_url": "https://silia.eett.gr/silia/download/6b3dcfa2-3a6a-44a9-b7fe-1964bf89eff7"
+    },
+    {
+      "document_number": "476645/24-01-2023",
+      "protocol_number": "Αρχείο Αίτησης/",
+      "type": "Αίτηση Άδειας Κατασκευής Κεραίας ΕΕΤΤ",
+      "file_url": "https://silia.eett.gr/silia/download/7ddefb70-ce41-46ab-b4d3-45aa40aef2d1"
+    },
+    {
+      "document_number": "480903/24-03-2023",
+      "protocol_number": "ΤΜΙΑ/411/4109/2023/23-03-2023",
+      "type": "Γνωμάτευση ΕΕΑΕ",
+      "file_url": "https://silia.eett.gr/silia/download/5da3daee-7cf5-4d42-b85d-b2cceda2620c"
+    },
+    {
+      "document_number": "484817/15-05-2023",
+      "protocol_number": "47895/09-05-2023",
+      "type": "Άδεια Κατασκευής  Κεραίας",
+      "file_url": "https://silia.eett.gr/silia/download/9923631d-6621-49a9-96c5-828b15323551"
+    },
+    {
+      "document_number": "476639/24-01-2023",
+      "protocol_number": "ΣΥΝΟΔΕΥΤΙΚΑ ΕΓΓΡΑΦΑ/",
+      "type": "Δήλωση υπαγωγής σε ΠΠΔ και Συνοδευτικά Έγγραφα",
+      "file_url": "https://silia.eett.gr/silia/download/e73de502-e698-4f03-ae82-83033ddfed82"
+    },
+    {
+      "document_number": "476646/24-01-2023",
+      "protocol_number": "Αρχείο Αίτησης/",
+      "type": "Δήλωση ΠΠΔ",
+      "file_url": "https://silia.eett.gr/silia/download/e598a343-95b3-4fdf-bd97-fa2f633a540a"
+    }
+  ]
+}

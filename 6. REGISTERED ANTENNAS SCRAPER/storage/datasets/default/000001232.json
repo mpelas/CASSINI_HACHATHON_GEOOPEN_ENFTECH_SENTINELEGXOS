@@ -1,0 +1,39 @@
+{
+  "antenna_id": "171542",
+  "address": "ΚΗΠΟΥΡΕΙΟ ΓΡΕΒΕΝΩΝ.",
+  "position_code": 1151697,
+  "municipality": "Γρεβενών",
+  "code_name": "3031697 SYZEFXIS GORGIANI GREVENA",
+  "region": "Δυτικής Μακεδονίας",
+  "latitude": 39.953611,
+  "company": "VODAFONE",
+  "longitude": 21.360833,
+  "permit_status": "Από τα στοιχεία που τηρούνται στην Ενημερωτική Πύλη προκύπτει ότι, για τη θέση \"ΚΗΠΟΥΡΕΙΟ ΓΡΕΒΕΝΩΝ.\" στον Δήμο Γρεβενών Περιφέρειας  Δυτικής Μακεδονίας \n\t(κωδικός αριθμός θέσης 1151697, κωδική ονομασία \"3031697 SYZEFXIS GORGIANI GREVENA\") έχει κατατεθεί από την εταιρία VODAFONE\tδήλωση εγκατάστασης κατασκευής κεραίας (αριθ. πρωτ. \n\t54252/21-12-2023) που εμπίπτει στις διατάξεις της νομοθεσίας για Εγκαταστάσεις Κατασκευών Κεραιών Χαμηλής Ηλεκτρομαγνητικής Περιβαλλοντικής Όχλησης (ΕΚΚΧΟ).",
+  "measurements_eaee": "-",
+  "documents": [
+    {
+      "document_number": "503654/20-12-2023",
+      "protocol_number": "Φωτορεαλιστική απεικόνιση κεραιας ΕΚΚΧΟ/",
+      "type": "Φωτογραφικό Υλικό - Σκαρίφημα",
+      "file_url": "https://silia.eett.gr/silia/download/0aac111b-9ac8-4b99-9f1e-bad14f285660"
+    },
+    {
+      "document_number": "503655/20-12-2023",
+      "protocol_number": "Ψηφιακός Χάρτης με προβολή της θέσης της κεραίας ΕΚΚΧΟ/",
+      "type": "Φωτογραφικό Υλικό - Σκαρίφημα",
+      "file_url": "https://silia.eett.gr/silia/download/5162953c-1ed8-478b-a8e2-09220f021cf7"
+    },
+    {
+      "document_number": "503819/21-12-2023",
+      "protocol_number": "Μελέτη ΕΚΚΧΟ/20-12-2023",
+      "type": "Άλλο",
+      "file_url": "https://silia.eett.gr/silia/download/4c3643db-1e57-42ea-b429-44ec2791d85d"
+    },
+    {
+      "document_number": "503820/21-12-2023",
+      "protocol_number": "Αρχείο Αίτησης/",
+      "type": "Δήλωση ΕΚΚΧΟ",
+      "file_url": "https://silia.eett.gr/silia/download/1fca7860-a3a0-4652-ba46-617e58f1015f"
+    }
+  ]
+}

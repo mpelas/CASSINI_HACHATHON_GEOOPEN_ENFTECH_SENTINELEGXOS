@@ -1,0 +1,57 @@
+{
+  "antenna_id": "177580",
+  "address": "ΑΝΩ ΟΡΕΙΝΑ ΧΟΡΤΙΑΤΗ ΡΑΔΙΟΠΑΡΚΟ ΠΛΗΣΙΟΝ Ρ.Θ.",
+  "position_code": 5000349,
+  "municipality": "Πυλαίας - Χορτιάτη",
+  "code_name": "XORTIATIS-3",
+  "region": "Κεντρικής Μακεδονίας",
+  "latitude": 40.595,
+  "company": "Κ. ΟΥΡΟΥΛΗΣ ΚΑΙ ΣΙΑ Ε.Ε.",
+  "longitude": 23.105,
+  "permit_status": "Από τα στοιχεία που τηρούνται στην Ενημερωτική Πύλη προκύπτει ότι, για τη θέση \"ΑΝΩ ΟΡΕΙΝΑ ΧΟΡΤΙΑΤΗ ΡΑΔΙΟΠΑΡΚΟ ΠΛΗΣΙΟΝ Ρ.Θ.\" στον Δήμο Πυλαίας - Χορτιάτη Περιφέρειας  Κεντρικής Μακεδονίας \n\t(κωδικός αριθμός θέσης 5000349, κωδική ονομασία \"XORTIATIS-3\") έχει κατατεθεί από την εταιρία Κ. ΟΥΡΟΥΛΗΣ ΚΑΙ ΣΙΑ Ε.Ε.\tδήλωση εγκατάστασης κατασκευής κεραίας (αριθ. πρωτ. \n\t59320/08-02-2025) που εμπίπτει στις διατάξεις της νομοθεσίας για Εγκαταστάσεις Κατασκευών Κεραιών Χαμηλής Ηλεκτρομαγνητικής Περιβαλλοντικής Όχλησης (ΕΚΚΧΟ).",
+  "measurements_eaee": "-",
+  "documents": [
+    {
+      "document_number": "540277/08-02-2025",
+      "protocol_number": "ΤΟΠΟ GOOGLE EARTH ΚΘ.5000349 XOR-3/08-02-2025",
+      "type": "Τοπογραφικό",
+      "file_url": "https://silia.eett.gr/silia/download/LAG5WSG23bAiQdTvptbRQSB6OatQTpoA2FUW"
+    },
+    {
+      "document_number": "540278/08-02-2025",
+      "protocol_number": "ΚΑΤΟΨΗ ΚΕΡΑΙΑΣ ΕΚΚΧΟ ΚΘ.5000349 XOR-3 ΜΕ ΠΕΡ.ΠΡΟΣΤ.2,5m/08-02-2025",
+      "type": "Φωτογραφικό Υλικό - Σκαρίφημα",
+      "file_url": "https://silia.eett.gr/silia/download/w1FXhKNDLtCANA6y9OVdFx6MwEG0nZkmUcks"
+    },
+    {
+      "document_number": "540279/08-02-2025",
+      "protocol_number": "ΟΨΗ ΚΕΡΑΙΑΣ ΕΚΚΧΟ ΚΘ.5000349 XOR-3/08-02-2025",
+      "type": "Φωτογραφικό Υλικό - Σκαρίφημα",
+      "file_url": "https://silia.eett.gr/silia/download/emPiHxFUvVvyQglSxveDrfHYU182LheaMTFo"
+    },
+    {
+      "document_number": "540280/08-02-2025",
+      "protocol_number": "ΦΩΤΟΡΕΑΛΙΣΤΙΚΟ ΚΘ.5000349 ΚΕΡΑΙΑΣ ΕΚΚΧΟ XOR-3/08-02-2025",
+      "type": "Φωτογραφικό Υλικό - Σκαρίφημα",
+      "file_url": "https://silia.eett.gr/silia/download/SOCbGAQryZg2XG1t6Rp5dc3PxOl3Kau9wXFb"
+    },
+    {
+      "document_number": "540281/08-02-2025",
+      "protocol_number": "ΜΕΛΕΤΗ ΡΑΔΙΟΕΚΠΟΜΠΩΝ ΚΕΡΑΙΑΣ ΕΚΚΧΟ ΚΘ.5000349 XOR-3/08-02-2025",
+      "type": "Μελέτη Ραδιοεκπομπών",
+      "file_url": "https://silia.eett.gr/silia/download/wUhrgKR3iBZDgDlI06N22vHqCzWOVgZPyzHN"
+    },
+    {
+      "document_number": "540282/08-02-2025",
+      "protocol_number": "Αρχείο Αίτησης/08-02-2025",
+      "type": "Δήλωση ΕΚΚΧΟ",
+      "file_url": "https://silia.eett.gr/silia/download/cx1x5eE3AMVg8bg1dorFmrztZNhsim8Wio3g"
+    },
+    {
+      "document_number": "541743/23-02-2025",
+      "protocol_number": "ΥΔ ΕΓΚΑΤΑΣΤΑΣΗΣ ΚΘ5000349/23-02-2025",
+      "type": "Άλλο",
+      "file_url": "https://silia.eett.gr/silia/download/a9052c9gdV9LZn71XtWg8HoGmIY0gM7gUTnt"
+    }
+  ]
+}

@@ -1,0 +1,87 @@
+{
+  "antenna_id": "170562",
+  "address": "ΠΛΗΣΙΟΝ ΟΙΚΙΣΜΟΥ ΕΥΚΑΡΠΙΑΣ",
+  "position_code": 1401325,
+  "municipality": "Παύλου Μελά",
+  "code_name": "ΠΑΠΑΓΕΩΡΓΙΟΥ-Χ",
+  "region": "Κεντρικής Μακεδονίας",
+  "latitude": 40.675,
+  "company": "OTE",
+  "longitude": 22.970556,
+  "permit_status": "Από τα στοιχεία που τηρούνται στην Ενημερωτική Πύλη προκύπτει ότι, για τη θέση \"ΠΛΗΣΙΟΝ ΟΙΚΙΣΜΟΥ ΕΥΚΑΡΠΙΑΣ\" στον Δήμο Παύλου Μελά Περιφέρειας  Κεντρικής Μακεδονίας \n\t(κωδικός αριθμός θέσης 1401325, κωδική ονομασία \"ΠΑΠΑΓΕΩΡΓΙΟΥ-Χ\") χορηγήθηκε, με την Απόφαση της ΕΕΤΤ \n52485/02-05-2025, άδεια κατασκευής κεραίας στην εταιρία OTE. \nΑπό τo έγγραφο της άδειας μπορείτε να ενημερωθείτε για τις σχετικές εγκρίσεις των συναρμόδιων φορέων, καθώς και εάν πρόκειται για τροποποίηση παλαιότερης άδειας.\n\tΣύμφωνα με τα στοιχεία που έχουν υποβληθεί στο ΣΗΛΥΑ, ο κάτοχος της κατασκευής κεραίας έχει δηλώσει ότι θα προβεί σε έκδοση έγκρισης δομικών κατασκευών \n\t\tκεραίας μέσω του e-Άδειες \n\t\tμετά την έκδοση της άδειας κατασκευής κεραίας / δημοσιοποίηση της δήλωσης τροποποίησης της κατασκευής κεραίας",
+  "measurements_eaee": "-",
+  "documents": [
+    {
+      "document_number": "498074/20-10-2023",
+      "protocol_number": "ΜΕΣΩ ΣΗΛΥΑ/",
+      "type": "Τοπογραφικό",
+      "file_url": "https://silia.eett.gr/silia/download/4036b10b-6dd3-4ee8-86bd-c545fdd0b9e8"
+    },
+    {
+      "document_number": "498075/20-10-2023",
+      "protocol_number": "ΜΕΣΩ ΣΗΛΥΑ/",
+      "type": "Αρχιτεκτονικά Σχέδια",
+      "file_url": "https://silia.eett.gr/silia/download/41209906-82c0-4195-97c4-0b17f01deb8f"
+    },
+    {
+      "document_number": "498076/20-10-2023",
+      "protocol_number": "ΜΕΣΩ ΣΗΛΥΑ/06-08-2023",
+      "type": "Αίτηση - Μελέτη Ραδιοεκπομπών ΕΕΑΕ",
+      "file_url": "https://silia.eett.gr/silia/download/d3a58481-bbad-445d-8e2b-7b1559264388"
+    },
+    {
+      "document_number": "498077/20-10-2023",
+      "protocol_number": "ΜΕΛΕΤΗ ΕΜC/28-09-2023",
+      "type": "Αποτελέσματα μελέτης στη ζώνης 2.6GHz για ΥΠΑ/ΓΕΕΘΑ",
+      "file_url": "https://silia.eett.gr/silia/download/902d7630-5e58-4f9b-be3f-06bb3e84731d"
+    },
+    {
+      "document_number": "498116/23-10-2023",
+      "protocol_number": "Δ3/Δ/3247/781/04-02-2005",
+      "type": "Γνωμάτευση ΥΠΑ",
+      "file_url": "https://silia.eett.gr/silia/download/a022b4fd-d9d0-43a7-9f80-d437523c8cc4"
+    },
+    {
+      "document_number": "498121/23-10-2023",
+      "protocol_number": "ΜΕΣΩ ΣΗΛΥΑ/",
+      "type": "Αίτηση ΥΠΑ",
+      "file_url": "https://silia.eett.gr/silia/download/ec8a0e4a-1885-4202-9aee-b00e2010ca32"
+    },
+    {
+      "document_number": "498135/23-10-2023",
+      "protocol_number": "Αρχείο Αίτησης/",
+      "type": "Αίτηση Άδειας Κατασκευής Κεραίας ΕΕΤΤ",
+      "file_url": "https://silia.eett.gr/silia/download/c048d249-300b-4a23-9da7-95e5c4bc3a6e"
+    },
+    {
+      "document_number": "503626/20-12-2023",
+      "protocol_number": "ΤΜΙΑ/411/17277/2023/19-12-2023",
+      "type": "Γνωμάτευση ΕΕΑΕ",
+      "file_url": "https://silia.eett.gr/silia/download/f2079542-4c84-4bcb-82d8-9b05b01cadcb"
+    },
+    {
+      "document_number": "546619/10-04-2025",
+      "protocol_number": "ΜΕΣΩ ΣΗΛΥΑ1/04-04-2025",
+      "type": "Άλλο",
+      "file_url": "https://silia.eett.gr/silia/download/NvVlbkZQbLQNtxUTMT1qv5VKPnZiO0Glen42"
+    },
+    {
+      "document_number": "548446/06-05-2025",
+      "protocol_number": "52485/02-05-2025",
+      "type": "Άδεια Κατασκευής  Κεραίας",
+      "file_url": "https://silia.eett.gr/silia/download/eibWDqpu5SCKTZG100QIrWC3toesELIgzNF7"
+    },
+    {
+      "document_number": "498123/23-10-2023",
+      "protocol_number": "ΜΕΣΩ ΣΗΛΥΑ/",
+      "type": "Δήλωση υπαγωγής σε ΠΠΔ και Συνοδευτικά Έγγραφα",
+      "file_url": "https://silia.eett.gr/silia/download/26e1b95a-2314-4db1-8432-acb76f190544"
+    },
+    {
+      "document_number": "498137/23-10-2023",
+      "protocol_number": "Αρχείο Αίτησης/",
+      "type": "Δήλωση ΠΠΔ",
+      "file_url": "https://silia.eett.gr/silia/download/c0942d28-b793-412e-89f3-4ee707df8249"
+    }
+  ]
+}

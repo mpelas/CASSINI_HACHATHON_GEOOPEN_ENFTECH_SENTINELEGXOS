@@ -1,0 +1,69 @@
+{
+  "antenna_id": "135748",
+  "address": "Τ.Κ ΒΛΑΣΤΗΣ",
+  "position_code": 330079,
+  "municipality": "Εορδαίας",
+  "code_name": "ΒΛΑΣΤΗ  Π/Κ",
+  "region": "Δυτικής Μακεδονίας",
+  "latitude": 40.470556,
+  "company": "OTE",
+  "longitude": 21.512222,
+  "permit_status": "Από τα στοιχεία που τηρούνται στην Ενημερωτική Πύλη προκύπτει ότι, για τη θέση \"Τ.Κ ΒΛΑΣΤΗΣ\" στον Δήμο Εορδαίας Περιφέρειας  Δυτικής Μακεδονίας \n\t(κωδικός αριθμός θέσης 0330079, κωδική ονομασία \" ΒΛΑΣΤΗ  Π/Κ\") χορηγήθηκε, με την Απόφαση της ΕΕΤΤ \n37468/29-10-2020, άδεια κατασκευής κεραίας στην εταιρία OTE. \nΑπό τo έγγραφο της άδειας μπορείτε να ενημερωθείτε για τις σχετικές εγκρίσεις των συναρμόδιων φορέων, καθώς και εάν πρόκειται για τροποποίηση παλαιότερης άδειας.\nΗ άδεια χορηγήθηκε με τη διαδικασία αδειοδότησης που ορίζει ο ν. 4635/2019, κατόπιν της με αριθ. πρωτ. 29975/31-10-2018 \n\tαίτησης, και βάσει σχετικής δήλωσης του κατόχου της περί υπαγωγή της κατασκευής κεραίας στο άρθρο 34 του ν. 4635/2019.",
+  "measurements_eaee": "-",
+  "documents": [
+    {
+      "document_number": "347011/31-10-2018",
+      "protocol_number": "ΜΕΣΩ ΣΗΛΥΑ/",
+      "type": "Τοπογραφικό",
+      "file_url": "https://silia.eett.gr/silia/download/deee9b97-2f93-45b2-b83a-b48636a9eace"
+    },
+    {
+      "document_number": "347012/31-10-2018",
+      "protocol_number": "ΜΕΣΩ ΣΗΛΥΑ/",
+      "type": "Αρχιτεκτονικά Σχέδια",
+      "file_url": "https://silia.eett.gr/silia/download/536b3faa-920d-4c44-bd63-266050a91da3"
+    },
+    {
+      "document_number": "347013/31-10-2018",
+      "protocol_number": "Δ3/Δ/30664/7067/05-08-2004",
+      "type": "Γνωμάτευση ΥΠΑ",
+      "file_url": "https://silia.eett.gr/silia/download/069ba9cd-0465-42aa-8262-1cec7b008a55"
+    },
+    {
+      "document_number": "347014/31-10-2018",
+      "protocol_number": "ΜΕΣΩ ΣΗΛΥΑ/31-10-2018",
+      "type": "Αίτηση ΥΠΑ",
+      "file_url": "https://silia.eett.gr/silia/download/2e4522e5-582c-4245-8c89-141a3c71db16"
+    },
+    {
+      "document_number": "347146/31-10-2018",
+      "protocol_number": "Αρχείο Αίτησης/",
+      "type": "Αίτηση Άδειας Κατασκευής Κεραίας ΕΕΤΤ",
+      "file_url": "https://silia.eett.gr/silia/download/3f37b203-c43f-41c7-9284-3c6cd1a05e25"
+    },
+    {
+      "document_number": "370736/16-07-2019",
+      "protocol_number": "ΠΑΡΑΡΤΗΜΑ ΚΕΡΑΙΟΣΥΣΤΗΜΑΤΟΣ/",
+      "type": "Άλλο",
+      "file_url": "https://silia.eett.gr/silia/download/7e8ec2f2-414a-4758-8ad4-4f272655489f"
+    },
+    {
+      "document_number": "420400/29-10-2020",
+      "protocol_number": "37468/29-10-2020",
+      "type": "Άδεια Κατασκευής  Κεραίας",
+      "file_url": "https://silia.eett.gr/silia/download/d794d4f0-1a6f-42c3-8135-83c4934d73ba"
+    },
+    {
+      "document_number": "368392/21-06-2019",
+      "protocol_number": "ΣΥΝΟΔΕΥΤΙΚΑ ΕΓΓΡΑΦΑ/",
+      "type": "Δήλωση υπαγωγής σε ΠΠΔ και Συνοδευτικά Έγγραφα",
+      "file_url": "https://silia.eett.gr/silia/download/88151aba-7e43-4e54-9bc8-e562a6c60fff"
+    },
+    {
+      "document_number": "368393/21-06-2019",
+      "protocol_number": "Αρχείο Αίτησης/",
+      "type": "Δήλωση ΠΠΔ",
+      "file_url": "https://silia.eett.gr/silia/download/79b59b5c-c92e-467b-9567-b0eeb5bd5cd2"
+    }
+  ]
+}

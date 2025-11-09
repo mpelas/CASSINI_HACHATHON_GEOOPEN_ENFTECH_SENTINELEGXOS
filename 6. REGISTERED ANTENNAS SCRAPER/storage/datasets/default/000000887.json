@@ -1,0 +1,69 @@
+{
+  "antenna_id": "179476",
+  "address": "ΘΕΣΗ ΡΟΥΠΑΚΙ (ΜΑΓΟΥΛΑ) ΑΣΠΡΟΠΥΡΓΟΣ",
+  "position_code": 1267939,
+  "municipality": "Ασπροπύργου",
+  "code_name": "ITYE DIOFANTOS (C939)",
+  "region": "Αττικής",
+  "latitude": 38.104167,
+  "company": "NOVA Μ.Α.Ε.",
+  "longitude": 23.579167,
+  "permit_status": "Από τα στοιχεία που τηρούνται στην Ενημερωτική Πύλη προκύπτει ότι, για τη θέση \"ΘΕΣΗ ΡΟΥΠΑΚΙ (ΜΑΓΟΥΛΑ) ΑΣΠΡΟΠΥΡΓΟΣ\" στον Δήμο Ασπροπύργου Περιφέρειας  Αττικής \n\t(κωδικός αριθμός θέσης 1267939, κωδική ονομασία \"ITYE DIOFANTOS (C939)\") έχει κατατεθεί από την εταιρία NOVA Μ.Α.Ε.\tδήλωση εγκατάστασης κατασκευής κεραίας (αριθ. πρωτ. \n\t61014/12-05-2025) που εμπίπτει στις διατάξεις της νομοθεσίας για Εγκαταστάσεις Κατασκευών Κεραιών Χαμηλής Ηλεκτρομαγνητικής Περιβαλλοντικής Όχλησης (ΕΚΚΧΟ).",
+  "measurements_eaee": "-",
+  "documents": [
+    {
+      "document_number": "548944/12-05-2025",
+      "protocol_number": "Φωτορεαλιστική απεικόνιση κεραίας ΕΚΚΧΟ/12-05-2025",
+      "type": "Φωτογραφικό Υλικό - Σκαρίφημα",
+      "file_url": "https://silia.eett.gr/silia/download/ASlu5iIY4amgTTk1murzz3sPlQxxG2zeBKaT"
+    },
+    {
+      "document_number": "548945/12-05-2025",
+      "protocol_number": "Φωτορεαλιστική απεικόνιση κεραίας ΕΚΚΧΟ1/12-05-2025",
+      "type": "Φωτογραφικό Υλικό - Σκαρίφημα",
+      "file_url": "https://silia.eett.gr/silia/download/gBGHkTK8nXgs9ldzAPxCZr6C1gSgLYcOWYet"
+    },
+    {
+      "document_number": "548946/12-05-2025",
+      "protocol_number": "Ψηφιακός χάρτης με προβολή της θέσης ΕΚΚΧΟ/12-05-2025",
+      "type": "Φωτογραφικό Υλικό - Σκαρίφημα",
+      "file_url": "https://silia.eett.gr/silia/download/kMmi9cHBkAeV8eLBWBVU80NxoHQ8Bq8a3wMO"
+    },
+    {
+      "document_number": "548947/12-05-2025",
+      "protocol_number": "ΜΕΛΕΤΗ ΕΚΚΧΟ/12-05-2025",
+      "type": "Άλλο",
+      "file_url": "https://silia.eett.gr/silia/download/Q4Q8Gfx29cwqFmw5QkbinpEgAOn2sngPuaAh"
+    },
+    {
+      "document_number": "548951/12-05-2025",
+      "protocol_number": "Σκαρίφημα με περιοχή απαγόρευσης/12-05-2025",
+      "type": "Φωτογραφικό Υλικό - Σκαρίφημα",
+      "file_url": "https://silia.eett.gr/silia/download/0O3MK6rbYqLxN84oYET3sxLrW32NHXRSwmYx"
+    },
+    {
+      "document_number": "548952/12-05-2025",
+      "protocol_number": "Φ.550/ΑΔ.4458/Σ.1077/09-05-2025",
+      "type": "Γνωμάτευση ΓΕΑ",
+      "file_url": "https://silia.eett.gr/silia/download/WP1liWSxeipoOwQxNpSBYfVZH6VfcRUgHGIb"
+    },
+    {
+      "document_number": "548953/12-05-2025",
+      "protocol_number": "Αρχείο Αίτησης/12-05-2025",
+      "type": "Δήλωση ΕΚΚΧΟ",
+      "file_url": "https://silia.eett.gr/silia/download/r680uCPGdTOwXWGAx2OVN02oOgwINyV8Ygy2"
+    },
+    {
+      "document_number": "554122/01-07-2025",
+      "protocol_number": "ΥΔ ΕΓΚΑΤΑΣΤΑΣΗΣ/01-07-2025",
+      "type": "Άλλο",
+      "file_url": "https://silia.eett.gr/silia/download/SnZs1acTpwt9dux83dTEn3Nywp1upQ4BeyRR"
+    },
+    {
+      "document_number": "554992/10-07-2025",
+      "protocol_number": "ΥΔ ΕΓΚΑΤΑΣΤΑΣΗΣ1/10-07-2025",
+      "type": "Άλλο",
+      "file_url": "https://silia.eett.gr/silia/download/g0amftbNsIz5yEMhySxSan75VE36zlCH3BQk"
+    }
+  ]
+}

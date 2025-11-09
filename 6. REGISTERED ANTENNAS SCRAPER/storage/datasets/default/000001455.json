@@ -1,0 +1,45 @@
+{
+  "antenna_id": "171829",
+  "address": "ΤΥΡΙΑ",
+  "position_code": 250155,
+  "municipality": "Δωδώνης",
+  "code_name": "ΤΥΡΙΑ Τ/Κ",
+  "region": "Ηπείρου",
+  "latitude": 39.531944,
+  "company": "OTE",
+  "longitude": 20.691389,
+  "permit_status": "Από τα στοιχεία που τηρούνται στην Ενημερωτική Πύλη προκύπτει ότι, για τη θέση \"ΤΥΡΙΑ\" στον Δήμο Δωδώνης Περιφέρειας  Ηπείρου \n\t(κωδικός αριθμός θέσης 0250155, κωδική ονομασία \"ΤΥΡΙΑ Τ/Κ\") έχει κατατεθεί από την εταιρία OTE\tδήλωση εγκατάστασης κατασκευής κεραίας (αριθ. πρωτ. \n\t55481/04-04-2024) που εμπίπτει στις διατάξεις της νομοθεσίας για Εγκαταστάσεις Κατασκευών Κεραιών Χαμηλής Ηλεκτρομαγνητικής Περιβαλλοντικής Όχλησης (ΕΚΚΧΟ).",
+  "measurements_eaee": "-",
+  "documents": [
+    {
+      "document_number": "505357/22-01-2024",
+      "protocol_number": "Χαρτης/",
+      "type": "Φωτογραφικό Υλικό - Σκαρίφημα",
+      "file_url": "https://silia.eett.gr/silia/download/818b90ad-66a9-44cb-931e-98e3adc28acd"
+    },
+    {
+      "document_number": "505358/22-01-2024",
+      "protocol_number": "Φωτογραφία/",
+      "type": "Φωτογραφικό Υλικό - Σκαρίφημα",
+      "file_url": "https://silia.eett.gr/silia/download/68aa8589-d4b6-4d44-980a-05ca14cb773b"
+    },
+    {
+      "document_number": "507595/14-02-2024",
+      "protocol_number": "ΜΕΣΩ ΣΗΛΥΑ/",
+      "type": "Αίτηση - Μελέτη Ραδιοεκπομπών ΕΕΑΕ",
+      "file_url": "https://silia.eett.gr/silia/download/dde553bd-3285-4057-9b90-2d72fe4244d4"
+    },
+    {
+      "document_number": "512179/04-04-2024",
+      "protocol_number": "Αρχείο Αίτησης/04-04-2024",
+      "type": "Δήλωση ΕΚΚΧΟ",
+      "file_url": "https://silia.eett.gr/silia/download/eWSw6h7VoDfIVMzddFl9k2DyKporCbhotbBM"
+    },
+    {
+      "document_number": "528140/08-10-2024",
+      "protocol_number": "ΥΠ.ΔΗΛΩΣΗ/08-10-2024",
+      "type": "Άλλο",
+      "file_url": "https://silia.eett.gr/silia/download/kL77XGO287S6XECde1cgkxKFXnkqV9K7Ub9P"
+    }
+  ]
+}

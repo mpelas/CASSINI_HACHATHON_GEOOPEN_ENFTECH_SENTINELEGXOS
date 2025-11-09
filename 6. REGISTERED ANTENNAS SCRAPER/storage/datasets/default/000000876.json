@@ -1,0 +1,33 @@
+{
+  "antenna_id": "164977",
+  "address": "ΕΡΓΟΤΑΞΙΟ ΚΟΥΜΟΥΝΔΟΥΡΟΣ  Λεωφ. Δημοκρατίας, Ασπρόπυργος.",
+  "position_code": 1159776,
+  "municipality": "Ασπροπύργου",
+  "code_name": "3029776 TERNA ASPROPIRGOS KOUMOUNDOUROU",
+  "region": "Αττικής",
+  "latitude": 38.036111,
+  "company": "VODAFONE",
+  "longitude": 23.621667,
+  "permit_status": "Από τα στοιχεία που τηρούνται στην Ενημερωτική Πύλη προκύπτει ότι, για τη θέση \"ΕΡΓΟΤΑΞΙΟ ΚΟΥΜΟΥΝΔΟΥΡΟΣ  Λεωφ. Δημοκρατίας, Ασπρόπυργος.\" στον Δήμο Ασπροπύργου Περιφέρειας  Αττικής \n\t(κωδικός αριθμός θέσης 1159776, κωδική ονομασία \"3029776 TERNA ASPROPIRGOS KOUMOUNDOUROU\") έχει κατατεθεί από την εταιρία VODAFONE\tδήλωση εγκατάστασης κατασκευής κεραίας (αριθ. πρωτ. \n\t48808/31-07-2022) που εμπίπτει στις διατάξεις της νομοθεσίας για Εγκαταστάσεις Κατασκευών Κεραιών Χαμηλής Ηλεκτρομαγνητικής Περιβαλλοντικής Όχλησης (ΕΚΚΧΟ).",
+  "measurements_eaee": "-",
+  "documents": [
+    {
+      "document_number": "465224/31-07-2022",
+      "protocol_number": "Φωτογραφία θέσης τοποθέτησης EKKXO/",
+      "type": "Φωτογραφικό Υλικό - Σκαρίφημα",
+      "file_url": "https://silia.eett.gr/silia/download/11b6bc56-9316-41eb-b90b-7a61f6a4f96d"
+    },
+    {
+      "document_number": "465225/31-07-2022",
+      "protocol_number": "Φωτογραφία θέσης EKKXO απο Google Earth/",
+      "type": "Φωτογραφικό Υλικό - Σκαρίφημα",
+      "file_url": "https://silia.eett.gr/silia/download/557c0c1c-ea00-4c1b-b74e-a1383ecc7bb6"
+    },
+    {
+      "document_number": "465226/31-07-2022",
+      "protocol_number": "Αρχείο Αίτησης/",
+      "type": "Δήλωση ΕΚΚΧΟ",
+      "file_url": "https://silia.eett.gr/silia/download/9bd8a303-e1c0-4a79-a9f0-e268cff4dd77"
+    }
+  ]
+}

@@ -1,0 +1,129 @@
+{
+  "antenna_id": "126308",
+  "address": "ΠΛΗΣΙΟΝ ΟΙΚΙΣΜΟΥ \"ΣΩΤΑΙΝΑ\" ΛΙΔΩΡΙΚΙΟΥ",
+  "position_code": 2423108,
+  "municipality": "Δωρίδος",
+  "code_name": "ΣΩΤΑΙΝΑ",
+  "region": "Στερεάς Ελλάδας",
+  "latitude": 38.424722,
+  "company": "RC",
+  "longitude": 22.174167,
+  "permit_status": "Από τα στοιχεία που τηρούνται στην Ενημερωτική Πύλη προκύπτει ότι, για τη θέση \"ΠΛΗΣΙΟΝ ΟΙΚΙΣΜΟΥ \"ΣΩΤΑΙΝΑ\" ΛΙΔΩΡΙΚΙΟΥ\" στον Δήμο Δωρίδος Περιφέρειας  Στερεάς Ελλάδας \n\t(κωδικός αριθμός θέσης 2423108, κωδική ονομασία \"ΣΩΤΑΙΝΑ\") χορηγήθηκε, με την Απόφαση της ΕΕΤΤ \n24208/Φ610/29-05-2017, άδεια κατασκευής κεραίας στην εταιρία RC. \nΑπό τo έγγραφο της άδειας μπορείτε να ενημερωθείτε για τις σχετικές εγκρίσεις των συναρμόδιων φορέων, καθώς και εάν πρόκειται για τροποποίηση παλαιότερης άδειας.\nΗ άδεια χορηγήθηκε, κατόπιν της με Αριθ. Πρωτ. 21566/16-03-2017 αίτησης, \n\tμε τη διαδικασία αδειοδότησης της παρ. 17 του άρθρου 30 του Ν.4070/2012 που πλέον έχει αντικατασταθεί από τη διαδικασία που ορίζει ο ν. 4635/2019.\n\tΣύμφωνα με τα στοιχεία που έχουν υποβληθεί στο ΣΗΛΥΑ για την κατασκευή κεραίας από τον κάτοχό της, έχει εκδοθεί έγκριση δομικών κατασκευών κεραίας",
+  "measurements_eaee": "-",
+  "documents": [
+    {
+      "document_number": "288568/07-03-2017",
+      "protocol_number": "ΡΑΔ_3108 SOTAINA/",
+      "type": "Αίτηση - Μελέτη Ραδιοεκπομπών ΕΕΑΕ",
+      "file_url": "https://silia.eett.gr/silia/download/cdadb11f-e96a-4bf2-b5a8-812e10cd2a3a"
+    },
+    {
+      "document_number": "288569/07-03-2017",
+      "protocol_number": "1.3108 PPD/",
+      "type": "Δήλωση υπαγωγής σε ΠΠΔ και Συνοδευτικά Έγγραφα",
+      "file_url": "https://silia.eett.gr/silia/download/27d39e4f-6906-47bb-9641-7cf9929cb46d"
+    },
+    {
+      "document_number": "288570/07-03-2017",
+      "protocol_number": "2.3108 TOPOGRAFIKO&GSYS 1:5000/",
+      "type": "Τοπογραφικό",
+      "file_url": "https://silia.eett.gr/silia/download/32b29fca-484c-4a64-ae68-17fe0be56877"
+    },
+    {
+      "document_number": "288571/07-03-2017",
+      "protocol_number": "3.3108 ARXITEKTONIKA ME SFRAGIDA/",
+      "type": "Αρχιτεκτονικά Σχέδια",
+      "file_url": "https://silia.eett.gr/silia/download/d8ed5642-4e03-4b7f-ac04-995380cbc868"
+    },
+    {
+      "document_number": "288573/07-03-2017",
+      "protocol_number": "3108 ΣΩΤΑΙΝΑ_ΕΦΑ/",
+      "type": "Αρχαιολογική έγκριση/γνωμοδότηση (μη τυπική)",
+      "file_url": "https://silia.eett.gr/silia/download/d439acca-8770-4186-9619-c8b99503f2ab"
+    },
+    {
+      "document_number": "288574/07-03-2017",
+      "protocol_number": "3108 ΣΩΤΑΙΝΑ_ΕΝΜ/",
+      "type": "Γνωμοδότηση Υπηρεσίας Νεωτέρων Μνημείων",
+      "file_url": "https://silia.eett.gr/silia/download/bd20861e-47bc-4525-8f82-f19644ed4bda"
+    },
+    {
+      "document_number": "288575/07-03-2017",
+      "protocol_number": "3108 YPA/",
+      "type": "Συμπληρωματικά Έγγραφα Αίτησης / Μελέτης",
+      "file_url": "https://silia.eett.gr/silia/download/94bb9d58-2214-4598-bfae-e9b6c37f0b3a"
+    },
+    {
+      "document_number": "288577/07-03-2017",
+      "protocol_number": "2.150623 ΕΚΠΡΟΣΩΠΗΣΗ RURAL/",
+      "type": "Συμπληρωματικά Έγγραφα",
+      "file_url": "https://silia.eett.gr/silia/download/c349486d-74ee-44a1-9f0c-585861d8329e"
+    },
+    {
+      "document_number": "288578/07-03-2017",
+      "protocol_number": "ΑΠ. ΣΥΜΒΑΣΗΣ ΔΙΚ. ΧΡΗΣΗΣ ΣΥΧΝΟΤΗΤΑΣ 3,8GHz/",
+      "type": "Συμπληρωματικά Έγγραφα",
+      "file_url": "https://silia.eett.gr/silia/download/e74d5387-ac55-48ce-ad59-5008fec7219d"
+    },
+    {
+      "document_number": "289679/16-03-2017",
+      "protocol_number": "ΑΡ. ΠΡΩΤ. _7174 16-3-17 ΑΙΤΗΣΗ ΕΚΧΩΡΗΣΗΣ ΣΥΧΝΟΤΗΤΩΝ/",
+      "type": "Αίτηση Ραδιοσυχνοτήτων",
+      "file_url": "https://silia.eett.gr/silia/download/4cae7618-6491-4206-9221-72cbe13af8db"
+    },
+    {
+      "document_number": "289680/16-03-2017",
+      "protocol_number": "ΤΕΛΗ ΕΚΧΩΡΗΣΗΣ 9-3-17/",
+      "type": "Αποδεικτικό Καταβολής Τελών ΕΕΤΤ",
+      "file_url": "https://silia.eett.gr/silia/download/f7024b8e-525d-40a2-b198-b0d953671177"
+    },
+    {
+      "document_number": "289681/16-03-2017",
+      "protocol_number": "Αρχείο Αίτησης/",
+      "type": "Αίτηση Άδειας Κατασκευής Κεραίας ΕΕΤΤ",
+      "file_url": "https://silia.eett.gr/silia/download/8356368c-2618-40a1-8be0-75c3fb079f18"
+    },
+    {
+      "document_number": "291263/03-04-2017",
+      "protocol_number": "Δ3/Δ/6957/2545/31-3-2017/03-04-2017",
+      "type": "Γνωμάτευση ΥΠΑ",
+      "file_url": "https://silia.eett.gr/silia/download/07d73477-474d-4938-89ad-2850af7c92b5"
+    },
+    {
+      "document_number": "291938/11-04-2017",
+      "protocol_number": "Μ.ι./411/4882/2017/10-04-2017",
+      "type": "Γνωμάτευση ΕΕΑΕ",
+      "file_url": "https://silia.eett.gr/silia/download/0aa0c963-b26d-4d60-8768-8572bcd5cb4d"
+    },
+    {
+      "document_number": "292718/20-04-2017",
+      "protocol_number": "3108 ΕΓΚΡΙΣΗ ΥΔΟΜ/",
+      "type": "Έγκριση δομικών κατασκευών (έντυπη)",
+      "file_url": "https://silia.eett.gr/silia/download/6a9f52e2-5aa7-4187-885c-eb1f7274dedc"
+    },
+    {
+      "document_number": "296386/31-05-2017",
+      "protocol_number": "24208/Φ610/29-05-2017",
+      "type": "Άδεια Κατασκευής  Κεραίας",
+      "file_url": "https://silia.eett.gr/silia/download/789ef8e5-ae43-4f4d-ad78-6180bec1aa7f"
+    },
+    {
+      "document_number": "292718/20-04-2017",
+      "protocol_number": "3108 ΕΓΚΡΙΣΗ ΥΔΟΜ/",
+      "type": "Έγκριση δομικών κατασκευών (έντυπη)",
+      "file_url": "https://silia.eett.gr/silia/download/6a9f52e2-5aa7-4187-885c-eb1f7274dedc"
+    },
+    {
+      "document_number": "288567/07-03-2017",
+      "protocol_number": "1.3108 PPD/",
+      "type": "Δήλωση υπαγωγής σε ΠΠΔ και Συνοδευτικά Έγγραφα",
+      "file_url": "https://silia.eett.gr/silia/download/c12b0999-fe40-43ef-9245-41b4cbca65fd"
+    },
+    {
+      "document_number": "292714/20-04-2017",
+      "protocol_number": "Αρχείο Αίτησης/",
+      "type": "Δήλωση ΠΠΔ",
+      "file_url": "https://silia.eett.gr/silia/download/a3b4be91-ea40-4040-aba1-cc1516b56dba"
+    }
+  ]
+}

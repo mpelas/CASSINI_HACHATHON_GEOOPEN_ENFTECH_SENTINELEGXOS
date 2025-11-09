@@ -1,0 +1,51 @@
+{
+  "antenna_id": "174312",
+  "address": "Αγίας Λαύρας 6, ΡΙΟ.",
+  "position_code": 1152930,
+  "municipality": "Πατρέων",
+  "code_name": "3032930 ANDRIOPOULOS PATRA",
+  "region": "Δυτικής Ελλάδας",
+  "latitude": 38.302778,
+  "company": "VODAFONE",
+  "longitude": 21.808333,
+  "permit_status": "Από τα στοιχεία που τηρούνται στην Ενημερωτική Πύλη προκύπτει ότι, για τη θέση \"Αγίας Λαύρας 6, ΡΙΟ.\" στον Δήμο Πατρέων Περιφέρειας  Δυτικής Ελλάδας \n\t(κωδικός αριθμός θέσης 1152930, κωδική ονομασία \"3032930 ANDRIOPOULOS PATRA\") έχει κατατεθεί από την εταιρία VODAFONE\tδήλωση εγκατάστασης κατασκευής κεραίας (αριθ. πρωτ. \n\t56597/15-07-2024) που εμπίπτει στις διατάξεις της νομοθεσίας για Εγκαταστάσεις Κατασκευών Κεραιών Χαμηλής Ηλεκτρομαγνητικής Περιβαλλοντικής Όχλησης (ΕΚΚΧΟ).",
+  "measurements_eaee": "-",
+  "documents": [
+    {
+      "document_number": "520530/15-07-2024",
+      "protocol_number": "Φωτορεαλιστική απεικόνιση κεραίας ΕΚΚΧΟ/15-07-2024",
+      "type": "Φωτογραφικό Υλικό - Σκαρίφημα",
+      "file_url": "https://silia.eett.gr/silia/download/qvqeBeQrAI8ucbfVCT6MSzUaGGOogFaS8qh0"
+    },
+    {
+      "document_number": "520531/15-07-2024",
+      "protocol_number": "Ψηφιακός χάρτης με προβολή της θέσης ΕΚΚΧΟ/15-07-2024",
+      "type": "Φωτογραφικό Υλικό - Σκαρίφημα",
+      "file_url": "https://silia.eett.gr/silia/download/h2yATxQ4YASUqupalzgwevuyrhFyVtifhnYV"
+    },
+    {
+      "document_number": "520533/15-07-2024",
+      "protocol_number": "ΜΕΛΕΤΗ ΕΚΚΧΟ/15-07-2024",
+      "type": "Άλλο",
+      "file_url": "https://silia.eett.gr/silia/download/oqmH7VD84ccQzeHKCYsoORGmpZ9qyqG4ZC4f"
+    },
+    {
+      "document_number": "520534/15-07-2024",
+      "protocol_number": "Σκαρίφημα με περιοχή απαγόρευσης/15-07-2024",
+      "type": "Φωτογραφικό Υλικό - Σκαρίφημα",
+      "file_url": "https://silia.eett.gr/silia/download/lOegeOYAh1XKdgGKvcWo3D3iYSmFgVSb43HU"
+    },
+    {
+      "document_number": "520536/15-07-2024",
+      "protocol_number": "Αρχείο Αίτησης/15-07-2024",
+      "type": "Δήλωση ΕΚΚΧΟ",
+      "file_url": "https://silia.eett.gr/silia/download/SydQ8uzLFrEdyc43c6tKkdn9gqDdlsgG5yyu"
+    },
+    {
+      "document_number": "530376/25-10-2024",
+      "protocol_number": "ΥΔ ΕΓΚΑΤΑΣΤΑΣΗΣ/25-10-2024",
+      "type": "Άλλο",
+      "file_url": "https://silia.eett.gr/silia/download/uH6YyAqGp5DXlFYeVcKNM3hqfXmYgt6WrrKQ"
+    }
+  ]
+}

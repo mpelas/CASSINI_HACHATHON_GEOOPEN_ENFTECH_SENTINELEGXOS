@@ -1,0 +1,75 @@
+{
+  "antenna_id": "176796",
+  "address": "\"ΓΙΕΜΟΥΛΕΣ Ή ΚΟΥΒΟΥΚΛΙ\", Τ.Κ. ΠΕΡΟΥΛΑΔΩΝ",
+  "position_code": 1404368,
+  "municipality": "Δήμων Βόρειας Κέρκυρας",
+  "code_name": "ΠΕΡΟΥΛΑΔΕΣ ΤΚ",
+  "region": "Ιονίων Νήσων",
+  "latitude": 39.777222,
+  "company": "OTE",
+  "longitude": 19.684444,
+  "permit_status": "Από τα στοιχεία που τηρούνται στην Ενημερωτική Πύλη προκύπτει ότι, για τη θέση \"\"ΓΙΕΜΟΥΛΕΣ Ή ΚΟΥΒΟΥΚΛΙ\", Τ.Κ. ΠΕΡΟΥΛΑΔΩΝ\" στον Δήμο Δήμων Βόρειας Κέρκυρας Περιφέρειας  Ιονίων Νήσων \n\t(κωδικός αριθμός θέσης 1404368, κωδική ονομασία \"ΠΕΡΟΥΛΑΔΕΣ ΤΚ\") χορηγήθηκε, με την Απόφαση της ΕΕΤΤ \n52476/02-05-2025, άδεια κατασκευής κεραίας στην εταιρία OTE. \nΑπό τo έγγραφο της άδειας μπορείτε να ενημερωθείτε για τις σχετικές εγκρίσεις των συναρμόδιων φορέων, καθώς και εάν πρόκειται για τροποποίηση παλαιότερης άδειας.\n\tΣύμφωνα με τα στοιχεία που έχουν υποβληθεί στο ΣΗΛΥΑ, ο κάτοχος της κατασκευής κεραίας έχει δηλώσει ότι θα προβεί σε έκδοση έγκρισης δομικών κατασκευών \n\t\tκεραίας μέσω του e-Άδειες \n\t\tμετά την έκδοση της άδειας κατασκευής κεραίας / δημοσιοποίηση της δήλωσης τροποποίησης της κατασκευής κεραίας",
+  "measurements_eaee": "-",
+  "documents": [
+    {
+      "document_number": "536281/20-12-2024",
+      "protocol_number": "ΤΟΠΟΓΡΑΦΙΚΟ/20-12-2024",
+      "type": "Τοπογραφικό",
+      "file_url": "https://silia.eett.gr/silia/download/GhpthkVs5yH6KhBzzxW1vTXelmlRcGOMnoCG"
+    },
+    {
+      "document_number": "536282/20-12-2024",
+      "protocol_number": "ΑΡΧΙΤΕΚΤΟΝΙΚΑ/20-12-2024",
+      "type": "Αρχιτεκτονικά Σχέδια",
+      "file_url": "https://silia.eett.gr/silia/download/m1gXsGvSAAi9K1DGwFnDRAzmauqxpf38lel5"
+    },
+    {
+      "document_number": "537063/07-01-2025",
+      "protocol_number": "ΜΕΛΕΤΗ Ρ/Ε/20-11-2024",
+      "type": "Αίτηση - Μελέτη Ραδιοεκπομπών ΕΕΑΕ",
+      "file_url": "https://silia.eett.gr/silia/download/GsKwYvcs7AbE5GO0Kxi0gl2y15t4VysHHGai"
+    },
+    {
+      "document_number": "537064/07-01-2025",
+      "protocol_number": "ΜΕΛΕΤΗ EMC/26-11-2024",
+      "type": "Αποτελέσματα μελέτης στη ζώνης 2.6GHz για ΥΠΑ/ΓΕΕΘΑ",
+      "file_url": "https://silia.eett.gr/silia/download/0AAOXFs2DdGvQi2W0Cg8PSTCqG8ZGLRe2bAu"
+    },
+    {
+      "document_number": "537065/07-01-2025",
+      "protocol_number": "Αρχείο Αίτησης/07-01-2025",
+      "type": "Αίτηση Άδειας Κατασκευής Κεραίας ΕΕΤΤ",
+      "file_url": "https://silia.eett.gr/silia/download/0bnUEad4XUma8Su6i1GsBExy9deqUZ0cNXow"
+    },
+    {
+      "document_number": "541451/20-02-2025",
+      "protocol_number": "ΚΓ/Δ3/Δ/3269/20-02-2025",
+      "type": "Γνωμάτευση ΥΠΑ",
+      "file_url": "https://silia.eett.gr/silia/download/DrqDaClfgKQ5G26lEQwSWV4s3p0GolX1W2f5"
+    },
+    {
+      "document_number": "543178/10-03-2025",
+      "protocol_number": "ΤΜΙΑ/411/3545/2025/07-03-2025",
+      "type": "Γνωμάτευση ΕΕΑΕ",
+      "file_url": "https://silia.eett.gr/silia/download/nyzm96NkXMDS5XRVQlDufuRiVpRi9uwdOyhE"
+    },
+    {
+      "document_number": "548627/07-05-2025",
+      "protocol_number": "52476/02-05-2025",
+      "type": "Άδεια Κατασκευής  Κεραίας",
+      "file_url": "https://silia.eett.gr/silia/download/yVsGCmTxnDi0dMBMS69iTZPemLU5WCxWOxqm"
+    },
+    {
+      "document_number": "536285/20-12-2024",
+      "protocol_number": "ΠΠΔ/20-12-2024",
+      "type": "Δήλωση υπαγωγής σε ΠΠΔ και Συνοδευτικά Έγγραφα",
+      "file_url": "https://silia.eett.gr/silia/download/HfgofzYMESIABNMWDEtrS1oOFguMT3g2c2ph"
+    },
+    {
+      "document_number": "537066/07-01-2025",
+      "protocol_number": "Αρχείο Αίτησης/07-01-2025",
+      "type": "Δήλωση ΠΠΔ",
+      "file_url": "https://silia.eett.gr/silia/download/euUuwWkE5M7YYxLhF6gXETUrXq2sBKqPtBAG"
+    }
+  ]
+}

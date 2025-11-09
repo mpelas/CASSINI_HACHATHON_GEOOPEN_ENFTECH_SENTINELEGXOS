@@ -1,0 +1,33 @@
+{
+  "antenna_id": "158913",
+  "address": "5χλμ Ε.Ο. ΕΡΕΤΡΙΑ ΑΛΙΒΕΡΙ, ΕΥΒΟΙΑ.",
+  "position_code": 1147598,
+  "municipality": "Ερέτριας",
+  "code_name": "3027598 ERETRIA VILLAGE RESORT",
+  "region": "Στερεάς Ελλάδας",
+  "latitude": 38.406389,
+  "company": "VODAFONE",
+  "longitude": 23.845833,
+  "permit_status": "Από τα στοιχεία που τηρούνται στην Ενημερωτική Πύλη προκύπτει ότι, για τη θέση \"5χλμ Ε.Ο. ΕΡΕΤΡΙΑ ΑΛΙΒΕΡΙ, ΕΥΒΟΙΑ.\" στον Δήμο Ερέτριας Περιφέρειας  Στερεάς Ελλάδας \n\t(κωδικός αριθμός θέσης 1147598, κωδική ονομασία \"3027598 ERETRIA VILLAGE RESORT\") έχει κατατεθεί από την εταιρία VODAFONE\tδήλωση εγκατάστασης κατασκευής κεραίας (αριθ. πρωτ. \n\t43425/05-04-2021) που εμπίπτει στις διατάξεις της νομοθεσίας για Εγκαταστάσεις Κατασκευών Κεραιών Χαμηλής Ηλεκτρομαγνητικής Περιβαλλοντικής Όχλησης (ΕΚΚΧΟ).",
+  "measurements_eaee": "-",
+  "documents": [
+    {
+      "document_number": "432853/05-04-2021",
+      "protocol_number": "ΦΩΤΟΓΡΑΦΙΑ ΘΕΣΗΣ ΚΕΡΑΙΑΣ 1/",
+      "type": "Φωτογραφικό Υλικό - Σκαρίφημα",
+      "file_url": "https://silia.eett.gr/silia/download/abf85daa-0eda-4544-9ae0-97db5dd1fb58"
+    },
+    {
+      "document_number": "432854/05-04-2021",
+      "protocol_number": "ΦΩΤΟΓΡΑΦΙΑ ΘΕΣΗΣ ΚΕΡΑΙΑΣ ΕΚΚΧΟ ΑΠΟ GOOGLE EARTH/",
+      "type": "Φωτογραφικό Υλικό - Σκαρίφημα",
+      "file_url": "https://silia.eett.gr/silia/download/02b7b3ae-5c89-4918-8d06-daf1d10858de"
+    },
+    {
+      "document_number": "432855/05-04-2021",
+      "protocol_number": "Αρχείο Αίτησης/",
+      "type": "Δήλωση ΕΚΚΧΟ",
+      "file_url": "https://silia.eett.gr/silia/download/1d208d09-eb31-4f68-ac43-ba57c4cd1ea7"
+    }
+  ]
+}

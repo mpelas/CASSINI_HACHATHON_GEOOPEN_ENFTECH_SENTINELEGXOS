@@ -1,0 +1,57 @@
+{
+  "antenna_id": "179608",
+  "address": "ΟΔΟΣ ΚΙΣΣΑΒΟΥ",
+  "position_code": 1152946,
+  "municipality": "Ασπροπύργου",
+  "code_name": "3032946 GOLDAIR ASPROPYRGOS THESI TRYPA ALEPOU",
+  "region": "Αττικής",
+  "latitude": 38.068889,
+  "company": "VODAFONE",
+  "longitude": 23.573611,
+  "permit_status": "Από τα στοιχεία που τηρούνται στην Ενημερωτική Πύλη προκύπτει ότι, για τη θέση \"ΟΔΟΣ ΚΙΣΣΑΒΟΥ\" στον Δήμο Ασπροπύργου Περιφέρειας  Αττικής \n\t(κωδικός αριθμός θέσης 1152946, κωδική ονομασία \"3032946 GOLDAIR ASPROPYRGOS THESI TRYPA ALEPOU\") έχει κατατεθεί από την εταιρία VODAFONE\tδήλωση εγκατάστασης κατασκευής κεραίας (αριθ. πρωτ. \n\t61127/19-05-2025) που εμπίπτει στις διατάξεις της νομοθεσίας για Εγκαταστάσεις Κατασκευών Κεραιών Χαμηλής Ηλεκτρομαγνητικής Περιβαλλοντικής Όχλησης (ΕΚΚΧΟ).",
+  "measurements_eaee": "-",
+  "documents": [
+    {
+      "document_number": "549664/19-05-2025",
+      "protocol_number": "Φωτορεαλιστική απεικόνιση κεραίας ΕΚΚΧΟ/19-05-2025",
+      "type": "Φωτογραφικό Υλικό - Σκαρίφημα",
+      "file_url": "https://silia.eett.gr/silia/download/8PZolBh2pwviiK9UORwVGUGNyS6NoB9kphmv"
+    },
+    {
+      "document_number": "549665/19-05-2025",
+      "protocol_number": "Ψηφιακός χάρτης με προβολή της θέσης ΕΚΚΧΟ/19-05-2025",
+      "type": "Φωτογραφικό Υλικό - Σκαρίφημα",
+      "file_url": "https://silia.eett.gr/silia/download/mFNIurhkSs6GiENPGvNdSGDA5hR3KOhCFvqK"
+    },
+    {
+      "document_number": "549667/19-05-2025",
+      "protocol_number": "ΑΡΧΙΤΕΚΤΟΝΙΚΑ ΣΧΕΔΙΑ ΕΚΚΧΟ/24-10-2024",
+      "type": "Αρχιτεκτονικά Σχέδια",
+      "file_url": "https://silia.eett.gr/silia/download/0Enmr73EgDEdABD2lGPD86An0RT7YqGSEG3o"
+    },
+    {
+      "document_number": "549668/19-05-2025",
+      "protocol_number": "ΜΕΛΕΤΗ ΕΚΚΧΟ/19-05-2025",
+      "type": "Άλλο",
+      "file_url": "https://silia.eett.gr/silia/download/r7YpZUEKobpAlf5iov98HLmDAKlwMwGytPUg"
+    },
+    {
+      "document_number": "549669/19-05-2025",
+      "protocol_number": "Φ.550/ΑΔ.2901/Σ.688/27-03-2025",
+      "type": "Γνωμάτευση ΓΕΑ",
+      "file_url": "https://silia.eett.gr/silia/download/pTY14kGeFpYfGIfzZ8pqlVuseZM33O7xolVa"
+    },
+    {
+      "document_number": "549672/19-05-2025",
+      "protocol_number": "Αρχείο Αίτησης/19-05-2025",
+      "type": "Δήλωση ΕΚΚΧΟ",
+      "file_url": "https://silia.eett.gr/silia/download/YbQhiP2GfBScR56QQssXAW4Tbel9TpzAsbiP"
+    },
+    {
+      "document_number": "554932/10-07-2025",
+      "protocol_number": "ΥΔ ΕΓΚΑΤΑΣΤΑΣΗΣ/10-07-2025",
+      "type": "Άλλο",
+      "file_url": "https://silia.eett.gr/silia/download/UAIiavMz3lAa25hPWsYgUcXYoVNbpEpUuRgv"
+    }
+  ]
+}

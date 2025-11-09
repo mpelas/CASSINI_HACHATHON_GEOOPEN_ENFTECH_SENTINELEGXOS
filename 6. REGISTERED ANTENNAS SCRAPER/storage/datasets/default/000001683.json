@@ -1,0 +1,81 @@
+{
+  "antenna_id": "169974",
+  "address": "ΟΙΚΙΣΜΟΣ ΖΙΤΣΑΣ",
+  "position_code": 1404363,
+  "municipality": "Ζίτσας",
+  "code_name": "ZITSA TK-C",
+  "region": "Ηπείρου",
+  "latitude": 39.751389,
+  "company": "OTE",
+  "longitude": 20.649167,
+  "permit_status": "Από τα στοιχεία που τηρούνται στην Ενημερωτική Πύλη προκύπτει ότι, για τη θέση \"ΟΙΚΙΣΜΟΣ ΖΙΤΣΑΣ\" στον Δήμο Ζίτσας Περιφέρειας  Ηπείρου \n\t(κωδικός αριθμός θέσης 1404363, κωδική ονομασία \"ZITSA TK-C\") χορηγήθηκε, με την Απόφαση της ΕΕΤΤ \n50031/30-11-2023, άδεια κατασκευής κεραίας στην εταιρία OTE. \nΑπό τo έγγραφο της άδειας μπορείτε να ενημερωθείτε για τις σχετικές εγκρίσεις των συναρμόδιων φορέων, καθώς και εάν πρόκειται για τροποποίηση παλαιότερης άδειας.\n\tΣύμφωνα με τα στοιχεία που έχουν υποβληθεί στο ΣΗΛΥΑ, ο κάτοχος της κατασκευής κεραίας έχει δηλώσει ότι θα προβεί σε έκδοση έγκρισης δομικών κατασκευών \n\t\tκεραίας μέσω του e-Άδειες \n\t\tμετά την έκδοση της άδειας κατασκευής κεραίας / δημοσιοποίηση της δήλωσης τροποποίησης της κατασκευής κεραίας",
+  "measurements_eaee": "-",
+  "documents": [
+    {
+      "document_number": "494994/22-09-2023",
+      "protocol_number": "ΜΕΣΩ ΣΗΛΥΑ/",
+      "type": "Αρχιτεκτονικά Σχέδια",
+      "file_url": "https://silia.eett.gr/silia/download/354378cb-d8f7-427e-b3d5-75ff2842858a"
+    },
+    {
+      "document_number": "494995/22-09-2023",
+      "protocol_number": "ΜΕΣΩ ΣΗΛΥΑ/07-07-2023",
+      "type": "Αίτηση - Μελέτη Ραδιοεκπομπών ΕΕΑΕ",
+      "file_url": "https://silia.eett.gr/silia/download/a47c27c0-bd5c-4c87-85c4-590916ae123c"
+    },
+    {
+      "document_number": "495001/22-09-2023",
+      "protocol_number": "ΜΕΣΩ ΣΗΛΥΑ/",
+      "type": "Τοπογραφικό",
+      "file_url": "https://silia.eett.gr/silia/download/53eb0381-91e6-401d-8537-5c75d43053e2"
+    },
+    {
+      "document_number": "495002/22-09-2023",
+      "protocol_number": "Δ3/Δ/17495/3522/20-09-2001",
+      "type": "Γνωμάτευση ΥΠΑ",
+      "file_url": "https://silia.eett.gr/silia/download/fc8a8661-c8a7-4f9e-9bf5-de802aeb1029"
+    },
+    {
+      "document_number": "495003/22-09-2023",
+      "protocol_number": "ΥΔ ΣΥΝΕΓΚΑΤΑΣΤΑΣΗΣ OTE/",
+      "type": "Άλλο",
+      "file_url": "https://silia.eett.gr/silia/download/01cae5b7-da0f-4468-8a39-0481d9c9cdde"
+    },
+    {
+      "document_number": "495004/22-09-2023",
+      "protocol_number": "ΜΕΣΩ ΣΗΛΥΑ/",
+      "type": "Αίτηση ΥΠΑ",
+      "file_url": "https://silia.eett.gr/silia/download/27b2bef1-562e-45ab-9b1a-984f553deb05"
+    },
+    {
+      "document_number": "495005/22-09-2023",
+      "protocol_number": "Αρχείο Αίτησης/",
+      "type": "Αίτηση Άδειας Κατασκευής Κεραίας ΕΕΤΤ",
+      "file_url": "https://silia.eett.gr/silia/download/c6a2adb0-5383-4163-92e0-ca0869927812"
+    },
+    {
+      "document_number": "499534/02-11-2023",
+      "protocol_number": "TMIA/411/13516/2023/31-10-2023",
+      "type": "Γνωμάτευση ΕΕΑΕ",
+      "file_url": "https://silia.eett.gr/silia/download/7748188c-45c6-4105-8bc9-15ec5df595fc"
+    },
+    {
+      "document_number": "502185/30-11-2023",
+      "protocol_number": "50031/30-11-2023",
+      "type": "Άδεια Κατασκευής  Κεραίας",
+      "file_url": "https://silia.eett.gr/silia/download/9484f0bf-ea49-4e25-a4a4-d65340609196"
+    },
+    {
+      "document_number": "494839/20-09-2023",
+      "protocol_number": "ΣΥΝΟΔΕΥΤΙΚΑ ΕΓΓΡΑΦΑ/",
+      "type": "Δήλωση υπαγωγής σε ΠΠΔ και Συνοδευτικά Έγγραφα",
+      "file_url": "https://silia.eett.gr/silia/download/b33d4fe7-5dfa-41d6-b482-eb31b6d5a360"
+    },
+    {
+      "document_number": "495006/22-09-2023",
+      "protocol_number": "Αρχείο Αίτησης/",
+      "type": "Δήλωση ΠΠΔ",
+      "file_url": "https://silia.eett.gr/silia/download/14888352-1ac4-4d31-9f77-241687fb4c34"
+    }
+  ]
+}

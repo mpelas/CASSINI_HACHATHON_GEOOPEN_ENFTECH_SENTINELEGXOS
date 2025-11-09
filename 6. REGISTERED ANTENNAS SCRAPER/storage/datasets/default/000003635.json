@@ -1,0 +1,135 @@
+{
+  "antenna_id": "84906",
+  "address": "ΕΘΝΙΚΗΣ ΑΝΤΙΣΤΑΣΕΩΣ & ΤΖΑΒΕΛΑ",
+  "position_code": 1003640,
+  "municipality": "Χαλανδρίου",
+  "code_name": "VODAFONE HOUSE K1",
+  "region": "Αττικής",
+  "latitude": 38.009444,
+  "company": "VODAFONE",
+  "longitude": 23.784167,
+  "permit_status": "Από τα στοιχεία που τηρούνται στην Ενημερωτική Πύλη προκύπτει ότι, για τη θέση \"ΕΘΝΙΚΗΣ ΑΝΤΙΣΤΑΣΕΩΣ & ΤΖΑΒΕΛΑ\" στον Δήμο Χαλανδρίου Περιφέρειας  Αττικής \n\t(κωδικός αριθμός θέσης 1003640, κωδική ονομασία \"VODAFONE HOUSE K1\") χορηγήθηκε, με την Απόφαση της ΕΕΤΤ \n13582/Φ610/15-10-2014, άδεια κατασκευής κεραίας στην εταιρία VODAFONE. \nΑπό τo έγγραφο της άδειας μπορείτε να ενημερωθείτε για τις σχετικές εγκρίσεις των συναρμόδιων φορέων, καθώς και εάν πρόκειται για τροποποίηση παλαιότερης άδειας.\n\tΗ άδεια χορηγήθηκε κατόπιν της με Αριθ. Πρωτ. 21003/24-05-2011 αίτησης. \n\tΓια την έκδοση της άδειας εφαρμόστηκε το προγενέστερο του Ν.4053/2012 νομοθετικό πλαίσιο, καθώς κατά δήλωση της εταιρίας, η κατασκευή πληρούσε \nτις προϋποθέσεις του άρθρου 31 του Ν.4053/2012.",
+  "measurements_eaee": "-",
+  "documents": [
+    {
+      "document_number": "12272/16-11-2012",
+      "protocol_number": "Φ.3479/1864/18-03-2010",
+      "type": "Αίτηση / Μελέτη για Έγκριση Περιβαλλοντικών Επιπτώσεων (νόμιμη λειτουργία)",
+      "file_url": null
+    },
+    {
+      "document_number": "17772/16-11-2012",
+      "protocol_number": "Μι/411/1557/09-12-2003",
+      "type": "Γνωμάτευση ΕΕΑΕ",
+      "file_url": null
+    },
+    {
+      "document_number": "17773/16-11-2012",
+      "protocol_number": "Μι/411/2963/10-12-2007",
+      "type": "Γνωμάτευση ΕΕΑΕ",
+      "file_url": null
+    },
+    {
+      "document_number": "23192/16-11-2012",
+      "protocol_number": "Δ3/Δ/9185/31-10-2003",
+      "type": "Γνωμάτευση ΥΠΑ",
+      "file_url": null
+    },
+    {
+      "document_number": "28605/16-11-2012",
+      "protocol_number": "Μ.ι./411/1185/07-04-2010",
+      "type": "Γνωμάτευση ΕΕΑΕ (νόμιμη λειτουργία)",
+      "file_url": null
+    },
+    {
+      "document_number": "34064/16-11-2012",
+      "protocol_number": "Δα/203/1647/14-11-2003",
+      "type": "Γνωμάτευση ΕΕΑΕ",
+      "file_url": null
+    },
+    {
+      "document_number": "39663/16-11-2012",
+      "protocol_number": "68089/19-12-2007",
+      "type": "Αίτηση επαναδειοδότησης (παρ 20 άρθρο 21 Ν.3431/2006)",
+      "file_url": null
+    },
+    {
+      "document_number": "39664/16-11-2012",
+      "protocol_number": "21003/24-05-2011",
+      "type": "Αίτηση Άδειας Κατασκευής Κεραίας ΕΕΤΤ",
+      "file_url": null
+    },
+    {
+      "document_number": "45026/16-11-2012",
+      "protocol_number": "467/27/08-02-2008",
+      "type": "Απόφαση επαναδειοδότησης (παρ 20 άρθρο 31 Ν.3431/2006)",
+      "file_url": null
+    },
+    {
+      "document_number": "170211/07-04-2014",
+      "protocol_number": "38255/8380 αρχικο/06-10-2003",
+      "type": "Γνωμάτευση ΥΠΑ",
+      "file_url": "https://silia.eett.gr/silia/download/5fcf717b-a5a9-4c2a-95aa-15e63d158679"
+    },
+    {
+      "document_number": "170212/07-04-2014",
+      "protocol_number": "9185 διορθ/31-10-2003",
+      "type": "Γνωμάτευση ΥΠΑ",
+      "file_url": "https://silia.eett.gr/silia/download/44de8407-94f1-4f8b-84e3-581682e92b90"
+    },
+    {
+      "document_number": "170213/07-04-2014",
+      "protocol_number": "1666/10-03-2010",
+      "type": "Αίτηση - Μελέτη Ραδιοεκπομπών ΕΕΑΕ",
+      "file_url": "https://silia.eett.gr/silia/download/6bf067ac-78c1-4e9d-ae7d-bf4226a68c24"
+    },
+    {
+      "document_number": "170214/07-04-2014",
+      "protocol_number": "Μ.ι./411/1185/07-04-2010",
+      "type": "Γνωμάτευση ΕΕΑΕ",
+      "file_url": "https://silia.eett.gr/silia/download/152ab4cb-3b17-45c7-a99e-a0fb8d24f90b"
+    },
+    {
+      "document_number": "170215/07-04-2014",
+      "protocol_number": "ΜΕΛΕΤΗ Υ/Β/25-02-2014",
+      "type": "Αίτηση - Μελέτη Ραδιοεκπομπών ΕΕΑΕ (υποβάθρου)",
+      "file_url": "https://silia.eett.gr/silia/download/41d84e28-9fd2-4666-94f0-4648b2de23f5"
+    },
+    {
+      "document_number": "170216/07-04-2014",
+      "protocol_number": "ΥΠΑΓΩΓΗ ΣΕ ΠΠΔ/24-03-2014",
+      "type": "Δήλωση υπαγωγής σε ΠΠΔ και Συνοδευτικά Έγγραφα",
+      "file_url": "https://silia.eett.gr/silia/download/acbc5a2c-4221-4649-8b16-2c249f086985"
+    },
+    {
+      "document_number": "170218/07-04-2014",
+      "protocol_number": "61261/21-03-2014",
+      "type": "Επιστροφή Αίτησης από Αρμόδιο Φορέα",
+      "file_url": "https://silia.eett.gr/silia/download/fe7a3114-b1d1-4af8-8ef2-78e841065890"
+    },
+    {
+      "document_number": "170219/07-04-2014",
+      "protocol_number": "21003/24-05-2011",
+      "type": "Αίτηση Άδειας Κατασκευής Κεραίας ΕΕΤΤ (νομίμως λειτουργούσα)",
+      "file_url": "https://silia.eett.gr/silia/download/38611d89-3202-4533-90dc-4ad4497de228"
+    },
+    {
+      "document_number": "170220/07-04-2014",
+      "protocol_number": "201104151121240020/15-04-2011",
+      "type": "Αποδεικτικό Καταβολής Τελών ΕΕΤΤ",
+      "file_url": null
+    },
+    {
+      "document_number": "170848/10-04-2014",
+      "protocol_number": "Αρχείο Αίτησης/",
+      "type": "Αίτηση Άδειας Κατασκευής Κεραίας ΕΕΤΤ",
+      "file_url": "https://silia.eett.gr/silia/download/b5df2c1c-ff1e-41cc-b6df-48147fabb58e"
+    },
+    {
+      "document_number": "186690/15-10-2014",
+      "protocol_number": "13582/Φ610/15-10-2014",
+      "type": "Άδεια Κατασκευής  Κεραίας",
+      "file_url": "https://silia.eett.gr/silia/download/8d429d39-5685-4541-bfa4-d11c34c9835d"
+    }
+  ]
+}

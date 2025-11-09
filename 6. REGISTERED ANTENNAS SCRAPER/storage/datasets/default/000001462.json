@@ -1,0 +1,63 @@
+{
+  "antenna_id": "175102",
+  "address": "Σήραγγα Αγίας Αναστασίας Σ2, νότια είσοδος",
+  "position_code": 1139063,
+  "municipality": "Δωδώνης",
+  "code_name": "EGNATIA AG. ANASTASIA (S2) WEST",
+  "region": "Ηπείρου",
+  "latitude": 39.549444,
+  "company": "VODAFONE",
+  "longitude": 20.708889,
+  "permit_status": "Από τα στοιχεία που τηρούνται στην Ενημερωτική Πύλη προκύπτει ότι, για τη θέση \"Σήραγγα Αγίας Αναστασίας Σ2, νότια είσοδος\" στον Δήμο Δωδώνης Περιφέρειας  Ηπείρου \n\t(κωδικός αριθμός θέσης 1139063, κωδική ονομασία \"EGNATIA AG. ANASTASIA (S2) WEST\") έχει κατατεθεί από την εταιρία VODAFONE\tδήλωση εγκατάστασης κατασκευής κεραίας (αριθ. πρωτ. \n\t57205/04-09-2024) που εμπίπτει στις διατάξεις της νομοθεσίας για Εγκαταστάσεις Κατασκευών Κεραιών Χαμηλής Ηλεκτρομαγνητικής Περιβαλλοντικής Όχλησης (ΕΚΚΧΟ).",
+  "measurements_eaee": "-",
+  "documents": [
+    {
+      "document_number": "524515/04-09-2024",
+      "protocol_number": "Φωτορεαλιστική απεικόνιση κεραιών 1 & 2 της ΕΚΚΧΟ/04-09-2024",
+      "type": "Φωτογραφικό Υλικό - Σκαρίφημα",
+      "file_url": "https://silia.eett.gr/silia/download/aQUTw5F6sShOMqy2xLm6APbggNl38HV9CARH"
+    },
+    {
+      "document_number": "524516/04-09-2024",
+      "protocol_number": "Φωτορεαλιστική απεικόνιση κεραίων 3 + mw & ερμαρίου ΕΚΚΧΟ/04-09-2024",
+      "type": "Φωτογραφικό Υλικό - Σκαρίφημα",
+      "file_url": "https://silia.eett.gr/silia/download/yGX5agsLRLylWi4bBwIHWxtFTu1pPBhzKOGK"
+    },
+    {
+      "document_number": "524518/04-09-2024",
+      "protocol_number": "Ψηφιακός χάρτης με προβολή της θέσης ΕΚΚΧΟ/04-09-2024",
+      "type": "Φωτογραφικό Υλικό - Σκαρίφημα",
+      "file_url": "https://silia.eett.gr/silia/download/gVlheDHlmHhrMUPow0L2YItkdgdCWIhXzg63"
+    },
+    {
+      "document_number": "524519/04-09-2024",
+      "protocol_number": "Αρχιτεκτονικά Σχέδια ΕΚΚΧΟ/02-08-2024",
+      "type": "Αρχιτεκτονικά Σχέδια",
+      "file_url": "https://silia.eett.gr/silia/download/StrVu4Ehgm9n28lSq9xgvTwXDmf090kk4YVM"
+    },
+    {
+      "document_number": "524521/04-09-2024",
+      "protocol_number": "Μελέτη ΕΚΚΧΟ/30-08-2024",
+      "type": "Άλλο",
+      "file_url": "https://silia.eett.gr/silia/download/Hb2v3qnwQHqoXEg8GfOKUsICcyRD9vM0A1Un"
+    },
+    {
+      "document_number": "524522/04-09-2024",
+      "protocol_number": "Υπεύθυνη Δήλωση κοινής χρήσης Nova/30-08-2024",
+      "type": "Άλλο",
+      "file_url": "https://silia.eett.gr/silia/download/qTUwQaHrmGWut336zx3YbAN4t4CGlzNZScup"
+    },
+    {
+      "document_number": "524542/04-09-2024",
+      "protocol_number": "Αρχείο Αίτησης/04-09-2024",
+      "type": "Δήλωση ΕΚΚΧΟ",
+      "file_url": "https://silia.eett.gr/silia/download/9ct1sDEkN3I9YGkgFdcIAPKxDMOZEYiVZLYr"
+    },
+    {
+      "document_number": "543464/12-03-2025",
+      "protocol_number": "ΥΔ Εγκατάστασης/12-03-2025",
+      "type": "Άλλο",
+      "file_url": "https://silia.eett.gr/silia/download/5zlTn2SBSoAMzsykt4AFNRiZLggDrm1AciOX"
+    }
+  ]
+}

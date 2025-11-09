@@ -1,0 +1,93 @@
+{
+  "antenna_id": "158440",
+  "address": "Οδός Αττικής & Γεωργίου Γεννηματά, Ο.Τ 81",
+  "position_code": 1410277,
+  "municipality": "Γλυφάδας",
+  "code_name": "GENIMA",
+  "region": "Αττικής",
+  "latitude": 37.895,
+  "company": "OTE",
+  "longitude": 23.762222,
+  "permit_status": "Από τα στοιχεία που τηρούνται στην Ενημερωτική Πύλη προκύπτει ότι, για τη θέση \"Οδός Αττικής & Γεωργίου Γεννηματά, Ο.Τ 81\" στον Δήμο Γλυφάδας Περιφέρειας  Αττικής \n\t(κωδικός αριθμός θέσης 1410277, κωδική ονομασία \"GENIMA\") χορηγήθηκε, με την Απόφαση της ΕΕΤΤ \n41490/06-09-2021, άδεια κατασκευής κεραίας στην εταιρία OTE. \nΑπό τo έγγραφο της άδειας μπορείτε να ενημερωθείτε για τις σχετικές εγκρίσεις των συναρμόδιων φορέων, καθώς και εάν πρόκειται για τροποποίηση παλαιότερης άδειας.",
+  "measurements_eaee": "-",
+  "documents": [
+    {
+      "document_number": "430281/26-02-2021",
+      "protocol_number": "ΜΕΣΩ ΣΗΛΥΑ/",
+      "type": "Τοπογραφικό",
+      "file_url": "https://silia.eett.gr/silia/download/943246fb-80c1-4a1a-95dc-de2be43ce8e8"
+    },
+    {
+      "document_number": "430282/26-02-2021",
+      "protocol_number": "ΜΕΣΩ ΣΗΛΥΑ/",
+      "type": "Αρχιτεκτονικά Σχέδια",
+      "file_url": "https://silia.eett.gr/silia/download/d783fef6-27a2-4b29-9003-cb65a67c6940"
+    },
+    {
+      "document_number": "430283/26-02-2021",
+      "protocol_number": "ΜΕΣΩ ΣΗΛΥΑ/19-02-2021",
+      "type": "Αίτηση - Μελέτη Ραδιοεκπομπών ΕΕΑΕ",
+      "file_url": "https://silia.eett.gr/silia/download/28e294da-3d97-4ce6-b0ef-e38d1c5a2282"
+    },
+    {
+      "document_number": "430284/26-02-2021",
+      "protocol_number": "ΜΕΛΕΤΗ  EMC/25-02-2021",
+      "type": "Αποτελέσματα μελέτης στη ζώνης 2.6GHz για ΥΠΑ/ΓΕΕΘΑ",
+      "file_url": "https://silia.eett.gr/silia/download/78a737c4-c004-4e32-a571-988debecc432"
+    },
+    {
+      "document_number": "430285/26-02-2021",
+      "protocol_number": "21377/26-02-2021",
+      "type": "Επιστολή Ενημέρωσης προς Αρμόδιο Φορέα",
+      "file_url": "https://silia.eett.gr/silia/download/d3138126-863e-4b38-be75-1494db27ddd5"
+    },
+    {
+      "document_number": "430403/01-03-2021",
+      "protocol_number": "Αρχείο Αίτησης/",
+      "type": "Αίτηση Άδειας Κατασκευής Κεραίας ΕΕΤΤ",
+      "file_url": "https://silia.eett.gr/silia/download/f3cbcf12-8ea4-4b9c-890b-5dbdf8f6bb29"
+    },
+    {
+      "document_number": "431461/19-03-2021",
+      "protocol_number": "ΜΕΣΩ ΣΗΛΥΑ/",
+      "type": "Τοπογραφικό",
+      "file_url": "https://silia.eett.gr/silia/download/fdc90b45-7b74-462b-bfa2-f9ed5a1729f0"
+    },
+    {
+      "document_number": "431462/19-03-2021",
+      "protocol_number": "ΜΕΣΩ ΣΗΛΥΑ/",
+      "type": "Αρχιτεκτονικά Σχέδια",
+      "file_url": "https://silia.eett.gr/silia/download/b8905f72-5801-414c-bdec-26a9d50e1317"
+    },
+    {
+      "document_number": "432624/01-04-2021",
+      "protocol_number": "Μ.ι./411/7963/2021/01-04-2021",
+      "type": "Γνωμάτευση ΕΕΑΕ",
+      "file_url": "https://silia.eett.gr/silia/download/d29744b3-d563-4c05-86ca-084747ad00e9"
+    },
+    {
+      "document_number": "439842/19-08-2021",
+      "protocol_number": "Δ3/Δ/28418/19-8-2021/19-08-2021",
+      "type": "Γνωμάτευση ΥΠΑ",
+      "file_url": "https://silia.eett.gr/silia/download/a695bd11-6e20-42f8-bd5e-d17b992cf190"
+    },
+    {
+      "document_number": "440363/08-09-2021",
+      "protocol_number": "41490/06-09-2021",
+      "type": "Άδεια Κατασκευής  Κεραίας",
+      "file_url": "https://silia.eett.gr/silia/download/adeb378c-2ff2-457a-ac4b-f5692b23226d"
+    },
+    {
+      "document_number": "430286/26-02-2021",
+      "protocol_number": "ΜΕΣΩ ΣΗΛΥΑ/",
+      "type": "Δήλωση υπαγωγής σε ΠΠΔ και Συνοδευτικά Έγγραφα",
+      "file_url": "https://silia.eett.gr/silia/download/b88e093e-b313-492a-85c6-44b1521b26e9"
+    },
+    {
+      "document_number": "430404/01-03-2021",
+      "protocol_number": "Αρχείο Αίτησης/",
+      "type": "Δήλωση ΠΠΔ",
+      "file_url": "https://silia.eett.gr/silia/download/7fe3d9a4-8961-42f5-ae8d-6f008f97aa66"
+    }
+  ]
+}

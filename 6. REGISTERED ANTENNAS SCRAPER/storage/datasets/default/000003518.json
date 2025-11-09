@@ -1,0 +1,33 @@
+{
+  "antenna_id": "161492",
+  "address": "ΔΑΡΔΙΤΣΑ,ΓΑΛΑΤΑΣ ΑΡΓΟΛΙΔΑ",
+  "position_code": 3206093,
+  "municipality": "Τροιζηνίας",
+  "code_name": "ΔΑΡΔΙΤΣΑ",
+  "region": "Αττικής",
+  "latitude": 37.463333,
+  "company": "ΕΡΤ ΑΕ",
+  "longitude": 23.448889,
+  "permit_status": "Από τα στοιχεία που τηρούνται στην Ενημερωτική Πύλη προκύπτει ότι για τη  θέση \"ΔΑΡΔΙΤΣΑ,ΓΑΛΑΤΑΣ ΑΡΓΟΛΙΔΑ\" στον Δήμο Τροιζηνίας Περιφέρειας  Αττικής έχει κατατεθεί από την εταιρία ΕΡΤ ΑΕ δήλωση κατασκευής κεραίας τηλεοπτικής ευρυεκπομπής με αριθ. πρωτ. ΣΗΛΥΑ \n45797/06-12-2021 κατά τα οριζόμενα στην παρ. 7 του άρθρου 39 του Ν.4635/2019.",
+  "measurements_eaee": "-",
+  "documents": [
+    {
+      "document_number": "447368/03-12-2021",
+      "protocol_number": "Επαναυποβολή_ΥΠΑ_μετάβαση/",
+      "type": "Αίτηση ΥΠΑ",
+      "file_url": "https://silia.eett.gr/silia/download/ae97e1bf-7b98-4fe2-95e1-f8d93754e579"
+    },
+    {
+      "document_number": "447369/03-12-2021",
+      "protocol_number": "screenshot/",
+      "type": "Φωτογραφικό Υλικό - Σκαρίφημα",
+      "file_url": "https://silia.eett.gr/silia/download/3644a20c-8bea-4a00-8a32-faac96692919"
+    },
+    {
+      "document_number": "447451/06-12-2021",
+      "protocol_number": "Αρχείο Αίτησης/",
+      "type": "Δήλωση Τηλεοπτικής Ευρυεκπομπής",
+      "file_url": "https://silia.eett.gr/silia/download/c8cf16cb-c670-44b2-9eaf-ef691eed6cf7"
+    }
+  ]
+}

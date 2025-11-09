@@ -1,0 +1,81 @@
+{
+  "antenna_id": "157875",
+  "address": "ΑΡΑΤΣΙΑΝΗ",
+  "position_code": 1404767,
+  "municipality": "Ηγουμενίτσας",
+  "code_name": "PERDIKA OUT",
+  "region": "Ηπείρου",
+  "latitude": 39.379167,
+  "company": "OTE",
+  "longitude": 20.3275,
+  "permit_status": "Από τα στοιχεία που τηρούνται στην Ενημερωτική Πύλη προκύπτει ότι, για τη θέση \"ΑΡΑΤΣΙΑΝΗ\" στον Δήμο Ηγουμενίτσας Περιφέρειας  Ηπείρου \n\t(κωδικός αριθμός θέσης 1404767, κωδική ονομασία \"PERDIKA OUT\") χορηγήθηκε, με την Απόφαση της ΕΕΤΤ \n41247/30-08-2021, άδεια κατασκευής κεραίας στην εταιρία OTE. \nΑπό τo έγγραφο της άδειας μπορείτε να ενημερωθείτε για τις σχετικές εγκρίσεις των συναρμόδιων φορέων, καθώς και εάν πρόκειται για τροποποίηση παλαιότερης άδειας.",
+  "measurements_eaee": "-",
+  "documents": [
+    {
+      "document_number": "427237/12-01-2021",
+      "protocol_number": "ΜΕΣΩ ΣΗΛΥΑ/",
+      "type": "Τοπογραφικό",
+      "file_url": "https://silia.eett.gr/silia/download/a78a6d12-d48b-4d5b-83fa-6989d4b540cb"
+    },
+    {
+      "document_number": "427238/12-01-2021",
+      "protocol_number": "ΜΕΣΩ ΣΗΛΥΑ/",
+      "type": "Αρχιτεκτονικά Σχέδια",
+      "file_url": "https://silia.eett.gr/silia/download/18876b12-27cf-4676-a3c2-9277487efdae"
+    },
+    {
+      "document_number": "427239/12-01-2021",
+      "protocol_number": "Δ3/Δ/5585/1577/01-03-2010",
+      "type": "Γνωμάτευση ΥΠΑ",
+      "file_url": "https://silia.eett.gr/silia/download/9058726d-de1e-42fc-839d-a5fbc3cefffc"
+    },
+    {
+      "document_number": "427240/12-01-2021",
+      "protocol_number": "Δ3/Δ/8692/01-11-2012",
+      "type": "Γνωμάτευση ΥΠΑ",
+      "file_url": "https://silia.eett.gr/silia/download/d9ab782c-33fc-47c5-b369-d75b5dd2013c"
+    },
+    {
+      "document_number": "427241/12-01-2021",
+      "protocol_number": "ΜΕΣΩ ΣΗΛΥΑ/30-11-2020",
+      "type": "Αίτηση - Μελέτη Ραδιοεκπομπών ΕΕΑΕ",
+      "file_url": "https://silia.eett.gr/silia/download/782327ff-b88e-4517-a3e9-24229b978c95"
+    },
+    {
+      "document_number": "427242/12-01-2021",
+      "protocol_number": "ΥΠ.ΔΗΛΩΣΗ ΣΥΝΕΓΚΑΤΑΣΤΑΣΗΣ ΟΤΕ/12-01-2021",
+      "type": "Άλλο",
+      "file_url": "https://silia.eett.gr/silia/download/86fd2bf5-42cc-4948-bea6-28a5a18b3487"
+    },
+    {
+      "document_number": "427281/13-01-2021",
+      "protocol_number": "Αρχείο Αίτησης/",
+      "type": "Αίτηση Άδειας Κατασκευής Κεραίας ΕΕΤΤ",
+      "file_url": "https://silia.eett.gr/silia/download/5f24d9d9-e84f-4638-8117-a9ed19addcc8"
+    },
+    {
+      "document_number": "428334/29-01-2021",
+      "protocol_number": "Μ.ι./411/5141/2021/29-01-2021",
+      "type": "Γνωμάτευση ΕΕΑΕ",
+      "file_url": "https://silia.eett.gr/silia/download/996c9549-ab0b-4f37-84e0-079b8ecdb2b9"
+    },
+    {
+      "document_number": "440095/02-09-2021",
+      "protocol_number": "41247/30-08-2021",
+      "type": "Άδεια Κατασκευής  Κεραίας",
+      "file_url": "https://silia.eett.gr/silia/download/58967392-ed83-4b4d-a653-68b2181d84a4"
+    },
+    {
+      "document_number": "427243/12-01-2021",
+      "protocol_number": "ΜΕΣΩ ΣΗΛΥΑ/",
+      "type": "Δήλωση υπαγωγής σε ΠΠΔ και Συνοδευτικά Έγγραφα",
+      "file_url": "https://silia.eett.gr/silia/download/c7cc8dad-f479-48a2-9665-21aad2861706"
+    },
+    {
+      "document_number": "427282/13-01-2021",
+      "protocol_number": "Αρχείο Αίτησης/",
+      "type": "Δήλωση ΠΠΔ",
+      "file_url": "https://silia.eett.gr/silia/download/d697e66a-d70a-42e5-bbd1-2429b681acc1"
+    }
+  ]
+}

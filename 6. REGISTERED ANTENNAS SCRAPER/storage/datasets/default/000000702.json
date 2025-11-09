@@ -1,0 +1,99 @@
+{
+  "antenna_id": "135009",
+  "address": "ΘΕΣΗ ΣΤΑΥΡΟΣ, ΕΛΛΗΝΙΚΑ",
+  "position_code": 1105818,
+  "municipality": "Αργιθέας",
+  "code_name": "ΚΑΛΗ ΚΩΜΗ ΚΑΡΔΙΤΣΑΣ",
+  "region": "Θεσσαλίας",
+  "latitude": 39.366111,
+  "company": "VODAFONE",
+  "longitude": 21.388056,
+  "permit_status": "Από τα στοιχεία που τηρούνται στην Ενημερωτική Πύλη προκύπτει ότι, για τη θέση \"ΘΕΣΗ ΣΤΑΥΡΟΣ, ΕΛΛΗΝΙΚΑ\" στον Δήμο Αργιθέας Περιφέρειας  Θεσσαλίας \n\t(κωδικός αριθμός θέσης 1105818, κωδική ονομασία \"ΚΑΛΗ ΚΩΜΗ ΚΑΡΔΙΤΣΑΣ\") χορηγήθηκε, με την Απόφαση της ΕΕΤΤ \n37487/29-10-2020, άδεια κατασκευής κεραίας στην εταιρία VODAFONE. \nΑπό τo έγγραφο της άδειας μπορείτε να ενημερωθείτε για τις σχετικές εγκρίσεις των συναρμόδιων φορέων, καθώς και εάν πρόκειται για τροποποίηση παλαιότερης άδειας.\nΗ άδεια χορηγήθηκε με τη διαδικασία αδειοδότησης που ορίζει ο ν. 4635/2019, κατόπιν της με αριθ. πρωτ. 31355/31-01-2019 \n\tαίτησης, και βάσει σχετικής δήλωσης του κατόχου της περί υπαγωγή της κατασκευής κεραίας στο άρθρο 34 του ν. 4635/2019.",
+  "measurements_eaee": "-",
+  "documents": [
+    {
+      "document_number": "343796/09-10-2018",
+      "protocol_number": "ΜΕΛΕΤΗ Ρ-Ε/28-09-2018",
+      "type": "Αίτηση - Μελέτη Ραδιοεκπομπών ΕΕΑΕ",
+      "file_url": "https://silia.eett.gr/silia/download/5634ef43-1813-4f02-9a83-16175db20e38"
+    },
+    {
+      "document_number": "355944/31-01-2019",
+      "protocol_number": "Αρχείο Αίτησης/",
+      "type": "Αίτηση Άδειας Κατασκευής Κεραίας ΕΕΤΤ",
+      "file_url": "https://silia.eett.gr/silia/download/b067b372-7d15-4e70-ae5d-57e970c89fdc"
+    },
+    {
+      "document_number": "404165/04-05-2020",
+      "protocol_number": "Δ3/Δ/7964/2234/06-05-2010",
+      "type": "Γνωμάτευση ΥΠΑ",
+      "file_url": "https://silia.eett.gr/silia/download/a94b90ad-73ec-4aae-a969-552f61096078"
+    },
+    {
+      "document_number": "404166/04-05-2020",
+      "protocol_number": "Τοπογραφικό διάγραμμα/",
+      "type": "Τοπογραφικό",
+      "file_url": "https://silia.eett.gr/silia/download/248f06b5-e860-41c7-bd46-f28927fb830c"
+    },
+    {
+      "document_number": "404167/04-05-2020",
+      "protocol_number": "Αρχιτεκτονικά Σχέδια/",
+      "type": "Αρχιτεκτονικά Σχέδια",
+      "file_url": "https://silia.eett.gr/silia/download/e426774f-6475-4b6c-b898-b1eae417b28d"
+    },
+    {
+      "document_number": "404168/04-05-2020",
+      "protocol_number": "Υπεύθυνη Δήλωση κοινής χρήσης - Wind/13-04-2020",
+      "type": "Άλλο",
+      "file_url": "https://silia.eett.gr/silia/download/9b4d2497-a076-4115-a16a-7ebbe63ddb80"
+    },
+    {
+      "document_number": "404169/04-05-2020",
+      "protocol_number": "Υπεύθυνη Δήλωση Διασύνδεσης - Wind/13-04-2020",
+      "type": "Άλλο",
+      "file_url": "https://silia.eett.gr/silia/download/e5d5fde1-ef04-48e7-993a-b80a11610d7c"
+    },
+    {
+      "document_number": "408736/27-05-2020",
+      "protocol_number": "33024/25-05-2020",
+      "type": "Αίτηση ΓΕΑ",
+      "file_url": "https://silia.eett.gr/silia/download/83673454-f876-4027-9acf-854bc0a0a4c6"
+    },
+    {
+      "document_number": "417079/23-09-2020",
+      "protocol_number": "ΜΕΛΕΤΗ Ρ-Ε 23/9/2020/23-09-2020",
+      "type": "Αίτηση - Μελέτη Ραδιοεκπομπών ΕΕΑΕ",
+      "file_url": "https://silia.eett.gr/silia/download/a74aeb85-0291-4e18-9b37-d0e7620756db"
+    },
+    {
+      "document_number": "417337/25-09-2020",
+      "protocol_number": "Μ.ι./411/12089/2020/25-09-2020",
+      "type": "Γνωμάτευση ΕΕΑΕ",
+      "file_url": "https://silia.eett.gr/silia/download/c8aa417f-d608-4688-8fe0-a38cc915b9ed"
+    },
+    {
+      "document_number": "420526/30-10-2020",
+      "protocol_number": "37487/29-10-2020",
+      "type": "Άδεια Κατασκευής  Κεραίας",
+      "file_url": "https://silia.eett.gr/silia/download/81ba1f2d-7cc9-4fc1-a42a-0fa30312074e"
+    },
+    {
+      "document_number": "417064/23-09-2020",
+      "protocol_number": "ΣΥΝΟΔΕΥΤΙΚΑ ΕΓΓΡΑΦΑ ΠΠΔ/",
+      "type": "Δήλωση υπαγωγής σε ΠΠΔ και Συνοδευτικά Έγγραφα",
+      "file_url": "https://silia.eett.gr/silia/download/4c0ea61d-1802-40bd-93a7-fedfeda01861"
+    },
+    {
+      "document_number": "417082/23-09-2020",
+      "protocol_number": "ΜΕΛΕΤΗ Ρ-Ε 23/9/2020/23-09-2020",
+      "type": "Αίτηση - Μελέτη Ραδιοεκπομπών ΕΕΑΕ",
+      "file_url": "https://silia.eett.gr/silia/download/a74aeb85-0291-4e18-9b37-d0e7620756db"
+    },
+    {
+      "document_number": "417090/23-09-2020",
+      "protocol_number": "Αρχείο Αίτησης/",
+      "type": "Δήλωση ΠΠΔ",
+      "file_url": "https://silia.eett.gr/silia/download/b721a219-ddcf-481e-9807-b8f4a2abd58c"
+    }
+  ]
+}

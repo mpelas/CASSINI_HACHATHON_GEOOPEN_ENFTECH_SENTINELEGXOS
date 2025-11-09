@@ -1,0 +1,105 @@
+{
+  "antenna_id": "84098",
+  "address": "ΣΤΑΘΜΟΣ ΗΣΑΠ ΑΤΤΙΚΗ",
+  "position_code": 1003664,
+  "municipality": "Αθηναίων",
+  "code_name": "ΗΣΑΠ ΑΤΤΙΚΗ",
+  "region": "Αττικής",
+  "latitude": 37.998889,
+  "company": "VODAFONE",
+  "longitude": 23.722778,
+  "permit_status": "Από τα στοιχεία που τηρούνται στην Ενημερωτική Πύλη προκύπτει ότι, για τη θέση \"ΣΤΑΘΜΟΣ ΗΣΑΠ ΑΤΤΙΚΗ\" στον Δήμο Αθηναίων Περιφέρειας  Αττικής \n\t(κωδικός αριθμός θέσης 1003664, κωδική ονομασία \"ΗΣΑΠ ΑΤΤΙΚΗ\") χορηγήθηκε, με την Απόφαση της ΕΕΤΤ \n13910/Φ610/10-11-2014, άδεια κατασκευής κεραίας στην εταιρία VODAFONE. \nΑπό τo έγγραφο της άδειας μπορείτε να ενημερωθείτε για τις σχετικές εγκρίσεις των συναρμόδιων φορέων, καθώς και εάν πρόκειται για τροποποίηση παλαιότερης άδειας.\n\tΗ άδεια χορηγήθηκε κατόπιν της με Αριθ. Πρωτ. 14954/13-04-2011 αίτησης. \n\tΓια την έκδοση της άδειας εφαρμόστηκε το προγενέστερο του Ν.4053/2012 νομοθετικό πλαίσιο, καθώς κατά δήλωση της εταιρίας, η κατασκευή πληρούσε \nτις προϋποθέσεις του άρθρου 31 του Ν.4053/2012.",
+  "measurements_eaee": "-",
+  "documents": [
+    {
+      "document_number": "6479/16-11-2012",
+      "protocol_number": "14954/13-04-2011",
+      "type": "Αίτηση Άδειας Κατασκευής Κεραίας ΕΕΤΤ",
+      "file_url": null
+    },
+    {
+      "document_number": "17540/16-11-2012",
+      "protocol_number": "2246/19-03-2008",
+      "type": "Αίτηση / Μελέτη για Έγκριση Περιβαλλοντικών Επιπτώσεων (νόμιμη λειτουργία)",
+      "file_url": null
+    },
+    {
+      "document_number": "39468/16-11-2012",
+      "protocol_number": "Μ.ι./411/1096/24-02-2009",
+      "type": "Γνωμάτευση ΕΕΑΕ (νόμιμη λειτουργία)",
+      "file_url": null
+    },
+    {
+      "document_number": "80080/10-07-2013",
+      "protocol_number": "Δ3/Δ/4884/1140 αρχικη/21-02-2005",
+      "type": "Γνωμάτευση ΥΠΑ",
+      "file_url": "https://silia.eett.gr/silia/download/2b668d8d-cc13-44f0-9e98-5b072970f547"
+    },
+    {
+      "document_number": "80081/10-07-2013",
+      "protocol_number": "Δ3/Δ/15039/3583 διορθωτικη/15-05-2008",
+      "type": "Γνωμάτευση ΥΠΑ",
+      "file_url": "https://silia.eett.gr/silia/download/8bc56d39-0ed4-4076-a024-dc5113de5c64"
+    },
+    {
+      "document_number": "80082/10-07-2013",
+      "protocol_number": "5706/11-06-2008",
+      "type": "Αίτηση - Μελέτη Ραδιοεκπομπών ΕΕΑΕ",
+      "file_url": "https://silia.eett.gr/silia/download/cb2d9436-b207-498a-b6b5-fb66f5a8d334"
+    },
+    {
+      "document_number": "80083/10-07-2013",
+      "protocol_number": "ΜΕΛΕΤΗ Υ/Β/09-07-2013",
+      "type": "Αίτηση - Μελέτη Ραδιοεκπομπών ΕΕΑΕ (υποβάθρου)",
+      "file_url": "https://silia.eett.gr/silia/download/abfc0625-1103-4325-bdee-3c850d515468"
+    },
+    {
+      "document_number": "80084/10-07-2013",
+      "protocol_number": "Μ.ι./411/1096/24-02-2009",
+      "type": "Γνωμάτευση ΕΕΑΕ",
+      "file_url": "https://silia.eett.gr/silia/download/6f3c4af3-02f9-4cf3-a6a2-ce40cc493f82"
+    },
+    {
+      "document_number": "80085/10-07-2013",
+      "protocol_number": "2246/19-03-2008",
+      "type": "Αίτηση / Μελέτη για Έγκριση Περιβαλλοντικών Επιπτώσεων",
+      "file_url": "https://silia.eett.gr/silia/download/41618a68-cb10-482b-ad05-700eb94f27ca"
+    },
+    {
+      "document_number": "80086/10-07-2013",
+      "protocol_number": "134666/08-07-2013",
+      "type": "Επιστροφή Αίτησης από Αρμόδιο Φορέα",
+      "file_url": "https://silia.eett.gr/silia/download/e526de83-fa8a-44cf-bd24-e3e9c383557b"
+    },
+    {
+      "document_number": "80087/10-07-2013",
+      "protocol_number": "ΥΠΑΓΩΓΗ ΣΕ ΠΠΔ/10-07-2013",
+      "type": "Δήλωση υπαγωγής σε ΠΠΔ και Συνοδευτικά Έγγραφα",
+      "file_url": "https://silia.eett.gr/silia/download/a2e685e1-b16f-4c58-b2cc-7c710f54d08d"
+    },
+    {
+      "document_number": "80088/10-07-2013",
+      "protocol_number": "14954/13-04-2011",
+      "type": "Αίτηση Άδειας Κατασκευής Κεραίας ΕΕΤΤ (νομίμως λειτουργούσα)",
+      "file_url": "https://silia.eett.gr/silia/download/61f21cac-fa52-4637-aaee-e783131d0c86"
+    },
+    {
+      "document_number": "80089/10-07-2013",
+      "protocol_number": "201104011121240082/01-04-2011",
+      "type": "Αποδεικτικό Καταβολής Τελών ΕΕΤΤ",
+      "file_url": null
+    },
+    {
+      "document_number": "80171/10-07-2013",
+      "protocol_number": "Αρχείο Αίτησης/",
+      "type": "Αίτηση Άδειας Κατασκευής Κεραίας ΕΕΤΤ",
+      "file_url": "https://silia.eett.gr/silia/download/1ab256e6-9c27-494b-b8b7-0c85c5145bef"
+    },
+    {
+      "document_number": "189909/12-11-2014",
+      "protocol_number": "13910/Φ610/10-11-2014",
+      "type": "Άδεια Κατασκευής  Κεραίας",
+      "file_url": "https://silia.eett.gr/silia/download/1bb91988-a674-40ac-99f4-a80e6aefbb81"
+    }
+  ]
+}

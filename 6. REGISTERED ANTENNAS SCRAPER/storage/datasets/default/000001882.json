@@ -1,0 +1,45 @@
+{
+  "antenna_id": "166598",
+  "address": "ΒΙ.ΠΕ Ηρακλείου Κρήτης.",
+  "position_code": 1150408,
+  "municipality": "Ηρακλείου Κρήτης",
+  "code_name": "3030408 SYCHEM IRAKLIO KRITIS 2",
+  "region": "Κρήτης",
+  "latitude": 35.321944,
+  "company": "VODAFONE",
+  "longitude": 25.178333,
+  "permit_status": "Από τα στοιχεία που τηρούνται στην Ενημερωτική Πύλη προκύπτει ότι, για τη θέση \"ΒΙ.ΠΕ Ηρακλείου Κρήτης.\" στον Δήμο Ηρακλείου Κρήτης Περιφέρειας  Κρήτης \n\t(κωδικός αριθμός θέσης 1150408, κωδική ονομασία \"3030408 SYCHEM IRAKLIO KRITIS 2\") έχει κατατεθεί από την εταιρία VODAFONE\tδήλωση εγκατάστασης κατασκευής κεραίας (αριθ. πρωτ. \n\t50241/14-12-2022) που εμπίπτει στις διατάξεις της νομοθεσίας για Εγκαταστάσεις Κατασκευών Κεραιών Χαμηλής Ηλεκτρομαγνητικής Περιβαλλοντικής Όχλησης (ΕΚΚΧΟ).",
+  "measurements_eaee": "-",
+  "documents": [
+    {
+      "document_number": "474695/13-12-2022",
+      "protocol_number": "Φωτορεαλιστική απεικόνιση ΕΚΚΧΟ/",
+      "type": "Φωτογραφικό Υλικό - Σκαρίφημα",
+      "file_url": "https://silia.eett.gr/silia/download/314db558-0bd4-409e-837b-e3335469607d"
+    },
+    {
+      "document_number": "474696/13-12-2022",
+      "protocol_number": "Ψηφιακός Χάρτης με προβολή της θέσης ΕΚΚΧΟ/",
+      "type": "Φωτογραφικό Υλικό - Σκαρίφημα",
+      "file_url": "https://silia.eett.gr/silia/download/8106d0aa-5ecc-4652-8118-094c6052909a"
+    },
+    {
+      "document_number": "474763/14-12-2022",
+      "protocol_number": "Μελέτη ΕΚΚΧΟ/13-12-2022",
+      "type": "Άλλο",
+      "file_url": "https://silia.eett.gr/silia/download/563caf3e-4b7a-4c30-9418-1c81f844a77f"
+    },
+    {
+      "document_number": "474764/14-12-2022",
+      "protocol_number": "Σκαρίφημα με περιοχή απαγόρευσης/",
+      "type": "Φωτογραφικό Υλικό - Σκαρίφημα",
+      "file_url": "https://silia.eett.gr/silia/download/5bb58740-fc62-4877-9416-85af93f7ad4d"
+    },
+    {
+      "document_number": "474765/14-12-2022",
+      "protocol_number": "Αρχείο Αίτησης/",
+      "type": "Δήλωση ΕΚΚΧΟ",
+      "file_url": "https://silia.eett.gr/silia/download/cc99f3af-0fe6-4cd6-ae1e-5410bd358b6a"
+    }
+  ]
+}

@@ -1,0 +1,51 @@
+{
+  "antenna_id": "171327",
+  "address": "ΡΑΔΟΒΥΖΙ ΙΩΑΝΝΙΝΩΝ",
+  "position_code": 1406683,
+  "municipality": "Ζίτσας",
+  "code_name": "RADOVYZI_TK",
+  "region": "Ηπείρου",
+  "latitude": 39.596111,
+  "company": "OTE",
+  "longitude": 20.572778,
+  "permit_status": "Από τα στοιχεία που τηρούνται στην Ενημερωτική Πύλη προκύπτει ότι, για τη θέση \"ΡΑΔΟΒΥΖΙ ΙΩΑΝΝΙΝΩΝ\" στον Δήμο Ζίτσας Περιφέρειας  Ηπείρου \n\t(κωδικός αριθμός θέσης 1406683, κωδική ονομασία \"RADOVYZI_TK\") έχει κατατεθεί από την εταιρία OTE\tδήλωση εγκατάστασης κατασκευής κεραίας (αριθ. πρωτ. \n\t55172/13-03-2024) που εμπίπτει στις διατάξεις της νομοθεσίας για Εγκαταστάσεις Κατασκευών Κεραιών Χαμηλής Ηλεκτρομαγνητικής Περιβαλλοντικής Όχλησης (ΕΚΚΧΟ).",
+  "measurements_eaee": "-",
+  "documents": [
+    {
+      "document_number": "502424/04-12-2023",
+      "protocol_number": "Φωτογραφία/04-12-2023",
+      "type": "Φωτογραφικό Υλικό - Σκαρίφημα",
+      "file_url": "https://silia.eett.gr/silia/download/4cd0c849-4125-4353-87cb-ca6336a5a279"
+    },
+    {
+      "document_number": "502425/04-12-2023",
+      "protocol_number": "Χαρτης/04-12-2023",
+      "type": "Φωτογραφικό Υλικό - Σκαρίφημα",
+      "file_url": "https://silia.eett.gr/silia/download/d24effd5-b507-4aa8-a101-576804308d0f"
+    },
+    {
+      "document_number": "510014/13-03-2024",
+      "protocol_number": "ΜΕΛΕΤΗ/13-03-2024",
+      "type": "Αίτηση - Μελέτη Ραδιοεκπομπών ΕΕΑΕ",
+      "file_url": "https://silia.eett.gr/silia/download/RVzdvkShc2fKa22gP52eF86nUt8NwvWuar7R"
+    },
+    {
+      "document_number": "510178/13-03-2024",
+      "protocol_number": "Αρχείο Αίτησης/13-03-2024",
+      "type": "Δήλωση ΕΚΚΧΟ",
+      "file_url": "https://silia.eett.gr/silia/download/K4DgDlgbwFb9iqFb7SA7qAGGbmS6fc9un1TZ"
+    },
+    {
+      "document_number": "518431/20-06-2024",
+      "protocol_number": "ΥΠ.ΔΗΛΩΣΗ/20-06-2024",
+      "type": "Άλλο",
+      "file_url": "https://silia.eett.gr/silia/download/qHrgDZ3VVURZD2FShpBMXdYYvcpweu6vpaRY"
+    },
+    {
+      "document_number": "535540/13-12-2024",
+      "protocol_number": "ΜΕΛΕΤΗ1/13-12-2024",
+      "type": "Αίτηση - Μελέτη Ραδιοεκπομπών ΕΕΑΕ",
+      "file_url": "https://silia.eett.gr/silia/download/6v6ObmLw7sqPR24nr6nbIp4ZnYObGfD9Uv9v"
+    }
+  ]
+}

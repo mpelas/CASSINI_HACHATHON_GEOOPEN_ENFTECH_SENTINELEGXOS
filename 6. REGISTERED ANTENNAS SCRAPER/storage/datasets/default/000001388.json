@@ -1,0 +1,45 @@
+{
+  "antenna_id": "124723",
+  "address": "ΚΑΛΥΒΙΑ ΠΑΡΝΑΣΣΟΥ, 10442",
+  "position_code": 1207292,
+  "municipality": "Διστόμου-Αράχοβας - Αντίκυρας",
+  "code_name": "KALOGIROU ARACHOVA",
+  "region": "Στερεάς Ελλάδας",
+  "latitude": 38.517222,
+  "company": "NOVA Μ.Α.Ε.",
+  "longitude": 22.533889,
+  "permit_status": "Από τα στοιχεία που τηρούνται στην Ενημερωτική Πύλη προκύπτει ότι, για τη θέση \"ΚΑΛΥΒΙΑ ΠΑΡΝΑΣΣΟΥ, 10442\" στον Δήμο Διστόμου-Αράχοβας - Αντίκυρας Περιφέρειας  Στερεάς Ελλάδας \n\t(κωδικός αριθμός θέσης 1207292, κωδική ονομασία \"KALOGIROU ARACHOVA\") έχει κατατεθεί από την εταιρία NOVA Μ.Α.Ε.\tδήλωση εγκατάστασης κατασκευής κεραίας (αριθ. πρωτ. \n\t22366/17-05-2017) που εμπίπτει στις διατάξεις της νομοθεσίας για Εγκαταστάσεις Κατασκευών Κεραιών Χαμηλής Ηλεκτρομαγνητικής Περιβαλλοντικής Όχλησης (ΕΚΚΧΟ).",
+  "measurements_eaee": "-",
+  "documents": [
+    {
+      "document_number": "279639/21-11-2016",
+      "protocol_number": "ΣΚΑΡΙΦΗΜΑ ΕΚΚΧΟ LINK/",
+      "type": "Φωτογραφικό Υλικό - Σκαρίφημα",
+      "file_url": "https://silia.eett.gr/silia/download/6d45b7a5-be59-4e47-bfa6-bac11dcac04a"
+    },
+    {
+      "document_number": "294749/16-05-2017",
+      "protocol_number": "404752/37272/6906/08-12-2016",
+      "type": "Γνωμοδότηση Υπηρεσίας Νεωτέρων Μνημείων",
+      "file_url": "https://silia.eett.gr/silia/download/5a15d70b-4a53-4aa7-a711-816e5c24f024"
+    },
+    {
+      "document_number": "294750/16-05-2017",
+      "protocol_number": "687/20-12-2016",
+      "type": "Έγγραφο Αρμοδίου Φορέα",
+      "file_url": "https://silia.eett.gr/silia/download/85daebb6-99b6-4051-960c-f0ec1271d3c6"
+    },
+    {
+      "document_number": "294751/16-05-2017",
+      "protocol_number": "6395 π.ε./13-03-2017",
+      "type": "Αρχαιολογική έγκριση/γνωμοδότηση (μη τυπική)",
+      "file_url": "https://silia.eett.gr/silia/download/aafa0bae-32e1-4053-a951-095a1c693de5"
+    },
+    {
+      "document_number": "294797/17-05-2017",
+      "protocol_number": "Αρχείο Αίτησης/",
+      "type": "Δήλωση ΕΚΚΧΟ",
+      "file_url": "https://silia.eett.gr/silia/download/92d9f8b5-7473-4f04-a08f-cca157b52e42"
+    }
+  ]
+}

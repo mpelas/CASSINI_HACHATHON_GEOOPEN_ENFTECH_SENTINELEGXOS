@@ -1,0 +1,75 @@
+{
+  "antenna_id": "157880",
+  "address": "\"ΒΛΑΧAIΪΚΑ\" ΠΛΗΣΙΟΝ ΓΑΛΑΤΑ",
+  "position_code": 1402609,
+  "municipality": "Τροιζηνίας",
+  "code_name": "ΒΛΑΧΕΙΚΑ Χ3",
+  "region": "Αττικής",
+  "latitude": 37.426111,
+  "company": "OTE",
+  "longitude": 23.458889,
+  "permit_status": "Από τα στοιχεία που τηρούνται στην Ενημερωτική Πύλη προκύπτει ότι, για τη θέση \"\"ΒΛΑΧAIΪΚΑ\" ΠΛΗΣΙΟΝ ΓΑΛΑΤΑ\" στον Δήμο Τροιζηνίας Περιφέρειας  Αττικής \n\t(κωδικός αριθμός θέσης 1402609, κωδική ονομασία \"ΒΛΑΧΕΙΚΑ Χ3\") χορηγήθηκε, με την Απόφαση της ΕΕΤΤ \n41199/29-07-2021, άδεια κατασκευής κεραίας στην εταιρία OTE. \nΑπό τo έγγραφο της άδειας μπορείτε να ενημερωθείτε για τις σχετικές εγκρίσεις των συναρμόδιων φορέων, καθώς και εάν πρόκειται για τροποποίηση παλαιότερης άδειας.",
+  "measurements_eaee": "-",
+  "documents": [
+    {
+      "document_number": "427291/13-01-2021",
+      "protocol_number": "ΜΕΣΩ ΣΗΛΥΑ/",
+      "type": "Τοπογραφικό",
+      "file_url": "https://silia.eett.gr/silia/download/491fc8e6-24e2-4084-abae-c6940b124686"
+    },
+    {
+      "document_number": "427292/13-01-2021",
+      "protocol_number": "ΜΕΣΩ ΣΗΛΥΑ/",
+      "type": "Αρχιτεκτονικά Σχέδια",
+      "file_url": "https://silia.eett.gr/silia/download/16e04d36-adea-4691-a9f4-cb686d5583e6"
+    },
+    {
+      "document_number": "427293/13-01-2021",
+      "protocol_number": "Δ3/Δ/41925/7847/27-10-2009",
+      "type": "Γνωμάτευση ΥΠΑ",
+      "file_url": "https://silia.eett.gr/silia/download/3b7f5dce-c537-4f44-b5af-60cff902a4f6"
+    },
+    {
+      "document_number": "427294/13-01-2021",
+      "protocol_number": "Δ3/Δ/6586/26-08-2001",
+      "type": "Γνωμάτευση ΥΠΑ",
+      "file_url": "https://silia.eett.gr/silia/download/76f88bf5-19f7-4c94-9100-7b6308e4790f"
+    },
+    {
+      "document_number": "427295/13-01-2021",
+      "protocol_number": "ΜΕΣΩ ΣΗΛΥΑ/13-01-2021",
+      "type": "Αίτηση ΥΠΑ",
+      "file_url": "https://silia.eett.gr/silia/download/c8da0620-8e5b-4474-9226-b0296bc982b4"
+    },
+    {
+      "document_number": "427296/13-01-2021",
+      "protocol_number": "ΜΕΣΩ ΣΗΛΥΑ/08-01-2021",
+      "type": "Αίτηση - Μελέτη Ραδιοεκπομπών ΕΕΑΕ",
+      "file_url": "https://silia.eett.gr/silia/download/b9c3ff7c-5dc9-4e18-8c78-5526332ec08b"
+    },
+    {
+      "document_number": "427304/13-01-2021",
+      "protocol_number": "Αρχείο Αίτησης/",
+      "type": "Αίτηση Άδειας Κατασκευής Κεραίας ΕΕΤΤ",
+      "file_url": "https://silia.eett.gr/silia/download/adfc8286-344a-4bae-9a29-eebc34aa9b2c"
+    },
+    {
+      "document_number": "428335/29-01-2021",
+      "protocol_number": "Μ.ι./411/5142/2021/29-01-2021",
+      "type": "Γνωμάτευση ΕΕΑΕ",
+      "file_url": "https://silia.eett.gr/silia/download/c8e0c0af-4e56-41fe-a058-5354b81a9c5f"
+    },
+    {
+      "document_number": "439519/03-08-2021",
+      "protocol_number": "41199/29-07-2021",
+      "type": "Άδεια Κατασκευής  Κεραίας",
+      "file_url": "https://silia.eett.gr/silia/download/99970e72-9c42-47e2-997e-700d56add803"
+    },
+    {
+      "document_number": "427305/13-01-2021",
+      "protocol_number": "Αρχείο Αίτησης/",
+      "type": "Δήλωση ΠΠΔ",
+      "file_url": "https://silia.eett.gr/silia/download/73d75b7f-dcd3-4c07-bf92-4215d7b4654e"
+    }
+  ]
+}

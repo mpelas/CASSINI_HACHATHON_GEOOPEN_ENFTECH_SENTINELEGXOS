@@ -1,0 +1,93 @@
+{
+  "antenna_id": "169821",
+  "address": "ΘΕΣΗ ΧΡΙΣΤΟΣ ΚΡΟΤΟΥ",
+  "position_code": 1441248,
+  "municipality": "Γόρτυνας",
+  "code_name": "TRIPIT_MI",
+  "region": "Κρήτης",
+  "latitude": 34.954167,
+  "company": "OTE",
+  "longitude": 24.976389,
+  "permit_status": "Από τα στοιχεία που τηρούνται στην Ενημερωτική Πύλη προκύπτει ότι, για τη θέση \"ΘΕΣΗ ΧΡΙΣΤΟΣ ΚΡΟΤΟΥ\" στον Δήμο Γόρτυνας Περιφέρειας  Κρήτης \n\t(κωδικός αριθμός θέσης 1441248, κωδική ονομασία \"TRIPIT_MI\") έχει κατατεθεί από την εταιρία OTE\tδήλωση εγκατάστασης κατασκευής κεραίας (αριθ. πρωτ. \n\t52772/08-09-2023) που εμπίπτει στις διατάξεις της νομοθεσίας για Εγκαταστάσεις Κατασκευών Κεραιών Χαμηλής Ηλεκτρομαγνητικής Περιβαλλοντικής Όχλησης (ΕΚΚΧΟ).",
+  "measurements_eaee": "-",
+  "documents": [
+    {
+      "document_number": "493951/08-09-2023",
+      "protocol_number": "ΜΕΣΩ ΣΗΛΥΑ/",
+      "type": "Αίτηση - Μελέτη Ραδιοεκπομπών ΕΕΑΕ",
+      "file_url": "https://silia.eett.gr/silia/download/8022b146-1208-4dc7-b0f0-760ffbe01e0f"
+    },
+    {
+      "document_number": "493952/08-09-2023",
+      "protocol_number": "ΣΤΟΙΧΕΙΑ ΜΙΚΡΟΚΥΜΑΤΙΚΗΣ ΖΕΥΞΗΣ/",
+      "type": "Άλλο",
+      "file_url": "https://silia.eett.gr/silia/download/c5c71d83-4d1b-4179-9cb8-0d1fece9ba42"
+    },
+    {
+      "document_number": "493953/08-09-2023",
+      "protocol_number": "ΣΚΑΡΙΦΗΜΑ/",
+      "type": "Φωτογραφικό Υλικό - Σκαρίφημα",
+      "file_url": "https://silia.eett.gr/silia/download/bfd01aa0-a048-4fe8-9e5c-9dc4feb353fb"
+    },
+    {
+      "document_number": "493954/08-09-2023",
+      "protocol_number": "ΣΚΑΡΙΦΗΜΑ/",
+      "type": "Φωτογραφικό Υλικό - Σκαρίφημα",
+      "file_url": "https://silia.eett.gr/silia/download/6dcb79a1-7829-4c49-a784-5778f01355f8"
+    },
+    {
+      "document_number": "493955/08-09-2023",
+      "protocol_number": "ΦΩΤΟΓΡΑΦΙΑ/",
+      "type": "Φωτογραφικό Υλικό - Σκαρίφημα",
+      "file_url": "https://silia.eett.gr/silia/download/548be295-2145-4f0f-92ba-e3e3739491a0"
+    },
+    {
+      "document_number": "493956/08-09-2023",
+      "protocol_number": "ΦΩΤΟΓΡΑΦΙΑ/",
+      "type": "Φωτογραφικό Υλικό - Σκαρίφημα",
+      "file_url": "https://silia.eett.gr/silia/download/648df8d4-7ccc-495d-abe1-bb32e758da33"
+    },
+    {
+      "document_number": "493957/08-09-2023",
+      "protocol_number": "ΦΩΤΟΓΡΑΦΙΑ/",
+      "type": "Φωτογραφικό Υλικό - Σκαρίφημα",
+      "file_url": "https://silia.eett.gr/silia/download/e9bafb33-d1a0-4fd1-a3b1-34d65cb832cd"
+    },
+    {
+      "document_number": "493986/08-09-2023",
+      "protocol_number": "ΣΚΑΡΙΦΗΜΑ/",
+      "type": "Φωτογραφικό Υλικό - Σκαρίφημα",
+      "file_url": "https://silia.eett.gr/silia/download/0dc20332-66cc-4445-9c2c-934b4adce2a2"
+    },
+    {
+      "document_number": "493999/08-09-2023",
+      "protocol_number": "Αρχείο Αίτησης/",
+      "type": "Δήλωση ΕΚΚΧΟ",
+      "file_url": "https://silia.eett.gr/silia/download/90992265-4d25-4a83-ae8f-59f83e26a228"
+    },
+    {
+      "document_number": "504661/12-01-2024",
+      "protocol_number": "77/2020 (ΕΓΚΡΙΣΗ NATURA)/24-04-2020",
+      "type": "Έγκριση Αρμοδίου Φορέα",
+      "file_url": "https://silia.eett.gr/silia/download/a30cc39d-ea22-4726-9631-f0fa5dda96a8"
+    },
+    {
+      "document_number": "504662/12-01-2024",
+      "protocol_number": "32624/25-11-2021",
+      "type": "Γνωμοδότηση ΕΠΚΑ",
+      "file_url": "https://silia.eett.gr/silia/download/9879b285-ed64-4bbf-b849-9b6e91fd2c23"
+    },
+    {
+      "document_number": "504663/12-01-2024",
+      "protocol_number": "ΥΠΠΟΑ/ΓΔΑΜΤΕ/ΥΝΜΤΕΚΡ/ΤΠΝΜΚΠΑ/32818/3996/231/150/30-01-2020",
+      "type": "Γνωμοδότηση Υπηρεσίας Νεωτέρων Μνημείων",
+      "file_url": "https://silia.eett.gr/silia/download/552c82d4-bba7-4fe0-8c05-08f2a6678365"
+    },
+    {
+      "document_number": "539493/30-01-2025",
+      "protocol_number": "ΥΠ.ΔΗΛΩΣΗ/30-01-2025",
+      "type": "Άλλο",
+      "file_url": "https://silia.eett.gr/silia/download/GpEZz7v6MoUS6EVVsbKNgv6cxuH7gVaku32t"
+    }
+  ]
+}

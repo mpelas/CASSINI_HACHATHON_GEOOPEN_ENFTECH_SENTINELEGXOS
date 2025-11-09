@@ -1,0 +1,57 @@
+{
+  "antenna_id": "171199",
+  "address": "Οικισμός Αγ. Γεώργιος (Κατηγιώργης)",
+  "position_code": 1404318,
+  "municipality": "Νοτίου Πηλίου",
+  "code_name": "KATIGIORGIS_MI",
+  "region": "Θεσσαλίας",
+  "latitude": 39.172778,
+  "company": "OTE",
+  "longitude": 23.341944,
+  "permit_status": "Από τα στοιχεία που τηρούνται στην Ενημερωτική Πύλη προκύπτει ότι, για τη θέση \"Οικισμός Αγ. Γεώργιος (Κατηγιώργης)\" στον Δήμο Νοτίου Πηλίου Περιφέρειας  Θεσσαλίας \n\t(κωδικός αριθμός θέσης 1404318, κωδική ονομασία \"KATIGIORGIS_MI\") έχει κατατεθεί από την εταιρία OTE\tδήλωση εγκατάστασης κατασκευής κεραίας (αριθ. πρωτ. \n\t53971/28-11-2023) που εμπίπτει στις διατάξεις της νομοθεσίας για Εγκαταστάσεις Κατασκευών Κεραιών Χαμηλής Ηλεκτρομαγνητικής Περιβαλλοντικής Όχλησης (ΕΚΚΧΟ).",
+  "measurements_eaee": "-",
+  "documents": [
+    {
+      "document_number": "501639/28-11-2023",
+      "protocol_number": "ΣΚΑΡΙΦΗΜΑ/",
+      "type": "Φωτογραφικό Υλικό - Σκαρίφημα",
+      "file_url": "https://silia.eett.gr/silia/download/9014bc2e-404e-421d-a961-50c968be50d7"
+    },
+    {
+      "document_number": "501640/28-11-2023",
+      "protocol_number": "ΣΚΑΡΙΦΗΜΑ/",
+      "type": "Φωτογραφικό Υλικό - Σκαρίφημα",
+      "file_url": "https://silia.eett.gr/silia/download/e43991ac-db9e-4f47-bc6b-5b829e8ecfb3"
+    },
+    {
+      "document_number": "501641/28-11-2023",
+      "protocol_number": "ΣΚΑΡΙΦΗΜΑ/",
+      "type": "Φωτογραφικό Υλικό - Σκαρίφημα",
+      "file_url": "https://silia.eett.gr/silia/download/4e7d7ea9-250c-4c0c-a4b9-3e2716d9d877"
+    },
+    {
+      "document_number": "501642/28-11-2023",
+      "protocol_number": "ΦΩΤΟΓΡΑΦΙΑ/",
+      "type": "Φωτογραφικό Υλικό - Σκαρίφημα",
+      "file_url": "https://silia.eett.gr/silia/download/0e700eb0-a232-433f-afa7-dd00e08148b9"
+    },
+    {
+      "document_number": "501643/28-11-2023",
+      "protocol_number": "ΦΩΤΟΓΡΑΦΙΑ/",
+      "type": "Φωτογραφικό Υλικό - Σκαρίφημα",
+      "file_url": "https://silia.eett.gr/silia/download/22d011ac-643b-46f1-ba50-d70d29fdbd9a"
+    },
+    {
+      "document_number": "501671/28-11-2023",
+      "protocol_number": "ΜΕΣΩ ΣΗΛΥΑ/",
+      "type": "Αίτηση - Μελέτη Ραδιοεκπομπών ΕΕΑΕ",
+      "file_url": "https://silia.eett.gr/silia/download/55dc2b33-c336-4539-b477-3f94ad04758a"
+    },
+    {
+      "document_number": "501808/28-11-2023",
+      "protocol_number": "Αρχείο Αίτησης/",
+      "type": "Δήλωση ΕΚΚΧΟ",
+      "file_url": "https://silia.eett.gr/silia/download/26764ea5-ec05-4dd2-84e8-5818627b3270"
+    }
+  ]
+}

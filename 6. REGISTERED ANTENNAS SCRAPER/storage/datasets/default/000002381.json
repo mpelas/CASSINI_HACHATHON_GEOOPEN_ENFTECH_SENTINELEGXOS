@@ -1,0 +1,87 @@
+{
+  "antenna_id": "104294",
+  "address": "AΓΡΟΚΤΗΜΑ ΤΟΥΜΠΑΣ ΠΑΙΟΝΙΑΣ ,ΓΕΩΤΕΜΑΧΙΑ 11,35,14,&15, ΠΛΗΣΙΟΝ ΓΟΡΓΟΠΗΣ",
+  "position_code": 1403454,
+  "municipality": "Παιονίας",
+  "code_name": "ΓΟΡΓΟΠΗ Χ",
+  "region": "Κεντρικής Μακεδονίας",
+  "latitude": 40.95,
+  "company": "OTE",
+  "longitude": 22.522778,
+  "permit_status": "Από τα στοιχεία που τηρούνται στην Ενημερωτική Πύλη προκύπτει ότι, για τη θέση \"AΓΡΟΚΤΗΜΑ ΤΟΥΜΠΑΣ ΠΑΙΟΝΙΑΣ ,ΓΕΩΤΕΜΑΧΙΑ 11,35,14,&15, ΠΛΗΣΙΟΝ ΓΟΡΓΟΠΗΣ\" στον Δήμο Παιονίας Περιφέρειας  Κεντρικής Μακεδονίας \n\t(κωδικός αριθμός θέσης 1403454, κωδική ονομασία \"ΓΟΡΓΟΠΗ Χ\") χορηγήθηκε, με την Απόφαση της ΕΕΤΤ \n14976/Φ610/30-01-2015, άδεια κατασκευής κεραίας στην εταιρία OTE. \nΑπό τo έγγραφο της άδειας μπορείτε να ενημερωθείτε για τις σχετικές εγκρίσεις των συναρμόδιων φορέων, καθώς και εάν πρόκειται για τροποποίηση παλαιότερης άδειας.\nΗ άδεια χορηγήθηκε, κατόπιν της με Αριθ. Πρωτ. 8590/19-12-2014 αίτησης, \n\tμε τη διαδικασία αδειοδότησης της παρ. 17 του άρθρου 30 του Ν.4070/2012 που πλέον έχει αντικατασταθεί από τη διαδικασία που ορίζει ο ν. 4635/2019.\n\tΣύμφωνα με τα στοιχεία που έχουν υποβληθεί στο ΣΗΛΥΑ για την κατασκευή κεραίας από τον κάτοχό της, έχει εκδοθεί έγκριση δομικών κατασκευών κεραίας",
+  "measurements_eaee": "-",
+  "documents": [
+    {
+      "document_number": "193488/18-12-2014",
+      "protocol_number": "ΠΠΔ/18-12-2014",
+      "type": "Δήλωση υπαγωγής σε ΠΠΔ και Συνοδευτικά Έγγραφα",
+      "file_url": "https://silia.eett.gr/silia/download/a2d8c11d-fa25-42e1-8692-a0d3aba91aee"
+    },
+    {
+      "document_number": "193510/18-12-2014",
+      "protocol_number": "53996/20-11-2014",
+      "type": "Αρχιτεκτονικά Σχέδια",
+      "file_url": "https://silia.eett.gr/silia/download/a77782bc-4aea-4b8a-aa09-67851e6c1953"
+    },
+    {
+      "document_number": "193512/18-12-2014",
+      "protocol_number": "Δ3/Δ/17494/3521/24-09-2001",
+      "type": "Γνωμάτευση ΥΠΑ",
+      "file_url": "https://silia.eett.gr/silia/download/61a7df82-8082-4dfe-9852-5e133ffaa904"
+    },
+    {
+      "document_number": "193513/18-12-2014",
+      "protocol_number": "Δ3/Δ/3957/31-05-2011",
+      "type": "Γνωμάτευση ΥΠΑ",
+      "file_url": "https://silia.eett.gr/silia/download/ceecb1bd-c39c-4ff5-948b-a9e23c90770f"
+    },
+    {
+      "document_number": "193551/19-12-2014",
+      "protocol_number": "ΜΕΣΩ ΣΗΛΥΑ/18-12-2014",
+      "type": "Αίτηση - Μελέτη Ραδιοεκπομπών ΕΕΑΕ",
+      "file_url": "https://silia.eett.gr/silia/download/0010b9b5-d9cb-4720-9733-0c6fdb2cdb4d"
+    },
+    {
+      "document_number": "193554/19-12-2014",
+      "protocol_number": "ΜΕΣΩ ΣΗΛΥΑ/19-12-2014",
+      "type": "Αίτηση ΥΠΑ",
+      "file_url": "https://silia.eett.gr/silia/download/90b3a465-ea41-431f-b700-156e34b22a13"
+    },
+    {
+      "document_number": "193557/19-12-2014",
+      "protocol_number": "Αρχείο Αίτησης/",
+      "type": "Αίτηση Άδειας Κατασκευής Κεραίας ΕΕΤΤ",
+      "file_url": "https://silia.eett.gr/silia/download/b6d1151b-cc0a-4e85-ae33-bdd42993bcc0"
+    },
+    {
+      "document_number": "193560/19-12-2014",
+      "protocol_number": "53996/20-11-2014",
+      "type": "Τοπογραφικό",
+      "file_url": "https://silia.eett.gr/silia/download/86f977b5-7165-4d64-9d5e-1fe226998e1a"
+    },
+    {
+      "document_number": "194212/14-01-2015",
+      "protocol_number": "738/07-01-2015",
+      "type": "Έγκριση δομικών κατασκευών (έντυπη)",
+      "file_url": "https://silia.eett.gr/silia/download/28e09cd4-8aa7-46d0-9ca9-f64e96ad0c4b"
+    },
+    {
+      "document_number": "194998/23-01-2015",
+      "protocol_number": "Μ.ι./411/100/23-01-2015",
+      "type": "Γνωμάτευση ΕΕΑΕ",
+      "file_url": "https://silia.eett.gr/silia/download/f5ca2f1a-9abc-42a4-ab84-aff375374409"
+    },
+    {
+      "document_number": "195659/30-01-2015",
+      "protocol_number": "14976/Φ610/30-01-2015",
+      "type": "Άδεια Κατασκευής  Κεραίας",
+      "file_url": "https://silia.eett.gr/silia/download/0f09991d-5473-4c70-a8e7-87eca460903c"
+    },
+    {
+      "document_number": "194212/14-01-2015",
+      "protocol_number": "738/07-01-2015",
+      "type": "Έγκριση δομικών κατασκευών (έντυπη)",
+      "file_url": "https://silia.eett.gr/silia/download/28e09cd4-8aa7-46d0-9ca9-f64e96ad0c4b"
+    }
+  ]
+}

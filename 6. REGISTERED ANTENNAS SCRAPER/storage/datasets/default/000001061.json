@@ -1,0 +1,75 @@
+{
+  "antenna_id": "173156",
+  "address": "30ΗΣ ΙΟΥΛΙΟΥ & Μ. ΤΣΙΤΣΙΝΙΑ, ΝΕΑ ΑΓΧΙΑΛΟΣ",
+  "position_code": 1402608,
+  "municipality": "Βόλου",
+  "code_name": "N.ACHIALOS",
+  "region": "Θεσσαλίας",
+  "latitude": 39.277222,
+  "company": "OTE",
+  "longitude": 22.815556,
+  "permit_status": "Από τα στοιχεία που τηρούνται στην Ενημερωτική Πύλη προκύπτει ότι, για τη θέση \"30ΗΣ ΙΟΥΛΙΟΥ & Μ. ΤΣΙΤΣΙΝΙΑ, ΝΕΑ ΑΓΧΙΑΛΟΣ\" στον Δήμο Βόλου Περιφέρειας  Θεσσαλίας \n\t(κωδικός αριθμός θέσης 1402608, κωδική ονομασία \"N.ACHIALOS\") χορηγήθηκε, με την Απόφαση της ΕΕΤΤ \n51240/18-07-2024, άδεια κατασκευής κεραίας στην εταιρία OTE. \nΑπό τo έγγραφο της άδειας μπορείτε να ενημερωθείτε για τις σχετικές εγκρίσεις των συναρμόδιων φορέων, καθώς και εάν πρόκειται για τροποποίηση παλαιότερης άδειας.\n\tΣύμφωνα με τα στοιχεία που έχουν υποβληθεί στο ΣΗΛΥΑ, ο κάτοχος της κατασκευής κεραίας έχει δηλώσει ότι θα προβεί σε έκδοση έγκρισης δομικών κατασκευών \n\t\tκεραίας μέσω του e-Άδειες \n\t\tμετά την έκδοση της άδειας κατασκευής κεραίας / δημοσιοποίηση της δήλωσης τροποποίησης της κατασκευής κεραίας",
+  "measurements_eaee": "-",
+  "documents": [
+    {
+      "document_number": "513147/16-04-2024",
+      "protocol_number": "ΤΟΠΟΓΡΑΦΙΚΟ/16-04-2024",
+      "type": "Τοπογραφικό",
+      "file_url": "https://silia.eett.gr/silia/download/PmqKM84wmeLZMNBlVTF9D1TkTw2QeA2suOiT"
+    },
+    {
+      "document_number": "513148/16-04-2024",
+      "protocol_number": "ΑΡΧΙΤΕΚΤΟΝΙΚΑ/16-04-2024",
+      "type": "Αρχιτεκτονικά Σχέδια",
+      "file_url": "https://silia.eett.gr/silia/download/zhF79L7gKrbHsEGWy6vE54ghPRiqBQ5Fp06K"
+    },
+    {
+      "document_number": "513149/16-04-2024",
+      "protocol_number": "ΜΕΛΕΤΗ  Ρ/Ε/22-02-2024",
+      "type": "Αίτηση - Μελέτη Ραδιοεκπομπών ΕΕΑΕ",
+      "file_url": "https://silia.eett.gr/silia/download/SwdXRVPZkPowLuI3hA5peeFvi0rVqdyRln53"
+    },
+    {
+      "document_number": "513150/16-04-2024",
+      "protocol_number": "ΑΝΑΚΟΙΝΩΣΗ ΓΕΜΗ/16-04-2024",
+      "type": "Άλλο",
+      "file_url": "https://silia.eett.gr/silia/download/Y1GvtPHRgNcZ4eWALNH0IkqCUsvgDigzl4gq"
+    },
+    {
+      "document_number": "513221/16-04-2024",
+      "protocol_number": "Αρχείο Αίτησης/16-04-2024",
+      "type": "Αίτηση Άδειας Κατασκευής Κεραίας ΕΕΤΤ",
+      "file_url": "https://silia.eett.gr/silia/download/AQgBEVbwKy2efoulpgTQZzBf31zf72T3Gkde"
+    },
+    {
+      "document_number": "515534/22-05-2024",
+      "protocol_number": "ΚΓ/Δ3/Δ/10011/22-05-2024",
+      "type": "Γνωμάτευση ΥΠΑ",
+      "file_url": "https://silia.eett.gr/silia/download/X7eVM3atls1wOcMtGRSwqeyfVqLQzue6SBBa"
+    },
+    {
+      "document_number": "517180/06-06-2024",
+      "protocol_number": "TMIA/411/8035/2024/06-06-2024",
+      "type": "Γνωμάτευση ΕΕΑΕ",
+      "file_url": "https://silia.eett.gr/silia/download/YR3DmId3yLgcofbo8UNfuE74kxvmKNvEvV2v"
+    },
+    {
+      "document_number": "521102/18-07-2024",
+      "protocol_number": "51240/18-07-2024",
+      "type": "Άδεια Κατασκευής  Κεραίας",
+      "file_url": "https://silia.eett.gr/silia/download/7PgKAmLrPx9nTk0Gd3vgXTXS924nrlC0cAfc"
+    },
+    {
+      "document_number": "513151/16-04-2024",
+      "protocol_number": "ΠΠΔ/16-04-2024",
+      "type": "Δήλωση υπαγωγής σε ΠΠΔ και Συνοδευτικά Έγγραφα",
+      "file_url": "https://silia.eett.gr/silia/download/eHe0YFK4ZIbTbIiU60t7XH6G6vDwqU8bfyeb"
+    },
+    {
+      "document_number": "513222/16-04-2024",
+      "protocol_number": "Αρχείο Αίτησης/16-04-2024",
+      "type": "Δήλωση ΠΠΔ",
+      "file_url": "https://silia.eett.gr/silia/download/mi8gg9uFkTMKGaHePw65RXyiSNEImedMAWG8"
+    }
+  ]
+}

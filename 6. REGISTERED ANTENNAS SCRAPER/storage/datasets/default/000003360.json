@@ -1,0 +1,45 @@
+{
+  "antenna_id": "152469",
+  "address": "ΣΥΡΟΣ(ΟΤΕ)",
+  "position_code": 3207136,
+  "municipality": "Σύρου - Ερμούπολης",
+  "code_name": "ΣΥΡΟΣ-Δ",
+  "region": "Νοτίου Αιγαίου",
+  "latitude": 37.456389,
+  "company": "ΕΡΤ ΑΕ",
+  "longitude": 24.926667,
+  "permit_status": "Από τα στοιχεία που τηρούνται στην Ενημερωτική Πύλη προκύπτει ότι για τη  θέση \"ΣΥΡΟΣ(ΟΤΕ)\" στον Δήμο Σύρου - Ερμούπολης Περιφέρειας  Νοτίου Αιγαίου έχει κατατεθεί από την εταιρία ΕΡΤ ΑΕ δήλωση δομικών κατασκευών κεραιών  \nμε αριθ. πρωτ. ΣΗΛΥΑ 38091/09-04-2020 κατά τα οριζόμενα στην παρ. 7 του άρθρου 34 του Ν.4635/2019.",
+  "measurements_eaee": "-",
+  "documents": [
+    {
+      "document_number": "399995/24-03-2020",
+      "protocol_number": "δορυφορική λήψη και στοιχεία δομικών κατασκευών/",
+      "type": "Άλλο",
+      "file_url": "https://silia.eett.gr/silia/download/42b1db6b-3598-47be-ae98-3eebc03a0f8c"
+    },
+    {
+      "document_number": "399996/24-03-2020",
+      "protocol_number": "βεβαίωση 1ης ηλεκτροδότησης/",
+      "type": "Άλλο",
+      "file_url": "https://silia.eett.gr/silia/download/3cea66fb-3c5e-49fd-a3c7-018ff8fbc22b"
+    },
+    {
+      "document_number": "400725/30-03-2020",
+      "protocol_number": "απογραφή 1987/",
+      "type": "Άλλο",
+      "file_url": "https://silia.eett.gr/silia/download/27ec7b09-98d0-4a74-8668-ba6759724c4a"
+    },
+    {
+      "document_number": "400726/30-03-2020",
+      "protocol_number": "πίνακας 49 απογραφής ΕΡΤ 1987/",
+      "type": "Άλλο",
+      "file_url": "https://silia.eett.gr/silia/download/2d573dcd-f33f-4e9a-bc92-73dbd1381b57"
+    },
+    {
+      "document_number": "401691/09-04-2020",
+      "protocol_number": "Αρχείο Αίτησης/",
+      "type": "Δήλωση Δομικών ΕΡΤ",
+      "file_url": "https://silia.eett.gr/silia/download/66c14d6a-c03a-45a5-a41d-6466f856885a"
+    }
+  ]
+}

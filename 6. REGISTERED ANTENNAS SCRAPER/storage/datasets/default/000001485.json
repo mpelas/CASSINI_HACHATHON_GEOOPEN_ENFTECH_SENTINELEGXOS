@@ -1,0 +1,45 @@
+{
+  "antenna_id": "174852",
+  "address": "ΝΑΥΠΑΚΤΟΣ, ΜΑΝΑΓΟΥΛΗ",
+  "position_code": 1496810,
+  "municipality": "Δωρίδος",
+  "code_name": "AVRAMAR_NAFPAKTOS",
+  "region": "Στερεάς Ελλάδας",
+  "latitude": 38.386111,
+  "company": "OTE",
+  "longitude": 21.912222,
+  "permit_status": "Από τα στοιχεία που τηρούνται στην Ενημερωτική Πύλη προκύπτει ότι, για τη θέση \"ΝΑΥΠΑΚΤΟΣ, ΜΑΝΑΓΟΥΛΗ\" στον Δήμο Δωρίδος Περιφέρειας  Στερεάς Ελλάδας \n\t(κωδικός αριθμός θέσης 1496810, κωδική ονομασία \"AVRAMAR_NAFPAKTOS\") έχει κατατεθεί από την εταιρία OTE\tδήλωση εγκατάστασης κατασκευής κεραίας (αριθ. πρωτ. \n\t57688/08-10-2024) που εμπίπτει στις διατάξεις της νομοθεσίας για Εγκαταστάσεις Κατασκευών Κεραιών Χαμηλής Ηλεκτρομαγνητικής Περιβαλλοντικής Όχλησης (ΕΚΚΧΟ).",
+  "measurements_eaee": "-",
+  "documents": [
+    {
+      "document_number": "523292/09-08-2024",
+      "protocol_number": "ΧΑΡΤΗΣ/09-08-2024",
+      "type": "Φωτογραφικό Υλικό - Σκαρίφημα",
+      "file_url": "https://silia.eett.gr/silia/download/L2d4CGnzL7gS9Pzb8gpMBMH7v1YEQyGfdnDu"
+    },
+    {
+      "document_number": "523293/09-08-2024",
+      "protocol_number": "ΦΩΤΟΓΡΑΦΙΑ/09-08-2024",
+      "type": "Φωτογραφικό Υλικό - Σκαρίφημα",
+      "file_url": "https://silia.eett.gr/silia/download/lHgsvE4NXsuNAioXuEgqtsBCwaK72eb924FV"
+    },
+    {
+      "document_number": "528109/07-10-2024",
+      "protocol_number": "ΜΕΛΕΤΗ/07-10-2024",
+      "type": "Αίτηση - Μελέτη Ραδιοεκπομπών ΕΕΑΕ",
+      "file_url": "https://silia.eett.gr/silia/download/MTdFsxYgtyuVuKzMyw9wY5UoqmOML37x0MOt"
+    },
+    {
+      "document_number": "528208/08-10-2024",
+      "protocol_number": "Αρχείο Αίτησης/08-10-2024",
+      "type": "Δήλωση ΕΚΚΧΟ",
+      "file_url": "https://silia.eett.gr/silia/download/mA2GrMPahAV950u2N62DXwUP8UpKopgo7wOh"
+    },
+    {
+      "document_number": "534330/02-12-2024",
+      "protocol_number": "ΥΠ.ΔΗΛΩΣΗ/02-12-2024",
+      "type": "Άλλο",
+      "file_url": "https://silia.eett.gr/silia/download/0teTie20lvh9luz3YGoMbkipAFOYOLYYrYiv"
+    }
+  ]
+}

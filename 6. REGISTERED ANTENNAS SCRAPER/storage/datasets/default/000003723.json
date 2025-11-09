@@ -1,0 +1,99 @@
+{
+  "antenna_id": "103387",
+  "address": "ΠΑΠΑΝΑΣΤΑΣΙΟΥ 39",
+  "position_code": 1201840,
+  "municipality": "Χανίων",
+  "code_name": "ΧΑΝΙΑ CITY 6",
+  "region": "Κρήτης",
+  "latitude": 35.510278,
+  "company": "NOVA Μ.Α.Ε.",
+  "longitude": 24.036111,
+  "permit_status": "Από τα στοιχεία που τηρούνται στην Ενημερωτική Πύλη προκύπτει ότι, για τη θέση \"ΠΑΠΑΝΑΣΤΑΣΙΟΥ 39\" στον Δήμο Χανίων Περιφέρειας  Κρήτης \n\t(κωδικός αριθμός θέσης 1201840, κωδική ονομασία \"ΧΑΝΙΑ CITY 6\") χορηγήθηκε, με την Απόφαση της ΕΕΤΤ \n38497/27-11-2020, άδεια κατασκευής κεραίας στην εταιρία NOVA Μ.Α.Ε.. \nΑπό τo έγγραφο της άδειας μπορείτε να ενημερωθείτε για τις σχετικές εγκρίσεις των συναρμόδιων φορέων, καθώς και εάν πρόκειται για τροποποίηση παλαιότερης άδειας.\n\tΣημειώνεται ότι κατά δήλωση της εταιρίας η κατασκευή κεραίας πληροί τις προϋποθέσεις υπαγωγής της στις διατάξεις της παρ. 1 του άρθρου 34 του ν. 4635/2019.",
+  "measurements_eaee": "-",
+  "documents": [
+    {
+      "document_number": "175620/05-06-2014",
+      "protocol_number": "ΣΥΝΗΜΕΝΗ ΤΗΣ ΚΑΤΑΘΕΣΗΣ ΜΕΣΩ ΣΗΛΥΑ  ΠΡΟΣ ΤΗΝ ΕΕΑΕ/29-05-2014",
+      "type": "Αίτηση - Μελέτη Ραδιοεκπομπών ΕΕΑΕ",
+      "file_url": "https://silia.eett.gr/silia/download/f27de918-adc8-4944-811a-d1b3e6eef9b9"
+    },
+    {
+      "document_number": "175621/05-06-2014",
+      "protocol_number": "136/Φ615 WIND/06-12-2012",
+      "type": "Χορήγηση Δικαιώματος Χρήσης Ραδιοσυχνοτήτων",
+      "file_url": null
+    },
+    {
+      "document_number": "175625/05-06-2014",
+      "protocol_number": "11139/2767/07-04-2008",
+      "type": "Γνωμάτευση ΥΠΑ",
+      "file_url": "https://silia.eett.gr/silia/download/c0c7caa0-66d3-48f6-b81e-8bec7f14bf89"
+    },
+    {
+      "document_number": "175626/05-06-2014",
+      "protocol_number": "21101/5430 ΔΙΟΡΘΩΤΙΚΗ/25-07-2013",
+      "type": "Γνωμάτευση ΥΠΑ",
+      "file_url": "https://silia.eett.gr/silia/download/5ab1f643-0d52-4ffd-8178-7cc2d3ef8160"
+    },
+    {
+      "document_number": "175631/05-06-2014",
+      "protocol_number": "ΥΠΕΥΘΗΝΗ ΔΗΛΩΣΗ VODAFONE/05-06-2014",
+      "type": "Άλλο",
+      "file_url": "https://silia.eett.gr/silia/download/a42524e5-7145-4817-8515-bb578ed3dfb2"
+    },
+    {
+      "document_number": "175632/05-06-2014",
+      "protocol_number": "ΥΠΕΥΘΗΝΗ ΔΗΛΩΣΗ ΔΙΑΣΥΝΔΕΣΗΣ VODAFONE/05-06-2014",
+      "type": "Άλλο",
+      "file_url": "https://silia.eett.gr/silia/download/99054ceb-cb46-4d07-ab8f-b6adf472c442"
+    },
+    {
+      "document_number": "175855/10-06-2014",
+      "protocol_number": "ΣΥΝΗΜΕΝΗ ΤΗΣ ΚΑΤΑΘΕΣΗΣ ΜΕΣΩ ΣΗΛΥΑ /06-06-2014",
+      "type": "Δήλωση υπαγωγής σε ΠΠΔ και Συνοδευτικά Έγγραφα",
+      "file_url": "https://silia.eett.gr/silia/download/15116773-b6b4-4c72-8c55-72ff4870ae5e"
+    },
+    {
+      "document_number": "177794/04-07-2014",
+      "protocol_number": "Αρχείο Αίτησης/",
+      "type": "Αίτηση Άδειας Κατασκευής Κεραίας ΕΕΤΤ",
+      "file_url": "https://silia.eett.gr/silia/download/11ca9d99-e491-4262-9dc9-b4bdec431b50"
+    },
+    {
+      "document_number": "177810/03-07-2014",
+      "protocol_number": "7270 (ΣΥΝΗΜΕΝΝΑ ΜΕ ΤΗΝ ΚΑΤΑΘΕΣΗ ΣΤΗΝ ΠΟΛΕΟΔΟΜΙΑ)/27-06-2014",
+      "type": "Αρχιτεκτονικά Σχέδια",
+      "file_url": "https://silia.eett.gr/silia/download/d659d914-079f-4ec4-9961-aff6fdc52b8e"
+    },
+    {
+      "document_number": "177811/03-07-2014",
+      "protocol_number": "7270 (ΣΥΝΗΜΕΝΝΟ ΜΕ ΤΗΝ ΚΑΤΑΘΕΣΗ ΣΤΗΝ ΠΟΛΕΟΔΟΜΙΑ)/27-06-2014",
+      "type": "Τοπογραφικό",
+      "file_url": "https://silia.eett.gr/silia/download/07837238-f252-40b1-a21e-13daecf73342"
+    },
+    {
+      "document_number": "196250/06-02-2015",
+      "protocol_number": "Μ.ι./411/153/06-02-2015",
+      "type": "Γνωμάτευση ΕΕΑΕ",
+      "file_url": "https://silia.eett.gr/silia/download/56470fdf-fe46-462e-82c8-d3ab26761ce2"
+    },
+    {
+      "document_number": "233916/09-10-2015",
+      "protocol_number": "13202/19-12-2014",
+      "type": "Συμπληρωματικά Έγγραφα Αίτησης / Μελέτης",
+      "file_url": "https://silia.eett.gr/silia/download/b6b6d1a1-97e2-4beb-9671-cab4673dade3"
+    },
+    {
+      "document_number": "240630/17-11-2015",
+      "protocol_number": "18162/Φ610/11-11-2015",
+      "type": "Πιστοποιητικό Πληρότητας ΕΕΤΤ",
+      "file_url": "https://silia.eett.gr/silia/download/1d95d31f-c702-48e7-979b-e44ee19d4bf2"
+    },
+    {
+      "document_number": "424591/09-12-2020",
+      "protocol_number": "38497/27-11-2020",
+      "type": "Άδεια Κατασκευής  Κεραίας",
+      "file_url": "https://silia.eett.gr/silia/download/51aeec28-3cd6-46d9-9b12-59de9b3a2b1e"
+    }
+  ]
+}

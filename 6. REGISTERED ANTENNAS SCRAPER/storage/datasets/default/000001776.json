@@ -1,0 +1,39 @@
+{
+  "antenna_id": "159825",
+  "address": "ΘΕΣΗ ΛΕΥΚΑ ΔΗΜΟΤΙΚΗ ΕΝΟΤΗΤΑ ΑΜΑΛΙΑΔΑΣ",
+  "position_code": 1157887,
+  "municipality": "Ήλιδας",
+  "code_name": "3027887 OLYMPION AMALIADA",
+  "region": "Δυτικής Ελλάδας",
+  "latitude": 37.807778,
+  "company": "VODAFONE",
+  "longitude": 21.3375,
+  "permit_status": "Από τα στοιχεία που τηρούνται στην Ενημερωτική Πύλη προκύπτει ότι, για τη θέση \"ΘΕΣΗ ΛΕΥΚΑ ΔΗΜΟΤΙΚΗ ΕΝΟΤΗΤΑ ΑΜΑΛΙΑΔΑΣ\" στον Δήμο Ήλιδας Περιφέρειας  Δυτικής Ελλάδας \n\t(κωδικός αριθμός θέσης 1157887, κωδική ονομασία \"3027887 OLYMPION AMALIADA\") έχει κατατεθεί από την εταιρία VODAFONE\tδήλωση εγκατάστασης κατασκευής κεραίας (αριθ. πρωτ. \n\t44240/13-07-2021) που εμπίπτει στις διατάξεις της νομοθεσίας για Εγκαταστάσεις Κατασκευών Κεραιών Χαμηλής Ηλεκτρομαγνητικής Περιβαλλοντικής Όχλησης (ΕΚΚΧΟ).",
+  "measurements_eaee": "-",
+  "documents": [
+    {
+      "document_number": "438347/13-07-2021",
+      "protocol_number": "ΣΚΑΡΙΦΗΜΑ ΘΕΣΗΣ ΙΣΤΟΥ ΕΚΚΧΟ - ΚΑΤΟΨΗ ΚΕΡΑΙΑΣ/",
+      "type": "Φωτογραφικό Υλικό - Σκαρίφημα",
+      "file_url": "https://silia.eett.gr/silia/download/e064fbcf-9ebf-42f7-835d-85ea068d750d"
+    },
+    {
+      "document_number": "438348/13-07-2021",
+      "protocol_number": "Φωτογραφία θέσης ΕΚΚΧΟ από Google Earth/",
+      "type": "Φωτογραφικό Υλικό - Σκαρίφημα",
+      "file_url": "https://silia.eett.gr/silia/download/a335526d-ec64-4864-bfeb-390c69638ef0"
+    },
+    {
+      "document_number": "438349/13-07-2021",
+      "protocol_number": "Φωτογραφία κτιρίου/",
+      "type": "Φωτογραφικό Υλικό - Σκαρίφημα",
+      "file_url": "https://silia.eett.gr/silia/download/16768845-40bc-4aae-8032-cc00e344ea60"
+    },
+    {
+      "document_number": "438350/13-07-2021",
+      "protocol_number": "Αρχείο Αίτησης/",
+      "type": "Δήλωση ΕΚΚΧΟ",
+      "file_url": "https://silia.eett.gr/silia/download/79b74848-9890-417c-ac19-07b4d01785bd"
+    }
+  ]
+}

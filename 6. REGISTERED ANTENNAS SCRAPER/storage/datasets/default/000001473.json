@@ -1,0 +1,75 @@
+{
+  "antenna_id": "125623",
+  "address": "ΥΨΩΜΑ  \"ΓΥΡΟΣ\" , Τ.Κ.ΜΑΚΡΙΝΗΣ , Δ.Δ. ΤΟΛΟΦΩΝΟΣ",
+  "position_code": 1402427,
+  "municipality": "Δωρίδος",
+  "code_name": "MAKRINI  /X",
+  "region": "Στερεάς Ελλάδας",
+  "latitude": 38.422778,
+  "company": "OTE",
+  "longitude": 22.12,
+  "permit_status": "Από τα στοιχεία που τηρούνται στην Ενημερωτική Πύλη προκύπτει ότι, για τη θέση \"ΥΨΩΜΑ  \"ΓΥΡΟΣ\" , Τ.Κ.ΜΑΚΡΙΝΗΣ , Δ.Δ. ΤΟΛΟΦΩΝΟΣ\" στον Δήμο Δωρίδος Περιφέρειας  Στερεάς Ελλάδας \n\t(κωδικός αριθμός θέσης 1402427, κωδική ονομασία \"MAKRINI  /X\") χορηγήθηκε, με την Απόφαση της ΕΕΤΤ \n35032/Φ610/19-02-2020, άδεια κατασκευής κεραίας στην εταιρία OTE. \nΑπό τo έγγραφο της άδειας μπορείτε να ενημερωθείτε για τις σχετικές εγκρίσεις των συναρμόδιων φορέων, καθώς και εάν πρόκειται για τροποποίηση παλαιότερης άδειας.",
+  "measurements_eaee": "-",
+  "documents": [
+    {
+      "document_number": "284651/13-01-2017",
+      "protocol_number": "3168/22-12-2016",
+      "type": "Τοπογραφικό",
+      "file_url": "https://silia.eett.gr/silia/download/6fee225e-329d-48e9-b713-dd521dcd93d3"
+    },
+    {
+      "document_number": "284652/13-01-2017",
+      "protocol_number": "3168/22-12-2016",
+      "type": "Αρχιτεκτονικά Σχέδια",
+      "file_url": "https://silia.eett.gr/silia/download/4643f191-1485-4970-af5a-e0a9394168fd"
+    },
+    {
+      "document_number": "284653/13-01-2017",
+      "protocol_number": "ΜΕΣΩ ΣΗΛΥΑ/09-01-2017",
+      "type": "Αίτηση - Μελέτη Ραδιοεκπομπών ΕΕΑΕ",
+      "file_url": "https://silia.eett.gr/silia/download/2032e5a7-5016-46d1-9c84-b1871b77bde5"
+    },
+    {
+      "document_number": "284711/13-01-2017",
+      "protocol_number": "Αρχείο Αίτησης/",
+      "type": "Αίτηση Άδειας Κατασκευής Κεραίας ΕΕΤΤ",
+      "file_url": "https://silia.eett.gr/silia/download/ee924b4a-1706-4fff-aab0-c24e82bc870c"
+    },
+    {
+      "document_number": "286278/03-02-2017",
+      "protocol_number": "Δ3/Δ/2200/647/1-2-2017/03-02-2017",
+      "type": "Γνωμάτευση ΥΠΑ",
+      "file_url": "https://silia.eett.gr/silia/download/feea4f19-618e-4bbb-b699-077f98fa152a"
+    },
+    {
+      "document_number": "293413/27-04-2017",
+      "protocol_number": "Μ.ι./411/5381/2017/26-04-2017",
+      "type": "Γνωμάτευση ΕΕΑΕ",
+      "file_url": "https://silia.eett.gr/silia/download/e0ca17d4-6e35-4c74-80d5-108fb8dd565c"
+    },
+    {
+      "document_number": "335776/16-07-2018",
+      "protocol_number": "ΥΠ.ΔΗΛΩΣΗ ΠΛΗΡΟΤΗΤΑΣ ΠΟΛΕΟΔΟΜΙΚΟΥ ΦΑΚΕΛΟΥ/16-07-2018",
+      "type": "Άλλο",
+      "file_url": "https://silia.eett.gr/silia/download/962bc434-c5de-4fbd-b0f3-cffdcea1a62e"
+    },
+    {
+      "document_number": "355013/24-01-2019",
+      "protocol_number": "30843/Φ610/14-12-2018",
+      "type": "Πιστοποιητικό Πληρότητας ΕΕΤΤ",
+      "file_url": "https://silia.eett.gr/silia/download/4347ae6c-2088-4f06-a8dc-81f43e4ec8c6"
+    },
+    {
+      "document_number": "399251/17-03-2020",
+      "protocol_number": "35032/Φ610/19-02-2020",
+      "type": "Άδεια Κατασκευής  Κεραίας",
+      "file_url": "https://silia.eett.gr/silia/download/0557f8bf-ed01-451d-87e7-43123ab0332c"
+    },
+    {
+      "document_number": "284712/13-01-2017",
+      "protocol_number": "Αρχείο Αίτησης/",
+      "type": "Δήλωση ΠΠΔ",
+      "file_url": "https://silia.eett.gr/silia/download/1d887bed-2f0e-4d92-babe-9dce832bf7fb"
+    }
+  ]
+}

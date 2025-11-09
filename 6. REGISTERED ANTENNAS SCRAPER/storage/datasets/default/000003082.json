@@ -1,0 +1,45 @@
+{
+  "antenna_id": "152475",
+  "address": "Δήμος Σάμου, Π.Ε Σάμου, Περιφέρεια Βόρειου Αιγαίου",
+  "position_code": 3207153,
+  "municipality": "Σάμου",
+  "code_name": "ΠΑΓΩΝΔΑΣ-Δ",
+  "region": "Βορείου Αιγαίου",
+  "latitude": 37.661389,
+  "company": "ΕΡΤ ΑΕ",
+  "longitude": 26.807778,
+  "permit_status": "Από τα στοιχεία που τηρούνται στην Ενημερωτική Πύλη προκύπτει ότι για τη  θέση \"Δήμος Σάμου, Π.Ε Σάμου, Περιφέρεια Βόρειου Αιγαίου\" στον Δήμο Σάμου Περιφέρειας  Βορείου Αιγαίου έχει κατατεθεί από την εταιρία ΕΡΤ ΑΕ δήλωση δομικών κατασκευών κεραιών  \nμε αριθ. πρωτ. ΣΗΛΥΑ 38097/09-04-2020 κατά τα οριζόμενα στην παρ. 7 του άρθρου 34 του Ν.4635/2019.",
+  "measurements_eaee": "-",
+  "documents": [
+    {
+      "document_number": "400013/25-03-2020",
+      "protocol_number": "δορυφορική λήψη και στοιχεία δομικών κατασκευών/",
+      "type": "Άλλο",
+      "file_url": "https://silia.eett.gr/silia/download/344e9a31-f00d-41e9-9f60-ce9313fc9494"
+    },
+    {
+      "document_number": "400014/25-03-2020",
+      "protocol_number": "βεβαίωση 1ης ηλεκτροδότησης/",
+      "type": "Άλλο",
+      "file_url": "https://silia.eett.gr/silia/download/a1909180-1836-4cb9-99f1-c6e97f3cf818"
+    },
+    {
+      "document_number": "400719/30-03-2020",
+      "protocol_number": "απογραφή 1987/",
+      "type": "Άλλο",
+      "file_url": "https://silia.eett.gr/silia/download/c5b75da4-90d1-49cb-9752-fbd2b034b3ab"
+    },
+    {
+      "document_number": "400720/30-03-2020",
+      "protocol_number": "πίνακας 49 απογραφής ΕΡΤ 1987/",
+      "type": "Άλλο",
+      "file_url": "https://silia.eett.gr/silia/download/1fb18b54-b87a-4900-b7fc-7e5e0e529670"
+    },
+    {
+      "document_number": "401699/09-04-2020",
+      "protocol_number": "Αρχείο Αίτησης/",
+      "type": "Δήλωση Δομικών ΕΡΤ",
+      "file_url": "https://silia.eett.gr/silia/download/65897820-461c-4926-9d34-1529e95968d1"
+    }
+  ]
+}

@@ -1,0 +1,51 @@
+{
+  "antenna_id": "128489",
+  "address": "ΛΕΟΝΤΙΤΟ",
+  "position_code": 270154,
+  "municipality": "Αργιθέας",
+  "code_name": "ΛΕΟΝΤΙΤΟ Τ/Σ",
+  "region": "Θεσσαλίας",
+  "latitude": 39.268333,
+  "company": "OTE",
+  "longitude": 21.533889,
+  "permit_status": "Από τα στοιχεία που τηρούνται στην Ενημερωτική Πύλη προκύπτει ότι, για τη θέση \"ΛΕΟΝΤΙΤΟ\" στον Δήμο Αργιθέας Περιφέρειας  Θεσσαλίας \n\t(κωδικός αριθμός θέσης 0270154, κωδική ονομασία \"ΛΕΟΝΤΙΤΟ Τ/Σ\") έχει κατατεθεί από την εταιρία OTE\tδήλωση εγκατάστασης κατασκευής κεραίας (αριθ. πρωτ. \n\t23565/04-08-2017) που εμπίπτει στις διατάξεις της νομοθεσίας για Εγκαταστάσεις Κατασκευών Κεραιών Χαμηλής Ηλεκτρομαγνητικής Περιβαλλοντικής Όχλησης (ΕΚΚΧΟ).",
+  "measurements_eaee": "-",
+  "documents": [
+    {
+      "document_number": "303375/04-08-2017",
+      "protocol_number": "ΜΕΣΩ ΣΗΛΥΑ/04-08-2017",
+      "type": "Φωτογραφικό Υλικό - Σκαρίφημα",
+      "file_url": "https://silia.eett.gr/silia/download/6b2cf6e7-aa13-45af-ab97-df4b7afa61b1"
+    },
+    {
+      "document_number": "303377/04-08-2017",
+      "protocol_number": "3981/13-12-2007/13-12-2007",
+      "type": "Γνωμοδότηση ΕΒΑ",
+      "file_url": "https://silia.eett.gr/silia/download/2ed07856-aec2-4f38-99b4-8908e1920bc8"
+    },
+    {
+      "document_number": "303378/04-08-2017",
+      "protocol_number": "5130/26-11-2007/26-11-2007",
+      "type": "Γνωμοδότηση ΕΠΚΑ",
+      "file_url": "https://silia.eett.gr/silia/download/150fa7c2-6589-4eeb-aaf0-77957f54a8f3"
+    },
+    {
+      "document_number": "303382/04-08-2017",
+      "protocol_number": "Πράξη Χαρακτηρισμού/24-09-2010",
+      "type": "Άλλο",
+      "file_url": "https://silia.eett.gr/silia/download/f2f4457e-50b4-4072-98ac-8a59eef2b535"
+    },
+    {
+      "document_number": "303383/04-08-2017",
+      "protocol_number": "5362/194998/13-12-2010",
+      "type": "Τελεσιδικία",
+      "file_url": "https://silia.eett.gr/silia/download/727c1bdb-eb87-49dd-b2c6-ece01d2826df"
+    },
+    {
+      "document_number": "303398/04-08-2017",
+      "protocol_number": "Αρχείο Αίτησης/",
+      "type": "Δήλωση ΕΚΚΧΟ",
+      "file_url": "https://silia.eett.gr/silia/download/08631c4e-e22a-4f4f-ab80-159e989b1613"
+    }
+  ]
+}

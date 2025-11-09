@@ -1,0 +1,63 @@
+{
+  "antenna_id": "170602",
+  "address": "Αφυσσος",
+  "position_code": 1442366,
+  "municipality": "Νοτίου Πηλίου",
+  "code_name": "AFISSOS_TK",
+  "region": "Θεσσαλίας",
+  "latitude": 39.273611,
+  "company": "OTE",
+  "longitude": 23.164722,
+  "permit_status": "Από τα στοιχεία που τηρούνται στην Ενημερωτική Πύλη προκύπτει ότι, για τη θέση \"Αφυσσος\" στον Δήμο Νοτίου Πηλίου Περιφέρειας  Θεσσαλίας \n\t(κωδικός αριθμός θέσης 1442366, κωδική ονομασία \"AFISSOS_TK\") έχει κατατεθεί από την εταιρία OTE\tδήλωση εγκατάστασης κατασκευής κεραίας (αριθ. πρωτ. \n\t53462/24-10-2023) που εμπίπτει στις διατάξεις της νομοθεσίας για Εγκαταστάσεις Κατασκευών Κεραιών Χαμηλής Ηλεκτρομαγνητικής Περιβαλλοντικής Όχλησης (ΕΚΚΧΟ).",
+  "measurements_eaee": "-",
+  "documents": [
+    {
+      "document_number": "498285/24-10-2023",
+      "protocol_number": "ΣΚΑΡΙΦΗΜΑ/",
+      "type": "Φωτογραφικό Υλικό - Σκαρίφημα",
+      "file_url": "https://silia.eett.gr/silia/download/496cdfae-1267-4ac7-90df-2389c4b8d7e6"
+    },
+    {
+      "document_number": "498286/24-10-2023",
+      "protocol_number": "ΣΚΑΡΙΦΗΜΑ/",
+      "type": "Φωτογραφικό Υλικό - Σκαρίφημα",
+      "file_url": "https://silia.eett.gr/silia/download/1285600f-8b98-4de9-b836-6492034e9100"
+    },
+    {
+      "document_number": "498287/24-10-2023",
+      "protocol_number": "ΣΚΑΡΙΦΗΜΑ/",
+      "type": "Φωτογραφικό Υλικό - Σκαρίφημα",
+      "file_url": "https://silia.eett.gr/silia/download/0eeb7ff1-d1ff-4d81-bc77-65c6772c4241"
+    },
+    {
+      "document_number": "498288/24-10-2023",
+      "protocol_number": "ΜΕΣΩ ΣΗΛΥΑ/",
+      "type": "Αίτηση - Μελέτη Ραδιοεκπομπών ΕΕΑΕ",
+      "file_url": "https://silia.eett.gr/silia/download/609f83cc-3185-4cb4-8bad-1483ddb83686"
+    },
+    {
+      "document_number": "498289/24-10-2023",
+      "protocol_number": "ΦΩΤΟΓΡΑΦΙΑ/",
+      "type": "Φωτογραφικό Υλικό - Σκαρίφημα",
+      "file_url": "https://silia.eett.gr/silia/download/5db6c93f-7b5f-4a92-92dc-2072165b64bc"
+    },
+    {
+      "document_number": "498386/24-10-2023",
+      "protocol_number": "Αρχείο Αίτησης/",
+      "type": "Δήλωση ΕΚΚΧΟ",
+      "file_url": "https://silia.eett.gr/silia/download/88eba637-4b80-497b-ad65-37f47c7d2dd2"
+    },
+    {
+      "document_number": "499443/01-11-2023",
+      "protocol_number": "ΜΕΣΩ ΣΗΛΥΑ/01-11-2023",
+      "type": "Άλλο",
+      "file_url": "https://silia.eett.gr/silia/download/53ac11ca-934d-40cd-bd8d-94c68cc3309f"
+    },
+    {
+      "document_number": "517547/11-06-2024",
+      "protocol_number": "ΥΠ.ΔΗΛΩΣΗ/11-06-2024",
+      "type": "Άλλο",
+      "file_url": "https://silia.eett.gr/silia/download/mtRXfp6FI6gplkorIgfTe3xZqotmrVYaWfbe"
+    }
+  ]
+}

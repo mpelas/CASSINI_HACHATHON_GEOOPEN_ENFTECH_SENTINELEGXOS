@@ -1,0 +1,51 @@
+{
+  "antenna_id": "166928",
+  "address": "Επ.Οδός Θεσσαλονίκης - Καλοχωρίου.",
+  "position_code": 1156052,
+  "municipality": "Αμπελοκήπων - Μενεμένης",
+  "code_name": "3026052 EYATH DENDROPOTAMOS",
+  "region": "Κεντρικής Μακεδονίας",
+  "latitude": 40.651111,
+  "company": "VODAFONE",
+  "longitude": 22.899167,
+  "permit_status": "Από τα στοιχεία που τηρούνται στην Ενημερωτική Πύλη προκύπτει ότι, για τη θέση \"Επ.Οδός Θεσσαλονίκης - Καλοχωρίου.\" στον Δήμο Αμπελοκήπων - Μενεμένης Περιφέρειας  Κεντρικής Μακεδονίας \n\t(κωδικός αριθμός θέσης 1156052, κωδική ονομασία \"3026052 EYATH DENDROPOTAMOS\") έχει κατατεθεί από την εταιρία VODAFONE\tδήλωση εγκατάστασης κατασκευής κεραίας (αριθ. πρωτ. \n\t50552/30-01-2023) που εμπίπτει στις διατάξεις της νομοθεσίας για Εγκαταστάσεις Κατασκευών Κεραιών Χαμηλής Ηλεκτρομαγνητικής Περιβαλλοντικής Όχλησης (ΕΚΚΧΟ).",
+  "measurements_eaee": "-",
+  "documents": [
+    {
+      "document_number": "476745/26-01-2023",
+      "protocol_number": "Φωτορεαλιστική απεικόνιση ΕΚΚΧΟ/",
+      "type": "Φωτογραφικό Υλικό - Σκαρίφημα",
+      "file_url": "https://silia.eett.gr/silia/download/9e1f9c61-be8c-4c3c-bbca-ea0c70a0ffc4"
+    },
+    {
+      "document_number": "476746/26-01-2023",
+      "protocol_number": "Ψηφιακός Χάρτης με προβολή της θέσης ΕΚΚΧΟ/",
+      "type": "Φωτογραφικό Υλικό - Σκαρίφημα",
+      "file_url": "https://silia.eett.gr/silia/download/c8092cf1-f5cf-40c2-92f5-e630217b8d67"
+    },
+    {
+      "document_number": "477043/30-01-2023",
+      "protocol_number": "Μελέτη ΕΚΚΧΟ/26-01-2023",
+      "type": "Άλλο",
+      "file_url": "https://silia.eett.gr/silia/download/e860fa9a-5a80-4750-8c60-787c37a86273"
+    },
+    {
+      "document_number": "477044/30-01-2023",
+      "protocol_number": "Σκαρίφημα με περιοχή απαγόρευσης/",
+      "type": "Φωτογραφικό Υλικό - Σκαρίφημα",
+      "file_url": "https://silia.eett.gr/silia/download/a0d28c4a-a1de-4c02-9eb0-dd5c2fb33e62"
+    },
+    {
+      "document_number": "477045/30-01-2023",
+      "protocol_number": "Αρχείο Αίτησης/",
+      "type": "Δήλωση ΕΚΚΧΟ",
+      "file_url": "https://silia.eett.gr/silia/download/c61c5f46-e36a-46f5-9ec7-9a9d1d4b230b"
+    },
+    {
+      "document_number": "482784/21-04-2023",
+      "protocol_number": "ΥΔ εγκατάστασης/20-04-2023",
+      "type": "Άλλο",
+      "file_url": "https://silia.eett.gr/silia/download/52703844-c14e-44e6-a40d-127cf131b078"
+    }
+  ]
+}

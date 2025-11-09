@@ -1,0 +1,33 @@
+{
+  "antenna_id": "143295",
+  "address": "Κορομηλά 7",
+  "position_code": 2340421,
+  "municipality": "Περιστερίου",
+  "code_name": "COMBOTECH AE",
+  "region": "Αττικής",
+  "latitude": 38.012222,
+  "company": "NOVA Μ.Α.Ε.",
+  "longitude": 23.708889,
+  "permit_status": "Από τα στοιχεία που τηρούνται στην Ενημερωτική Πύλη προκύπτει ότι, για τη θέση \"Κορομηλά 7\" στον Δήμο Περιστερίου Περιφέρειας  Αττικής \n\t(κωδικός αριθμός θέσης 2340421, κωδική ονομασία \"COMBOTECH AE\") έχει κατατεθεί από την εταιρία NOVA Μ.Α.Ε.\tδήλωση εγκατάστασης κατασκευής κεραίας (αριθ. πρωτ. \n\t33714/24-07-2019) που εμπίπτει στις διατάξεις της νομοθεσίας για Εγκαταστάσεις Κατασκευών Κεραιών Χαμηλής Ηλεκτρομαγνητικής Περιβαλλοντικής Όχλησης (ΕΚΚΧΟ).",
+  "measurements_eaee": "-",
+  "documents": [
+    {
+      "document_number": "371396/24-07-2019",
+      "protocol_number": "FOTO COMBOTECH/",
+      "type": "Φωτογραφικό Υλικό - Σκαρίφημα",
+      "file_url": "https://silia.eett.gr/silia/download/8fb6a74e-badb-4073-b686-ae4d10e6ec9d"
+    },
+    {
+      "document_number": "371412/24-07-2019",
+      "protocol_number": "δικαιωμα χρήσης/",
+      "type": "Χορήγηση Δικαιώματος Χρήσης Ραδιοσυχνοτήτων",
+      "file_url": "https://silia.eett.gr/silia/download/ed17a1e3-a4ab-47ce-91d0-bbbbd09945fc"
+    },
+    {
+      "document_number": "371414/24-07-2019",
+      "protocol_number": "Αρχείο Αίτησης/",
+      "type": "Δήλωση ΕΚΚΧΟ",
+      "file_url": "https://silia.eett.gr/silia/download/3a77c980-fcf6-4d60-8eed-42f08e3ec1ad"
+    }
+  ]
+}

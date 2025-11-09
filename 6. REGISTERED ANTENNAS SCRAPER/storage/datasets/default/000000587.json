@@ -1,0 +1,93 @@
+{
+  "antenna_id": "164498",
+  "address": "ΓΡΗΓΟΡΙΟΥ Ε΄ ΚΑΙ ΚΥΠΡΟΥ",
+  "position_code": 1401010,
+  "municipality": "Αμπελοκήπων - Μενεμένης",
+  "code_name": "ΑΜΠΕΛΟΚΗΠΟΙ",
+  "region": "Κεντρικής Μακεδονίας",
+  "latitude": 40.654444,
+  "company": "OTE",
+  "longitude": 22.926944,
+  "permit_status": "Από τα στοιχεία που τηρούνται στην Ενημερωτική Πύλη προκύπτει ότι, για τη θέση \"ΓΡΗΓΟΡΙΟΥ Ε΄ ΚΑΙ ΚΥΠΡΟΥ\" στον Δήμο Αμπελοκήπων - Μενεμένης Περιφέρειας  Κεντρικής Μακεδονίας \n\t(κωδικός αριθμός θέσης 1401010, κωδική ονομασία \"ΑΜΠΕΛΟΚΗΠΟΙ\") χορηγήθηκε, με την Απόφαση της ΕΕΤΤ \n46662/12-12-2022, άδεια κατασκευής κεραίας στην εταιρία OTE. \nΑπό τo έγγραφο της άδειας μπορείτε να ενημερωθείτε για τις σχετικές εγκρίσεις των συναρμόδιων φορέων, καθώς και εάν πρόκειται για τροποποίηση παλαιότερης άδειας.",
+  "measurements_eaee": "-",
+  "documents": [
+    {
+      "document_number": "462481/22-06-2022",
+      "protocol_number": "ΜΕΣΩ ΣΗΛΥΑ    /",
+      "type": "Τοπογραφικό",
+      "file_url": "https://silia.eett.gr/silia/download/a3889059-896a-4e78-9ded-c9fb716f787e"
+    },
+    {
+      "document_number": "462482/22-06-2022",
+      "protocol_number": "ΜΕΣΩ ΣΗΛΥΑ    /",
+      "type": "Αρχιτεκτονικά Σχέδια",
+      "file_url": "https://silia.eett.gr/silia/download/13b3f1ee-c405-4895-9421-8fa5d447dcbb"
+    },
+    {
+      "document_number": "462483/22-06-2022",
+      "protocol_number": "ΜΕΣΩ ΣΗΛΥΑ    /20-03-2022",
+      "type": "Αίτηση - Μελέτη Ραδιοεκπομπών ΕΕΑΕ",
+      "file_url": "https://silia.eett.gr/silia/download/d89e71f1-f804-48cd-bc3d-7c4c60b14353"
+    },
+    {
+      "document_number": "462484/22-06-2022",
+      "protocol_number": "EMC/06-04-2022",
+      "type": "Αποτελέσματα μελέτης στη ζώνης 2.6GHz για ΥΠΑ/ΓΕΕΘΑ",
+      "file_url": "https://silia.eett.gr/silia/download/87005f28-5468-4775-a497-93a7e9d05885"
+    },
+    {
+      "document_number": "462485/22-06-2022",
+      "protocol_number": "Δ3/Δ/29772/4393/16-07-1997",
+      "type": "Γνωμάτευση ΥΠΑ",
+      "file_url": "https://silia.eett.gr/silia/download/69404541-751e-439c-b807-30e778cd8865"
+    },
+    {
+      "document_number": "462486/22-06-2022",
+      "protocol_number": "Δ3/Δ/3552/17-05-2004",
+      "type": "Γνωμάτευση ΥΠΑ",
+      "file_url": "https://silia.eett.gr/silia/download/cc009769-8221-4de8-af83-56f6778e7067"
+    },
+    {
+      "document_number": "462487/22-06-2022",
+      "protocol_number": "ΜΕΣΩ ΣΗΛΥΑ    /22-06-2022",
+      "type": "Αίτηση ΥΠΑ",
+      "file_url": "https://silia.eett.gr/silia/download/a1a4b1b7-6468-49c1-a860-a304a8a4fb80"
+    },
+    {
+      "document_number": "462492/22-06-2022",
+      "protocol_number": "Αρχείο Αίτησης/",
+      "type": "Αίτηση Άδειας Κατασκευής Κεραίας ΕΕΤΤ",
+      "file_url": "https://silia.eett.gr/silia/download/288f4d4e-6f13-4078-a7d7-b8fec1b6e680"
+    },
+    {
+      "document_number": "464047/14-07-2022",
+      "protocol_number": "ΚΓ/Δ3/Δ/18714/14-07-2022",
+      "type": "Γνωμάτευση ΥΠΑ",
+      "file_url": "https://silia.eett.gr/silia/download/d40c4651-0e90-48a2-8f19-48991843214e"
+    },
+    {
+      "document_number": "470888/25-10-2022",
+      "protocol_number": "TMIA/411/14681/2022/24-10-2022",
+      "type": "Γνωμάτευση ΕΕΑΕ",
+      "file_url": "https://silia.eett.gr/silia/download/408a2c6c-9bc0-47b5-8927-26051ff42859"
+    },
+    {
+      "document_number": "474602/12-12-2022",
+      "protocol_number": "46662/12-12-2022",
+      "type": "Άδεια Κατασκευής  Κεραίας",
+      "file_url": "https://silia.eett.gr/silia/download/3c7ad05f-0245-4185-a68e-931fdb696c34"
+    },
+    {
+      "document_number": "462475/22-06-2022",
+      "protocol_number": "ΣΥΝΟΔΕΥΤΙΚΑ ΕΓΓΡΑΦΑ    /",
+      "type": "Δήλωση υπαγωγής σε ΠΠΔ και Συνοδευτικά Έγγραφα",
+      "file_url": "https://silia.eett.gr/silia/download/ef4f9e1e-be18-43b2-a7f6-40a604a4fbb7"
+    },
+    {
+      "document_number": "462493/22-06-2022",
+      "protocol_number": "Αρχείο Αίτησης/",
+      "type": "Δήλωση ΠΠΔ",
+      "file_url": "https://silia.eett.gr/silia/download/7aeccd60-2d9d-4068-959e-61a2f71ac4ef"
+    }
+  ]
+}

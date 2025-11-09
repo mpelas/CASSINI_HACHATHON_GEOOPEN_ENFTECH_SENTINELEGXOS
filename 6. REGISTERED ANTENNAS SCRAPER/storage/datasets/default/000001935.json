@@ -1,0 +1,57 @@
+{
+  "antenna_id": "114743",
+  "address": "ΕΠΙ ΑΝΩΝΥΜΟΥ ΟΔΟΥ",
+  "position_code": 20368,
+  "municipality": "Ναυπακτίας",
+  "code_name": "ΝΕΟΚΑΣΤΡΟ Τ/Σ",
+  "region": "Δυτικής Ελλάδας",
+  "latitude": 38.468611,
+  "company": "OTE",
+  "longitude": 21.823056,
+  "permit_status": "Από τα στοιχεία που τηρούνται στην Ενημερωτική Πύλη προκύπτει ότι, για τη θέση \"ΕΠΙ ΑΝΩΝΥΜΟΥ ΟΔΟΥ\" στον Δήμο Ναυπακτίας Περιφέρειας  Δυτικής Ελλάδας \n\t(κωδικός αριθμός θέσης 0020368, κωδική ονομασία \"ΝΕΟΚΑΣΤΡΟ Τ/Σ\") έχει κατατεθεί από την εταιρία OTE\tδήλωση εγκατάστασης κατασκευής κεραίας (αριθ. πρωτ. \n\t13655/30-10-2015) που εμπίπτει στις διατάξεις της νομοθεσίας για Εγκαταστάσεις Κατασκευών Κεραιών Χαμηλής Ηλεκτρομαγνητικής Περιβαλλοντικής Όχλησης (ΕΚΚΧΟ).",
+  "measurements_eaee": "-",
+  "documents": [
+    {
+      "document_number": "237829/30-10-2015",
+      "protocol_number": "61664/1842/14-05-0014",
+      "type": "Τελεσιδικία",
+      "file_url": "https://silia.eett.gr/silia/download/d3a4c7a8-00d5-4771-a78a-d5fa789380fb"
+    },
+    {
+      "document_number": "237830/30-10-2015",
+      "protocol_number": "2361/10-09-0013",
+      "type": "Γνωμοδότηση ΕΒΑ",
+      "file_url": "https://silia.eett.gr/silia/download/cea86218-b5cc-4252-8543-64bcb5c6bea1"
+    },
+    {
+      "document_number": "237831/30-10-2015",
+      "protocol_number": "Φ888/ΙΣΤ/4479/01-10-0013",
+      "type": "Γνωμοδότηση ΕΠΚΑ",
+      "file_url": "https://silia.eett.gr/silia/download/98138550-4dec-4cd9-93d6-2701ff2cedd1"
+    },
+    {
+      "document_number": "237838/30-10-2015",
+      "protocol_number": "235096/18155/15-09-0013",
+      "type": "Βεβαίωση Υπουργείου Αγροτικής Ανάπτυξης",
+      "file_url": "https://silia.eett.gr/silia/download/81bd4a25-e837-44a9-9eb6-340fc9b6ace8"
+    },
+    {
+      "document_number": "237839/30-10-2015",
+      "protocol_number": "3008/Φ301/024/08-09-0013",
+      "type": "Βεβαίωση Κτηματικής Υπηρεσίας Δημοσίου",
+      "file_url": "https://silia.eett.gr/silia/download/1693691a-1e38-4ed4-865b-1fde4542c75e"
+    },
+    {
+      "document_number": "237844/30-10-2015",
+      "protocol_number": "ΜΕΣΩ ΣΗΛΥΑ/",
+      "type": "Φωτογραφικό Υλικό - Σκαρίφημα",
+      "file_url": "https://silia.eett.gr/silia/download/55c1a8b6-52f3-4ab6-8587-c32eb5670535"
+    },
+    {
+      "document_number": "237865/30-10-2015",
+      "protocol_number": "Αρχείο Αίτησης/",
+      "type": "Δήλωση ΕΚΚΧΟ",
+      "file_url": "https://silia.eett.gr/silia/download/6af1f199-e022-457a-89f0-cabec243a769"
+    }
+  ]
+}

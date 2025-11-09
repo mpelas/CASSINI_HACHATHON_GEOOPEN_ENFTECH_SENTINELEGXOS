@@ -1,0 +1,45 @@
+{
+  "antenna_id": "155778",
+  "address": "Δήμος Αχαρνών, Π.Ε Ανατολικής Αττικής , Περιφέρεια Αττικής",
+  "position_code": 3206074,
+  "municipality": "Αχαρνών",
+  "code_name": "ΠΑΡΝΗΘΑ",
+  "region": "Αττικής",
+  "latitude": 38.171667,
+  "company": "ΕΡΤ ΑΕ",
+  "longitude": 23.731667,
+  "permit_status": "Από τα στοιχεία που τηρούνται στην Ενημερωτική Πύλη προκύπτει ότι για τη  θέση \"Δήμος Αχαρνών, Π.Ε Ανατολικής Αττικής , Περιφέρεια Αττικής\" στον Δήμο Αχαρνών Περιφέρειας  Αττικής έχει κατατεθεί από την εταιρία ΕΡΤ ΑΕ δήλωση κατασκευής κεραίας τηλεοπτικής ευρυεκπομπής με αριθ. πρωτ. ΣΗΛΥΑ \n41942/13-12-2020 κατά τα οριζόμενα στην παρ. 7 του άρθρου 39 του Ν.4635/2019.",
+  "measurements_eaee": "-",
+  "documents": [
+    {
+      "document_number": "414927/07-08-2020",
+      "protocol_number": "screenshot/",
+      "type": "Φωτογραφικό Υλικό - Σκαρίφημα",
+      "file_url": "https://silia.eett.gr/silia/download/575d2693-8954-47ad-9260-bb437db8d6e2"
+    },
+    {
+      "document_number": "423553/28-11-2020",
+      "protocol_number": "Υποβολή_ΥΠΑ/",
+      "type": "Αίτηση ΥΠΑ",
+      "file_url": "https://silia.eett.gr/silia/download/0e39a75c-3661-407f-a54b-dab570cc4485"
+    },
+    {
+      "document_number": "425044/13-12-2020",
+      "protocol_number": "Αρχείο Αίτησης/",
+      "type": "Δήλωση Τηλεοπτικής Ευρυεκπομπής",
+      "file_url": "https://silia.eett.gr/silia/download/96b9c378-fef4-4b92-8508-36bf7bbe780a"
+    },
+    {
+      "document_number": "430868/09-03-2021",
+      "protocol_number": "Υποβολή_ΥΠΑ/",
+      "type": "Αίτηση ΥΠΑ",
+      "file_url": "https://silia.eett.gr/silia/download/933e608e-095e-4a97-b2aa-1cd4f54c52f6"
+    },
+    {
+      "document_number": "435667/31-05-2021",
+      "protocol_number": "Δ3/Δ/17000/31-5-2021/31-05-2021",
+      "type": "Γνωμάτευση ΥΠΑ",
+      "file_url": "https://silia.eett.gr/silia/download/9bd40c6a-d620-4b2f-9da0-21aa6444ea87"
+    }
+  ]
+}

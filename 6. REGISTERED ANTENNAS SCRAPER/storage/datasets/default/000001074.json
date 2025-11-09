@@ -1,0 +1,39 @@
+{
+  "antenna_id": "175369",
+  "address": "ΔΗΜΟΣ ΒΟΛΟΥ - ΔΗΜΟΤΙΚΗ ΕΝΟΤΗΤΑ ΑΡΤΕΜΙΔΟΣ (S-MAG-05469)",
+  "position_code": 1495100,
+  "municipality": "Βόλου",
+  "code_name": "DIMOS LECHONIA SYZII",
+  "region": "Θεσσαλίας",
+  "latitude": 39.3275,
+  "company": "OTE",
+  "longitude": 23.054722,
+  "permit_status": "Από τα στοιχεία που τηρούνται στην Ενημερωτική Πύλη προκύπτει ότι, για τη θέση \"ΔΗΜΟΣ ΒΟΛΟΥ - ΔΗΜΟΤΙΚΗ ΕΝΟΤΗΤΑ ΑΡΤΕΜΙΔΟΣ (S-MAG-05469)\" στον Δήμο Βόλου Περιφέρειας  Θεσσαλίας \n\t(κωδικός αριθμός θέσης 1495100, κωδική ονομασία \"DIMOS LECHONIA SYZII\") έχει κατατεθεί από την εταιρία OTE\tδήλωση εγκατάστασης κατασκευής κεραίας (αριθ. πρωτ. \n\t61543/05-06-2025) που εμπίπτει στις διατάξεις της νομοθεσίας για Εγκαταστάσεις Κατασκευών Κεραιών Χαμηλής Ηλεκτρομαγνητικής Περιβαλλοντικής Όχλησης (ΕΚΚΧΟ).",
+  "measurements_eaee": "-",
+  "documents": [
+    {
+      "document_number": "526074/18-09-2024",
+      "protocol_number": "XAΡΤΗΣ/18-09-2024",
+      "type": "Φωτογραφικό Υλικό - Σκαρίφημα",
+      "file_url": "https://silia.eett.gr/silia/download/owgbo6L96VwnorUZiKQZfnwhghcrQfb2QdaI"
+    },
+    {
+      "document_number": "526075/18-09-2024",
+      "protocol_number": "ΦΩΤΟΓΡΑΦΙΑ/18-09-2024",
+      "type": "Φωτογραφικό Υλικό - Σκαρίφημα",
+      "file_url": "https://silia.eett.gr/silia/download/30GDYpN7t9n9eSb3DEsI2hgyldPGuSOI0Ops"
+    },
+    {
+      "document_number": "551228/02-06-2025",
+      "protocol_number": "ΜΕΛΕΤΗ/02-06-2025",
+      "type": "Αίτηση - Μελέτη Ραδιοεκπομπών ΕΕΑΕ",
+      "file_url": "https://silia.eett.gr/silia/download/nuTpxIbYZVUX8dBg9ZdIvEhGksDKOsLgx6BM"
+    },
+    {
+      "document_number": "551634/05-06-2025",
+      "protocol_number": "Αρχείο Αίτησης/05-06-2025",
+      "type": "Δήλωση ΕΚΚΧΟ",
+      "file_url": "https://silia.eett.gr/silia/download/VWgwLmw8VCWIi8QMUVItZQWXV6nDvsXu8pDs"
+    }
+  ]
+}

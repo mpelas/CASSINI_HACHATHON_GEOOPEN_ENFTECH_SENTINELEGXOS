@@ -1,0 +1,39 @@
+{
+  "antenna_id": "166293",
+  "address": "Πλησίον Βαρύπετρο Χανίων.",
+  "position_code": 1150168,
+  "municipality": "Χανίων",
+  "code_name": "3030168 TO MANNA VARIPETRO",
+  "region": "Κρήτης",
+  "latitude": 35.475,
+  "company": "VODAFONE",
+  "longitude": 23.959722,
+  "permit_status": "Από τα στοιχεία που τηρούνται στην Ενημερωτική Πύλη προκύπτει ότι, για τη θέση \"Πλησίον Βαρύπετρο Χανίων.\" στον Δήμο Χανίων Περιφέρειας  Κρήτης \n\t(κωδικός αριθμός θέσης 1150168, κωδική ονομασία \"3030168 TO MANNA VARIPETRO\") έχει κατατεθεί από την εταιρία VODAFONE\tδήλωση εγκατάστασης κατασκευής κεραίας (αριθ. πρωτ. \n\t50005/22-11-2022) που εμπίπτει στις διατάξεις της νομοθεσίας για Εγκαταστάσεις Κατασκευών Κεραιών Χαμηλής Ηλεκτρομαγνητικής Περιβαλλοντικής Όχλησης (ΕΚΚΧΟ).",
+  "measurements_eaee": "-",
+  "documents": [
+    {
+      "document_number": "472906/18-11-2022",
+      "protocol_number": "Φωτορεαλιστική απεικόνιση ΕΚΚΧΟ/",
+      "type": "Φωτογραφικό Υλικό - Σκαρίφημα",
+      "file_url": "https://silia.eett.gr/silia/download/e41c8e91-84b5-4d04-997d-6b8eee702e1a"
+    },
+    {
+      "document_number": "472907/18-11-2022",
+      "protocol_number": "Ψηφιακός Χάρτης με προβολή της θέσης ΕΚΚΧΟ/",
+      "type": "Φωτογραφικό Υλικό - Σκαρίφημα",
+      "file_url": "https://silia.eett.gr/silia/download/8725bd40-65f0-46e0-a5cd-85efcad3ee8f"
+    },
+    {
+      "document_number": "473116/22-11-2022",
+      "protocol_number": "Μελέτη ΕΚΚΧΟ/21-11-2022",
+      "type": "Άλλο",
+      "file_url": "https://silia.eett.gr/silia/download/8f48d6fc-4b38-4460-9fee-c4155825b77e"
+    },
+    {
+      "document_number": "473117/22-11-2022",
+      "protocol_number": "Αρχείο Αίτησης/",
+      "type": "Δήλωση ΕΚΚΧΟ",
+      "file_url": "https://silia.eett.gr/silia/download/be7216b3-9f8a-4aaa-8dc6-99458480f28f"
+    }
+  ]
+}

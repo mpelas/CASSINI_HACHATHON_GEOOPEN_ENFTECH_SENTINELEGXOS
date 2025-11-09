@@ -1,0 +1,81 @@
+{
+  "antenna_id": "172100",
+  "address": "ΕΝΤΟΣ ΞΕΝΟΔΟΧΕΙΑΚΗΣ ΜΟΝΑΔΑΣ ΑΣΤΕΡΑ",
+  "position_code": 1412904,
+  "municipality": "Βάρης - Βούλας - Βουλιαγμένης",
+  "code_name": "ASTIR VILLA",
+  "region": "Αττικής",
+  "latitude": 37.803333,
+  "company": "OTE",
+  "longitude": 23.769167,
+  "permit_status": "Από τα στοιχεία που τηρούνται στην Ενημερωτική Πύλη προκύπτει ότι, για τη θέση \"ΕΝΤΟΣ ΞΕΝΟΔΟΧΕΙΑΚΗΣ ΜΟΝΑΔΑΣ ΑΣΤΕΡΑ\" στον Δήμο Βάρης - Βούλας - Βουλιαγμένης Περιφέρειας  Αττικής \n\t(κωδικός αριθμός θέσης 1412904, κωδική ονομασία \"ASTIR VILLA\") χορηγήθηκε, με την Απόφαση της ΕΕΤΤ \n51072/17-06-2024, άδεια κατασκευής κεραίας στην εταιρία OTE. \nΑπό τo έγγραφο της άδειας μπορείτε να ενημερωθείτε για τις σχετικές εγκρίσεις των συναρμόδιων φορέων, καθώς και εάν πρόκειται για τροποποίηση παλαιότερης άδειας.\n\tΣύμφωνα με τα στοιχεία που έχουν υποβληθεί στο ΣΗΛΥΑ, ο κάτοχος της κατασκευής κεραίας έχει δηλώσει ότι θα προβεί σε έκδοση έγκρισης δομικών κατασκευών \n\t\tκεραίας μέσω του e-Άδειες \n\t\tμετά την έκδοση της άδειας κατασκευής κεραίας / δημοσιοποίηση της δήλωσης τροποποίησης της κατασκευής κεραίας",
+  "measurements_eaee": "-",
+  "documents": [
+    {
+      "document_number": "507132/09-02-2024",
+      "protocol_number": "ΜΕΣΩ ΣΗΛΥΑ/",
+      "type": "Τοπογραφικό",
+      "file_url": "https://silia.eett.gr/silia/download/c9e033ec-6c8f-4be0-b26b-d7f694daa837"
+    },
+    {
+      "document_number": "507133/09-02-2024",
+      "protocol_number": "ΜΕΣΩ ΣΗΛΥΑ/",
+      "type": "Αρχιτεκτονικά Σχέδια",
+      "file_url": "https://silia.eett.gr/silia/download/d413aed5-514f-4f05-9507-9c18cb0e4a3e"
+    },
+    {
+      "document_number": "507134/09-02-2024",
+      "protocol_number": "ΜΕΣΩ ΣΗΛΥΑ/23-01-2024",
+      "type": "Αίτηση - Μελέτη Ραδιοεκπομπών ΕΕΑΕ",
+      "file_url": "https://silia.eett.gr/silia/download/33c19ac1-b88e-47a3-b342-0ed3ed721273"
+    },
+    {
+      "document_number": "507135/09-02-2024",
+      "protocol_number": "ΜΕΛΕΤΗ EMC/24-01-2024",
+      "type": "Αποτελέσματα μελέτης στη ζώνης 2.6GHz για ΥΠΑ/ΓΕΕΘΑ",
+      "file_url": "https://silia.eett.gr/silia/download/e75f144b-d0c2-4723-8394-3f9d0d940d8a"
+    },
+    {
+      "document_number": "507136/09-02-2024",
+      "protocol_number": "ΑΝΑΚΟΙΝΩΣΗ ΚΑΤΑΧΩΡΗΣΗ Γ.Ε.ΜΗ  3189349/",
+      "type": "Άλλο",
+      "file_url": "https://silia.eett.gr/silia/download/1e114261-401e-47f5-b24d-c430db6741c6"
+    },
+    {
+      "document_number": "508041/20-02-2024",
+      "protocol_number": "Αρχείο Αίτησης/",
+      "type": "Αίτηση Άδειας Κατασκευής Κεραίας ΕΕΤΤ",
+      "file_url": "https://silia.eett.gr/silia/download/e813c1b0-fe06-49c1-a2e3-132592089940"
+    },
+    {
+      "document_number": "508535/26-02-2024",
+      "protocol_number": "ΚΓ/Δ3/Δ/3972/26-02-2024",
+      "type": "Γνωμάτευση ΥΠΑ",
+      "file_url": "https://silia.eett.gr/silia/download/526edae6-7017-4fb0-a1f5-e0d67d3d1ecd"
+    },
+    {
+      "document_number": "512257/05-04-2024",
+      "protocol_number": "ΤΜΙΑ/411/5151/2024/04-04-2024",
+      "type": "Γνωμάτευση ΕΕΑΕ",
+      "file_url": "https://silia.eett.gr/silia/download/3mrZNGYRQdulnAAXGSQCZxS9D54D7rESQwVx"
+    },
+    {
+      "document_number": "519238/30-06-2024",
+      "protocol_number": "51072/17-06-2024",
+      "type": "Άδεια Κατασκευής  Κεραίας",
+      "file_url": "https://silia.eett.gr/silia/download/YpRAAqFg8BMGHzg8DPnY41lcFwLilgDgM6dK"
+    },
+    {
+      "document_number": "507111/08-02-2024",
+      "protocol_number": "ΜΕΣΩ ΣΗΛΥΑ/",
+      "type": "Δήλωση υπαγωγής σε ΠΠΔ και Συνοδευτικά Έγγραφα",
+      "file_url": "https://silia.eett.gr/silia/download/05d9d6d3-a2e4-4610-a646-9413b8e7394e"
+    },
+    {
+      "document_number": "508042/20-02-2024",
+      "protocol_number": "Αρχείο Αίτησης/",
+      "type": "Δήλωση ΠΠΔ",
+      "file_url": "https://silia.eett.gr/silia/download/50c06ef0-f37b-4073-81f7-3e0f4d78103b"
+    }
+  ]
+}

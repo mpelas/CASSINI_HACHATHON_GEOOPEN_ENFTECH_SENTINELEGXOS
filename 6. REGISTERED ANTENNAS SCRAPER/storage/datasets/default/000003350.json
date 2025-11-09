@@ -1,0 +1,93 @@
+{
+  "antenna_id": "169831",
+  "address": "ΥΨΩΜΑ \"ΡΑΧΗ ΧΑΒΟΥ\"",
+  "position_code": 1402297,
+  "municipality": "Στυλίδας",
+  "code_name": "ΣΤΥΛΙΔΑ",
+  "region": "Στερεάς Ελλάδας",
+  "latitude": 38.92,
+  "company": "OTE",
+  "longitude": 22.665278,
+  "permit_status": "Από τα στοιχεία που τηρούνται στην Ενημερωτική Πύλη προκύπτει ότι, για τη θέση \"ΥΨΩΜΑ \"ΡΑΧΗ ΧΑΒΟΥ\"\" στον Δήμο Στυλίδας Περιφέρειας  Στερεάς Ελλάδας \n\t(κωδικός αριθμός θέσης 1402297, κωδική ονομασία \"ΣΤΥΛΙΔΑ\") χορηγήθηκε, με την Απόφαση της ΕΕΤΤ \n50401/21-12-2023, άδεια κατασκευής κεραίας στην εταιρία OTE. \nΑπό τo έγγραφο της άδειας μπορείτε να ενημερωθείτε για τις σχετικές εγκρίσεις των συναρμόδιων φορέων, καθώς και εάν πρόκειται για τροποποίηση παλαιότερης άδειας.\n\tΣύμφωνα με τα στοιχεία που έχουν υποβληθεί στο ΣΗΛΥΑ, ο κάτοχος της κατασκευής κεραίας έχει δηλώσει ότι θα προβεί σε έκδοση έγκρισης δομικών κατασκευών \n\t\tκεραίας μέσω του e-Άδειες \n\t\tμετά την έκδοση της άδειας κατασκευής κεραίας / δημοσιοποίηση της δήλωσης τροποποίησης της κατασκευής κεραίας",
+  "measurements_eaee": "-",
+  "documents": [
+    {
+      "document_number": "494359/15-09-2023",
+      "protocol_number": "ΜΕΣΩ ΣΗΛΥΑ    /",
+      "type": "Τοπογραφικό",
+      "file_url": "https://silia.eett.gr/silia/download/c777e55d-dedb-4826-ab75-3926b346c289"
+    },
+    {
+      "document_number": "494360/15-09-2023",
+      "protocol_number": "ΜΕΣΩ ΣΗΛΥΑ    /",
+      "type": "Αρχιτεκτονικά Σχέδια",
+      "file_url": "https://silia.eett.gr/silia/download/8eb22dd7-e7a1-4547-941c-2d70b2cec74c"
+    },
+    {
+      "document_number": "494361/15-09-2023",
+      "protocol_number": "ΜΕΣΩ ΣΗΛΥΑ    /31-08-2023",
+      "type": "Αίτηση - Μελέτη Ραδιοεκπομπών ΕΕΑΕ",
+      "file_url": "https://silia.eett.gr/silia/download/5b45fd61-f50f-4176-bdc8-fd1d4c40bc6f"
+    },
+    {
+      "document_number": "494362/15-09-2023",
+      "protocol_number": "ΥΔ ΣΥΝΕΓΚΑΤΑΣΤΑΣΗΣ ΟΤΕ/",
+      "type": "Άλλο",
+      "file_url": "https://silia.eett.gr/silia/download/31b968fc-ff88-45a9-809c-9412e4319681"
+    },
+    {
+      "document_number": "494363/15-09-2023",
+      "protocol_number": "Δ3/Δ/37263/8317/23-10-2002",
+      "type": "Γνωμάτευση ΥΠΑ",
+      "file_url": "https://silia.eett.gr/silia/download/7b47e912-a46f-4d50-8b82-a5e5f12ea9d8"
+    },
+    {
+      "document_number": "494364/15-09-2023",
+      "protocol_number": "Δ3/Δ/6095/07-07-2006",
+      "type": "Γνωμάτευση ΥΠΑ",
+      "file_url": "https://silia.eett.gr/silia/download/6713bbe5-b048-43bd-bca6-cad62f77bb7c"
+    },
+    {
+      "document_number": "494365/15-09-2023",
+      "protocol_number": "ΜΕΣΩ ΣΗΛΥΑ    /15-09-2023",
+      "type": "Αίτηση ΥΠΑ",
+      "file_url": "https://silia.eett.gr/silia/download/4eb46fc0-b886-4976-b734-eaa2407c32e5"
+    },
+    {
+      "document_number": "494424/15-09-2023",
+      "protocol_number": "100152/15-09-2023",
+      "type": "Επιστολή Ενημέρωσης προς Αρμόδιο Φορέα",
+      "file_url": "https://silia.eett.gr/silia/download/f73d3f2e-ccd3-4aa3-b036-8ca4cb024110"
+    },
+    {
+      "document_number": "494425/15-09-2023",
+      "protocol_number": "Αρχείο Αίτησης/",
+      "type": "Αίτηση Άδειας Κατασκευής Κεραίας ΕΕΤΤ",
+      "file_url": "https://silia.eett.gr/silia/download/ea42a80d-5a8d-4f46-ad80-9c9073246ced"
+    },
+    {
+      "document_number": "498265/23-10-2023",
+      "protocol_number": "ΤΜΙΑ/411/13173/2023/23-10-2023",
+      "type": "Γνωμάτευση ΕΕΑΕ",
+      "file_url": "https://silia.eett.gr/silia/download/8ebdd2fe-71d4-4c25-b9a5-f56fae6ac5fc"
+    },
+    {
+      "document_number": "508288/23-02-2024",
+      "protocol_number": "50401/21-12-2023",
+      "type": "Άδεια Κατασκευής  Κεραίας",
+      "file_url": "https://silia.eett.gr/silia/download/9f30f849-7733-4b34-aca4-a066fde6004b"
+    },
+    {
+      "document_number": "494021/11-09-2023",
+      "protocol_number": "ΣΥΝΟΔΕΥΤΙΚΑ ΕΓΓΡΑΦΑ/",
+      "type": "Δήλωση υπαγωγής σε ΠΠΔ και Συνοδευτικά Έγγραφα",
+      "file_url": "https://silia.eett.gr/silia/download/f4f2a573-8cc7-41aa-be27-0d23274f667e"
+    },
+    {
+      "document_number": "494426/15-09-2023",
+      "protocol_number": "Αρχείο Αίτησης/",
+      "type": "Δήλωση ΠΠΔ",
+      "file_url": "https://silia.eett.gr/silia/download/6b2e22db-7aca-49ae-b88f-3c777dfaee38"
+    }
+  ]
+}

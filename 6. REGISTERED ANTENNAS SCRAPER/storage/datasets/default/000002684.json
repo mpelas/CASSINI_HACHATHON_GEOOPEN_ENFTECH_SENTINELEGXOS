@@ -1,0 +1,195 @@
+{
+  "antenna_id": "104046",
+  "address": "ΕΝΤΟΣ ΟΡΙΩΝ ΑΠΑΛΛΟΤΡΙΩΣΗΣ ΠΕΡΙΟΥΣΙΑΣ ΟΣΕ ΚΑΙ ΣΤΗΝ ΑΝΑΤΟΛΙΚΗ ΠΛΕΥΡΑ ΤΟΥ ΧΩΡΟΥ ΣΤΑΘΜΕΥΣΗΣ ΤΟΥ Σ.Σ. ΠΕΙΡΑΙΑ",
+  "position_code": 2330025,
+  "municipality": "Πειραιώς",
+  "code_name": "SP4 - ΠΕΙΡΑΙΑΣ",
+  "region": "Αττικής",
+  "latitude": 37.949167,
+  "company": "ΟΣΕ",
+  "longitude": 23.645,
+  "permit_status": "Από τα στοιχεία που τηρούνται στην Ενημερωτική Πύλη προκύπτει ότι, για τη θέση \"ΕΝΤΟΣ ΟΡΙΩΝ ΑΠΑΛΛΟΤΡΙΩΣΗΣ ΠΕΡΙΟΥΣΙΑΣ ΟΣΕ ΚΑΙ ΣΤΗΝ ΑΝΑΤΟΛΙΚΗ ΠΛΕΥΡΑ ΤΟΥ ΧΩΡΟΥ ΣΤΑΘΜΕΥΣΗΣ ΤΟΥ Σ.Σ. ΠΕΙΡΑΙΑ\" στον Δήμο Πειραιώς Περιφέρειας  Αττικής \n\t(κωδικός αριθμός θέσης 2330025, κωδική ονομασία \"SP4 - ΠΕΙΡΑΙΑΣ\") χορηγήθηκε, με την Απόφαση της ΕΕΤΤ \n16787/Φ.610/14-07-2015, άδεια κατασκευής κεραίας στην εταιρία ΟΣΕ. \nΑπό τo έγγραφο της άδειας μπορείτε να ενημερωθείτε για τις σχετικές εγκρίσεις των συναρμόδιων φορέων, καθώς και εάν πρόκειται για τροποποίηση παλαιότερης άδειας.\nΗ άδεια χορηγήθηκε, κατόπιν της με Αριθ. Πρωτ. 8424/20-11-2014 αίτησης, \n\tμε τη διαδικασία αδειοδότησης της παρ. 17 του άρθρου 30 του Ν.4070/2012 που πλέον έχει αντικατασταθεί από τη διαδικασία που ορίζει ο ν. 4635/2019.\n\tΣύμφωνα με τα στοιχεία που έχουν υποβληθεί στο ΣΗΛΥΑ για την κατασκευή κεραίας από τον κάτοχό της, έχει εκδοθεί έγκριση δομικών κατασκευών κεραίας",
+  "measurements_eaee": "-",
+  "documents": [
+    {
+      "document_number": "190802/20-11-2014",
+      "protocol_number": "Αρχείο Αίτησης/",
+      "type": "Αίτηση Άδειας Κατασκευής Κεραίας ΕΕΤΤ",
+      "file_url": "https://silia.eett.gr/silia/download/e813f2d9-c17a-44f7-bcec-a85dc5e6f303"
+    },
+    {
+      "document_number": "192439/08-12-2014",
+      "protocol_number": "GRC.D05.APS.514.0007.02_SP4/07-11-2014",
+      "type": "Τοπογραφικό",
+      "file_url": "https://silia.eett.gr/silia/download/1a46eec3-eb92-43b5-a54b-64d5dd4de05d"
+    },
+    {
+      "document_number": "192440/08-12-2014",
+      "protocol_number": "GRC.D05.IMP.514.0007.01_SP4/07-11-2014",
+      "type": "Αρχιτεκτονικά Σχέδια",
+      "file_url": "https://silia.eett.gr/silia/download/9c9c927c-98dd-49e4-85a2-7e384fce11c4"
+    },
+    {
+      "document_number": "192441/08-12-2014",
+      "protocol_number": "Υποβολή Μελέτης SP4 μέσω ΣΗΛΥΑ για έγκριση ΕΑΕΕ/02-10-2014",
+      "type": "Αίτηση - Μελέτη Ραδιοεκπομπών ΕΕΑΕ",
+      "file_url": "https://silia.eett.gr/silia/download/7597e5bc-f82f-49c2-9328-67d129c668b3"
+    },
+    {
+      "document_number": "192442/08-12-2014",
+      "protocol_number": "Α.Π. 74674/3775 - Δασαρχείο Πειραιά/19-11-2014",
+      "type": "Αίτηση προς Αρμόδιο Φορέα",
+      "file_url": "https://silia.eett.gr/silia/download/53ca0aca-52a8-4085-8a5c-d1eaffbab35d"
+    },
+    {
+      "document_number": "192443/08-12-2014",
+      "protocol_number": "Α.Π. 826 - Εφορεία Αρχαιοτήτων Πειραιώς/19-11-2014",
+      "type": "Αίτηση προς Αρμόδιο Φορέα",
+      "file_url": "https://silia.eett.gr/silia/download/1c281e19-12d3-4330-bfae-870951bef142"
+    },
+    {
+      "document_number": "192444/08-12-2014",
+      "protocol_number": "Υποβολή Δήλωσης μέσω ΣΗΛΥΑ/21-10-2014",
+      "type": "Δήλωση υπαγωγής σε ΠΠΔ και Συνοδευτικά Έγγραφα",
+      "file_url": "https://silia.eett.gr/silia/download/309734da-6981-4097-a61d-2bffd29200cf"
+    },
+    {
+      "document_number": "194396/15-01-2015",
+      "protocol_number": "Δ3/Δ/40708/10343/30-12-2014/15-01-2015",
+      "type": "Γνωμάτευση ΥΠΑ",
+      "file_url": "https://silia.eett.gr/silia/download/0f1ea3b2-3717-4f06-9707-b0bf3c06b23e"
+    },
+    {
+      "document_number": "200739/20-03-2015",
+      "protocol_number": "GRC.D05.APS.514.0007.02_SP4_Autocad/07-11-2014",
+      "type": "Τοπογραφικό",
+      "file_url": "https://silia.eett.gr/silia/download/6a6c39c1-ed64-4433-bc24-4b617262ed7a"
+    },
+    {
+      "document_number": "200740/20-03-2015",
+      "protocol_number": "GRC.D05.IMP.514.0007.01_SP4_Autocad/07-11-2014",
+      "type": "Αρχιτεκτονικά Σχέδια",
+      "file_url": "https://silia.eett.gr/silia/download/48396f69-f6c9-46eb-8f96-837ba7175bac"
+    },
+    {
+      "document_number": "205399/30-04-2015",
+      "protocol_number": "Α.Π. 9818 / Φ610/11-06-2013",
+      "type": "Χορήγηση Δικαιώματος Χρήσης Ραδιοσυχνοτήτων",
+      "file_url": "https://silia.eett.gr/silia/download/f75ae6e0-556c-4c8b-a50c-0f1603f163d6"
+    },
+    {
+      "document_number": "205400/30-04-2015",
+      "protocol_number": "Α.Π. 2445002/24-03-2011",
+      "type": "Έγγραφο Αρμοδίου Φορέα",
+      "file_url": "https://silia.eett.gr/silia/download/1ffd227e-75fd-40b2-8333-362869c0761d"
+    },
+    {
+      "document_number": "205415/30-04-2015",
+      "protocol_number": "Μ.ι./411/686/28-04-2015",
+      "type": "Γνωμάτευση ΕΕΑΕ",
+      "file_url": "https://silia.eett.gr/silia/download/dc18d96d-0c5f-497b-9c69-8e5e17fc19e6"
+    },
+    {
+      "document_number": "206206/06-05-2015",
+      "protocol_number": "Διοικητικές / Νομοθετικές πράξεις/06-05-2015",
+      "type": "Άλλο",
+      "file_url": "https://silia.eett.gr/silia/download/cdb97ea8-f2f9-4dfd-8f5a-2fe9b5bf298b"
+    },
+    {
+      "document_number": "206220/06-05-2015",
+      "protocol_number": "Α.Π. 604 - ΕΝΜΑ/28-11-2014",
+      "type": "Αίτηση προς Αρμόδιο Φορέα",
+      "file_url": "https://silia.eett.gr/silia/download/e1491612-cb1f-4d55-a524-6e175e17175e"
+    },
+    {
+      "document_number": "206221/06-05-2015",
+      "protocol_number": "Α.Π. 3547/136 - Δασαρχείο Πειραιά/15-01-2015",
+      "type": "Αίτηση προς Αρμόδιο Φορέα",
+      "file_url": "https://silia.eett.gr/silia/download/b888ee19-853b-4557-83a7-fca683a3e270"
+    },
+    {
+      "document_number": "206222/06-05-2015",
+      "protocol_number": "Α.Π. 23 - Συμβούλιο Αρχιτεκτονικής Π.Ε. Πειραιά/05-02-2015",
+      "type": "Αίτηση προς Αρμόδιο Φορέα",
+      "file_url": "https://silia.eett.gr/silia/download/ca29ca9b-80b0-4166-a0ae-a1abc51bdc05"
+    },
+    {
+      "document_number": "206223/06-05-2015",
+      "protocol_number": "Α.Π. 23 - Συμβούλιο Αρχιτεκτονικής Π.Ε. Πειραιά/09-03-2015",
+      "type": "Έγκριση Αρμοδίου Φορέα",
+      "file_url": "https://silia.eett.gr/silia/download/32073246-5642-445f-bc5e-a91d48aede59"
+    },
+    {
+      "document_number": "206271/07-05-2015",
+      "protocol_number": "Α.Π. 826 - ΕΦΑΔΑΤ/11-12-2014",
+      "type": "Αρχαιολογική έγκριση/γνωμοδότηση (μη τυπική)",
+      "file_url": "https://silia.eett.gr/silia/download/31a30971-9d64-4869-846d-52dc6fbf1ab7"
+    },
+    {
+      "document_number": "206272/07-05-2015",
+      "protocol_number": "Α.Π. 604 - ΥΝΜΤΕΑΑΣΕΚ/18-12-2014",
+      "type": "Γνωμοδότηση Υπηρεσίας Νεωτέρων Μνημείων",
+      "file_url": "https://silia.eett.gr/silia/download/f7335a8e-a75b-4c5d-a976-f506d4edf239"
+    },
+    {
+      "document_number": "218913/02-07-2015",
+      "protocol_number": "GRC.D05.APS.514.0007.03_SP4/22-01-2015",
+      "type": "Τοπογραφικό",
+      "file_url": "https://silia.eett.gr/silia/download/4cf00e41-8b43-488a-b67c-910f06272ead"
+    },
+    {
+      "document_number": "218914/02-07-2015",
+      "protocol_number": "Α.Π. 1363 - ΑΔΑ : 6ΧΣ1ΩΞΥ-7ΟΗ/30-06-2015",
+      "type": "Έγκριση δομικών κατασκευών (έντυπη)",
+      "file_url": "https://silia.eett.gr/silia/download/41767278-267c-4123-bd73-4f7ce53f5aed"
+    },
+    {
+      "document_number": "218915/02-07-2015",
+      "protocol_number": "Α.Π. 1363 - Εγκεκριμένος φάκελος/30-06-2015",
+      "type": "Έγκριση δομικών κατασκευών (έντυπη)",
+      "file_url": "https://silia.eett.gr/silia/download/9a5ad165-41eb-4c52-a9bc-06e4072c965f"
+    },
+    {
+      "document_number": "220321/16-07-2015",
+      "protocol_number": "16787/Φ.610/14-07-2015",
+      "type": "Άδεια Κατασκευής  Κεραίας",
+      "file_url": "https://silia.eett.gr/silia/download/c2d369e9-2220-49af-a5d3-a9b8e1e1861b"
+    },
+    {
+      "document_number": "218914/02-07-2015",
+      "protocol_number": "Α.Π. 1363 - ΑΔΑ : 6ΧΣ1ΩΞΥ-7ΟΗ/30-06-2015",
+      "type": "Έγκριση δομικών κατασκευών (έντυπη)",
+      "file_url": "https://silia.eett.gr/silia/download/41767278-267c-4123-bd73-4f7ce53f5aed"
+    },
+    {
+      "document_number": "218915/02-07-2015",
+      "protocol_number": "Α.Π. 1363 - Εγκεκριμένος φάκελος/30-06-2015",
+      "type": "Έγκριση δομικών κατασκευών (έντυπη)",
+      "file_url": "https://silia.eett.gr/silia/download/9a5ad165-41eb-4c52-a9bc-06e4072c965f"
+    },
+    {
+      "document_number": "206273/07-05-2015",
+      "protocol_number": "Υποβολή Μελέτης SP4 μέσω ΣΗΛΥΑ για έγκριση ΕΑΕΕ/02-10-2014",
+      "type": "Αίτηση - Μελέτη Ραδιοεκπομπών ΕΕΑΕ",
+      "file_url": "https://silia.eett.gr/silia/download/7597e5bc-f82f-49c2-9328-67d129c668b3"
+    },
+    {
+      "document_number": "206274/07-05-2015",
+      "protocol_number": "Α.Π. 826 - ΕΦΑΔΑΤ/11-12-2014",
+      "type": "Αρχαιολογική έγκριση/γνωμοδότηση (μη τυπική)",
+      "file_url": "https://silia.eett.gr/silia/download/31a30971-9d64-4869-846d-52dc6fbf1ab7"
+    },
+    {
+      "document_number": "206275/07-05-2015",
+      "protocol_number": "Α.Π. 604 - ΥΝΜΤΕΑΑΣΕΚ/18-12-2014",
+      "type": "Γνωμοδότηση Υπηρεσίας Νεωτέρων Μνημείων",
+      "file_url": "https://silia.eett.gr/silia/download/f7335a8e-a75b-4c5d-a976-f506d4edf239"
+    },
+    {
+      "document_number": "207552/14-05-2015",
+      "protocol_number": "Αρχείο Αίτησης/",
+      "type": "Δήλωση ΠΠΔ",
+      "file_url": "https://silia.eett.gr/silia/download/df033841-6789-46b6-b0be-a2ce3ad4a127"
+    }
+  ]
+}

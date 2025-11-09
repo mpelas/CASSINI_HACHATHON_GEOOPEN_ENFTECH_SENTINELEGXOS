@@ -1,0 +1,51 @@
+{
+  "antenna_id": "173433",
+  "address": "ΑΤΤΙΚΗ ΟΔΟΣ - ΤΟΥΝΕΛ ΠΑΝΑΓΟΥΛΗ",
+  "position_code": 1123670,
+  "municipality": "Αγίας Παρασκευής",
+  "code_name": "ΑΤΤΙΚΗ ΟΔΟΣ - ΤΟΥΝΕΛ ΠΑΝΑΓΟΥΛΗ ΕΝΤΟΣ",
+  "region": "Αττικής",
+  "latitude": 38.013611,
+  "company": "VODAFONE",
+  "longitude": 23.843611,
+  "permit_status": "Από τα στοιχεία που τηρούνται στην Ενημερωτική Πύλη προκύπτει ότι, για τη θέση \"ΑΤΤΙΚΗ ΟΔΟΣ - ΤΟΥΝΕΛ ΠΑΝΑΓΟΥΛΗ\" στον Δήμο Αγίας Παρασκευής Περιφέρειας  Αττικής \n\t(κωδικός αριθμός θέσης 1123670, κωδική ονομασία \"ΑΤΤΙΚΗ ΟΔΟΣ - ΤΟΥΝΕΛ ΠΑΝΑΓΟΥΛΗ ΕΝΤΟΣ\") έχει κατατεθεί από την εταιρία VODAFONE\tδήλωση εγκατάστασης κατασκευής κεραίας (αριθ. πρωτ. \n\t55854/15-05-2024) που εμπίπτει στις διατάξεις της νομοθεσίας για Εγκαταστάσεις Κατασκευών Κεραιών Χαμηλής Ηλεκτρομαγνητικής Περιβαλλοντικής Όχλησης (ΕΚΚΧΟ).",
+  "measurements_eaee": "-",
+  "documents": [
+    {
+      "document_number": "515009/15-05-2024",
+      "protocol_number": "Φωτορεαλιστική απεικόνιση κεραιών 1 & 2/15-05-2024",
+      "type": "Φωτογραφικό Υλικό - Σκαρίφημα",
+      "file_url": "https://silia.eett.gr/silia/download/pDPl6ptOfTvY7H9zxPaMCNLImgHRyylrc5rl"
+    },
+    {
+      "document_number": "515010/15-05-2024",
+      "protocol_number": "Φωτορεαλιστική απεικόνιση ερμαρίου ΕΚΚΧΟ/15-05-2024",
+      "type": "Φωτογραφικό Υλικό - Σκαρίφημα",
+      "file_url": "https://silia.eett.gr/silia/download/Rqk8XgiPsymWnL4zrKRUmWHWUpQcHoAXqKD4"
+    },
+    {
+      "document_number": "515011/15-05-2024",
+      "protocol_number": "Ψηφιακός χάρτης με προβολή της θέσης ΕΚΚΧΟ/15-05-2024",
+      "type": "Φωτογραφικό Υλικό - Σκαρίφημα",
+      "file_url": "https://silia.eett.gr/silia/download/pde9z3gzhBPyNe23KuxKRyrg6c1hMa7f0Xml"
+    },
+    {
+      "document_number": "515012/15-05-2024",
+      "protocol_number": "Μελέτη ΕΚΚΧΟ/01-05-2024",
+      "type": "Άλλο",
+      "file_url": "https://silia.eett.gr/silia/download/RpfTt7IgKaSM8KmgkmxhIq5hvpNZT8LWbM5K"
+    },
+    {
+      "document_number": "515013/15-05-2024",
+      "protocol_number": "Αρχιτεκτονικά Σχέδια ΕΚΚΧΟ/17-04-2024",
+      "type": "Αρχιτεκτονικά Σχέδια",
+      "file_url": "https://silia.eett.gr/silia/download/nuA7G3PTgtGYcI4UOign9m1c1o3bzO7UX7Fp"
+    },
+    {
+      "document_number": "515015/15-05-2024",
+      "protocol_number": "Αρχείο Αίτησης/15-05-2024",
+      "type": "Δήλωση ΕΚΚΧΟ",
+      "file_url": "https://silia.eett.gr/silia/download/7oOeyYKBoSfT63p69nRT9iPazEcWQz2Dk3fr"
+    }
+  ]
+}

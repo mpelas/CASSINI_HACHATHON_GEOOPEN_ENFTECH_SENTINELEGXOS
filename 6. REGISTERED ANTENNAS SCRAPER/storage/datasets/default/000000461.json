@@ -1,0 +1,33 @@
+{
+  "antenna_id": "164870",
+  "address": "Δήμος Αλμυρού, Π.Ε. Μαγνησίας, Περιφέρεια Θεσσαλίας",
+  "position_code": 3206240,
+  "municipality": "Αλμυρού",
+  "code_name": "ΠΤΕΛΕΟΣ",
+  "region": "Θεσσαλίας",
+  "latitude": 39.055833,
+  "company": "ΕΡΤ ΑΕ",
+  "longitude": 22.933611,
+  "permit_status": "Από τα στοιχεία που τηρούνται στην Ενημερωτική Πύλη προκύπτει ότι για τη  θέση \"Δήμος Αλμυρού, Π.Ε. Μαγνησίας, Περιφέρεια Θεσσαλίας\" στον Δήμο Αλμυρού Περιφέρειας  Θεσσαλίας έχει κατατεθεί από την εταιρία ΕΡΤ ΑΕ δήλωση κατασκευής κεραίας τηλεοπτικής ευρυεκπομπής με αριθ. πρωτ. ΣΗΛΥΑ \n48713/25-07-2022 κατά τα οριζόμενα στην παρ. 7 του άρθρου 39 του Ν.4635/2019.",
+  "measurements_eaee": "-",
+  "documents": [
+    {
+      "document_number": "464611/25-07-2022",
+      "protocol_number": "Αίτηση ΥΠΑ/",
+      "type": "Αίτηση ΥΠΑ",
+      "file_url": "https://silia.eett.gr/silia/download/1851f337-8c0d-4611-91ec-dcb3e67ecbe8"
+    },
+    {
+      "document_number": "464613/25-07-2022",
+      "protocol_number": "screenshot/",
+      "type": "Φωτογραφικό Υλικό - Σκαρίφημα",
+      "file_url": "https://silia.eett.gr/silia/download/e42ea198-f5d5-4e7b-bea5-770ecd9e840e"
+    },
+    {
+      "document_number": "464614/25-07-2022",
+      "protocol_number": "Αρχείο Αίτησης/",
+      "type": "Δήλωση Τηλεοπτικής Ευρυεκπομπής",
+      "file_url": "https://silia.eett.gr/silia/download/151e9f3a-68ca-4350-a97e-ced93f76c36e"
+    }
+  ]
+}

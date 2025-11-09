@@ -1,0 +1,51 @@
+{
+  "antenna_id": "179653",
+  "address": "Τριπόλεως 9Α, Πέραμα.",
+  "position_code": 2340712,
+  "municipality": "Περάματος",
+  "code_name": "ΜΑΡΙΤΕΚ ΕΠΕ",
+  "region": "Αττικής",
+  "latitude": 37.964167,
+  "company": "NOVA Μ.Α.Ε.",
+  "longitude": 23.606667,
+  "permit_status": "Από τα στοιχεία που τηρούνται στην Ενημερωτική Πύλη προκύπτει ότι, για τη θέση \"Τριπόλεως 9Α, Πέραμα.\" στον Δήμο Περάματος Περιφέρειας  Αττικής \n\t(κωδικός αριθμός θέσης 2340712, κωδική ονομασία \"ΜΑΡΙΤΕΚ ΕΠΕ\") έχει κατατεθεί από την εταιρία NOVA Μ.Α.Ε.\tδήλωση εγκατάστασης κατασκευής κεραίας (αριθ. πρωτ. \n\t61166/20-05-2025) που εμπίπτει στις διατάξεις της νομοθεσίας για Εγκαταστάσεις Κατασκευών Κεραιών Χαμηλής Ηλεκτρομαγνητικής Περιβαλλοντικής Όχλησης (ΕΚΚΧΟ).",
+  "measurements_eaee": "-",
+  "documents": [
+    {
+      "document_number": "549842/20-05-2025",
+      "protocol_number": "Φωτορεαλιστική απεικόνιση κεραίας ΕΚΚΧΟ/20-05-2025",
+      "type": "Φωτογραφικό Υλικό - Σκαρίφημα",
+      "file_url": "https://silia.eett.gr/silia/download/v4uC1ItKM6GH46REWFn8WtDs2cfprirs0VAy"
+    },
+    {
+      "document_number": "549843/20-05-2025",
+      "protocol_number": "Ψηφιακός χάρτης με προβολή της θέσης ΕΚΚΧΟ/20-05-2025",
+      "type": "Φωτογραφικό Υλικό - Σκαρίφημα",
+      "file_url": "https://silia.eett.gr/silia/download/6HuNHVK48MQQ3XsbsP1lClXgNE2LNPb20kGu"
+    },
+    {
+      "document_number": "549850/20-05-2025",
+      "protocol_number": "ΜΕΛΕΤΗ ΕΚΚΧΟ/20-05-2025",
+      "type": "Άλλο",
+      "file_url": "https://silia.eett.gr/silia/download/GximZ3HhIen1CO3boSIbiU7FtuyVSKfCiC6o"
+    },
+    {
+      "document_number": "549851/20-05-2025",
+      "protocol_number": "Σκαρίφημα με περιοχή απαγόρευσης/20-05-2025",
+      "type": "Φωτογραφικό Υλικό - Σκαρίφημα",
+      "file_url": "https://silia.eett.gr/silia/download/bgu9Dag2es9ZrSY1sVg8gZiag9cRXWuAsI2N"
+    },
+    {
+      "document_number": "549852/20-05-2025",
+      "protocol_number": "Αρχείο Αίτησης/20-05-2025",
+      "type": "Δήλωση ΕΚΚΧΟ",
+      "file_url": "https://silia.eett.gr/silia/download/D7kt8A7VaB1tsHIbCbAEPGmieMiSrufhEGRQ"
+    },
+    {
+      "document_number": "554988/10-07-2025",
+      "protocol_number": "ΥΔ ΕΓΚΑΤΑΣΤΑΣΗΣ/10-07-2025",
+      "type": "Άλλο",
+      "file_url": "https://silia.eett.gr/silia/download/qm7ywrGfqbaLo1KLxHV6T71KWBgrSzMP3qVr"
+    }
+  ]
+}

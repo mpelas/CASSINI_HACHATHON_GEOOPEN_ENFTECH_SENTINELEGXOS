@@ -1,0 +1,75 @@
+{
+  "antenna_id": "133989",
+  "address": "Εντός οικισμού \"ΤΡΟΒΑΤΟ\"",
+  "position_code": 140106,
+  "municipality": "Αγράφων",
+  "code_name": "Α/Δ ΤΡΟΒΑΤΟ",
+  "region": "Στερεάς Ελλάδας",
+  "latitude": 39.213889,
+  "company": "OTE",
+  "longitude": 21.606111,
+  "permit_status": "Από τα στοιχεία που τηρούνται στην Ενημερωτική Πύλη προκύπτει ότι, για τη θέση \"Εντός οικισμού \"ΤΡΟΒΑΤΟ\"\" στον Δήμο Αγράφων Περιφέρειας  Στερεάς Ελλάδας \n\t(κωδικός αριθμός θέσης 0140106, κωδική ονομασία \"Α/Δ ΤΡΟΒΑΤΟ\") χορηγήθηκε, με την Απόφαση της ΕΕΤΤ \n39520/Φ610/26-02-2021, άδεια κατασκευής κεραίας στην εταιρία OTE. \nΑπό τo έγγραφο της άδειας μπορείτε να ενημερωθείτε για τις σχετικές εγκρίσεις των συναρμόδιων φορέων, καθώς και εάν πρόκειται για τροποποίηση παλαιότερης άδειας.\nΗ άδεια χορηγήθηκε με τη διαδικασία αδειοδότησης που ορίζει ο ν. 4635/2019, κατόπιν της με αριθ. πρωτ. 28424/16-07-2018 \n\tαίτησης, και βάσει σχετικής δήλωσης του κατόχου της περί υπαγωγή της κατασκευής κεραίας στο άρθρο 34 του ν. 4635/2019.",
+  "measurements_eaee": "-",
+  "documents": [
+    {
+      "document_number": "335804/16-07-2018",
+      "protocol_number": "ΜΕΣΩ ΣΗΛΥΑ/",
+      "type": "Τοπογραφικό",
+      "file_url": "https://silia.eett.gr/silia/download/fd78d4d1-fb8f-4264-beb5-2e2afa159998"
+    },
+    {
+      "document_number": "335805/16-07-2018",
+      "protocol_number": "ΜΕΣΩ ΣΗΛΥΑ/",
+      "type": "Αρχιτεκτονικά Σχέδια",
+      "file_url": "https://silia.eett.gr/silia/download/f67d5262-2b8f-47a6-8b51-08fbc8aa23ac"
+    },
+    {
+      "document_number": "335806/16-07-2018",
+      "protocol_number": "ΜΕΣΩ ΣΗΛΥΑ/09-07-2018",
+      "type": "Αίτηση - Μελέτη Ραδιοεκπομπών ΕΕΑΕ",
+      "file_url": "https://silia.eett.gr/silia/download/cd2b9954-bdaa-4259-9527-32c20a0d2f6d"
+    },
+    {
+      "document_number": "335807/16-07-2018",
+      "protocol_number": "Αρχείο Αίτησης/",
+      "type": "Αίτηση Άδειας Κατασκευής Κεραίας ΕΕΤΤ",
+      "file_url": "https://silia.eett.gr/silia/download/9cd887ec-a6db-41a6-a36f-1b411bb34fef"
+    },
+    {
+      "document_number": "338298/24-08-2018",
+      "protocol_number": "Δ3/Δ/19346/5788/23-8-2018/24-08-2018",
+      "type": "Γνωμάτευση ΥΠΑ",
+      "file_url": "https://silia.eett.gr/silia/download/14c59534-45a7-4915-92f4-4f5db0109418"
+    },
+    {
+      "document_number": "346006/24-10-2018",
+      "protocol_number": "Μ.ι./411/15546/2018/22-10-2018",
+      "type": "Γνωμάτευση ΕΕΑΕ",
+      "file_url": "https://silia.eett.gr/silia/download/0d1cdd97-aa09-4b6a-b25a-c36f78d7c276"
+    },
+    {
+      "document_number": "429164/10-02-2021",
+      "protocol_number": "ΥΔ ΔΙΟΡΘΩΣΗΣ ΕΚ ΠΑΡΑΔΡΟΜΗΣ ΛΑΘΩΝ/",
+      "type": "Άλλο",
+      "file_url": "https://silia.eett.gr/silia/download/5b6553fc-699b-4b3f-8b73-7d2fa60e0a8f"
+    },
+    {
+      "document_number": "430289/26-02-2021",
+      "protocol_number": "39520/Φ610/26-02-2021",
+      "type": "Άδεια Κατασκευής  Κεραίας",
+      "file_url": "https://silia.eett.gr/silia/download/ead96593-78ff-49aa-947f-6b4f49e7f305"
+    },
+    {
+      "document_number": "429162/10-02-2021",
+      "protocol_number": "ΣΥΝΟΔΕΥΤΙΚΑ ΕΓΓΡΑΦΑ/",
+      "type": "Δήλωση υπαγωγής σε ΠΠΔ και Συνοδευτικά Έγγραφα",
+      "file_url": "https://silia.eett.gr/silia/download/5e997736-31fe-4e91-9a0d-a92c9c4ad8ee"
+    },
+    {
+      "document_number": "429163/10-02-2021",
+      "protocol_number": "Αρχείο Αίτησης/",
+      "type": "Δήλωση ΠΠΔ",
+      "file_url": "https://silia.eett.gr/silia/download/4bc5ad3a-bbd4-4c9d-a9a3-bb6728b7046d"
+    }
+  ]
+}

@@ -1,0 +1,93 @@
+{
+  "antenna_id": "166589",
+  "address": "ΠΑΡΑΤΗΡΗΤΗΡΙΟ ΛΙΝΑΡΙΑ ΣΚΥΡΟΥ",
+  "position_code": 1406362,
+  "municipality": "Σκύρου",
+  "code_name": "ΛΙΝΑΡΙΑ /Χ",
+  "region": "Στερεάς Ελλάδας",
+  "latitude": 38.851667,
+  "company": "OTE",
+  "longitude": 24.522778,
+  "permit_status": "Από τα στοιχεία που τηρούνται στην Ενημερωτική Πύλη προκύπτει ότι, για τη θέση \"ΠΑΡΑΤΗΡΗΤΗΡΙΟ ΛΙΝΑΡΙΑ ΣΚΥΡΟΥ\" στον Δήμο Σκύρου Περιφέρειας  Στερεάς Ελλάδας \n\t(κωδικός αριθμός θέσης 1406362, κωδική ονομασία \"ΛΙΝΑΡΙΑ /Χ\") χορηγήθηκε, με την Απόφαση της ΕΕΤΤ \n47889/09-05-2023, άδεια κατασκευής κεραίας στην εταιρία OTE. \nΑπό τo έγγραφο της άδειας μπορείτε να ενημερωθείτε για τις σχετικές εγκρίσεις των συναρμόδιων φορέων, καθώς και εάν πρόκειται για τροποποίηση παλαιότερης άδειας.\n\tΣύμφωνα με τα στοιχεία που έχουν υποβληθεί στο ΣΗΛΥΑ, ο κάτοχος της κατασκευής κεραίας έχει δηλώσει ότι θα προβεί σε έκδοση έγκρισης δομικών κατασκευών \n\t\tκεραίας μέσω του e-Άδειες \n\t\tμετά την έκδοση της άδειας κατασκευής κεραίας / δημοσιοποίηση της δήλωσης τροποποίησης της κατασκευής κεραίας",
+  "measurements_eaee": "-",
+  "documents": [
+    {
+      "document_number": "474652/13-12-2022",
+      "protocol_number": "ΜΕΣΩ ΣΗΛΥΑ    /",
+      "type": "Τοπογραφικό",
+      "file_url": "https://silia.eett.gr/silia/download/ceb1ccba-48fd-4450-b33d-9ec6c95fb7ab"
+    },
+    {
+      "document_number": "474653/13-12-2022",
+      "protocol_number": "ΜΕΣΩ ΣΗΛΥΑ    /",
+      "type": "Αρχιτεκτονικά Σχέδια",
+      "file_url": "https://silia.eett.gr/silia/download/d5a12869-a78c-42be-935a-6c2beeb22fcc"
+    },
+    {
+      "document_number": "474654/13-12-2022",
+      "protocol_number": "ΥΔ ΣΥΝΕΓΚΑΤΑΣΤΑΣΗΣ ΟΤΕ/13-12-2022",
+      "type": "Άλλο",
+      "file_url": "https://silia.eett.gr/silia/download/3e01e4d3-2b9a-4595-96a2-02ceeee5f68e"
+    },
+    {
+      "document_number": "474655/13-12-2022",
+      "protocol_number": "35679/07-04-2022",
+      "type": "Επιστολή Ενημέρωσης προς Αρμόδιο Φορέα",
+      "file_url": "https://silia.eett.gr/silia/download/695fbbcc-77bb-417f-bfc7-8f444cf812c4"
+    },
+    {
+      "document_number": "474656/13-12-2022",
+      "protocol_number": "Δ3/Δ/8356/1339/03-05-2000",
+      "type": "Γνωμάτευση ΥΠΑ",
+      "file_url": "https://silia.eett.gr/silia/download/6ce2d3d5-630e-44de-8e97-ac94f73e093b"
+    },
+    {
+      "document_number": "474657/13-12-2022",
+      "protocol_number": "Δ3/Δ/279/13-01-2012",
+      "type": "Γνωμάτευση ΥΠΑ",
+      "file_url": "https://silia.eett.gr/silia/download/e78848c6-4265-4cc6-b3ae-6ae51a728551"
+    },
+    {
+      "document_number": "474658/13-12-2022",
+      "protocol_number": "ΜΕΣΩ ΣΗΛΥΑ    /13-12-2022",
+      "type": "Αίτηση ΥΠΑ",
+      "file_url": "https://silia.eett.gr/silia/download/5ca01f79-98ad-451a-967c-a90010b274f1"
+    },
+    {
+      "document_number": "475006/19-12-2022",
+      "protocol_number": "ΜΕΣΩ ΣΗΛΥΑ    /24-03-2022",
+      "type": "Αίτηση - Μελέτη Ραδιοεκπομπών ΕΕΑΕ",
+      "file_url": "https://silia.eett.gr/silia/download/df8e33ed-a658-4d63-9081-0a9ad3a639d4"
+    },
+    {
+      "document_number": "475007/19-12-2022",
+      "protocol_number": "Αρχείο Αίτησης/",
+      "type": "Αίτηση Άδειας Κατασκευής Κεραίας ΕΕΤΤ",
+      "file_url": "https://silia.eett.gr/silia/download/07cd46d0-6bf7-45f8-9938-40c93c814bdf"
+    },
+    {
+      "document_number": "481293/29-03-2023",
+      "protocol_number": "Μ.ι./411/4237/2023/27-03-2023",
+      "type": "Γνωμάτευση ΕΕΑΕ",
+      "file_url": "https://silia.eett.gr/silia/download/04b1c3a7-b2db-4aec-a21e-d504a0100753"
+    },
+    {
+      "document_number": "484620/11-05-2023",
+      "protocol_number": "47889/09-05-2023",
+      "type": "Άδεια Κατασκευής  Κεραίας",
+      "file_url": "https://silia.eett.gr/silia/download/e278429b-4801-4327-ab76-4b1f01376a54"
+    },
+    {
+      "document_number": "474642/13-12-2022",
+      "protocol_number": "ΣΥΝΟΔΕΥΤΙΚΑ ΕΓΓΡΑΦΑ/",
+      "type": "Δήλωση υπαγωγής σε ΠΠΔ και Συνοδευτικά Έγγραφα",
+      "file_url": "https://silia.eett.gr/silia/download/67fe661a-19c1-4d05-9478-0200263e3cf2"
+    },
+    {
+      "document_number": "475008/19-12-2022",
+      "protocol_number": "Αρχείο Αίτησης/",
+      "type": "Δήλωση ΠΠΔ",
+      "file_url": "https://silia.eett.gr/silia/download/1d68124b-0931-4ffe-88c3-7a03b98f41b9"
+    }
+  ]
+}

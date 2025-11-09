@@ -1,0 +1,33 @@
+{
+  "antenna_id": "129438",
+  "address": "ΒΙΟΜΗΧΑΝΙΚΗ ΠΕΡΙΟΧΗ ΗΡΑΚΛΕΙΟΥ",
+  "position_code": 1131235,
+  "municipality": "Ηρακλείου Κρήτης",
+  "code_name": "VIPE HERAKLIOU REP EAST",
+  "region": "Κρήτης",
+  "latitude": 35.322778,
+  "company": "VODAFONE",
+  "longitude": 25.167778,
+  "permit_status": "Από τα στοιχεία που τηρούνται στην Ενημερωτική Πύλη προκύπτει ότι, για τη θέση \"ΒΙΟΜΗΧΑΝΙΚΗ ΠΕΡΙΟΧΗ ΗΡΑΚΛΕΙΟΥ\" στον Δήμο Ηρακλείου Κρήτης Περιφέρειας  Κρήτης \n\t(κωδικός αριθμός θέσης 1131235, κωδική ονομασία \"VIPE HERAKLIOU REP EAST\") έχει κατατεθεί από την εταιρία VODAFONE\tδήλωση εγκατάστασης κατασκευής κεραίας (αριθ. πρωτ. \n\t24544/09-10-2017) που εμπίπτει στις διατάξεις της νομοθεσίας για Εγκαταστάσεις Κατασκευών Κεραιών Χαμηλής Ηλεκτρομαγνητικής Περιβαλλοντικής Όχλησης (ΕΚΚΧΟ).",
+  "measurements_eaee": "-",
+  "documents": [
+    {
+      "document_number": "307140/22-09-2017",
+      "protocol_number": "ΣΚΑΡΙΦΗΜΑ ΘΕΣΗΣ ΚΕΡΑΙΩΝ ΕΚΚΧΟ/",
+      "type": "Φωτογραφικό Υλικό - Σκαρίφημα",
+      "file_url": "https://silia.eett.gr/silia/download/bf5372c2-493b-46bf-b814-7666bc8a441e"
+    },
+    {
+      "document_number": "307294/25-09-2017",
+      "protocol_number": "ΦΩΤΟΓΡΑΦΙΑ ΘΕΣΗΣ ΚΕΡΑΙΑΣ 1 , 2/",
+      "type": "Φωτογραφικό Υλικό - Σκαρίφημα",
+      "file_url": "https://silia.eett.gr/silia/download/73956a17-8d11-433f-b0dc-adcdbdeea6d8"
+    },
+    {
+      "document_number": "309342/09-10-2017",
+      "protocol_number": "Αρχείο Αίτησης/",
+      "type": "Δήλωση ΕΚΚΧΟ",
+      "file_url": "https://silia.eett.gr/silia/download/bd21fb58-e5e2-4fab-b0e3-f941a1aadc2b"
+    }
+  ]
+}

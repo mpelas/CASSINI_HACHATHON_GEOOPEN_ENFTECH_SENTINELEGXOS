@@ -1,0 +1,105 @@
+{
+  "antenna_id": "176872",
+  "address": "ΣΗΡΑΓΓΑ ΚΑΪΤΣΑΣ",
+  "position_code": 1109049,
+  "municipality": "Δομοκού",
+  "code_name": "ΚΕΝΤΡΙΚΗ ΟΔΟΣ ΣΗΡΑΓΓΑ ΚΑΪΤΣΑ Τ3 ΝΟΤΙΟ",
+  "region": "Στερεάς Ελλάδας",
+  "latitude": 39.112778,
+  "company": "VODAFONE",
+  "longitude": 22.168056,
+  "permit_status": "Από τα στοιχεία που τηρούνται στην Ενημερωτική Πύλη προκύπτει ότι, για τη θέση \"ΣΗΡΑΓΓΑ ΚΑΪΤΣΑΣ\" στον Δήμο Δομοκού Περιφέρειας  Στερεάς Ελλάδας \n\t(κωδικός αριθμός θέσης 1109049, κωδική ονομασία \"ΚΕΝΤΡΙΚΗ ΟΔΟΣ ΣΗΡΑΓΓΑ ΚΑΪΤΣΑ Τ3 ΝΟΤΙΟ\") χορηγήθηκε, με την Απόφαση της ΕΕΤΤ \n52753/24-06-2025, άδεια κατασκευής κεραίας στην εταιρία VODAFONE. \nΑπό τo έγγραφο της άδειας μπορείτε να ενημερωθείτε για τις σχετικές εγκρίσεις των συναρμόδιων φορέων, καθώς και εάν πρόκειται για τροποποίηση παλαιότερης άδειας.\n\tΣύμφωνα με τα στοιχεία που έχουν υποβληθεί στο ΣΗΛΥΑ, ο κάτοχος της κατασκευής κεραίας έχει δηλώσει ότι θα προβεί σε έκδοση έγκρισης δομικών κατασκευών \n\t\tκεραίας μέσω του e-Άδειες \n\t\tμετά την έκδοση της άδειας κατασκευής κεραίας / δημοσιοποίηση της δήλωσης τροποποίησης της κατασκευής κεραίας",
+  "measurements_eaee": "-",
+  "documents": [
+    {
+      "document_number": "535848/17-12-2024",
+      "protocol_number": "ΤΟΠΟΓΡΑΦΙΚΟ/01-07-2024",
+      "type": "Τοπογραφικό",
+      "file_url": "https://silia.eett.gr/silia/download/i4TCGrUual601H43dLrquMAwGwLuPdDuHXyB"
+    },
+    {
+      "document_number": "535849/17-12-2024",
+      "protocol_number": "ΑΡΧΙΤΕΚΤΟΝΙΚΑ ΣΧΕΔΙΑ/01-07-2024",
+      "type": "Αρχιτεκτονικά Σχέδια",
+      "file_url": "https://silia.eett.gr/silia/download/ufgGwYTaq5yCdxXgIkMIPWAGa89G7CgcLqXN"
+    },
+    {
+      "document_number": "535850/17-12-2024",
+      "protocol_number": "ΜΕΛΕΤΗ ΡΑΔΙΟΕΚΠΟΜΠΩΝ/10-12-2024",
+      "type": "Αίτηση - Μελέτη Ραδιοεκπομπών ΕΕΑΕ",
+      "file_url": "https://silia.eett.gr/silia/download/H8aqEmnPZ7rtgGtOyLieMabQqPmY6dH5FEex"
+    },
+    {
+      "document_number": "535851/17-12-2024",
+      "protocol_number": "ΥΠΕΥΘΥΝΗ ΔΗΛΩΣΗ ΟΡΘΟΤΗΤΑΣ NOVA/17-12-2024",
+      "type": "Άλλο",
+      "file_url": "https://silia.eett.gr/silia/download/Yb3g4tSxr8vTXeNm9HqIQ8aTv5vQMLlL5OUt"
+    },
+    {
+      "document_number": "535852/17-12-2024",
+      "protocol_number": "ΥΠΕΥΘΥΝΗ ΔΗΛΩΣΗ ΔΙΑΣΥΝΔΕΣΗΣ NOVA/17-12-2024",
+      "type": "Άλλο",
+      "file_url": "https://silia.eett.gr/silia/download/binMnrVgLtYHNgWotO8gSpLXs9YG0yeMYaoC"
+    },
+    {
+      "document_number": "535853/17-12-2024",
+      "protocol_number": "Αρχείο Αίτησης/17-12-2024",
+      "type": "Αίτηση Άδειας Κατασκευής Κεραίας ΕΕΤΤ",
+      "file_url": "https://silia.eett.gr/silia/download/FBZEc5UrdYDYg2QVOKnqC0l96UT9rfvZuG29"
+    },
+    {
+      "document_number": "540178/06-02-2025",
+      "protocol_number": "ΚΓ/Δ3/Δ/2230/06-02-2025",
+      "type": "Γνωμάτευση ΥΠΑ",
+      "file_url": "https://silia.eett.gr/silia/download/He63woTsOt7H9vCing2YubPE7ZDEoN1NQUDr"
+    },
+    {
+      "document_number": "545558/31-03-2025",
+      "protocol_number": "ΤΟΠΟΓΡΑΦΙΚΟ1/01-07-2024",
+      "type": "Τοπογραφικό",
+      "file_url": "https://silia.eett.gr/silia/download/Tdhu1yCPXdS5oQxkPbGM9zEFT2Y1vkMA2CU3"
+    },
+    {
+      "document_number": "545561/31-03-2025",
+      "protocol_number": "ΜΕΛΕΤΗ ΡΑΔΙΟΕΚΠΟΜΠΩΝ1/31-03-2025",
+      "type": "Αίτηση - Μελέτη Ραδιοεκπομπών ΕΕΑΕ",
+      "file_url": "https://silia.eett.gr/silia/download/BF55vYnkRkr8IILMQlItyhVcBhdQDDMqEFa1"
+    },
+    {
+      "document_number": "546819/12-04-2025",
+      "protocol_number": "ΤΜΙΑ/411/5041/2025/09-04-2025",
+      "type": "Γνωμάτευση ΕΕΑΕ",
+      "file_url": "https://silia.eett.gr/silia/download/2QbsohTYBFn5mtcVNk2nIeP4VaatxW4HyAI6"
+    },
+    {
+      "document_number": "547926/29-04-2025",
+      "protocol_number": "ΥΠΕΥΘΥΝΗ ΔΗΛΩΣΗ ΟΡΘΟΤΗΤΑΣ OTE/COSMOTE/15-04-2025",
+      "type": "Άλλο",
+      "file_url": "https://silia.eett.gr/silia/download/5cpeXIkqZqF5IAouqfUz4KP11PG7ImnAB0D1"
+    },
+    {
+      "document_number": "553627/25-06-2025",
+      "protocol_number": "52753/24-06-2025",
+      "type": "Άδεια Κατασκευής  Κεραίας",
+      "file_url": "https://silia.eett.gr/silia/download/LTaDr3ei6B2qwDQbvrXqUgKtX2VXHwSh896D"
+    },
+    {
+      "document_number": "547923/29-04-2025",
+      "protocol_number": "ΜΕΛΕΤΗ ΡΑΔΙΟΕΚΠΟΜΠΩΝ1/31-03-2025",
+      "type": "Αίτηση - Μελέτη Ραδιοεκπομπών ΕΕΑΕ",
+      "file_url": "https://silia.eett.gr/silia/download/BF55vYnkRkr8IILMQlItyhVcBhdQDDMqEFa1"
+    },
+    {
+      "document_number": "547924/29-04-2025",
+      "protocol_number": "ΣΥΝΟΔΕΥΤΙΚΑ ΕΓΓΡΑΦΑ ΠΠΔ/29-04-2025",
+      "type": "Δήλωση υπαγωγής σε ΠΠΔ και Συνοδευτικά Έγγραφα",
+      "file_url": "https://silia.eett.gr/silia/download/UhmbLkrHcWVIdysuFXUYvWX8bTUXoCRmguzT"
+    },
+    {
+      "document_number": "547925/29-04-2025",
+      "protocol_number": "Αρχείο Αίτησης/29-04-2025",
+      "type": "Δήλωση ΠΠΔ",
+      "file_url": "https://silia.eett.gr/silia/download/MdpkRZNZVMAiK0kSPxpw78gfMaa4oVOb6ggy"
+    }
+  ]
+}

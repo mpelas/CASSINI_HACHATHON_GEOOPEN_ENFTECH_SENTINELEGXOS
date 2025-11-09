@@ -1,0 +1,75 @@
+{
+  "antenna_id": "178514",
+  "address": "ΑΓΡΟΤΙΚΗ ΠΕΡΙΟΧΗ 900 μ. ΒΟΡΕΙΟΔΥΤΙΚΑ ΤΟΥ ΟΙΚΙΣΜΟΥ ΛΕΥΚΩΝΑ",
+  "position_code": 5000419,
+  "municipality": "Σερρών",
+  "code_name": "ΛΕΥΚΩΝΑΣ Β2",
+  "region": "Κεντρικής Μακεδονίας",
+  "latitude": 41.113333,
+  "company": "ERMIS-WISP",
+  "longitude": 23.486111,
+  "permit_status": "Από τα στοιχεία που τηρούνται στην Ενημερωτική Πύλη προκύπτει ότι, για τη θέση \"ΑΓΡΟΤΙΚΗ ΠΕΡΙΟΧΗ 900 μ. ΒΟΡΕΙΟΔΥΤΙΚΑ ΤΟΥ ΟΙΚΙΣΜΟΥ ΛΕΥΚΩΝΑ\" στον Δήμο Σερρών Περιφέρειας  Κεντρικής Μακεδονίας \n\t(κωδικός αριθμός θέσης 5000419, κωδική ονομασία \"ΛΕΥΚΩΝΑΣ Β2\") έχει κατατεθεί από την εταιρία ERMIS-WISP\tδήλωση εγκατάστασης κατασκευής κεραίας (αριθ. πρωτ. \n\t60136/26-03-2025) που εμπίπτει στις διατάξεις της νομοθεσίας για Εγκαταστάσεις Κατασκευών Κεραιών Χαμηλής Ηλεκτρομαγνητικής Περιβαλλοντικής Όχλησης (ΕΚΚΧΟ).",
+  "measurements_eaee": "-",
+  "documents": [
+    {
+      "document_number": "544926/26-03-2025",
+      "protocol_number": "ΦΩΤΟΡΕΑΛΙΣΤΙΚΟ ΙΣΤΟΥ/26-03-2025",
+      "type": "Φωτογραφικό Υλικό - Σκαρίφημα",
+      "file_url": "https://silia.eett.gr/silia/download/LmcMqHwZc6dNXpDQ1Sbl1Zde0SVSC6SQW7iU"
+    },
+    {
+      "document_number": "544927/26-03-2025",
+      "protocol_number": "ΤΟΠΟΓΡΑΦΙΚΟ/26-03-2025",
+      "type": "Τοπογραφικό",
+      "file_url": "https://silia.eett.gr/silia/download/XgSoaBQnMW9LGG85k6fCMmP9Kbx1Ife6nlxw"
+    },
+    {
+      "document_number": "544928/26-03-2025",
+      "protocol_number": "ΟΨΗ/26-03-2025",
+      "type": "Αρχιτεκτονικά [Κάτοψη - Τομή - Όψη]",
+      "file_url": "https://silia.eett.gr/silia/download/pvh8U6X3CmnYUUi0iQbi2G5hNKC42pmO5u59"
+    },
+    {
+      "document_number": "544929/26-03-2025",
+      "protocol_number": "ΟΨΗ ΧΩΡΩΝ ΠΡΟΣΤΑΣΙΑΣ/26-03-2025",
+      "type": "Αρχιτεκτονικά [Κάτοψη - Τομή - Όψη]",
+      "file_url": "https://silia.eett.gr/silia/download/2GmYdr9Tp3khno4GGvFOQ5erewkS9Yq5KVgD"
+    },
+    {
+      "document_number": "544930/26-03-2025",
+      "protocol_number": "ΚΑΤΟΨΗ+ΤΟΠΟΓΡΑΦΙΚΟ/26-03-2025",
+      "type": "Αρχιτεκτονικά [Κάτοψη - Τομή - Όψη]",
+      "file_url": "https://silia.eett.gr/silia/download/Pzhdzw2OMVdiGs4qyYAsYDeffdgfzNLLgk4G"
+    },
+    {
+      "document_number": "544931/26-03-2025",
+      "protocol_number": "ΚΑΤΟΨΗ ΧΩΡΩΝ ΠΡΟΣΤΑΣΙΑΣ/26-03-2025",
+      "type": "Αρχιτεκτονικά [Κάτοψη - Τομή - Όψη]",
+      "file_url": "https://silia.eett.gr/silia/download/RauqmxpKiWrpy50Uhs54gcY233tOO2B1T8Cm"
+    },
+    {
+      "document_number": "544932/26-03-2025",
+      "protocol_number": "Mimosa-C5x/26-03-2025",
+      "type": "Άλλο",
+      "file_url": "https://silia.eett.gr/silia/download/lW5SGgQGv1Pz6kMbkiKsqOZes3URE3xb26iH"
+    },
+    {
+      "document_number": "544933/26-03-2025",
+      "protocol_number": "MIMOSA-C5x-CE/26-03-2025",
+      "type": "Άλλο",
+      "file_url": "https://silia.eett.gr/silia/download/efRCxEQzW8Ek1oO1ruuKeBbZpBTndVWeOa2k"
+    },
+    {
+      "document_number": "544934/26-03-2025",
+      "protocol_number": "Αρχείο Αίτησης/26-03-2025",
+      "type": "Δήλωση ΕΚΚΧΟ",
+      "file_url": "https://silia.eett.gr/silia/download/N9gTziE04iDlnGVRc7qMcrs9loaaOH67vVFR"
+    },
+    {
+      "document_number": "555370/15-07-2025",
+      "protocol_number": "ΥΠΕΥΘΥΝΗ ΔΗΛΩΣΗ/15-07-2025",
+      "type": "Άλλο",
+      "file_url": "https://silia.eett.gr/silia/download/nkpUYsEHLxobdP3uEsG7wY0cgkmQudhS6Qym"
+    }
+  ]
+}

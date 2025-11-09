@@ -1,0 +1,105 @@
+{
+  "antenna_id": "114239",
+  "address": "ΑΝΤΩΝΙΟΥ ΓΑΣΠΑΡΗ 15, ΓΑΛΛΟΣ",
+  "position_code": 1101542,
+  "municipality": "Ρεθύμνης",
+  "code_name": "ΠΑΝΕΠΙΣΤΗΜΙΟ ΡΕΘΥΜΝΟΥ",
+  "region": "Κρήτης",
+  "latitude": 35.350278,
+  "company": "VODAFONE",
+  "longitude": 24.453889,
+  "permit_status": "Από τα στοιχεία που τηρούνται στην Ενημερωτική Πύλη προκύπτει ότι, για τη θέση \"ΑΝΤΩΝΙΟΥ ΓΑΣΠΑΡΗ 15, ΓΑΛΛΟΣ\" στον Δήμο Ρεθύμνης Περιφέρειας  Κρήτης \n\t(κωδικός αριθμός θέσης 1101542, κωδική ονομασία \"ΠΑΝΕΠΙΣΤΗΜΙΟ ΡΕΘΥΜΝΟΥ\") χορηγήθηκε, με την Απόφαση της ΕΕΤΤ \n36296/Φ610/02-07-2020, άδεια κατασκευής κεραίας στην εταιρία VODAFONE. \nΑπό τo έγγραφο της άδειας μπορείτε να ενημερωθείτε για τις σχετικές εγκρίσεις των συναρμόδιων φορέων, καθώς και εάν πρόκειται για τροποποίηση παλαιότερης άδειας.",
+  "measurements_eaee": "-",
+  "documents": [
+    {
+      "document_number": "236086/22-10-2015",
+      "protocol_number": "Χάρτης ΓΥΣ/",
+      "type": "Απόσπασμα Χάρτη ΓΥΣ 1:50.000",
+      "file_url": "https://silia.eett.gr/silia/download/4f8ed618-0cb5-4dda-81e5-412427be4749"
+    },
+    {
+      "document_number": "236087/22-10-2015",
+      "protocol_number": "4482/19-10-2015",
+      "type": "Τοπογραφικό",
+      "file_url": "https://silia.eett.gr/silia/download/b6e0bbc5-89e8-4970-b631-720ea64faa3c"
+    },
+    {
+      "document_number": "236090/22-10-2015",
+      "protocol_number": "4482/19-10-2015",
+      "type": "Αρχιτεκτονικά Σχέδια",
+      "file_url": "https://silia.eett.gr/silia/download/5df7ff1d-9bc6-4291-9af9-6af5323f15a3"
+    },
+    {
+      "document_number": "236310/23-10-2015",
+      "protocol_number": "ΥΔ WIND/23-10-2015",
+      "type": "Άλλο",
+      "file_url": "https://silia.eett.gr/silia/download/40f2c61a-5978-4bb5-967e-d23e5e389e0e"
+    },
+    {
+      "document_number": "236499/23-10-2015",
+      "protocol_number": "ΜΕΛΕΤΗ Ρ/Ε/14-10-2015",
+      "type": "Αίτηση - Μελέτη Ραδιοεκπομπών ΕΕΑΕ",
+      "file_url": "https://silia.eett.gr/silia/download/5bd8c1e5-4813-472e-9dbc-3b2f51ba319c"
+    },
+    {
+      "document_number": "236512/23-10-2015",
+      "protocol_number": "Αρχείο Αίτησης/",
+      "type": "Αίτηση Άδειας Κατασκευής Κεραίας ΕΕΤΤ",
+      "file_url": "https://silia.eett.gr/silia/download/78868d33-fdfd-4cfd-8152-7ecb118f94e6"
+    },
+    {
+      "document_number": "239634/10-11-2015",
+      "protocol_number": "Μι/411/2053/",
+      "type": "Γνωμάτευση ΕΕΑΕ",
+      "file_url": null
+    },
+    {
+      "document_number": "239635/10-11-2015",
+      "protocol_number": "Μι/411/2053/10-11-2015",
+      "type": "Γνωμάτευση ΕΕΑΕ",
+      "file_url": "https://silia.eett.gr/silia/download/ee593ecc-21f9-46e9-9905-6cfdfcbe354c"
+    },
+    {
+      "document_number": "240638/17-11-2015",
+      "protocol_number": "Δ3/Δ/28912/9532/10-11-2015/17-11-2015",
+      "type": "Γνωμάτευση ΥΠΑ",
+      "file_url": "https://silia.eett.gr/silia/download/c8c8b569-4306-49aa-8bce-b90a6c2616c4"
+    },
+    {
+      "document_number": "241315/22-11-2015",
+      "protocol_number": "4992/11-11-2015",
+      "type": "Επιστροφή Αίτησης από Αρμόδιο Φορέα",
+      "file_url": "https://silia.eett.gr/silia/download/2a4c1de5-3350-40bd-895c-1026477cd4c2"
+    },
+    {
+      "document_number": "276322/20-10-2016",
+      "protocol_number": "ΥΔ ΔΙΑΣΥΝΔΕΣΗΣ WIND /20-10-2016",
+      "type": "Άλλο",
+      "file_url": "https://silia.eett.gr/silia/download/cdc82964-4b34-4a51-90af-832bdcf030d8"
+    },
+    {
+      "document_number": "411730/25-06-2020",
+      "protocol_number": "ΥΔ μετάβασης στον Ν. 4635/2019/13-05-2020",
+      "type": "Άλλο",
+      "file_url": "https://silia.eett.gr/silia/download/bfdb6dbf-7a5e-4f4c-8b48-0ee4f5ee544b"
+    },
+    {
+      "document_number": "415390/28-08-2020",
+      "protocol_number": "36296/Φ610/02-07-2020",
+      "type": "Άδεια Κατασκευής  Κεραίας",
+      "file_url": "https://silia.eett.gr/silia/download/cf95a095-6ed1-4db0-bae2-f26efefb6bd4"
+    },
+    {
+      "document_number": "236509/23-10-2015",
+      "protocol_number": "ΜΕΛΕΤΗ Ρ/Ε/14-10-2015",
+      "type": "Αίτηση - Μελέτη Ραδιοεκπομπών ΕΕΑΕ",
+      "file_url": "https://silia.eett.gr/silia/download/5bd8c1e5-4813-472e-9dbc-3b2f51ba319c"
+    },
+    {
+      "document_number": "236513/23-10-2015",
+      "protocol_number": "Αρχείο Αίτησης/",
+      "type": "Δήλωση ΠΠΔ",
+      "file_url": "https://silia.eett.gr/silia/download/7468d96d-7741-4ee7-9ab3-45ff43e603e1"
+    }
+  ]
+}

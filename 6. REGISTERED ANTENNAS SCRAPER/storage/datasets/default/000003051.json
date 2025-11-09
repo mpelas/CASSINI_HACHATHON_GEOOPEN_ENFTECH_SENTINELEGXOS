@@ -1,0 +1,111 @@
+{
+  "antenna_id": "73627",
+  "address": "ΚΤΙΡΙΟ ΟΤΕ, ΠΡΟΦΗΤΗΣ ΗΛΙΑΣ, ΣΑΛΑΚΟΣ, ΠΑΡΑΔΕΙΣΙ",
+  "position_code": 1406020,
+  "municipality": "Ρόδου",
+  "code_name": "ΠΡΟΦΗΤΗΣ ΗΛΙΑΣ Α/Τ",
+  "region": "Νοτίου Αιγαίου",
+  "latitude": 36.271667,
+  "company": "OTE",
+  "longitude": 27.932778,
+  "permit_status": "Από τα στοιχεία που τηρούνται στην Ενημερωτική Πύλη προκύπτει ότι, για τη θέση \"ΚΤΙΡΙΟ ΟΤΕ, ΠΡΟΦΗΤΗΣ ΗΛΙΑΣ, ΣΑΛΑΚΟΣ, ΠΑΡΑΔΕΙΣΙ\" στον Δήμο Ρόδου Περιφέρειας  Νοτίου Αιγαίου \n\t(κωδικός αριθμός θέσης 1406020, κωδική ονομασία \"ΠΡΟΦΗΤΗΣ ΗΛΙΑΣ Α/Τ\") χορηγήθηκε, με την Απόφαση της ΕΕΤΤ \n33380/Φ610/22-07-2019, άδεια κατασκευής κεραίας στην εταιρία OTE. \nΑπό τo έγγραφο της άδειας μπορείτε να ενημερωθείτε για τις σχετικές εγκρίσεις των συναρμόδιων φορέων, καθώς και εάν πρόκειται για τροποποίηση παλαιότερης άδειας.\n\tΗ άδεια χορηγήθηκε κατόπιν της με Αριθ. Πρωτ. 13641/13-03-2009 αίτησης. \n\tΓια την έκδοση της άδειας εφαρμόστηκε το προγενέστερο του Ν.4053/2012 νομοθετικό πλαίσιο, καθώς κατά δήλωση της εταιρίας, η κατασκευή πληρούσε \nτις προϋποθέσεις του άρθρου 31 του Ν.4053/2012.",
+  "measurements_eaee": "-",
+  "documents": [
+    {
+      "document_number": "16375/16-11-2012",
+      "protocol_number": "Μ.ι./411/806/03-03-2010",
+      "type": "Γνωμάτευση ΕΕΑΕ (νόμιμη λειτουργία)",
+      "file_url": null
+    },
+    {
+      "document_number": "27259/16-11-2012",
+      "protocol_number": "552/20-03-2008",
+      "type": "Αίτηση / Μελέτη για Έγκριση Περιβαλλοντικών Επιπτώσεων",
+      "file_url": null
+    },
+    {
+      "document_number": "27260/16-11-2012",
+      "protocol_number": "13641/13-03-2009",
+      "type": "Αίτηση Άδειας Κατασκευής Κεραίας ΕΕΤΤ (νομίμως λειτουργούσα)",
+      "file_url": "https://silia.eett.gr/silia/download/5a2b9623-45af-472a-a1f2-2df6fad88e9a"
+    },
+    {
+      "document_number": "79545/09-07-2013",
+      "protocol_number": "2369/08-12-2010",
+      "type": "Έγκριση Περιβαλλοντικών Όρων",
+      "file_url": "https://silia.eett.gr/silia/download/d4ba82d3-3b33-4d80-b401-4b8031110a6d"
+    },
+    {
+      "document_number": "79557/09-07-2013",
+      "protocol_number": "Δ3/Δ/47867/7593/12-11-1998",
+      "type": "Γνωμάτευση ΥΠΑ",
+      "file_url": "https://silia.eett.gr/silia/download/56a154b5-6df0-4ece-b712-9b6eec46b5e4"
+    },
+    {
+      "document_number": "79558/09-07-2013",
+      "protocol_number": "Δ3/Δ/10304/04-12-2007",
+      "type": "Γνωμάτευση ΥΠΑ",
+      "file_url": "https://silia.eett.gr/silia/download/64f5b7d0-c968-4686-98f2-9afa5c87849b"
+    },
+    {
+      "document_number": "79559/09-07-2013",
+      "protocol_number": "66/09-10-2007",
+      "type": "Αποδεικτικό Καταβολής Τελών ΕΕΤΤ",
+      "file_url": null
+    },
+    {
+      "document_number": "79939/10-07-2013",
+      "protocol_number": "ΥΔ ΟΤΕ/10-07-2013",
+      "type": "Άλλο",
+      "file_url": "https://silia.eett.gr/silia/download/c7aeba42-2b5d-4e49-9b16-2dee692236ca"
+    },
+    {
+      "document_number": "82009/18-07-2013",
+      "protocol_number": "Αρχείο Αίτησης/",
+      "type": "Αίτηση Άδειας Κατασκευής Κεραίας ΕΕΤΤ",
+      "file_url": "https://silia.eett.gr/silia/download/dd21cfa7-a25f-49ad-ab31-dbdfc59c1fd8"
+    },
+    {
+      "document_number": "85806/01-08-2013",
+      "protocol_number": "552/20-03-2008",
+      "type": "Αίτηση / Μελέτη για Έγκριση Περιβαλλοντικών Επιπτώσεων (νόμιμη λειτουργία)",
+      "file_url": null
+    },
+    {
+      "document_number": "270542/07-09-2016",
+      "protocol_number": "2622/12-03-2009",
+      "type": "Αίτηση - Μελέτη Ραδιοεκπομπών ΕΕΑΕ",
+      "file_url": "https://silia.eett.gr/silia/download/bedd04f0-7dac-4459-b384-28464b8e01c1"
+    },
+    {
+      "document_number": "270543/07-09-2016",
+      "protocol_number": "Μ.ι./411/806/03-03-2010",
+      "type": "Γνωμάτευση ΕΕΑΕ",
+      "file_url": "https://silia.eett.gr/silia/download/e597ce9f-6600-49fb-98f0-9f5986e0f7ca"
+    },
+    {
+      "document_number": "369551/02-07-2019",
+      "protocol_number": "35483/01-07-2019",
+      "type": "Επιστολή Κοινοποίησης Τυποποιημένης Αίτησης σε Αρμόδια Αρχή",
+      "file_url": "https://silia.eett.gr/silia/download/9b9015bb-272a-4c4d-b559-b38dc24f3f29"
+    },
+    {
+      "document_number": "371891/29-07-2019",
+      "protocol_number": "33380/Φ610/22-07-2019",
+      "type": "Άδεια Κατασκευής  Κεραίας",
+      "file_url": "https://silia.eett.gr/silia/download/5d5bcd40-b5a1-45f7-b5e5-f32161cd6cfc"
+    },
+    {
+      "document_number": "330945/30-05-2018",
+      "protocol_number": "ΣΥΝΟΔΕΥΤΙΚΑ ΕΓΓΡΑΦΑ/",
+      "type": "Δήλωση υπαγωγής σε ΠΠΔ και Συνοδευτικά Έγγραφα",
+      "file_url": "https://silia.eett.gr/silia/download/d33c9481-2e08-4244-b0ac-041c5ad788d7"
+    },
+    {
+      "document_number": "330991/30-05-2018",
+      "protocol_number": "Αρχείο Αίτησης/",
+      "type": "Δήλωση ΠΠΔ",
+      "file_url": "https://silia.eett.gr/silia/download/681e1295-bf0d-4f51-ad55-e3894f9605e1"
+    }
+  ]
+}

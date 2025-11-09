@@ -1,0 +1,33 @@
+{
+  "antenna_id": "158281",
+  "address": "3ο χλμ. Ηρακλείου - Μοιρών, Ηράκλειο Κρήτης.",
+  "position_code": 1156416,
+  "municipality": "Ηρακλείου Κρήτης",
+  "code_name": "3026416 AUTOTRACK TSAMPOURAKIS IRAKLIO",
+  "region": "Κρήτης",
+  "latitude": 35.308056,
+  "company": "VODAFONE",
+  "longitude": 25.095833,
+  "permit_status": "Από τα στοιχεία που τηρούνται στην Ενημερωτική Πύλη προκύπτει ότι, για τη θέση \"3ο χλμ. Ηρακλείου - Μοιρών, Ηράκλειο Κρήτης.\" στον Δήμο Ηρακλείου Κρήτης Περιφέρειας  Κρήτης \n\t(κωδικός αριθμός θέσης 1156416, κωδική ονομασία \"3026416 AUTOTRACK TSAMPOURAKIS IRAKLIO\") έχει κατατεθεί από την εταιρία VODAFONE\tδήλωση εγκατάστασης κατασκευής κεραίας (αριθ. πρωτ. \n\t42859/15-02-2021) που εμπίπτει στις διατάξεις της νομοθεσίας για Εγκαταστάσεις Κατασκευών Κεραιών Χαμηλής Ηλεκτρομαγνητικής Περιβαλλοντικής Όχλησης (ΕΚΚΧΟ).",
+  "measurements_eaee": "-",
+  "documents": [
+    {
+      "document_number": "429496/15-02-2021",
+      "protocol_number": "ΦΩΤΟΓΡΑΦΙΑ ΘΕΣΗΣ ΚΕΡΑΙΑΣ 1/",
+      "type": "Φωτογραφικό Υλικό - Σκαρίφημα",
+      "file_url": "https://silia.eett.gr/silia/download/390e1e32-a27b-46e5-a1f3-e6f27746a178"
+    },
+    {
+      "document_number": "429498/15-02-2021",
+      "protocol_number": "ΦΩΤΟΓΡΑΦΙΑ ΘΕΣΗΣ ΚΕΡΑΙΑΣ ΕΚΚΧΟ ΑΠΟ GOOGLE EARTH/",
+      "type": "Φωτογραφικό Υλικό - Σκαρίφημα",
+      "file_url": "https://silia.eett.gr/silia/download/1b56bbe6-1ff2-432c-afa3-bb2e76d70071"
+    },
+    {
+      "document_number": "429499/15-02-2021",
+      "protocol_number": "Αρχείο Αίτησης/",
+      "type": "Δήλωση ΕΚΚΧΟ",
+      "file_url": "https://silia.eett.gr/silia/download/1a7442b9-c816-49f6-8f4d-804fde49620f"
+    }
+  ]
+}

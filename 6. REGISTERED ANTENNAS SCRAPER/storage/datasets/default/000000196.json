@@ -1,0 +1,33 @@
+{
+  "antenna_id": "161362",
+  "address": "ΜΟΝΕΜΒΑΣΙΑΣ 4, ΑΓΙΟΣ ΔΗΜΗΤΡΙΟΣ",
+  "position_code": 1268375,
+  "municipality": "Αγίου Δημητρίου",
+  "code_name": "TSILIGIRIAN AG DIMITRIOS",
+  "region": "Αττικής",
+  "latitude": 37.919722,
+  "company": "NOVA Μ.Α.Ε.",
+  "longitude": 23.725,
+  "permit_status": "Από τα στοιχεία που τηρούνται στην Ενημερωτική Πύλη προκύπτει ότι, για τη θέση \"ΜΟΝΕΜΒΑΣΙΑΣ 4, ΑΓΙΟΣ ΔΗΜΗΤΡΙΟΣ \" στον Δήμο Αγίου Δημητρίου Περιφέρειας  Αττικής \n\t(κωδικός αριθμός θέσης 1268375, κωδική ονομασία \"TSILIGIRIAN AG DIMITRIOS\") έχει κατατεθεί από την εταιρία NOVA Μ.Α.Ε.\tδήλωση εγκατάστασης κατασκευής κεραίας (αριθ. πρωτ. \n\t45651/26-11-2021) που εμπίπτει στις διατάξεις της νομοθεσίας για Εγκαταστάσεις Κατασκευών Κεραιών Χαμηλής Ηλεκτρομαγνητικής Περιβαλλοντικής Όχλησης (ΕΚΚΧΟ).",
+  "measurements_eaee": "-",
+  "documents": [
+    {
+      "document_number": "446861/26-11-2021",
+      "protocol_number": "ΦΩΤΟΓΡΑΦΙΑ ΕΚΚΧΟ/",
+      "type": "Φωτογραφικό Υλικό - Σκαρίφημα",
+      "file_url": "https://silia.eett.gr/silia/download/af5a6bd5-0171-43d2-b17c-68b6cc34b58a"
+    },
+    {
+      "document_number": "446869/26-11-2021",
+      "protocol_number": "Αρχείο Αίτησης/",
+      "type": "Δήλωση ΕΚΚΧΟ",
+      "file_url": "https://silia.eett.gr/silia/download/10a6eb88-e0f6-49a9-ae7e-d30d85cb02b1"
+    },
+    {
+      "document_number": "454914/31-03-2022",
+      "protocol_number": "ΥΠΕΥΘΥΝΗ ΔΗΛΩΣΗ ΤΕΧΝΙΚΟΥ ΥΠΕΥΘΥΝΟΥ/",
+      "type": "Άλλο",
+      "file_url": "https://silia.eett.gr/silia/download/4949b234-c34f-4448-bfee-2f7a3b280d6f"
+    }
+  ]
+}

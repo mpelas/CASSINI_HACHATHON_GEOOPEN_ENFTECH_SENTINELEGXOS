@@ -1,0 +1,69 @@
+{
+  "antenna_id": "168021",
+  "address": "28ης Οκτωβρίου 4",
+  "position_code": 1140383,
+  "municipality": "Πατρέων",
+  "code_name": "3030383 DELOITTE PATRA",
+  "region": "Δυτικής Ελλάδας",
+  "latitude": 38.251944,
+  "company": "VODAFONE",
+  "longitude": 21.737222,
+  "permit_status": "Από τα στοιχεία που τηρούνται στην Ενημερωτική Πύλη προκύπτει ότι, για τη θέση \"28ης Οκτωβρίου 4\" στον Δήμο Πατρέων Περιφέρειας  Δυτικής Ελλάδας \n\t(κωδικός αριθμός θέσης 1140383, κωδική ονομασία \"3030383 DELOITTE PATRA\") έχει κατατεθεί από την εταιρία VODAFONE\tδήλωση εγκατάστασης κατασκευής κεραίας (αριθ. πρωτ. \n\t51342/20-04-2023) που εμπίπτει στις διατάξεις της νομοθεσίας για Εγκαταστάσεις Κατασκευών Κεραιών Χαμηλής Ηλεκτρομαγνητικής Περιβαλλοντικής Όχλησης (ΕΚΚΧΟ).",
+  "measurements_eaee": "-",
+  "documents": [
+    {
+      "document_number": "482679/20-04-2023",
+      "protocol_number": "Φωτορεαλιστική απεικόνιση κεραιών ΕΚΚΧΟ/",
+      "type": "Φωτογραφικό Υλικό - Σκαρίφημα",
+      "file_url": "https://silia.eett.gr/silia/download/25a7c37b-6f27-48e0-942e-67bed22aeea5"
+    },
+    {
+      "document_number": "482680/20-04-2023",
+      "protocol_number": "Ψηφιακός Χάρτης με προβολή της θέσης ΕΚΚΧΟ/",
+      "type": "Φωτογραφικό Υλικό - Σκαρίφημα",
+      "file_url": "https://silia.eett.gr/silia/download/347f73b5-bb18-4afe-9773-1f6969008b3b"
+    },
+    {
+      "document_number": "482681/20-04-2023",
+      "protocol_number": "Αρχιτεκτονικά σχέδια ΕΚΚΧΟ/",
+      "type": "Αρχιτεκτονικά Σχέδια",
+      "file_url": "https://silia.eett.gr/silia/download/a680806c-97bf-4865-aa5c-32f4df552481"
+    },
+    {
+      "document_number": "482682/20-04-2023",
+      "protocol_number": "127580/28-03-2023",
+      "type": "Έγκριση Αρμοδίου Φορέα",
+      "file_url": "https://silia.eett.gr/silia/download/d186470b-acc4-463f-a426-b842cd2fea92"
+    },
+    {
+      "document_number": "482683/20-04-2023",
+      "protocol_number": "133610/11-04-2023",
+      "type": "Έγκριση Αρμοδίου Φορέα",
+      "file_url": "https://silia.eett.gr/silia/download/d6309951-ca8a-4930-ad27-4efe89e816de"
+    },
+    {
+      "document_number": "482712/20-04-2023",
+      "protocol_number": "Μελέτη ΕΚΚΧΟ/20-04-2023",
+      "type": "Άλλο",
+      "file_url": "https://silia.eett.gr/silia/download/930f7d89-b56f-486a-833a-bce8c9799f2e"
+    },
+    {
+      "document_number": "482713/20-04-2023",
+      "protocol_number": "Σκαρίφημα με περιοχή απαγόρευσης/",
+      "type": "Φωτογραφικό Υλικό - Σκαρίφημα",
+      "file_url": "https://silia.eett.gr/silia/download/023d8f85-c483-4a2c-8bef-64e8f3218461"
+    },
+    {
+      "document_number": "482714/20-04-2023",
+      "protocol_number": "Αρχείο Αίτησης/",
+      "type": "Δήλωση ΕΚΚΧΟ",
+      "file_url": "https://silia.eett.gr/silia/download/1fa970df-5991-4a0d-845a-635761bb604a"
+    },
+    {
+      "document_number": "485234/22-05-2023",
+      "protocol_number": "ΥΔ εγκατάστασης/22-05-2023",
+      "type": "Άλλο",
+      "file_url": "https://silia.eett.gr/silia/download/b22ebe19-baba-40f4-b2b3-062abef3f538"
+    }
+  ]
+}

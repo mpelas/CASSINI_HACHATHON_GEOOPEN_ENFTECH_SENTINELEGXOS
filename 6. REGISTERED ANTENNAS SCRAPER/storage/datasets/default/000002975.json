@@ -1,0 +1,81 @@
+{
+  "antenna_id": "168514",
+  "address": "ΚΑΤΩ ΓΙΑΛΟΒΑ ΜΕΣΣΗΝΙΑΣ",
+  "position_code": 1415244,
+  "municipality": "Πύλου - Νέστορος",
+  "code_name": "GIALOVA  MI",
+  "region": "Πελοποννήσου",
+  "latitude": 36.949444,
+  "company": "OTE",
+  "longitude": 21.703611,
+  "permit_status": "Από τα στοιχεία που τηρούνται στην Ενημερωτική Πύλη προκύπτει ότι, για τη θέση \"ΚΑΤΩ ΓΙΑΛΟΒΑ ΜΕΣΣΗΝΙΑΣ\" στον Δήμο Πύλου - Νέστορος Περιφέρειας  Πελοποννήσου \n\t(κωδικός αριθμός θέσης 1415244, κωδική ονομασία \"GIALOVA  MI\") έχει κατατεθεί από την εταιρία OTE\tδήλωση εγκατάστασης κατασκευής κεραίας (αριθ. πρωτ. \n\t52069/20-06-2023) που εμπίπτει στις διατάξεις της νομοθεσίας για Εγκαταστάσεις Κατασκευών Κεραιών Χαμηλής Ηλεκτρομαγνητικής Περιβαλλοντικής Όχλησης (ΕΚΚΧΟ).",
+  "measurements_eaee": "-",
+  "documents": [
+    {
+      "document_number": "485351/23-05-2023",
+      "protocol_number": "ΜΕΣΩ ΣΗΛΥΑ/",
+      "type": "Αίτηση - Μελέτη Ραδιοεκπομπών ΕΕΑΕ",
+      "file_url": "https://silia.eett.gr/silia/download/3f803a88-e099-4b42-9944-37bf7d4613b9"
+    },
+    {
+      "document_number": "485352/23-05-2023",
+      "protocol_number": "ΣΤΟΙΧΕΙΑ ΜΙΚΡΟΚΥΜΑΤΙΚΗΣ ΖΕΥΞΗΣ/",
+      "type": "Άλλο",
+      "file_url": "https://silia.eett.gr/silia/download/7e12a0a6-5b73-42c2-ae5b-bb2d3307577e"
+    },
+    {
+      "document_number": "485353/23-05-2023",
+      "protocol_number": "ΦΩΤΟΓΡΑΦΙΑ/",
+      "type": "Φωτογραφικό Υλικό - Σκαρίφημα",
+      "file_url": "https://silia.eett.gr/silia/download/1340d964-1689-499d-9b13-6ab6d942980e"
+    },
+    {
+      "document_number": "485354/23-05-2023",
+      "protocol_number": "ΣΚΑΡΙΦΗΜΑ/",
+      "type": "Φωτογραφικό Υλικό - Σκαρίφημα",
+      "file_url": "https://silia.eett.gr/silia/download/f59cf7cf-8855-4a30-86e0-14f662bafab5"
+    },
+    {
+      "document_number": "485355/23-05-2023",
+      "protocol_number": "ΣΚΑΡΙΦΗΜΑ/",
+      "type": "Φωτογραφικό Υλικό - Σκαρίφημα",
+      "file_url": "https://silia.eett.gr/silia/download/018672a1-df31-44ad-bfff-2bbdb98c0d08"
+    },
+    {
+      "document_number": "485356/23-05-2023",
+      "protocol_number": "ΦΩΤΟΓΡΑΦΙΑ/",
+      "type": "Φωτογραφικό Υλικό - Σκαρίφημα",
+      "file_url": "https://silia.eett.gr/silia/download/59cff298-3db3-4de1-bf66-37c646266f13"
+    },
+    {
+      "document_number": "485406/23-05-2023",
+      "protocol_number": "58180 (ΚΟΙΝΟΠΟΙΗΣΗ ΓΕΑ)/23-05-2023",
+      "type": "Άλλο",
+      "file_url": "https://silia.eett.gr/silia/download/a05388a8-d259-4ae3-9984-ed7346887bf5"
+    },
+    {
+      "document_number": "488313/20-06-2023",
+      "protocol_number": "18916 (ΟΦΥΠΕΚΑ)/19-06-2023",
+      "type": "Έγκριση Αρμοδίου Φορέα",
+      "file_url": "https://silia.eett.gr/silia/download/3cb7add6-0040-4454-be7c-8862eda3d818"
+    },
+    {
+      "document_number": "488314/20-06-2023",
+      "protocol_number": "Αρχείο Αίτησης/",
+      "type": "Δήλωση ΕΚΚΧΟ",
+      "file_url": "https://silia.eett.gr/silia/download/b38e3631-f8e0-4027-a2b4-8f074dc7da22"
+    },
+    {
+      "document_number": "494978/22-09-2023",
+      "protocol_number": "ΥΠ.ΔΗΛΩΣΗ ΕΓΚΑΤΑΣΤΑΣΗΣ/",
+      "type": "Άλλο",
+      "file_url": "https://silia.eett.gr/silia/download/9f4d4cb2-1cbf-484c-959f-6247169f630d"
+    },
+    {
+      "document_number": "516679/31-05-2024",
+      "protocol_number": "ΚΑΤΟΨΗ/31-05-2024",
+      "type": "Αρχιτεκτονικά Σχέδια",
+      "file_url": "https://silia.eett.gr/silia/download/oxstARtxcoT2fUATGW5pGAIvBbOlVn5C1RNT"
+    }
+  ]
+}

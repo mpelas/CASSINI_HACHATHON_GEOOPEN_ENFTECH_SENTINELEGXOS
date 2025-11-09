@@ -1,0 +1,51 @@
+{
+  "antenna_id": "174663",
+  "address": "Πλακάλωνα Χανίων",
+  "position_code": 1275138,
+  "municipality": "Πλατανιά",
+  "code_name": "ERT PLAKALONA (K138)",
+  "region": "Κρήτης",
+  "latitude": 35.499722,
+  "company": "NOVA Μ.Α.Ε.",
+  "longitude": 23.738333,
+  "permit_status": "Από τα στοιχεία που τηρούνται στην Ενημερωτική Πύλη προκύπτει ότι, για τη θέση \"Πλακάλωνα Χανίων\" στον Δήμο Πλατανιά Περιφέρειας  Κρήτης \n\t(κωδικός αριθμός θέσης 1275138, κωδική ονομασία \"ERT PLAKALONA (K138)\") έχει κατατεθεί από την εταιρία NOVA Μ.Α.Ε.\tδήλωση εγκατάστασης κατασκευής κεραίας (αριθ. πρωτ. \n\t56845/30-07-2024) που εμπίπτει στις διατάξεις της νομοθεσίας για Εγκαταστάσεις Κατασκευών Κεραιών Χαμηλής Ηλεκτρομαγνητικής Περιβαλλοντικής Όχλησης (ΕΚΚΧΟ).",
+  "measurements_eaee": "-",
+  "documents": [
+    {
+      "document_number": "522256/30-07-2024",
+      "protocol_number": "Φωτορεαλιστική απεικόνιση κεραίας ΕΚΚΧΟ/30-07-2024",
+      "type": "Φωτογραφικό Υλικό - Σκαρίφημα",
+      "file_url": "https://silia.eett.gr/silia/download/UnEsws3ysYo2BoK4eNLZDH07tkR55G6qqA5c"
+    },
+    {
+      "document_number": "522257/30-07-2024",
+      "protocol_number": "Ψηφιακός χάρτης με προβολή της θέσης ΕΚΚΧΟ/30-07-2024",
+      "type": "Φωτογραφικό Υλικό - Σκαρίφημα",
+      "file_url": "https://silia.eett.gr/silia/download/ib95BNVKhI0vCOQBWpNUIQSqXKTmd0QMusEL"
+    },
+    {
+      "document_number": "522258/30-07-2024",
+      "protocol_number": "Σκαρίφημα θέσης κεραίας ΕΚΚΧΟ/30-07-2024",
+      "type": "Φωτογραφικό Υλικό - Σκαρίφημα",
+      "file_url": "https://silia.eett.gr/silia/download/GSmdR1GT81DxzmUNKiTvGppSVZXGDNC3mrGH"
+    },
+    {
+      "document_number": "522262/30-07-2024",
+      "protocol_number": "ΜΕΛΕΤΗ ΕΚΚΧΟ/30-07-2024",
+      "type": "Άλλο",
+      "file_url": "https://silia.eett.gr/silia/download/cTGQnkV4df5gMC8eqXqzWU93sT2Y6TMfHsw7"
+    },
+    {
+      "document_number": "522263/30-07-2024",
+      "protocol_number": "Αρχείο Αίτησης/30-07-2024",
+      "type": "Δήλωση ΕΚΚΧΟ",
+      "file_url": "https://silia.eett.gr/silia/download/FtUfgx1rtTl9DnlFgIuqr1Hc2QcaL7aR1anr"
+    },
+    {
+      "document_number": "531708/07-11-2024",
+      "protocol_number": "ΥΔ ΕΓΚΑΤΑΣΤΑΣΗΣ/07-11-2024",
+      "type": "Άλλο",
+      "file_url": "https://silia.eett.gr/silia/download/IwRZchqlEApllKP8t1SV0GKkTDbXSgqLFvKG"
+    }
+  ]
+}

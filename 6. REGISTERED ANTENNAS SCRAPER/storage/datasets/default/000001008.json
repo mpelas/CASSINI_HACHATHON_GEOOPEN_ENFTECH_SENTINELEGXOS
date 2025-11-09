@@ -1,0 +1,27 @@
+{
+  "antenna_id": "113992",
+  "address": "ENEL_KRIONERI",
+  "position_code": 1407543,
+  "municipality": "Βοΐου",
+  "code_name": "ENEL_KRIONERI",
+  "region": "Δυτικής Μακεδονίας",
+  "latitude": 40.34,
+  "company": "OTE",
+  "longitude": 21.310556,
+  "permit_status": "Από τα στοιχεία που τηρούνται στην Ενημερωτική Πύλη προκύπτει ότι, για τη θέση \"ENEL_KRIONERI\" στον Δήμο Βοΐου Περιφέρειας  Δυτικής Μακεδονίας \n\t(κωδικός αριθμός θέσης 1407543, κωδική ονομασία \"ENEL_KRIONERI\") έχει κατατεθεί από την εταιρία OTE\tδήλωση εγκατάστασης κατασκευής κεραίας (αριθ. πρωτ. \n\t13005/05-10-2015) που εμπίπτει στις διατάξεις της νομοθεσίας για Εγκαταστάσεις Κατασκευών Κεραιών Χαμηλής Ηλεκτρομαγνητικής Περιβαλλοντικής Όχλησης (ΕΚΚΧΟ).",
+  "measurements_eaee": "-",
+  "documents": [
+    {
+      "document_number": "232908/05-10-2015",
+      "protocol_number": "ΦΩΤΟΓΡΑΦΙΑ/05-10-2015",
+      "type": "Φωτογραφικό Υλικό - Σκαρίφημα",
+      "file_url": "https://silia.eett.gr/silia/download/9e35c804-a920-4600-a9eb-b3c3a2aefbc8"
+    },
+    {
+      "document_number": "233093/05-10-2015",
+      "protocol_number": "Αρχείο Αίτησης/",
+      "type": "Δήλωση ΕΚΚΧΟ",
+      "file_url": "https://silia.eett.gr/silia/download/1fda10e4-6b38-445f-aa3c-c13820466b6c"
+    }
+  ]
+}

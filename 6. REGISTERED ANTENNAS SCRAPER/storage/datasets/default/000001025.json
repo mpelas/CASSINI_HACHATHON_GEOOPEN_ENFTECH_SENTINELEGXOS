@@ -1,0 +1,165 @@
+{
+  "antenna_id": "135026",
+  "address": "ΘΕΣΗ \"ΠΡΟΦΗΤΗΣ ΗΛΙΑΣ\", ΠΛΗΣΙΟΝ ΣΕΣΚΛΟΥ, Τ.Κ ΣΕΣΚΛΟΥ, ΔΗΜ. ΕΝΟΤΗΤΑ ΑΙΣΩΝΙΑΣ",
+  "position_code": 1200114,
+  "municipality": "Βόλου",
+  "code_name": "ΣΕΣΚΛΟ",
+  "region": "Θεσσαλίας",
+  "latitude": 39.346111,
+  "company": "NOVA Μ.Α.Ε.",
+  "longitude": 22.821667,
+  "permit_status": "Από τα στοιχεία που τηρούνται στην Ενημερωτική Πύλη προκύπτει ότι, για τη θέση \"ΘΕΣΗ \"ΠΡΟΦΗΤΗΣ ΗΛΙΑΣ\", ΠΛΗΣΙΟΝ ΣΕΣΚΛΟΥ, Τ.Κ ΣΕΣΚΛΟΥ, ΔΗΜ. ΕΝΟΤΗΤΑ ΑΙΣΩΝΙΑΣ\" στον Δήμο Βόλου Περιφέρειας  Θεσσαλίας \n\t(κωδικός αριθμός θέσης 1200114, κωδική ονομασία \"ΣΕΣΚΛΟ\") χορηγήθηκε, με την Απόφαση της ΕΕΤΤ \n37095/Φ610/13-10-2020, άδεια κατασκευής κεραίας στην εταιρία NOVA Μ.Α.Ε.. \nΑπό τo έγγραφο της άδειας μπορείτε να ενημερωθείτε για τις σχετικές εγκρίσεις των συναρμόδιων φορέων, καθώς και εάν πρόκειται για τροποποίηση παλαιότερης άδειας.\nΗ άδεια χορηγήθηκε με τη διαδικασία αδειοδότησης που ορίζει ο ν. 4635/2019, κατόπιν της με αριθ. πρωτ. 29312/01-10-2018 \n\tαίτησης, και βάσει σχετικής δήλωσης του κατόχου της περί υπαγωγή της κατασκευής κεραίας στο άρθρο 34 του ν. 4635/2019.",
+  "measurements_eaee": "-",
+  "documents": [
+    {
+      "document_number": "342736/01-10-2018",
+      "protocol_number": "29285/Φ615 WIND/27-08-2018",
+      "type": "Χορήγηση Δικαιώματος Χρήσης Ραδιοσυχνοτήτων",
+      "file_url": null
+    },
+    {
+      "document_number": "342737/01-10-2018",
+      "protocol_number": "Δ3/Δ/21778/6011/30-06-2010",
+      "type": "Γνωμάτευση ΥΠΑ",
+      "file_url": "https://silia.eett.gr/silia/download/20f0be13-c75d-400f-8fd3-a596d62640b7"
+    },
+    {
+      "document_number": "342738/01-10-2018",
+      "protocol_number": "ΜΕΛΕΤΗ ΡΑΔΙΟΕΚΠΟΜΠΩΝ/04-12-2017",
+      "type": "Αίτηση - Μελέτη Ραδιοεκπομπών ΕΕΑΕ",
+      "file_url": "https://silia.eett.gr/silia/download/7b8e92fb-f298-47e7-ac81-d6762db81a36"
+    },
+    {
+      "document_number": "342739/01-10-2018",
+      "protocol_number": "ΤΟΠΟΓΡΑΦΙΚΟ/",
+      "type": "Τοπογραφικό",
+      "file_url": "https://silia.eett.gr/silia/download/44b881de-dd97-435b-813a-3d7e89a4c89f"
+    },
+    {
+      "document_number": "342740/01-10-2018",
+      "protocol_number": "ΑΡΧΙΤΕΚΤΟΝΙΚΑ ΣΧΕΔΙΑ/",
+      "type": "Αρχιτεκτονικά Σχέδια",
+      "file_url": "https://silia.eett.gr/silia/download/11532fe5-1138-40dd-90ef-d4a63f690ad1"
+    },
+    {
+      "document_number": "342744/01-10-2018",
+      "protocol_number": "Υ.Α.1095/2010/02-06-2010",
+      "type": "Απόφαση εξαίρεσης ΡΑΕ",
+      "file_url": "https://silia.eett.gr/silia/download/aa0d4883-fa37-40b6-a741-53851d1cadf6"
+    },
+    {
+      "document_number": "342745/01-10-2018",
+      "protocol_number": "ΥΠΟΠΑΙΘ/ΓΔΑΠΚ/ΕΦΑ ΜΑΓΝΗΣΙΑΣ/121269/71762/1662/14-05-2015",
+      "type": "Αρχαιολογική έγκριση/γνωμοδότηση (μη τυπική)",
+      "file_url": "https://silia.eett.gr/silia/download/61feff6e-4b49-4981-85c0-ff7263f53bfd"
+    },
+    {
+      "document_number": "342746/01-10-2018",
+      "protocol_number": "1004/18-05-2015",
+      "type": "Γνωμοδότηση Υπηρεσίας Νεωτέρων Μνημείων",
+      "file_url": "https://silia.eett.gr/silia/download/22a02d8c-a407-4822-8c1d-6df49946da1b"
+    },
+    {
+      "document_number": "342747/01-10-2018",
+      "protocol_number": "2390/04-10-1993",
+      "type": "Έγκριση Επέμβασης Δ/νση Δασών - Δασαρχείου",
+      "file_url": "https://silia.eett.gr/silia/download/98bda5e8-bcd9-43e8-95e7-f2e408cb11ea"
+    },
+    {
+      "document_number": "342748/01-10-2018",
+      "protocol_number": "ΠΡΩΤΟΚΟΛΛΟ ΕΓΚΑΤΑΣΤΑΣΗΣ/03-11-1993",
+      "type": "Συμπληρωματικά Έγγραφα",
+      "file_url": "https://silia.eett.gr/silia/download/eeaa1edd-79ac-432f-8af8-c2e8589d7340"
+    },
+    {
+      "document_number": "342771/01-10-2018",
+      "protocol_number": "Αρχείο Αίτησης/",
+      "type": "Αίτηση Άδειας Κατασκευής Κεραίας ΕΕΤΤ",
+      "file_url": "https://silia.eett.gr/silia/download/5240e203-ec85-4e10-b24f-f3b4c3947024"
+    },
+    {
+      "document_number": "343450/04-10-2018",
+      "protocol_number": "ΕΠΙΣΤΟΛΗ ΕΠΑΝΑΧΡΗΣΙΜΟΠΟΙΗΣΗΣ 1759/156296/02-10-2018",
+      "type": "Αίτηση προς Αρμόδιο Φορέα",
+      "file_url": "https://silia.eett.gr/silia/download/87ec792f-feeb-46e6-945f-60745ff84a42"
+    },
+    {
+      "document_number": "344850/15-10-2018",
+      "protocol_number": "ΥΠΕΥΘΥΝΗ ΔΗΛΩΣΗ ΚΟΙΝΗΣ ΧΡΗΣΗΣ VODAFONE/15-10-2018",
+      "type": "Άλλο",
+      "file_url": "https://silia.eett.gr/silia/download/51e5fe6b-7227-4409-ba73-ff1a160f2703"
+    },
+    {
+      "document_number": "344851/15-10-2018",
+      "protocol_number": "ΥΠΕΥΘΥΝΗ ΔΗΛΩΣΗ ΔΙΑΣΥΝΔΕΣΗΣ VODAFONE/15-10-2018",
+      "type": "Άλλο",
+      "file_url": "https://silia.eett.gr/silia/download/d76cea04-d600-45e3-bce1-e5b73631222d"
+    },
+    {
+      "document_number": "351848/12-12-2018",
+      "protocol_number": "Μ.ι./411/18880/2018/11-12-2018",
+      "type": "Γνωμάτευση ΕΕΑΕ",
+      "file_url": "https://silia.eett.gr/silia/download/54481bdb-5d25-42e6-9cbb-aa57f41cf872"
+    },
+    {
+      "document_number": "406755/20-05-2020",
+      "protocol_number": "24254/10-04-2020",
+      "type": "Αίτηση ΓΕΑ",
+      "file_url": "https://silia.eett.gr/silia/download/59c1439f-6f9b-4140-b160-65125d266085"
+    },
+    {
+      "document_number": "410284/10-06-2020",
+      "protocol_number": "ΥΠΕΥΘΥΝΗ ΔΗΛΩΣΗ ΜΕΤΑΒΑΣΗΣ ΣΕ ΑΙΤΗΣΗ 4635/19/22-05-2020",
+      "type": "Άλλο",
+      "file_url": "https://silia.eett.gr/silia/download/e33c07e6-b0e9-4043-913e-ea16874454b3"
+    },
+    {
+      "document_number": "419016/14-10-2020",
+      "protocol_number": "37095/Φ610/13-10-2020",
+      "type": "Άδεια Κατασκευής  Κεραίας",
+      "file_url": "https://silia.eett.gr/silia/download/bb8a259c-f6d3-4beb-a387-5d7138f1ebcc"
+    },
+    {
+      "document_number": "342754/01-10-2018",
+      "protocol_number": "ΜΕΛΕΤΗ ΡΑΔΙΟΕΚΠΟΜΠΩΝ/04-12-2017",
+      "type": "Αίτηση - Μελέτη Ραδιοεκπομπών ΕΕΑΕ",
+      "file_url": "https://silia.eett.gr/silia/download/7b8e92fb-f298-47e7-ac81-d6762db81a36"
+    },
+    {
+      "document_number": "342755/01-10-2018",
+      "protocol_number": "Υ.Α.1095/2010/02-06-2010",
+      "type": "Απόφαση εξαίρεσης ΡΑΕ",
+      "file_url": "https://silia.eett.gr/silia/download/aa0d4883-fa37-40b6-a741-53851d1cadf6"
+    },
+    {
+      "document_number": "342756/01-10-2018",
+      "protocol_number": "ΥΠΟΠΑΙΘ/ΓΔΑΠΚ/ΕΦΑ ΜΑΓΝΗΣΙΑΣ/121269/71762/1662/14-05-2015",
+      "type": "Αρχαιολογική έγκριση/γνωμοδότηση (μη τυπική)",
+      "file_url": "https://silia.eett.gr/silia/download/61feff6e-4b49-4981-85c0-ff7263f53bfd"
+    },
+    {
+      "document_number": "342757/01-10-2018",
+      "protocol_number": "1004/18-05-2015",
+      "type": "Γνωμοδότηση Υπηρεσίας Νεωτέρων Μνημείων",
+      "file_url": "https://silia.eett.gr/silia/download/22a02d8c-a407-4822-8c1d-6df49946da1b"
+    },
+    {
+      "document_number": "342758/01-10-2018",
+      "protocol_number": "2390/04-10-1993",
+      "type": "Έγκριση Επέμβασης Δ/νση Δασών - Δασαρχείου",
+      "file_url": "https://silia.eett.gr/silia/download/98bda5e8-bcd9-43e8-95e7-f2e408cb11ea"
+    },
+    {
+      "document_number": "342759/01-10-2018",
+      "protocol_number": "ΠΡΩΤΟΚΟΛΛΟ ΕΓΚΑΤΑΣΤΑΣΗΣ/03-11-1993",
+      "type": "Συμπληρωματικά Έγγραφα",
+      "file_url": "https://silia.eett.gr/silia/download/eeaa1edd-79ac-432f-8af8-c2e8589d7340"
+    },
+    {
+      "document_number": "342772/01-10-2018",
+      "protocol_number": "Αρχείο Αίτησης/",
+      "type": "Δήλωση ΠΠΔ",
+      "file_url": "https://silia.eett.gr/silia/download/76d863f3-c960-4d97-bcf6-771a30a09443"
+    }
+  ]
+}

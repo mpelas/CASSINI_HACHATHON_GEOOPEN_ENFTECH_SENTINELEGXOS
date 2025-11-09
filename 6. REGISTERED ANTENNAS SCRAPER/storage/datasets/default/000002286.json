@@ -1,0 +1,63 @@
+{
+  "antenna_id": "135270",
+  "address": "Πλατυγιάλι, ΑΣΤΑΚΟΣ ΑΙΤΟΛΟΑΚΑΡΝΑΝΙΑΣ.",
+  "position_code": 1122267,
+  "municipality": "Ξηρομέρου",
+  "code_name": "NIREAS ASTAKOS",
+  "region": "Δυτικής Ελλάδας",
+  "latitude": 38.491944,
+  "company": "VODAFONE",
+  "longitude": 21.09,
+  "permit_status": "Από τα στοιχεία που τηρούνται στην Ενημερωτική Πύλη προκύπτει ότι, για τη θέση \"Πλατυγιάλι, ΑΣΤΑΚΟΣ ΑΙΤΟΛΟΑΚΑΡΝΑΝΙΑΣ.\" στον Δήμο Ξηρομέρου Περιφέρειας  Δυτικής Ελλάδας \n\t(κωδικός αριθμός θέσης 1122267, κωδική ονομασία \"NIREAS ASTAKOS\") έχει κατατεθεί από την εταιρία VODAFONE\tδήλωση εγκατάστασης κατασκευής κεραίας (αριθ. πρωτ. \n\t29546/12-10-2018) που εμπίπτει στις διατάξεις της νομοθεσίας για Εγκαταστάσεις Κατασκευών Κεραιών Χαμηλής Ηλεκτρομαγνητικής Περιβαλλοντικής Όχλησης (ΕΚΚΧΟ).",
+  "measurements_eaee": "-",
+  "documents": [
+    {
+      "document_number": "344391/11-10-2018",
+      "protocol_number": "ΦΩΤΟΓΡΑΦΙΑ ΘΕΣΗΣ ΚΕΡΑΙΩΝ 1 ΚΑΙ 2/",
+      "type": "Φωτογραφικό Υλικό - Σκαρίφημα",
+      "file_url": "https://silia.eett.gr/silia/download/c10ae1c3-f61b-440f-9f23-cd392da7e37c"
+    },
+    {
+      "document_number": "344394/11-10-2018",
+      "protocol_number": "ΦΩΤΟΓΡΑΦΙΑ ΘΕΣΗΣ ΚΕΡΑΙΑΣ 3/",
+      "type": "Φωτογραφικό Υλικό - Σκαρίφημα",
+      "file_url": "https://silia.eett.gr/silia/download/022adc11-4473-4d32-82e6-de036dc01b63"
+    },
+    {
+      "document_number": "344395/11-10-2018",
+      "protocol_number": "ΦΩΤΟΓΡΑΦΙΑ ΘΕΣΗΣ ΚΕΡΑΙΑΣ 4/",
+      "type": "Φωτογραφικό Υλικό - Σκαρίφημα",
+      "file_url": "https://silia.eett.gr/silia/download/3ca4bb78-0164-4171-831b-7c5c746a8ee4"
+    },
+    {
+      "document_number": "344396/11-10-2018",
+      "protocol_number": "ΦΩΤΟΓΡΑΦΙΑ ΘΕΣΗΣ ΚΕΡΑΙΑΣ 5/",
+      "type": "Φωτογραφικό Υλικό - Σκαρίφημα",
+      "file_url": "https://silia.eett.gr/silia/download/c937bcd6-3f8f-468f-8b56-37a66eb1d76b"
+    },
+    {
+      "document_number": "344398/12-10-2018",
+      "protocol_number": "Αρχείο Αίτησης/",
+      "type": "Δήλωση ΕΚΚΧΟ",
+      "file_url": "https://silia.eett.gr/silia/download/0bc7dace-db48-4a62-8e5d-ee8b83e4d39e"
+    },
+    {
+      "document_number": "353778/15-01-2019",
+      "protocol_number": "ΦΩΤΟΓΡΑΦΙΑ - ΣΚΑΡΙΦΗΜΑ ΘΕΣΗΣ ΚΕΡΑΙΑΣ 4/",
+      "type": "Φωτογραφικό Υλικό - Σκαρίφημα",
+      "file_url": "https://silia.eett.gr/silia/download/ccc60de9-f67c-4e67-baeb-6e0905d44290"
+    },
+    {
+      "document_number": "353779/15-01-2019",
+      "protocol_number": "ΦΩΤΟΓΡΑΦΙΑ - ΣΚΑΡΙΦΗΜΑ ΘΕΣΗΣ ΚΕΡΑΙΑΣ 5/",
+      "type": "Φωτογραφικό Υλικό - Σκαρίφημα",
+      "file_url": "https://silia.eett.gr/silia/download/7aa17c0d-49d4-4a93-beb8-76d07a9cf08f"
+    },
+    {
+      "document_number": "353789/15-01-2019",
+      "protocol_number": "ΣΚΑΡΙΦΗΜΑ ΘΕΣΗΣ ΚΕΡΑΙΑΣ 3/",
+      "type": "Φωτογραφικό Υλικό - Σκαρίφημα",
+      "file_url": "https://silia.eett.gr/silia/download/f6e992ab-e4b9-4191-8a33-065615604800"
+    }
+  ]
+}

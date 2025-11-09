@@ -1,0 +1,33 @@
+{
+  "antenna_id": "158590",
+  "address": "Ασκληπιού 10, Πυλαία, Θεσσαλονίκη.",
+  "position_code": 1156969,
+  "municipality": "Πυλαίας - Χορτιάτη",
+  "code_name": "IATRIKO DIAVALKANIKO THESSALONIKIS",
+  "region": "Κεντρικής Μακεδονίας",
+  "latitude": 40.547778,
+  "company": "VODAFONE",
+  "longitude": 22.9875,
+  "permit_status": "Από τα στοιχεία που τηρούνται στην Ενημερωτική Πύλη προκύπτει ότι, για τη θέση \"Ασκληπιού 10, Πυλαία, Θεσσαλονίκη.\" στον Δήμο Πυλαίας - Χορτιάτη Περιφέρειας  Κεντρικής Μακεδονίας \n\t(κωδικός αριθμός θέσης 1156969, κωδική ονομασία \"IATRIKO DIAVALKANIKO THESSALONIKIS\") έχει κατατεθεί από την εταιρία VODAFONE\tδήλωση εγκατάστασης κατασκευής κεραίας (αριθ. πρωτ. \n\t43219/22-03-2021) που εμπίπτει στις διατάξεις της νομοθεσίας για Εγκαταστάσεις Κατασκευών Κεραιών Χαμηλής Ηλεκτρομαγνητικής Περιβαλλοντικής Όχλησης (ΕΚΚΧΟ).",
+  "measurements_eaee": "-",
+  "documents": [
+    {
+      "document_number": "431566/22-03-2021",
+      "protocol_number": "ΣΚΑΡΙΦΗΜΑ ΘΕΣΗΣ ΙΣΤΟΥ ΕΚΚΧΟ - ΚΑΤΟΨΗ - ΚΕΡΑΙΩΝ/",
+      "type": "Φωτογραφικό Υλικό - Σκαρίφημα",
+      "file_url": "https://silia.eett.gr/silia/download/70a9aa2f-d8ac-45cd-9445-3c4d2a6c9a2d"
+    },
+    {
+      "document_number": "431567/22-03-2021",
+      "protocol_number": "ΦΩΤΟΓΡΑΦΙΑ ΘΕΣΗΣ ΕΚΚΧΟ ΑΠΟ GOOGLE EARTH/",
+      "type": "Φωτογραφικό Υλικό - Σκαρίφημα",
+      "file_url": "https://silia.eett.gr/silia/download/1f441935-1e7c-4c25-b159-88c643e1824c"
+    },
+    {
+      "document_number": "431568/22-03-2021",
+      "protocol_number": "Αρχείο Αίτησης/",
+      "type": "Δήλωση ΕΚΚΧΟ",
+      "file_url": "https://silia.eett.gr/silia/download/4c12a05f-bdaf-40b3-9f21-e9498af6d8f0"
+    }
+  ]
+}

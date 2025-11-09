@@ -1,0 +1,93 @@
+{
+  "antenna_id": "172110",
+  "address": "ΥΨΩΜΑ \"ΠΑΠΑ ΛΟΦΟΣ\" ΠΛΗΣΙΟΝ ΟΙΚΙΣΜΟΥ ΜΑΡΑΣΙΑ",
+  "position_code": 1403135,
+  "municipality": "Ορεστιάδας",
+  "code_name": "ΚΑΣΤΑΝΙΕΣ/Χ",
+  "region": "Ανατ. Μακεδονίας και Θράκης",
+  "latitude": 41.671944,
+  "company": "OTE",
+  "longitude": 26.443333,
+  "permit_status": "Από τα στοιχεία που τηρούνται στην Ενημερωτική Πύλη προκύπτει ότι, για τη θέση \"ΥΨΩΜΑ \"ΠΑΠΑ ΛΟΦΟΣ\" ΠΛΗΣΙΟΝ ΟΙΚΙΣΜΟΥ ΜΑΡΑΣΙΑ\" στον Δήμο Ορεστιάδας Περιφέρειας  Ανατ. Μακεδονίας και Θράκης \n\t(κωδικός αριθμός θέσης 1403135, κωδική ονομασία \"ΚΑΣΤΑΝΙΕΣ/Χ\") χορηγήθηκε, με την Απόφαση της ΕΕΤΤ \n51136/28-06-2024, άδεια κατασκευής κεραίας στην εταιρία OTE. \nΑπό τo έγγραφο της άδειας μπορείτε να ενημερωθείτε για τις σχετικές εγκρίσεις των συναρμόδιων φορέων, καθώς και εάν πρόκειται για τροποποίηση παλαιότερης άδειας.\n\tΣύμφωνα με τα στοιχεία που έχουν υποβληθεί στο ΣΗΛΥΑ, ο κάτοχος της κατασκευής κεραίας έχει δηλώσει ότι θα προβεί σε έκδοση έγκρισης δομικών κατασκευών \n\t\tκεραίας μέσω του e-Άδειες \n\t\tμετά την έκδοση της άδειας κατασκευής κεραίας / δημοσιοποίηση της δήλωσης τροποποίησης της κατασκευής κεραίας",
+  "measurements_eaee": "-",
+  "documents": [
+    {
+      "document_number": "507185/09-02-2024",
+      "protocol_number": "ΜΕΣΩ ΣΗΛΥΑ/",
+      "type": "Τοπογραφικό",
+      "file_url": "https://silia.eett.gr/silia/download/930daaad-4dce-4c60-8cd6-81dcdb8572bb"
+    },
+    {
+      "document_number": "507186/09-02-2024",
+      "protocol_number": "ΜΕΣΩ ΣΗΛΥΑ/",
+      "type": "Αρχιτεκτονικά Σχέδια",
+      "file_url": "https://silia.eett.gr/silia/download/1e1b5f10-4b7a-43d7-b686-371403f97ea4"
+    },
+    {
+      "document_number": "507187/09-02-2024",
+      "protocol_number": "ΜΕΣΩ ΣΗΛΥΑ/11-09-2023",
+      "type": "Αίτηση - Μελέτη Ραδιοεκπομπών ΕΕΑΕ",
+      "file_url": "https://silia.eett.gr/silia/download/c34beda3-5b55-4fa2-aa38-9cf77bb10cf6"
+    },
+    {
+      "document_number": "507188/09-02-2024",
+      "protocol_number": "Δ3/Δ/6808/03-08-2004",
+      "type": "Γνωμάτευση ΥΠΑ",
+      "file_url": "https://silia.eett.gr/silia/download/e50c5757-37d9-42d3-bc7b-d92f6813daca"
+    },
+    {
+      "document_number": "507189/09-02-2024",
+      "protocol_number": "Δ3/Δ/1621/51/12-01-2004",
+      "type": "Γνωμάτευση ΥΠΑ",
+      "file_url": "https://silia.eett.gr/silia/download/3d06568b-0e2b-4719-afab-fcf7780bb5ef"
+    },
+    {
+      "document_number": "507190/09-02-2024",
+      "protocol_number": "Δ3/Δ/22323/3700/27-07-2000",
+      "type": "Γνωμάτευση ΥΠΑ",
+      "file_url": "https://silia.eett.gr/silia/download/d207feb7-85e9-4833-9921-adf72bf432b6"
+    },
+    {
+      "document_number": "507192/09-02-2024",
+      "protocol_number": "ΜΕΣΩ ΣΗΛΥΑ/",
+      "type": "Αίτηση ΥΠΑ",
+      "file_url": "https://silia.eett.gr/silia/download/523c9bf0-7a41-41fb-a040-9f30a247fb3a"
+    },
+    {
+      "document_number": "507193/09-02-2024",
+      "protocol_number": "ΑΝΑΚΟΙΝΩΣΗ ΚΑΤΑΧΩΡΗΣΗ Γ.Ε.ΜΗ  3189349/",
+      "type": "Άλλο",
+      "file_url": "https://silia.eett.gr/silia/download/44457bc1-8f37-49ac-8152-8fbe96dc9020"
+    },
+    {
+      "document_number": "507659/14-02-2024",
+      "protocol_number": "Αρχείο Αίτησης/",
+      "type": "Αίτηση Άδειας Κατασκευής Κεραίας ΕΕΤΤ",
+      "file_url": "https://silia.eett.gr/silia/download/61ced4e0-d022-432a-b56d-028da02e94c0"
+    },
+    {
+      "document_number": "512001/03-04-2024",
+      "protocol_number": "TMIA/411/5180/2024/03-04-2024",
+      "type": "Γνωμάτευση ΕΕΑΕ",
+      "file_url": "https://silia.eett.gr/silia/download/EEiCIanFX95subaP2gX2I2ZGSc1T6KvMO2MW"
+    },
+    {
+      "document_number": "519228/28-06-2024",
+      "protocol_number": "51136/28-06-2024",
+      "type": "Άδεια Κατασκευής  Κεραίας",
+      "file_url": "https://silia.eett.gr/silia/download/oyWqbKnsLPu7rkZ5YOAfxYG6hMgWaCgs1ywD"
+    },
+    {
+      "document_number": "507197/09-02-2024",
+      "protocol_number": "ΜΕΣΩ ΣΗΛΥΑ/",
+      "type": "Δήλωση υπαγωγής σε ΠΠΔ και Συνοδευτικά Έγγραφα",
+      "file_url": "https://silia.eett.gr/silia/download/b7064bfe-09d7-4a27-8d5a-bd5678f4aa65"
+    },
+    {
+      "document_number": "507660/14-02-2024",
+      "protocol_number": "Αρχείο Αίτησης/",
+      "type": "Δήλωση ΠΠΔ",
+      "file_url": "https://silia.eett.gr/silia/download/3bf3cb1b-8812-426d-a74a-f37f15e136a0"
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "antenna_id": "172205",
+  "address": "Περιφερειακή οδός Άρτας",
+  "position_code": 1149739,
+  "municipality": "Αρταίων",
+  "code_name": "3029739 DEH KAT POLISEON ARTAS",
+  "region": "Ηπείρου",
+  "latitude": 39.1575,
+  "company": "VODAFONE",
+  "longitude": 20.98,
+  "permit_status": "Από τα στοιχεία που τηρούνται στην Ενημερωτική Πύλη προκύπτει ότι, για τη θέση \"Περιφερειακή οδός Άρτας\" στον Δήμο Αρταίων Περιφέρειας  Ηπείρου \n\t(κωδικός αριθμός θέσης 1149739, κωδική ονομασία \"3029739 DEH KAT POLISEON ARTAS\") έχει κατατεθεί από την εταιρία VODAFONE\tδήλωση εγκατάστασης κατασκευής κεραίας (αριθ. πρωτ. \n\t54949/27-02-2024) που εμπίπτει στις διατάξεις της νομοθεσίας για Εγκαταστάσεις Κατασκευών Κεραιών Χαμηλής Ηλεκτρομαγνητικής Περιβαλλοντικής Όχλησης (ΕΚΚΧΟ).",
+  "measurements_eaee": "-",
+  "documents": [
+    {
+      "document_number": "507830/16-02-2024",
+      "protocol_number": "Φωτορεαλιστική απεικόνιση κεραίας ΕΚΚΧΟ/",
+      "type": "Φωτογραφικό Υλικό - Σκαρίφημα",
+      "file_url": "https://silia.eett.gr/silia/download/7de51419-d808-4b42-83e0-031a163a4a87"
+    },
+    {
+      "document_number": "507831/16-02-2024",
+      "protocol_number": "Ψηφιακός χάρτης με προβολή της θέσης ΕΚΚΧΟ/",
+      "type": "Φωτογραφικό Υλικό - Σκαρίφημα",
+      "file_url": "https://silia.eett.gr/silia/download/84e91f4e-b4da-41d4-aa29-a9ede100aebf"
+    },
+    {
+      "document_number": "508725/27-02-2024",
+      "protocol_number": "Μελέτη ΕΚΚΧΟ/19-02-2024",
+      "type": "Άλλο",
+      "file_url": "https://silia.eett.gr/silia/download/a20e7a68-bd5e-4513-9c95-bf755696f121"
+    },
+    {
+      "document_number": "508726/27-02-2024",
+      "protocol_number": "Αρχείο Αίτησης/",
+      "type": "Δήλωση ΕΚΚΧΟ",
+      "file_url": "https://silia.eett.gr/silia/download/3335227e-3cd7-48f8-b3c7-66929ebd763f"
+    },
+    {
+      "document_number": "512619/10-04-2024",
+      "protocol_number": "ΥΔ ΕΓΚΑΤΑΣΤΑΣΗΣ/10-04-2024",
+      "type": "Άλλο",
+      "file_url": "https://silia.eett.gr/silia/download/EuIygTCLQ84oOcfRD7ZnNXKQxbVv9eYkNCNv"
+    }
+  ]
+}

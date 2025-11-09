@@ -1,0 +1,33 @@
+{
+  "antenna_id": "134831",
+  "address": "SMART PARK , ΣΠΑΤΑ",
+  "position_code": 1408964,
+  "municipality": "Σπάτων - Αρτέμιδος",
+  "code_name": "SPARK  REP",
+  "region": "Αττικής",
+  "latitude": 37.985,
+  "company": "OTE",
+  "longitude": 23.9125,
+  "permit_status": "Από τα στοιχεία που τηρούνται στην Ενημερωτική Πύλη προκύπτει ότι, για τη θέση \"SMART PARK , ΣΠΑΤΑ\" στον Δήμο Σπάτων - Αρτέμιδος Περιφέρειας  Αττικής \n\t(κωδικός αριθμός θέσης 1408964, κωδική ονομασία \"SPARK  REP\") έχει κατατεθεί από την εταιρία OTE\tδήλωση εγκατάστασης κατασκευής κεραίας (αριθ. πρωτ. \n\t29136/21-09-2018) που εμπίπτει στις διατάξεις της νομοθεσίας για Εγκαταστάσεις Κατασκευών Κεραιών Χαμηλής Ηλεκτρομαγνητικής Περιβαλλοντικής Όχλησης (ΕΚΚΧΟ).",
+  "measurements_eaee": "-",
+  "documents": [
+    {
+      "document_number": "341464/21-09-2018",
+      "protocol_number": "ΦΩΤΟΓΡΑΦΙΑ/",
+      "type": "Φωτογραφικό Υλικό - Σκαρίφημα",
+      "file_url": "https://silia.eett.gr/silia/download/bf4293b0-6a1d-483a-ba0d-d741de9e8c23"
+    },
+    {
+      "document_number": "341465/21-09-2018",
+      "protocol_number": "ΦΩΤΟΓΡΑΦΙΑ/",
+      "type": "Φωτογραφικό Υλικό - Σκαρίφημα",
+      "file_url": "https://silia.eett.gr/silia/download/38660fcb-3a95-4065-89da-d61a96f88128"
+    },
+    {
+      "document_number": "341493/21-09-2018",
+      "protocol_number": "Αρχείο Αίτησης/",
+      "type": "Δήλωση ΕΚΚΧΟ",
+      "file_url": "https://silia.eett.gr/silia/download/962e1bb0-bdde-4d65-97a7-005ae7b3127f"
+    }
+  ]
+}

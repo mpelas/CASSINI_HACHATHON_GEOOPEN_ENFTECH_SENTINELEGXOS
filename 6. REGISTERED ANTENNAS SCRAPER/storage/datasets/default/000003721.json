@@ -1,0 +1,93 @@
+{
+  "antenna_id": "119726",
+  "address": "Οδός Αν.Γωγώνη 76,Ο.Τ.Γ.598",
+  "position_code": 1003855,
+  "municipality": "Χανίων",
+  "code_name": "ΓΩΓΩΝΗ ΧΑΝΙΑ",
+  "region": "Κρήτης",
+  "latitude": 35.504167,
+  "company": "VODAFONE",
+  "longitude": 24.017778,
+  "permit_status": "Από τα στοιχεία που τηρούνται στην Ενημερωτική Πύλη προκύπτει ότι, για τη θέση \"Οδός Αν.Γωγώνη 76,Ο.Τ.Γ.598\" στον Δήμο Χανίων Περιφέρειας  Κρήτης \n\t(κωδικός αριθμός θέσης 1003855, κωδική ονομασία \"ΓΩΓΩΝΗ ΧΑΝΙΑ\") χορηγήθηκε, με την Απόφαση της ΕΕΤΤ \n29943/Φ610/15-10-2018, άδεια κατασκευής κεραίας στην εταιρία VODAFONE. \nΑπό τo έγγραφο της άδειας μπορείτε να ενημερωθείτε για τις σχετικές εγκρίσεις των συναρμόδιων φορέων, καθώς και εάν πρόκειται για τροποποίηση παλαιότερης άδειας.\nΗ άδεια χορηγήθηκε, κατόπιν της με Αριθ. Πρωτ. 18314/08-08-2016 αίτησης, \n\tμε τη διαδικασία αδειοδότησης της παρ. 17 του άρθρου 30 του Ν.4070/2012 που πλέον έχει αντικατασταθεί από τη διαδικασία που ορίζει ο ν. 4635/2019.\n\tΣύμφωνα με τα στοιχεία που έχουν υποβληθεί στο ΣΗΛΥΑ για την κατασκευή κεραίας από τον κάτοχό της, έχει εκδοθεί έγκριση δομικών κατασκευών κεραίας",
+  "measurements_eaee": "-",
+  "documents": [
+    {
+      "document_number": "268521/08-08-2016",
+      "protocol_number": "34060/30-08-2004",
+      "type": "Αίτηση ΥΠΑ",
+      "file_url": "https://silia.eett.gr/silia/download/c89699e5-7adb-41bd-9131-082126eec252"
+    },
+    {
+      "document_number": "268522/08-08-2016",
+      "protocol_number": "Δ3/Δ/34060/8243\t/01-09-2004",
+      "type": "Γνωμάτευση ΥΠΑ",
+      "file_url": "https://silia.eett.gr/silia/download/aa0d2ac0-9671-4010-b483-7fe59e055f99"
+    },
+    {
+      "document_number": "268525/08-08-2016",
+      "protocol_number": "3254/29-03-2016",
+      "type": "Τοπογραφικό",
+      "file_url": "https://silia.eett.gr/silia/download/7674d9af-5aa7-485c-ac93-38eecadf260e"
+    },
+    {
+      "document_number": "268526/08-08-2016",
+      "protocol_number": "3254/29-03-2016",
+      "type": "Αρχιτεκτονικά Σχέδια",
+      "file_url": "https://silia.eett.gr/silia/download/6477f845-c50a-4af8-8b4f-8ac0022f5738"
+    },
+    {
+      "document_number": "268528/08-08-2016",
+      "protocol_number": "7604/25-10-2012",
+      "type": "Αίτηση - Μελέτη Ραδιοεκπομπών ΕΕΑΕ",
+      "file_url": "https://silia.eett.gr/silia/download/201d4b96-b1cf-4f11-b567-293bd301b642"
+    },
+    {
+      "document_number": "268529/08-08-2016",
+      "protocol_number": "Μ.ι./411/2761\t/21-12-2012",
+      "type": "Γνωμάτευση ΕΕΑΕ",
+      "file_url": "https://silia.eett.gr/silia/download/97eafd38-b276-45ef-b77c-91c9f1645f11"
+    },
+    {
+      "document_number": "268571/08-08-2016",
+      "protocol_number": "Αρχείο Αίτησης/",
+      "type": "Αίτηση Άδειας Κατασκευής Κεραίας ΕΕΤΤ",
+      "file_url": "https://silia.eett.gr/silia/download/cb77c114-8757-4660-b16b-293a4a920946"
+    },
+    {
+      "document_number": "268577/09-08-2016",
+      "protocol_number": "3254/22-07-2016",
+      "type": "Έγκριση δομικών κατασκευών (έντυπη)",
+      "file_url": "https://silia.eett.gr/silia/download/69ace7d5-16ee-4050-80b1-3db939cd185e"
+    },
+    {
+      "document_number": "290794/30-03-2017",
+      "protocol_number": "Μ.ι./411/3969/2017/21-03-2017",
+      "type": "Γνωμάτευση ΕΕΑΕ",
+      "file_url": "https://silia.eett.gr/silia/download/a955b741-1e92-4c13-8724-479e037c015d"
+    },
+    {
+      "document_number": "345425/19-10-2018",
+      "protocol_number": "29943/Φ610/15-10-2018",
+      "type": "Άδεια Κατασκευής  Κεραίας",
+      "file_url": "https://silia.eett.gr/silia/download/b47dccfe-299e-4ef6-82cf-c0f53099d177"
+    },
+    {
+      "document_number": "268577/09-08-2016",
+      "protocol_number": "3254/22-07-2016",
+      "type": "Έγκριση δομικών κατασκευών (έντυπη)",
+      "file_url": "https://silia.eett.gr/silia/download/69ace7d5-16ee-4050-80b1-3db939cd185e"
+    },
+    {
+      "document_number": "268531/08-08-2016",
+      "protocol_number": "7604/25-10-2012",
+      "type": "Αίτηση - Μελέτη Ραδιοεκπομπών ΕΕΑΕ",
+      "file_url": "https://silia.eett.gr/silia/download/201d4b96-b1cf-4f11-b567-293bd301b642"
+    },
+    {
+      "document_number": "268572/08-08-2016",
+      "protocol_number": "Αρχείο Αίτησης/",
+      "type": "Δήλωση ΠΠΔ",
+      "file_url": "https://silia.eett.gr/silia/download/f6defd6f-ae2a-42a0-9c06-5c6f4291cd21"
+    }
+  ]
+}

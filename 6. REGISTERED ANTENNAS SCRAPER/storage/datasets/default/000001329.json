@@ -1,0 +1,87 @@
+{
+  "antenna_id": "175256",
+  "address": "ΚΤΙΡΙΟ ΟΤΕ, ΚΑΣΣΙΟΠΗ ΚΕΡΚΥΡΑΣ",
+  "position_code": 1404078,
+  "municipality": "Δήμων Βόρειας Κέρκυρας",
+  "code_name": "ΚΑΣΣΙΟΠΗ ΤΚ",
+  "region": "Ιονίων Νήσων",
+  "latitude": 39.782778,
+  "company": "OTE",
+  "longitude": 19.921111,
+  "permit_status": "Από τα στοιχεία που τηρούνται στην Ενημερωτική Πύλη προκύπτει ότι, για τη θέση \"ΚΤΙΡΙΟ ΟΤΕ, ΚΑΣΣΙΟΠΗ ΚΕΡΚΥΡΑΣ\" στον Δήμο Δήμων Βόρειας Κέρκυρας Περιφέρειας  Ιονίων Νήσων \n\t(κωδικός αριθμός θέσης 1404078, κωδική ονομασία \"ΚΑΣΣΙΟΠΗ ΤΚ\") χορηγήθηκε, με την Απόφαση της ΕΕΤΤ \n52077/06-02-2025, άδεια κατασκευής κεραίας στην εταιρία OTE. \nΑπό τo έγγραφο της άδειας μπορείτε να ενημερωθείτε για τις σχετικές εγκρίσεις των συναρμόδιων φορέων, καθώς και εάν πρόκειται για τροποποίηση παλαιότερης άδειας.\n\tΣύμφωνα με τα στοιχεία που έχουν υποβληθεί στο ΣΗΛΥΑ, ο κάτοχος της κατασκευής κεραίας έχει δηλώσει ότι θα προβεί σε έκδοση έγκρισης δομικών κατασκευών \n\t\tκεραίας μέσω του e-Άδειες \n\t\tμετά την έκδοση της άδειας κατασκευής κεραίας / δημοσιοποίηση της δήλωσης τροποποίησης της κατασκευής κεραίας",
+  "measurements_eaee": "-",
+  "documents": [
+    {
+      "document_number": "525312/11-09-2024",
+      "protocol_number": "ΜΕΣΩ ΣΗΛΥΑ/11-09-2024",
+      "type": "Τοπογραφικό",
+      "file_url": "https://silia.eett.gr/silia/download/chy9FSXZEXrtWeZoh4ifC6VsdivZK3CGccvT"
+    },
+    {
+      "document_number": "525313/11-09-2024",
+      "protocol_number": "ΜΕΣΩ ΣΗΛΥΑ1/11-09-2024",
+      "type": "Αρχιτεκτονικά Σχέδια",
+      "file_url": "https://silia.eett.gr/silia/download/DBCNZYglOMpp5PbXaH8fD6WfP5H6DoK1NzFS"
+    },
+    {
+      "document_number": "525314/11-09-2024",
+      "protocol_number": "ΜΕΣΩ ΣΗΛΥΑ11/04-04-2024",
+      "type": "Αίτηση - Μελέτη Ραδιοεκπομπών ΕΕΑΕ",
+      "file_url": "https://silia.eett.gr/silia/download/DExRb0GV1arieOI8aeSlbkysSqrYzsxmAGNM"
+    },
+    {
+      "document_number": "525315/11-09-2024",
+      "protocol_number": "ΕΜC/29-05-2024",
+      "type": "Αποτελέσματα μελέτης στη ζώνης 2.6GHz για ΥΠΑ/ΓΕΕΘΑ",
+      "file_url": "https://silia.eett.gr/silia/download/B4UuXCQGg3cmCSC2zQg3Ss8gRFG6tGN8tAVL"
+    },
+    {
+      "document_number": "525318/11-09-2024",
+      "protocol_number": "Δ3/Δ/3648/18-05-2011",
+      "type": "Γνωμάτευση ΥΠΑ",
+      "file_url": "https://silia.eett.gr/silia/download/e5Ial1oIDxQG8BevkPf2mpqqY1qVcXsmqftG"
+    },
+    {
+      "document_number": "525319/11-09-2024",
+      "protocol_number": "ΜΕΣΩ ΣΗΛΥΑ111/11-09-2024",
+      "type": "Αίτηση ΥΠΑ",
+      "file_url": "https://silia.eett.gr/silia/download/AuKaeW8ecYx4GhDS99BwemafLI83Th9Z0Pk4"
+    },
+    {
+      "document_number": "525329/11-09-2024",
+      "protocol_number": "Αρχείο Αίτησης/11-09-2024",
+      "type": "Αίτηση Άδειας Κατασκευής Κεραίας ΕΕΤΤ",
+      "file_url": "https://silia.eett.gr/silia/download/crMU6Zzok9knBpGqgvOM9pYO8YD8h0hsAUFI"
+    },
+    {
+      "document_number": "529329/18-10-2024",
+      "protocol_number": "ΚΓ/Δ3/Δ/20655/18-10-2024",
+      "type": "Γνωμάτευση ΥΠΑ",
+      "file_url": "https://silia.eett.gr/silia/download/0ikgGfqS8iTCgCO9mPEegDYoOOYHvno0GUyV"
+    },
+    {
+      "document_number": "533677/26-11-2024",
+      "protocol_number": "TMIA/411/16720/2024/25-11-2024",
+      "type": "Γνωμάτευση ΕΕΑΕ",
+      "file_url": "https://silia.eett.gr/silia/download/e23AvgRwOdGKZ2gCF7W6m6byLR3Y92bAkhzm"
+    },
+    {
+      "document_number": "540225/07-02-2025",
+      "protocol_number": "52077/06-02-2025",
+      "type": "Άδεια Κατασκευής  Κεραίας",
+      "file_url": "https://silia.eett.gr/silia/download/mCogcbdVkDzqvpQWig0oFYMUKAibVLGDVbna"
+    },
+    {
+      "document_number": "525316/11-09-2024",
+      "protocol_number": "ΠΠΔ/11-09-2024",
+      "type": "Δήλωση υπαγωγής σε ΠΠΔ και Συνοδευτικά Έγγραφα",
+      "file_url": "https://silia.eett.gr/silia/download/Divz7YE0GGtocc85SA1BTvLHxRDu6e5vcO42"
+    },
+    {
+      "document_number": "525330/11-09-2024",
+      "protocol_number": "Αρχείο Αίτησης/11-09-2024",
+      "type": "Δήλωση ΠΠΔ",
+      "file_url": "https://silia.eett.gr/silia/download/Es4kFfXXpmng8uUgZVVPvaFunEaBqZGDVMAz"
+    }
+  ]
+}

@@ -1,0 +1,93 @@
+{
+  "antenna_id": "172626",
+  "address": "ΔΙΔΥΜΟΤΕΙΧΟ",
+  "position_code": 3006016,
+  "municipality": "Διδυμοτείχου",
+  "code_name": "ΔΙΔΥΜΟΤΕΙΧΟ",
+  "region": "Ανατ. Μακεδονίας και Θράκης",
+  "latitude": 41.335,
+  "company": "DIGEA",
+  "longitude": 26.472778,
+  "permit_status": "Από τα στοιχεία που τηρούνται στην Ενημερωτική Πύλη προκύπτει ότι, για τη θέση \"ΔΙΔΥΜΟΤΕΙΧΟ\" στον Δήμο Διδυμοτείχου Περιφέρειας  Ανατ. Μακεδονίας και Θράκης \n\t(κωδικός αριθμός θέσης 3006016, κωδική ονομασία \"ΔΙΔΥΜΟΤΕΙΧΟ\") χορηγήθηκε, με την Απόφαση της ΕΕΤΤ \n52604/23-05-2025, άδεια κατασκευής κεραίας στην εταιρία DIGEA. \nΑπό τo έγγραφο της άδειας μπορείτε να ενημερωθείτε για τις σχετικές εγκρίσεις των συναρμόδιων φορέων, καθώς και εάν πρόκειται για τροποποίηση παλαιότερης άδειας.\n\tΣύμφωνα με τα στοιχεία που έχουν υποβληθεί στο ΣΗΛΥΑ, ο κάτοχος της κατασκευής κεραίας έχει δηλώσει ότι θα προβεί σε έκδοση έγκρισης δομικών κατασκευών \n\t\tκεραίας μέσω του e-Άδειες \n\t\tμετά την έκδοση της άδειας κατασκευής κεραίας / δημοσιοποίηση της δήλωσης τροποποίησης της κατασκευής κεραίας",
+  "measurements_eaee": "-",
+  "documents": [
+    {
+      "document_number": "510081/13-03-2024",
+      "protocol_number": "66394/29-02-2024",
+      "type": "Αίτηση / Μελέτη για Έγκριση Περιβαλλοντικών Επιπτώσεων",
+      "file_url": "https://silia.eett.gr/silia/download/V0RQ3QEoGCx2YS9uUPPfE7hGCVDiAMp6Wvrg"
+    },
+    {
+      "document_number": "510083/13-03-2024",
+      "protocol_number": "ΜΕΣΩ ΣΗΛΥΑ/13-03-2024",
+      "type": "Αίτηση - Μελέτη Ραδιοεκπομπών ΕΕΑΕ",
+      "file_url": "https://silia.eett.gr/silia/download/SVEgxc5g9u865G0Dy7lrBuawg6lMgq7Fsvel"
+    },
+    {
+      "document_number": "510129/13-03-2024",
+      "protocol_number": "ΜΕΣΩ ΣΗΛΥΑ1/13-03-2024",
+      "type": "Αρχιτεκτονικά [Κάτοψη - Τομή - Όψη]",
+      "file_url": "https://silia.eett.gr/silia/download/pLOHtS2ZdxG7qYmuLzMPuZnNWqagnAaSXL3O"
+    },
+    {
+      "document_number": "510130/13-03-2024",
+      "protocol_number": "ΜΕΣΩ ΣΗΛΥΑ11/13-03-2024",
+      "type": "Τοπογραφικό",
+      "file_url": "https://silia.eett.gr/silia/download/8c2xfC9XObuvR250wyNFrtMhGr1qsuWf9oAI"
+    },
+    {
+      "document_number": "510134/13-03-2024",
+      "protocol_number": "45156/19-10-2021",
+      "type": "Δήλωση Τηλεοπτικής Ευρυεκπομπής",
+      "file_url": "https://silia.eett.gr/silia/download/9SmFuKsv3RT16d01QFKbXQoqbdgk7IcRTf04"
+    },
+    {
+      "document_number": "511382/28-03-2024",
+      "protocol_number": "ΜΕΣΩ ΣΗΛΥΑ111/28-03-2024",
+      "type": "Αίτηση ΥΠΑ",
+      "file_url": "https://silia.eett.gr/silia/download/CsqQn7xeVggTgRclR4KgVdLkHt0bGz3ykoEK"
+    },
+    {
+      "document_number": "511385/28-03-2024",
+      "protocol_number": "Δ5398/19-10-2021",
+      "type": "Δήλωση Τηλεοπτικής Ευρυεκπομπής",
+      "file_url": "https://silia.eett.gr/silia/download/dmYZqpGd03MvegunEnnQ4HbWQeMuag0PR3ls"
+    },
+    {
+      "document_number": "511390/28-03-2024",
+      "protocol_number": "26916/06-02-2018",
+      "type": "Χορήγηση Δικαιώματος Χρήσης Ραδιοσυχνοτήτων",
+      "file_url": "https://silia.eett.gr/silia/download/G6XZiGEhCi4D5arlgSMNiPdgh6bu6H3gQ68s"
+    },
+    {
+      "document_number": "511396/28-03-2024",
+      "protocol_number": "Αρχείο Αίτησης/28-03-2024",
+      "type": "Αίτηση Άδειας Κατασκευής Κεραίας ΕΕΤΤ",
+      "file_url": "https://silia.eett.gr/silia/download/MAEwXntUl6iu3BDfwv0gFLyTHgwE7aoKgILQ"
+    },
+    {
+      "document_number": "512379/08-04-2024",
+      "protocol_number": "ΚΓ/Δ3/Δ/6892/08-04-2024",
+      "type": "Γνωμάτευση ΥΠΑ",
+      "file_url": "https://silia.eett.gr/silia/download/Wzxotyd2dVWLNKwnZE674cRlGCzYiQtvLfEQ"
+    },
+    {
+      "document_number": "513888/24-04-2024",
+      "protocol_number": "TMIA/6141/2024/24-04-2024",
+      "type": "Γνωμάτευση ΕΕΑΕ",
+      "file_url": "https://silia.eett.gr/silia/download/szoXBa4vYZTDQmrPuer8ezTqE8fkLsTBAbCq"
+    },
+    {
+      "document_number": "546195/07-04-2025",
+      "protocol_number": "2444/07-04-2025",
+      "type": "Έγκριση Περιβαλλοντικών Όρων",
+      "file_url": "https://silia.eett.gr/silia/download/mUGLaNrhqU1Dg2pOkq6yz9H59IQPgGlaY9rx"
+    },
+    {
+      "document_number": "550643/28-05-2025",
+      "protocol_number": "52604/23-05-2025",
+      "type": "Άδεια Κατασκευής  Κεραίας",
+      "file_url": "https://silia.eett.gr/silia/download/4eqlo8e2ohn1xaLFB47oFNVuC81H5DLVLngg"
+    }
+  ]
+}

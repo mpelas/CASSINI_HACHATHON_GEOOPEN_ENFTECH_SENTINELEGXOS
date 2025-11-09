@@ -1,0 +1,81 @@
+{
+  "antenna_id": "162141",
+  "address": "ΚΕΧΡΙΝΙΑ",
+  "position_code": 20103,
+  "municipality": "Αμφιλοχίας",
+  "code_name": "ΚΕΧΡΙΝΙΑ",
+  "region": "Δυτικής Ελλάδας",
+  "latitude": 38.821389,
+  "company": "OTE",
+  "longitude": 21.23,
+  "permit_status": "Από τα στοιχεία που τηρούνται στην Ενημερωτική Πύλη προκύπτει ότι, για τη θέση \"ΚΕΧΡΙΝΙΑ\" στον Δήμο Αμφιλοχίας Περιφέρειας  Δυτικής Ελλάδας \n\t(κωδικός αριθμός θέσης 0020103, κωδική ονομασία \"ΚΕΧΡΙΝΙΑ\") χορηγήθηκε, με την Απόφαση της ΕΕΤΤ \n43990/16-05-2022, άδεια κατασκευής κεραίας στην εταιρία OTE. \nΑπό τo έγγραφο της άδειας μπορείτε να ενημερωθείτε για τις σχετικές εγκρίσεις των συναρμόδιων φορέων, καθώς και εάν πρόκειται για τροποποίηση παλαιότερης άδειας.\nΗ άδεια χορηγήθηκε με τη διαδικασία αδειοδότησης που ορίζει ο ν. 4635/2019, κατόπιν της με αριθ. πρωτ. 46270/27-01-2022 \n\tαίτησης, και βάσει σχετικής δήλωσης του κατόχου της περί υπαγωγή της κατασκευής κεραίας στο άρθρο 34 του ν. 4635/2019.",
+  "measurements_eaee": "-",
+  "documents": [
+    {
+      "document_number": "450137/27-01-2022",
+      "protocol_number": "ΜΕΣΩ ΣΗΛΥΑ/",
+      "type": "Τοπογραφικό",
+      "file_url": "https://silia.eett.gr/silia/download/ef2a1d52-51b6-46fa-b4f4-e90ca758a682"
+    },
+    {
+      "document_number": "450138/27-01-2022",
+      "protocol_number": "ΜΕΣΩ ΣΗΛΥΑ/",
+      "type": "Αρχιτεκτονικά Σχέδια",
+      "file_url": "https://silia.eett.gr/silia/download/7b9c3045-2dbb-4c2d-9439-b7a92885517b"
+    },
+    {
+      "document_number": "450139/27-01-2022",
+      "protocol_number": "ΜΕΣΩ ΣΗΛΥΑ/12-07-2018",
+      "type": "Αίτηση - Μελέτη Ραδιοεκπομπών ΕΕΑΕ",
+      "file_url": "https://silia.eett.gr/silia/download/f91f48f7-5e04-4e86-ac7e-7c7de1e2efd1"
+    },
+    {
+      "document_number": "450140/27-01-2022",
+      "protocol_number": "Μι/411/13569/2018/21-09-2018",
+      "type": "Γνωμάτευση ΕΕΑΕ",
+      "file_url": "https://silia.eett.gr/silia/download/929192ae-2813-4ddd-bed4-c997b7640fbb"
+    },
+    {
+      "document_number": "450141/27-01-2022",
+      "protocol_number": "Δ3/Δ/22225/5580/27-06-2005",
+      "type": "Γνωμάτευση ΥΠΑ",
+      "file_url": "https://silia.eett.gr/silia/download/ad511ce2-6ab7-4a1e-acdf-8cd484c1fcb8"
+    },
+    {
+      "document_number": "450142/27-01-2022",
+      "protocol_number": "ΜΕΣΩ ΣΗΛΥΑ/",
+      "type": "Αίτηση ΥΠΑ",
+      "file_url": "https://silia.eett.gr/silia/download/877a0c6e-6fda-47ec-bf24-ef0e64aa507d"
+    },
+    {
+      "document_number": "450155/27-01-2022",
+      "protocol_number": "Αρχείο Αίτησης/",
+      "type": "Αίτηση Άδειας Κατασκευής Κεραίας ΕΕΤΤ",
+      "file_url": "https://silia.eett.gr/silia/download/74bfa7d5-c466-4d98-b28b-4f4707fae0be"
+    },
+    {
+      "document_number": "454072/23-03-2022",
+      "protocol_number": "Μ.ι./411/3904/2022/23-03-2022",
+      "type": "Γνωμάτευση ΕΕΑΕ",
+      "file_url": "https://silia.eett.gr/silia/download/cbb1b3f1-58cd-40e7-b5b0-d47cac53bf24"
+    },
+    {
+      "document_number": "459148/16-05-2022",
+      "protocol_number": "43990/16-05-2022",
+      "type": "Άδεια Κατασκευής  Κεραίας",
+      "file_url": "https://silia.eett.gr/silia/download/7c9c65ed-7fa6-47c4-a4a0-29e8b318df4e"
+    },
+    {
+      "document_number": "450143/27-01-2022",
+      "protocol_number": "ΣΥΝΟΔΕΥΤΙΚΑ ΕΓΓΡΑΦΑ/",
+      "type": "Δήλωση υπαγωγής σε ΠΠΔ και Συνοδευτικά Έγγραφα",
+      "file_url": "https://silia.eett.gr/silia/download/67b562ab-1e5b-46f5-8d4d-008565f91e82"
+    },
+    {
+      "document_number": "450156/27-01-2022",
+      "protocol_number": "Αρχείο Αίτησης/",
+      "type": "Δήλωση ΠΠΔ",
+      "file_url": "https://silia.eett.gr/silia/download/dec2f5a8-1a45-4138-8f3e-65f8c1c3a8ff"
+    }
+  ]
+}

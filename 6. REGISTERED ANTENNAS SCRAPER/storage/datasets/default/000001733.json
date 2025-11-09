@@ -1,0 +1,33 @@
+{
+  "antenna_id": "162626",
+  "address": "3o ΧΛΜ ΗΓΟΥΜΕΝΙΤΣΑΣ - ΙΩΑΝΝΙΝΩΝ",
+  "position_code": 1149122,
+  "municipality": "Ηγουμενίτσας",
+  "code_name": "3029122 ITALKROM IGOUMENITSA",
+  "region": "Ηπείρου",
+  "latitude": 39.536111,
+  "company": "VODAFONE",
+  "longitude": 20.2725,
+  "permit_status": "Από τα στοιχεία που τηρούνται στην Ενημερωτική Πύλη προκύπτει ότι, για τη θέση \"3o ΧΛΜ ΗΓΟΥΜΕΝΙΤΣΑΣ - ΙΩΑΝΝΙΝΩΝ\" στον Δήμο Ηγουμενίτσας Περιφέρειας  Ηπείρου \n\t(κωδικός αριθμός θέσης 1149122, κωδική ονομασία \"3029122 ITALKROM IGOUMENITSA\") έχει κατατεθεί από την εταιρία VODAFONE\tδήλωση εγκατάστασης κατασκευής κεραίας (αριθ. πρωτ. \n\t46704/03-03-2022) που εμπίπτει στις διατάξεις της νομοθεσίας για Εγκαταστάσεις Κατασκευών Κεραιών Χαμηλής Ηλεκτρομαγνητικής Περιβαλλοντικής Όχλησης (ΕΚΚΧΟ).",
+  "measurements_eaee": "-",
+  "documents": [
+    {
+      "document_number": "452545/03-03-2022",
+      "protocol_number": "ΣΚΑΡΙΦΗΜΑ ΘΕΣΗΣ ΙΣΤΟΥ ΕΚΚΧΟ - ΟΨΗ ΚΕΡΑΙΑΣ/",
+      "type": "Φωτογραφικό Υλικό - Σκαρίφημα",
+      "file_url": "https://silia.eett.gr/silia/download/df3b7d6d-e020-4b04-b5db-5a517de5c5f9"
+    },
+    {
+      "document_number": "452546/03-03-2022",
+      "protocol_number": "Φωτογραφία θέσης ΕΚΚΧΟ από Google Earth/",
+      "type": "Φωτογραφικό Υλικό - Σκαρίφημα",
+      "file_url": "https://silia.eett.gr/silia/download/ff9b0edf-f666-4d4a-be4c-da2f75ecdf55"
+    },
+    {
+      "document_number": "452547/03-03-2022",
+      "protocol_number": "Αρχείο Αίτησης/",
+      "type": "Δήλωση ΕΚΚΧΟ",
+      "file_url": "https://silia.eett.gr/silia/download/f07955d7-e625-4483-ab23-e305ce0acad5"
+    }
+  ]
+}

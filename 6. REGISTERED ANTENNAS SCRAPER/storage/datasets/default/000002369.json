@@ -1,0 +1,27 @@
+{
+  "antenna_id": "132414",
+  "address": "ΠΑΙΑΝΙΑ, ΘΕΣΗ ΠΑΤΗΜΑ",
+  "position_code": 1148808,
+  "municipality": "Παιανίας",
+  "code_name": "PROTIPO KENTRO DIANOMON PEANIA",
+  "region": "Αττικής",
+  "latitude": 37.925556,
+  "company": "VODAFONE",
+  "longitude": 23.893889,
+  "permit_status": "Από τα στοιχεία που τηρούνται στην Ενημερωτική Πύλη προκύπτει ότι, για τη θέση \"ΠΑΙΑΝΙΑ, ΘΕΣΗ ΠΑΤΗΜΑ\" στον Δήμο Παιανίας Περιφέρειας  Αττικής \n\t(κωδικός αριθμός θέσης 1148808, κωδική ονομασία \"PROTIPO KENTRO DIANOMON PEANIA\") έχει κατατεθεί από την εταιρία VODAFONE\tδήλωση εγκατάστασης κατασκευής κεραίας (αριθ. πρωτ. \n\t27012/02-04-2018) που εμπίπτει στις διατάξεις της νομοθεσίας για Εγκαταστάσεις Κατασκευών Κεραιών Χαμηλής Ηλεκτρομαγνητικής Περιβαλλοντικής Όχλησης (ΕΚΚΧΟ).",
+  "measurements_eaee": "-",
+  "documents": [
+    {
+      "document_number": "325667/02-04-2018",
+      "protocol_number": "ΦΩΤΟΓΡΑΦΙΑ ΘΕΣΗΣ ΚΕΡΑΙΑΣ 1/",
+      "type": "Φωτογραφικό Υλικό - Σκαρίφημα",
+      "file_url": "https://silia.eett.gr/silia/download/281bad48-ce17-499a-9210-17ca0d8ee3df"
+    },
+    {
+      "document_number": "325668/02-04-2018",
+      "protocol_number": "Αρχείο Αίτησης/",
+      "type": "Δήλωση ΕΚΚΧΟ",
+      "file_url": "https://silia.eett.gr/silia/download/f15483d5-57d4-4a5a-9df1-7b00d8a42821"
+    }
+  ]
+}

@@ -1,0 +1,63 @@
+{
+  "antenna_id": "166940",
+  "address": "Λεωφόρος Ελευθερίας 55, Ελεούσα Ιωαννίνων.",
+  "position_code": 1158335,
+  "municipality": "Ζίτσας",
+  "code_name": "3028335 KTIMATOLOGIO ΙΟΑΝΝΙΝΑ",
+  "region": "Ηπείρου",
+  "latitude": 39.706389,
+  "company": "VODAFONE",
+  "longitude": 20.793333,
+  "permit_status": "Από τα στοιχεία που τηρούνται στην Ενημερωτική Πύλη προκύπτει ότι, για τη θέση \"Λεωφόρος Ελευθερίας 55, Ελεούσα Ιωαννίνων.\" στον Δήμο Ζίτσας Περιφέρειας  Ηπείρου \n\t(κωδικός αριθμός θέσης 1158335, κωδική ονομασία \"3028335 KTIMATOLOGIO ΙΟΑΝΝΙΝΑ\") έχει κατατεθεί από την εταιρία VODAFONE\tδήλωση εγκατάστασης κατασκευής κεραίας (αριθ. πρωτ. \n\t50553/30-01-2023) που εμπίπτει στις διατάξεις της νομοθεσίας για Εγκαταστάσεις Κατασκευών Κεραιών Χαμηλής Ηλεκτρομαγνητικής Περιβαλλοντικής Όχλησης (ΕΚΚΧΟ).",
+  "measurements_eaee": "-",
+  "documents": [
+    {
+      "document_number": "476799/26-01-2023",
+      "protocol_number": "Φωτορεαλιστική απεικόνιση ΕΚΚΧΟ/",
+      "type": "Φωτογραφικό Υλικό - Σκαρίφημα",
+      "file_url": "https://silia.eett.gr/silia/download/69e9a310-1318-4d82-a6d3-9faaad660af8"
+    },
+    {
+      "document_number": "476800/26-01-2023",
+      "protocol_number": "Ψηφιακός Χάρτης με προβολή της θέσης ΕΚΚΧΟ/",
+      "type": "Φωτογραφικό Υλικό - Σκαρίφημα",
+      "file_url": "https://silia.eett.gr/silia/download/629817cb-a35d-413e-a1b0-3390c8b2b9d7"
+    },
+    {
+      "document_number": "477046/30-01-2023",
+      "protocol_number": "Μελέτη ΕΚΚΧΟ/27-01-2023",
+      "type": "Άλλο",
+      "file_url": "https://silia.eett.gr/silia/download/c5d60b4a-e78a-43bb-a642-a7d7ec93e192"
+    },
+    {
+      "document_number": "477047/30-01-2023",
+      "protocol_number": "Σκαρίφημα με περιοχή απαγόρευσης/",
+      "type": "Φωτογραφικό Υλικό - Σκαρίφημα",
+      "file_url": "https://silia.eett.gr/silia/download/9a0a99ff-7603-483d-9d3d-f8003f3d66fe"
+    },
+    {
+      "document_number": "477048/30-01-2023",
+      "protocol_number": "Αρχείο Αίτησης/",
+      "type": "Δήλωση ΕΚΚΧΟ",
+      "file_url": "https://silia.eett.gr/silia/download/1f731b97-8d1c-4a6c-bb72-1aec8e99c14b"
+    },
+    {
+      "document_number": "481538/30-03-2023",
+      "protocol_number": "44785/801/22-03-2023",
+      "type": "Έγγραφο Αρμοδίου Φορέα",
+      "file_url": "https://silia.eett.gr/silia/download/2f00a007-092f-4135-9d36-16ffa3def082"
+    },
+    {
+      "document_number": "486485/29-05-2023",
+      "protocol_number": "44785/801/22-03-2023",
+      "type": "Έγγραφο Αρμοδίου Φορέα",
+      "file_url": "https://silia.eett.gr/silia/download/1dc02a33-d648-4451-a0ce-6785e634b374"
+    },
+    {
+      "document_number": "486486/29-05-2023",
+      "protocol_number": "ΥΔ εγκατάστασης/24-05-2023",
+      "type": "Άλλο",
+      "file_url": "https://silia.eett.gr/silia/download/341db3bf-0dc0-4016-85b3-42c06a286bf5"
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "antenna_id": "155063",
+  "address": "ΠΟΛΥΓΥΡΟΣ",
+  "position_code": 1267954,
+  "municipality": "Πολυγύρου",
+  "code_name": "HELLENICDAIRIES POLYGYROS",
+  "region": "Κεντρικής Μακεδονίας",
+  "latitude": 40.522222,
+  "company": "NOVA Μ.Α.Ε.",
+  "longitude": 23.335278,
+  "permit_status": "Από τα στοιχεία που τηρούνται στην Ενημερωτική Πύλη προκύπτει ότι, για τη θέση \"ΠΟΛΥΓΥΡΟΣ\" στον Δήμο Πολυγύρου Περιφέρειας  Κεντρικής Μακεδονίας \n\t(κωδικός αριθμός θέσης 1267954, κωδική ονομασία \"HELLENICDAIRIES POLYGYROS\") έχει κατατεθεί από την εταιρία NOVA Μ.Α.Ε.\tδήλωση εγκατάστασης κατασκευής κεραίας (αριθ. πρωτ. \n\t39879/14-06-2020) που εμπίπτει στις διατάξεις της νομοθεσίας για Εγκαταστάσεις Κατασκευών Κεραιών Χαμηλής Ηλεκτρομαγνητικής Περιβαλλοντικής Όχλησης (ΕΚΚΧΟ).",
+  "measurements_eaee": "-",
+  "documents": [
+    {
+      "document_number": "410597/14-06-2020",
+      "protocol_number": "ΦΩΤΟΓΡΑΦΙΑ LINK ΕΚΚΧΟ/",
+      "type": "Φωτογραφικό Υλικό - Σκαρίφημα",
+      "file_url": "https://silia.eett.gr/silia/download/ecb44c45-9e99-4c76-84c6-f8859ec4fe18"
+    },
+    {
+      "document_number": "410599/14-06-2020",
+      "protocol_number": "Αρχείο Αίτησης/",
+      "type": "Δήλωση ΕΚΚΧΟ",
+      "file_url": "https://silia.eett.gr/silia/download/60f71018-e570-43f1-b671-d24c699c3556"
+    },
+    {
+      "document_number": "415243/24-08-2020",
+      "protocol_number": "813/26-06-2020",
+      "type": "Έγκριση Αρμοδίου Φορέα",
+      "file_url": "https://silia.eett.gr/silia/download/32160f9d-674c-4180-9b24-a85b57c33597"
+    }
+  ]
+}

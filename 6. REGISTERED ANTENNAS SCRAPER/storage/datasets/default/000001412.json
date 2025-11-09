@@ -1,0 +1,39 @@
+{
+  "antenna_id": "164571",
+  "address": "ΒΙΠΕ ΔΡΑΜΑΣ",
+  "position_code": 1146401,
+  "municipality": "Δράμας",
+  "code_name": "PAVLIDIS MARMARA VIPE DRAMAS",
+  "region": "Ανατ. Μακεδονίας και Θράκης",
+  "latitude": 41.175278,
+  "company": "VODAFONE",
+  "longitude": 24.076389,
+  "permit_status": "Από τα στοιχεία που τηρούνται στην Ενημερωτική Πύλη προκύπτει ότι, για τη θέση \"ΒΙΠΕ ΔΡΑΜΑΣ\" στον Δήμο Δράμας Περιφέρειας  Ανατ. Μακεδονίας και Θράκης \n\t(κωδικός αριθμός θέσης 1146401, κωδική ονομασία \"PAVLIDIS MARMARA VIPE DRAMAS\") έχει κατατεθεί από την εταιρία VODAFONE\tδήλωση εγκατάστασης κατασκευής κεραίας (αριθ. πρωτ. \n\t48454/29-06-2022) που εμπίπτει στις διατάξεις της νομοθεσίας για Εγκαταστάσεις Κατασκευών Κεραιών Χαμηλής Ηλεκτρομαγνητικής Περιβαλλοντικής Όχλησης (ΕΚΚΧΟ).",
+  "measurements_eaee": "-",
+  "documents": [
+    {
+      "document_number": "462985/29-06-2022",
+      "protocol_number": "Φωτογραφία θέσης τοποθέτησης ΕΚΚΧΟ/",
+      "type": "Φωτογραφικό Υλικό - Σκαρίφημα",
+      "file_url": "https://silia.eett.gr/silia/download/bd0182e0-e8ad-49c9-88c6-3bce5eee960e"
+    },
+    {
+      "document_number": "462986/29-06-2022",
+      "protocol_number": "Φωτογραφία θέσης ΕΚΚΧΟ από Google Earth/",
+      "type": "Φωτογραφικό Υλικό - Σκαρίφημα",
+      "file_url": "https://silia.eett.gr/silia/download/e5ccc074-d8cc-4594-8790-47f8c932199d"
+    },
+    {
+      "document_number": "462987/29-06-2022",
+      "protocol_number": "ΣΚΑΡΙΦΗΜΑ ΤΑΡΑΤΣΑΣ ΚΤΙΡΙΟΥ/",
+      "type": "Φωτογραφικό Υλικό - Σκαρίφημα",
+      "file_url": "https://silia.eett.gr/silia/download/23b0a789-c8cd-472f-b7c9-ca8d024f3351"
+    },
+    {
+      "document_number": "462988/29-06-2022",
+      "protocol_number": "Αρχείο Αίτησης/",
+      "type": "Δήλωση ΕΚΚΧΟ",
+      "file_url": "https://silia.eett.gr/silia/download/04c243ec-6c0e-4a10-aace-1b12d23bd41a"
+    }
+  ]
+}

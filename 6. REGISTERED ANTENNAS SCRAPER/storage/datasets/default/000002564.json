@@ -1,0 +1,39 @@
+{
+  "antenna_id": "168027",
+  "address": "ΛΕΥΚΑ ΠΑΤΡΑΣ - ΦΙΛΙΟΥΡΑ",
+  "position_code": 1496081,
+  "municipality": "Πατρέων",
+  "code_name": "AGET_LEYKA_PATRA",
+  "region": "Δυτικής Ελλάδας",
+  "latitude": 38.205278,
+  "company": "OTE",
+  "longitude": 21.756667,
+  "permit_status": "Από τα στοιχεία που τηρούνται στην Ενημερωτική Πύλη προκύπτει ότι, για τη θέση \"ΛΕΥΚΑ ΠΑΤΡΑΣ - ΦΙΛΙΟΥΡΑ \" στον Δήμο Πατρέων Περιφέρειας  Δυτικής Ελλάδας \n\t(κωδικός αριθμός θέσης 1496081, κωδική ονομασία \"AGET_LEYKA_PATRA\") έχει κατατεθεί από την εταιρία OTE\tδήλωση εγκατάστασης κατασκευής κεραίας (αριθ. πρωτ. \n\t55477/04-04-2024) που εμπίπτει στις διατάξεις της νομοθεσίας για Εγκαταστάσεις Κατασκευών Κεραιών Χαμηλής Ηλεκτρομαγνητικής Περιβαλλοντικής Όχλησης (ΕΚΚΧΟ).",
+  "measurements_eaee": "-",
+  "documents": [
+    {
+      "document_number": "482706/20-04-2023",
+      "protocol_number": "ΦΩΤΟΓΡΑΦΙΑ/",
+      "type": "Φωτογραφικό Υλικό - Σκαρίφημα",
+      "file_url": "https://silia.eett.gr/silia/download/b8cea205-b8a4-432b-b7fc-846da203aa3d"
+    },
+    {
+      "document_number": "511889/02-04-2024",
+      "protocol_number": "ΜΕΛΕΤΗ/02-04-2024",
+      "type": "Αίτηση - Μελέτη Ραδιοεκπομπών ΕΕΑΕ",
+      "file_url": "https://silia.eett.gr/silia/download/sE00gDTMnXPWc10oQvaG83GDlbHDEO6syeQv"
+    },
+    {
+      "document_number": "512173/04-04-2024",
+      "protocol_number": "Αρχείο Αίτησης/04-04-2024",
+      "type": "Δήλωση ΕΚΚΧΟ",
+      "file_url": "https://silia.eett.gr/silia/download/a5TyLXm4WhFpN0m3u8dYY0bm5m9fcX9PMrdT"
+    },
+    {
+      "document_number": "528137/08-10-2024",
+      "protocol_number": "ΥΠ.ΔΗΛΩΣΗ/08-10-2024",
+      "type": "Άλλο",
+      "file_url": "https://silia.eett.gr/silia/download/lW0VmTcHHwcKiaxgWCAqvvDmGDERdgsgouYN"
+    }
+  ]
+}

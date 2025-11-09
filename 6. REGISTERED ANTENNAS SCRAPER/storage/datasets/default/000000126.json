@@ -1,0 +1,33 @@
+{
+  "antenna_id": "160253",
+  "address": "Λεωφόρος Μεσογείων 432, Αγ. Παρασκευή.",
+  "position_code": 1154432,
+  "municipality": "Αγίας Παρασκευής",
+  "code_name": "3024432 ERT RADIOMEGARO MESOGEION",
+  "region": "Αττικής",
+  "latitude": 38.012778,
+  "company": "VODAFONE",
+  "longitude": 23.825556,
+  "permit_status": "Από τα στοιχεία που τηρούνται στην Ενημερωτική Πύλη προκύπτει ότι, για τη θέση \"Λεωφόρος Μεσογείων 432, Αγ. Παρασκευή.\" στον Δήμο Αγίας Παρασκευής Περιφέρειας  Αττικής \n\t(κωδικός αριθμός θέσης 1154432, κωδική ονομασία \"3024432 ERT RADIOMEGARO MESOGEION\") έχει κατατεθεί από την εταιρία VODAFONE\tδήλωση εγκατάστασης κατασκευής κεραίας (αριθ. πρωτ. \n\t44637/16-09-2021) που εμπίπτει στις διατάξεις της νομοθεσίας για Εγκαταστάσεις Κατασκευών Κεραιών Χαμηλής Ηλεκτρομαγνητικής Περιβαλλοντικής Όχλησης (ΕΚΚΧΟ).",
+  "measurements_eaee": "-",
+  "documents": [
+    {
+      "document_number": "440871/15-09-2021",
+      "protocol_number": "ΦΩΤΟΓΡΑΦΙΑ ΘΕΣΗΣ ΙΣΤΟΥ ΕΚΚΧΟ /",
+      "type": "Φωτογραφικό Υλικό - Σκαρίφημα",
+      "file_url": "https://silia.eett.gr/silia/download/9561ff66-a094-4313-a826-71232f1fbfa0"
+    },
+    {
+      "document_number": "440910/16-09-2021",
+      "protocol_number": "ΣΚΑΡΙΦΗΜΑ ΘΕΣΗΣ ΙΣΤΟΥ ΕΚΚΧΟ /",
+      "type": "Φωτογραφικό Υλικό - Σκαρίφημα",
+      "file_url": "https://silia.eett.gr/silia/download/beac8f8f-ecd5-4281-98ca-b8fca51d9fd0"
+    },
+    {
+      "document_number": "440911/16-09-2021",
+      "protocol_number": "Αρχείο Αίτησης/",
+      "type": "Δήλωση ΕΚΚΧΟ",
+      "file_url": "https://silia.eett.gr/silia/download/f286be07-4cd9-4abe-af6b-cfe83fdc1637"
+    }
+  ]
+}

@@ -1,0 +1,123 @@
+{
+  "antenna_id": "166052",
+  "address": "'ΘΕΣΗ 'ΠΡΟΦΗΤΗΣ ΗΛΙΑΣ'",
+  "position_code": 1444002,
+  "municipality": "Ναυπλιέων",
+  "code_name": "NAFPLIO_X4",
+  "region": "Πελοποννήσου",
+  "latitude": 37.580833,
+  "company": "OTE",
+  "longitude": 22.812778,
+  "permit_status": "Από τα στοιχεία που τηρούνται στην Ενημερωτική Πύλη προκύπτει ότι, για τη θέση \"'ΘΕΣΗ 'ΠΡΟΦΗΤΗΣ ΗΛΙΑΣ'\" στον Δήμο Ναυπλιέων Περιφέρειας  Πελοποννήσου \n\t(κωδικός αριθμός θέσης 1444002, κωδική ονομασία \"NAFPLIO_X4\") χορηγήθηκε, με την Απόφαση της ΕΕΤΤ \n49554/25-10-2023, άδεια κατασκευής κεραίας στην εταιρία OTE. \nΑπό τo έγγραφο της άδειας μπορείτε να ενημερωθείτε για τις σχετικές εγκρίσεις των συναρμόδιων φορέων, καθώς και εάν πρόκειται για τροποποίηση παλαιότερης άδειας.\nΕπιπλέον, έχει υποβληθεί η με αριθ. πρωτ. ΣΗΛΥΑ 54373/15-01-2024 (Δήλωση Παρ. 1Γ, άρθρ. 28, ν. 4635/2019) δήλωση που αφορά σε τροποποίηση/επικαιροποίηση στοιχείων της κατασκευής κεραίας που αφορούν τον(ους) Τομέα(εις) Αδειοδότησης:Στέγαση, Έκταση.\n\tΔιευκρινίζεται ότι υπό ορισμένες προϋποθέσεις για την τροποποίηση αδειοδοτημένης κατασκευής κεραίας ή/και την επικαιροποίηση στοιχείων της δεν απαιτείται η έκδοση νέας άδειας \n\tκατασκευής κεραίας ή η τροποποίηση της υφιστάμενης άδειας κατασκευής κεραίας, αλλά απαιτείται η υποβολή κατάλληλης δήλωσης από τον κάτοχο της κατασκευής κεραίας συνοδευόμενη \n\tαπό επικαιροποίηση επιμέρους εγκρίσεων. \n\t \tΣύμφωνα με τα στοιχεία που έχουν υποβληθεί στο ΣΗΛΥΑ, ο κάτοχος της κατασκευής κεραίας έχει δηλώσει ότι θα προβεί σε έκδοση έγκρισης δομικών κατασκευών \n\t\tκεραίας μέσω του e-Άδειες \n\t\tμετά την έκδοση της άδειας κατασκευής κεραίας / δημοσιοποίηση της δήλωσης τροποποίησης της κατασκευής κεραίας",
+  "measurements_eaee": "-",
+  "documents": [
+    {
+      "document_number": "471791/03-11-2022",
+      "protocol_number": "ΜΕΣΩ ΣΗΛΥΑ    /",
+      "type": "Τοπογραφικό",
+      "file_url": "https://silia.eett.gr/silia/download/f1448fa8-f2d2-431e-90fa-201b40b05fcc"
+    },
+    {
+      "document_number": "471792/03-11-2022",
+      "protocol_number": "ΜΕΣΩ ΣΗΛΥΑ    /",
+      "type": "Αρχιτεκτονικά Σχέδια",
+      "file_url": "https://silia.eett.gr/silia/download/418bb0bb-8653-45bb-931a-90999766ed55"
+    },
+    {
+      "document_number": "471793/03-11-2022",
+      "protocol_number": "ΜΕΣΩ ΣΗΛΥΑ    /30-08-2022",
+      "type": "Αίτηση - Μελέτη Ραδιοεκπομπών ΕΕΑΕ",
+      "file_url": "https://silia.eett.gr/silia/download/0560f2a6-5ce8-4f91-b359-380f42c1fb37"
+    },
+    {
+      "document_number": "471794/03-11-2022",
+      "protocol_number": "ΥΔ ΣΥΝΕΓΚΑΤΑΣΤΑΣΗΣ VODAFONE/01-11-2022",
+      "type": "Άλλο",
+      "file_url": "https://silia.eett.gr/silia/download/68498aac-bda0-4dc6-8c5c-a08c13a60015"
+    },
+    {
+      "document_number": "471796/03-11-2022",
+      "protocol_number": "ΥΔ ΣΥΝΕΓΚΑΤΑΣΤΑΣΗΣ WIND/01-11-2022",
+      "type": "Άλλο",
+      "file_url": "https://silia.eett.gr/silia/download/dfc1090e-8684-46f2-95e5-faad74d9b5f6"
+    },
+    {
+      "document_number": "471799/03-11-2022",
+      "protocol_number": "ΥΔ ΣΥΝΕΓΚΑΤΑΣΤΑΣΗΣ ΟΤΕ/03-11-2022",
+      "type": "Άλλο",
+      "file_url": "https://silia.eett.gr/silia/download/5ede0430-8d2f-4b55-b8fe-39e00aa17e1e"
+    },
+    {
+      "document_number": "472467/14-11-2022",
+      "protocol_number": "ΥΔ ΔΙΑΣΥΝΔΕΣΗΣ WIND/11-11-2022",
+      "type": "Άλλο",
+      "file_url": "https://silia.eett.gr/silia/download/60e26736-427c-4d5a-9c1b-340d8f7fc089"
+    },
+    {
+      "document_number": "472468/14-11-2022",
+      "protocol_number": "Αρχείο Αίτησης/",
+      "type": "Αίτηση Άδειας Κατασκευής Κεραίας ΕΕΤΤ",
+      "file_url": "https://silia.eett.gr/silia/download/711d79fa-be5a-4429-a51e-b911989efa61"
+    },
+    {
+      "document_number": "473242/24-11-2022",
+      "protocol_number": "ΚΓ/Δ3/Δ/28903/24-11-2022",
+      "type": "Γνωμάτευση ΥΠΑ",
+      "file_url": "https://silia.eett.gr/silia/download/7465281c-a1bd-435f-93ee-148cbd1395ce"
+    },
+    {
+      "document_number": "479215/01-03-2023",
+      "protocol_number": "ΤΜΙΑ/411/2961/2023/01-03-2023",
+      "type": "Γνωμάτευση ΕΕΑΕ",
+      "file_url": "https://silia.eett.gr/silia/download/dd09cb49-75db-45b3-8725-b925ada8cc84"
+    },
+    {
+      "document_number": "496394/06-10-2023",
+      "protocol_number": "ΥΔ/",
+      "type": "Άλλο",
+      "file_url": "https://silia.eett.gr/silia/download/c49469b4-422b-4881-b690-4c8473c2e13d"
+    },
+    {
+      "document_number": "500858/20-11-2023",
+      "protocol_number": "49554/25-10-2023",
+      "type": "Άδεια Κατασκευής  Κεραίας",
+      "file_url": "https://silia.eett.gr/silia/download/6238e33f-474c-4b71-bbd8-8fc2844e4799"
+    },
+    {
+      "document_number": "471556/01-11-2022",
+      "protocol_number": "ΣΥΝΟΔΕΥΤΙΚΑ ΕΓΓΡΑΦΑ/",
+      "type": "Δήλωση υπαγωγής σε ΠΠΔ και Συνοδευτικά Έγγραφα",
+      "file_url": "https://silia.eett.gr/silia/download/d07d58ff-eb8d-4078-9f12-7f9e3a43b3cc"
+    },
+    {
+      "document_number": "472469/14-11-2022",
+      "protocol_number": "Αρχείο Αίτησης/",
+      "type": "Δήλωση ΠΠΔ",
+      "file_url": "https://silia.eett.gr/silia/download/d7c319a6-5aff-43c3-b3ad-80a157a3207d"
+    },
+    {
+      "document_number": "504723/15-01-2024",
+      "protocol_number": "ΜΕΣΩ ΣΗΛΥΑ/",
+      "type": "Τοπογραφικό",
+      "file_url": "https://silia.eett.gr/silia/download/c1c364c0-d743-491e-b260-2aa69611bab4"
+    },
+    {
+      "document_number": "504724/15-01-2024",
+      "protocol_number": "ΜΕΣΩ ΣΗΛΥΑ/",
+      "type": "Αρχιτεκτονικά Σχέδια",
+      "file_url": "https://silia.eett.gr/silia/download/6ce7909e-3e0f-48f7-9e87-d8b9a3ea825c"
+    },
+    {
+      "document_number": "504730/15-01-2024",
+      "protocol_number": "ΑΝΑΚΟΙΝΩΣΗ ΚΑΤΑΧΩΡΗΣΗΣ ΓΕΜΗ 3189349/",
+      "type": "Άλλο",
+      "file_url": "https://silia.eett.gr/silia/download/181757b8-022d-471b-aaca-1ad1dc5b8375"
+    },
+    {
+      "document_number": "504731/15-01-2024",
+      "protocol_number": "Αρχείο Αίτησης/",
+      "type": "Δήλωση ΔΤΚΚ",
+      "file_url": "https://silia.eett.gr/silia/download/65cbad26-088e-43fe-8103-9e0f4306ec41"
+    }
+  ]
+}

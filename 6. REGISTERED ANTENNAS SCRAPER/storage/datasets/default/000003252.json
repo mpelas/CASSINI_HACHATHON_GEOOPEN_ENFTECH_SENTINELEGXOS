@@ -1,0 +1,45 @@
+{
+  "antenna_id": "159602",
+  "address": "ΑΕΡΟΔΡΟΜΙΟ ΣΚΥΡΟΥ",
+  "position_code": 1403355,
+  "municipality": "Σκύρου",
+  "code_name": "SKYROS AIRP",
+  "region": "Στερεάς Ελλάδας",
+  "latitude": 38.974444,
+  "company": "OTE",
+  "longitude": 24.489167,
+  "permit_status": "Από τα στοιχεία που τηρούνται στην Ενημερωτική Πύλη προκύπτει ότι, για τη θέση \"ΑΕΡΟΔΡΟΜΙΟ ΣΚΥΡΟΥ\" στον Δήμο Σκύρου Περιφέρειας  Στερεάς Ελλάδας \n\t(κωδικός αριθμός θέσης 1403355, κωδική ονομασία \"SKYROS AIRP\") έχει κατατεθεί από την εταιρία OTE\tδήλωση εγκατάστασης κατασκευής κεραίας (αριθ. πρωτ. \n\t44301/19-07-2021) που εμπίπτει στις διατάξεις της νομοθεσίας για Εγκαταστάσεις Κατασκευών Κεραιών Χαμηλής Ηλεκτρομαγνητικής Περιβαλλοντικής Όχλησης (ΕΚΚΧΟ).",
+  "measurements_eaee": "-",
+  "documents": [
+    {
+      "document_number": "436862/24-06-2021",
+      "protocol_number": "ΣΚΑΡΙΦΗΜΑ/",
+      "type": "Φωτογραφικό Υλικό - Σκαρίφημα",
+      "file_url": "https://silia.eett.gr/silia/download/daeb66c6-9dd0-43f8-bbe2-e0ada6cd28e9"
+    },
+    {
+      "document_number": "438737/19-07-2021",
+      "protocol_number": "ΔΗΛΩΣΗ ΜΟΔ/19-07-2021",
+      "type": "Άλλο",
+      "file_url": "https://silia.eett.gr/silia/download/36ce4a83-42d0-4991-a2f4-7ac5ef51b290"
+    },
+    {
+      "document_number": "438738/19-07-2021",
+      "protocol_number": "Αρχείο Αίτησης/",
+      "type": "Δήλωση ΕΚΚΧΟ",
+      "file_url": "https://silia.eett.gr/silia/download/338e99ae-4db3-42a4-9a00-dbc78bd0b434"
+    },
+    {
+      "document_number": "442897/05-10-2021",
+      "protocol_number": "Κ.Γ./ΔΤΥ/Γ/34227/05-10-2021",
+      "type": "Άλλο",
+      "file_url": "https://silia.eett.gr/silia/download/eb1356c1-0faf-4431-9431-2a6a55def3e7"
+    },
+    {
+      "document_number": "488301/19-06-2023",
+      "protocol_number": "Φ.550/ΑΔ.921/Σ260/10-02-2017",
+      "type": "Γνωμάτευση ΓΕΑ",
+      "file_url": "https://silia.eett.gr/silia/download/f6ec6c16-2b41-4e92-a94a-3165068f56f1"
+    }
+  ]
+}

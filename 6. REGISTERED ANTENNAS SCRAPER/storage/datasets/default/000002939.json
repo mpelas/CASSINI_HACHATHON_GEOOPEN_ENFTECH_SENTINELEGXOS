@@ -1,0 +1,33 @@
+{
+  "antenna_id": "173195",
+  "address": "ΕΡΥΘΡΟΥ ΣΤΑΥΡΟΥ, Δ. ΠΥΛΑΙΑΣ, Ν. ΘΕΣΣΑΛΟΝΙΚΗΣ\t55535",
+  "position_code": 1496669,
+  "municipality": "Πυλαίας - Χορτιάτη",
+  "code_name": "THEMA_THES",
+  "region": "Κεντρικής Μακεδονίας",
+  "latitude": 40.583333,
+  "company": "OTE",
+  "longitude": 22.970278,
+  "permit_status": "Από τα στοιχεία που τηρούνται στην Ενημερωτική Πύλη προκύπτει ότι, για τη θέση \"ΕΡΥΘΡΟΥ ΣΤΑΥΡΟΥ, Δ. ΠΥΛΑΙΑΣ, Ν. ΘΕΣΣΑΛΟΝΙΚΗΣ\t55535\" στον Δήμο Πυλαίας - Χορτιάτη Περιφέρειας  Κεντρικής Μακεδονίας \n\t(κωδικός αριθμός θέσης 1496669, κωδική ονομασία \"THEMA_THES\") έχει κατατεθεί από την εταιρία OTE\tδήλωση εγκατάστασης κατασκευής κεραίας (αριθ. πρωτ. \n\t57683/08-10-2024) που εμπίπτει στις διατάξεις της νομοθεσίας για Εγκαταστάσεις Κατασκευών Κεραιών Χαμηλής Ηλεκτρομαγνητικής Περιβαλλοντικής Όχλησης (ΕΚΚΧΟ).",
+  "measurements_eaee": "-",
+  "documents": [
+    {
+      "document_number": "513358/18-04-2024",
+      "protocol_number": "ΦΩΤΟΓΡΑΦΙΑ/18-04-2024",
+      "type": "Φωτογραφικό Υλικό - Σκαρίφημα",
+      "file_url": "https://silia.eett.gr/silia/download/WFZLpl6QshDuDAHrEGCmxUFmB0WRgbFoNrl0"
+    },
+    {
+      "document_number": "528090/07-10-2024",
+      "protocol_number": "ΜΕΛΕΤΗ/07-10-2024",
+      "type": "Αίτηση - Μελέτη Ραδιοεκπομπών ΕΕΑΕ",
+      "file_url": "https://silia.eett.gr/silia/download/3qKlso4VpUt31KfVsLAsdel6SLC98DgO7ZrE"
+    },
+    {
+      "document_number": "528203/08-10-2024",
+      "protocol_number": "Αρχείο Αίτησης/08-10-2024",
+      "type": "Δήλωση ΕΚΚΧΟ",
+      "file_url": "https://silia.eett.gr/silia/download/mxdhx5ZqIEEUrs20WUWH7h91UxaQIDOaisqs"
+    }
+  ]
+}

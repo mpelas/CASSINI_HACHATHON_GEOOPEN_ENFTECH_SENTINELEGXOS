@@ -1,0 +1,45 @@
+{
+  "antenna_id": "171958",
+  "address": "Smart Park , Ε. Πουλάκη Σπάτα.",
+  "position_code": 1151248,
+  "municipality": "Σπάτων - Αρτέμιδος",
+  "code_name": "3031248 HONDOS CENTER SPATA",
+  "region": "Αττικής",
+  "latitude": 37.985,
+  "company": "VODAFONE",
+  "longitude": 23.915,
+  "permit_status": "Από τα στοιχεία που τηρούνται στην Ενημερωτική Πύλη προκύπτει ότι, για τη θέση \"Smart Park , Ε. Πουλάκη Σπάτα.\" στον Δήμο Σπάτων - Αρτέμιδος Περιφέρειας  Αττικής \n\t(κωδικός αριθμός θέσης 1151248, κωδική ονομασία \"3031248 HONDOS CENTER SPATA\") έχει κατατεθεί από την εταιρία VODAFONE\tδήλωση εγκατάστασης κατασκευής κεραίας (αριθ. πρωτ. \n\t54567/31-01-2024) που εμπίπτει στις διατάξεις της νομοθεσίας για Εγκαταστάσεις Κατασκευών Κεραιών Χαμηλής Ηλεκτρομαγνητικής Περιβαλλοντικής Όχλησης (ΕΚΚΧΟ).",
+  "measurements_eaee": "-",
+  "documents": [
+    {
+      "document_number": "506197/31-01-2024",
+      "protocol_number": "Φωτορεαλιστική απεικόνιση κεραιας  ΕΚΚΧΟ/",
+      "type": "Φωτογραφικό Υλικό - Σκαρίφημα",
+      "file_url": "https://silia.eett.gr/silia/download/770180cf-84bf-457f-87c9-423a35f06050"
+    },
+    {
+      "document_number": "506198/31-01-2024",
+      "protocol_number": "Ψηφιακός Χάρτης με προβολή της θέσης της κεραίας ΕΚΚΧΟ/",
+      "type": "Φωτογραφικό Υλικό - Σκαρίφημα",
+      "file_url": "https://silia.eett.gr/silia/download/0b4ccec1-c592-421a-a819-0580487663e6"
+    },
+    {
+      "document_number": "506199/31-01-2024",
+      "protocol_number": "Μελέτη ΕΚΚΧΟ/31-01-2024",
+      "type": "Άλλο",
+      "file_url": "https://silia.eett.gr/silia/download/5dc92d4c-1e98-4e85-8e05-0d99e96a658a"
+    },
+    {
+      "document_number": "506200/31-01-2024",
+      "protocol_number": "Αρχείο Αίτησης/",
+      "type": "Δήλωση ΕΚΚΧΟ",
+      "file_url": "https://silia.eett.gr/silia/download/1d339342-bab7-4a32-9049-71b3f28382a8"
+    },
+    {
+      "document_number": "512023/03-04-2024",
+      "protocol_number": "ΥΔ Εγκατάστασης/03-04-2024",
+      "type": "Άλλο",
+      "file_url": "https://silia.eett.gr/silia/download/ZZ8cfWQbNBnsKc4UNoZBUxv9hpwgGvSX4Nke"
+    }
+  ]
+}

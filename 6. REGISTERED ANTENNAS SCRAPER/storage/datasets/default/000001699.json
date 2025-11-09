@@ -1,0 +1,39 @@
+{
+  "antenna_id": "140716",
+  "address": "ΓΡΗΓΟΡΙΟΥ ΑΥΞΕΝΤΙΟΥ 75,ΑΝΩ  ΙΛΙΣΙΑ, ΑΘΗΝΑ",
+  "position_code": 1290038,
+  "municipality": "Ζωγράφου",
+  "code_name": "GRIGORIOU AFXENTIOU MICRO",
+  "region": "Αττικής",
+  "latitude": 37.974722,
+  "company": "NOVA Μ.Α.Ε.",
+  "longitude": 23.766667,
+  "permit_status": "Από τα στοιχεία που τηρούνται στην Ενημερωτική Πύλη προκύπτει ότι, για τη θέση \"ΓΡΗΓΟΡΙΟΥ ΑΥΞΕΝΤΙΟΥ 75,ΑΝΩ  ΙΛΙΣΙΑ, ΑΘΗΝΑ\" στον Δήμο Ζωγράφου Περιφέρειας  Αττικής \n\t(κωδικός αριθμός θέσης 1290038, κωδική ονομασία \"GRIGORIOU AFXENTIOU MICRO\") έχει κατατεθεί από την εταιρία NOVA Μ.Α.Ε.\tδήλωση εγκατάστασης κατασκευής κεραίας (αριθ. πρωτ. \n\t31432/05-02-2019) που εμπίπτει στις διατάξεις της νομοθεσίας για Εγκαταστάσεις Κατασκευών Κεραιών Χαμηλής Ηλεκτρομαγνητικής Περιβαλλοντικής Όχλησης (ΕΚΚΧΟ).",
+  "measurements_eaee": "-",
+  "documents": [
+    {
+      "document_number": "356364/04-02-2019",
+      "protocol_number": "ΣΚΑΡΙΦΗΜΑ ΚΕΡΑΙΩΝ ΕΚΚΧΟ/",
+      "type": "Φωτογραφικό Υλικό - Σκαρίφημα",
+      "file_url": "https://silia.eett.gr/silia/download/8543ebc5-5ff5-48f5-89c5-b49974b37d28"
+    },
+    {
+      "document_number": "356365/04-02-2019",
+      "protocol_number": "ΣΚΑΡΙΦΗΜΑ ΚΕΡΑΙΩΝ ΕΚΚΧΟ/",
+      "type": "Φωτογραφικό Υλικό - Σκαρίφημα",
+      "file_url": "https://silia.eett.gr/silia/download/803d5d7b-5724-427c-9282-079bc6410879"
+    },
+    {
+      "document_number": "356492/05-02-2019",
+      "protocol_number": "ΜΕΛΕΤΗ ΣΥΜΒΑΤΟΤΗΤΑΣ ΣΤΑΘΜΟΥ/",
+      "type": "Μελέτη για τη ζώνη  2,6GHz",
+      "file_url": "https://silia.eett.gr/silia/download/fb6f52fe-403a-421e-8847-f30989c57e8e"
+    },
+    {
+      "document_number": "356496/05-02-2019",
+      "protocol_number": "Αρχείο Αίτησης/",
+      "type": "Δήλωση ΕΚΚΧΟ",
+      "file_url": "https://silia.eett.gr/silia/download/daf27324-e0b3-4657-a11b-b58c786cfd9b"
+    }
+  ]
+}

@@ -1,0 +1,51 @@
+{
+  "antenna_id": "176363",
+  "address": "Μετρό ΑΓΙΟΥ ΔΗΜΗΤΡΙΟΥ",
+  "position_code": 1423381,
+  "municipality": "Αγίου Δημητρίου",
+  "code_name": "METRO_AGDIMITRIOS2",
+  "region": "Αττικής",
+  "latitude": 37.94,
+  "company": "OTE",
+  "longitude": 23.740833,
+  "permit_status": "Από τα στοιχεία που τηρούνται στην Ενημερωτική Πύλη προκύπτει ότι, για τη θέση \"Μετρό ΑΓΙΟΥ ΔΗΜΗΤΡΙΟΥ\" στον Δήμο Αγίου Δημητρίου Περιφέρειας  Αττικής \n\t(κωδικός αριθμός θέσης 1423381, κωδική ονομασία \"METRO_AGDIMITRIOS2\") έχει κατατεθεί από την εταιρία OTE\tδήλωση εγκατάστασης κατασκευής κεραίας (αριθ. πρωτ. 58421/21-11-2024) που εμπίπτει στις διατάξεις της νομοθεσίας\n\t για σημεία ασύρματης πρόσβασης μικρής εμβέλειας (ΣΑΠΜΕ) κατηγορίας εγκατάστασης E10.",
+  "measurements_eaee": "-",
+  "documents": [
+    {
+      "document_number": "532588/15-11-2024",
+      "protocol_number": "ΧΑΡΤΗΣ/15-11-2024",
+      "type": "Φωτογραφικό Υλικό - Σκαρίφημα",
+      "file_url": "https://silia.eett.gr/silia/download/MKibgHm6GWknLgE6sQf8tqguEzmwCBSUGc7a"
+    },
+    {
+      "document_number": "532589/15-11-2024",
+      "protocol_number": "ΦΩΤΟΓΡΑΦΙΑ/15-11-2024",
+      "type": "Φωτογραφικό Υλικό - Σκαρίφημα",
+      "file_url": "https://silia.eett.gr/silia/download/rLCvESckHHgYf36FLiHAi43oTPyOyn5CPyt0"
+    },
+    {
+      "document_number": "532606/15-11-2024",
+      "protocol_number": "ΥΔ κοινής χρήσης NOVA/15-11-2024/15-11-2024",
+      "type": "Άλλο",
+      "file_url": "https://silia.eett.gr/silia/download/NCrCx2RblXE30GasnbXokbXOuGgIdDZkgAF4"
+    },
+    {
+      "document_number": "532893/19-11-2024",
+      "protocol_number": "ΥΔ κοινής χρήσης VODAFONE/19-11-2024/19-11-2024",
+      "type": "Άλλο",
+      "file_url": "https://silia.eett.gr/silia/download/OAqbquMTeFfbdh29UWLFacmTsrr9xSzY3QtG"
+    },
+    {
+      "document_number": "533287/21-11-2024",
+      "protocol_number": "Αρχείο Αίτησης/21-11-2024",
+      "type": "Δήλωση ΣΑΠΜΕ",
+      "file_url": "https://silia.eett.gr/silia/download/zl6k8kmrAiNCCn89HOWb8FLzMpYGmdH4WRBp"
+    },
+    {
+      "document_number": "534412/02-12-2024",
+      "protocol_number": "ΥΠ.ΔΗΛΩΣΗ/02-12-2024",
+      "type": "Άλλο",
+      "file_url": "https://silia.eett.gr/silia/download/sGd4McVQI2uIF7uue9xQoHXkemKe6rn6gSZG"
+    }
+  ]
+}

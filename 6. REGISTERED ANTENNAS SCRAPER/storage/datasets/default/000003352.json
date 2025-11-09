@@ -1,0 +1,45 @@
+{
+  "antenna_id": "167668",
+  "address": "ΝΕΑ ΣΠΑΡΤΙΑ",
+  "position_code": 1498606,
+  "municipality": "Στυλίδας",
+  "code_name": "NEA_SPARTIA_TK",
+  "region": "Στερεάς Ελλάδας",
+  "latitude": 38.920833,
+  "company": "OTE",
+  "longitude": 22.805,
+  "permit_status": "Από τα στοιχεία που τηρούνται στην Ενημερωτική Πύλη προκύπτει ότι, για τη θέση \"ΝΕΑ ΣΠΑΡΤΙΑ\" στον Δήμο Στυλίδας Περιφέρειας  Στερεάς Ελλάδας \n\t(κωδικός αριθμός θέσης 1498606, κωδική ονομασία \"NEA_SPARTIA_TK\") έχει κατατεθεί από την εταιρία OTE\tδήλωση εγκατάστασης κατασκευής κεραίας (αριθ. πρωτ. \n\t51382/24-04-2023) που εμπίπτει στις διατάξεις της νομοθεσίας για Εγκαταστάσεις Κατασκευών Κεραιών Χαμηλής Ηλεκτρομαγνητικής Περιβαλλοντικής Όχλησης (ΕΚΚΧΟ).",
+  "measurements_eaee": "-",
+  "documents": [
+    {
+      "document_number": "480876/23-03-2023",
+      "protocol_number": "ΦΩΤΟΓΡΑΦΙΑ/",
+      "type": "Φωτογραφικό Υλικό - Σκαρίφημα",
+      "file_url": "https://silia.eett.gr/silia/download/dd9c8e60-2ad4-453c-8cc3-e830e7ce2186"
+    },
+    {
+      "document_number": "480877/23-03-2023",
+      "protocol_number": "ΦΩΤΟΓΡΑΦΙΑ/",
+      "type": "Φωτογραφικό Υλικό - Σκαρίφημα",
+      "file_url": "https://silia.eett.gr/silia/download/6aed1af3-32de-4520-b6de-d0806ca91b3f"
+    },
+    {
+      "document_number": "482910/24-04-2023",
+      "protocol_number": "ΜΕΣΩ ΣΗΛΥΑ/",
+      "type": "Αίτηση - Μελέτη Ραδιοεκπομπών ΕΕΑΕ",
+      "file_url": "https://silia.eett.gr/silia/download/044d1413-c9b7-48d3-852e-08e0f9c02554"
+    },
+    {
+      "document_number": "482962/24-04-2023",
+      "protocol_number": "Αρχείο Αίτησης/",
+      "type": "Δήλωση ΕΚΚΧΟ",
+      "file_url": "https://silia.eett.gr/silia/download/ef8e0c80-9e65-4210-8a8c-650abbc40fb8"
+    },
+    {
+      "document_number": "527087/27-09-2024",
+      "protocol_number": "ΥΠ.ΔΗΛΩΣΗ/27-09-2024",
+      "type": "Άλλο",
+      "file_url": "https://silia.eett.gr/silia/download/pqO3ANB8CcxU9AgniSgB19klT8okY5aZh2Cy"
+    }
+  ]
+}

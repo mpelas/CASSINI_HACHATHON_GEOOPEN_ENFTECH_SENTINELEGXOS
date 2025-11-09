@@ -1,0 +1,99 @@
+{
+  "antenna_id": "155245",
+  "address": "ΚΤΙΡΙΟ ΟΤΕ ΕΜΠΕΔΟΚΛΕΟΥΣ & Ν. ΙΩΝΙΑΣ",
+  "position_code": 1400403,
+  "municipality": "Βύρωνος",
+  "code_name": "ΒΥΡΩΝΑΣ Β",
+  "region": "Αττικής",
+  "latitude": 37.961389,
+  "company": "OTE",
+  "longitude": 23.746667,
+  "permit_status": "Από τα στοιχεία που τηρούνται στην Ενημερωτική Πύλη προκύπτει ότι, για τη θέση \"ΚΤΙΡΙΟ ΟΤΕ ΕΜΠΕΔΟΚΛΕΟΥΣ & Ν. ΙΩΝΙΑΣ\" στον Δήμο Βύρωνος Περιφέρειας  Αττικής \n\t(κωδικός αριθμός θέσης 1400403, κωδική ονομασία \"ΒΥΡΩΝΑΣ Β\") χορηγήθηκε, με την Απόφαση της ΕΕΤΤ \n38479/27-11-2020, άδεια κατασκευής κεραίας στην εταιρία OTE. \nΑπό τo έγγραφο της άδειας μπορείτε να ενημερωθείτε για τις σχετικές εγκρίσεις των συναρμόδιων φορέων, καθώς και εάν πρόκειται για τροποποίηση παλαιότερης άδειας.",
+  "measurements_eaee": "-",
+  "documents": [
+    {
+      "document_number": "412043/29-06-2020",
+      "protocol_number": "ΜΕΣΩ ΣΗΛΥΑ/",
+      "type": "Τοπογραφικό",
+      "file_url": "https://silia.eett.gr/silia/download/87080d02-b89f-4cea-8657-18d5ba9c62d9"
+    },
+    {
+      "document_number": "412045/29-06-2020",
+      "protocol_number": "Δ3/Δ/52551/8292/11-12-1998",
+      "type": "Γνωμάτευση ΥΠΑ",
+      "file_url": "https://silia.eett.gr/silia/download/7aa0cc10-d6b2-4792-83de-eea76b813182"
+    },
+    {
+      "document_number": "412046/29-06-2020",
+      "protocol_number": "ΜΕΣΩ ΣΗΛΥΑ/29-06-2020",
+      "type": "Γνωμάτευση ΥΠΑ",
+      "file_url": "https://silia.eett.gr/silia/download/d4c9511f-0888-4e98-a18a-9ebe9da2f054"
+    },
+    {
+      "document_number": "412047/29-06-2020",
+      "protocol_number": "ΜΕΛΕΤΗ  EMC/23-06-2020",
+      "type": "Αποτελέσματα μελέτης στη ζώνης 2.6GHz για ΥΠΑ/ΓΕΕΘΑ",
+      "file_url": "https://silia.eett.gr/silia/download/d8a59b92-fd18-4b42-9ec4-07e6ba188895"
+    },
+    {
+      "document_number": "412048/29-06-2020",
+      "protocol_number": "ΜΕΣΩ ΣΗΛΥΑ/13-04-2020",
+      "type": "Αίτηση - Μελέτη Ραδιοεκπομπών ΕΕΑΕ",
+      "file_url": "https://silia.eett.gr/silia/download/a05b654f-8647-438f-9b6f-656ac4495e91"
+    },
+    {
+      "document_number": "412049/29-06-2020",
+      "protocol_number": "40545/24-06-2020",
+      "type": "Επιστολή Ενημέρωσης προς Αρμόδιο Φορέα",
+      "file_url": "https://silia.eett.gr/silia/download/f6ead398-b6ac-4cf8-b6bd-42ad8244e1a6"
+    },
+    {
+      "document_number": "412050/29-06-2020",
+      "protocol_number": "ΥΠ.ΔΗΛΩΣΗ ΣΥΝΕΓΚΑΤΑΣΤΑΣΗΣ ΟΤΕ/29-06-2020",
+      "type": "Άλλο",
+      "file_url": "https://silia.eett.gr/silia/download/7b40afb6-912f-4e74-8fa5-f719d48a3f82"
+    },
+    {
+      "document_number": "412131/30-06-2020",
+      "protocol_number": "ΜΕΣΩ ΣΗΛΥΑ    /",
+      "type": "Αρχιτεκτονικά Σχέδια",
+      "file_url": "https://silia.eett.gr/silia/download/3889948f-1482-4f10-a963-1b99490830c6"
+    },
+    {
+      "document_number": "414144/28-07-2020",
+      "protocol_number": "Αρχείο Αίτησης/",
+      "type": "Αίτηση Άδειας Κατασκευής Κεραίας ΕΕΤΤ",
+      "file_url": "https://silia.eett.gr/silia/download/ffd5edf1-42dc-4468-9dcb-e090066755c1"
+    },
+    {
+      "document_number": "418192/06-10-2020",
+      "protocol_number": "Δ3/Δ/33275/06-10-2020/06-10-2020",
+      "type": "Γνωμάτευση ΥΠΑ",
+      "file_url": "https://silia.eett.gr/silia/download/1f1ae772-c19a-4812-bf76-a68482de337e"
+    },
+    {
+      "document_number": "420637/02-11-2020",
+      "protocol_number": "Μ.ι./411/13832/2020/29-10-2020",
+      "type": "Γνωμάτευση ΕΕΑΕ",
+      "file_url": "https://silia.eett.gr/silia/download/76c4957d-ff1e-4381-8011-43b016c9ac87"
+    },
+    {
+      "document_number": "424565/09-12-2020",
+      "protocol_number": "38479/27-11-2020",
+      "type": "Άδεια Κατασκευής  Κεραίας",
+      "file_url": "https://silia.eett.gr/silia/download/0d38f490-d6df-4b3f-a826-2e44300000df"
+    },
+    {
+      "document_number": "412051/29-06-2020",
+      "protocol_number": "ΜΕΣΩ ΣΗΛΥΑ/",
+      "type": "Δήλωση υπαγωγής σε ΠΠΔ και Συνοδευτικά Έγγραφα",
+      "file_url": "https://silia.eett.gr/silia/download/1f254151-cd25-42b3-bc88-94c3086e0b37"
+    },
+    {
+      "document_number": "414145/28-07-2020",
+      "protocol_number": "Αρχείο Αίτησης/",
+      "type": "Δήλωση ΠΠΔ",
+      "file_url": "https://silia.eett.gr/silia/download/e3270097-caeb-43e3-81f5-27e769a0e769"
+    }
+  ]
+}

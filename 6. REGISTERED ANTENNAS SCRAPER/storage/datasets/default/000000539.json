@@ -1,0 +1,39 @@
+{
+  "antenna_id": "113841",
+  "address": "ΣΤΟΥΝΤΙΟΥ 10-12, ΜΑΡΟΥΣΙ.",
+  "position_code": 1197320,
+  "municipality": "Αμαρουσίου",
+  "code_name": "EXTRA MAROUSI",
+  "region": "Αττικής",
+  "latitude": 38.050833,
+  "company": "VODAFONE",
+  "longitude": 23.825,
+  "permit_status": "Από τα στοιχεία που τηρούνται στην Ενημερωτική Πύλη προκύπτει ότι, για τη θέση \"ΣΤΟΥΝΤΙΟΥ 10-12, ΜΑΡΟΥΣΙ.\" στον Δήμο Αμαρουσίου Περιφέρειας  Αττικής \n\t(κωδικός αριθμός θέσης 1197320, κωδική ονομασία \"EXTRA MAROUSI\") έχει κατατεθεί από την εταιρία VODAFONE\tδήλωση εγκατάστασης κατασκευής κεραίας (αριθ. πρωτ. \n\t12858/29-09-2015) που εμπίπτει στις διατάξεις της νομοθεσίας για Εγκαταστάσεις Κατασκευών Κεραιών Χαμηλής Ηλεκτρομαγνητικής Περιβαλλοντικής Όχλησης (ΕΚΚΧΟ).",
+  "measurements_eaee": "-",
+  "documents": [
+    {
+      "document_number": "232087/29-09-2015",
+      "protocol_number": "ΦΩΤΟΓΡΑΦΙΑ ΘΕΣΗΣ ΚΕΡΑΙΑΣ 1/",
+      "type": "Φωτογραφικό Υλικό - Σκαρίφημα",
+      "file_url": "https://silia.eett.gr/silia/download/574e77ba-5499-4a9f-9d85-26beedbeb24a"
+    },
+    {
+      "document_number": "232088/29-09-2015",
+      "protocol_number": "ΦΩΤΟΓΡΑΦΙΑ ΘΕΣΗΣ ΚΕΡΑΙΑΣ 2/",
+      "type": "Φωτογραφικό Υλικό - Σκαρίφημα",
+      "file_url": "https://silia.eett.gr/silia/download/475feb46-f80b-499b-b240-22debaeb2874"
+    },
+    {
+      "document_number": "232089/29-09-2015",
+      "protocol_number": "ΦΩΤΟΓΡΑΦΙΑ ΘΕΣΗΣ ΚΕΡΑΙΑΣ 3/",
+      "type": "Φωτογραφικό Υλικό - Σκαρίφημα",
+      "file_url": "https://silia.eett.gr/silia/download/30747eea-a488-488c-a1c2-26fa08cda632"
+    },
+    {
+      "document_number": "232090/29-09-2015",
+      "protocol_number": "Αρχείο Αίτησης/",
+      "type": "Δήλωση ΕΚΚΧΟ",
+      "file_url": "https://silia.eett.gr/silia/download/ef488a3e-1297-48b0-88eb-92c1035aa0e0"
+    }
+  ]
+}

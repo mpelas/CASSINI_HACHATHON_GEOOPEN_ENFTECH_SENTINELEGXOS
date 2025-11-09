@@ -1,0 +1,69 @@
+{
+  "antenna_id": "172614",
+  "address": "ΔΙΕΘΝΗΣ ΑΕΡΟΛΙΜΕΝΑΣ ΑΘΗΝΩΝ , ΚΤΗΡΙΟ 45",
+  "position_code": 1442505,
+  "municipality": "Σπάτων - Αρτέμιδος",
+  "code_name": "B45_AIA",
+  "region": "Αττικής",
+  "latitude": 37.958889,
+  "company": "OTE",
+  "longitude": 23.947222,
+  "permit_status": "Από τα στοιχεία που τηρούνται στην Ενημερωτική Πύλη προκύπτει ότι, για τη θέση \"ΔΙΕΘΝΗΣ ΑΕΡΟΛΙΜΕΝΑΣ ΑΘΗΝΩΝ , ΚΤΗΡΙΟ 45\" στον Δήμο Σπάτων - Αρτέμιδος Περιφέρειας  Αττικής \n\t(κωδικός αριθμός θέσης 1442505, κωδική ονομασία \"B45_AIA\") έχει κατατεθεί από την εταιρία OTE\tδήλωση εγκατάστασης κατασκευής κεραίας (αριθ. πρωτ. \n\t55249/21-03-2024) που εμπίπτει στις διατάξεις της νομοθεσίας για Εγκαταστάσεις Κατασκευών Κεραιών Χαμηλής Ηλεκτρομαγνητικής Περιβαλλοντικής Όχλησης (ΕΚΚΧΟ).",
+  "measurements_eaee": "-",
+  "documents": [
+    {
+      "document_number": "510002/13-03-2024",
+      "protocol_number": "ΜΕΛΕΤΗ/13-03-2024",
+      "type": "Αίτηση - Μελέτη Ραδιοεκπομπών ΕΕΑΕ",
+      "file_url": "https://silia.eett.gr/silia/download/SPLXZpg5LVgUDZdNTsrUfumNLBglMYSsmsGe"
+    },
+    {
+      "document_number": "510003/13-03-2024",
+      "protocol_number": "ΜΕΛΕΤΗ EMC/13-03-2024",
+      "type": "Αποτελέσματα μελέτης στη ζώνης 2.6GHz για ΥΠΑ/ΓΕΕΘΑ",
+      "file_url": "https://silia.eett.gr/silia/download/xFIAge2HvHUtGyXrNo7LggauZxoTOlq1kym6"
+    },
+    {
+      "document_number": "510004/13-03-2024",
+      "protocol_number": "ΦΩΤΟΓΡΑΦΙΑ/13-03-2024",
+      "type": "Φωτογραφικό Υλικό - Σκαρίφημα",
+      "file_url": "https://silia.eett.gr/silia/download/FpwqE9XBeBdCYgfAk9ycTFYbVdDM4MhWQ0nY"
+    },
+    {
+      "document_number": "510005/13-03-2024",
+      "protocol_number": "ΦΩΤΟΓΡΑΦΙΑ1/13-03-2024",
+      "type": "Φωτογραφικό Υλικό - Σκαρίφημα",
+      "file_url": "https://silia.eett.gr/silia/download/a15xswbKKKoGhp486aeStTu83p7DtVZNH71F"
+    },
+    {
+      "document_number": "510006/13-03-2024",
+      "protocol_number": "ΚΑΤΟΨΗ/13-03-2024",
+      "type": "Αρχιτεκτονικά [Κάτοψη - Τομή - Όψη]",
+      "file_url": "https://silia.eett.gr/silia/download/ABoffvMWC8onTuNPNkgDcL67DGoz7e6neHMI"
+    },
+    {
+      "document_number": "510007/13-03-2024",
+      "protocol_number": "ΤΟΜΗ/13-03-2024",
+      "type": "Αρχιτεκτονικά [Κάτοψη - Τομή - Όψη]",
+      "file_url": "https://silia.eett.gr/silia/download/ySb7GVMSRaoFDHomlA8rPB8TQ8sDoYn3K7KP"
+    },
+    {
+      "document_number": "510688/21-03-2024",
+      "protocol_number": "ΔΗΛΩΣΗ ΜΟΔ/21-03-2024",
+      "type": "Άλλο",
+      "file_url": "https://silia.eett.gr/silia/download/ycdWNTT9NsfASGBZdnBkXv3IRM5gvi3oIq4e"
+    },
+    {
+      "document_number": "510690/21-03-2024",
+      "protocol_number": "Αρχείο Αίτησης/21-03-2024",
+      "type": "Δήλωση ΕΚΚΧΟ",
+      "file_url": "https://silia.eett.gr/silia/download/qZ72lADiGcHhP7fMKcVlDEppIorbn0EX4Akw"
+    },
+    {
+      "document_number": "518404/20-06-2024",
+      "protocol_number": "ΥΠ.ΔΗΛΩΣΗ/20-06-2024",
+      "type": "Άλλο",
+      "file_url": "https://silia.eett.gr/silia/download/ZFCQvuSgwb274vgMYngPXAWQFb7gxHYgdYVQ"
+    }
+  ]
+}

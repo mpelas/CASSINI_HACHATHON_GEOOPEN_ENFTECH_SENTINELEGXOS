@@ -1,0 +1,39 @@
+{
+  "antenna_id": "152534",
+  "address": "ΘΕΟΔΩΡΙΑΝΑ ΔΗΜΟΣ ΓΕΩΡΓΙΟΥ ΚΑΡΑΪΣΚΑΚΗ ΠΕΡ. ΗΠΕΙΡΟΥ",
+  "position_code": 3207208,
+  "municipality": "Γεωργίου Καραϊσκάκη",
+  "code_name": "ΠΗΓΕΣ-Δ",
+  "region": "Ηπείρου",
+  "latitude": 39.291111,
+  "company": "ΕΡΤ ΑΕ",
+  "longitude": 21.395,
+  "permit_status": "Από τα στοιχεία που τηρούνται στην Ενημερωτική Πύλη προκύπτει ότι για τη  θέση \"ΘΕΟΔΩΡΙΑΝΑ ΔΗΜΟΣ ΓΕΩΡΓΙΟΥ ΚΑΡΑΪΣΚΑΚΗ ΠΕΡ. ΗΠΕΙΡΟΥ\" στον Δήμο Γεωργίου Καραϊσκάκη Περιφέρειας  Ηπείρου έχει κατατεθεί από την εταιρία ΕΡΤ ΑΕ δήλωση δομικών κατασκευών κεραιών  \nμε αριθ. πρωτ. ΣΗΛΥΑ 38162/09-04-2020 κατά τα οριζόμενα στην παρ. 7 του άρθρου 34 του Ν.4635/2019.",
+  "measurements_eaee": "-",
+  "documents": [
+    {
+      "document_number": "400183/26-03-2020",
+      "protocol_number": "δορυφορική λήψη και στοιχεία δομικών κατασκευών/",
+      "type": "Άλλο",
+      "file_url": "https://silia.eett.gr/silia/download/7d917db2-fd8a-40ee-8b86-b04a68affd70"
+    },
+    {
+      "document_number": "400475/30-03-2020",
+      "protocol_number": "απογραφή 1987/",
+      "type": "Άλλο",
+      "file_url": "https://silia.eett.gr/silia/download/ba90b3d7-e994-4c52-9777-7ef7cfc81466"
+    },
+    {
+      "document_number": "400476/30-03-2020",
+      "protocol_number": "πίνακας 49 απογραφής ΕΡΤ 1987/",
+      "type": "Άλλο",
+      "file_url": "https://silia.eett.gr/silia/download/634e1d65-7481-4143-ab6b-3fddabc55890"
+    },
+    {
+      "document_number": "401839/09-04-2020",
+      "protocol_number": "Αρχείο Αίτησης/",
+      "type": "Δήλωση Δομικών ΕΡΤ",
+      "file_url": "https://silia.eett.gr/silia/download/d4b5e20e-1010-4c8d-bde9-434a4dbded18"
+    }
+  ]
+}

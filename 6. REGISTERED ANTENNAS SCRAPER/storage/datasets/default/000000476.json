@@ -1,0 +1,51 @@
+{
+  "antenna_id": "179793",
+  "address": "1ο χλμ. Αριδαίας-Εξαπλατάνου",
+  "position_code": 1271161,
+  "municipality": "Αλμωπίας",
+  "code_name": "LIDL Aridaia (J161)",
+  "region": "Κεντρικής Μακεδονίας",
+  "latitude": 40.977222,
+  "company": "NOVA Μ.Α.Ε.",
+  "longitude": 22.078056,
+  "permit_status": "Από τα στοιχεία που τηρούνται στην Ενημερωτική Πύλη προκύπτει ότι, για τη θέση \"1ο χλμ. Αριδαίας-Εξαπλατάνου\" στον Δήμο Αλμωπίας Περιφέρειας  Κεντρικής Μακεδονίας \n\t(κωδικός αριθμός θέσης 1271161, κωδική ονομασία \"LIDL Aridaia (J161)\") έχει κατατεθεί από την εταιρία NOVA Μ.Α.Ε.\tδήλωση εγκατάστασης κατασκευής κεραίας (αριθ. πρωτ. \n\t61286/27-05-2025) που εμπίπτει στις διατάξεις της νομοθεσίας για Εγκαταστάσεις Κατασκευών Κεραιών Χαμηλής Ηλεκτρομαγνητικής Περιβαλλοντικής Όχλησης (ΕΚΚΧΟ).",
+  "measurements_eaee": "-",
+  "documents": [
+    {
+      "document_number": "550454/27-05-2025",
+      "protocol_number": "Φωτορεαλιστική απεικόνιση κεραίας ΕΚΚΧΟ/27-05-2025",
+      "type": "Φωτογραφικό Υλικό - Σκαρίφημα",
+      "file_url": "https://silia.eett.gr/silia/download/gAeA2gGO9XvKn8HYm0xGln57SegRH4gKQRCZ"
+    },
+    {
+      "document_number": "550455/27-05-2025",
+      "protocol_number": "Ψηφιακός χάρτης με προβολή της θέσης ΕΚΚΧΟ/27-05-2025",
+      "type": "Φωτογραφικό Υλικό - Σκαρίφημα",
+      "file_url": "https://silia.eett.gr/silia/download/H33m1GG46IBxgncLueGMqd782zZg2GAx7PG3"
+    },
+    {
+      "document_number": "550456/27-05-2025",
+      "protocol_number": "ΜΕΛΕΤΗ ΕΚΚΧΟ/27-05-2025",
+      "type": "Άλλο",
+      "file_url": "https://silia.eett.gr/silia/download/oAAO6gGY9PUiYKkYculGpUzGi7CafRgN18Uc"
+    },
+    {
+      "document_number": "550457/27-05-2025",
+      "protocol_number": "Σκαρίφημα με περιοχή απαγόρευσης/27-05-2025",
+      "type": "Φωτογραφικό Υλικό - Σκαρίφημα",
+      "file_url": "https://silia.eett.gr/silia/download/InmOaMmcKxR15iU0kvsGL9RbF5bYcpWlI1e7"
+    },
+    {
+      "document_number": "550458/27-05-2025",
+      "protocol_number": "Αρχείο Αίτησης/27-05-2025",
+      "type": "Δήλωση ΕΚΚΧΟ",
+      "file_url": "https://silia.eett.gr/silia/download/XSG7xE6d4cGUp9Su0gSVgYgDW2kRgk7t3NO7"
+    },
+    {
+      "document_number": "554982/10-07-2025",
+      "protocol_number": "ΥΔ ΕΓΚΑΤΑΣΤΑΣΗΣ/10-07-2025",
+      "type": "Άλλο",
+      "file_url": "https://silia.eett.gr/silia/download/gl9K1U3td1HREgeWGhhtFOv3muw44FyfezQE"
+    }
+  ]
+}

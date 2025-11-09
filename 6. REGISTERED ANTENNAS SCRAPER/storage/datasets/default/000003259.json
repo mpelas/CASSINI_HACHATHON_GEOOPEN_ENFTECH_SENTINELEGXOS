@@ -1,0 +1,75 @@
+{
+  "antenna_id": "172968",
+  "address": "ΣΚΥΡΟΣ",
+  "position_code": 3006060,
+  "municipality": "Σκύρου",
+  "code_name": "ΣΚΥΡΟΣ",
+  "region": "Στερεάς Ελλάδας",
+  "latitude": 38.885278,
+  "company": "DIGEA",
+  "longitude": 24.547222,
+  "permit_status": "Από τα στοιχεία που τηρούνται στην Ενημερωτική Πύλη προκύπτει ότι, για τη θέση \"ΣΚΥΡΟΣ\" στον Δήμο Σκύρου Περιφέρειας  Στερεάς Ελλάδας \n\t(κωδικός αριθμός θέσης 3006060, κωδική ονομασία \"ΣΚΥΡΟΣ\") χορηγήθηκε, με την Απόφαση της ΕΕΤΤ \n52602/23-05-2025, άδεια κατασκευής κεραίας στην εταιρία DIGEA. \nΑπό τo έγγραφο της άδειας μπορείτε να ενημερωθείτε για τις σχετικές εγκρίσεις των συναρμόδιων φορέων, καθώς και εάν πρόκειται για τροποποίηση παλαιότερης άδειας.\n\tΣύμφωνα με τα στοιχεία που έχουν υποβληθεί στο ΣΗΛΥΑ, ο κάτοχος της κατασκευής κεραίας έχει δηλώσει ότι θα προβεί σε έκδοση έγκρισης δομικών κατασκευών \n\t\tκεραίας μέσω του e-Άδειες \n\t\tμετά την έκδοση της άδειας κατασκευής κεραίας / δημοσιοποίηση της δήλωσης τροποποίησης της κατασκευής κεραίας",
+  "measurements_eaee": "-",
+  "documents": [
+    {
+      "document_number": "512009/03-04-2024",
+      "protocol_number": "ΜΕΣΩ ΣΗΛΥΑ/03-04-2024",
+      "type": "Αρχιτεκτονικά [Κάτοψη - Τομή - Όψη]",
+      "file_url": "https://silia.eett.gr/silia/download/pOBNbNf7uNbD68uh6PdUDC2YYEhqF1tuPFtF"
+    },
+    {
+      "document_number": "512010/03-04-2024",
+      "protocol_number": "ΜΕΣΩ ΣΗΛΥΑ1/03-04-2024",
+      "type": "Τοπογραφικό",
+      "file_url": "https://silia.eett.gr/silia/download/Z3GZRGubNPbr5gF2fGpo6s9GcTAhitlatzSn"
+    },
+    {
+      "document_number": "512011/03-04-2024",
+      "protocol_number": "70297/01-04-2024",
+      "type": "Αίτηση / Μελέτη για Έγκριση Περιβαλλοντικών Επιπτώσεων",
+      "file_url": "https://silia.eett.gr/silia/download/IAq7Zsl7lYBFnbBMVaQpfS6b4yYUO1CMnMwv"
+    },
+    {
+      "document_number": "512012/03-04-2024",
+      "protocol_number": "ΜΕΣΩ ΣΗΛΥΑ11/03-04-2024",
+      "type": "Αίτηση - Μελέτη Ραδιοεκπομπών ΕΕΑΕ",
+      "file_url": "https://silia.eett.gr/silia/download/l1DbXsEbFq0gprN3ce5IevYxNX20YQverAWs"
+    },
+    {
+      "document_number": "512014/03-04-2024",
+      "protocol_number": "ΜΕΣΩ ΣΗΛΥΑ111/03-04-2024",
+      "type": "Αίτηση ΥΠΑ",
+      "file_url": "https://silia.eett.gr/silia/download/Xxy1Tggny5AvAKIdnarvAIcmBr4uunzNPxvU"
+    },
+    {
+      "document_number": "512015/03-04-2024",
+      "protocol_number": "Αρχείο Αίτησης/03-04-2024",
+      "type": "Αίτηση Άδειας Κατασκευής Κεραίας ΕΕΤΤ",
+      "file_url": "https://silia.eett.gr/silia/download/ux869VR0hlIcSFRXBTxryfdQir4I24olTic1"
+    },
+    {
+      "document_number": "513594/22-04-2024",
+      "protocol_number": "ΚΓ/Δ3/Δ/8026/22-04-2024",
+      "type": "Γνωμάτευση ΥΠΑ",
+      "file_url": "https://silia.eett.gr/silia/download/lxuNGY9agggQ9fWsSzVgZQcgAWWixsgtdN5a"
+    },
+    {
+      "document_number": "516664/31-05-2024",
+      "protocol_number": "TMIA/7541/2024/29-05-2024",
+      "type": "Γνωμάτευση ΕΕΑΕ",
+      "file_url": "https://silia.eett.gr/silia/download/bDHNHP4HMxYo7TvBqg9NbrK9i6gfAQquoNOT"
+    },
+    {
+      "document_number": "546203/07-04-2025",
+      "protocol_number": "69951/07-04-2025",
+      "type": "Έγκριση Περιβαλλοντικών Όρων",
+      "file_url": "https://silia.eett.gr/silia/download/HOY9d4BZYKZFEMlLvXbCodkZOgylrglat7H0"
+    },
+    {
+      "document_number": "551267/02-06-2025",
+      "protocol_number": "52602/23-05-2025",
+      "type": "Άδεια Κατασκευής  Κεραίας",
+      "file_url": "https://silia.eett.gr/silia/download/NBXuvTSUS67OoMH1nyWbweTO1wkxuo3cl0hp"
+    }
+  ]
+}

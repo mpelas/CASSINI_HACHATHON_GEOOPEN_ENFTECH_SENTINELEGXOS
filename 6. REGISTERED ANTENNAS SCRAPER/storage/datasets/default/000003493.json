@@ -1,0 +1,39 @@
+{
+  "antenna_id": "159569",
+  "address": "Πλησίον Οικισμού ΠΑΛΑΙΟΧΟΥΝΗ ΤΡΙΠΟΛΕΩΣ, ΤΡΙΠΟΛΗ.",
+  "position_code": 1157735,
+  "municipality": "Τρίπολης",
+  "code_name": "3027735 TERNA PALEIOXOUNI TRIPOLI",
+  "region": "Πελοποννήσου",
+  "latitude": 37.405833,
+  "company": "VODAFONE",
+  "longitude": 22.210556,
+  "permit_status": "Από τα στοιχεία που τηρούνται στην Ενημερωτική Πύλη προκύπτει ότι, για τη θέση \"Πλησίον Οικισμού ΠΑΛΑΙΟΧΟΥΝΗ ΤΡΙΠΟΛΕΩΣ, ΤΡΙΠΟΛΗ.\" στον Δήμο Τρίπολης Περιφέρειας  Πελοποννήσου \n\t(κωδικός αριθμός θέσης 1157735, κωδική ονομασία \"3027735 TERNA PALEIOXOUNI TRIPOLI\") έχει κατατεθεί από την εταιρία VODAFONE\tδήλωση εγκατάστασης κατασκευής κεραίας (αριθ. πρωτ. \n\t44015/17-06-2021) που εμπίπτει στις διατάξεις της νομοθεσίας για Εγκαταστάσεις Κατασκευών Κεραιών Χαμηλής Ηλεκτρομαγνητικής Περιβαλλοντικής Όχλησης (ΕΚΚΧΟ).",
+  "measurements_eaee": "-",
+  "documents": [
+    {
+      "document_number": "436546/17-06-2021",
+      "protocol_number": "ΣΚΑΡΙΦΗΜΑ ΘΕΣΗΣ ΙΣΤΟΥ ΕΚΚΧΟ - ΚΑΤΟΨΗ ΚΕΡΑΙΑΣ/",
+      "type": "Φωτογραφικό Υλικό - Σκαρίφημα",
+      "file_url": "https://silia.eett.gr/silia/download/54cebaf3-9d04-494b-9450-dff46a32e944"
+    },
+    {
+      "document_number": "436547/17-06-2021",
+      "protocol_number": "Φωτογραφία θέσης ΕΚΚΧΟ από Google Earth/",
+      "type": "Φωτογραφικό Υλικό - Σκαρίφημα",
+      "file_url": "https://silia.eett.gr/silia/download/3f3db1d2-9f82-48c0-aa8e-e8623e83d26e"
+    },
+    {
+      "document_number": "436548/17-06-2021",
+      "protocol_number": "Φωτογραφία θέσης κεραίας ΕΚΚΧΟ/",
+      "type": "Φωτογραφικό Υλικό - Σκαρίφημα",
+      "file_url": "https://silia.eett.gr/silia/download/9bee4df4-1dfc-4a9b-b203-04c75e8f161b"
+    },
+    {
+      "document_number": "436550/17-06-2021",
+      "protocol_number": "Αρχείο Αίτησης/",
+      "type": "Δήλωση ΕΚΚΧΟ",
+      "file_url": "https://silia.eett.gr/silia/download/67298479-6db8-470d-ac0a-7e841cdc4ada"
+    }
+  ]
+}

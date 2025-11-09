@@ -1,0 +1,51 @@
+{
+  "antenna_id": "179756",
+  "address": "ΑΓΙΑΣ ΤΡΙΑΔΟΣ 1 & ΜΕΣΣΟΓΕΙΩΝ",
+  "position_code": 1205165,
+  "municipality": "Αγίας Παρασκευής",
+  "code_name": "POLYTEK Ag. Paraskevi (05165)",
+  "region": "Αττικής",
+  "latitude": 38.014167,
+  "company": "NOVA Μ.Α.Ε.",
+  "longitude": 23.830833,
+  "permit_status": "Από τα στοιχεία που τηρούνται στην Ενημερωτική Πύλη προκύπτει ότι, για τη θέση \"ΑΓΙΑΣ ΤΡΙΑΔΟΣ 1 & ΜΕΣΣΟΓΕΙΩΝ\" στον Δήμο Αγίας Παρασκευής Περιφέρειας  Αττικής \n\t(κωδικός αριθμός θέσης 1205165, κωδική ονομασία \"POLYTEK Ag. Paraskevi (05165)\") έχει κατατεθεί από την εταιρία NOVA Μ.Α.Ε.\tδήλωση εγκατάστασης κατασκευής κεραίας (αριθ. πρωτ. \n\t61253/26-05-2025) που εμπίπτει στις διατάξεις της νομοθεσίας για Εγκαταστάσεις Κατασκευών Κεραιών Χαμηλής Ηλεκτρομαγνητικής Περιβαλλοντικής Όχλησης (ΕΚΚΧΟ).",
+  "measurements_eaee": "-",
+  "documents": [
+    {
+      "document_number": "550295/26-05-2025",
+      "protocol_number": "Φωτορεαλιστική απεικόνιση κεραίας ΕΚΚΧΟ/26-05-2025",
+      "type": "Φωτογραφικό Υλικό - Σκαρίφημα",
+      "file_url": "https://silia.eett.gr/silia/download/TxwWApyitAz9CvwB5cGlic1BxhAQp1AtZiPn"
+    },
+    {
+      "document_number": "550296/26-05-2025",
+      "protocol_number": "Ψηφιακός χάρτης με προβολή της θέσης ΕΚΚΧΟ/26-05-2025",
+      "type": "Φωτογραφικό Υλικό - Σκαρίφημα",
+      "file_url": "https://silia.eett.gr/silia/download/GAkUBqmpusQV4krKOkHSOT0GetD05gOxdk5x"
+    },
+    {
+      "document_number": "550297/26-05-2025",
+      "protocol_number": "ΜΕΛΕΤΗ ΕΚΚΧΟ/26-05-2025",
+      "type": "Άλλο",
+      "file_url": "https://silia.eett.gr/silia/download/7n2Y6nsRQtycB3rs6uzaRcl77PCnoGuC7vsr"
+    },
+    {
+      "document_number": "550298/26-05-2025",
+      "protocol_number": "Σκαρίφημα θέσης κεραίας ΕΚΚΧΟ/26-05-2025",
+      "type": "Φωτογραφικό Υλικό - Σκαρίφημα",
+      "file_url": "https://silia.eett.gr/silia/download/ueNKgwG2TGy11Xzcpu01gwg9WzimAYaQI8ag"
+    },
+    {
+      "document_number": "550299/26-05-2025",
+      "protocol_number": "Αρχείο Αίτησης/26-05-2025",
+      "type": "Δήλωση ΕΚΚΧΟ",
+      "file_url": "https://silia.eett.gr/silia/download/6IZ7OaPSEinEtth8lpbTZG6vaPQEdSwSFKNd"
+    },
+    {
+      "document_number": "554981/10-07-2025",
+      "protocol_number": "ΥΔ ΕΓΚΑΤΑΣΤΑΣΗΣ/10-07-2025",
+      "type": "Άλλο",
+      "file_url": "https://silia.eett.gr/silia/download/zBY5ZGfVU9VP7fwDcaggGmaoUg3tDMGbrR5A"
+    }
+  ]
+}

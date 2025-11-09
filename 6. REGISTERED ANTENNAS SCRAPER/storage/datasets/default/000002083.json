@@ -1,0 +1,45 @@
+{
+  "antenna_id": "160848",
+  "address": "ΦΙΛΙΠΠΕΙΟ",
+  "position_code": 3006665,
+  "municipality": "Νεάπολης - Συκεών",
+  "code_name": "ΦΙΛΙΠΠΕΙΟ Β Μ",
+  "region": "Κεντρικής Μακεδονίας",
+  "latitude": 40.645833,
+  "company": "DIGEA",
+  "longitude": 22.979722,
+  "permit_status": "Από τα στοιχεία που τηρούνται στην Ενημερωτική Πύλη προκύπτει ότι για τη  θέση \"ΦΙΛΙΠΠΕΙΟ\" στον Δήμο Νεάπολης - Συκεών Περιφέρειας  Κεντρικής Μακεδονίας έχει κατατεθεί από την εταιρία DIGEA δήλωση κατασκευής κεραίας τηλεοπτικής ευρυεκπομπής με αριθ. πρωτ. ΣΗΛΥΑ \n45205/19-10-2021 κατά τα οριζόμενα στην παρ. 7 του άρθρου 39 του Ν.4635/2019.",
+  "measurements_eaee": "-",
+  "documents": [
+    {
+      "document_number": "444308/19-10-2021",
+      "protocol_number": "ΜΕΣΩ ΣΗΛΥΑ/",
+      "type": "Αίτηση ΥΠΑ",
+      "file_url": "https://silia.eett.gr/silia/download/06b1b649-8995-4504-87e8-1c32bb9ff8ca"
+    },
+    {
+      "document_number": "444309/19-10-2021",
+      "protocol_number": "Αρχείο Αίτησης/",
+      "type": "Δήλωση Τηλεοπτικής Ευρυεκπομπής",
+      "file_url": "https://silia.eett.gr/silia/download/0c076db6-3e10-4a69-9357-bfbb8b7a74fe"
+    },
+    {
+      "document_number": "447493/07-12-2021",
+      "protocol_number": "ΜΕΣΩ ΣΗΛΥΑ/",
+      "type": "Αίτηση ΥΠΑ",
+      "file_url": "https://silia.eett.gr/silia/download/1a42a62d-973f-4475-a5bb-7d668f965008"
+    },
+    {
+      "document_number": "451209/15-02-2022",
+      "protocol_number": "ΜΕΣΩ ΣΗΛΥΑ/",
+      "type": "Άλλο",
+      "file_url": null
+    },
+    {
+      "document_number": "451210/15-02-2022",
+      "protocol_number": "ΜΕΣΩ ΣΗΛΥΑ/",
+      "type": "Άλλο",
+      "file_url": "https://silia.eett.gr/silia/download/dd38870f-3f7f-4d7b-83cf-9a802c0fc90d"
+    }
+  ]
+}

@@ -1,0 +1,87 @@
+{
+  "antenna_id": "170104",
+  "address": "ΕΛ. ΒΕΝΙΖΕΛΟΥ 132, ΚΤΙΡΙΟ ΟΤΕ ΧΡΥΣΟΥΠΟΛΗΣ",
+  "position_code": 1403082,
+  "municipality": "Νέστου",
+  "code_name": "ΧΡΥΣΟΥΠΟΛΗ Τ/Κ",
+  "region": "Ανατ. Μακεδονίας και Θράκης",
+  "latitude": 40.984722,
+  "company": "OTE",
+  "longitude": 24.702222,
+  "permit_status": "Από τα στοιχεία που τηρούνται στην Ενημερωτική Πύλη προκύπτει ότι, για τη θέση \"ΕΛ. ΒΕΝΙΖΕΛΟΥ 132, ΚΤΙΡΙΟ ΟΤΕ ΧΡΥΣΟΥΠΟΛΗΣ\" στον Δήμο Νέστου Περιφέρειας  Ανατ. Μακεδονίας και Θράκης \n\t(κωδικός αριθμός θέσης 1403082, κωδική ονομασία \"ΧΡΥΣΟΥΠΟΛΗ Τ/Κ\") χορηγήθηκε, με την Απόφαση της ΕΕΤΤ \n50772/29-03-2024, άδεια κατασκευής κεραίας στην εταιρία OTE. \nΑπό τo έγγραφο της άδειας μπορείτε να ενημερωθείτε για τις σχετικές εγκρίσεις των συναρμόδιων φορέων, καθώς και εάν πρόκειται για τροποποίηση παλαιότερης άδειας.\n\tΣύμφωνα με τα στοιχεία που έχουν υποβληθεί στο ΣΗΛΥΑ, ο κάτοχος της κατασκευής κεραίας έχει δηλώσει ότι θα προβεί σε έκδοση έγκρισης δομικών κατασκευών \n\t\tκεραίας μέσω του e-Άδειες \n\t\tμετά την έκδοση της άδειας κατασκευής κεραίας / δημοσιοποίηση της δήλωσης τροποποίησης της κατασκευής κεραίας",
+  "measurements_eaee": "-",
+  "documents": [
+    {
+      "document_number": "498952/30-10-2023",
+      "protocol_number": "ΜΕΣΩ ΣΗΛΥΑ/",
+      "type": "Αρχιτεκτονικά Σχέδια",
+      "file_url": "https://silia.eett.gr/silia/download/1f14265a-8c7f-4d63-8fcf-b36f7255b5cb"
+    },
+    {
+      "document_number": "500201/10-11-2023",
+      "protocol_number": "Δ3/Δ/7913/07-09-2006",
+      "type": "Γνωμάτευση ΥΠΑ",
+      "file_url": "https://silia.eett.gr/silia/download/c3ab1be9-8e57-4639-98f4-125a70c29338"
+    },
+    {
+      "document_number": "500207/10-11-2023",
+      "protocol_number": "Δ3/Δ/30905/4813/16-07-1998",
+      "type": "Γνωμάτευση ΥΠΑ",
+      "file_url": "https://silia.eett.gr/silia/download/ef19d72b-7998-43d6-93b2-baf94b00bd05"
+    },
+    {
+      "document_number": "500208/10-11-2023",
+      "protocol_number": "ΜΕΣΩ ΣΗΛΥΑ/",
+      "type": "Αίτηση ΥΠΑ",
+      "file_url": "https://silia.eett.gr/silia/download/7388f3d4-ad36-4d56-8e22-70eab6cab487"
+    },
+    {
+      "document_number": "500209/10-11-2023",
+      "protocol_number": "ΥΔ ΣΥΝΕΓΚΑΤΑΣΤΑΣΗΣ OTE/",
+      "type": "Άλλο",
+      "file_url": "https://silia.eett.gr/silia/download/761568fb-c329-43a7-9a25-941ce3296901"
+    },
+    {
+      "document_number": "500215/10-11-2023",
+      "protocol_number": "ΜΕΣΩ ΣΗΛΥΑ/03-08-2023",
+      "type": "Αίτηση - Μελέτη Ραδιοεκπομπών ΕΕΑΕ",
+      "file_url": "https://silia.eett.gr/silia/download/848b048b-fbe7-4ee8-b1b9-c28852f6a395"
+    },
+    {
+      "document_number": "502575/06-12-2023",
+      "protocol_number": "ΜΕΣΩ ΣΗΛΥΑ/",
+      "type": "Τοπογραφικό",
+      "file_url": "https://silia.eett.gr/silia/download/f3f64555-2218-436b-a46f-a27c12898481"
+    },
+    {
+      "document_number": "502576/06-12-2023",
+      "protocol_number": "Αρχείο Αίτησης/",
+      "type": "Αίτηση Άδειας Κατασκευής Κεραίας ΕΕΤΤ",
+      "file_url": "https://silia.eett.gr/silia/download/28357aea-33b9-4726-80fc-326bf0d3e4ff"
+    },
+    {
+      "document_number": "506053/30-01-2024",
+      "protocol_number": "TMIA/411/1889/2024/30-01-2024",
+      "type": "Γνωμάτευση ΕΕΑΕ",
+      "file_url": "https://silia.eett.gr/silia/download/297a30a9-bb57-44bd-b1a1-c7771e4311de"
+    },
+    {
+      "document_number": "511923/02-04-2024",
+      "protocol_number": "50772/29-03-2024",
+      "type": "Άδεια Κατασκευής  Κεραίας",
+      "file_url": "https://silia.eett.gr/silia/download/R59C53xYM8q7UmygEv72vVRcIPYHLGawlGsV"
+    },
+    {
+      "document_number": "498955/30-10-2023",
+      "protocol_number": "ΜΕΣΩ ΣΗΛΥΑ/",
+      "type": "Δήλωση υπαγωγής σε ΠΠΔ και Συνοδευτικά Έγγραφα",
+      "file_url": "https://silia.eett.gr/silia/download/1d2cd718-97e9-4e74-b0cf-94bbff63c684"
+    },
+    {
+      "document_number": "502577/06-12-2023",
+      "protocol_number": "Αρχείο Αίτησης/",
+      "type": "Δήλωση ΠΠΔ",
+      "file_url": "https://silia.eett.gr/silia/download/de4a2c6b-898b-407d-b801-fcdf27d81a05"
+    }
+  ]
+}

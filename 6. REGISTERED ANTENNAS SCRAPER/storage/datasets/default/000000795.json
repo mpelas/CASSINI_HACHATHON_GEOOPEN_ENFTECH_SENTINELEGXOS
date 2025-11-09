@@ -1,0 +1,39 @@
+{
+  "antenna_id": "159318",
+  "address": "ΑΡΧΑΙΟΛΟΓΙΚΟ ΜΟΥΣΕΙΟ ΟΛΥΜΠΙΑΣ",
+  "position_code": 1405618,
+  "municipality": "Αρχαίας Ολυμπίας",
+  "code_name": "OLYMPMUS_IN",
+  "region": "Δυτικής Ελλάδας",
+  "latitude": 37.643611,
+  "company": "OTE",
+  "longitude": 21.629167,
+  "permit_status": "Από τα στοιχεία που τηρούνται στην Ενημερωτική Πύλη προκύπτει ότι, για τη θέση \"ΑΡΧΑΙΟΛΟΓΙΚΟ ΜΟΥΣΕΙΟ ΟΛΥΜΠΙΑΣ\" στον Δήμο Αρχαίας Ολυμπίας Περιφέρειας  Δυτικής Ελλάδας \n\t(κωδικός αριθμός θέσης 1405618, κωδική ονομασία \"OLYMPMUS_IN\") έχει κατατεθεί από την εταιρία OTE\tδήλωση εγκατάστασης κατασκευής κεραίας (αριθ. πρωτ. \n\t43832/25-05-2021) που εμπίπτει στις διατάξεις της νομοθεσίας για Εγκαταστάσεις Κατασκευών Κεραιών Χαμηλής Ηλεκτρομαγνητικής Περιβαλλοντικής Όχλησης (ΕΚΚΧΟ).",
+  "measurements_eaee": "-",
+  "documents": [
+    {
+      "document_number": "435124/18-05-2021",
+      "protocol_number": "ΦΩΤΟΓΡΑΦΙΑ/",
+      "type": "Φωτογραφικό Υλικό - Σκαρίφημα",
+      "file_url": "https://silia.eett.gr/silia/download/bbeb54c9-bbd7-4a92-a4e0-c18775d8623c"
+    },
+    {
+      "document_number": "435125/18-05-2021",
+      "protocol_number": "40063/03-03-2021",
+      "type": "Γνωμοδότηση ΕΠΚΑ",
+      "file_url": "https://silia.eett.gr/silia/download/6613ba33-d1b1-4801-8d3d-6cef2318b1b8"
+    },
+    {
+      "document_number": "435412/25-05-2021",
+      "protocol_number": "Αρχείο Αίτησης/",
+      "type": "Δήλωση ΕΚΚΧΟ",
+      "file_url": "https://silia.eett.gr/silia/download/300eae7d-d55a-474a-b89a-a0867a2bd209"
+    },
+    {
+      "document_number": "456690/13-04-2022",
+      "protocol_number": "4144/13-04-2022",
+      "type": "Έγκριση Αρμοδίου Φορέα",
+      "file_url": "https://silia.eett.gr/silia/download/72453420-90f2-448e-beed-f2739874ebb2"
+    }
+  ]
+}

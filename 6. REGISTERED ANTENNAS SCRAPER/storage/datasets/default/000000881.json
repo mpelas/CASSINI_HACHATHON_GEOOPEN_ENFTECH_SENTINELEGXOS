@@ -1,0 +1,51 @@
+{
+  "antenna_id": "174495",
+  "address": "ΛΕΩΦΟΡΟΣ ΝΑΤΟ 0",
+  "position_code": 1496426,
+  "municipality": "Ασπροπύργου",
+  "code_name": "PEPSICO_HELLAS_ASPR",
+  "region": "Αττικής",
+  "latitude": 38.083056,
+  "company": "OTE",
+  "longitude": 23.548333,
+  "permit_status": "Από τα στοιχεία που τηρούνται στην Ενημερωτική Πύλη προκύπτει ότι, για τη θέση \"ΛΕΩΦΟΡΟΣ ΝΑΤΟ 0\" στον Δήμο Ασπροπύργου Περιφέρειας  Αττικής \n\t(κωδικός αριθμός θέσης 1496426, κωδική ονομασία \"PEPSICO_HELLAS_ASPR\") έχει κατατεθεί από την εταιρία OTE\tδήλωση εγκατάστασης κατασκευής κεραίας (αριθ. πρωτ. \n\t57036/16-08-2024) που εμπίπτει στις διατάξεις της νομοθεσίας για Εγκαταστάσεις Κατασκευών Κεραιών Χαμηλής Ηλεκτρομαγνητικής Περιβαλλοντικής Όχλησης (ΕΚΚΧΟ).",
+  "measurements_eaee": "-",
+  "documents": [
+    {
+      "document_number": "521526/23-07-2024",
+      "protocol_number": "ΦΩΤΟΓΡΑΦΙΑ/23-07-2024",
+      "type": "Φωτογραφικό Υλικό - Σκαρίφημα",
+      "file_url": "https://silia.eett.gr/silia/download/9n3bOCpgPGrGzSZWnxXxRmDrFU7UON5dFmbw"
+    },
+    {
+      "document_number": "521527/23-07-2024",
+      "protocol_number": "ΦΩΤΟΓΡΑΦΙΑ1/23-07-2024",
+      "type": "Φωτογραφικό Υλικό - Σκαρίφημα",
+      "file_url": "https://silia.eett.gr/silia/download/C5OTf7yzROKhSTGgHYeOG897t0a06sC6MspO"
+    },
+    {
+      "document_number": "523301/09-08-2024",
+      "protocol_number": "ΜΕΛΕΤΗ/09-08-2024",
+      "type": "Αίτηση - Μελέτη Ραδιοεκπομπών ΕΕΑΕ",
+      "file_url": "https://silia.eett.gr/silia/download/rC5U1SQ65t7mtOQXehUXeUzENvzAwP11Eetg"
+    },
+    {
+      "document_number": "523459/16-08-2024",
+      "protocol_number": "Αρχείο Αίτησης/16-08-2024",
+      "type": "Δήλωση ΕΚΚΧΟ",
+      "file_url": "https://silia.eett.gr/silia/download/NkVGuk7HnyU7ZICrvCdhfLapxlmt1mDtI2L9"
+    },
+    {
+      "document_number": "546591/10-04-2025",
+      "protocol_number": "ΑΠΟΣΠΑΣΜΑ ΨΗΦΙΑΚΟΥ ΧΑΡΤΗ/10-04-2025",
+      "type": "Φωτογραφικό Υλικό - Σκαρίφημα",
+      "file_url": "https://silia.eett.gr/silia/download/GQOKKzxf2Ffgx7uaOIlkxbHmGsHdzt2Ps8Vz"
+    },
+    {
+      "document_number": "546621/11-04-2025",
+      "protocol_number": "ΥΠ.ΔΗΛΩΣΗ/11-04-2025",
+      "type": "Άλλο",
+      "file_url": "https://silia.eett.gr/silia/download/bezUwamDLcvDZAfXNn7IHxa3xF2M9Zs2qIzA"
+    }
+  ]
+}

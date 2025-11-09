@@ -1,0 +1,57 @@
+{
+  "antenna_id": "178319",
+  "address": "Ε.Ο. ΡΙΟΥ - ΑΓΡΙΝΙΟΥ 60",
+  "position_code": 1152539,
+  "municipality": "Αγρινίου",
+  "code_name": "3032539 KTEL AITOLOAKARNANIAS",
+  "region": "Δυτικής Ελλάδας",
+  "latitude": 38.608889,
+  "company": "VODAFONE",
+  "longitude": 21.413333,
+  "permit_status": "Από τα στοιχεία που τηρούνται στην Ενημερωτική Πύλη προκύπτει ότι, για τη θέση \"Ε.Ο. ΡΙΟΥ - ΑΓΡΙΝΙΟΥ 60\" στον Δήμο Αγρινίου Περιφέρειας  Δυτικής Ελλάδας \n\t(κωδικός αριθμός θέσης 1152539, κωδική ονομασία \"3032539 KTEL AITOLOAKARNANIAS\") έχει κατατεθεί από την εταιρία VODAFONE\tδήλωση εγκατάστασης κατασκευής κεραίας (αριθ. πρωτ. \n\t59954/17-03-2025) που εμπίπτει στις διατάξεις της νομοθεσίας για Εγκαταστάσεις Κατασκευών Κεραιών Χαμηλής Ηλεκτρομαγνητικής Περιβαλλοντικής Όχλησης (ΕΚΚΧΟ).",
+  "measurements_eaee": "-",
+  "documents": [
+    {
+      "document_number": "544023/17-03-2025",
+      "protocol_number": "Φωτορεαλιστική απεικόνιση κεραίας ΕΚΚΧΟ/17-03-2025",
+      "type": "Φωτογραφικό Υλικό - Σκαρίφημα",
+      "file_url": "https://silia.eett.gr/silia/download/Oec99NIU0Y9gBgR6kk4AmZKyYEEUcvUEyAgk"
+    },
+    {
+      "document_number": "544024/17-03-2025",
+      "protocol_number": "Ψηφιακός χάρτης με προβολή της θέσης ΕΚΚΧΟ/17-03-2025",
+      "type": "Φωτογραφικό Υλικό - Σκαρίφημα",
+      "file_url": "https://silia.eett.gr/silia/download/0BKuMbqmb21HyGU4PWVwWn4MDP2w08vZUBKd"
+    },
+    {
+      "document_number": "544028/17-03-2025",
+      "protocol_number": "ΜΕΛΕΤΗ ΕΚΚΧΟ/17-03-2025",
+      "type": "Άλλο",
+      "file_url": "https://silia.eett.gr/silia/download/1qBQgYW6khBeIGXmWlcTs7B1bD1u5LdGgbrx"
+    },
+    {
+      "document_number": "544029/17-03-2025",
+      "protocol_number": "Σκαρίφημα με περιοχή απαγόρευσης/17-03-2025",
+      "type": "Φωτογραφικό Υλικό - Σκαρίφημα",
+      "file_url": "https://silia.eett.gr/silia/download/5W3gy7I0VLGcranDXQn8NPMD1Rhk35KCxKBP"
+    },
+    {
+      "document_number": "544031/17-03-2025",
+      "protocol_number": "Φ.550/ΑΔ.2382/Σ.558/14-03-2025",
+      "type": "Γνωμάτευση ΓΕΑ",
+      "file_url": "https://silia.eett.gr/silia/download/WA6E2fD1MPR6fld3UowdRa8ettZA7ARV5KnM"
+    },
+    {
+      "document_number": "544032/17-03-2025",
+      "protocol_number": "Αρχείο Αίτησης/17-03-2025",
+      "type": "Δήλωση ΕΚΚΧΟ",
+      "file_url": "https://silia.eett.gr/silia/download/D2Ox9hxwdNYK3PyIM3QddUsZTEGg0ZGqGRwG"
+    },
+    {
+      "document_number": "545225/28-03-2025",
+      "protocol_number": "ΥΔ ΕΓΚΑΤΑΣΤΑΣΗΣ/28-03-2025",
+      "type": "Άλλο",
+      "file_url": "https://silia.eett.gr/silia/download/XloaFGVWpzfHzafikZ7KRQ2nbvq28eUShqoe"
+    }
+  ]
+}

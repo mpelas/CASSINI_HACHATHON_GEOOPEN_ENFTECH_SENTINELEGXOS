@@ -1,0 +1,39 @@
+{
+  "antenna_id": "172278",
+  "address": "Άγγελου Μεταξά, Γλυφαδα",
+  "position_code": 1141956,
+  "municipality": "Γλυφάδας",
+  "code_name": "3031956 DEH KAT POLISEON GLYFADA",
+  "region": "Αττικής",
+  "latitude": 37.860833,
+  "company": "VODAFONE",
+  "longitude": 23.754167,
+  "permit_status": "Από τα στοιχεία που τηρούνται στην Ενημερωτική Πύλη προκύπτει ότι, για τη θέση \"Άγγελου Μεταξά, Γλυφαδα\" στον Δήμο Γλυφάδας Περιφέρειας  Αττικής \n\t(κωδικός αριθμός θέσης 1141956, κωδική ονομασία \"3031956 DEH KAT POLISEON GLYFADA\") έχει κατατεθεί από την εταιρία VODAFONE\tδήλωση εγκατάστασης κατασκευής κεραίας (αριθ. πρωτ. \n\t54954/27-02-2024) που εμπίπτει στις διατάξεις της νομοθεσίας για Εγκαταστάσεις Κατασκευών Κεραιών Χαμηλής Ηλεκτρομαγνητικής Περιβαλλοντικής Όχλησης (ΕΚΚΧΟ).",
+  "measurements_eaee": "-",
+  "documents": [
+    {
+      "document_number": "508253/22-02-2024",
+      "protocol_number": "Φωτορεαλιστική απεικόνιση κεραιας ΕΚΚΧΟ/",
+      "type": "Φωτογραφικό Υλικό - Σκαρίφημα",
+      "file_url": "https://silia.eett.gr/silia/download/5aac8ee4-9b76-43fd-808b-ed4146c2be48"
+    },
+    {
+      "document_number": "508254/22-02-2024",
+      "protocol_number": "Ψηφιακός Χάρτης με προβολή της θέσης της κεραίας ΕΚΚΧΟ/",
+      "type": "Φωτογραφικό Υλικό - Σκαρίφημα",
+      "file_url": "https://silia.eett.gr/silia/download/4dc4251f-06b8-4a58-9281-f9738c9a5a3d"
+    },
+    {
+      "document_number": "508744/27-02-2024",
+      "protocol_number": "Μελέτη ΕΚΚΧΟ/26-02-2024",
+      "type": "Άλλο",
+      "file_url": "https://silia.eett.gr/silia/download/ab16d34d-34c3-4789-a8e0-339c9e7dfc9b"
+    },
+    {
+      "document_number": "508745/27-02-2024",
+      "protocol_number": "Αρχείο Αίτησης/",
+      "type": "Δήλωση ΕΚΚΧΟ",
+      "file_url": "https://silia.eett.gr/silia/download/af6f731c-c47c-4547-8b19-d69836bf9a7a"
+    }
+  ]
+}

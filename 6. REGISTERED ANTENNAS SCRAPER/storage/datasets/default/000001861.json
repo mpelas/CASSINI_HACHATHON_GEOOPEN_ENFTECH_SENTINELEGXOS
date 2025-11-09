@@ -1,0 +1,33 @@
+{
+  "antenna_id": "158349",
+  "address": "ΟΔΟΣ Ρ-ΒΙ.ΠΕ. ΗΡΑΚΛΕΙΟΥ, Ν. ΑΛΙΚ/ΣΟΣ",
+  "position_code": 1268137,
+  "municipality": "Ηρακλείου Κρήτης",
+  "code_name": "PLASTIKA KRITIS HERAKLIO",
+  "region": "Κρήτης",
+  "latitude": 35.325556,
+  "company": "NOVA Μ.Α.Ε.",
+  "longitude": 25.1775,
+  "permit_status": "Από τα στοιχεία που τηρούνται στην Ενημερωτική Πύλη προκύπτει ότι, για τη θέση \"ΟΔΟΣ Ρ-ΒΙ.ΠΕ. ΗΡΑΚΛΕΙΟΥ, Ν. ΑΛΙΚ/ΣΟΣ\" στον Δήμο Ηρακλείου Κρήτης Περιφέρειας  Κρήτης \n\t(κωδικός αριθμός θέσης 1268137, κωδική ονομασία \"PLASTIKA KRITIS HERAKLIO\") έχει κατατεθεί από την εταιρία NOVA Μ.Α.Ε.\tδήλωση εγκατάστασης κατασκευής κεραίας (αριθ. πρωτ. \n\t42926/19-02-2021) που εμπίπτει στις διατάξεις της νομοθεσίας για Εγκαταστάσεις Κατασκευών Κεραιών Χαμηλής Ηλεκτρομαγνητικής Περιβαλλοντικής Όχλησης (ΕΚΚΧΟ).",
+  "measurements_eaee": "-",
+  "documents": [
+    {
+      "document_number": "429829/19-02-2021",
+      "protocol_number": "ΣΚΑΡΙΦΗΜΑ/",
+      "type": "Φωτογραφικό Υλικό - Σκαρίφημα",
+      "file_url": "https://silia.eett.gr/silia/download/441ded61-76f1-4978-af4d-066e86876106"
+    },
+    {
+      "document_number": "429834/19-02-2021",
+      "protocol_number": "Αρχείο Αίτησης/",
+      "type": "Δήλωση ΕΚΚΧΟ",
+      "file_url": "https://silia.eett.gr/silia/download/21db4f73-f3bd-4e49-8612-89c4c55ffbb2"
+    },
+    {
+      "document_number": "455568/05-04-2022",
+      "protocol_number": "ΥΠΕΥΘΥΝΗ ΔΗΛΩΣΗ ΤΕΧΝΙΚΟΥ ΥΠΕΥΘΥΝΟΥ/",
+      "type": "Άλλο",
+      "file_url": "https://silia.eett.gr/silia/download/ab5c78ea-1e6d-4ee8-9960-10ed2c27c667"
+    }
+  ]
+}

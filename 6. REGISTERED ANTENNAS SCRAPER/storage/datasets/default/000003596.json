@@ -1,0 +1,93 @@
+{
+  "antenna_id": "127829",
+  "address": "ΦΟΛΕΓΑΝΔΡΟΣ",
+  "position_code": 340193,
+  "municipality": "Φολεγάνδρου",
+  "code_name": "ΦΟΛΕΓΑΝΔΡΟΣ Α/Τ",
+  "region": "Νοτίου Αιγαίου",
+  "latitude": 36.620833,
+  "company": "OTE",
+  "longitude": 24.911111,
+  "permit_status": "Από τα στοιχεία που τηρούνται στην Ενημερωτική Πύλη προκύπτει ότι, για τη θέση \"ΦΟΛΕΓΑΝΔΡΟΣ\" στον Δήμο Φολεγάνδρου Περιφέρειας  Νοτίου Αιγαίου \n\t(κωδικός αριθμός θέσης 0340193, κωδική ονομασία \"ΦΟΛΕΓΑΝΔΡΟΣ Α/Τ\") χορηγήθηκε, με την Απόφαση της ΕΕΤΤ \n45924/10-11-2022, άδεια κατασκευής κεραίας στην εταιρία OTE. \nΑπό τo έγγραφο της άδειας μπορείτε να ενημερωθείτε για τις σχετικές εγκρίσεις των συναρμόδιων φορέων, καθώς και εάν πρόκειται για τροποποίηση παλαιότερης άδειας.\nΗ άδεια χορηγήθηκε με τη διαδικασία αδειοδότησης που ορίζει ο ν. 4635/2019, κατόπιν της με αριθ. πρωτ. 22848/19-06-2017 \n\tαίτησης, και βάσει σχετικής δήλωσης του κατόχου της περί υπαγωγή της κατασκευής κεραίας στο άρθρο 34 του ν. 4635/2019.",
+  "measurements_eaee": "-",
+  "documents": [
+    {
+      "document_number": "297737/16-06-2017",
+      "protocol_number": "893/03-04-2017",
+      "type": "Τοπογραφικό",
+      "file_url": "https://silia.eett.gr/silia/download/566c7463-2be8-439d-b451-187271a6cada"
+    },
+    {
+      "document_number": "297738/16-06-2017",
+      "protocol_number": "893/03-04-2017",
+      "type": "Αρχιτεκτονικά Σχέδια",
+      "file_url": "https://silia.eett.gr/silia/download/230d5608-2afc-401f-bea2-dfb8c90cb7d1"
+    },
+    {
+      "document_number": "297741/16-06-2017",
+      "protocol_number": "Δ3/Δ/36456/7855/19-09-2003",
+      "type": "Γνωμάτευση ΥΠΑ",
+      "file_url": "https://silia.eett.gr/silia/download/9d9c98de-6371-4103-9fe3-c35e7c581560"
+    },
+    {
+      "document_number": "297744/16-06-2017",
+      "protocol_number": "ΜΕΣΩ ΣΗΛΥΑ/",
+      "type": "Αίτηση ΥΠΑ",
+      "file_url": "https://silia.eett.gr/silia/download/d9004a37-539d-4ba9-8a65-55ad61977f7a"
+    },
+    {
+      "document_number": "297844/16-06-2017",
+      "protocol_number": "ΥΔ ΣΥΝΕΓΚΑΤΑΣΤΑΣΗΣ ΙΝΜΑRSAT/",
+      "type": "Άλλο",
+      "file_url": "https://silia.eett.gr/silia/download/203f8b04-e3ad-4fff-9992-5305aa077197"
+    },
+    {
+      "document_number": "297845/16-06-2017",
+      "protocol_number": "ΥΔ ΣΥΝΕΓΚΑΤΑΣΤΑΣΗΣ COSMOTE/",
+      "type": "Άλλο",
+      "file_url": "https://silia.eett.gr/silia/download/a5e0a3d4-a2e9-472a-9afe-96e5308d468e"
+    },
+    {
+      "document_number": "297887/19-06-2017",
+      "protocol_number": "ΜΕΣΩ ΣΗΛΥΑ/30-03-2017",
+      "type": "Αίτηση - Μελέτη Ραδιοεκπομπών ΕΕΑΕ",
+      "file_url": "https://silia.eett.gr/silia/download/aca80660-3246-45a7-84f8-7c37b1569bb1"
+    },
+    {
+      "document_number": "297890/19-06-2017",
+      "protocol_number": "20621/05-04-2017",
+      "type": "Αίτηση / Μελέτη για Έγκριση Περιβαλλοντικών Επιπτώσεων",
+      "file_url": "https://silia.eett.gr/silia/download/82fab42d-71f0-4142-a2e3-2238531c752d"
+    },
+    {
+      "document_number": "297892/19-06-2017",
+      "protocol_number": "Αρχείο Αίτησης/",
+      "type": "Αίτηση Άδειας Κατασκευής Κεραίας ΕΕΤΤ",
+      "file_url": "https://silia.eett.gr/silia/download/bc5c237d-46d3-4bc0-a46c-27c7146f7fbe"
+    },
+    {
+      "document_number": "310373/18-10-2017",
+      "protocol_number": "Μ.ι./411/12091/2017/03-10-2017",
+      "type": "Γνωμάτευση ΕΕΑΕ",
+      "file_url": "https://silia.eett.gr/silia/download/381d01b2-30f5-42d9-8157-5b6d3da098bf"
+    },
+    {
+      "document_number": "472405/14-11-2022",
+      "protocol_number": "45924/10-11-2022",
+      "type": "Άδεια Κατασκευής  Κεραίας",
+      "file_url": "https://silia.eett.gr/silia/download/077a50b4-6237-4585-9069-f1eaaedaed2e"
+    },
+    {
+      "document_number": "470992/26-10-2022",
+      "protocol_number": "ΣΥΝΟΔΕΥΤΙΚΑ ΕΓΓΡΑΦΑ/",
+      "type": "Δήλωση υπαγωγής σε ΠΠΔ και Συνοδευτικά Έγγραφα",
+      "file_url": "https://silia.eett.gr/silia/download/d91bf4e4-089a-45ae-9dad-77014e48006c"
+    },
+    {
+      "document_number": "470993/26-10-2022",
+      "protocol_number": "Αρχείο Αίτησης/",
+      "type": "Δήλωση ΠΠΔ",
+      "file_url": "https://silia.eett.gr/silia/download/b6c001fe-8918-41f1-ba4b-0bc46675a71b"
+    }
+  ]
+}

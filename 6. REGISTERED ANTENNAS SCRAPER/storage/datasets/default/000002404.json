@@ -1,0 +1,87 @@
+{
+  "antenna_id": "136126",
+  "address": "ΟΔΟΣ ΑΡΓΕΙΩΝ 1 , Π.ΦΑΛΗΡΟ , ΔΗΜΟΣ Π.ΦΑΛΗΡΟΥ , Π.Ε.ΝΟΤΙΟΥ ΤΟΜΕΑ ΑΘΗΝΩΝ",
+  "position_code": 1420562,
+  "municipality": "Παλαιού Φαλήρου",
+  "code_name": "ARGION",
+  "region": "Αττικής",
+  "latitude": 37.939722,
+  "company": "OTE",
+  "longitude": 23.705,
+  "permit_status": "Από τα στοιχεία που τηρούνται στην Ενημερωτική Πύλη προκύπτει ότι, για τη θέση \"ΟΔΟΣ ΑΡΓΕΙΩΝ 1 , Π.ΦΑΛΗΡΟ , ΔΗΜΟΣ Π.ΦΑΛΗΡΟΥ , Π.Ε.ΝΟΤΙΟΥ ΤΟΜΕΑ ΑΘΗΝΩΝ\" στον Δήμο Παλαιού Φαλήρου Περιφέρειας  Αττικής \n\t(κωδικός αριθμός θέσης 1420562, κωδική ονομασία \"ARGION\") χορηγήθηκε, με την Απόφαση της ΕΕΤΤ \n36240/Φ.610/01-07-2020, άδεια κατασκευής κεραίας στην εταιρία OTE. \nΑπό τo έγγραφο της άδειας μπορείτε να ενημερωθείτε για τις σχετικές εγκρίσεις των συναρμόδιων φορέων, καθώς και εάν πρόκειται για τροποποίηση παλαιότερης άδειας.",
+  "measurements_eaee": "-",
+  "documents": [
+    {
+      "document_number": "348853/14-11-2018",
+      "protocol_number": "10975/12-10-2018",
+      "type": "Τοπογραφικό",
+      "file_url": "https://silia.eett.gr/silia/download/cba18f28-c083-4b44-9072-796fdf6ba1bf"
+    },
+    {
+      "document_number": "348854/14-11-2018",
+      "protocol_number": "10975/12-10-2018",
+      "type": "Αρχιτεκτονικά Σχέδια",
+      "file_url": "https://silia.eett.gr/silia/download/07e391b9-2cfb-41d2-8ad5-96c12d533d29"
+    },
+    {
+      "document_number": "348857/14-11-2018",
+      "protocol_number": "ΜΕΣΩ ΣΗΛΥΑ/22-06-2018",
+      "type": "Αίτηση - Μελέτη Ραδιοεκπομπών ΕΕΑΕ",
+      "file_url": "https://silia.eett.gr/silia/download/48c7cdd5-9335-4261-93dc-75a5a646a989"
+    },
+    {
+      "document_number": "348858/14-11-2018",
+      "protocol_number": "ΥΠΕΥΘΥΝΗ ΔΗΛΩΣΗ ΣΥΝΕΓΚΑΤΑΣΤΑΣΗΣ  ΟΤΕ/14-11-2018",
+      "type": "Άλλο",
+      "file_url": "https://silia.eett.gr/silia/download/11a90e90-25ae-410d-9c5e-dd72067f71df"
+    },
+    {
+      "document_number": "348881/14-11-2018",
+      "protocol_number": "Αρχείο Αίτησης/",
+      "type": "Αίτηση Άδειας Κατασκευής Κεραίας ΕΕΤΤ",
+      "file_url": "https://silia.eett.gr/silia/download/ccde34ac-0833-4545-a9d3-f84b288ca801"
+    },
+    {
+      "document_number": "359545/28-02-2019",
+      "protocol_number": "Μι/411/3486/2019/27-02-2019",
+      "type": "Γνωμάτευση ΕΕΑΕ",
+      "file_url": "https://silia.eett.gr/silia/download/535987f6-fab3-4894-90db-c9f11e64e47b"
+    },
+    {
+      "document_number": "386262/12-12-2019",
+      "protocol_number": "μελέτη EMC/27-11-2019",
+      "type": "Αποτελέσματα μελέτης στη ζώνης 2.6GHz για ΥΠΑ/ΓΕΕΘΑ",
+      "file_url": "https://silia.eett.gr/silia/download/a6785568-7ed9-4625-baba-e372963517ba"
+    },
+    {
+      "document_number": "393731/13-02-2020",
+      "protocol_number": "Δ3/Δ/6144/13-02-2020/13-02-2020",
+      "type": "Γνωμάτευση ΥΠΑ",
+      "file_url": "https://silia.eett.gr/silia/download/e005d0bd-0b75-4486-8a24-e81ad3625dce"
+    },
+    {
+      "document_number": "411636/24-06-2020",
+      "protocol_number": "29760/12-05-2020",
+      "type": "Επιστολή Ενημέρωσης προς Αρμόδιο Φορέα",
+      "file_url": "https://silia.eett.gr/silia/download/de309cd2-9ed5-4541-b922-54746b46c2d1"
+    },
+    {
+      "document_number": "413350/20-07-2020",
+      "protocol_number": "36240/Φ.610/01-07-2020",
+      "type": "Άδεια Κατασκευής  Κεραίας",
+      "file_url": "https://silia.eett.gr/silia/download/998f045f-804b-4ff2-afa1-146c07a51b8c"
+    },
+    {
+      "document_number": "348860/14-11-2018",
+      "protocol_number": "ΜΕΣΩ ΣΗΛΥΑ/",
+      "type": "Δήλωση υπαγωγής σε ΠΠΔ και Συνοδευτικά Έγγραφα",
+      "file_url": "https://silia.eett.gr/silia/download/4c4c132f-421f-48fd-9214-54f017a875c0"
+    },
+    {
+      "document_number": "348882/14-11-2018",
+      "protocol_number": "Αρχείο Αίτησης/",
+      "type": "Δήλωση ΠΠΔ",
+      "file_url": "https://silia.eett.gr/silia/download/4b0bd102-a1c9-417e-848d-303a486873b7"
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "antenna_id": "152441",
+  "address": "Πλησίον Δ.δ. Λιθίνων, Δήμου Σητείας, Π.Ε. Λασιθίου, Περιφέρεια Κρήτης",
+  "position_code": 3207111,
+  "municipality": "Σητείας",
+  "code_name": "ΛΙΘΙΝΕΣ-Δ",
+  "region": "Κρήτης",
+  "latitude": 35.070833,
+  "company": "ΕΡΤ ΑΕ",
+  "longitude": 26.068611,
+  "permit_status": "Από τα στοιχεία που τηρούνται στην Ενημερωτική Πύλη προκύπτει ότι για τη  θέση \"Πλησίον Δ.δ. Λιθίνων, Δήμου Σητείας, Π.Ε. Λασιθίου, Περιφέρεια Κρήτης\" στον Δήμο Σητείας Περιφέρειας  Κρήτης έχει κατατεθεί από την εταιρία ΕΡΤ ΑΕ δήλωση δομικών κατασκευών κεραιών  \nμε αριθ. πρωτ. ΣΗΛΥΑ 38076/08-04-2020 κατά τα οριζόμενα στην παρ. 7 του άρθρου 34 του Ν.4635/2019.",
+  "measurements_eaee": "-",
+  "documents": [
+    {
+      "document_number": "399857/24-03-2020",
+      "protocol_number": "βεβαίωση 1ης ηλεκτροδότησης/",
+      "type": "Άλλο",
+      "file_url": "https://silia.eett.gr/silia/download/2f13f166-07e0-435d-aa9b-15044e0533c4"
+    },
+    {
+      "document_number": "400045/25-03-2020",
+      "protocol_number": "δορυφορική λήψη και στοιχεία δομικών κατασκευών/",
+      "type": "Άλλο",
+      "file_url": "https://silia.eett.gr/silia/download/dff9f8c0-fc5b-41f2-96d9-282e65fc2151"
+    },
+    {
+      "document_number": "400696/30-03-2020",
+      "protocol_number": "απογραφή 1987/",
+      "type": "Άλλο",
+      "file_url": "https://silia.eett.gr/silia/download/96b5053d-4e9b-44a0-a06c-e5f4cb3bebce"
+    },
+    {
+      "document_number": "400697/30-03-2020",
+      "protocol_number": "πίνακας 49 απογραφής ΕΡΤ 1987/",
+      "type": "Άλλο",
+      "file_url": "https://silia.eett.gr/silia/download/4b00b390-6b42-48be-9785-c488aa165098"
+    },
+    {
+      "document_number": "401675/08-04-2020",
+      "protocol_number": "Αρχείο Αίτησης/",
+      "type": "Δήλωση Δομικών ΕΡΤ",
+      "file_url": "https://silia.eett.gr/silia/download/cd167a19-54aa-405e-a725-95d5d5401b61"
+    }
+  ]
+}

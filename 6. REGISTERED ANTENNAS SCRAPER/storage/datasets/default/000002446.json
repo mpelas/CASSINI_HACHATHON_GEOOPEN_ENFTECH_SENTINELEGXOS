@@ -1,0 +1,33 @@
+{
+  "antenna_id": "157685",
+  "address": "ΛΕΩΦ. ΑΝΘΟΥΣΣΑΣ, ΠΑΛΛΗΝΗ",
+  "position_code": 1268060,
+  "municipality": "Παλλήνης",
+  "code_name": "SYNGENTA ANTHOUSSA",
+  "region": "Αττικής",
+  "latitude": 38.008333,
+  "company": "NOVA Μ.Α.Ε.",
+  "longitude": 23.87,
+  "permit_status": "Από τα στοιχεία που τηρούνται στην Ενημερωτική Πύλη προκύπτει ότι, για τη θέση \"ΛΕΩΦ. ΑΝΘΟΥΣΣΑΣ, ΠΑΛΛΗΝΗ\" στον Δήμο Παλλήνης Περιφέρειας  Αττικής \n\t(κωδικός αριθμός θέσης 1268060, κωδική ονομασία \"SYNGENTA ANTHOUSSA\") έχει κατατεθεί από την εταιρία NOVA Μ.Α.Ε.\tδήλωση εγκατάστασης κατασκευής κεραίας (αριθ. πρωτ. \n\t42868/16-02-2021) που εμπίπτει στις διατάξεις της νομοθεσίας για Εγκαταστάσεις Κατασκευών Κεραιών Χαμηλής Ηλεκτρομαγνητικής Περιβαλλοντικής Όχλησης (ΕΚΚΧΟ).",
+  "measurements_eaee": "-",
+  "documents": [
+    {
+      "document_number": "429569/16-02-2021",
+      "protocol_number": "ΣΚΑΡΙΦΗΜΑ ΕΚΚΧΟ/",
+      "type": "Φωτογραφικό Υλικό - Σκαρίφημα",
+      "file_url": "https://silia.eett.gr/silia/download/e95ff09f-d3f8-47b9-8cee-1b810ea1180e"
+    },
+    {
+      "document_number": "429573/16-02-2021",
+      "protocol_number": "Αρχείο Αίτησης/",
+      "type": "Δήλωση ΕΚΚΧΟ",
+      "file_url": "https://silia.eett.gr/silia/download/05ef661c-4967-4d51-987c-2b5306494c05"
+    },
+    {
+      "document_number": "438362/13-07-2021",
+      "protocol_number": "ΥΠΕΥΘΥΝΗ ΔΗΛΩΣΗ ΜΗΧΑΝΙΚΟΥ/",
+      "type": "Άλλο",
+      "file_url": "https://silia.eett.gr/silia/download/f0ac3e1b-f3fa-4f05-845c-c9e9b4129b55"
+    }
+  ]
+}

@@ -1,0 +1,87 @@
+{
+  "antenna_id": "132817",
+  "address": "ΣΕΒΑΣΤΕΙΑΣ 4",
+  "position_code": 1000076,
+  "municipality": "Νέας Ιωνίας",
+  "code_name": "ΠΕΥΚΑΚΙΑ",
+  "region": "Αττικής",
+  "latitude": 38.039722,
+  "company": "VODAFONE",
+  "longitude": 23.748611,
+  "permit_status": "Από τα στοιχεία που τηρούνται στην Ενημερωτική Πύλη προκύπτει ότι, για τη θέση \"ΣΕΒΑΣΤΕΙΑΣ 4\" στον Δήμο Νέας Ιωνίας Περιφέρειας  Αττικής \n\t(κωδικός αριθμός θέσης 1000076, κωδική ονομασία \"ΠΕΥΚΑΚΙΑ\") χορηγήθηκε, με την Απόφαση της ΕΕΤΤ \n37814/Φ610/09-11-2020, άδεια κατασκευής κεραίας στην εταιρία VODAFONE. \nΑπό τo έγγραφο της άδειας μπορείτε να ενημερωθείτε για τις σχετικές εγκρίσεις των συναρμόδιων φορέων, καθώς και εάν πρόκειται για τροποποίηση παλαιότερης άδειας.\nΗ άδεια χορηγήθηκε με τη διαδικασία αδειοδότησης που ορίζει ο ν. 4635/2019, κατόπιν της με αριθ. πρωτ. 27432/07-05-2018 \n\tαίτησης, και βάσει σχετικής δήλωσης του κατόχου της περί υπαγωγή της κατασκευής κεραίας στο άρθρο 34 του ν. 4635/2019.",
+  "measurements_eaee": "-",
+  "documents": [
+    {
+      "document_number": "328249/02-05-2018",
+      "protocol_number": "ΜΕΛΕΤΗ Ρ-Ε/23-04-2018",
+      "type": "Αίτηση - Μελέτη Ραδιοεκπομπών ΕΕΑΕ",
+      "file_url": "https://silia.eett.gr/silia/download/984e8bc1-0cfb-4d16-8637-f88299334817"
+    },
+    {
+      "document_number": "328603/07-05-2018",
+      "protocol_number": "ΜΕΛΕΤΗ ΥΠΟΒΑΘΡΟΥ/02-05-2018",
+      "type": "Αίτηση - Μελέτη Ραδιοεκπομπών ΕΕΑΕ (υποβάθρου)",
+      "file_url": "https://silia.eett.gr/silia/download/3e0b2288-2f53-414e-bc65-9273fca0e0f4"
+    },
+    {
+      "document_number": "328604/07-05-2018",
+      "protocol_number": "ΤΟΠΟΓΡΑΦΙΚΟ /",
+      "type": "Τοπογραφικό",
+      "file_url": "https://silia.eett.gr/silia/download/1b2dbadf-d932-4ec9-a8cd-93c2794e2f39"
+    },
+    {
+      "document_number": "328605/07-05-2018",
+      "protocol_number": "ΑΡΧΙΤΕΚΤΟΝΙΚΑ/",
+      "type": "Αρχιτεκτονικά Σχέδια",
+      "file_url": "https://silia.eett.gr/silia/download/25719100-44b3-4bb9-a2c1-043b1f70bad3"
+    },
+    {
+      "document_number": "328619/07-05-2018",
+      "protocol_number": "Δ3/Δ/5840/724 αρχικη/07-02-1995",
+      "type": "Γνωμάτευση ΥΠΑ",
+      "file_url": "https://silia.eett.gr/silia/download/b6997735-d6c5-4245-a0be-5fb2b2b9e902"
+    },
+    {
+      "document_number": "328620/07-05-2018",
+      "protocol_number": "Δ3/Δ/48685/10989 διορθ/18-12-2007",
+      "type": "Γνωμάτευση ΥΠΑ",
+      "file_url": "https://silia.eett.gr/silia/download/9735be8d-8117-4105-9202-f5de5c98848f"
+    },
+    {
+      "document_number": "328621/07-05-2018",
+      "protocol_number": "Αρχείο Αίτησης/",
+      "type": "Αίτηση Άδειας Κατασκευής Κεραίας ΕΕΤΤ",
+      "file_url": "https://silia.eett.gr/silia/download/fb4f24fa-cf91-48e5-a75f-870293fb781e"
+    },
+    {
+      "document_number": "336420/23-07-2018",
+      "protocol_number": "Μ.ι./411/10302/2018/19-07-2018",
+      "type": "Γνωμάτευση ΕΕΑΕ",
+      "file_url": "https://silia.eett.gr/silia/download/3fd992db-aff3-48a2-8aec-9723f77418b4"
+    },
+    {
+      "document_number": "422089/17-11-2020",
+      "protocol_number": "37814/Φ610/09-11-2020",
+      "type": "Άδεια Κατασκευής  Κεραίας",
+      "file_url": "https://silia.eett.gr/silia/download/c1629dc9-0e93-4e7f-9eb2-2873d8382ba9"
+    },
+    {
+      "document_number": "328213/02-05-2018",
+      "protocol_number": "ΣΥΝΟΔΕΥΤΙΚΑ ΕΓΓΡΑΦΑ ΠΠΔ/",
+      "type": "Δήλωση υπαγωγής σε ΠΠΔ και Συνοδευτικά Έγγραφα",
+      "file_url": "https://silia.eett.gr/silia/download/ca3c8384-8457-4125-bcd5-9e98eb4977a1"
+    },
+    {
+      "document_number": "328250/02-05-2018",
+      "protocol_number": "ΜΕΛΕΤΗ Ρ-Ε/23-04-2018",
+      "type": "Αίτηση - Μελέτη Ραδιοεκπομπών ΕΕΑΕ",
+      "file_url": "https://silia.eett.gr/silia/download/984e8bc1-0cfb-4d16-8637-f88299334817"
+    },
+    {
+      "document_number": "328622/07-05-2018",
+      "protocol_number": "Αρχείο Αίτησης/",
+      "type": "Δήλωση ΠΠΔ",
+      "file_url": "https://silia.eett.gr/silia/download/9d943ec1-1dad-4e13-9ec6-c3c4756219f2"
+    }
+  ]
+}

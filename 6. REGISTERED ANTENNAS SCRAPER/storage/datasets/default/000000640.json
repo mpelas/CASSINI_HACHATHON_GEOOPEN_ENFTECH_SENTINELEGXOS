@@ -1,0 +1,45 @@
+{
+  "antenna_id": "136748",
+  "address": "ΠΑΡΑΛΙΑ ΜΑΥΡΟΒΟΥΝΙΟΥ, ΓΥΘΕΙΟ",
+  "position_code": 1290413,
+  "municipality": "Ανατολικής Μάνης",
+  "code_name": "MAVROVOUNI GYTHIOU",
+  "region": "Πελοποννήσου",
+  "latitude": 36.731389,
+  "company": "NOVA Μ.Α.Ε.",
+  "longitude": 22.560833,
+  "permit_status": "Από τα στοιχεία που τηρούνται στην Ενημερωτική Πύλη προκύπτει ότι, για τη θέση \"ΠΑΡΑΛΙΑ ΜΑΥΡΟΒΟΥΝΙΟΥ, ΓΥΘΕΙΟ\" στον Δήμο Ανατολικής Μάνης Περιφέρειας  Πελοποννήσου \n\t(κωδικός αριθμός θέσης 1290413, κωδική ονομασία \"MAVROVOUNI GYTHIOU\") έχει κατατεθεί από την εταιρία NOVA Μ.Α.Ε.\tδήλωση εγκατάστασης κατασκευής κεραίας (αριθ. πρωτ. \n\t31564/11-02-2019) που εμπίπτει στις διατάξεις της νομοθεσίας για Εγκαταστάσεις Κατασκευών Κεραιών Χαμηλής Ηλεκτρομαγνητικής Περιβαλλοντικής Όχλησης (ΕΚΚΧΟ).",
+  "measurements_eaee": "-",
+  "documents": [
+    {
+      "document_number": "352660/21-12-2018",
+      "protocol_number": "ΣΚΑΡΙΦΗΜΑ ΕΚΚΧΟ LINK/",
+      "type": "Φωτογραφικό Υλικό - Σκαρίφημα",
+      "file_url": "https://silia.eett.gr/silia/download/ef6fe799-6b74-4154-bb9d-a7dfcf834d64"
+    },
+    {
+      "document_number": "357271/11-02-2019",
+      "protocol_number": "ΥΠΕΥΘΥΝΗ ΔΗΛΩΣΗ ΥΠΕΥΘΥΝΟΥ/",
+      "type": "Άλλο",
+      "file_url": "https://silia.eett.gr/silia/download/96e5ee50-5ac2-445a-aafb-67671570a703"
+    },
+    {
+      "document_number": "357273/11-02-2019",
+      "protocol_number": "ΥΠΠΟΑ/ΓΔΑΜΤΕ/ΥΝΜΤΕΔΕΠΝΙ/644359/65431/9072/17-12-2018",
+      "type": "Γνωμοδότηση Υπηρεσίας Νεωτέρων Μνημείων",
+      "file_url": "https://silia.eett.gr/silia/download/598edffe-1605-48d6-84a6-7b2f2e7ae609"
+    },
+    {
+      "document_number": "357274/11-02-2019",
+      "protocol_number": "ΥΠΠΟΑ/ΓΔΑΠΚ/ΕΦΑΛΑΚ/644983/463558/7395/04-02-2019",
+      "type": "Αρχαιολογική έγκριση/γνωμοδότηση (μη τυπική)",
+      "file_url": "https://silia.eett.gr/silia/download/c0def436-1b99-45a3-b2c0-2ab8a26d6108"
+    },
+    {
+      "document_number": "357339/11-02-2019",
+      "protocol_number": "Αρχείο Αίτησης/",
+      "type": "Δήλωση ΕΚΚΧΟ",
+      "file_url": "https://silia.eett.gr/silia/download/4cafe70c-ed44-4aba-be41-21b4d3c81392"
+    }
+  ]
+}

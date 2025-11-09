@@ -1,0 +1,45 @@
+{
+  "antenna_id": "169235",
+  "address": "ΣΤΟΜΙΟ ΛΑΡΙΣΑ",
+  "position_code": 1498617,
+  "municipality": "Τεμπών",
+  "code_name": "STOMIO_TK",
+  "region": "Θεσσαλίας",
+  "latitude": 39.868611,
+  "company": "OTE",
+  "longitude": 22.728889,
+  "permit_status": "Από τα στοιχεία που τηρούνται στην Ενημερωτική Πύλη προκύπτει ότι, για τη θέση \"ΣΤΟΜΙΟ ΛΑΡΙΣΑ\" στον Δήμο Τεμπών Περιφέρειας  Θεσσαλίας \n\t(κωδικός αριθμός θέσης 1498617, κωδική ονομασία \"STOMIO_TK\") έχει κατατεθεί από την εταιρία OTE\tδήλωση εγκατάστασης κατασκευής κεραίας (αριθ. πρωτ. \n\t54534/30-01-2024) που εμπίπτει στις διατάξεις της νομοθεσίας για Εγκαταστάσεις Κατασκευών Κεραιών Χαμηλής Ηλεκτρομαγνητικής Περιβαλλοντικής Όχλησης (ΕΚΚΧΟ).",
+  "measurements_eaee": "-",
+  "documents": [
+    {
+      "document_number": "490049/12-07-2023",
+      "protocol_number": "ΦΩΤΟΓΡΑΦΙΑ/",
+      "type": "Φωτογραφικό Υλικό - Σκαρίφημα",
+      "file_url": "https://silia.eett.gr/silia/download/0cc3d9a3-8544-4bc4-8ffd-021f4b88262e"
+    },
+    {
+      "document_number": "490050/12-07-2023",
+      "protocol_number": "ΦΩΤΟΓΡΑΦΙΑ/",
+      "type": "Φωτογραφικό Υλικό - Σκαρίφημα",
+      "file_url": "https://silia.eett.gr/silia/download/68bdaaa9-2286-435e-be6d-1d940f5f479e"
+    },
+    {
+      "document_number": "505988/30-01-2024",
+      "protocol_number": "ΜΕΣΩ ΣΗΛΥΑ/",
+      "type": "Αίτηση - Μελέτη Ραδιοεκπομπών ΕΕΑΕ",
+      "file_url": "https://silia.eett.gr/silia/download/0408bf73-f86f-4b0c-ae3b-ba94654c9a76"
+    },
+    {
+      "document_number": "506013/30-01-2024",
+      "protocol_number": "Αρχείο Αίτησης/",
+      "type": "Δήλωση ΕΚΚΧΟ",
+      "file_url": "https://silia.eett.gr/silia/download/3117d337-ab04-4e73-84be-bed446e14a2a"
+    },
+    {
+      "document_number": "519427/03-07-2024",
+      "protocol_number": "ΥΠ.ΔΗΛΩΣΗ/03-07-2024",
+      "type": "Άλλο",
+      "file_url": "https://silia.eett.gr/silia/download/GdErADVaScPym1Y8gvGOR0W9hB5hZP2FTebr"
+    }
+  ]
+}

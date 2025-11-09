@@ -1,0 +1,63 @@
+{
+  "antenna_id": "169961",
+  "address": "2ο χλμ. Ε.Ο. ΑΓΡΙΝΙΟΥ-ΙΩΑΝΝΙΝΩΝ Δ. ΑΓΡΙΝΙΟΥ",
+  "position_code": 1141031,
+  "municipality": "Αγρινίου",
+  "code_name": "3031031 PANEMPORIKI AGRINIOU",
+  "region": "Δυτικής Ελλάδας",
+  "latitude": 38.633889,
+  "company": "VODAFONE",
+  "longitude": 21.391111,
+  "permit_status": "Από τα στοιχεία που τηρούνται στην Ενημερωτική Πύλη προκύπτει ότι, για τη θέση \"2ο χλμ. Ε.Ο. ΑΓΡΙΝΙΟΥ-ΙΩΑΝΝΙΝΩΝ Δ. ΑΓΡΙΝΙΟΥ\" στον Δήμο Αγρινίου Περιφέρειας  Δυτικής Ελλάδας \n\t(κωδικός αριθμός θέσης 1141031, κωδική ονομασία \"3031031 PANEMPORIKI AGRINIOU \") έχει κατατεθεί από την εταιρία VODAFONE\tδήλωση εγκατάστασης κατασκευής κεραίας (αριθ. πρωτ. \n\t52929/22-09-2023) που εμπίπτει στις διατάξεις της νομοθεσίας για Εγκαταστάσεις Κατασκευών Κεραιών Χαμηλής Ηλεκτρομαγνητικής Περιβαλλοντικής Όχλησης (ΕΚΚΧΟ).",
+  "measurements_eaee": "-",
+  "documents": [
+    {
+      "document_number": "494791/20-09-2023",
+      "protocol_number": "Φωτορεαλιστική απεικόνιση κεραιας ΕΚΚΧΟ/",
+      "type": "Φωτογραφικό Υλικό - Σκαρίφημα",
+      "file_url": "https://silia.eett.gr/silia/download/9d5686e1-bf1d-40c5-b689-33c7efa3d53b"
+    },
+    {
+      "document_number": "494792/20-09-2023",
+      "protocol_number": "Ψηφιακός Χάρτης με προβολή της θέσης της κεραίας ΕΚΚΧΟ/",
+      "type": "Φωτογραφικό Υλικό - Σκαρίφημα",
+      "file_url": "https://silia.eett.gr/silia/download/8b47ef15-c3bd-49aa-95c8-ce72ea87a386"
+    },
+    {
+      "document_number": "494793/20-09-2023",
+      "protocol_number": "Φ.550/ΑΔ.10066/Σ.1848/29-08-2023",
+      "type": "Γνωμάτευση ΓΕΑ",
+      "file_url": "https://silia.eett.gr/silia/download/31e5c018-91ae-4724-b9e6-9c574432613c"
+    },
+    {
+      "document_number": "494794/20-09-2023",
+      "protocol_number": "Αρχιτεκτονικά σχέδια ΕΚΚΧΟ/",
+      "type": "Αρχιτεκτονικά Σχέδια",
+      "file_url": "https://silia.eett.gr/silia/download/33de14ec-7217-4721-89d3-7c4b41615cf1"
+    },
+    {
+      "document_number": "495090/22-09-2023",
+      "protocol_number": "Μελέτη ΕΚΚΧΟ/22-09-2023",
+      "type": "Άλλο",
+      "file_url": "https://silia.eett.gr/silia/download/17bd4d4e-020f-4a49-8426-cc51803c6d9b"
+    },
+    {
+      "document_number": "495091/22-09-2023",
+      "protocol_number": "Ψηφιακός Χάρτης με προβολή της θέσης της κεραίας ΕΚΚΧΟ/",
+      "type": "Φωτογραφικό Υλικό - Σκαρίφημα",
+      "file_url": "https://silia.eett.gr/silia/download/17f9cff8-1469-4855-bf7c-f1a70d1c5ae1"
+    },
+    {
+      "document_number": "495092/22-09-2023",
+      "protocol_number": "Αρχείο Αίτησης/",
+      "type": "Δήλωση ΕΚΚΧΟ",
+      "file_url": "https://silia.eett.gr/silia/download/5a42b2d2-587e-47e0-ba00-9ca074365956"
+    },
+    {
+      "document_number": "502543/06-12-2023",
+      "protocol_number": "ΥΔ εγκατάστασης/04-12-2023",
+      "type": "Άλλο",
+      "file_url": "https://silia.eett.gr/silia/download/22c7b106-22f4-4f2a-99fc-ce398200035b"
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "antenna_id": "172155",
+  "address": "ΑΓΙΑ ΓΑΛΗΝΗ ΡΕΘΥΜΝΗΣ",
+  "position_code": 1141515,
+  "municipality": "Αγίου Βασιλείου",
+  "code_name": "3031515 VARDAKIS AGIA GALINI",
+  "region": "Κρήτης",
+  "latitude": 35.0975,
+  "company": "VODAFONE",
+  "longitude": 24.686389,
+  "permit_status": "Από τα στοιχεία που τηρούνται στην Ενημερωτική Πύλη προκύπτει ότι, για τη θέση \"ΑΓΙΑ ΓΑΛΗΝΗ ΡΕΘΥΜΝΗΣ\" στον Δήμο Αγίου Βασιλείου Περιφέρειας  Κρήτης \n\t(κωδικός αριθμός θέσης 1141515, κωδική ονομασία \"3031515 VARDAKIS AGIA GALINI\") έχει κατατεθεί από την εταιρία VODAFONE\tδήλωση εγκατάστασης κατασκευής κεραίας (αριθ. πρωτ. \n\t54789/14-02-2024) που εμπίπτει στις διατάξεις της νομοθεσίας για Εγκαταστάσεις Κατασκευών Κεραιών Χαμηλής Ηλεκτρομαγνητικής Περιβαλλοντικής Όχλησης (ΕΚΚΧΟ).",
+  "measurements_eaee": "-",
+  "documents": [
+    {
+      "document_number": "507586/14-02-2024",
+      "protocol_number": "Φωτορεαλιστική απεικόνιση κεραιας ΕΚΚΧΟ/",
+      "type": "Φωτογραφικό Υλικό - Σκαρίφημα",
+      "file_url": "https://silia.eett.gr/silia/download/caab97c9-a6e4-48c0-ad9d-26af6695b4f6"
+    },
+    {
+      "document_number": "507587/14-02-2024",
+      "protocol_number": "Ψηφιακός Χάρτης με προβολή της θέσης της κεραίας ΕΚΚΧΟ/",
+      "type": "Φωτογραφικό Υλικό - Σκαρίφημα",
+      "file_url": "https://silia.eett.gr/silia/download/7a16d005-9747-4171-8382-8a0ce2e68f3e"
+    },
+    {
+      "document_number": "507617/14-02-2024",
+      "protocol_number": "Μελέτη ΕΚΚΧΟ/14-02-2024",
+      "type": "Άλλο",
+      "file_url": "https://silia.eett.gr/silia/download/7abda167-857d-4240-bf01-b27db0febc5d"
+    },
+    {
+      "document_number": "507618/14-02-2024",
+      "protocol_number": "Σκαρίφημα με περιοχή απαγόρευσης/",
+      "type": "Φωτογραφικό Υλικό - Σκαρίφημα",
+      "file_url": "https://silia.eett.gr/silia/download/213c5ace-93a6-41d0-a08c-62557409d5bb"
+    },
+    {
+      "document_number": "507620/14-02-2024",
+      "protocol_number": "Αρχείο Αίτησης/",
+      "type": "Δήλωση ΕΚΚΧΟ",
+      "file_url": "https://silia.eett.gr/silia/download/09cf6668-9c93-4b24-95b8-8c5b7b478d28"
+    }
+  ]
+}

@@ -1,0 +1,51 @@
+{
+  "antenna_id": "173955",
+  "address": "ΑΝΤ. ΠΕΤΕΙΝΑΚΗ ,ΧΕΡΣΟΝΗΣΟΥ,ΗΡΑΚΛΕΙΟΥ",
+  "position_code": 1496602,
+  "municipality": "Ηρακλείου Κρήτης",
+  "code_name": "DEOS_LUXURY_HER",
+  "region": "Κρήτης",
+  "latitude": 35.308611,
+  "company": "OTE",
+  "longitude": 25.391944,
+  "permit_status": "Από τα στοιχεία που τηρούνται στην Ενημερωτική Πύλη προκύπτει ότι, για τη θέση \"ΑΝΤ. ΠΕΤΕΙΝΑΚΗ ,ΧΕΡΣΟΝΗΣΟΥ,ΗΡΑΚΛΕΙΟΥ\" στον Δήμο Ηρακλείου Κρήτης Περιφέρειας  Κρήτης \n\t(κωδικός αριθμός θέσης 1496602, κωδική ονομασία \"DEOS_LUXURY_HER\") έχει κατατεθεί από την εταιρία OTE\tδήλωση εγκατάστασης κατασκευής κεραίας (αριθ. πρωτ. \n\t57704/09-10-2024) που εμπίπτει στις διατάξεις της νομοθεσίας για Εγκαταστάσεις Κατασκευών Κεραιών Χαμηλής Ηλεκτρομαγνητικής Περιβαλλοντικής Όχλησης (ΕΚΚΧΟ).",
+  "measurements_eaee": "-",
+  "documents": [
+    {
+      "document_number": "518209/18-06-2024",
+      "protocol_number": "ΦΩΤΟΓΡΑΦΙΑ/18-06-2024",
+      "type": "Φωτογραφικό Υλικό - Σκαρίφημα",
+      "file_url": "https://silia.eett.gr/silia/download/pA6gi927RKiL7zngXfgs5PgWRbIsMdxv4suH"
+    },
+    {
+      "document_number": "518210/18-06-2024",
+      "protocol_number": "ΦΩΤΟΓΡΑΦΙΑ1/18-06-2024",
+      "type": "Φωτογραφικό Υλικό - Σκαρίφημα",
+      "file_url": "https://silia.eett.gr/silia/download/D5Y9LrhgZLeNO2ePppaz39L67St8hx2xrKH5"
+    },
+    {
+      "document_number": "528304/09-10-2024",
+      "protocol_number": "ΜΕΛΕΤΗ/09-10-2024",
+      "type": "Αίτηση - Μελέτη Ραδιοεκπομπών ΕΕΑΕ",
+      "file_url": "https://silia.eett.gr/silia/download/GnBcXXCSrQ3T4NwCvUhKRot9WSGORRpCrGK8"
+    },
+    {
+      "document_number": "528316/09-10-2024",
+      "protocol_number": "Αρχείο Αίτησης/09-10-2024",
+      "type": "Δήλωση ΕΚΚΧΟ",
+      "file_url": "https://silia.eett.gr/silia/download/SZwAEggwmzDfbU7o3AMv1RQoWC7rbQuunpnI"
+    },
+    {
+      "document_number": "532948/19-11-2024",
+      "protocol_number": "ΑΠΟΣΠΑΣΜΑ ΨΗΦΙΑΚΟΥ ΧΑΡΤΗ/19-11-2024",
+      "type": "Φωτογραφικό Υλικό - Σκαρίφημα",
+      "file_url": "https://silia.eett.gr/silia/download/YsoCgz0Lkd6yQ2NM8QlE6ovkIQZAn0hL4nwH"
+    },
+    {
+      "document_number": "533103/20-11-2024",
+      "protocol_number": "ΥΠ.ΔΗΛΩΣΗ/20-11-2024",
+      "type": "Άλλο",
+      "file_url": "https://silia.eett.gr/silia/download/sEZI0zCYw1GVaN7tZA9ZkL7QlYIRwhUaNO3u"
+    }
+  ]
+}

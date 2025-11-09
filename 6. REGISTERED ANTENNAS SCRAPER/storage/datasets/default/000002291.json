@@ -1,0 +1,81 @@
+{
+  "antenna_id": "143715",
+  "address": "ΕΠΙ ΑΝΩΝΥΜΗΣ ΕΠΑΡΧΙΑΚΗΣ ΟΔΟΥ, Δ.Δ. ΠΕΛΛΗΝΗΣ",
+  "position_code": 320062,
+  "municipality": "Ξυλοκάστρου - Ευρωστίνης",
+  "code_name": "ΠΕΛΛΗΝΗ Α/Τ",
+  "region": "Πελοποννήσου",
+  "latitude": 38.045556,
+  "company": "OTE",
+  "longitude": 22.540556,
+  "permit_status": "Από τα στοιχεία που τηρούνται στην Ενημερωτική Πύλη προκύπτει ότι, για τη θέση \"ΕΠΙ ΑΝΩΝΥΜΗΣ ΕΠΑΡΧΙΑΚΗΣ ΟΔΟΥ, Δ.Δ. ΠΕΛΛΗΝΗΣ\" στον Δήμο Ξυλοκάστρου - Ευρωστίνης Περιφέρειας  Πελοποννήσου \n\t(κωδικός αριθμός θέσης 0320062, κωδική ονομασία \"ΠΕΛΛΗΝΗ Α/Τ\") χορηγήθηκε, με την Απόφαση της ΕΕΤΤ \n37000/Φ610/08-10-2020, άδεια κατασκευής κεραίας στην εταιρία OTE. \nΑπό τo έγγραφο της άδειας μπορείτε να ενημερωθείτε για τις σχετικές εγκρίσεις των συναρμόδιων φορέων, καθώς και εάν πρόκειται για τροποποίηση παλαιότερης άδειας.\nΗ άδεια χορηγήθηκε με τη διαδικασία αδειοδότησης που ορίζει ο ν. 4635/2019, κατόπιν της με αριθ. πρωτ. 34102/03-09-2019 \n\tαίτησης, και βάσει σχετικής δήλωσης του κατόχου της περί υπαγωγή της κατασκευής κεραίας στο άρθρο 34 του ν. 4635/2019.",
+  "measurements_eaee": "-",
+  "documents": [
+    {
+      "document_number": "374018/02-09-2019",
+      "protocol_number": "1025/14-07-2017",
+      "type": "Τοπογραφικό",
+      "file_url": "https://silia.eett.gr/silia/download/ac8399b0-3834-4864-afeb-0b6e9f2f55e0"
+    },
+    {
+      "document_number": "374019/02-09-2019",
+      "protocol_number": "1025/14-07-2017",
+      "type": "Αρχιτεκτονικά Σχέδια",
+      "file_url": "https://silia.eett.gr/silia/download/e395103c-377d-4b9c-bd6a-aa5098bb6883"
+    },
+    {
+      "document_number": "374022/02-09-2019",
+      "protocol_number": "Δ3/Δ/51518/10770/09-01-2004",
+      "type": "Γνωμάτευση ΥΠΑ",
+      "file_url": "https://silia.eett.gr/silia/download/a1bd41e6-3ce6-4dcd-b572-094e686d85bc"
+    },
+    {
+      "document_number": "374023/02-09-2019",
+      "protocol_number": "ΜΕΣΩ ΣΗΛΥΑ/02-09-2019",
+      "type": "Αίτηση ΥΠΑ",
+      "file_url": "https://silia.eett.gr/silia/download/afe2c2d4-4f6b-4553-b18a-dbef5be06f9c"
+    },
+    {
+      "document_number": "374024/02-09-2019",
+      "protocol_number": "ΜΕΣΩ ΣΗΛΥΑ/03-04-2018",
+      "type": "Αίτηση - Μελέτη Ραδιοεκπομπών ΕΕΑΕ",
+      "file_url": "https://silia.eett.gr/silia/download/57ce3139-9cf5-48a5-98ad-68869679f95f"
+    },
+    {
+      "document_number": "374026/02-09-2019",
+      "protocol_number": "ΥΠΕΥΘΥΝΗ ΔΗΛΩΣΗ ΣΥΝΕΓΚΑΤΑΣΤΑΣΗΣ  COSMOTE/02-09-2019",
+      "type": "Άλλο",
+      "file_url": "https://silia.eett.gr/silia/download/60172d35-e485-41dd-9981-58857f3d746f"
+    },
+    {
+      "document_number": "374182/03-09-2019",
+      "protocol_number": "Αρχείο Αίτησης/",
+      "type": "Αίτηση Άδειας Κατασκευής Κεραίας ΕΕΤΤ",
+      "file_url": "https://silia.eett.gr/silia/download/bf1219eb-638f-4f68-b082-eac6071ec9c5"
+    },
+    {
+      "document_number": "387406/20-12-2019",
+      "protocol_number": "Μ.ι./411/18805/2019/20-12-2019",
+      "type": "Γνωμάτευση ΕΕΑΕ",
+      "file_url": "https://silia.eett.gr/silia/download/2cff4033-6e52-4567-b43d-d38a2aeec290"
+    },
+    {
+      "document_number": "419171/16-10-2020",
+      "protocol_number": "37000/Φ10/08-10-2020",
+      "type": "Άδεια Κατασκευής  Κεραίας",
+      "file_url": "https://silia.eett.gr/silia/download/b9c7d2ef-5765-4d1e-a27a-0bbfdbada061"
+    },
+    {
+      "document_number": "374027/02-09-2019",
+      "protocol_number": "ΜΕΣΩ ΣΗΛΥΑ/",
+      "type": "Δήλωση υπαγωγής σε ΠΠΔ και Συνοδευτικά Έγγραφα",
+      "file_url": "https://silia.eett.gr/silia/download/9ec1536c-1fdd-445a-bb05-16933f72aa6f"
+    },
+    {
+      "document_number": "374183/03-09-2019",
+      "protocol_number": "Αρχείο Αίτησης/",
+      "type": "Δήλωση ΠΠΔ",
+      "file_url": "https://silia.eett.gr/silia/download/c1f96555-578b-43e3-b4b8-0d57517a0736"
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "antenna_id": "155828",
+  "address": "ΜΑΚΡΥΧΩΡΙ - ΤΕΜΠΗ (TK 40006)",
+  "position_code": 1166177,
+  "municipality": "Τεμπών",
+  "code_name": "INTER CARS MAKRICHORI",
+  "region": "Θεσσαλίας",
+  "latitude": 39.775833,
+  "company": "VODAFONE",
+  "longitude": 22.485556,
+  "permit_status": "Από τα στοιχεία που τηρούνται στην Ενημερωτική Πύλη προκύπτει ότι, για τη θέση \"ΜΑΚΡΥΧΩΡΙ - ΤΕΜΠΗ (TK 40006)\" στον Δήμο Τεμπών Περιφέρειας  Θεσσαλίας \n\t(κωδικός αριθμός θέσης 1166177, κωδική ονομασία \"INTER CARS MAKRICHORI\") έχει κατατεθεί από την εταιρία VODAFONE\tδήλωση εγκατάστασης κατασκευής κεραίας (αριθ. πρωτ. \n\t40970/21-10-2020) που εμπίπτει στις διατάξεις της νομοθεσίας για Εγκαταστάσεις Κατασκευών Κεραιών Χαμηλής Ηλεκτρομαγνητικής Περιβαλλοντικής Όχλησης (ΕΚΚΧΟ).",
+  "measurements_eaee": "-",
+  "documents": [
+    {
+      "document_number": "415067/12-08-2020",
+      "protocol_number": "ΣΚΑΡΙΦΗΜΑ ΘΕΣΗΣ ΙΣΤΟΥ ΕΚΚΧΟ - ΚΑΤΟΨΗ - ΚΕΡΑΙΑΣ 1/",
+      "type": "Φωτογραφικό Υλικό - Σκαρίφημα",
+      "file_url": "https://silia.eett.gr/silia/download/581988bd-ce52-4164-b368-0cdc5e73a3c3"
+    },
+    {
+      "document_number": "415068/12-08-2020",
+      "protocol_number": "ΦΩΤΟΓΡΑΦΙΑ ΘΕΣΗΣ ΚΕΡΑΙΑΣ ΕΚΚΧΟ ΑΠΟ GOOGLE EARTH/",
+      "type": "Φωτογραφικό Υλικό - Σκαρίφημα",
+      "file_url": "https://silia.eett.gr/silia/download/95d2af7b-b16e-4c35-9ef6-64bd3d92b1fb"
+    },
+    {
+      "document_number": "419630/21-10-2020",
+      "protocol_number": "Αρχείο Αίτησης/",
+      "type": "Δήλωση ΕΚΚΧΟ",
+      "file_url": "https://silia.eett.gr/silia/download/ef910566-e837-40a1-9d28-ffa4339b2b7c"
+    }
+  ]
+}

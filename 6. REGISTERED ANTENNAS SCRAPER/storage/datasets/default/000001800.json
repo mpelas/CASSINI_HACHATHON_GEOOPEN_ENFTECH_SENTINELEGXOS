@@ -1,0 +1,45 @@
+{
+  "antenna_id": "176043",
+  "address": "ΣΤΡΥΜΟΝΙΚΟ ΣΕΡΡΩΝ",
+  "position_code": 1498526,
+  "municipality": "Ηρακλείας",
+  "code_name": "STRIMONIKO_TK",
+  "region": "Κεντρικής Μακεδονίας",
+  "latitude": 41.042222,
+  "company": "OTE",
+  "longitude": 23.315278,
+  "permit_status": "Από τα στοιχεία που τηρούνται στην Ενημερωτική Πύλη προκύπτει ότι, για τη θέση \"ΣΤΡΥΜΟΝΙΚΟ ΣΕΡΡΩΝ\" στον Δήμο Ηρακλείας Περιφέρειας  Κεντρικής Μακεδονίας \n\t(κωδικός αριθμός θέσης 1498526, κωδική ονομασία \"STRIMONIKO_TK\") έχει κατατεθεί από την εταιρία OTE\tδήλωση εγκατάστασης κατασκευής κεραίας (αριθ. πρωτ. \n\t58060/29-10-2024) που εμπίπτει στις διατάξεις της νομοθεσίας για Εγκαταστάσεις Κατασκευών Κεραιών Χαμηλής Ηλεκτρομαγνητικής Περιβαλλοντικής Όχλησης (ΕΚΚΧΟ).",
+  "measurements_eaee": "-",
+  "documents": [
+    {
+      "document_number": "530333/25-10-2024",
+      "protocol_number": "ΑΠΟΣΠΑΣΜΑ ΨΗΦΙΑΚΟΥ ΧΑΡΤΗ/25-10-2024",
+      "type": "Φωτογραφικό Υλικό - Σκαρίφημα",
+      "file_url": "https://silia.eett.gr/silia/download/gsn2ZB3Q9Zz869wViSbf1WKmdgghQgnToGH1"
+    },
+    {
+      "document_number": "530334/25-10-2024",
+      "protocol_number": "ΦΩΤΟΡΕΑΛΙΣΤΙΚΟ/25-10-2024",
+      "type": "Φωτογραφικό Υλικό - Σκαρίφημα",
+      "file_url": "https://silia.eett.gr/silia/download/4SgFSVZs15YTBVZGVQ4aLuTMWMvuSv0VLeM5"
+    },
+    {
+      "document_number": "530475/29-10-2024",
+      "protocol_number": "ΜΕΛΕΤΗ ΡΑΔΙΟΕΚΠΟΜΠΩΝ ΕΚΚΧΟ/29-10-2024",
+      "type": "Αίτηση - Μελέτη Ραδιοεκπομπών ΕΕΑΕ",
+      "file_url": "https://silia.eett.gr/silia/download/kxpYI2VohkRpmwoG2gwFbqgy4arxnROWPM73"
+    },
+    {
+      "document_number": "530476/29-10-2024",
+      "protocol_number": "Αρχείο Αίτησης/29-10-2024",
+      "type": "Δήλωση ΕΚΚΧΟ",
+      "file_url": "https://silia.eett.gr/silia/download/OG3T4FqcVHNVQoiMoC1Q1isNstgUd3xdHn8W"
+    },
+    {
+      "document_number": "539430/30-01-2025",
+      "protocol_number": "ΥΠ.ΔΗΛΩΣΗ/30-01-2025",
+      "type": "Άλλο",
+      "file_url": "https://silia.eett.gr/silia/download/QpOYtLx9ADHb8F2nFZAPkFBtBk8AUCyBDBM4"
+    }
+  ]
+}

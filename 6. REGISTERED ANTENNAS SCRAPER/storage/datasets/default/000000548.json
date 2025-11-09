@@ -1,0 +1,39 @@
+{
+  "antenna_id": "175683",
+  "address": "ΠΑΡΝΩΝΟΣ 3",
+  "position_code": 1497926,
+  "municipality": "Αμαρουσίου",
+  "code_name": "MOTOROIL_MAROUSI",
+  "region": "Αττικής",
+  "latitude": 38.046667,
+  "company": "OTE",
+  "longitude": 23.808889,
+  "permit_status": "Από τα στοιχεία που τηρούνται στην Ενημερωτική Πύλη προκύπτει ότι, για τη θέση \"ΠΑΡΝΩΝΟΣ 3\" στον Δήμο Αμαρουσίου Περιφέρειας  Αττικής \n\t(κωδικός αριθμός θέσης 1497926, κωδική ονομασία \"MOTOROIL_MAROUSI\") έχει κατατεθεί από την εταιρία OTE\tδήλωση εγκατάστασης κατασκευής κεραίας (αριθ. πρωτ. \n\t59843/12-03-2025) που εμπίπτει στις διατάξεις της νομοθεσίας για Εγκαταστάσεις Κατασκευών Κεραιών Χαμηλής Ηλεκτρομαγνητικής Περιβαλλοντικής Όχλησης (ΕΚΚΧΟ).",
+  "measurements_eaee": "-",
+  "documents": [
+    {
+      "document_number": "527895/04-10-2024",
+      "protocol_number": "ΦΩΤΟΓΡΑΦΙΑ/04-10-2024",
+      "type": "Φωτογραφικό Υλικό - Σκαρίφημα",
+      "file_url": "https://silia.eett.gr/silia/download/vSS2vI5vVPpF4iWlQyKI6bFmHg7EITUf5Zag"
+    },
+    {
+      "document_number": "543528/12-03-2025",
+      "protocol_number": "XAΡΤΗΣ/12-03-2025",
+      "type": "Φωτογραφικό Υλικό - Σκαρίφημα",
+      "file_url": "https://silia.eett.gr/silia/download/dGhM8opc9fnRZcMorkG1iHhdkgRgDM6HxgOA"
+    },
+    {
+      "document_number": "543529/12-03-2025",
+      "protocol_number": "ΜΕΛΕΤΗ/12-03-2025",
+      "type": "Αίτηση - Μελέτη Ραδιοεκπομπών ΕΕΑΕ",
+      "file_url": "https://silia.eett.gr/silia/download/b2Wgibk8sAnATarZ6n4FFvaMWyTBdUDfSWWi"
+    },
+    {
+      "document_number": "543530/12-03-2025",
+      "protocol_number": "Αρχείο Αίτησης/12-03-2025",
+      "type": "Δήλωση ΕΚΚΧΟ",
+      "file_url": "https://silia.eett.gr/silia/download/RslybtxqlZlIhgNPmWedM7Wb3ZGFwlIgqZBF"
+    }
+  ]
+}

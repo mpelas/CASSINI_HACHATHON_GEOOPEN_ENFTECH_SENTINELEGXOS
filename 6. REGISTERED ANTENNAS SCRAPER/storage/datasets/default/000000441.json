@@ -1,0 +1,117 @@
+{
+  "antenna_id": "102487",
+  "address": "ΣΦΑΚΙΩΝ 2 & 17ΗΣ ΝΟΕΜΒΡΙΟΥ",
+  "position_code": 1105395,
+  "municipality": "Αλίμου",
+  "code_name": "ΘΕΟΜΗΤΩΡΟΣ ΑΓ. ΔΗΜΗΤΡΙΟΣ",
+  "region": "Αττικής",
+  "latitude": 37.918611,
+  "company": "VODAFONE",
+  "longitude": 23.724722,
+  "permit_status": "Από τα στοιχεία που τηρούνται στην Ενημερωτική Πύλη προκύπτει ότι, για τη θέση \"ΣΦΑΚΙΩΝ 2 & 17ΗΣ ΝΟΕΜΒΡΙΟΥ\" στον Δήμο Αλίμου Περιφέρειας  Αττικής \n\t(κωδικός αριθμός θέσης 1105395, κωδική ονομασία \"ΘΕΟΜΗΤΩΡΟΣ ΑΓ. ΔΗΜΗΤΡΙΟΣ\") χορηγήθηκε, με την Απόφαση της ΕΕΤΤ \n39735/02-03-2021, άδεια κατασκευής κεραίας στην εταιρία VODAFONE. \nΑπό τo έγγραφο της άδειας μπορείτε να ενημερωθείτε για τις σχετικές εγκρίσεις των συναρμόδιων φορέων, καθώς και εάν πρόκειται για τροποποίηση παλαιότερης άδειας.",
+  "measurements_eaee": "-",
+  "documents": [
+    {
+      "document_number": "123071/20-01-2014",
+      "protocol_number": "ΑΠΟΣΠΑΣΜΑ ΧΑΡΤΗ ΓΥΣ/",
+      "type": "Απόσπασμα Χάρτη ΓΥΣ 1:50.000",
+      "file_url": "https://silia.eett.gr/silia/download/e4a5086e-fbcc-44d7-9973-07dc5839d0a5"
+    },
+    {
+      "document_number": "123072/20-01-2014",
+      "protocol_number": "ΜΕΛΕΤΗ Ρ-Ε/18-12-2013",
+      "type": "Αίτηση - Μελέτη Ραδιοεκπομπών ΕΕΑΕ",
+      "file_url": "https://silia.eett.gr/silia/download/ff9e9133-e000-4c0c-8625-bf8bac389b87"
+    },
+    {
+      "document_number": "123073/20-01-2014",
+      "protocol_number": "ΜΕΛΕΤΗ Η-Μ ΥΠΟΒΑΘΡΟΥ/18-12-2013",
+      "type": "Αίτηση - Μελέτη Ραδιοεκπομπών ΕΕΑΕ (υποβάθρου)",
+      "file_url": "https://silia.eett.gr/silia/download/797a66b1-4926-428c-bbb1-60463c34354c"
+    },
+    {
+      "document_number": "123074/20-01-2014",
+      "protocol_number": "ΥΠΑΓΩΓΗ ΣΕ ΠΠΔ/18-12-2013",
+      "type": "Δήλωση υπαγωγής σε ΠΠΔ και Συνοδευτικά Έγγραφα",
+      "file_url": "https://silia.eett.gr/silia/download/1a680a03-773b-47b7-9df3-9d4a1b755a7e"
+    },
+    {
+      "document_number": "123076/20-01-2014",
+      "protocol_number": "3377219450/22-11-2013",
+      "type": "Αποδεικτικό Καταβολής Τελών ΕΕΤΤ",
+      "file_url": "https://silia.eett.gr/silia/download/9e43cf4b-709f-4428-aa04-2712d6742d77"
+    },
+    {
+      "document_number": "123818/22-01-2014",
+      "protocol_number": "Αρχείο Αίτησης/",
+      "type": "Αίτηση Άδειας Κατασκευής Κεραίας ΕΕΤΤ",
+      "file_url": "https://silia.eett.gr/silia/download/45d19d89-0f4a-4c9c-b508-9f52ad003590"
+    },
+    {
+      "document_number": "127797/05-02-2014",
+      "protocol_number": "562/20-01-2014",
+      "type": "Τοπογραφικό",
+      "file_url": "https://silia.eett.gr/silia/download/491fba21-921b-4fd7-9939-a37df65efc7e"
+    },
+    {
+      "document_number": "127802/05-02-2014",
+      "protocol_number": "562/20-01-2014",
+      "type": "Αρχιτεκτονικά Σχέδια",
+      "file_url": "https://silia.eett.gr/silia/download/b306ec2d-5a93-4122-8bba-ccd0c13f7732"
+    },
+    {
+      "document_number": "136024/10-03-2014",
+      "protocol_number": "Δ3/Δ/6225/1625/4-3-2014/10-03-2014",
+      "type": "Γνωμάτευση ΥΠΑ",
+      "file_url": "https://silia.eett.gr/silia/download/55616ece-0e48-447a-9918-b9f86284b46a"
+    },
+    {
+      "document_number": "175879/10-06-2014",
+      "protocol_number": "4937/16-05-2014",
+      "type": "Επιστολή Ελλιπούς Αίτησης από Αρμόδιο Φορέα",
+      "file_url": "https://silia.eett.gr/silia/download/f2d68a56-c425-4d19-873b-006f67fb34b4"
+    },
+    {
+      "document_number": "183488/08-09-2014",
+      "protocol_number": "Μι/411/1194/08-09-2014",
+      "type": "Γνωμάτευση ΕΕΑΕ",
+      "file_url": "https://silia.eett.gr/silia/download/f7293c93-439e-47e8-8a2e-1783d4449c06"
+    },
+    {
+      "document_number": "427717/21-01-2021",
+      "protocol_number": "ΥΔ μετάβασης αίτησης Ν.4635/13-05-2020",
+      "type": "Άλλο",
+      "file_url": "https://silia.eett.gr/silia/download/9905e702-674f-4e19-b991-6a1e076114f3"
+    },
+    {
+      "document_number": "427718/21-01-2021",
+      "protocol_number": "ΜΕΛΕΤΗ Η-Μ ΥΠΟΒΑΘΡΟΥ/18-12-2013",
+      "type": "Αίτηση - Μελέτη Ραδιοεκπομπών ΕΕΑΕ (υποβάθρου)",
+      "file_url": "https://silia.eett.gr/silia/download/93a6e31c-c678-40d8-a3e7-f64393bc204c"
+    },
+    {
+      "document_number": "434868/14-05-2021",
+      "protocol_number": "39735/02-03-2021",
+      "type": "Άδεια Κατασκευής  Κεραίας",
+      "file_url": "https://silia.eett.gr/silia/download/79312d7f-cde7-4246-b003-c5c879e91893"
+    },
+    {
+      "document_number": "414455/29-07-2020",
+      "protocol_number": "ΜΕΛΕΤΗ Ρ-Ε/18-12-2013",
+      "type": "Αίτηση - Μελέτη Ραδιοεκπομπών ΕΕΑΕ",
+      "file_url": "https://silia.eett.gr/silia/download/ff9e9133-e000-4c0c-8625-bf8bac389b87"
+    },
+    {
+      "document_number": "428589/01-02-2021",
+      "protocol_number": "ΣΥΝΟΔΕΥΤΙΚΑ ΕΓΓΡΑΦΑ ΠΠΔ/",
+      "type": "Δήλωση υπαγωγής σε ΠΠΔ και Συνοδευτικά Έγγραφα",
+      "file_url": "https://silia.eett.gr/silia/download/fb794bb8-38c9-4416-a244-d320ef1fee42"
+    },
+    {
+      "document_number": "428590/01-02-2021",
+      "protocol_number": "Αρχείο Αίτησης/",
+      "type": "Δήλωση ΠΠΔ",
+      "file_url": "https://silia.eett.gr/silia/download/d9f1746c-1316-473e-a73a-72d42fc348d0"
+    }
+  ]
+}

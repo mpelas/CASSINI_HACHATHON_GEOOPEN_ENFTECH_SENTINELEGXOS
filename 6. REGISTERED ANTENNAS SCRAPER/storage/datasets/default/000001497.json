@@ -1,0 +1,63 @@
+{
+  "antenna_id": "167354",
+  "address": "ΚΩΝΣΤΑΝΤΙΝΟΥΠΟΛΕΩΣ & ΠΥΘΑΓΟΡΑ,  ΕΔΕΣΣΑ.",
+  "position_code": 1159759,
+  "municipality": "Έδεσσας",
+  "code_name": "DEH KAT POL EDESSAS",
+  "region": "Κεντρικής Μακεδονίας",
+  "latitude": 40.802778,
+  "company": "VODAFONE",
+  "longitude": 22.046667,
+  "permit_status": "Από τα στοιχεία που τηρούνται στην Ενημερωτική Πύλη προκύπτει ότι, για τη θέση \"ΚΩΝΣΤΑΝΤΙΝΟΥΠΟΛΕΩΣ & ΠΥΘΑΓΟΡΑ,  ΕΔΕΣΣΑ.\" στον Δήμο Έδεσσας Περιφέρειας  Κεντρικής Μακεδονίας \n\t(κωδικός αριθμός θέσης 1159759, κωδική ονομασία \"DEH KAT POL EDESSAS\") έχει κατατεθεί από την εταιρία VODAFONE\tδήλωση εγκατάστασης κατασκευής κεραίας (αριθ. πρωτ. \n\t50846/28-02-2023) που εμπίπτει στις διατάξεις της νομοθεσίας για Εγκαταστάσεις Κατασκευών Κεραιών Χαμηλής Ηλεκτρομαγνητικής Περιβαλλοντικής Όχλησης (ΕΚΚΧΟ).",
+  "measurements_eaee": "-",
+  "documents": [
+    {
+      "document_number": "478860/24-02-2023",
+      "protocol_number": "Φωτορεαλιστική απεικόνιση ΕΚΚΧΟ/",
+      "type": "Φωτογραφικό Υλικό - Σκαρίφημα",
+      "file_url": "https://silia.eett.gr/silia/download/95bf0cd2-a60b-46cf-ba7e-fba04b93f028"
+    },
+    {
+      "document_number": "478861/24-02-2023",
+      "protocol_number": "Ψηφιακός Χάρτης με προβολή της θέσης ΕΚΚΧΟ/",
+      "type": "Φωτογραφικό Υλικό - Σκαρίφημα",
+      "file_url": "https://silia.eett.gr/silia/download/15745c5d-bed4-44cf-b32e-9859c4172fe6"
+    },
+    {
+      "document_number": "478862/24-02-2023",
+      "protocol_number": "52221/09-02-2023",
+      "type": "Έγκριση Αρμοδίου Φορέα",
+      "file_url": "https://silia.eett.gr/silia/download/9647a467-df70-4b5b-aebe-7ee5211cf014"
+    },
+    {
+      "document_number": "478863/24-02-2023",
+      "protocol_number": "51879/09-02-2023",
+      "type": "Έγκριση Αρμοδίου Φορέα",
+      "file_url": "https://silia.eett.gr/silia/download/f7eb03d3-927f-4c5f-a8fc-5d1cfb758060"
+    },
+    {
+      "document_number": "478864/24-02-2023",
+      "protocol_number": "Αρχιτεκτονικά σχέδια ΕΚΚΧΟ/",
+      "type": "Αρχιτεκτονικά Σχέδια",
+      "file_url": "https://silia.eett.gr/silia/download/a00e4812-d6e5-4407-8cf9-a9f17d622e01"
+    },
+    {
+      "document_number": "479090/28-02-2023",
+      "protocol_number": "Μελέτη ΕΚΚΧΟ/24-02-2023",
+      "type": "Άλλο",
+      "file_url": "https://silia.eett.gr/silia/download/098c04a6-8f1d-4a1a-b325-7b98dc530130"
+    },
+    {
+      "document_number": "479091/28-02-2023",
+      "protocol_number": "Αρχείο Αίτησης/",
+      "type": "Δήλωση ΕΚΚΧΟ",
+      "file_url": "https://silia.eett.gr/silia/download/bf72ddc9-042a-4b08-af92-8d5a3e38a1f5"
+    },
+    {
+      "document_number": "483467/27-04-2023",
+      "protocol_number": "Μελέτη ΕΚΚΧΟ/27-04-2023",
+      "type": "Άλλο",
+      "file_url": "https://silia.eett.gr/silia/download/b989c247-eab2-4622-914a-3c608ece0796"
+    }
+  ]
+}

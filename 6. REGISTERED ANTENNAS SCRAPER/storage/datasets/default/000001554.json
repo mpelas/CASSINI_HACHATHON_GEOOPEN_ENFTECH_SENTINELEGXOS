@@ -1,0 +1,57 @@
+{
+  "antenna_id": "168245",
+  "address": "ΛΕΩΦ. ΒΟΥΛΙΑΓΜΕΝΗΣ 47, ΕΛΛΗΝΙΚΟ.",
+  "position_code": 1150983,
+  "municipality": "Ελληνικού - Αργυρούπολης",
+  "code_name": "3030983 ASD ELLINIKO",
+  "region": "Αττικής",
+  "latitude": 37.889722,
+  "company": "VODAFONE",
+  "longitude": 23.747778,
+  "permit_status": "Από τα στοιχεία που τηρούνται στην Ενημερωτική Πύλη προκύπτει ότι, για τη θέση \"ΛΕΩΦ. ΒΟΥΛΙΑΓΜΕΝΗΣ 47, ΕΛΛΗΝΙΚΟ.\" στον Δήμο Ελληνικού - Αργυρούπολης Περιφέρειας  Αττικής \n\t(κωδικός αριθμός θέσης 1150983, κωδική ονομασία \"3030983 ASD ELLINIKO\") έχει κατατεθεί από την εταιρία VODAFONE\tδήλωση εγκατάστασης κατασκευής κεραίας (αριθ. πρωτ. \n\t51547/08-05-2023) που εμπίπτει στις διατάξεις της νομοθεσίας για Εγκαταστάσεις Κατασκευών Κεραιών Χαμηλής Ηλεκτρομαγνητικής Περιβαλλοντικής Όχλησης (ΕΚΚΧΟ).",
+  "measurements_eaee": "-",
+  "documents": [
+    {
+      "document_number": "484128/08-05-2023",
+      "protocol_number": "Φωτορεαλιστική απεικόνιση κεραιών ΕΚΚΧΟ/",
+      "type": "Φωτογραφικό Υλικό - Σκαρίφημα",
+      "file_url": "https://silia.eett.gr/silia/download/34cfd169-c463-4683-9cd6-a358978d6e01"
+    },
+    {
+      "document_number": "484130/08-05-2023",
+      "protocol_number": "Μελέτη ΕΚΚΧΟ/05-05-2023",
+      "type": "Άλλο",
+      "file_url": "https://silia.eett.gr/silia/download/cb708b3d-d574-44bf-bcc7-0caab4e8dccb"
+    },
+    {
+      "document_number": "484131/08-05-2023",
+      "protocol_number": "Σκαρίφημα με περιοχή απαγόρευσης/",
+      "type": "Φωτογραφικό Υλικό - Σκαρίφημα",
+      "file_url": "https://silia.eett.gr/silia/download/889e834d-e04c-45e3-811d-3b8f3f7b579e"
+    },
+    {
+      "document_number": "484136/08-05-2023",
+      "protocol_number": "Φωτορεαλιστική απεικόνιση ΕΚΚΧΟ COSMOTE/",
+      "type": "Φωτογραφικό Υλικό - Σκαρίφημα",
+      "file_url": "https://silia.eett.gr/silia/download/c52e22ff-5894-4573-8df1-96d1240c18d0"
+    },
+    {
+      "document_number": "484137/08-05-2023",
+      "protocol_number": "Ψηφιακός Χάρτης με προβολή της θέσης ΕΚΚΧΟ/",
+      "type": "Φωτογραφικό Υλικό - Σκαρίφημα",
+      "file_url": "https://silia.eett.gr/silia/download/d31a6759-8b8e-482a-bf3d-baddede89d40"
+    },
+    {
+      "document_number": "484138/08-05-2023",
+      "protocol_number": "Αρχείο Αίτησης/",
+      "type": "Δήλωση ΕΚΚΧΟ",
+      "file_url": "https://silia.eett.gr/silia/download/04875f37-80ee-4b05-ae9d-249122abfe3b"
+    },
+    {
+      "document_number": "487325/07-06-2023",
+      "protocol_number": "ΥΔ εγκατάστασης/07-06-2023",
+      "type": "Άλλο",
+      "file_url": "https://silia.eett.gr/silia/download/77c67e8d-671b-4e7a-a12b-5b4e9a8d9405"
+    }
+  ]
+}

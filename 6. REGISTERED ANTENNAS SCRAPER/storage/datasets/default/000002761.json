@@ -1,0 +1,99 @@
+{
+  "antenna_id": "145874",
+  "address": "ΠΑΠΑΡΗΓΟΠΟΥΛΟΥ 23 ,ΚΟΥΝΕΑ",
+  "position_code": 1402916,
+  "municipality": "Περιστερίου",
+  "code_name": "ΠΑΠΑΡΗΓΟΠΟΥΛΟΥ",
+  "region": "Αττικής",
+  "latitude": 38.007222,
+  "company": "OTE",
+  "longitude": 23.71,
+  "permit_status": "Από τα στοιχεία που τηρούνται στην Ενημερωτική Πύλη προκύπτει ότι, για τη θέση \"ΠΑΠΑΡΗΓΟΠΟΥΛΟΥ 23 ,ΚΟΥΝΕΑ\" στον Δήμο Περιστερίου Περιφέρειας  Αττικής \n\t(κωδικός αριθμός θέσης 1402916, κωδική ονομασία \"ΠΑΠΑΡΗΓΟΠΟΥΛΟΥ\") χορηγήθηκε, με την Απόφαση της ΕΕΤΤ \n38707/09-12-2020, άδεια κατασκευής κεραίας στην εταιρία OTE. \nΑπό τo έγγραφο της άδειας μπορείτε να ενημερωθείτε για τις σχετικές εγκρίσεις των συναρμόδιων φορέων, καθώς και εάν πρόκειται για τροποποίηση παλαιότερης άδειας.\nΗ άδεια χορηγήθηκε με τη διαδικασία αδειοδότησης που ορίζει ο ν. 4635/2019, κατόπιν της με αριθ. πρωτ. 36089/18-12-2019 \n\tαίτησης, και βάσει σχετικής δήλωσης του κατόχου της περί υπαγωγή της κατασκευής κεραίας στο άρθρο 34 του ν. 4635/2019.",
+  "measurements_eaee": "-",
+  "documents": [
+    {
+      "document_number": "387050/18-12-2019",
+      "protocol_number": "ΜΕΣΩ ΣΗΛΥΑ/",
+      "type": "Τοπογραφικό",
+      "file_url": "https://silia.eett.gr/silia/download/69e42618-ac1f-4d97-9f60-61a3bc0325b0"
+    },
+    {
+      "document_number": "387051/18-12-2019",
+      "protocol_number": "ΜΕΣΩ ΣΗΛΥΑ/",
+      "type": "Αρχιτεκτονικά Σχέδια",
+      "file_url": "https://silia.eett.gr/silia/download/f0c05be2-09b4-4fde-828a-f4735c252413"
+    },
+    {
+      "document_number": "387052/18-12-2019",
+      "protocol_number": "Δ3/Δ/29592/7562/29-08-2005",
+      "type": "Γνωμάτευση ΥΠΑ",
+      "file_url": "https://silia.eett.gr/silia/download/e404a511-f5de-4be1-8ffe-e18a66443612"
+    },
+    {
+      "document_number": "387053/18-12-2019",
+      "protocol_number": "Δ3/Δ/10516/04-11-2005",
+      "type": "Γνωμάτευση ΥΠΑ",
+      "file_url": "https://silia.eett.gr/silia/download/7c1e6a78-2128-4331-9d54-c8bc0d051b82"
+    },
+    {
+      "document_number": "387054/18-12-2019",
+      "protocol_number": "ΜΕΣΩ ΣΗΛΥΑ/18-12-2019",
+      "type": "Αίτηση ΥΠΑ",
+      "file_url": "https://silia.eett.gr/silia/download/faa08bd5-bdd9-4b42-b591-e65c853deaf1"
+    },
+    {
+      "document_number": "387055/18-12-2019",
+      "protocol_number": "ΜΕΣΩ ΣΗΛΥΑ/10-10-2019",
+      "type": "Αίτηση - Μελέτη Ραδιοεκπομπών ΕΕΑΕ",
+      "file_url": "https://silia.eett.gr/silia/download/37b27fdd-1718-4c9f-bf00-8364eb9c6a03"
+    },
+    {
+      "document_number": "387099/18-12-2019",
+      "protocol_number": "Αρχείο Αίτησης/",
+      "type": "Αίτηση Άδειας Κατασκευής Κεραίας ΕΕΤΤ",
+      "file_url": "https://silia.eett.gr/silia/download/9b5acec3-a222-438c-a48d-6b905a79628f"
+    },
+    {
+      "document_number": "392312/05-02-2020",
+      "protocol_number": "Δ3/Δ/10516/04-11-2005",
+      "type": "Γνωμάτευση ΥΠΑ",
+      "file_url": "https://silia.eett.gr/silia/download/4dbeccc0-da9b-477e-8fa5-f77544b13413"
+    },
+    {
+      "document_number": "401601/08-04-2020",
+      "protocol_number": "Μ.ι./411/4772/2020/07-04-2020",
+      "type": "Γνωμάτευση ΕΕΑΕ",
+      "file_url": "https://silia.eett.gr/silia/download/973998c5-84b3-4647-b733-ad0a9ee48051"
+    },
+    {
+      "document_number": "405412/13-05-2020",
+      "protocol_number": "29760/12-05-2020",
+      "type": "Επιστολή Ενημέρωσης προς Αρμόδιο Φορέα",
+      "file_url": "https://silia.eett.gr/silia/download/3011cec3-2b5a-4dda-a485-dcd6bd998aae"
+    },
+    {
+      "document_number": "409097/28-05-2020",
+      "protocol_number": "EMC/26-05-2020",
+      "type": "Αποτελέσματα μελέτης στη ζώνης 2.6GHz για ΥΠΑ/ΓΕΕΘΑ",
+      "file_url": "https://silia.eett.gr/silia/download/7a4d8d6d-71e9-4fbb-a332-fc18e854836f"
+    },
+    {
+      "document_number": "426760/31-12-2020",
+      "protocol_number": "38707/Φ610/09-12-2020",
+      "type": "Άδεια Κατασκευής  Κεραίας",
+      "file_url": "https://silia.eett.gr/silia/download/991e776b-d4f8-4341-b503-b3dcb2e73795"
+    },
+    {
+      "document_number": "387056/18-12-2019",
+      "protocol_number": "ΜΕΣΩ ΣΗΛΥΑ/",
+      "type": "Δήλωση υπαγωγής σε ΠΠΔ και Συνοδευτικά Έγγραφα",
+      "file_url": "https://silia.eett.gr/silia/download/b6e7a530-c6af-4ef4-b617-41fe5211caf8"
+    },
+    {
+      "document_number": "387100/18-12-2019",
+      "protocol_number": "Αρχείο Αίτησης/",
+      "type": "Δήλωση ΠΠΔ",
+      "file_url": "https://silia.eett.gr/silia/download/98f9fe1b-4cf4-41b6-8ae4-8ec147d4b304"
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "antenna_id": "174280",
+  "address": "ΑΠΟΛΛΩΝΙΑ ΣΙΦΝΟΥ",
+  "position_code": 1496708,
+  "municipality": "Σίφνου",
+  "code_name": "COSTA_BRAVA_SIFNOS",
+  "region": "Νοτίου Αιγαίου",
+  "latitude": 36.969722,
+  "company": "OTE",
+  "longitude": 24.727222,
+  "permit_status": "Από τα στοιχεία που τηρούνται στην Ενημερωτική Πύλη προκύπτει ότι, για τη θέση \"ΑΠΟΛΛΩΝΙΑ ΣΙΦΝΟΥ\" στον Δήμο Σίφνου Περιφέρειας  Νοτίου Αιγαίου \n\t(κωδικός αριθμός θέσης 1496708, κωδική ονομασία \"COSTA_BRAVA_SIFNOS\") έχει κατατεθεί από την εταιρία OTE\tδήλωση εγκατάστασης κατασκευής κεραίας (αριθ. πρωτ. \n\t57168/02-09-2024) που εμπίπτει στις διατάξεις της νομοθεσίας για Εγκαταστάσεις Κατασκευών Κεραιών Χαμηλής Ηλεκτρομαγνητικής Περιβαλλοντικής Όχλησης (ΕΚΚΧΟ).",
+  "measurements_eaee": "-",
+  "documents": [
+    {
+      "document_number": "520253/12-07-2024",
+      "protocol_number": "ΦΩΤΟΓΡΑΦΙΑ/12-07-2024",
+      "type": "Φωτογραφικό Υλικό - Σκαρίφημα",
+      "file_url": "https://silia.eett.gr/silia/download/CeNGcDtggxQm0pzU6sl04qTWB8veDSw0pINX"
+    },
+    {
+      "document_number": "520254/12-07-2024",
+      "protocol_number": "ΦΩΤΟΓΡΑΦΙΑ1/12-07-2024",
+      "type": "Φωτογραφικό Υλικό - Σκαρίφημα",
+      "file_url": "https://silia.eett.gr/silia/download/67HQMrEMoD8CGEkK1O8HVGiCGlBP5BCa7dhn"
+    },
+    {
+      "document_number": "524222/30-08-2024",
+      "protocol_number": "ΜΕΛΕΤΗ/30-08-2024",
+      "type": "Αίτηση - Μελέτη Ραδιοεκπομπών ΕΕΑΕ",
+      "file_url": "https://silia.eett.gr/silia/download/KMXqWXgAtRDobnAOBdP9no3i5GRuVUXhCPl1"
+    },
+    {
+      "document_number": "524311/02-09-2024",
+      "protocol_number": "Αρχείο Αίτησης/02-09-2024",
+      "type": "Δήλωση ΕΚΚΧΟ",
+      "file_url": "https://silia.eett.gr/silia/download/pS3vsVrO4UEq2g6LrYkkxq3ZavkypUEpZm4a"
+    }
+  ]
+}

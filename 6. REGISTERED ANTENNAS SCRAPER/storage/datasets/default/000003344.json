@@ -1,0 +1,51 @@
+{
+  "antenna_id": "176672",
+  "address": "Οικοδομικό Τετράγωνο E71, Γυαλού, Σπάτα.",
+  "position_code": 1152088,
+  "municipality": "Σπάτων - Αρτέμιδος",
+  "code_name": "3032088 LAMDA DEVELOPMENT SPATA",
+  "region": "Αττικής",
+  "latitude": 37.985833,
+  "company": "VODAFONE",
+  "longitude": 23.910278,
+  "permit_status": "Από τα στοιχεία που τηρούνται στην Ενημερωτική Πύλη προκύπτει ότι, για τη θέση \"Οικοδομικό Τετράγωνο E71, Γυαλού, Σπάτα.\" στον Δήμο Σπάτων - Αρτέμιδος Περιφέρειας  Αττικής \n\t(κωδικός αριθμός θέσης 1152088, κωδική ονομασία \"3032088 LAMDA DEVELOPMENT SPATA\") έχει κατατεθεί από την εταιρία VODAFONE\tδήλωση εγκατάστασης κατασκευής κεραίας (αριθ. πρωτ. \n\t58606/04-12-2024) που εμπίπτει στις διατάξεις της νομοθεσίας για Εγκαταστάσεις Κατασκευών Κεραιών Χαμηλής Ηλεκτρομαγνητικής Περιβαλλοντικής Όχλησης (ΕΚΚΧΟ).",
+  "measurements_eaee": "-",
+  "documents": [
+    {
+      "document_number": "534534/04-12-2024",
+      "protocol_number": "Φωτορεαλιστική απεικόνιση κεραίων & ερμαρίου ΕΚΚΧΟ/04-12-2024",
+      "type": "Φωτογραφικό Υλικό - Σκαρίφημα",
+      "file_url": "https://silia.eett.gr/silia/download/NmzzpdfQGRHw5VELqn0c68gUNefwLcmdG6q8"
+    },
+    {
+      "document_number": "534535/04-12-2024",
+      "protocol_number": "Ψηφιακός χάρτης με προβολή της θέσης ΕΚΚΧΟ/04-12-2024",
+      "type": "Φωτογραφικό Υλικό - Σκαρίφημα",
+      "file_url": "https://silia.eett.gr/silia/download/3Q1YGLkkO7b5qsSmrGPoN70wSBi2MZD1Unhf"
+    },
+    {
+      "document_number": "534540/04-12-2024",
+      "protocol_number": "Αρχιτεκτονικά σχέδια ΕΚΚΧΟ/21-10-2024",
+      "type": "Αρχιτεκτονικά Σχέδια",
+      "file_url": "https://silia.eett.gr/silia/download/hK2AmPXDmNBlYyMpNZgssdqFIuYtsDGZHkqI"
+    },
+    {
+      "document_number": "534542/04-12-2024",
+      "protocol_number": "Υπεύθυνη Δήλωση Κοινής χρήσης Nova/03-12-2024",
+      "type": "Άλλο",
+      "file_url": "https://silia.eett.gr/silia/download/IpUgysHw1PXCo6ASzuSlbLb5dRLp9S80fT4I"
+    },
+    {
+      "document_number": "534555/04-12-2024",
+      "protocol_number": "Μελέτη ΕΚΚΧΟ/27-11-2024",
+      "type": "Άλλο",
+      "file_url": "https://silia.eett.gr/silia/download/lip6nDdk6FvfDCuYIRIrGXUKkPGAxM3g6avg"
+    },
+    {
+      "document_number": "534601/04-12-2024",
+      "protocol_number": "Αρχείο Αίτησης/04-12-2024",
+      "type": "Δήλωση ΕΚΚΧΟ",
+      "file_url": "https://silia.eett.gr/silia/download/Z4NoGoiFQIkiP3VRVQYoB2hTFgvGvDSvyWKd"
+    }
+  ]
+}

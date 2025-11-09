@@ -1,0 +1,87 @@
+{
+  "antenna_id": "144657",
+  "address": "ΤΡΙΚΑΛΑ , Δ.ΞΥΛΟΚΑΣΤΡΟΥ - ΕΥΡΩΣΤΙΝΗΣ ΠΕΡ.ΕΝ.ΚΟΡΙΝΘΙΑΣ - ΠΕΡ.ΠΕΛΟΠΟΝΝΗΣΟΥ",
+  "position_code": 320088,
+  "municipality": "Ξυλοκάστρου - Ευρωστίνης",
+  "code_name": "ΤΡΙΚΑΛΑ Τ/Κ",
+  "region": "Πελοποννήσου",
+  "latitude": 38.000556,
+  "company": "OTE",
+  "longitude": 22.473333,
+  "permit_status": "Από τα στοιχεία που τηρούνται στην Ενημερωτική Πύλη προκύπτει ότι, για τη θέση \"ΤΡΙΚΑΛΑ , Δ.ΞΥΛΟΚΑΣΤΡΟΥ - ΕΥΡΩΣΤΙΝΗΣ ΠΕΡ.ΕΝ.ΚΟΡΙΝΘΙΑΣ - ΠΕΡ.ΠΕΛΟΠΟΝΝΗΣΟΥ\" στον Δήμο Ξυλοκάστρου - Ευρωστίνης Περιφέρειας  Πελοποννήσου \n\t(κωδικός αριθμός θέσης 0320088, κωδική ονομασία \"ΤΡΙΚΑΛΑ Τ/Κ\") χορηγήθηκε, με την Απόφαση της ΕΕΤΤ \n39517/Φ610/26-02-2021, άδεια κατασκευής κεραίας στην εταιρία OTE. \nΑπό τo έγγραφο της άδειας μπορείτε να ενημερωθείτε για τις σχετικές εγκρίσεις των συναρμόδιων φορέων, καθώς και εάν πρόκειται για τροποποίηση παλαιότερης άδειας.\nΗ άδεια χορηγήθηκε με τη διαδικασία αδειοδότησης που ορίζει ο ν. 4635/2019, κατόπιν της με αριθ. πρωτ. 34886/14-10-2019 \n\tαίτησης, και βάσει σχετικής δήλωσης του κατόχου της περί υπαγωγή της κατασκευής κεραίας στο άρθρο 34 του ν. 4635/2019.",
+  "measurements_eaee": "-",
+  "documents": [
+    {
+      "document_number": "379374/14-10-2019",
+      "protocol_number": "607/11-05-2018",
+      "type": "Τοπογραφικό",
+      "file_url": "https://silia.eett.gr/silia/download/6b84787e-5d62-4f4a-a551-5735ae0585e0"
+    },
+    {
+      "document_number": "379375/14-10-2019",
+      "protocol_number": "607/11-05-2018",
+      "type": "Αρχιτεκτονικά Σχέδια",
+      "file_url": "https://silia.eett.gr/silia/download/f3d1314d-750b-457a-baae-6013c3641baf"
+    },
+    {
+      "document_number": "379378/14-10-2019",
+      "protocol_number": "Δ3/Δ/38185/9282/04-10-2004",
+      "type": "Γνωμάτευση ΥΠΑ",
+      "file_url": "https://silia.eett.gr/silia/download/8ad056f5-dfc5-433f-8f40-e7260c34f303"
+    },
+    {
+      "document_number": "379379/14-10-2019",
+      "protocol_number": "ΜΕΣΩ ΣΗΛΥΑ/14-10-2019",
+      "type": "Αίτηση ΥΠΑ",
+      "file_url": "https://silia.eett.gr/silia/download/5a9b769f-bc66-4500-a11b-78e8e5ef710c"
+    },
+    {
+      "document_number": "379381/14-10-2019",
+      "protocol_number": "ΜΕΣΩ ΣΗΛΥΑ/10-02-2018",
+      "type": "Αίτηση - Μελέτη Ραδιοεκπομπών ΕΕΑΕ",
+      "file_url": "https://silia.eett.gr/silia/download/df0b34a3-97ae-449e-bcac-cdbc336cd425"
+    },
+    {
+      "document_number": "379384/14-10-2019",
+      "protocol_number": "ΥΠ.ΔΗΛΩΣΗ ΣΥΝΕΓΚΑΤΑΣΤΑΣΗΣ COSMOTE/14-10-2019",
+      "type": "Άλλο",
+      "file_url": "https://silia.eett.gr/silia/download/9d6abf84-fbfd-4a8d-940f-b36e3e8fda01"
+    },
+    {
+      "document_number": "379442/14-10-2019",
+      "protocol_number": "Αρχείο Αίτησης/",
+      "type": "Αίτηση Άδειας Κατασκευής Κεραίας ΕΕΤΤ",
+      "file_url": "https://silia.eett.gr/silia/download/ccc5591e-58e4-4d20-bef8-32f8668e2ddf"
+    },
+    {
+      "document_number": "396130/25-02-2020",
+      "protocol_number": "Μ.ι./411/2952/2020/25-02-2020",
+      "type": "Γνωμάτευση ΕΕΑΕ",
+      "file_url": "https://silia.eett.gr/silia/download/db38f9c2-bbf8-44f2-a718-dba41f297dfa"
+    },
+    {
+      "document_number": "429327/11-02-2021",
+      "protocol_number": "ΥΔ μηχανικού περί μη μετακίνησης/",
+      "type": "Άλλο",
+      "file_url": "https://silia.eett.gr/silia/download/4db8f3b5-1582-4096-ae24-cc180d0587ef"
+    },
+    {
+      "document_number": "431700/23-03-2021",
+      "protocol_number": "39517/Φ610/26-02-2021",
+      "type": "Άδεια Κατασκευής  Κεραίας",
+      "file_url": "https://silia.eett.gr/silia/download/2f044f6e-c5bf-46fe-a6a8-404f06c65c42"
+    },
+    {
+      "document_number": "379385/14-10-2019",
+      "protocol_number": "ΜΕΣΩ ΣΗΛΥΑ/",
+      "type": "Δήλωση υπαγωγής σε ΠΠΔ και Συνοδευτικά Έγγραφα",
+      "file_url": "https://silia.eett.gr/silia/download/b36d1003-d829-41f1-b137-5d80057743b2"
+    },
+    {
+      "document_number": "379443/14-10-2019",
+      "protocol_number": "Αρχείο Αίτησης/",
+      "type": "Δήλωση ΠΠΔ",
+      "file_url": "https://silia.eett.gr/silia/download/96d0e591-bcdd-4187-bd34-a7fcdf4aae8d"
+    }
+  ]
+}

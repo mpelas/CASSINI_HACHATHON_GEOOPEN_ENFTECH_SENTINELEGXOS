@@ -1,0 +1,45 @@
+{
+  "antenna_id": "171503",
+  "address": "ΠΕΤΡΑ ΚΛΕΙΔΙΟΥ",
+  "position_code": 50153,
+  "municipality": "Γεωργίου Καραϊσκάκη",
+  "code_name": "CHELONA A/D",
+  "region": "Ηπείρου",
+  "latitude": 39.125278,
+  "company": "OTE",
+  "longitude": 21.252222,
+  "permit_status": "Από τα στοιχεία που τηρούνται στην Ενημερωτική Πύλη προκύπτει ότι, για τη θέση \"ΠΕΤΡΑ ΚΛΕΙΔΙΟΥ\" στον Δήμο Γεωργίου Καραϊσκάκη Περιφέρειας  Ηπείρου \n\t(κωδικός αριθμός θέσης 0050153, κωδική ονομασία \"CHELONA A/D\") έχει κατατεθεί από την εταιρία OTE\tδήλωση εγκατάστασης κατασκευής κεραίας (αριθ. πρωτ. \n\t54556/30-01-2024) που εμπίπτει στις διατάξεις της νομοθεσίας για Εγκαταστάσεις Κατασκευών Κεραιών Χαμηλής Ηλεκτρομαγνητικής Περιβαλλοντικής Όχλησης (ΕΚΚΧΟ).",
+  "measurements_eaee": "-",
+  "documents": [
+    {
+      "document_number": "503558/20-12-2023",
+      "protocol_number": "Χαρτης/",
+      "type": "Φωτογραφικό Υλικό - Σκαρίφημα",
+      "file_url": "https://silia.eett.gr/silia/download/0382b71d-1005-4c04-b561-1eb46aa74e5d"
+    },
+    {
+      "document_number": "503559/20-12-2023",
+      "protocol_number": "Φωτογραφία/20-12-2023",
+      "type": "Φωτογραφικό Υλικό - Σκαρίφημα",
+      "file_url": "https://silia.eett.gr/silia/download/af9ef944-820b-4a2c-8587-ca2f989dff5d"
+    },
+    {
+      "document_number": "506134/30-01-2024",
+      "protocol_number": "ΜΕΣΩ ΣΗΛΥΑ/",
+      "type": "Αίτηση - Μελέτη Ραδιοεκπομπών ΕΕΑΕ",
+      "file_url": "https://silia.eett.gr/silia/download/6d32c954-f480-46e5-86d6-0ccbad844ae0"
+    },
+    {
+      "document_number": "506160/30-01-2024",
+      "protocol_number": "Αρχείο Αίτησης/",
+      "type": "Δήλωση ΕΚΚΧΟ",
+      "file_url": "https://silia.eett.gr/silia/download/2736f964-edc6-4249-9bc3-5bf6feea75a9"
+    },
+    {
+      "document_number": "526768/25-09-2024",
+      "protocol_number": "ΥΠ.ΔΗΛΩΣΗ/25-09-2024",
+      "type": "Άλλο",
+      "file_url": "https://silia.eett.gr/silia/download/yuPNNo1pXzpqbXm68589GRugxWDI6TgBiLt0"
+    }
+  ]
+}

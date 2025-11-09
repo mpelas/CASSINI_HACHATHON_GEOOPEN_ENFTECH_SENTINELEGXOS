@@ -1,0 +1,99 @@
+{
+  "antenna_id": "172317",
+  "address": "ΑΡΓΥΡΟΚΑΣΤΡΟΥ 29-31",
+  "position_code": 1104725,
+  "municipality": "Πειραιώς",
+  "code_name": "ΙΘΑΚΗΣ ΡΕΝΤΗ 2",
+  "region": "Αττικής",
+  "latitude": 37.961389,
+  "company": "VODAFONE",
+  "longitude": 23.656111,
+  "permit_status": "Από τα στοιχεία που τηρούνται στην Ενημερωτική Πύλη προκύπτει ότι, για τη θέση \"ΑΡΓΥΡΟΚΑΣΤΡΟΥ 29-31\" στον Δήμο Πειραιώς Περιφέρειας  Αττικής \n\t(κωδικός αριθμός θέσης 1104725, κωδική ονομασία \"ΙΘΑΚΗΣ ΡΕΝΤΗ 2\") χορηγήθηκε, με την Απόφαση της ΕΕΤΤ \n50889/02-05-2024, άδεια κατασκευής κεραίας στην εταιρία VODAFONE. \nΑπό τo έγγραφο της άδειας μπορείτε να ενημερωθείτε για τις σχετικές εγκρίσεις των συναρμόδιων φορέων, καθώς και εάν πρόκειται για τροποποίηση παλαιότερης άδειας.\n\tΣύμφωνα με τα στοιχεία που έχουν υποβληθεί στο ΣΗΛΥΑ, ο κάτοχος της κατασκευής κεραίας έχει δηλώσει ότι θα προβεί σε έκδοση έγκρισης δομικών κατασκευών \n\t\tκεραίας μέσω του e-Άδειες \n\t\tμετά την έκδοση της άδειας κατασκευής κεραίας / δημοσιοποίηση της δήλωσης τροποποίησης της κατασκευής κεραίας",
+  "measurements_eaee": "-",
+  "documents": [
+    {
+      "document_number": "508419/23-02-2024",
+      "protocol_number": "ΤΟΠΟΓΡΑΦΙΚΟ ΔΙΑΓΡΑΜΜΑ/",
+      "type": "Τοπογραφικό",
+      "file_url": "https://silia.eett.gr/silia/download/ed0c9e7a-888e-4db3-a7a2-654212d22021"
+    },
+    {
+      "document_number": "508420/23-02-2024",
+      "protocol_number": "ΑΡΧΙΤΕΚΤΟΝΙΚΑ ΣΧΕΔΙΑ/",
+      "type": "Αρχιτεκτονικά Σχέδια",
+      "file_url": "https://silia.eett.gr/silia/download/3d4e7609-1c97-4468-b355-6cc6a3b14c32"
+    },
+    {
+      "document_number": "508421/23-02-2024",
+      "protocol_number": "ΜΕΛΕΤΗ ΡΑΔΙΟΕΚΠΟΜΠΩΝ/12-02-2024",
+      "type": "Αίτηση - Μελέτη Ραδιοεκπομπών ΕΕΑΕ",
+      "file_url": "https://silia.eett.gr/silia/download/f4bda62d-6809-4edf-9f16-dc45705cc16c"
+    },
+    {
+      "document_number": "508422/23-02-2024",
+      "protocol_number": "ΧΑΡΤΗΣ ΥΠΑ/",
+      "type": "Απόσπασμα Χάρτη ΓΥΣ 1:50.000",
+      "file_url": "https://silia.eett.gr/silia/download/74f7b2a2-3e50-4fbb-992d-81201ab4f62b"
+    },
+    {
+      "document_number": "508423/23-02-2024",
+      "protocol_number": "19037/13-02-2024",
+      "type": "Αποτελέσματα μελέτης στη ζώνης 2.6GHz για ΥΠΑ/ΓΕΕΘΑ",
+      "file_url": "https://silia.eett.gr/silia/download/0a05e26f-1dbd-461c-af03-968656daa8ca"
+    },
+    {
+      "document_number": "508424/23-02-2024",
+      "protocol_number": "ΜΕΛΕΤΗ ΣΥΜΒΑΤΟΤΗΤΑΣ 2600MHz/12-02-2024",
+      "type": "Μελέτη για τη ζώνη  2,6GHz",
+      "file_url": "https://silia.eett.gr/silia/download/2725c1bf-7813-4ce0-ae75-09cd695c237c"
+    },
+    {
+      "document_number": "508425/23-02-2024",
+      "protocol_number": "ΥΔ ΔΙΑΣΥΝΔΕΣΗΣ_VODAFONE-1104725/13-02-2024",
+      "type": "Άλλο",
+      "file_url": "https://silia.eett.gr/silia/download/768facae-83fd-42b2-abe2-206294aff4d3"
+    },
+    {
+      "document_number": "508426/23-02-2024",
+      "protocol_number": "Αρχείο Αίτησης/",
+      "type": "Αίτηση Άδειας Κατασκευής Κεραίας ΕΕΤΤ",
+      "file_url": "https://silia.eett.gr/silia/download/c04cc62c-b37a-44b6-9a8d-11829366c9c8"
+    },
+    {
+      "document_number": "508676/27-02-2024",
+      "protocol_number": "ΚΓ/Δ3/Δ/4095/27-02-2024",
+      "type": "Γνωμάτευση ΥΠΑ",
+      "file_url": "https://silia.eett.gr/silia/download/686286df-d16e-409a-b0a0-c7fd903d0a35"
+    },
+    {
+      "document_number": "511066/27-03-2024",
+      "protocol_number": "ΤΜΙΑ/411/4660/2024/26-03-2024",
+      "type": "Γνωμάτευση ΕΕΑΕ",
+      "file_url": "https://silia.eett.gr/silia/download/r5rBV1qLBoq4kgeCOS9KggGqUoGx1QhBTCCL"
+    },
+    {
+      "document_number": "514675/10-05-2024",
+      "protocol_number": "50889/02-05-2024",
+      "type": "Άδεια Κατασκευής  Κεραίας",
+      "file_url": "https://silia.eett.gr/silia/download/Gr3CiAUsGZXYHPFp7mYbUElW03yD1b2sg8Eg"
+    },
+    {
+      "document_number": "511583/29-03-2024",
+      "protocol_number": "ΜΕΛΕΤΗ ΡΑΔΙΟΕΚΠΟΜΠΩΝ/12-02-2024",
+      "type": "Αίτηση - Μελέτη Ραδιοεκπομπών ΕΕΑΕ",
+      "file_url": "https://silia.eett.gr/silia/download/f4bda62d-6809-4edf-9f16-dc45705cc16c"
+    },
+    {
+      "document_number": "511584/29-03-2024",
+      "protocol_number": "ΣΥΝΟΔΕΥΤΙΚΑ ΕΓΓΡΑΦΑ ΠΠΔ/29-03-2024",
+      "type": "Δήλωση υπαγωγής σε ΠΠΔ και Συνοδευτικά Έγγραφα",
+      "file_url": "https://silia.eett.gr/silia/download/bRIO5oqwFqZDqOQZ0BMcufqumq96M1TgPGVd"
+    },
+    {
+      "document_number": "511590/29-03-2024",
+      "protocol_number": "Αρχείο Αίτησης/29-03-2024",
+      "type": "Δήλωση ΠΠΔ",
+      "file_url": "https://silia.eett.gr/silia/download/xOHtBLz131hCcwYG1B5OHPnl65uztzZ3GO0g"
+    }
+  ]
+}

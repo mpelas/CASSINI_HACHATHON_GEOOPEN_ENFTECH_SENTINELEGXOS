@@ -1,0 +1,39 @@
+{
+  "antenna_id": "116138",
+  "address": "Λεωφ. Ειρήνης 29",
+  "position_code": 1013391,
+  "municipality": "Πρέβεζας",
+  "code_name": "VF SHOP PREVEZA",
+  "region": "Ηπείρου",
+  "latitude": 38.958333,
+  "company": "VODAFONE",
+  "longitude": 20.751389,
+  "permit_status": "Από τα στοιχεία που τηρούνται στην Ενημερωτική Πύλη προκύπτει ότι, για τη θέση \"Λεωφ. Ειρήνης 29\" στον Δήμο Πρέβεζας Περιφέρειας  Ηπείρου \n\t(κωδικός αριθμός θέσης 1013391, κωδική ονομασία \"VF SHOP PREVEZA\") έχει κατατεθεί από την εταιρία VODAFONE\tδήλωση εγκατάστασης κατασκευής κεραίας (αριθ. πρωτ. \n\t14946/21-01-2016) που εμπίπτει στις διατάξεις της νομοθεσίας για Εγκαταστάσεις Κατασκευών Κεραιών Χαμηλής Ηλεκτρομαγνητικής Περιβαλλοντικής Όχλησης (ΕΚΚΧΟ).",
+  "measurements_eaee": "-",
+  "documents": [
+    {
+      "document_number": "245682/20-01-2016",
+      "protocol_number": "ΦΩΤΟΓΡΑΦΙΑ ΘΕΣΗΣ ΚΕΡΑΙΑΣ 1/",
+      "type": "Φωτογραφικό Υλικό - Σκαρίφημα",
+      "file_url": "https://silia.eett.gr/silia/download/07129db1-43df-48df-93e8-e52361d28ae0"
+    },
+    {
+      "document_number": "245951/21-01-2016",
+      "protocol_number": "Αρχείο Αίτησης/",
+      "type": "Δήλωση ΕΚΚΧΟ",
+      "file_url": "https://silia.eett.gr/silia/download/39a4cbc0-45ea-41e3-a012-d04533cbff6b"
+    },
+    {
+      "document_number": "253370/16-03-2016",
+      "protocol_number": "299/11-02-2016",
+      "type": "Γνωμοδότηση Υπηρεσίας Νεωτέρων Μνημείων",
+      "file_url": "https://silia.eett.gr/silia/download/ed9704a5-6d99-43e0-b3d6-e43a2e0faef8"
+    },
+    {
+      "document_number": "253371/16-03-2016",
+      "protocol_number": "370/05-02-2016",
+      "type": "Έγκριση Αρμοδίου Φορέα",
+      "file_url": "https://silia.eett.gr/silia/download/6b2c144b-553c-4073-8311-5d6237384f7c"
+    }
+  ]
+}

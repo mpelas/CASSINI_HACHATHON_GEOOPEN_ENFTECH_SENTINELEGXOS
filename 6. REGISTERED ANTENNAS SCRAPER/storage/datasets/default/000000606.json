@@ -1,0 +1,75 @@
+{
+  "antenna_id": "133966",
+  "address": "ΚΟΜΠΟΘΕΚΛΑ",
+  "position_code": 20110,
+  "municipality": "Αμφιλοχίας",
+  "code_name": "ΚΟΜΠΟΘΕΚΛΑ",
+  "region": "Δυτικής Ελλάδας",
+  "latitude": 38.834444,
+  "company": "OTE",
+  "longitude": 21.245556,
+  "permit_status": "Από τα στοιχεία που τηρούνται στην Ενημερωτική Πύλη προκύπτει ότι, για τη θέση \"ΚΟΜΠΟΘΕΚΛΑ\" στον Δήμο Αμφιλοχίας Περιφέρειας  Δυτικής Ελλάδας \n\t(κωδικός αριθμός θέσης 0020110, κωδική ονομασία \"ΚΟΜΠΟΘΕΚΛΑ \") χορηγήθηκε, με την Απόφαση της ΕΕΤΤ \n42791/Φ610/30-12-2021, άδεια κατασκευής κεραίας στην εταιρία OTE. \nΑπό τo έγγραφο της άδειας μπορείτε να ενημερωθείτε για τις σχετικές εγκρίσεις των συναρμόδιων φορέων, καθώς και εάν πρόκειται για τροποποίηση παλαιότερης άδειας.\nΗ άδεια χορηγήθηκε με τη διαδικασία αδειοδότησης που ορίζει ο ν. 4635/2019, κατόπιν της με αριθ. πρωτ. 28400/13-07-2018 \n\tαίτησης, και βάσει σχετικής δήλωσης του κατόχου της περί υπαγωγή της κατασκευής κεραίας στο άρθρο 34 του ν. 4635/2019.",
+  "measurements_eaee": "-",
+  "documents": [
+    {
+      "document_number": "335654/13-07-2018",
+      "protocol_number": "ΜΕΣΩ ΣΗΛΥΑ/",
+      "type": "Τοπογραφικό",
+      "file_url": "https://silia.eett.gr/silia/download/3c110743-f261-4080-836b-741afa020481"
+    },
+    {
+      "document_number": "335655/13-07-2018",
+      "protocol_number": "ΜΕΣΩ ΣΗΛΥΑ/",
+      "type": "Αρχιτεκτονικά Σχέδια",
+      "file_url": "https://silia.eett.gr/silia/download/906fa215-f8d4-4f7a-b4d6-5f9e40d30404"
+    },
+    {
+      "document_number": "335656/13-07-2018",
+      "protocol_number": "ΜΕΣΩ ΣΗΛΥΑ/12-07-2018",
+      "type": "Αίτηση - Μελέτη Ραδιοεκπομπών ΕΕΑΕ",
+      "file_url": "https://silia.eett.gr/silia/download/4383d316-b22a-411c-a37c-1bd2d4d59a7e"
+    },
+    {
+      "document_number": "335657/13-07-2018",
+      "protocol_number": "Δ3/Δ/22225/5580/27-06-2005",
+      "type": "Γνωμάτευση ΥΠΑ",
+      "file_url": "https://silia.eett.gr/silia/download/d83c10c6-c9d4-4a96-9b92-65ba55e3219f"
+    },
+    {
+      "document_number": "335658/13-07-2018",
+      "protocol_number": "ΜΕΣΩ ΣΗΛΥΑ/",
+      "type": "Αίτηση ΥΠΑ",
+      "file_url": "https://silia.eett.gr/silia/download/03e8515a-a472-4401-85c9-a14ce65e9b11"
+    },
+    {
+      "document_number": "335659/13-07-2018",
+      "protocol_number": "Αρχείο Αίτησης/",
+      "type": "Αίτηση Άδειας Κατασκευής Κεραίας ΕΕΤΤ",
+      "file_url": "https://silia.eett.gr/silia/download/f27f6089-2eb0-46fd-a1e8-7d63b37e7f56"
+    },
+    {
+      "document_number": "342664/01-10-2018",
+      "protocol_number": "Μι/411/13570/2018/21-09-2018",
+      "type": "Γνωμάτευση ΕΕΑΕ",
+      "file_url": "https://silia.eett.gr/silia/download/c24071f1-2c01-41f9-bca9-a93b67bfe1b6"
+    },
+    {
+      "document_number": "448982/31-12-2021",
+      "protocol_number": "42791/Φ610/30-12-2021",
+      "type": "Άδεια Κατασκευής  Κεραίας",
+      "file_url": "https://silia.eett.gr/silia/download/aec02b39-cecb-40bf-b2ff-ee265dc580da"
+    },
+    {
+      "document_number": "370647/15-07-2019",
+      "protocol_number": "ΣΥΝΟΔΕΥΤΙΚΑ ΕΓΓΡΑΦΑ ΠΠΔ/",
+      "type": "Δήλωση υπαγωγής σε ΠΠΔ και Συνοδευτικά Έγγραφα",
+      "file_url": "https://silia.eett.gr/silia/download/b56b0259-c8a5-47e9-9d29-98102b088055"
+    },
+    {
+      "document_number": "370648/15-07-2019",
+      "protocol_number": "Αρχείο Αίτησης/",
+      "type": "Δήλωση ΠΠΔ",
+      "file_url": "https://silia.eett.gr/silia/download/182e497d-0d54-43ee-aeed-baad925b33ef"
+    }
+  ]
+}

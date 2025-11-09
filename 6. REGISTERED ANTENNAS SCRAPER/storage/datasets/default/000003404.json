@@ -1,0 +1,39 @@
+{
+  "antenna_id": "172184",
+  "address": "ΘΕΣΗ ΚΟΚΚΙΝΟΧΩΜΑ - ΝΤΑΜΠΑΣΙ , ΟΙΝΟΦΥΤΑ ΒΟΙΩΤΙΑΣ",
+  "position_code": 1496550,
+  "municipality": "Τανάγρας",
+  "code_name": "ROLLER_KAPATOS_OINOF",
+  "region": "Στερεάς Ελλάδας",
+  "latitude": 38.304167,
+  "company": "OTE",
+  "longitude": 23.628056,
+  "permit_status": "Από τα στοιχεία που τηρούνται στην Ενημερωτική Πύλη προκύπτει ότι, για τη θέση \"ΘΕΣΗ ΚΟΚΚΙΝΟΧΩΜΑ - ΝΤΑΜΠΑΣΙ , ΟΙΝΟΦΥΤΑ ΒΟΙΩΤΙΑΣ\" στον Δήμο Τανάγρας Περιφέρειας  Στερεάς Ελλάδας \n\t(κωδικός αριθμός θέσης 1496550, κωδική ονομασία \"ROLLER_KAPATOS_OINOF\") έχει κατατεθεί από την εταιρία OTE\tδήλωση εγκατάστασης κατασκευής κεραίας (αριθ. πρωτ. \n\t55824/13-05-2024) που εμπίπτει στις διατάξεις της νομοθεσίας για Εγκαταστάσεις Κατασκευών Κεραιών Χαμηλής Ηλεκτρομαγνητικής Περιβαλλοντικής Όχλησης (ΕΚΚΧΟ).",
+  "measurements_eaee": "-",
+  "documents": [
+    {
+      "document_number": "507673/15-02-2024",
+      "protocol_number": "ΦΩΤΟΓΡΑΦΙΑ/",
+      "type": "Φωτογραφικό Υλικό - Σκαρίφημα",
+      "file_url": "https://silia.eett.gr/silia/download/6d3178ce-50cb-418d-ba55-e89d2e39ddc7"
+    },
+    {
+      "document_number": "514537/02-05-2024",
+      "protocol_number": "ΜΕΛΕΤΗ/02-05-2024",
+      "type": "Αίτηση - Μελέτη Ραδιοεκπομπών ΕΕΑΕ",
+      "file_url": "https://silia.eett.gr/silia/download/9TIeokn3pLELv5VkN7rNkLwpT2w0OK00Ui6Q"
+    },
+    {
+      "document_number": "514834/13-05-2024",
+      "protocol_number": "Αρχείο Αίτησης/13-05-2024",
+      "type": "Δήλωση ΕΚΚΧΟ",
+      "file_url": "https://silia.eett.gr/silia/download/SyUPi3lI2h8xghplo9xVihkdNtifMRoLzHi9"
+    },
+    {
+      "document_number": "528031/07-10-2024",
+      "protocol_number": "ΥΠ.ΔΗΛΩΣΗ/07-10-2024",
+      "type": "Άλλο",
+      "file_url": "https://silia.eett.gr/silia/download/oPFQldZ7sLknGAtOi5GgGGfRbdahEerYXr1V"
+    }
+  ]
+}

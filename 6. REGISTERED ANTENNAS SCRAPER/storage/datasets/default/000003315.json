@@ -1,0 +1,45 @@
+{
+  "antenna_id": "171819",
+  "address": "ΑΝΩΓΕΙΑ ΞΗΡΟΚΑΜΠΟΥ",
+  "position_code": 350333,
+  "municipality": "Σπάρτης",
+  "code_name": "ΑΝΩΓΕΙΑ",
+  "region": "Πελοποννήσου",
+  "latitude": 36.988333,
+  "company": "OTE",
+  "longitude": 22.435833,
+  "permit_status": "Από τα στοιχεία που τηρούνται στην Ενημερωτική Πύλη προκύπτει ότι, για τη θέση \"ΑΝΩΓΕΙΑ ΞΗΡΟΚΑΜΠΟΥ\" στον Δήμο Σπάρτης Περιφέρειας  Πελοποννήσου \n\t(κωδικός αριθμός θέσης 0350333, κωδική ονομασία \"ΑΝΩΓΕΙΑ\") έχει κατατεθεί από την εταιρία OTE\tδήλωση εγκατάστασης κατασκευής κεραίας (αριθ. πρωτ. \n\t54545/30-01-2024) που εμπίπτει στις διατάξεις της νομοθεσίας για Εγκαταστάσεις Κατασκευών Κεραιών Χαμηλής Ηλεκτρομαγνητικής Περιβαλλοντικής Όχλησης (ΕΚΚΧΟ).",
+  "measurements_eaee": "-",
+  "documents": [
+    {
+      "document_number": "505241/19-01-2024",
+      "protocol_number": "Χαρτης/",
+      "type": "Φωτογραφικό Υλικό - Σκαρίφημα",
+      "file_url": "https://silia.eett.gr/silia/download/67bc9aaf-fb5f-48cf-894c-5aa2ba369a84"
+    },
+    {
+      "document_number": "505242/19-01-2024",
+      "protocol_number": "Φωτογραφία/",
+      "type": "Φωτογραφικό Υλικό - Σκαρίφημα",
+      "file_url": "https://silia.eett.gr/silia/download/b168d72c-45db-4a9b-8c12-e0efd530f1c6"
+    },
+    {
+      "document_number": "505987/30-01-2024",
+      "protocol_number": "ΜΕΣΩ ΣΗΛΥΑ/",
+      "type": "Αίτηση - Μελέτη Ραδιοεκπομπών ΕΕΑΕ",
+      "file_url": "https://silia.eett.gr/silia/download/0d24453b-d561-48f0-8179-5598a224cfdd"
+    },
+    {
+      "document_number": "506112/30-01-2024",
+      "protocol_number": "Αρχείο Αίτησης/",
+      "type": "Δήλωση ΕΚΚΧΟ",
+      "file_url": "https://silia.eett.gr/silia/download/06c40092-f877-4a75-87b1-a693cae7a45a"
+    },
+    {
+      "document_number": "525597/13-09-2024",
+      "protocol_number": "ΥΠ.ΔΗΛΩΣΗ/13-09-2024",
+      "type": "Άλλο",
+      "file_url": "https://silia.eett.gr/silia/download/8YYx2ZHLl5zZ8g514AOhg2TDva9DT4iSCgRu"
+    }
+  ]
+}

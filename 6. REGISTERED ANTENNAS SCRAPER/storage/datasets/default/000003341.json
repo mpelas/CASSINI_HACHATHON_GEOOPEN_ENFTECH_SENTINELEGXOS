@@ -1,0 +1,111 @@
+{
+  "antenna_id": "176453",
+  "address": "ΑΓΙΑΣ ΘΕΚΛΑΣ 2 - ΑΡΤΕΜΙΔΑ",
+  "position_code": 1292075,
+  "municipality": "Σπάτων - Αρτέμιδος",
+  "code_name": "ΑΡΤΕΜΙΔΑ ΑΓ. ΚΟΣΜΑΣ",
+  "region": "Αττικής",
+  "latitude": 37.961667,
+  "company": "NOVA Μ.Α.Ε.",
+  "longitude": 23.986111,
+  "permit_status": "Από τα στοιχεία που τηρούνται στην Ενημερωτική Πύλη προκύπτει ότι, για τη θέση \"ΑΓΙΑΣ ΘΕΚΛΑΣ 2 - ΑΡΤΕΜΙΔΑ\" στον Δήμο Σπάτων - Αρτέμιδος Περιφέρειας  Αττικής \n\t(κωδικός αριθμός θέσης 1292075, κωδική ονομασία \"ΑΡΤΕΜΙΔΑ ΑΓ. ΚΟΣΜΑΣ\") χορηγήθηκε, με την Απόφαση της ΕΕΤΤ \n52238/10-03-2025, άδεια κατασκευής κεραίας στην εταιρία NOVA Μ.Α.Ε.. \nΑπό τo έγγραφο της άδειας μπορείτε να ενημερωθείτε για τις σχετικές εγκρίσεις των συναρμόδιων φορέων, καθώς και εάν πρόκειται για τροποποίηση παλαιότερης άδειας.\n\tΣύμφωνα με τα στοιχεία που έχουν υποβληθεί στο ΣΗΛΥΑ, ο κάτοχος της κατασκευής κεραίας έχει δηλώσει ότι θα προβεί σε έκδοση έγκρισης δομικών κατασκευών \n\t\tκεραίας μέσω του e-Άδειες \n\t\tμετά την έκδοση της άδειας κατασκευής κεραίας / δημοσιοποίηση της δήλωσης τροποποίησης της κατασκευής κεραίας",
+  "measurements_eaee": "-",
+  "documents": [
+    {
+      "document_number": "533074/20-11-2024",
+      "protocol_number": "ΣΥΝΗΜΜΕΝΟΣ ΜΕ ΤΗΝ ΚΑΤΑΘΕΣΗ ΣΤΗΝ ΥΠΑ/20-11-2024",
+      "type": "Απόσπασμα Χάρτη ΓΥΣ 1:50.000",
+      "file_url": "https://silia.eett.gr/silia/download/tXhGQVyqeE5m4LcI8BqsDfG2G4iQAQfyPwpd"
+    },
+    {
+      "document_number": "533080/20-11-2024",
+      "protocol_number": "ΣΥΝΗΜΜΕΝΗ ΜΕ ΤΗΝ ΚΑΤΑΘΕΣΗ ΣΤΗΝ ΥΠΑ NOVA & VODAFONE/19-11-2024",
+      "type": "Αποτελέσματα μελέτης στη ζώνης 2.6GHz για ΥΠΑ/ΓΕΕΘΑ",
+      "file_url": "https://silia.eett.gr/silia/download/dxKKHgsT3gomS3FBRL5wdCeYLLgeT31bgAL9"
+    },
+    {
+      "document_number": "533081/20-11-2024",
+      "protocol_number": "ΣΥΝΗΜΜΕΝΗ ΜΕ ΤΗΝ ΚΑΤΑΘΕΣΗ ΣΤΗΝ ΕΕΑΕ/19-11-2024",
+      "type": "Αίτηση - Μελέτη Ραδιοεκπομπών ΕΕΑΕ",
+      "file_url": "https://silia.eett.gr/silia/download/4GgRgdPC6vpT818tVZDqWsB68owcxuIQ0gYa"
+    },
+    {
+      "document_number": "533082/20-11-2024",
+      "protocol_number": "ΣΥΝΗΜΜΕΝΑ ΜΕ ΤΗΝ ΚΑΤΑΘΕΣΗ ΣΤΗΝ ΕΕΑΕ/20-11-2024",
+      "type": "Αρχιτεκτονικά Σχέδια",
+      "file_url": "https://silia.eett.gr/silia/download/MEVyqhXLUrSRMICyG4Ev8SutMkTTCQSneLVV"
+    },
+    {
+      "document_number": "533083/20-11-2024",
+      "protocol_number": "ΣΥΝΗΜΜΕΝΟ ΜΕ ΤΗΝ ΚΑΤΑΘΕΣΗ ΣΤΗΝ ΕΕΑΕ/20-11-2024",
+      "type": "Τοπογραφικό",
+      "file_url": "https://silia.eett.gr/silia/download/pZYU9eYu524ElqQfqUIDGOIGAD8gqEUzFMgr"
+    },
+    {
+      "document_number": "533106/20-11-2024",
+      "protocol_number": "ΥΠΕΥΘΥΝΗ ΔΗΛΩΣΗ ΔΙΑΣΥΝΔΕΣΗΣ VODAFONE/20-11-2024",
+      "type": "Άλλο",
+      "file_url": "https://silia.eett.gr/silia/download/NBwQGa8iDktLrWhaHpyMPHIwAfHs6Oey0Cpy"
+    },
+    {
+      "document_number": "533107/20-11-2024",
+      "protocol_number": "ΥΠΕΥΘΥΝΗ ΔΗΛΩΣΗ ΚΟΙΝΗΣ ΧΡΗΣΗΣ  VODAFONE/20-11-2024",
+      "type": "Άλλο",
+      "file_url": "https://silia.eett.gr/silia/download/f82CtCHvedZZwhtZTmAL7DK7WSCFivmo7cHv"
+    },
+    {
+      "document_number": "533108/20-11-2024",
+      "protocol_number": "ΣΥΝΗΜΜΕΝΗ ΜΕ ΤΗΝ ΚΑΤΑΘΕΣΗ ΣΤΗΝ ΕΕΤΤ/20-11-2024",
+      "type": "Βεβαίωση πολιτικού μηχανικού",
+      "file_url": "https://silia.eett.gr/silia/download/AZRZqOgabEGw1ykvmiR1f8KWYKB5B6CA5mAS"
+    },
+    {
+      "document_number": "533110/20-11-2024",
+      "protocol_number": "Αρχείο Αίτησης/20-11-2024",
+      "type": "Αίτηση Άδειας Κατασκευής Κεραίας ΕΕΤΤ",
+      "file_url": "https://silia.eett.gr/silia/download/SG9QpZtQsCWfwAPA8EdKYYfm2uYPyeY5UEzs"
+    },
+    {
+      "document_number": "535485/12-12-2024",
+      "protocol_number": "ΤΜΙΑ/411/17921/2024/12-12-2024",
+      "type": "Γνωμάτευση ΕΕΑΕ",
+      "file_url": "https://silia.eett.gr/silia/download/zG1BQ2kQogrpuiKhoXetHgeGiYlOuOFU0u25"
+    },
+    {
+      "document_number": "538176/17-01-2025",
+      "protocol_number": "ΚΓ/Δ3/Δ/833/17-01-2025",
+      "type": "Γνωμάτευση ΥΠΑ",
+      "file_url": "https://silia.eett.gr/silia/download/E9Nbs2y547sIIwClK0umD7ZWHXCatU2lbF7D"
+    },
+    {
+      "document_number": "543241/10-03-2025",
+      "protocol_number": "52238/10-03-2025",
+      "type": "Άδεια Κατασκευής  Κεραίας",
+      "file_url": "https://silia.eett.gr/silia/download/voXakWv2Nv5yE7A4swtti85GdbxymOnai2bi"
+    },
+    {
+      "document_number": "533084/20-11-2024",
+      "protocol_number": "ΣΥΝΗΜΜΕΝΗ ΜΕ ΤΗΝ ΚΑΤΑΘΕΣΗ ΣΤΗΝ ΕΕΑΕ/19-11-2024",
+      "type": "Αίτηση - Μελέτη Ραδιοεκπομπών ΕΕΑΕ",
+      "file_url": "https://silia.eett.gr/silia/download/4GgRgdPC6vpT818tVZDqWsB68owcxuIQ0gYa"
+    },
+    {
+      "document_number": "533085/20-11-2024",
+      "protocol_number": "515400/01-11-2023",
+      "type": "Γνωμοδότηση Υπηρεσίας Νεωτέρων Μνημείων",
+      "file_url": "https://silia.eett.gr/silia/download/dKErQvIVQi0vx0ReB2SBNycEAfwgIdxxIOpl"
+    },
+    {
+      "document_number": "533086/20-11-2024",
+      "protocol_number": "518446/20-11-2023",
+      "type": "Έγγραφο Αρμοδίου Φορέα",
+      "file_url": "https://silia.eett.gr/silia/download/4zggXBKc979U4vk9pG6Mq01FAwm4t5HhcqcH"
+    },
+    {
+      "document_number": "533111/20-11-2024",
+      "protocol_number": "Αρχείο Αίτησης/20-11-2024",
+      "type": "Δήλωση ΠΠΔ",
+      "file_url": "https://silia.eett.gr/silia/download/83ecrT5zQZ7hLCrBBKsWGTwfZklFdKa4eNeq"
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "antenna_id": "161120",
+  "address": "ΛΕΩΦΟΡΟΣ ΜΕΣΟΓΕΙΩΝ 433 , ΑΓ. ΠΑΡΑΣΚΕΥΗ",
+  "position_code": 2340567,
+  "municipality": "Αγίας Παρασκευής",
+  "code_name": "COSMOS SPORT A.E.",
+  "region": "Αττικής",
+  "latitude": 38.013889,
+  "company": "NOVA Μ.Α.Ε.",
+  "longitude": 23.820278,
+  "permit_status": "Από τα στοιχεία που τηρούνται στην Ενημερωτική Πύλη προκύπτει ότι, για τη θέση \"ΛΕΩΦΟΡΟΣ ΜΕΣΟΓΕΙΩΝ 433 , ΑΓ. ΠΑΡΑΣΚΕΥΗ\" στον Δήμο Αγίας Παρασκευής Περιφέρειας  Αττικής \n\t(κωδικός αριθμός θέσης 2340567, κωδική ονομασία \"COSMOS SPORT A.E.\") έχει κατατεθεί από την εταιρία NOVA Μ.Α.Ε.\tδήλωση εγκατάστασης κατασκευής κεραίας (αριθ. πρωτ. \n\t45443/04-11-2021) που εμπίπτει στις διατάξεις της νομοθεσίας για Εγκαταστάσεις Κατασκευών Κεραιών Χαμηλής Ηλεκτρομαγνητικής Περιβαλλοντικής Όχλησης (ΕΚΚΧΟ).",
+  "measurements_eaee": "-",
+  "documents": [
+    {
+      "document_number": "445590/04-11-2021",
+      "protocol_number": "Φωτογραφία/",
+      "type": "Φωτογραφικό Υλικό - Σκαρίφημα",
+      "file_url": "https://silia.eett.gr/silia/download/502f702e-a1d7-48a7-8d33-00b8dc249a61"
+    },
+    {
+      "document_number": "445591/04-11-2021",
+      "protocol_number": "δικαιωμα χρήσης/",
+      "type": "Χορήγηση Δικαιώματος Χρήσης Ραδιοσυχνοτήτων",
+      "file_url": "https://silia.eett.gr/silia/download/ed279cca-678f-4263-9407-f8ead33ff2b0"
+    },
+    {
+      "document_number": "445592/04-11-2021",
+      "protocol_number": "δικαιωμα χρήσης/",
+      "type": "Χορήγηση Δικαιώματος Χρήσης Ραδιοσυχνοτήτων",
+      "file_url": "https://silia.eett.gr/silia/download/0c4f7938-7d74-46b3-99e5-2ae359cb76f7"
+    },
+    {
+      "document_number": "445593/04-11-2021",
+      "protocol_number": "δικαιωμα χρήσης/",
+      "type": "Χορήγηση Δικαιώματος Χρήσης Ραδιοσυχνοτήτων",
+      "file_url": "https://silia.eett.gr/silia/download/bf21b083-654e-4d10-813c-f0cdb19616f1"
+    },
+    {
+      "document_number": "445596/04-11-2021",
+      "protocol_number": "Αρχείο Αίτησης/",
+      "type": "Δήλωση ΕΚΚΧΟ",
+      "file_url": "https://silia.eett.gr/silia/download/ec56e771-2e57-4582-96ae-6a7ae40ee036"
+    }
+  ]
+}

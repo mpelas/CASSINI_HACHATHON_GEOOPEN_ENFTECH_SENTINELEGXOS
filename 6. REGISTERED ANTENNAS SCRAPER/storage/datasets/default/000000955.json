@@ -1,0 +1,51 @@
+{
+  "antenna_id": "171541",
+  "address": "Λ. ΚΑΡΑΜΑΝΛΗ 175 ΒΟΥΛΑ",
+  "position_code": 1152534,
+  "municipality": "Βάρης - Βούλας - Βουλιαγμένης",
+  "code_name": "3012534 OPTIMA VOULA",
+  "region": "Αττικής",
+  "latitude": 37.833056,
+  "company": "VODAFONE",
+  "longitude": 23.773333,
+  "permit_status": "Από τα στοιχεία που τηρούνται στην Ενημερωτική Πύλη προκύπτει ότι, για τη θέση \"Λ. ΚΑΡΑΜΑΝΛΗ 175 ΒΟΥΛΑ\" στον Δήμο Βάρης - Βούλας - Βουλιαγμένης Περιφέρειας  Αττικής \n\t(κωδικός αριθμός θέσης 1152534, κωδική ονομασία \"3012534 OPTIMA VOULA\") έχει κατατεθεί από την εταιρία VODAFONE\tδήλωση εγκατάστασης κατασκευής κεραίας (αριθ. πρωτ. \n\t54253/21-12-2023) που εμπίπτει στις διατάξεις της νομοθεσίας για Εγκαταστάσεις Κατασκευών Κεραιών Χαμηλής Ηλεκτρομαγνητικής Περιβαλλοντικής Όχλησης (ΕΚΚΧΟ).",
+  "measurements_eaee": "-",
+  "documents": [
+    {
+      "document_number": "503649/20-12-2023",
+      "protocol_number": "Φωτορεαλιστική απεικόνιση κεραιας  ΕΚΚΧΟ/",
+      "type": "Φωτογραφικό Υλικό - Σκαρίφημα",
+      "file_url": "https://silia.eett.gr/silia/download/ea7aca82-c994-4760-938a-a55b9ae3e043"
+    },
+    {
+      "document_number": "503652/20-12-2023",
+      "protocol_number": "Ψηφιακός Χάρτης με προβολή της θέσης της κεραίας ΕΚΚΧΟ/",
+      "type": "Φωτογραφικό Υλικό - Σκαρίφημα",
+      "file_url": "https://silia.eett.gr/silia/download/d774a668-57ea-4f83-859c-ccbf38bbfacb"
+    },
+    {
+      "document_number": "503821/21-12-2023",
+      "protocol_number": "Μελέτη ΕΚΚΧΟ/20-12-2023",
+      "type": "Άλλο",
+      "file_url": "https://silia.eett.gr/silia/download/5a64942d-69c4-47bc-9b02-3d07cb93d3e0"
+    },
+    {
+      "document_number": "503822/21-12-2023",
+      "protocol_number": "Σκαρίφημα με περιοχή απαγόρευσης/",
+      "type": "Φωτογραφικό Υλικό - Σκαρίφημα",
+      "file_url": "https://silia.eett.gr/silia/download/5cd9483f-4486-4c98-92df-fec53f669285"
+    },
+    {
+      "document_number": "503823/21-12-2023",
+      "protocol_number": "Αρχείο Αίτησης/",
+      "type": "Δήλωση ΕΚΚΧΟ",
+      "file_url": "https://silia.eett.gr/silia/download/d6980191-1a9b-46ff-8066-a54b07900850"
+    },
+    {
+      "document_number": "512392/08-04-2024",
+      "protocol_number": "ΥΔ Μηχανικού/08-04-2024",
+      "type": "Άλλο",
+      "file_url": "https://silia.eett.gr/silia/download/LM1HG8qgdklvQK5964ZncO5oSwF6DnCtgoUQ"
+    }
+  ]
+}

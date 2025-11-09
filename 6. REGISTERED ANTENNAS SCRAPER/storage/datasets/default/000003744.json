@@ -1,0 +1,39 @@
+{
+  "antenna_id": "161385",
+  "address": "ΔΙΕΘΝΗΣ ΑΕΡΟΛΙΜΕΝΑΣ ΧΑΝΙΩΝ",
+  "position_code": 1404946,
+  "municipality": "Χανίων",
+  "code_name": "CHANIA AIR",
+  "region": "Κρήτης",
+  "latitude": 35.539444,
+  "company": "OTE",
+  "longitude": 24.141111,
+  "permit_status": "Από τα στοιχεία που τηρούνται στην Ενημερωτική Πύλη προκύπτει ότι, για τη θέση \"ΔΙΕΘΝΗΣ ΑΕΡΟΛΙΜΕΝΑΣ ΧΑΝΙΩΝ\" στον Δήμο Χανίων Περιφέρειας  Κρήτης \n\t(κωδικός αριθμός θέσης 1404946, κωδική ονομασία \"CHANIA AIR \") έχει κατατεθεί από την εταιρία OTE\tδήλωση εγκατάστασης κατασκευής κεραίας (αριθ. πρωτ. \n\t45808/07-12-2021) που εμπίπτει στις διατάξεις της νομοθεσίας για Εγκαταστάσεις Κατασκευών Κεραιών Χαμηλής Ηλεκτρομαγνητικής Περιβαλλοντικής Όχλησης (ΕΚΚΧΟ).",
+  "measurements_eaee": "-",
+  "documents": [
+    {
+      "document_number": "446932/29-11-2021",
+      "protocol_number": "ΣΚΑΡΙΦΗΜΑ/",
+      "type": "Φωτογραφικό Υλικό - Σκαρίφημα",
+      "file_url": "https://silia.eett.gr/silia/download/e5e64108-3982-41e8-8f42-190cc9728dce"
+    },
+    {
+      "document_number": "447477/07-12-2021",
+      "protocol_number": "ΔΗΛΩΣΗ ΜΟΔ/07-12-2021",
+      "type": "Άλλο",
+      "file_url": "https://silia.eett.gr/silia/download/1a0fb955-c141-4a3c-81af-41af57494d4e"
+    },
+    {
+      "document_number": "447490/07-12-2021",
+      "protocol_number": "132260 (ΚΟΙΝΟΠΟΙΗΣΗ ΓΕΑ)/06-12-2021",
+      "type": "Άλλο",
+      "file_url": "https://silia.eett.gr/silia/download/51dc0e93-b825-476f-8e63-fedd3ee270bb"
+    },
+    {
+      "document_number": "447508/07-12-2021",
+      "protocol_number": "Αρχείο Αίτησης/",
+      "type": "Δήλωση ΕΚΚΧΟ",
+      "file_url": "https://silia.eett.gr/silia/download/1598a725-e678-408a-a126-caf26cd266d1"
+    }
+  ]
+}

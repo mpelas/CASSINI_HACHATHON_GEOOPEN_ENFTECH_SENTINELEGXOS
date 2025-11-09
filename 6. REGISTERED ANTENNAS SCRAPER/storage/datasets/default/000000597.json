@@ -1,0 +1,39 @@
+{
+  "antenna_id": "152629",
+  "address": "ΝΥΜΦΑΙΟ, ΔΗΜΟΣ ΑΜΥΝΤΑΙΟΥ Π.Ε. ΦΛΩΡΙΝΑΣ, ΠΕΡΙΦΕΡΕΙΑ ΔΥΤΙΚΗΣ ΜΑΚΕΔΟΝΙΑΣ",
+  "position_code": 3207365,
+  "municipality": "Αμυνταίου",
+  "code_name": "ΝΥΜΦΑΙΟ-Δ",
+  "region": "Δυτικής Μακεδονίας",
+  "latitude": 40.640556,
+  "company": "ΕΡΤ ΑΕ",
+  "longitude": 21.495278,
+  "permit_status": "Από τα στοιχεία που τηρούνται στην Ενημερωτική Πύλη προκύπτει ότι για τη  θέση \"ΝΥΜΦΑΙΟ, ΔΗΜΟΣ ΑΜΥΝΤΑΙΟΥ Π.Ε. ΦΛΩΡΙΝΑΣ, ΠΕΡΙΦΕΡΕΙΑ ΔΥΤΙΚΗΣ ΜΑΚΕΔΟΝΙΑΣ\" στον Δήμο Αμυνταίου Περιφέρειας  Δυτικής Μακεδονίας έχει κατατεθεί από την εταιρία ΕΡΤ ΑΕ δήλωση δομικών κατασκευών κεραιών  \nμε αριθ. πρωτ. ΣΗΛΥΑ 38185/10-04-2020 κατά τα οριζόμενα στην παρ. 7 του άρθρου 34 του Ν.4635/2019.",
+  "measurements_eaee": "-",
+  "documents": [
+    {
+      "document_number": "401152/04-04-2020",
+      "protocol_number": "δορυφορική λήψη και στοιχεία δομικών κατασκευών/",
+      "type": "Άλλο",
+      "file_url": "https://silia.eett.gr/silia/download/a20ad87c-c52c-41da-80a5-cd5bee82bb14"
+    },
+    {
+      "document_number": "401153/04-04-2020",
+      "protocol_number": "απογραφή 1987/",
+      "type": "Άλλο",
+      "file_url": "https://silia.eett.gr/silia/download/ca49a425-9eae-4ce8-98f8-e43f7e016c55"
+    },
+    {
+      "document_number": "401154/04-04-2020",
+      "protocol_number": "πίνακας 49 απογραφής ΕΡΤ 1987/",
+      "type": "Άλλο",
+      "file_url": "https://silia.eett.gr/silia/download/f1f738af-4630-4f9e-89c6-c7fa0e950271"
+    },
+    {
+      "document_number": "401863/10-04-2020",
+      "protocol_number": "Αρχείο Αίτησης/",
+      "type": "Δήλωση Δομικών ΕΡΤ",
+      "file_url": "https://silia.eett.gr/silia/download/2c774587-ba23-4817-ae52-ffa50993ba58"
+    }
+  ]
+}

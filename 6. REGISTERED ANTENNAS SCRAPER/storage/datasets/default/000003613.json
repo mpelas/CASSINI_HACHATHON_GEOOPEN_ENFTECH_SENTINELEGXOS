@@ -1,0 +1,57 @@
+{
+  "antenna_id": "167782",
+  "address": "Ι. ΚΑΜΠΟΛΗ 33 & ΠΕΤΡΟΥ ΛΙΟΣΙΑ",
+  "position_code": 1391390,
+  "municipality": "Φυλής",
+  "code_name": "DIMARCHIO ANO LIOSIA_MW",
+  "region": "Αττικής",
+  "latitude": 38.08,
+  "company": "NOVA Μ.Α.Ε.",
+  "longitude": 23.703056,
+  "permit_status": "Από τα στοιχεία που τηρούνται στην Ενημερωτική Πύλη προκύπτει ότι, για τη θέση \"Ι. ΚΑΜΠΟΛΗ 33 & ΠΕΤΡΟΥ ΛΙΟΣΙΑ\" στον Δήμο Φυλής Περιφέρειας  Αττικής \n\t(κωδικός αριθμός θέσης 1391390, κωδική ονομασία \"DIMARCHIO ANO LIOSIA_MW\") έχει κατατεθεί από την εταιρία NOVA Μ.Α.Ε.\tδήλωση εγκατάστασης κατασκευής κεραίας (αριθ. πρωτ. \n\t51187/30-03-2023) που εμπίπτει στις διατάξεις της νομοθεσίας για Εγκαταστάσεις Κατασκευών Κεραιών Χαμηλής Ηλεκτρομαγνητικής Περιβαλλοντικής Όχλησης (ΕΚΚΧΟ).",
+  "measurements_eaee": "-",
+  "documents": [
+    {
+      "document_number": "481414/30-03-2023",
+      "protocol_number": "ΣΚΑΡΙΦΗΜΑ ΕΚΚΧΟ/",
+      "type": "Φωτογραφικό Υλικό - Σκαρίφημα",
+      "file_url": "https://silia.eett.gr/silia/download/01a8ecca-7b63-4be9-b184-ca43e9cac8a7"
+    },
+    {
+      "document_number": "481415/30-03-2023",
+      "protocol_number": "ΣΚΑΡΙΦΗΜΑ ΕΚΚΧΟ/",
+      "type": "Φωτογραφικό Υλικό - Σκαρίφημα",
+      "file_url": "https://silia.eett.gr/silia/download/aea25418-e816-40a6-aa00-7021db222673"
+    },
+    {
+      "document_number": "481423/30-03-2023",
+      "protocol_number": "ΦΩΤΟΓΡΑΦΙΑ ΕΚΚΧΟ/",
+      "type": "Φωτογραφικό Υλικό - Σκαρίφημα",
+      "file_url": "https://silia.eett.gr/silia/download/d99a5125-9a72-4dc6-b91d-4bf2a643721c"
+    },
+    {
+      "document_number": "481424/30-03-2023",
+      "protocol_number": "ΑΠΕΙΚΟΝΙΣΗ GOOGLE EARTH/",
+      "type": "Άλλο",
+      "file_url": "https://silia.eett.gr/silia/download/009d2643-4e2b-4dec-a969-557f76456552"
+    },
+    {
+      "document_number": "481609/30-03-2023",
+      "protocol_number": "ΜΕΛΕΤΗ ΕΚΚΧΟ/",
+      "type": "Άλλο",
+      "file_url": "https://silia.eett.gr/silia/download/767bbe3f-7049-49b9-aca5-3671747bcd29"
+    },
+    {
+      "document_number": "481610/30-03-2023",
+      "protocol_number": "Αρχείο Αίτησης/",
+      "type": "Δήλωση ΕΚΚΧΟ",
+      "file_url": "https://silia.eett.gr/silia/download/d2b99898-4784-4e76-b876-50c303be2ee8"
+    },
+    {
+      "document_number": "488712/23-06-2023",
+      "protocol_number": "ΥΠΕΥΘΥΝΗ ΔΗΛΩΣΗ ΤΕΧΝΙΚΟΥ ΥΠΕΥΘΥΝΟΥ/",
+      "type": "Άλλο",
+      "file_url": "https://silia.eett.gr/silia/download/c57e7378-068a-4792-80b4-6bdb9c9d9ad2"
+    }
+  ]
+}

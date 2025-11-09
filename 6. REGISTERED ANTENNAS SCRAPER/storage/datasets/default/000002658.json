@@ -1,0 +1,201 @@
+{
+  "antenna_id": "85062",
+  "address": "ΠΛΑΤΕΙΑ  ΙΠΠΟΔΑΜΕΙΑΣ 6",
+  "position_code": 1200629,
+  "municipality": "Πειραιώς",
+  "code_name": "ΠΕΙΡΑΙΑΣ 3",
+  "region": "Αττικής",
+  "latitude": 37.947222,
+  "company": "NOVA Μ.Α.Ε.",
+  "longitude": 23.6475,
+  "permit_status": "Από τα στοιχεία που τηρούνται στην Ενημερωτική Πύλη προκύπτει ότι, για τη θέση \"ΠΛΑΤΕΙΑ  ΙΠΠΟΔΑΜΕΙΑΣ 6\" στον Δήμο Πειραιώς Περιφέρειας  Αττικής \n\t(κωδικός αριθμός θέσης 1200629, κωδική ονομασία \"ΠΕΙΡΑΙΑΣ 3\") χορηγήθηκε, με την Απόφαση της ΕΕΤΤ \n7832/Φ610/10-04-2012, άδεια κατασκευής κεραίας στην εταιρία NOVA Μ.Α.Ε.. \nΑπό τo έγγραφο της άδειας μπορείτε να ενημερωθείτε για τις σχετικές εγκρίσεις των συναρμόδιων φορέων, καθώς και εάν πρόκειται για τροποποίηση παλαιότερης άδειας.\nΗ άδεια χορηγήθηκε, κατόπιν της με Αριθ. Πρωτ. 23030/07-06-2011 αίτησης, \n\tμε τη διαδικασία αδειοδότησης της παρ. 17 του άρθρου 30 του Ν.4070/2012 που πλέον έχει αντικατασταθεί από τη διαδικασία που ορίζει ο ν. 4635/2019.\nΕπιπλέον, έχoυν υποβληθεί οι με αριθ. πρωτ. ΣΗΛΥΑ 39733/29-05-2020 (Δήλωση παρ. 1Α, άρθρ. 28, ν. 4635/2019), 46052/04-01-2022 (Δήλωση Παρ. 1Γ, άρθρ. 28, ν. 4635/2019), 59199/29-01-2025 (Δήλωση παρ. 1Β, άρθρ. 28, ν. 4635/2019) δηλώσεις που αφορούν σε τροποποίηση/επικαιροποίηση στοιχείων της κατασκευής κεραίας που αφορούν τον(ους) Τομέα(εις) Αδειοδότησης:Κεραιοσυστήματα, Στέγαση, Ιστοί, Θέση, Έκταση, Περιβάλλον.\n\tΔιευκρινίζεται ότι υπό ορισμένες προϋποθέσεις για την τροποποίηση αδειοδοτημένης κατασκευής κεραίας ή/και την επικαιροποίηση στοιχείων της δεν απαιτείται η έκδοση νέας άδειας \n\tκατασκευής κεραίας ή η τροποποίηση της υφιστάμενης άδειας κατασκευής κεραίας, αλλά απαιτείται η υποβολή κατάλληλης δήλωσης από τον κάτοχο της κατασκευής κεραίας συνοδευόμενη \n\tαπό επικαιροποίηση επιμέρους εγκρίσεων. \n\t \tΣύμφωνα με τα στοιχεία που έχουν υποβληθεί στο ΣΗΛΥΑ για την κατασκευή κεραίας από τον κάτοχό της, έχει εκδοθεί έγκριση δομικών κατασκευών κεραίας\n\tΣημειώνεται ότι κατά δήλωση της εταιρίας η με αριθ. πρωτ. ΣΗΛΥΑ \tδήλωση έχει υποβληθεί στο πλαίσιο εφαρμογής των διατάξεων της παρ. 2α του άρθρου 34 του ν. 4635/2019 για την τροποποιημένη κατασκευή κεραίας.",
+  "measurements_eaee": "-",
+  "documents": [
+    {
+      "document_number": "12285/16-11-2012",
+      "protocol_number": "88502/11/23-01-2012",
+      "type": "Έγκριση Περιβαλλοντικών Όρων",
+      "file_url": null
+    },
+    {
+      "document_number": "23220/16-11-2012",
+      "protocol_number": "23030/07-06-2011",
+      "type": "Αίτηση Άδειας Κατασκευής Κεραίας ΕΕΤΤ",
+      "file_url": null
+    },
+    {
+      "document_number": "39678/16-11-2012",
+      "protocol_number": "Δ3/Δ/21695/5288/21-07-2011",
+      "type": "Γνωμάτευση ΥΠΑ",
+      "file_url": null
+    },
+    {
+      "document_number": "92161/07-08-2013",
+      "protocol_number": "7832/Φ610/10-04-2012",
+      "type": "Άδεια Κατασκευής  Κεραίας",
+      "file_url": "https://silia.eett.gr/silia/download/9d2c7d23-37c7-41f7-ae6f-f826275a328a"
+    },
+    {
+      "document_number": "339943/11-09-2018",
+      "protocol_number": "29389/Φ610/07-09-2018",
+      "type": "Διαπιστωτική Πράξη Υπαγωγής σε ΠΠΔ",
+      "file_url": "https://silia.eett.gr/silia/download/4b39189e-1a8d-4d17-b0c7-8de1241de204"
+    },
+    {
+      "document_number": "539369/29-01-2025",
+      "protocol_number": "356666/04-02-2022",
+      "type": "Έγκριση δομικών κατασκευών (έντυπη)",
+      "file_url": "https://silia.eett.gr/silia/download/dOH9QnvQaunHa2Y9mCYxKTLE3AZo7rXq45Ea"
+    },
+    {
+      "document_number": "409232/29-05-2020",
+      "protocol_number": "35616/Φ615/21-04-2020",
+      "type": "Χορήγηση Δικαιώματος Χρήσης Ραδιοσυχνοτήτων",
+      "file_url": null
+    },
+    {
+      "document_number": "409238/29-05-2020",
+      "protocol_number": "Δ3/Δ/47251/7169/19-11-1997",
+      "type": "Γνωμάτευση ΥΠΑ",
+      "file_url": "https://silia.eett.gr/silia/download/90d08559-d58f-47dc-b72c-b715192eba76"
+    },
+    {
+      "document_number": "409239/29-05-2020",
+      "protocol_number": "Δ3/Δ/21695/5288_ΔΙΟΡΘΩΤΙΚΟ/21-07-2011",
+      "type": "Γνωμάτευση ΥΠΑ",
+      "file_url": "https://silia.eett.gr/silia/download/03a01ce5-e837-45ca-8ac0-e4012e780bb4"
+    },
+    {
+      "document_number": "409240/29-05-2020",
+      "protocol_number": "ΜΕΛΕΤΗ ΡΑΔΙΟΕΚΠΟΜΠΩΝ/29-05-2020",
+      "type": "Αίτηση - Μελέτη Ραδιοεκπομπών ΕΕΑΕ",
+      "file_url": "https://silia.eett.gr/silia/download/1340a262-1565-4de0-a98d-b3612d00d2f5"
+    },
+    {
+      "document_number": "409241/29-05-2020",
+      "protocol_number": "ΤΟΠΟΓΡΑΦΙΚΟ/",
+      "type": "Τοπογραφικό",
+      "file_url": "https://silia.eett.gr/silia/download/e30e8934-47f5-4c47-9b5b-2370c68256c9"
+    },
+    {
+      "document_number": "409242/29-05-2020",
+      "protocol_number": "ΑΡΧΙΤΕΚΤΟΝΙΚΑ ΣΧΕΔΙΑ/",
+      "type": "Αρχιτεκτονικά Σχέδια",
+      "file_url": "https://silia.eett.gr/silia/download/7cc4bc21-bf39-44be-805a-28b931f9a487"
+    },
+    {
+      "document_number": "409243/29-05-2020",
+      "protocol_number": "ΧΧΓ/",
+      "type": "Χάρτης Ευαίσθητων Χρήσεων Γης",
+      "file_url": "https://silia.eett.gr/silia/download/1b7c9379-58cf-4689-9fa5-18672f4ddfdf"
+    },
+    {
+      "document_number": "409244/29-05-2020",
+      "protocol_number": "ΜΕΛΕΤΗ ΥΠΟΒΑΘΡΟΥ/29-05-2020",
+      "type": "Αίτηση - Μελέτη Ραδιοεκπομπών ΕΕΑΕ (υποβάθρου)",
+      "file_url": "https://silia.eett.gr/silia/download/abff0e68-d6b2-459a-9f53-987e5c33bcf5"
+    },
+    {
+      "document_number": "409248/29-05-2020",
+      "protocol_number": "1598/07-03-2013",
+      "type": "Γνωμοδότηση ΕΠΚΑ",
+      "file_url": "https://silia.eett.gr/silia/download/eb952e08-5792-4d9e-a442-d431aff985ef"
+    },
+    {
+      "document_number": "409249/29-05-2020",
+      "protocol_number": "1145/15-03-2013",
+      "type": "Γνωμοδότηση ΕΒΑ",
+      "file_url": "https://silia.eett.gr/silia/download/1f30ca4b-7bb3-4722-8804-f442065f500d"
+    },
+    {
+      "document_number": "409250/29-05-2020",
+      "protocol_number": "ΥΠΠΟΑ/ΓΔΑΜΤΕ/ΕΝΜΑ/49913/6032/1175/13-03-2014",
+      "type": "Γνωμοδότηση Υπηρεσίας Νεωτέρων Μνημείων",
+      "file_url": "https://silia.eett.gr/silia/download/b4b03c0b-200e-4ad4-9565-b60ec0d88b78"
+    },
+    {
+      "document_number": "409292/29-05-2020",
+      "protocol_number": "Αρχείο Αίτησης/",
+      "type": "Δήλωση ΔΤΚΚ",
+      "file_url": "https://silia.eett.gr/silia/download/94c50d46-7ff4-46d2-8a98-bf9103761046"
+    },
+    {
+      "document_number": "411676/24-06-2020",
+      "protocol_number": "Μ.ι./411/8204/2020/24-06-2020",
+      "type": "Γνωμάτευση ΕΕΑΕ",
+      "file_url": "https://silia.eett.gr/silia/download/5fcf93da-685d-475b-b152-d7bf99a2f1a0"
+    },
+    {
+      "document_number": "449046/04-01-2022",
+      "protocol_number": "42520/Φ615/10-12-2021",
+      "type": "Χορήγηση Δικαιώματος Χρήσης Ραδιοσυχνοτήτων",
+      "file_url": null
+    },
+    {
+      "document_number": "449047/04-01-2022",
+      "protocol_number": "ΤΟΠΟΓΡΑΦΙΚΟ/",
+      "type": "Τοπογραφικό",
+      "file_url": "https://silia.eett.gr/silia/download/fb593a82-592a-4b6c-bb40-8fef24e9def9"
+    },
+    {
+      "document_number": "449048/04-01-2022",
+      "protocol_number": "ΑΡΧΙΤΕΚΤΟΝΙΚΑ ΣΧΕΔΙΑ/",
+      "type": "Αρχιτεκτονικά Σχέδια",
+      "file_url": "https://silia.eett.gr/silia/download/ba68516f-cfd5-42ec-a255-f7d2bcfbd1ee"
+    },
+    {
+      "document_number": "449049/04-01-2022",
+      "protocol_number": "Αρχείο Αίτησης/",
+      "type": "Δήλωση ΔΤΚΚ",
+      "file_url": "https://silia.eett.gr/silia/download/dc4ca53d-56e9-42b3-922b-1999ba879caa"
+    },
+    {
+      "document_number": "539319/29-01-2025",
+      "protocol_number": "ΤΟΠΟΓΡΑΦΙΚΟ & ΑΡΧΙΤΕΚΤΟΝΙΚΑ/29-01-2025",
+      "type": "Αρχιτεκτονικά Σχέδια",
+      "file_url": "https://silia.eett.gr/silia/download/eyQxQlhZLmrS1SpbcMywPytfOddDWQWgTBy6"
+    },
+    {
+      "document_number": "539320/29-01-2025",
+      "protocol_number": "ΜΕΣΩ ΣΗΛΥΑ/24-01-2025",
+      "type": "Αίτηση - Μελέτη Ραδιοεκπομπών ΕΕΑΕ",
+      "file_url": "https://silia.eett.gr/silia/download/EYiHWqoCT41mbixHqemfq46bcGpmCFYEc1tp"
+    },
+    {
+      "document_number": "539333/29-01-2025",
+      "protocol_number": "ΣΥΝΟΔΕΥΤΙΚΑ ΕΓΓΡΑΦΑ ΠΠΔ/29-01-2025",
+      "type": "Δήλωση υπαγωγής σε ΠΠΔ και Συνοδευτικά Έγγραφα",
+      "file_url": "https://silia.eett.gr/silia/download/92NLP8C4arsLgbekW1wbM4lI5RiOuMIBe3Uz"
+    },
+    {
+      "document_number": "539367/29-01-2025",
+      "protocol_number": "ΥΔ ΚΟΙΝΗΣ ΧΡΗΣΗΣ VODAFONE/29-01-2025",
+      "type": "Άλλο",
+      "file_url": "https://silia.eett.gr/silia/download/64O45nUQ6ko8VUmm4Ra2BxlnTr7hX7GFSDhb"
+    },
+    {
+      "document_number": "539368/29-01-2025",
+      "protocol_number": "ΥΔ ΔΙΑΣΥΝΔΕΣΗΣ VODAFONE/29-01-2025",
+      "type": "Άλλο",
+      "file_url": "https://silia.eett.gr/silia/download/7Fxr3QG43hsGIKzHH7OE8XoGb3DF7adRiAFX"
+    },
+    {
+      "document_number": "539369/29-01-2025",
+      "protocol_number": "356666/04-02-2022",
+      "type": "Έγκριση δομικών κατασκευών (έντυπη)",
+      "file_url": "https://silia.eett.gr/silia/download/dOH9QnvQaunHa2Y9mCYxKTLE3AZo7rXq45Ea"
+    },
+    {
+      "document_number": "539370/29-01-2025",
+      "protocol_number": "Αρχείο Αίτησης/29-01-2025",
+      "type": "Δήλωση ΔΤΚΚ",
+      "file_url": "https://silia.eett.gr/silia/download/6CqlfMEsFWFG6aiIq6sdYgNypOtXHS60H0Uc"
+    },
+    {
+      "document_number": "546823/12-04-2025",
+      "protocol_number": "ΤΜΙΑ/411/5038/2025/09-04-2025",
+      "type": "Γνωμάτευση ΕΕΑΕ",
+      "file_url": "https://silia.eett.gr/silia/download/bKTkUuWI7wgLkRfw4HHqmNwx6fme6O9mgk5F"
+    }
+  ]
+}

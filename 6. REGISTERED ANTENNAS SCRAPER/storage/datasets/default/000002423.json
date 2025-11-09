@@ -1,0 +1,45 @@
+{
+  "antenna_id": "167764",
+  "address": "ΦΩΤΟΒΟΛΤΑΙΚΟΣ ΣΤΑΘΜΟΣ ΜΥΡΙΝΗ",
+  "position_code": 1157927,
+  "municipality": "Παλαμά",
+  "code_name": "3027927 ENEL MYRINI",
+  "region": "Θεσσαλίας",
+  "latitude": 39.399444,
+  "company": "VODAFONE",
+  "longitude": 22.031944,
+  "permit_status": "Από τα στοιχεία που τηρούνται στην Ενημερωτική Πύλη προκύπτει ότι, για τη θέση \"ΦΩΤΟΒΟΛΤΑΙΚΟΣ ΣΤΑΘΜΟΣ ΜΥΡΙΝΗ\" στον Δήμο Παλαμά Περιφέρειας  Θεσσαλίας \n\t(κωδικός αριθμός θέσης 1157927, κωδική ονομασία \"3027927 ENEL MYRINI\") έχει κατατεθεί από την εταιρία VODAFONE\tδήλωση εγκατάστασης κατασκευής κεραίας (αριθ. πρωτ. \n\t51204/31-03-2023) που εμπίπτει στις διατάξεις της νομοθεσίας για Εγκαταστάσεις Κατασκευών Κεραιών Χαμηλής Ηλεκτρομαγνητικής Περιβαλλοντικής Όχλησης (ΕΚΚΧΟ).",
+  "measurements_eaee": "-",
+  "documents": [
+    {
+      "document_number": "481711/31-03-2023",
+      "protocol_number": "Φωτορεαλιστική απεικόνιση ΕΚΚΧΟ/",
+      "type": "Φωτογραφικό Υλικό - Σκαρίφημα",
+      "file_url": "https://silia.eett.gr/silia/download/f98108ff-bd2e-4d71-b7b3-e5bbd7a33d9d"
+    },
+    {
+      "document_number": "481712/31-03-2023",
+      "protocol_number": "Ψηφιακός Χάρτης με προβολή της θέσης ΕΚΚΧΟ/",
+      "type": "Φωτογραφικό Υλικό - Σκαρίφημα",
+      "file_url": "https://silia.eett.gr/silia/download/6fda5e60-d971-436b-b902-27e24fa7156d"
+    },
+    {
+      "document_number": "481713/31-03-2023",
+      "protocol_number": "Μελέτη ΕΚΚΧΟ/29-03-2023",
+      "type": "Άλλο",
+      "file_url": "https://silia.eett.gr/silia/download/ea931d54-f5c2-4beb-b6de-94f284a99df8"
+    },
+    {
+      "document_number": "481714/31-03-2023",
+      "protocol_number": "Αρχείο Αίτησης/",
+      "type": "Δήλωση ΕΚΚΧΟ",
+      "file_url": "https://silia.eett.gr/silia/download/7f11258f-d0cd-45f3-adb0-91f9adbba17b"
+    },
+    {
+      "document_number": "490279/18-07-2023",
+      "protocol_number": "ΥΔ εγκατάστασης/18-07-2023",
+      "type": "Άλλο",
+      "file_url": "https://silia.eett.gr/silia/download/1df185c2-dc1c-47e2-89f9-281ddd296a93"
+    }
+  ]
+}

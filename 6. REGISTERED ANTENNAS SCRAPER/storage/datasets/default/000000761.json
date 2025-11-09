@@ -1,0 +1,75 @@
+{
+  "antenna_id": "173532",
+  "address": "ΕΠΙ ΑΝΩΝΥΜΗΣ ΟΔΟΥ, ΟΙΚΙΣΜΟΣ ΒΑΡΒΑΡΑ",
+  "position_code": 1441728,
+  "municipality": "Αριστοτέλη",
+  "code_name": "VARVARA",
+  "region": "Κεντρικής Μακεδονίας",
+  "latitude": 40.570556,
+  "company": "OTE",
+  "longitude": 23.658611,
+  "permit_status": "Από τα στοιχεία που τηρούνται στην Ενημερωτική Πύλη προκύπτει ότι, για τη θέση \"ΕΠΙ ΑΝΩΝΥΜΗΣ ΟΔΟΥ, ΟΙΚΙΣΜΟΣ ΒΑΡΒΑΡΑ\" στον Δήμο Αριστοτέλη Περιφέρειας  Κεντρικής Μακεδονίας \n\t(κωδικός αριθμός θέσης 1441728, κωδική ονομασία \"VARVARA\") χορηγήθηκε, με την Απόφαση της ΕΕΤΤ \n51491/21-10-2024, άδεια κατασκευής κεραίας στην εταιρία OTE. \nΑπό τo έγγραφο της άδειας μπορείτε να ενημερωθείτε για τις σχετικές εγκρίσεις των συναρμόδιων φορέων, καθώς και εάν πρόκειται για τροποποίηση παλαιότερης άδειας.\n\tΣύμφωνα με τα στοιχεία που έχουν υποβληθεί στο ΣΗΛΥΑ, ο κάτοχος της κατασκευής κεραίας έχει δηλώσει ότι θα προβεί σε έκδοση έγκρισης δομικών κατασκευών \n\t\tκεραίας μέσω του e-Άδειες \n\t\tμετά την έκδοση της άδειας κατασκευής κεραίας / δημοσιοποίηση της δήλωσης τροποποίησης της κατασκευής κεραίας",
+  "measurements_eaee": "-",
+  "documents": [
+    {
+      "document_number": "515557/22-05-2024",
+      "protocol_number": "ΤΟΠΟΓΡΑΦΙΚΟ/22-05-2024",
+      "type": "Τοπογραφικό",
+      "file_url": "https://silia.eett.gr/silia/download/zREWpF8ugRnMvIB1WOU4gAI25RmI7lr9hZaa"
+    },
+    {
+      "document_number": "515558/22-05-2024",
+      "protocol_number": "ΑΡΧΙΤΕΚΤΟΝΙΚΑ/22-05-2024",
+      "type": "Αρχιτεκτονικά Σχέδια",
+      "file_url": "https://silia.eett.gr/silia/download/LAvPY7Wt2R2LNd09ul0SoUSPHk1CLYE9aWGq"
+    },
+    {
+      "document_number": "515559/22-05-2024",
+      "protocol_number": "ΜΕΛΕΤΗ Ρ/Ε/07-03-2024",
+      "type": "Αίτηση - Μελέτη Ραδιοεκπομπών ΕΕΑΕ",
+      "file_url": "https://silia.eett.gr/silia/download/HcNGyAga6a8XQ2D2ggWGM4o03GxmWoNeMDIQ"
+    },
+    {
+      "document_number": "515560/22-05-2024",
+      "protocol_number": "ΑΝΑΚΟΙΝΩΣΗ ΓΕΜΗ/22-05-2024",
+      "type": "Άλλο",
+      "file_url": "https://silia.eett.gr/silia/download/nufvG5NUIRbo6mNen518wfIHGrTHhRKA1S2E"
+    },
+    {
+      "document_number": "515599/22-05-2024",
+      "protocol_number": "Αρχείο Αίτησης/22-05-2024",
+      "type": "Αίτηση Άδειας Κατασκευής Κεραίας ΕΕΤΤ",
+      "file_url": "https://silia.eett.gr/silia/download/X3EwF8m4SbGY7DcUpzCxYuhAVw7v5cad7m8s"
+    },
+    {
+      "document_number": "518187/18-06-2024",
+      "protocol_number": "ΚΓ/Δ3/Δ/12074/18-06-2024",
+      "type": "Γνωμάτευση ΥΠΑ",
+      "file_url": "https://silia.eett.gr/silia/download/2kvxg8i6QqmAcFPeqzshnv01F7xu7vKbNcgp"
+    },
+    {
+      "document_number": "520930/17-07-2024",
+      "protocol_number": "ΤΜΙΑ/411/10039/2024/17-07-2024",
+      "type": "Γνωμάτευση ΕΕΑΕ",
+      "file_url": "https://silia.eett.gr/silia/download/T2CmgtkxCYFdUHGBHuMFpvIePcfGtMPftlFA"
+    },
+    {
+      "document_number": "530225/24-10-2024",
+      "protocol_number": "51491/21-10-2024",
+      "type": "Άδεια Κατασκευής  Κεραίας",
+      "file_url": "https://silia.eett.gr/silia/download/lAQCsszbnXQG6E6SbOn66gKt8u0eAt9xGEZN"
+    },
+    {
+      "document_number": "515593/22-05-2024",
+      "protocol_number": "ΠΠΔ/22-05-2024",
+      "type": "Δήλωση υπαγωγής σε ΠΠΔ και Συνοδευτικά Έγγραφα",
+      "file_url": "https://silia.eett.gr/silia/download/uhAtsMZu6e4Y17XaG0qZr48BRqzhYWgzCGNK"
+    },
+    {
+      "document_number": "515600/22-05-2024",
+      "protocol_number": "Αρχείο Αίτησης/22-05-2024",
+      "type": "Δήλωση ΠΠΔ",
+      "file_url": "https://silia.eett.gr/silia/download/81UK9BIo22CfaFA0WlaT3Ue6ftGnIy63WuED"
+    }
+  ]
+}

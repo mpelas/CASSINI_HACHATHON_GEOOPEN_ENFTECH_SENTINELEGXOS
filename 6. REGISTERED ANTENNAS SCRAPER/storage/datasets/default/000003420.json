@@ -1,0 +1,39 @@
+{
+  "antenna_id": "165457",
+  "address": "Δήμος Τεμπών Π.Ε. Λάρισας, Περιφέρεια Θεσσαλίας",
+  "position_code": 3206302,
+  "municipality": "Τεμπών",
+  "code_name": "ΠΥΡΓΕΤΟΣ - ΡΑΨΑΝΗ",
+  "region": "Θεσσαλίας",
+  "latitude": 39.886944,
+  "company": "ΕΡΤ ΑΕ",
+  "longitude": 22.569167,
+  "permit_status": "Από τα στοιχεία που τηρούνται στην Ενημερωτική Πύλη προκύπτει ότι για τη  θέση \"Δήμος Τεμπών Π.Ε. Λάρισας, Περιφέρεια Θεσσαλίας\" στον Δήμο Τεμπών Περιφέρειας  Θεσσαλίας έχει κατατεθεί από την εταιρία ΕΡΤ ΑΕ δήλωση κατασκευής κεραίας τηλεοπτικής ευρυεκπομπής με αριθ. πρωτ. ΣΗΛΥΑ \n49243/08-09-2022 κατά τα οριζόμενα στην παρ. 7 του άρθρου 39 του Ν.4635/2019.",
+  "measurements_eaee": "-",
+  "documents": [
+    {
+      "document_number": "467270/08-09-2022",
+      "protocol_number": "Αίτηση ΥΠΑ/",
+      "type": "Αίτηση ΥΠΑ",
+      "file_url": "https://silia.eett.gr/silia/download/dd8dfe8d-e1ec-4cc9-b8d3-29c5f7f1f918"
+    },
+    {
+      "document_number": "467271/08-09-2022",
+      "protocol_number": "screenshot/",
+      "type": "Φωτογραφικό Υλικό - Σκαρίφημα",
+      "file_url": "https://silia.eett.gr/silia/download/b7d5d1ab-6f67-43d8-acfd-f3df75293970"
+    },
+    {
+      "document_number": "467272/08-09-2022",
+      "protocol_number": "ΓΝΩΜΑΤΕΥΣΗ ΥΠΑ/",
+      "type": "Γνωμάτευση ΥΠΑ",
+      "file_url": "https://silia.eett.gr/silia/download/36c8b357-28ff-400a-b9e6-28e355e92afc"
+    },
+    {
+      "document_number": "467273/08-09-2022",
+      "protocol_number": "Αρχείο Αίτησης/",
+      "type": "Δήλωση Τηλεοπτικής Ευρυεκπομπής",
+      "file_url": "https://silia.eett.gr/silia/download/03221f4f-4e85-4e76-8f92-e350ca36208a"
+    }
+  ]
+}

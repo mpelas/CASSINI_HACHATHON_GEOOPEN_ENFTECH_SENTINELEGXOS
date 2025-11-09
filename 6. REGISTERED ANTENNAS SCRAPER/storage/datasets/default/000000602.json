@@ -1,0 +1,39 @@
+{
+  "antenna_id": "175750",
+  "address": "Α Τ.Τ. ΑΥΤ. ΠΑΘΕ ΦΘΙΩΤ. (S-FTH-07136)",
+  "position_code": 1495153,
+  "municipality": "Αμφίκλειας - Ελάτειας",
+  "code_name": "PATHE_FTHIOT_SYZII",
+  "region": "Στερεάς Ελλάδας",
+  "latitude": 38.670278,
+  "company": "OTE",
+  "longitude": 23.066667,
+  "permit_status": "Από τα στοιχεία που τηρούνται στην Ενημερωτική Πύλη προκύπτει ότι, για τη θέση \"Α Τ.Τ. ΑΥΤ. ΠΑΘΕ ΦΘΙΩΤ. (S-FTH-07136)\" στον Δήμο Αμφίκλειας - Ελάτειας Περιφέρειας  Στερεάς Ελλάδας \n\t(κωδικός αριθμός θέσης 1495153, κωδική ονομασία \"PATHE_FTHIOT_SYZII\") έχει κατατεθεί από την εταιρία OTE\tδήλωση εγκατάστασης κατασκευής κεραίας (αριθ. πρωτ. \n\t57953/22-10-2024) που εμπίπτει στις διατάξεις της νομοθεσίας για Εγκαταστάσεις Κατασκευών Κεραιών Χαμηλής Ηλεκτρομαγνητικής Περιβαλλοντικής Όχλησης (ΕΚΚΧΟ).",
+  "measurements_eaee": "-",
+  "documents": [
+    {
+      "document_number": "528372/09-10-2024",
+      "protocol_number": "ΦΩΤΟΓΡΑΦΙΑ/09-10-2024",
+      "type": "Φωτογραφικό Υλικό - Σκαρίφημα",
+      "file_url": "https://silia.eett.gr/silia/download/zvNgYDkGfbIUo7Dsh8c9rKGZGxzVV1MDlqeq"
+    },
+    {
+      "document_number": "529382/18-10-2024",
+      "protocol_number": "ΜΕΛΕΤΗ/18-10-2024",
+      "type": "Αίτηση - Μελέτη Ραδιοεκπομπών ΕΕΑΕ",
+      "file_url": "https://silia.eett.gr/silia/download/Txdg5wKlB3G4Lfm5hxgG9IyLtS1mWn9T3KZ8"
+    },
+    {
+      "document_number": "529700/22-10-2024",
+      "protocol_number": "Αρχείο Αίτησης/22-10-2024",
+      "type": "Δήλωση ΕΚΚΧΟ",
+      "file_url": "https://silia.eett.gr/silia/download/fvs196Omg723YIiDFqzHA8ZlarRawxzlyKPu"
+    },
+    {
+      "document_number": "547019/15-04-2025",
+      "protocol_number": "ΥΠ.ΔΗΛΩΣΗ/15-04-2025",
+      "type": "Άλλο",
+      "file_url": "https://silia.eett.gr/silia/download/Bhdf5oKztRefqYUd4SUTsxClF8zqhg84SrQA"
+    }
+  ]
+}

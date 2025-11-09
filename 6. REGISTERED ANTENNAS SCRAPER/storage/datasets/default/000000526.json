@@ -1,0 +1,33 @@
+{
+  "antenna_id": "162266",
+  "address": "Χ. Σαμπάγ & Σ. Χούρι 3 (πρώην Πρεμετής 3), ΜΑΡΟΥΣΙ ΑΤΤΙΚΗ.",
+  "position_code": 1158691,
+  "municipality": "Αμαρουσίου",
+  "code_name": "3028691 FOYRLIS TRADE ESTATES MAROUSI",
+  "region": "Αττικής",
+  "latitude": 38.044444,
+  "company": "VODAFONE",
+  "longitude": 23.807222,
+  "permit_status": "Από τα στοιχεία που τηρούνται στην Ενημερωτική Πύλη προκύπτει ότι, για τη θέση \"Χ. Σαμπάγ & Σ. Χούρι 3 (πρώην Πρεμετής 3), ΜΑΡΟΥΣΙ ΑΤΤΙΚΗ.\" στον Δήμο Αμαρουσίου Περιφέρειας  Αττικής \n\t(κωδικός αριθμός θέσης 1158691, κωδική ονομασία \"3028691 FOYRLIS TRADE ESTATES MAROUSI\") έχει κατατεθεί από την εταιρία VODAFONE\tδήλωση εγκατάστασης κατασκευής κεραίας (αριθ. πρωτ. \n\t46401/08-02-2022) που εμπίπτει στις διατάξεις της νομοθεσίας για Εγκαταστάσεις Κατασκευών Κεραιών Χαμηλής Ηλεκτρομαγνητικής Περιβαλλοντικής Όχλησης (ΕΚΚΧΟ).",
+  "measurements_eaee": "-",
+  "documents": [
+    {
+      "document_number": "450823/08-02-2022",
+      "protocol_number": "Φωτογραφία θέσης τοποθέτησης ΕΚΚΧΟ/",
+      "type": "Φωτογραφικό Υλικό - Σκαρίφημα",
+      "file_url": "https://silia.eett.gr/silia/download/aac34235-a4fb-4e4e-a38a-2ac831637c2a"
+    },
+    {
+      "document_number": "450824/08-02-2022",
+      "protocol_number": "Φωτογραφία θέσης ΕΚΚΧΟ από Google Earth/",
+      "type": "Φωτογραφικό Υλικό - Σκαρίφημα",
+      "file_url": "https://silia.eett.gr/silia/download/c5be2864-2be6-4992-8f65-fcf0e3651fa5"
+    },
+    {
+      "document_number": "450825/08-02-2022",
+      "protocol_number": "Αρχείο Αίτησης/",
+      "type": "Δήλωση ΕΚΚΧΟ",
+      "file_url": "https://silia.eett.gr/silia/download/96065f0b-1974-46fe-877f-f1cef3465bbc"
+    }
+  ]
+}

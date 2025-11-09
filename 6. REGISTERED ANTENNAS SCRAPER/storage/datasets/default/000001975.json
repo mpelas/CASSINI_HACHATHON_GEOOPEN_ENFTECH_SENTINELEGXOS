@@ -1,0 +1,33 @@
+{
+  "antenna_id": "163216",
+  "address": "ΠΕΡΙΘΩΡΙ, ΔΗΜΟΣ ΝΑΥΠΑΚΤΙΑΣ, ΑΙΤΩΛΟΑΚΑΡΝΑΝΙΑ",
+  "position_code": 3206193,
+  "municipality": "Ναυπακτίας",
+  "code_name": "ΠΕΡΙΘΩΡΙ",
+  "region": "Δυτικής Ελλάδας",
+  "latitude": 38.3925,
+  "company": "ΕΡΤ ΑΕ",
+  "longitude": 21.580833,
+  "permit_status": "Από τα στοιχεία που τηρούνται στην Ενημερωτική Πύλη προκύπτει ότι για τη  θέση \"ΠΕΡΙΘΩΡΙ, ΔΗΜΟΣ ΝΑΥΠΑΚΤΙΑΣ, ΑΙΤΩΛΟΑΚΑΡΝΑΝΙΑ\" στον Δήμο Ναυπακτίας Περιφέρειας  Δυτικής Ελλάδας έχει κατατεθεί από την εταιρία ΕΡΤ ΑΕ δήλωση κατασκευής κεραίας τηλεοπτικής ευρυεκπομπής με αριθ. πρωτ. ΣΗΛΥΑ \n47243/05-04-2022 κατά τα οριζόμενα στην παρ. 7 του άρθρου 39 του Ν.4635/2019.",
+  "measurements_eaee": "-",
+  "documents": [
+    {
+      "document_number": "455445/05-04-2022",
+      "protocol_number": "screenshot/",
+      "type": "Φωτογραφικό Υλικό - Σκαρίφημα",
+      "file_url": "https://silia.eett.gr/silia/download/4fc3feb6-d363-4e63-b2b3-cb9ae9cf16ec"
+    },
+    {
+      "document_number": "455446/05-04-2022",
+      "protocol_number": "Επαναυποβολή_ΥΠΑ_μετάβαση(ΟΡΘΗ ΕΠΑΝΑΛΗΨΗ)/",
+      "type": "Αίτηση ΥΠΑ",
+      "file_url": "https://silia.eett.gr/silia/download/923c7dcc-eac6-4fda-85c0-8dae5eb1d076"
+    },
+    {
+      "document_number": "455447/05-04-2022",
+      "protocol_number": "Αρχείο Αίτησης/",
+      "type": "Δήλωση Τηλεοπτικής Ευρυεκπομπής",
+      "file_url": "https://silia.eett.gr/silia/download/de391c0c-91e0-4b8c-af87-ead481cbf7b6"
+    }
+  ]
+}

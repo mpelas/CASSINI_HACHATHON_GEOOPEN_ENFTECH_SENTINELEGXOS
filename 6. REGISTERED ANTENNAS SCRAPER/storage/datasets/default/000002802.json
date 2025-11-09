@@ -1,0 +1,57 @@
+{
+  "antenna_id": "170191",
+  "address": "ΕΘΝΙΚΗΣ ΑΝΤΙΣΤΑΣΕΩΣ 12",
+  "position_code": 2340653,
+  "municipality": "Περιστερίου",
+  "code_name": "SEPHORA GREECE ΑΕΕ  PERISTERI",
+  "region": "Αττικής",
+  "latitude": 38.0125,
+  "company": "NOVA Μ.Α.Ε.",
+  "longitude": 23.693333,
+  "permit_status": "Από τα στοιχεία που τηρούνται στην Ενημερωτική Πύλη προκύπτει ότι, για τη θέση \"ΕΘΝΙΚΗΣ ΑΝΤΙΣΤΑΣΕΩΣ 12\" στον Δήμο Περιστερίου Περιφέρειας  Αττικής \n\t(κωδικός αριθμός θέσης 2340653, κωδική ονομασία \"SEPHORA GREECE ΑΕΕ  PERISTERI\") έχει κατατεθεί από την εταιρία NOVA Μ.Α.Ε.\tδήλωση εγκατάστασης κατασκευής κεραίας (αριθ. πρωτ. \n\t53252/12-10-2023) που εμπίπτει στις διατάξεις της νομοθεσίας για Εγκαταστάσεις Κατασκευών Κεραιών Χαμηλής Ηλεκτρομαγνητικής Περιβαλλοντικής Όχλησης (ΕΚΚΧΟ).",
+  "measurements_eaee": "-",
+  "documents": [
+    {
+      "document_number": "495769/28-09-2023",
+      "protocol_number": "ΑΠΕΙΚΟΝΙΣΗ GOOGLE EARTH/",
+      "type": "Άλλο",
+      "file_url": "https://silia.eett.gr/silia/download/6017f153-56d7-4a45-9968-debe4ad46d5e"
+    },
+    {
+      "document_number": "495770/28-09-2023",
+      "protocol_number": "ΦΩΤΟΓΡΑΦΙΑ ΕΚΚΧΟ/",
+      "type": "Φωτογραφικό Υλικό - Σκαρίφημα",
+      "file_url": "https://silia.eett.gr/silia/download/cf75c7d2-b967-4762-984d-2c5355608004"
+    },
+    {
+      "document_number": "495771/28-09-2023",
+      "protocol_number": "ΣΚΑΡΙΦΗΜΑ ΕΚΚΧΟ/",
+      "type": "Φωτογραφικό Υλικό - Σκαρίφημα",
+      "file_url": "https://silia.eett.gr/silia/download/14ada72e-a170-462b-8841-115eecc36cbe"
+    },
+    {
+      "document_number": "497041/12-10-2023",
+      "protocol_number": "ΜΕΛΕΤΗ ΕΚΚΧΟ/",
+      "type": "Άλλο",
+      "file_url": "https://silia.eett.gr/silia/download/59e319e6-fa51-446f-9d51-57dd1b7cee3e"
+    },
+    {
+      "document_number": "497042/12-10-2023",
+      "protocol_number": "ΠΕΡΙΟΧΗ ΑΠΑΓΟΡΕΥΣΗΣ/",
+      "type": "Άλλο",
+      "file_url": "https://silia.eett.gr/silia/download/a0326517-d489-4e04-a34f-87fa5da33ff9"
+    },
+    {
+      "document_number": "497055/12-10-2023",
+      "protocol_number": "Αρχείο Αίτησης/",
+      "type": "Δήλωση ΕΚΚΧΟ",
+      "file_url": "https://silia.eett.gr/silia/download/49a65f0d-d577-4195-960a-c36c7b82f223"
+    },
+    {
+      "document_number": "497835/19-10-2023",
+      "protocol_number": "ΥΠΕΥΘΥΝΗ ΔΗΛΩΣΗ ΤΕΧΝΙΚΟΥ ΥΠΕΥΘΥΝΟΥ/",
+      "type": "Άλλο",
+      "file_url": "https://silia.eett.gr/silia/download/b7ec74c4-953c-45a6-a73c-b9aa625a33c6"
+    }
+  ]
+}

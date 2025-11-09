@@ -1,0 +1,39 @@
+{
+  "antenna_id": "172349",
+  "address": "ΠΟΣΕΙΔΩΝΙΑ, ΣΥΡΟΥ (ΠΝΒ ΣΥΡΟΥ)",
+  "position_code": 1498531,
+  "municipality": "Σύρου - Ερμούπολης",
+  "code_name": "PNB_SYROU",
+  "region": "Νοτίου Αιγαίου",
+  "latitude": 37.386944,
+  "company": "OTE",
+  "longitude": 24.879722,
+  "permit_status": "Από τα στοιχεία που τηρούνται στην Ενημερωτική Πύλη προκύπτει ότι, για τη θέση \"ΠΟΣΕΙΔΩΝΙΑ, ΣΥΡΟΥ (ΠΝΒ ΣΥΡΟΥ)\" στον Δήμο Σύρου - Ερμούπολης Περιφέρειας  Νοτίου Αιγαίου \n\t(κωδικός αριθμός θέσης 1498531, κωδική ονομασία \"PNB_SYROU\") έχει κατατεθεί από την εταιρία OTE\tδήλωση εγκατάστασης κατασκευής κεραίας (αριθ. πρωτ. \n\t55981/24-05-2024) που εμπίπτει στις διατάξεις της νομοθεσίας για Εγκαταστάσεις Κατασκευών Κεραιών Χαμηλής Ηλεκτρομαγνητικής Περιβαλλοντικής Όχλησης (ΕΚΚΧΟ).",
+  "measurements_eaee": "-",
+  "documents": [
+    {
+      "document_number": "508610/27-02-2024",
+      "protocol_number": "ΦΩΤΟΓΡΑΦΙΑ/",
+      "type": "Φωτογραφικό Υλικό - Σκαρίφημα",
+      "file_url": "https://silia.eett.gr/silia/download/38e3040b-6b86-487e-96be-9d58911651fc"
+    },
+    {
+      "document_number": "515794/24-05-2024",
+      "protocol_number": "ΜΕΛΕΤΗ/24-05-2024",
+      "type": "Αίτηση - Μελέτη Ραδιοεκπομπών ΕΕΑΕ",
+      "file_url": "https://silia.eett.gr/silia/download/BuZOsPNOtfazlKqmBQiXIWOuEk0AawWInhkQ"
+    },
+    {
+      "document_number": "515800/24-05-2024",
+      "protocol_number": "Αρχείο Αίτησης/24-05-2024",
+      "type": "Δήλωση ΕΚΚΧΟ",
+      "file_url": "https://silia.eett.gr/silia/download/hktrSuBG08gqugRLHlgETNkUST1zhT7LgZS5"
+    },
+    {
+      "document_number": "547013/15-04-2025",
+      "protocol_number": "ΥΠ.ΔΗΛΩΣΗ/15-04-2025",
+      "type": "Άλλο",
+      "file_url": "https://silia.eett.gr/silia/download/gDa07CyZFnO8XAGyfMgqclhFdDB3PLUqhai9"
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "antenna_id": "160885",
+  "address": "ΑΧΕΝΤΡΙΑΣ",
+  "position_code": 3006602,
+  "municipality": "Αρχανών - Αστερουσίων",
+  "code_name": "ΑΧΕΝΤΡΙΑΣ Μ",
+  "region": "Κρήτης",
+  "latitude": 34.993056,
+  "company": "DIGEA",
+  "longitude": 25.207222,
+  "permit_status": "Από τα στοιχεία που τηρούνται στην Ενημερωτική Πύλη προκύπτει ότι για τη  θέση \"ΑΧΕΝΤΡΙΑΣ\" στον Δήμο Αρχανών - Αστερουσίων Περιφέρειας  Κρήτης έχει κατατεθεί από την εταιρία DIGEA δήλωση κατασκευής κεραίας τηλεοπτικής ευρυεκπομπής με αριθ. πρωτ. ΣΗΛΥΑ \n45240/20-10-2021 κατά τα οριζόμενα στην παρ. 7 του άρθρου 39 του Ν.4635/2019.",
+  "measurements_eaee": "-",
+  "documents": [
+    {
+      "document_number": "444393/20-10-2021",
+      "protocol_number": "Αρχείο Αίτησης/",
+      "type": "Δήλωση Τηλεοπτικής Ευρυεκπομπής",
+      "file_url": "https://silia.eett.gr/silia/download/dc4b0d78-5e81-4a9d-87f0-2479c952a1b8"
+    },
+    {
+      "document_number": "447514/07-12-2021",
+      "protocol_number": "ΜΕΣΩ ΣΗΛΥΑ/",
+      "type": "Αίτηση ΥΠΑ",
+      "file_url": "https://silia.eett.gr/silia/download/bbe9d5de-616a-4182-933d-ecb4e8130be0"
+    },
+    {
+      "document_number": "452569/04-03-2022",
+      "protocol_number": "ΜΕΣΩ ΣΗΛΥΑ/",
+      "type": "Αίτηση ΥΠΑ",
+      "file_url": "https://silia.eett.gr/silia/download/e33ae927-5582-458f-9bc6-02d4caff5785"
+    }
+  ]
+}

@@ -1,0 +1,75 @@
+{
+  "antenna_id": "134707",
+  "address": "ΖΕΜΕΝΟ ΚΟΡΙΝΘΙΑΣ",
+  "position_code": 320092,
+  "municipality": "Ξυλοκάστρου - Ευρωστίνης",
+  "code_name": "ΖΕΜΕΝΟ Τ/Κ",
+  "region": "Πελοποννήσου",
+  "latitude": 38.031389,
+  "company": "OTE",
+  "longitude": 22.607778,
+  "permit_status": "Από τα στοιχεία που τηρούνται στην Ενημερωτική Πύλη προκύπτει ότι, για τη θέση \"ΖΕΜΕΝΟ ΚΟΡΙΝΘΙΑΣ\" στον Δήμο Ξυλοκάστρου - Ευρωστίνης Περιφέρειας  Πελοποννήσου \n\t(κωδικός αριθμός θέσης 0320092, κωδική ονομασία \"ΖΕΜΕΝΟ Τ/Κ\") χορηγήθηκε, με την Απόφαση της ΕΕΤΤ \n39501/26-02-2021, άδεια κατασκευής κεραίας στην εταιρία OTE. \nΑπό τo έγγραφο της άδειας μπορείτε να ενημερωθείτε για τις σχετικές εγκρίσεις των συναρμόδιων φορέων, καθώς και εάν πρόκειται για τροποποίηση παλαιότερης άδειας.\nΗ άδεια χορηγήθηκε με τη διαδικασία αδειοδότησης που ορίζει ο ν. 4635/2019, κατόπιν της με αριθ. πρωτ. 29034/14-09-2018 \n\tαίτησης, και βάσει σχετικής δήλωσης του κατόχου της περί υπαγωγή της κατασκευής κεραίας στο άρθρο 34 του ν. 4635/2019.",
+  "measurements_eaee": "-",
+  "documents": [
+    {
+      "document_number": "340631/14-09-2018",
+      "protocol_number": "ΜΕΣΩ ΣΗΛΥΑ/",
+      "type": "Τοπογραφικό",
+      "file_url": "https://silia.eett.gr/silia/download/f3eeb6fc-ecf5-47a1-982e-61fb6e3cf471"
+    },
+    {
+      "document_number": "340632/14-09-2018",
+      "protocol_number": "ΜΕΣΩ ΣΗΛΥΑ/",
+      "type": "Αρχιτεκτονικά Σχέδια",
+      "file_url": "https://silia.eett.gr/silia/download/aaacf4dd-6854-4111-ac98-1bed7e5f0a26"
+    },
+    {
+      "document_number": "340633/14-09-2018",
+      "protocol_number": "Δ3/Δ/8230/2027/18-03-2005",
+      "type": "Γνωμάτευση ΥΠΑ",
+      "file_url": "https://silia.eett.gr/silia/download/e1e60f04-13e4-44a0-9429-288fb526a77a"
+    },
+    {
+      "document_number": "340634/14-09-2018",
+      "protocol_number": "ΜΕΣΩ ΣΗΛΥΑ/18-07-2018",
+      "type": "Αίτηση - Μελέτη Ραδιοεκπομπών ΕΕΑΕ",
+      "file_url": "https://silia.eett.gr/silia/download/05344ca7-084a-4384-ab52-78ce6d69a6c2"
+    },
+    {
+      "document_number": "340658/14-09-2018",
+      "protocol_number": "Αρχείο Αίτησης/",
+      "type": "Αίτηση Άδειας Κατασκευής Κεραίας ΕΕΤΤ",
+      "file_url": "https://silia.eett.gr/silia/download/355d4989-b902-486f-baca-aa7c8c372b15"
+    },
+    {
+      "document_number": "349988/22-11-2018",
+      "protocol_number": "Mi/411/17478/20-11-2018",
+      "type": "Γνωμάτευση ΕΕΑΕ",
+      "file_url": "https://silia.eett.gr/silia/download/b3a446cb-8413-4f6d-9507-ba61dd086e7e"
+    },
+    {
+      "document_number": "428591/01-02-2021",
+      "protocol_number": "ΦΕΚ 239 Δ 1986/",
+      "type": "Άλλο",
+      "file_url": "https://silia.eett.gr/silia/download/6ed7ef9e-0b81-48f4-9225-9c37cf94af82"
+    },
+    {
+      "document_number": "430315/26-02-2021",
+      "protocol_number": "39501/26-02-2021",
+      "type": "Άδεια Κατασκευής  Κεραίας",
+      "file_url": "https://silia.eett.gr/silia/download/4de1f39d-68f9-4827-814b-897c8c2a4ec4"
+    },
+    {
+      "document_number": "359101/25-02-2019",
+      "protocol_number": "ΣΥΝΟΔΕΥΤΙΚΑ ΕΓΓΡΑΦΑ/",
+      "type": "Δήλωση υπαγωγής σε ΠΠΔ και Συνοδευτικά Έγγραφα",
+      "file_url": "https://silia.eett.gr/silia/download/483ad542-5705-4880-9507-eec18d8358fb"
+    },
+    {
+      "document_number": "369819/05-07-2019",
+      "protocol_number": "Αρχείο Αίτησης/",
+      "type": "Δήλωση ΠΠΔ",
+      "file_url": "https://silia.eett.gr/silia/download/7636f9c2-0cb5-4345-b565-c3fcd6294fe9"
+    }
+  ]
+}

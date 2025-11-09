@@ -1,0 +1,87 @@
+{
+  "antenna_id": "164031",
+  "address": "ΘΕΣΗ \" ΠΡΟΦΗΤΗΣ ΗΛΙΑΣ \", ΤΟΠΙΚΗ ΚΟΙΝΟΤΗΤΑ ΑΓΙΟΥ ΑΔΡΙΑΝΟΥ",
+  "position_code": 1104521,
+  "municipality": "Ναυπλιέων",
+  "code_name": "ΑΓΙΟΣ ΑΝΔΡΙΑΝΟΣ ΑΡΓΟΛΙΔΑΣ",
+  "region": "Πελοποννήσου",
+  "latitude": 37.595833,
+  "company": "VODAFONE",
+  "longitude": 22.8475,
+  "permit_status": "Από τα στοιχεία που τηρούνται στην Ενημερωτική Πύλη προκύπτει ότι, για τη θέση \"ΘΕΣΗ \" ΠΡΟΦΗΤΗΣ ΗΛΙΑΣ \", ΤΟΠΙΚΗ ΚΟΙΝΟΤΗΤΑ ΑΓΙΟΥ ΑΔΡΙΑΝΟΥ\" στον Δήμο Ναυπλιέων Περιφέρειας  Πελοποννήσου \n\t(κωδικός αριθμός θέσης 1104521, κωδική ονομασία \"ΑΓΙΟΣ ΑΝΔΡΙΑΝΟΣ ΑΡΓΟΛΙΔΑΣ\") χορηγήθηκε, με την Απόφαση της ΕΕΤΤ \n45619/14-10-2022, άδεια κατασκευής κεραίας στην εταιρία VODAFONE. \nΑπό τo έγγραφο της άδειας μπορείτε να ενημερωθείτε για τις σχετικές εγκρίσεις των συναρμόδιων φορέων, καθώς και εάν πρόκειται για τροποποίηση παλαιότερης άδειας.",
+  "measurements_eaee": "-",
+  "documents": [
+    {
+      "document_number": "459756/20-05-2022",
+      "protocol_number": "11276/20-05-2022",
+      "type": "Αίτηση Ραδιοσυχνοτήτων",
+      "file_url": "https://silia.eett.gr/silia/download/96518418-00b9-41f9-b481-2473db2cadf9"
+    },
+    {
+      "document_number": "459915/23-05-2022",
+      "protocol_number": "ΤΟΠΟΓΡΑΦΙΚΟ ΔΙΑΓΡΑΜΜΑ/",
+      "type": "Τοπογραφικό",
+      "file_url": "https://silia.eett.gr/silia/download/58e3ed8d-87b4-445c-838d-bad1999ba8f4"
+    },
+    {
+      "document_number": "459916/23-05-2022",
+      "protocol_number": "ΑΡΧΙΤΕΚΤΟΝΙΚΗ ΜΕΛΕΤΗ/",
+      "type": "Αρχιτεκτονικά Σχέδια",
+      "file_url": "https://silia.eett.gr/silia/download/c019f7c0-0bda-4aff-8877-c639ef25f986"
+    },
+    {
+      "document_number": "459917/23-05-2022",
+      "protocol_number": "ΧΑΡΤΗΣ ΥΠΑ/",
+      "type": "Απόσπασμα Χάρτη ΓΥΣ 1:50.000",
+      "file_url": "https://silia.eett.gr/silia/download/23505910-f8af-4a06-a951-03326203bc3e"
+    },
+    {
+      "document_number": "459930/23-05-2022",
+      "protocol_number": "Μελέτη ραδιοεκπομπών/20-05-2022",
+      "type": "Αίτηση - Μελέτη Ραδιοεκπομπών ΕΕΑΕ",
+      "file_url": "https://silia.eett.gr/silia/download/6d29dbab-5277-4915-9ae6-caf3c6282062"
+    },
+    {
+      "document_number": "459939/23-05-2022",
+      "protocol_number": "Αρχείο Αίτησης/",
+      "type": "Αίτηση Άδειας Κατασκευής Κεραίας ΕΕΤΤ",
+      "file_url": "https://silia.eett.gr/silia/download/fc76410e-c62a-451b-bfd7-cc0bbd692e52"
+    },
+    {
+      "document_number": "460390/30-05-2022",
+      "protocol_number": "Μι/411/7973/26-05-2022",
+      "type": "Γνωμάτευση ΕΕΑΕ",
+      "file_url": "https://silia.eett.gr/silia/download/8d784f50-ff9f-41c8-88c5-1700627d05be"
+    },
+    {
+      "document_number": "461382/10-06-2022",
+      "protocol_number": "ΚΓ/Δ3/Δ/15187/10-6-2022/10-06-2022",
+      "type": "Γνωμάτευση ΥΠΑ",
+      "file_url": "https://silia.eett.gr/silia/download/d1fa6613-aee3-45ad-89e9-3387c5af0cfa"
+    },
+    {
+      "document_number": "469952/16-10-2022",
+      "protocol_number": "45619/14-10-2022",
+      "type": "Άδεια Κατασκευής  Κεραίας",
+      "file_url": "https://silia.eett.gr/silia/download/f1b57964-3bfe-48a8-b4d1-9a421dccdd3e"
+    },
+    {
+      "document_number": "463918/13-07-2022",
+      "protocol_number": "Μελέτη ραδιοεκπομπών/20-05-2022",
+      "type": "Αίτηση - Μελέτη Ραδιοεκπομπών ΕΕΑΕ",
+      "file_url": "https://silia.eett.gr/silia/download/6d29dbab-5277-4915-9ae6-caf3c6282062"
+    },
+    {
+      "document_number": "463919/13-07-2022",
+      "protocol_number": "ΣΥΝΟΔΕΥΤΙΚΑ ΕΓΓΡΑΦΑ ΠΠΔ/",
+      "type": "Δήλωση υπαγωγής σε ΠΠΔ και Συνοδευτικά Έγγραφα",
+      "file_url": "https://silia.eett.gr/silia/download/83f115e5-fca7-448a-8f46-9ef262036fd7"
+    },
+    {
+      "document_number": "463920/13-07-2022",
+      "protocol_number": "Αρχείο Αίτησης/",
+      "type": "Δήλωση ΠΠΔ",
+      "file_url": "https://silia.eett.gr/silia/download/c3843464-8af1-4457-b1b6-f0c5f8dcec62"
+    }
+  ]
+}

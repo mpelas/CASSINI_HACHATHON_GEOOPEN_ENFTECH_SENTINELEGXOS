@@ -1,0 +1,33 @@
+{
+  "antenna_id": "157686",
+  "address": "ΛΟΥΤΡΟΥ 87, ΑΧΑΡΝΑΙ",
+  "position_code": 1268076,
+  "municipality": "Αχαρνών",
+  "code_name": "FEIDAS ACHARNES",
+  "region": "Αττικής",
+  "latitude": 38.083056,
+  "company": "NOVA Μ.Α.Ε.",
+  "longitude": 23.7575,
+  "permit_status": "Από τα στοιχεία που τηρούνται στην Ενημερωτική Πύλη προκύπτει ότι, για τη θέση \"ΛΟΥΤΡΟΥ 87, ΑΧΑΡΝΑΙ\" στον Δήμο Αχαρνών Περιφέρειας  Αττικής \n\t(κωδικός αριθμός θέσης 1268076, κωδική ονομασία \"FEIDAS ACHARNES\") έχει κατατεθεί από την εταιρία NOVA Μ.Α.Ε.\tδήλωση εγκατάστασης κατασκευής κεραίας (αριθ. πρωτ. \n\t42867/16-02-2021) που εμπίπτει στις διατάξεις της νομοθεσίας για Εγκαταστάσεις Κατασκευών Κεραιών Χαμηλής Ηλεκτρομαγνητικής Περιβαλλοντικής Όχλησης (ΕΚΚΧΟ).",
+  "measurements_eaee": "-",
+  "documents": [
+    {
+      "document_number": "429568/16-02-2021",
+      "protocol_number": "ΣΚΑΡΙΦΗΜΑ ΕΚΚΧΟ/",
+      "type": "Φωτογραφικό Υλικό - Σκαρίφημα",
+      "file_url": "https://silia.eett.gr/silia/download/e548fdeb-9fea-45bc-8f65-7ed47a35992a"
+    },
+    {
+      "document_number": "429572/16-02-2021",
+      "protocol_number": "Αρχείο Αίτησης/",
+      "type": "Δήλωση ΕΚΚΧΟ",
+      "file_url": "https://silia.eett.gr/silia/download/a2df51f2-9b82-4b8d-b43b-1cac474c751b"
+    },
+    {
+      "document_number": "438361/13-07-2021",
+      "protocol_number": "ΥΠΕΥΘΥΝΗ ΔΗΛΩΣΗ ΜΗΧΑΝΙΚΟΥ/",
+      "type": "Άλλο",
+      "file_url": "https://silia.eett.gr/silia/download/f71c2b3b-886d-4a48-9645-544f51d34c67"
+    }
+  ]
+}

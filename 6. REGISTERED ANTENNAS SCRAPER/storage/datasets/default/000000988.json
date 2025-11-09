@@ -1,0 +1,39 @@
+{
+  "antenna_id": "169464",
+  "address": "2ο χλμ. Επαρ. Οδ. Κοπανού- Σκύδρας, Κοπανός",
+  "position_code": 1497880,
+  "municipality": "Βέροιας",
+  "code_name": "SINOS_KOPANOS",
+  "region": "Κεντρικής Μακεδονίας",
+  "latitude": 40.648611,
+  "company": "OTE",
+  "longitude": 22.130556,
+  "permit_status": "Από τα στοιχεία που τηρούνται στην Ενημερωτική Πύλη προκύπτει ότι, για τη θέση \"2ο χλμ. Επαρ. Οδ. Κοπανού- Σκύδρας, Κοπανός\" στον Δήμο Βέροιας Περιφέρειας  Κεντρικής Μακεδονίας \n\t(κωδικός αριθμός θέσης 1497880, κωδική ονομασία \"SINOS_KOPANOS\") έχει κατατεθεί από την εταιρία OTE\tδήλωση εγκατάστασης κατασκευής κεραίας (αριθ. πρωτ. \n\t53140/05-10-2023) που εμπίπτει στις διατάξεις της νομοθεσίας για Εγκαταστάσεις Κατασκευών Κεραιών Χαμηλής Ηλεκτρομαγνητικής Περιβαλλοντικής Όχλησης (ΕΚΚΧΟ).",
+  "measurements_eaee": "-",
+  "documents": [
+    {
+      "document_number": "491394/26-07-2023",
+      "protocol_number": "ΦΩΤΟΓΡΑΦΙΑ/",
+      "type": "Φωτογραφικό Υλικό - Σκαρίφημα",
+      "file_url": "https://silia.eett.gr/silia/download/f800fa92-cc6a-498d-bb78-cd7452b55320"
+    },
+    {
+      "document_number": "496198/03-10-2023",
+      "protocol_number": "ΜΕΣΩ ΣΗΛΥΑ/",
+      "type": "Αίτηση - Μελέτη Ραδιοεκπομπών ΕΕΑΕ",
+      "file_url": "https://silia.eett.gr/silia/download/9b3ae2c1-1c4d-489a-b6b5-ed72171c7b3b"
+    },
+    {
+      "document_number": "496333/05-10-2023",
+      "protocol_number": "Αρχείο Αίτησης/",
+      "type": "Δήλωση ΕΚΚΧΟ",
+      "file_url": "https://silia.eett.gr/silia/download/e753123e-98d0-40dc-8e12-ba88254181f8"
+    },
+    {
+      "document_number": "552912/18-06-2025",
+      "protocol_number": "ΥΠ.ΔΗΛΩΣΗ/18-06-2025",
+      "type": "Άλλο",
+      "file_url": "https://silia.eett.gr/silia/download/qpYILhMGM8uyZGtKPMRthuYrMq6R1bMCqgzF"
+    }
+  ]
+}

@@ -1,0 +1,99 @@
+{
+  "antenna_id": "118898",
+  "address": "ΘΕΣΗ \"ΒΙΓΛΕΣ\", Τ.Κ. ΚΕΡΑΜΕ, Δ.Ε. ΛΑΜΠΗΣ",
+  "position_code": 1105671,
+  "municipality": "Αγίου Βασιλείου",
+  "code_name": "ΚΕΡΑΜΕΣ ΡΕΘΥΜΝΟΥ",
+  "region": "Κρήτης",
+  "latitude": 35.1675,
+  "company": "VODAFONE",
+  "longitude": 24.515833,
+  "permit_status": "Από τα στοιχεία που τηρούνται στην Ενημερωτική Πύλη προκύπτει ότι, για τη θέση \"ΘΕΣΗ \"ΒΙΓΛΕΣ\", Τ.Κ. ΚΕΡΑΜΕ, Δ.Ε. ΛΑΜΠΗΣ\" στον Δήμο Αγίου Βασιλείου Περιφέρειας  Κρήτης \n\t(κωδικός αριθμός θέσης 1105671, κωδική ονομασία \"ΚΕΡΑΜΕΣ ΡΕΘΥΜΝΟΥ\") χορηγήθηκε, με την Απόφαση της ΕΕΤΤ \n38465/Φ610/27-11-2020, άδεια κατασκευής κεραίας στην εταιρία VODAFONE. \nΑπό τo έγγραφο της άδειας μπορείτε να ενημερωθείτε για τις σχετικές εγκρίσεις των συναρμόδιων φορέων, καθώς και εάν πρόκειται για τροποποίηση παλαιότερης άδειας.\nΗ άδεια χορηγήθηκε με τη διαδικασία αδειοδότησης που ορίζει ο ν. 4635/2019, κατόπιν της με αριθ. πρωτ. 26078/01-02-2018 \n\tαίτησης, και βάσει σχετικής δήλωσης του κατόχου της περί υπαγωγή της κατασκευής κεραίας στο άρθρο 34 του ν. 4635/2019.",
+  "measurements_eaee": "-",
+  "documents": [
+    {
+      "document_number": "264612/30-06-2016",
+      "protocol_number": "ΜΕΛΕΤΗ ΡΑΔΙΟΕΚΠΟΜΠΩΝ/21-06-2016",
+      "type": "Αίτηση - Μελέτη Ραδιοεκπομπών ΕΕΑΕ",
+      "file_url": "https://silia.eett.gr/silia/download/9deedca2-67c1-4f50-b155-8a87d1a9dd67"
+    },
+    {
+      "document_number": "319656/01-02-2018",
+      "protocol_number": "Δ3/Δ/10778/2661 αρχικη/15-05-2008",
+      "type": "Γνωμάτευση ΥΠΑ",
+      "file_url": "https://silia.eett.gr/silia/download/ba796508-5108-4b17-a3f3-a5a1f75dc434"
+    },
+    {
+      "document_number": "319657/01-02-2018",
+      "protocol_number": "Δ3/Δ/28771/6617 διορθωτικη/05-08-2008",
+      "type": "Γνωμάτευση ΥΠΑ",
+      "file_url": "https://silia.eett.gr/silia/download/e431ef78-c811-494b-b5ea-605d8636d6df"
+    },
+    {
+      "document_number": "319658/01-02-2018",
+      "protocol_number": "ΤΟΠΟΓΡΑΦΙΚΟ /",
+      "type": "Τοπογραφικό",
+      "file_url": "https://silia.eett.gr/silia/download/5272f948-44cb-4700-ac78-b077df52ca67"
+    },
+    {
+      "document_number": "319659/01-02-2018",
+      "protocol_number": "ΑΡΧΙΤΕΚΤΟΝΙΚΑ/",
+      "type": "Αρχιτεκτονικά Σχέδια",
+      "file_url": "https://silia.eett.gr/silia/download/3646dca3-9d36-4ba8-8ebb-abbf6a5e3ded"
+    },
+    {
+      "document_number": "319660/01-02-2018",
+      "protocol_number": "Αρχείο Αίτησης/",
+      "type": "Αίτηση Άδειας Κατασκευής Κεραίας ΕΕΤΤ",
+      "file_url": "https://silia.eett.gr/silia/download/daa667af-9d5b-4718-8d78-eb219d1276e3"
+    },
+    {
+      "document_number": "337074/31-07-2018",
+      "protocol_number": "Μ.ι./411/10882/2018/30-07-2018",
+      "type": "Γνωμάτευση ΕΕΑΕ",
+      "file_url": "https://silia.eett.gr/silia/download/72669cdf-a700-4f0d-9ef4-58e8c82cc298"
+    },
+    {
+      "document_number": "421899/16-11-2020",
+      "protocol_number": "ΥΔ COSMOTE/26-10-2020",
+      "type": "Άλλο",
+      "file_url": "https://silia.eett.gr/silia/download/bc59b834-04d9-49f3-b417-62e096c75260"
+    },
+    {
+      "document_number": "422373/18-11-2020",
+      "protocol_number": "Υπεύθυνη Δήλωση κοινής χρήσης - Wind/17-11-2020",
+      "type": "Άλλο",
+      "file_url": "https://silia.eett.gr/silia/download/36720b5b-5353-4a06-b98e-407151df626a"
+    },
+    {
+      "document_number": "422374/18-11-2020",
+      "protocol_number": "Υπεύθυνη Δήλωση κοινής χρήσης - Wind/17-11-2020",
+      "type": "Άλλο",
+      "file_url": "https://silia.eett.gr/silia/download/ddb069b0-6bc4-420f-9b7f-227d05442ad2"
+    },
+    {
+      "document_number": "423739/30-11-2020",
+      "protocol_number": "38465/Φ.610/27-11-2020",
+      "type": "Άδεια Κατασκευής  Κεραίας",
+      "file_url": "https://silia.eett.gr/silia/download/b546396a-7591-4043-8b47-8b1fc200af68"
+    },
+    {
+      "document_number": "264561/29-06-2016",
+      "protocol_number": "ΣΥΝΟΔΕΥΤΙΚΑ ΕΓΓΡΑΦΑ ΠΠΔ/",
+      "type": "Δήλωση υπαγωγής σε ΠΠΔ και Συνοδευτικά Έγγραφα",
+      "file_url": "https://silia.eett.gr/silia/download/50f448ee-10e4-48f7-9847-fc3743a0b062"
+    },
+    {
+      "document_number": "264613/30-06-2016",
+      "protocol_number": "ΜΕΛΕΤΗ ΡΑΔΙΟΕΚΠΟΜΠΩΝ/21-06-2016",
+      "type": "Αίτηση - Μελέτη Ραδιοεκπομπών ΕΕΑΕ",
+      "file_url": "https://silia.eett.gr/silia/download/9deedca2-67c1-4f50-b155-8a87d1a9dd67"
+    },
+    {
+      "document_number": "319661/01-02-2018",
+      "protocol_number": "Αρχείο Αίτησης/",
+      "type": "Δήλωση ΠΠΔ",
+      "file_url": "https://silia.eett.gr/silia/download/96ff52c3-7d8f-4a1d-bbd6-24e48b5c4009"
+    }
+  ]
+}

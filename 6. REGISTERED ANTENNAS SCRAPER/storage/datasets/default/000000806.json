@@ -1,0 +1,45 @@
+{
+  "antenna_id": "154602",
+  "address": "Πλησίον Δ.δ. Αχενδριά, Δήμος Αρχανών - Αστερουσίων, Π.Ε. Ηρακλείου, Περιφέρεια Κρήτης",
+  "position_code": 3207104,
+  "municipality": "Αρχανών - Αστερουσίων",
+  "code_name": "ΑΧΕΝΔΡΙΑΣ-Δ",
+  "region": "Κρήτης",
+  "latitude": 34.993611,
+  "company": "ΕΡΤ ΑΕ",
+  "longitude": 25.206111,
+  "permit_status": "Από τα στοιχεία που τηρούνται στην Ενημερωτική Πύλη προκύπτει ότι για τη  θέση \"Πλησίον Δ.δ. Αχενδριά, Δήμος Αρχανών - Αστερουσίων, Π.Ε. Ηρακλείου, Περιφέρεια Κρήτης\" στον Δήμο Αρχανών - Αστερουσίων Περιφέρειας  Κρήτης έχει κατατεθεί από την εταιρία ΕΡΤ ΑΕ δήλωση δομικών κατασκευών κεραιών  \nμε αριθ. πρωτ. ΣΗΛΥΑ 39096/21-05-2020 κατά τα οριζόμενα στην παρ. 7 του άρθρου 34 του Ν.4635/2019.",
+  "measurements_eaee": "-",
+  "documents": [
+    {
+      "document_number": "406053/17-05-2020",
+      "protocol_number": "σχέδια/",
+      "type": "Άλλο",
+      "file_url": "https://silia.eett.gr/silia/download/d981a53d-2655-4480-9ca3-5f4708c7ff1b"
+    },
+    {
+      "document_number": "406054/17-05-2020",
+      "protocol_number": "απογραφή 1987/",
+      "type": "Άλλο",
+      "file_url": "https://silia.eett.gr/silia/download/8576518b-615e-4538-9019-4aec48b187a9"
+    },
+    {
+      "document_number": "406055/17-05-2020",
+      "protocol_number": "πίνακας 7 απογραφής ΕΡΤ 1987/",
+      "type": "Άλλο",
+      "file_url": "https://silia.eett.gr/silia/download/5733ac9c-b527-4458-bba9-4587f57438bc"
+    },
+    {
+      "document_number": "406880/21-05-2020",
+      "protocol_number": "δορυφορική λήψη και στοιχεία δομικών κατασκευών/",
+      "type": "Άλλο",
+      "file_url": "https://silia.eett.gr/silia/download/99fad8ad-3ec4-4714-b6ef-fb72f8c34d4b"
+    },
+    {
+      "document_number": "406899/21-05-2020",
+      "protocol_number": "Αρχείο Αίτησης/",
+      "type": "Δήλωση Δομικών ΕΡΤ",
+      "file_url": "https://silia.eett.gr/silia/download/5c8b4076-6c0e-473d-b073-d01627fee978"
+    }
+  ]
+}

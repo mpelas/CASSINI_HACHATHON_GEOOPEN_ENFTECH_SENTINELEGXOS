@@ -1,0 +1,39 @@
+{
+  "antenna_id": "154736",
+  "address": "Δ.Ε. Μεσότοπου,  Δήμος Δυτικής Λέσβου, Π.Ε. Λέσβου, Περιφέρεια  Βορείου Αιγαίου",
+  "position_code": 3207521,
+  "municipality": "Δυτικής Λέσβου",
+  "code_name": "ΜΕΣΟΤΟΠΟΣ-Δ",
+  "region": "Βορείου Αιγαίου",
+  "latitude": 39.129722,
+  "company": "ΕΡΤ ΑΕ",
+  "longitude": 25.996389,
+  "permit_status": "Από τα στοιχεία που τηρούνται στην Ενημερωτική Πύλη προκύπτει ότι για τη  θέση \"Δ.Ε. Μεσότοπου,  Δήμος Δυτικής Λέσβου, Π.Ε. Λέσβου, Περιφέρεια  Βορείου Αιγαίου\" στον Δήμο Δυτικής Λέσβου Περιφέρειας  Βορείου Αιγαίου έχει κατατεθεί από την εταιρία ΕΡΤ ΑΕ δήλωση δομικών κατασκευών κεραιών  \nμε αριθ. πρωτ. ΣΗΛΥΑ 39257/23-05-2020 κατά τα οριζόμενα στην παρ. 7 του άρθρου 34 του Ν.4635/2019.",
+  "measurements_eaee": "-",
+  "documents": [
+    {
+      "document_number": "407634/23-05-2020",
+      "protocol_number": "δορυφορική λήψη και στοιχεία δομικών κατασκευών/",
+      "type": "Άλλο",
+      "file_url": "https://silia.eett.gr/silia/download/b11c8957-0a6c-4c0b-a80a-f51bf70b35cf"
+    },
+    {
+      "document_number": "407635/23-05-2020",
+      "protocol_number": "απογραφή 1987/",
+      "type": "Άλλο",
+      "file_url": "https://silia.eett.gr/silia/download/67120adb-fdeb-463f-9a6c-0bfe1f68daef"
+    },
+    {
+      "document_number": "407636/23-05-2020",
+      "protocol_number": "πίνακας 51 απογραφής ΕΡΤ 1987/",
+      "type": "Άλλο",
+      "file_url": "https://silia.eett.gr/silia/download/deb87e5f-043c-4492-b960-53090c7fece1"
+    },
+    {
+      "document_number": "407692/23-05-2020",
+      "protocol_number": "Αρχείο Αίτησης/",
+      "type": "Δήλωση Δομικών ΕΡΤ",
+      "file_url": "https://silia.eett.gr/silia/download/47409bc2-46ec-43df-bb32-12720fae45fd"
+    }
+  ]
+}

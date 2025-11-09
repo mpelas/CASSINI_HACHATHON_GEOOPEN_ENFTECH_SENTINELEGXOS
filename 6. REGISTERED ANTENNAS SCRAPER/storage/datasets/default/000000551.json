@@ -1,0 +1,45 @@
+{
+  "antenna_id": "169171",
+  "address": "ΛΕΩΦΟΡΟΣ ΚΗΦΙΣΙΑΣ 117 - ΜΑΡΟΥΣΙ",
+  "position_code": 1496233,
+  "municipality": "Αμαρουσίου",
+  "code_name": "ELPEN_MAROUSI",
+  "region": "Αττικής",
+  "latitude": 38.046944,
+  "company": "OTE",
+  "longitude": 23.806667,
+  "permit_status": "Από τα στοιχεία που τηρούνται στην Ενημερωτική Πύλη προκύπτει ότι, για τη θέση \"ΛΕΩΦΟΡΟΣ ΚΗΦΙΣΙΑΣ 117 - ΜΑΡΟΥΣΙ\" στον Δήμο Αμαρουσίου Περιφέρειας  Αττικής \n\t(κωδικός αριθμός θέσης 1496233, κωδική ονομασία \"ELPEN_MAROUSI\") έχει κατατεθεί από την εταιρία OTE\tδήλωση εγκατάστασης κατασκευής κεραίας (αριθ. πρωτ. \n\t54711/08-02-2024) που εμπίπτει στις διατάξεις της νομοθεσίας για Εγκαταστάσεις Κατασκευών Κεραιών Χαμηλής Ηλεκτρομαγνητικής Περιβαλλοντικής Όχλησης (ΕΚΚΧΟ).",
+  "measurements_eaee": "-",
+  "documents": [
+    {
+      "document_number": "507073/08-02-2024",
+      "protocol_number": "ΜΕΣΩ ΣΗΛΥΑ/",
+      "type": "Αίτηση - Μελέτη Ραδιοεκπομπών ΕΕΑΕ",
+      "file_url": "https://silia.eett.gr/silia/download/24bbc72d-411c-4592-9ae1-15df580cdcb4"
+    },
+    {
+      "document_number": "507108/08-02-2024",
+      "protocol_number": "Χαρτης/",
+      "type": "Φωτογραφικό Υλικό - Σκαρίφημα",
+      "file_url": "https://silia.eett.gr/silia/download/10dac8e7-3e97-4144-a43b-dd929864467f"
+    },
+    {
+      "document_number": "507109/08-02-2024",
+      "protocol_number": "Φωτογραφία/",
+      "type": "Φωτογραφικό Υλικό - Σκαρίφημα",
+      "file_url": "https://silia.eett.gr/silia/download/e4ca67ae-5969-451c-9ddd-d7b7f037947c"
+    },
+    {
+      "document_number": "507110/08-02-2024",
+      "protocol_number": "Αρχείο Αίτησης/",
+      "type": "Δήλωση ΕΚΚΧΟ",
+      "file_url": "https://silia.eett.gr/silia/download/42e0f4d9-2cf8-423f-9cbf-c636b41c9520"
+    },
+    {
+      "document_number": "520831/17-07-2024",
+      "protocol_number": "ΥΠ.ΔΗΛΩΣΗ/17-07-2024",
+      "type": "Άλλο",
+      "file_url": "https://silia.eett.gr/silia/download/m5YK7r4Vx1QTCpIqrYufCAlvlweK0u1yXvAi"
+    }
+  ]
+}

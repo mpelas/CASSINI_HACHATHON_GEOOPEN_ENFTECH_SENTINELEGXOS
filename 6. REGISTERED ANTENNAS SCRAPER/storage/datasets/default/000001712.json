@@ -1,0 +1,153 @@
+{
+  "antenna_id": "119003",
+  "address": "ΠΛΗΣΙΟΝ ΟΙΚΙΣΜΟΥ \"ΜΗΛΟΚΟΚΚΙΑ\"",
+  "position_code": 2422004,
+  "municipality": "Ηγουμενίτσας",
+  "code_name": "ΜΗΛΟΚΟΚΚΙΑ",
+  "region": "Ηπείρου",
+  "latitude": 39.366667,
+  "company": "RC",
+  "longitude": 20.405556,
+  "permit_status": "Από τα στοιχεία που τηρούνται στην Ενημερωτική Πύλη προκύπτει ότι, για τη θέση \"ΠΛΗΣΙΟΝ ΟΙΚΙΣΜΟΥ \"ΜΗΛΟΚΟΚΚΙΑ\"\" στον Δήμο Ηγουμενίτσας Περιφέρειας  Ηπείρου \n\t(κωδικός αριθμός θέσης 2422004, κωδική ονομασία \"ΜΗΛΟΚΟΚΚΙΑ\") χορηγήθηκε, με την Απόφαση της ΕΕΤΤ \n24304/Φ610/01-06-2017, άδεια κατασκευής κεραίας στην εταιρία RC. \nΑπό τo έγγραφο της άδειας μπορείτε να ενημερωθείτε για τις σχετικές εγκρίσεις των συναρμόδιων φορέων, καθώς και εάν πρόκειται για τροποποίηση παλαιότερης άδειας.\nΗ άδεια χορηγήθηκε, κατόπιν της με Αριθ. Πρωτ. 18683/15-09-2016 αίτησης, \n\tμε τη διαδικασία αδειοδότησης της παρ. 17 του άρθρου 30 του Ν.4070/2012 που πλέον έχει αντικατασταθεί από τη διαδικασία που ορίζει ο ν. 4635/2019.\n\tΣύμφωνα με τα στοιχεία που έχουν υποβληθεί στο ΣΗΛΥΑ για την κατασκευή κεραίας από τον κάτοχό της, έχει εκδοθεί έγκριση δομικών κατασκευών κεραίας",
+  "measurements_eaee": "-",
+  "documents": [
+    {
+      "document_number": "263009/16-06-2016",
+      "protocol_number": "ΡΑΔ_2004-MILOKOKKIA/",
+      "type": "Αίτηση - Μελέτη Ραδιοεκπομπών ΕΕΑΕ",
+      "file_url": "https://silia.eett.gr/silia/download/ddd56a49-f90a-4219-9762-7541cde77963"
+    },
+    {
+      "document_number": "263010/16-06-2016",
+      "protocol_number": "1.2004 PPD/",
+      "type": "Έγκριση Περιβαλλοντικών Όρων",
+      "file_url": "https://silia.eett.gr/silia/download/63c30a9d-4a3b-4643-a251-744b0e40ac9f"
+    },
+    {
+      "document_number": "263011/16-06-2016",
+      "protocol_number": "2.2004 TOPOGRAFIKO&GSYS 1:50000/",
+      "type": "Τοπογραφικό",
+      "file_url": "https://silia.eett.gr/silia/download/d3dea9fd-d735-4420-9c5c-ab9f7601f6b2"
+    },
+    {
+      "document_number": "263012/16-06-2016",
+      "protocol_number": "2004 ΜΗΛΟΚΟΚΚΙΑ_ΕΦΑ/",
+      "type": "Αρχαιολογική έγκριση/γνωμοδότηση (μη τυπική)",
+      "file_url": "https://silia.eett.gr/silia/download/d519cfa0-d98c-408a-aab9-761431ba035b"
+    },
+    {
+      "document_number": "263013/16-06-2016",
+      "protocol_number": "2004 ΜΗΛΟΚΟΚΚΙΑ_ΕΝΜ/",
+      "type": "Γνωμοδότηση Υπηρεσίας Νεωτέρων Μνημείων",
+      "file_url": "https://silia.eett.gr/silia/download/75518089-1253-4199-a015-d1c0265970a9"
+    },
+    {
+      "document_number": "263014/16-06-2016",
+      "protocol_number": "2004 PPD/",
+      "type": "Δήλωση υπαγωγής σε ΠΠΔ και Συνοδευτικά Έγγραφα",
+      "file_url": "https://silia.eett.gr/silia/download/381beb38-62af-4874-92cd-9231c5f7bd7b"
+    },
+    {
+      "document_number": "263015/16-06-2016",
+      "protocol_number": "3.2004 ARXITEKTONIKA ME SFRAGIDA/",
+      "type": "Αρχιτεκτονικά Σχέδια",
+      "file_url": "https://silia.eett.gr/silia/download/33dcc089-3592-4e42-978e-57586a64a691"
+    },
+    {
+      "document_number": "263017/16-06-2016",
+      "protocol_number": "2004_YPA/",
+      "type": "Συμπληρωματικά Έγγραφα Αίτησης / Μελέτης",
+      "file_url": "https://silia.eett.gr/silia/download/e4d2e712-cbcf-4b59-a48a-6d8f76ebbc65"
+    },
+    {
+      "document_number": "266926/25-07-2016",
+      "protocol_number": "2004 POLEODOMIKH EGKRISH/",
+      "type": "Έγκριση δομικών κατασκευών (έντυπη)",
+      "file_url": "https://silia.eett.gr/silia/download/6bd798c0-2201-4e56-bb1e-dba1ffca05ce"
+    },
+    {
+      "document_number": "269340/25-08-2016",
+      "protocol_number": "2.150623 ΕΚΠΡΟΣΩΠΗΣΗ RURAL/",
+      "type": "Συμπληρωματικά Έγγραφα",
+      "file_url": "https://silia.eett.gr/silia/download/0a95ebd5-ebd3-49d9-a53e-8cc44c3c3e14"
+    },
+    {
+      "document_number": "269714/30-08-2016",
+      "protocol_number": "ΑΠ. ΣΥΜΒΑΣΗΣ ΔΙΚ. ΧΡΗΣΗΣ ΣΥΧΝΟΤΗΤΑΣ 3,8GHz/",
+      "type": "Συμπληρωματικά Έγγραφα",
+      "file_url": "https://silia.eett.gr/silia/download/b787be6d-d344-41e3-8691-b5cca5a24685"
+    },
+    {
+      "document_number": "271521/15-09-2016",
+      "protocol_number": "ΤΕΛΗ ΕΚΧΩΡΗΣΗΣ 7-9-16/",
+      "type": "Αποδεικτικό Καταβολής Τελών ΕΕΤΤ",
+      "file_url": "https://silia.eett.gr/silia/download/79427ee7-c652-4c44-8b8f-1c9b96c872e6"
+    },
+    {
+      "document_number": "271522/15-09-2016",
+      "protocol_number": "ΑΡ. ΠΡΩΤ.20577-14 9 16 ΑΙΤΗΣΗ ΕΚΧΩΡΗΣΗΣ ΣΥΧΝΟΤΗΤΩΝ/",
+      "type": "Αίτηση Ραδιοσυχνοτήτων",
+      "file_url": "https://silia.eett.gr/silia/download/428f746f-50de-4c33-b142-994b23346ffb"
+    },
+    {
+      "document_number": "271523/15-09-2016",
+      "protocol_number": "Αρχείο Αίτησης/",
+      "type": "Αίτηση Άδειας Κατασκευής Κεραίας ΕΕΤΤ",
+      "file_url": "https://silia.eett.gr/silia/download/76aafd39-0fbd-4472-954f-c032fd50b68b"
+    },
+    {
+      "document_number": "276312/20-10-2016",
+      "protocol_number": "Δ3/Δ/24197/8690/18-10-2106/20-10-2016",
+      "type": "Γνωμάτευση ΥΠΑ",
+      "file_url": "https://silia.eett.gr/silia/download/e7174464-2b41-4e29-a5c5-f54d325e2a04"
+    },
+    {
+      "document_number": "282604/20-12-2016",
+      "protocol_number": "Μ.ι./411/14357/2016/09-12-2016",
+      "type": "Γνωμάτευση ΕΕΑΕ",
+      "file_url": "https://silia.eett.gr/silia/download/869529c7-9060-4f34-a742-c2566ad43296"
+    },
+    {
+      "document_number": "290436/27-03-2017",
+      "protocol_number": "2004 ΜΗΛΟΚΟΚΚΙΑ_ΒΕΒΑΙΩΣΗ ΑΓΡΟΤΙΚΗΣ/",
+      "type": "Βεβαίωση Υπουργείου Αγροτικής Ανάπτυξης",
+      "file_url": "https://silia.eett.gr/silia/download/7b09cc8b-b39b-4764-b3de-9031149e3afe"
+    },
+    {
+      "document_number": "290437/27-03-2017",
+      "protocol_number": "2004 ΜΗΛΟΚΟΚΚΙΑ_ΤΕΛΕΣΙΔΙΚΙΑ/",
+      "type": "Τελεσιδικία",
+      "file_url": "https://silia.eett.gr/silia/download/91cdd5f2-a6de-4a18-a8f3-5c3e45a95c52"
+    },
+    {
+      "document_number": "292681/20-04-2017",
+      "protocol_number": "2004 ΜΗΛΟΚΟΚΚΙΑ_ΒΕΒΑΙΩΣΗ ΚΤΗΜΑΤΙΚΗΣ/",
+      "type": "Βεβαίωση Κτηματικής Υπηρεσίας Δημοσίου",
+      "file_url": "https://silia.eett.gr/silia/download/29587ab2-7a58-4134-b07c-c2a29e35fb97"
+    },
+    {
+      "document_number": "297590/15-06-2017",
+      "protocol_number": "24304/Φ610/01-06-2017",
+      "type": "Άδεια Κατασκευής  Κεραίας",
+      "file_url": "https://silia.eett.gr/silia/download/0e61615c-1226-4829-85cb-3b65d0bc0a2d"
+    },
+    {
+      "document_number": "266926/25-07-2016",
+      "protocol_number": "2004 POLEODOMIKH EGKRISH/",
+      "type": "Έγκριση δομικών κατασκευών (έντυπη)",
+      "file_url": "https://silia.eett.gr/silia/download/6bd798c0-2201-4e56-bb1e-dba1ffca05ce"
+    },
+    {
+      "document_number": "264233/27-06-2016",
+      "protocol_number": "1.2004 PPD/",
+      "type": "Δήλωση υπαγωγής σε ΠΠΔ και Συνοδευτικά Έγγραφα",
+      "file_url": "https://silia.eett.gr/silia/download/06aca5ca-0991-4fbf-bff2-8109b352b918"
+    },
+    {
+      "document_number": "271524/15-09-2016",
+      "protocol_number": "Αρχείο Αίτησης/",
+      "type": "Δήλωση ΠΠΔ",
+      "file_url": "https://silia.eett.gr/silia/download/f777cb85-868f-43b7-9cb7-418e06f50d80"
+    }
+  ]
+}

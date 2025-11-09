@@ -1,0 +1,87 @@
+{
+  "antenna_id": "170394",
+  "address": "ΘΕΣΗ \"ΚΟΥΜΑΡΙΤΣΑ\", ΠΛΗΣΙΟΝ ΑΓ.ΓΕΩΡΓΙΟΥ, Τ.Κ. AΓ. ΓΕΩΡΓΙΟΥ ΦΕΡΩΝ, ΔΗΜ.ΕΝΟΤΗΤΑ ΦΕΡΩΝ,",
+  "position_code": 1200921,
+  "municipality": "Ρήγα Φερραίου",
+  "code_name": "ΒΕΛΕΣΤΙΝΟ",
+  "region": "Θεσσαλίας",
+  "latitude": 39.358611,
+  "company": "NOVA Μ.Α.Ε.",
+  "longitude": 22.798889,
+  "permit_status": "Από τα στοιχεία που τηρούνται στην Ενημερωτική Πύλη προκύπτει ότι, για τη θέση \"ΘΕΣΗ \"ΚΟΥΜΑΡΙΤΣΑ\", ΠΛΗΣΙΟΝ ΑΓ.ΓΕΩΡΓΙΟΥ, Τ.Κ. AΓ. ΓΕΩΡΓΙΟΥ ΦΕΡΩΝ, ΔΗΜ.ΕΝΟΤΗΤΑ ΦΕΡΩΝ,\" στον Δήμο Ρήγα Φερραίου Περιφέρειας  Θεσσαλίας \n\t(κωδικός αριθμός θέσης 1200921, κωδική ονομασία \"ΒΕΛΕΣΤΙΝΟ\") χορηγήθηκε, με την Απόφαση της ΕΕΤΤ \n50420/28-12-2023, άδεια κατασκευής κεραίας στην εταιρία NOVA Μ.Α.Ε.. \nΑπό τo έγγραφο της άδειας μπορείτε να ενημερωθείτε για τις σχετικές εγκρίσεις των συναρμόδιων φορέων, καθώς και εάν πρόκειται για τροποποίηση παλαιότερης άδειας.\n\tΣύμφωνα με τα στοιχεία που έχουν υποβληθεί στο ΣΗΛΥΑ, ο κάτοχος της κατασκευής κεραίας έχει δηλώσει ότι θα προβεί σε έκδοση έγκρισης δομικών κατασκευών \n\t\tκεραίας μέσω του e-Άδειες \n\t\tμετά την έκδοση της άδειας κατασκευής κεραίας / δημοσιοποίηση της δήλωσης τροποποίησης της κατασκευής κεραίας",
+  "measurements_eaee": "-",
+  "documents": [
+    {
+      "document_number": "497150/13-10-2023",
+      "protocol_number": "ΤΟΠΟΓΡΑΦΙΚΟ & ΑΡΧΙΤΕΚΤΟΝΙΚΑ/",
+      "type": "Αρχιτεκτονικά Σχέδια",
+      "file_url": "https://silia.eett.gr/silia/download/786f78d3-8a87-4a4a-afe6-bd01b090ea2f"
+    },
+    {
+      "document_number": "497151/13-10-2023",
+      "protocol_number": "ΜΕΣΩ ΣΗΛΥΑ/02-10-2023",
+      "type": "Αίτηση - Μελέτη Ραδιοεκπομπών ΕΕΑΕ",
+      "file_url": "https://silia.eett.gr/silia/download/6054b3da-baf0-4363-a88c-47e199140fa6"
+    },
+    {
+      "document_number": "497152/13-10-2023",
+      "protocol_number": "Δ3/Δ/17987/5021/02-06-2010",
+      "type": "Γνωμάτευση ΥΠΑ",
+      "file_url": "https://silia.eett.gr/silia/download/2539ee5e-b529-4a90-aafa-568fc5365a8a"
+    },
+    {
+      "document_number": "497153/13-10-2023",
+      "protocol_number": "ΥΔ ΚΟΙΝΗΣ ΧΡΗΣΗΣ VODAFONE/09-10-2023",
+      "type": "Άλλο",
+      "file_url": "https://silia.eett.gr/silia/download/6ae16e37-d84d-49ee-b058-4f0f8089bdc7"
+    },
+    {
+      "document_number": "497154/13-10-2023",
+      "protocol_number": "ΥΔ ΔΙΑΣΥΝΔΕΣΗΣ VODAFONE/09-10-2023",
+      "type": "Άλλο",
+      "file_url": "https://silia.eett.gr/silia/download/f3d553d0-3fce-48ef-a327-71cfafb113a5"
+    },
+    {
+      "document_number": "497160/13-10-2023",
+      "protocol_number": "Αρχείο Αίτησης/",
+      "type": "Αίτηση Άδειας Κατασκευής Κεραίας ΕΕΤΤ",
+      "file_url": "https://silia.eett.gr/silia/download/f15cc022-8547-4bfc-8662-ac339bae9b53"
+    },
+    {
+      "document_number": "501941/29-11-2023",
+      "protocol_number": "TMIA/411/16184/2023/29-11-2023",
+      "type": "Γνωμάτευση ΕΕΑΕ",
+      "file_url": "https://silia.eett.gr/silia/download/dc499d41-5b95-4cdc-8670-9cb5d44cbe86"
+    },
+    {
+      "document_number": "503036/13-12-2023",
+      "protocol_number": "713496/13-12-2023",
+      "type": "Επιστολή Κοινοποίησης Τυποποιημένης Αίτησης σε Αρμόδια Αρχή",
+      "file_url": "https://silia.eett.gr/silia/download/11eb09fc-27a7-43f5-acfa-fc5c9ea1e03a"
+    },
+    {
+      "document_number": "503419/19-12-2023",
+      "protocol_number": "141844/19-12-2023",
+      "type": "Αποτελέσματα μελέτης στη ζώνης 2.6GHz για ΥΠΑ/ΓΕΕΘΑ",
+      "file_url": "https://silia.eett.gr/silia/download/581ca956-a816-4361-916a-8d1f786f73e3"
+    },
+    {
+      "document_number": "504060/28-12-2023",
+      "protocol_number": "50420/28-12-2023",
+      "type": "Άδεια Κατασκευής  Κεραίας",
+      "file_url": "https://silia.eett.gr/silia/download/b5e3b546-0077-4326-9286-a7e9c53c8bc6"
+    },
+    {
+      "document_number": "497147/13-10-2023",
+      "protocol_number": "ΣΥΝΟΔΕΥΤΙΚΑ ΕΓΓΡΑΦΑ/",
+      "type": "Δήλωση υπαγωγής σε ΠΠΔ και Συνοδευτικά Έγγραφα",
+      "file_url": "https://silia.eett.gr/silia/download/7d2c5158-b1fe-4b20-b70c-d8bad37ca1f3"
+    },
+    {
+      "document_number": "497161/13-10-2023",
+      "protocol_number": "Αρχείο Αίτησης/",
+      "type": "Δήλωση ΠΠΔ",
+      "file_url": "https://silia.eett.gr/silia/download/b722468b-96c3-41fe-888d-9703a07cb5e8"
+    }
+  ]
+}

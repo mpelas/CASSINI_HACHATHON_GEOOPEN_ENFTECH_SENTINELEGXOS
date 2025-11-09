@@ -1,0 +1,165 @@
+{
+  "antenna_id": "124183",
+  "address": "ΠΛΗΣΙΟΝ ΟΙΚΙΣΜΟΥ ΑΣΠΡΟΧΩΜΑΤΟΣ- ΠΡ. ΗΛΙΑΣ",
+  "position_code": 2423401,
+  "municipality": "Ελασσόνας",
+  "code_name": "ΑΣΠΡΟΧΩΜΑ",
+  "region": "Θεσσαλίας",
+  "latitude": 40.024444,
+  "company": "RC",
+  "longitude": 22.196389,
+  "permit_status": "Από τα στοιχεία που τηρούνται στην Ενημερωτική Πύλη προκύπτει ότι, για τη θέση \"ΠΛΗΣΙΟΝ ΟΙΚΙΣΜΟΥ ΑΣΠΡΟΧΩΜΑΤΟΣ- ΠΡ. ΗΛΙΑΣ\" στον Δήμο Ελασσόνας Περιφέρειας  Θεσσαλίας \n\t(κωδικός αριθμός θέσης 2423401, κωδική ονομασία \"ΑΣΠΡΟΧΩΜΑ\") χορηγήθηκε, με την Απόφαση της ΕΕΤΤ \n25439/Φ610/21-09-2017, άδεια κατασκευής κεραίας στην εταιρία RC. \nΑπό τo έγγραφο της άδειας μπορείτε να ενημερωθείτε για τις σχετικές εγκρίσεις των συναρμόδιων φορέων, καθώς και εάν πρόκειται για τροποποίηση παλαιότερης άδειας.\nΗ άδεια χορηγήθηκε, κατόπιν της με Αριθ. Πρωτ. 20599/23-12-2016 αίτησης, \n\tμε τη διαδικασία αδειοδότησης της παρ. 17 του άρθρου 30 του Ν.4070/2012 που πλέον έχει αντικατασταθεί από τη διαδικασία που ορίζει ο ν. 4635/2019.\n\tΣύμφωνα με τα στοιχεία που έχουν υποβληθεί στο ΣΗΛΥΑ για την κατασκευή κεραίας από τον κάτοχό της, έχει εκδοθεί έγκριση δομικών κατασκευών κεραίας",
+  "measurements_eaee": "-",
+  "documents": [
+    {
+      "document_number": "276617/21-10-2016",
+      "protocol_number": "ΡΑΔ_3401 ASPROXOMA/",
+      "type": "Αίτηση - Μελέτη Ραδιοεκπομπών ΕΕΑΕ",
+      "file_url": "https://silia.eett.gr/silia/download/696a5024-bc30-4568-a94c-870de71da343"
+    },
+    {
+      "document_number": "276619/21-10-2016",
+      "protocol_number": "2.3401 ΤΟΠΟΓΡΑΦΙΚΟ & ΓΥΣ 1.5000 /",
+      "type": "Τοπογραφικό",
+      "file_url": "https://silia.eett.gr/silia/download/ad290998-3962-4c95-8c14-635ae4274bf9"
+    },
+    {
+      "document_number": "276623/21-10-2016",
+      "protocol_number": "3401 ΑΣΠΡΟΧΩΜΑ_ΕΦΑ/",
+      "type": "Αρχαιολογική έγκριση/γνωμοδότηση (μη τυπική)",
+      "file_url": "https://silia.eett.gr/silia/download/6d98d019-282b-4c9b-bdc8-b603fb29832e"
+    },
+    {
+      "document_number": "276624/21-10-2016",
+      "protocol_number": "3401 ΑΣΠΡΟΧΩΜΑ_ΕΝΜ/",
+      "type": "Γνωμοδότηση Υπηρεσίας Νεωτέρων Μνημείων",
+      "file_url": "https://silia.eett.gr/silia/download/94a71f2f-d63f-4ba8-b907-727e3b47a116"
+    },
+    {
+      "document_number": "276626/21-10-2016",
+      "protocol_number": "3.3401 ΑΡΧΙΤΕΚΤΟΝΙΚΑ ΜΕ ΣΦΡΑΓΙΔΑ/",
+      "type": "Αρχιτεκτονικά Σχέδια",
+      "file_url": "https://silia.eett.gr/silia/download/c420d0c6-a9f9-4d70-a888-3b8ac1bde364"
+    },
+    {
+      "document_number": "276628/21-10-2016",
+      "protocol_number": "3401 YPA/",
+      "type": "Συμπληρωματικά Έγγραφα Αίτησης / Μελέτης",
+      "file_url": "https://silia.eett.gr/silia/download/8a080b5c-055d-4891-862f-e850b925e446"
+    },
+    {
+      "document_number": "276630/21-10-2016",
+      "protocol_number": "2.150623 ΕΚΠΡΟΣΩΠΗΣΗ RURAL/",
+      "type": "Συμπληρωματικά Έγγραφα",
+      "file_url": "https://silia.eett.gr/silia/download/b0bff1cd-7531-4d90-a59b-3ac31cdde13e"
+    },
+    {
+      "document_number": "276631/21-10-2016",
+      "protocol_number": "ΑΠ. ΣΥΜΒΑΣΗΣ ΔΙΚ. ΧΡΗΣΗΣ ΣΥΧΝΟΤΗΤΑΣ 3,8GHz/",
+      "type": "Συμπληρωματικά Έγγραφα",
+      "file_url": "https://silia.eett.gr/silia/download/475f53dc-f19f-467a-b8fe-6c4c16c8ee58"
+    },
+    {
+      "document_number": "279982/23-11-2016",
+      "protocol_number": "1.3401 ΠΠΔ/",
+      "type": "Δήλωση υπαγωγής σε ΠΠΔ και Συνοδευτικά Έγγραφα",
+      "file_url": "https://silia.eett.gr/silia/download/8312ac66-3226-453b-b9bf-a227708da22a"
+    },
+    {
+      "document_number": "282674/20-12-2016",
+      "protocol_number": "3401 ΠΟΛΕΟΔΟΜΙΚΗ ΕΓΚΡΙΣΗ/",
+      "type": "Έγκριση δομικών κατασκευών (έντυπη)",
+      "file_url": "https://silia.eett.gr/silia/download/ac7bdc7c-9240-4ed0-b666-6a8276864436"
+    },
+    {
+      "document_number": "283192/23-12-2016",
+      "protocol_number": "ΤΕΛΗ ΕΚΧΩΡΗΣΗΣ 23-12-201/",
+      "type": "Αποδεικτικό Καταβολής Τελών ΕΕΤΤ",
+      "file_url": "https://silia.eett.gr/silia/download/618f451a-fca0-4263-a56c-2463c7cadd0c"
+    },
+    {
+      "document_number": "283193/23-12-2016",
+      "protocol_number": "ΑΠ. ΠΡΩΤ_23-12-2016/",
+      "type": "Αίτηση Ραδιοσυχνοτήτων",
+      "file_url": "https://silia.eett.gr/silia/download/8164bdba-99b3-4850-a7a8-d4d705d77c98"
+    },
+    {
+      "document_number": "283194/23-12-2016",
+      "protocol_number": "Αρχείο Αίτησης/",
+      "type": "Αίτηση Άδειας Κατασκευής Κεραίας ΕΕΤΤ",
+      "file_url": "https://silia.eett.gr/silia/download/481d40ca-6897-4bed-904d-6d92e2055005"
+    },
+    {
+      "document_number": "284071/09-01-2017",
+      "protocol_number": "2.3401 ΤΟΠΟΓΡΑΦΙΚΟ & ΓΥΣ 1.5000 /",
+      "type": "Τοπογραφικό",
+      "file_url": "https://silia.eett.gr/silia/download/a69d107b-e292-4975-8e61-352ea8b61561"
+    },
+    {
+      "document_number": "284072/09-01-2017",
+      "protocol_number": "3.3401 ΑΡΧΙΤΕΚΤΟΝΙΚΑ ΜΕ ΣΦΡΑΓΙΔΑ/",
+      "type": "Αρχιτεκτονικά Σχέδια",
+      "file_url": "https://silia.eett.gr/silia/download/9f86de04-6033-47ae-8848-94731cc2fe37"
+    },
+    {
+      "document_number": "285028/18-01-2017",
+      "protocol_number": "Δ3/Δ/599/148/12-1-2017/18-01-2017",
+      "type": "Γνωμάτευση ΥΠΑ",
+      "file_url": "https://silia.eett.gr/silia/download/bb5a811c-c694-4959-9aa4-60f204d007e3"
+    },
+    {
+      "document_number": "286211/03-02-2017",
+      "protocol_number": "Μ.ι./411/1763/2017/02-02-2017",
+      "type": "Γνωμάτευση ΕΕΑΕ",
+      "file_url": "https://silia.eett.gr/silia/download/40952540-d205-4468-b23e-74e01987ad6a"
+    },
+    {
+      "document_number": "286368/06-02-2017",
+      "protocol_number": "ΑΣΠΡΟΧΩΜΑ ΚΤΗΜΑΤΙΚΗ/",
+      "type": "Βεβαίωση Κτηματικής Υπηρεσίας Δημοσίου",
+      "file_url": "https://silia.eett.gr/silia/download/19efdd55-032b-4a06-b470-8d925bff1d3f"
+    },
+    {
+      "document_number": "286370/06-02-2017",
+      "protocol_number": "3401 ΑΣΠΡΟΧΩΜΑ ΤΕΛΕΣΙΔΙΚΙΑ/",
+      "type": "Τελεσιδικία",
+      "file_url": "https://silia.eett.gr/silia/download/58bcca42-f2aa-4111-a994-d6adc1a9f116"
+    },
+    {
+      "document_number": "287732/23-02-2017",
+      "protocol_number": "3401 ΑΣΠΡΟΧΩΜΑ_ΒΕΒΑΙΩΣΗ ΑΓΡΟΤΙΚΗΣ/",
+      "type": "Βεβαίωση Υπουργείου Αγροτικής Ανάπτυξης",
+      "file_url": "https://silia.eett.gr/silia/download/17663ad6-9e60-490b-b807-d94623fb7cfe"
+    },
+    {
+      "document_number": "288863/09-03-2017",
+      "protocol_number": "23559_9-3-17_signed/",
+      "type": "Χορήγηση Δικαιώματος Χρήσης Ραδιοσυχνοτήτων",
+      "file_url": "https://silia.eett.gr/silia/download/741d896b-02b4-492b-88f0-ace29ee8a7dd"
+    },
+    {
+      "document_number": "307329/26-09-2017",
+      "protocol_number": "25439/Φ610/21-09-2017",
+      "type": "Άδεια Κατασκευής  Κεραίας",
+      "file_url": "https://silia.eett.gr/silia/download/9d9e8a66-d51d-410b-83e1-1bfcfdd4539d"
+    },
+    {
+      "document_number": "282674/20-12-2016",
+      "protocol_number": "3401 ΠΟΛΕΟΔΟΜΙΚΗ ΕΓΚΡΙΣΗ/",
+      "type": "Έγκριση δομικών κατασκευών (έντυπη)",
+      "file_url": "https://silia.eett.gr/silia/download/ac7bdc7c-9240-4ed0-b666-6a8276864436"
+    },
+    {
+      "document_number": "279981/23-11-2016",
+      "protocol_number": "1.3401 ΠΠΔ/",
+      "type": "Δήλωση υπαγωγής σε ΠΠΔ και Συνοδευτικά Έγγραφα",
+      "file_url": "https://silia.eett.gr/silia/download/c2ee282b-feb8-40cc-9514-3886179d1af2"
+    },
+    {
+      "document_number": "283195/23-12-2016",
+      "protocol_number": "Αρχείο Αίτησης/",
+      "type": "Δήλωση ΠΠΔ",
+      "file_url": "https://silia.eett.gr/silia/download/265b318c-9599-4200-b517-7021bade22d1"
+    }
+  ]
+}

@@ -1,0 +1,93 @@
+{
+  "antenna_id": "101326",
+  "address": "ΤΥΜΠΑΚΙ",
+  "position_code": 1203732,
+  "municipality": "Φαιστού",
+  "code_name": "ΤΥΜΠΑΚΙ ΠΟΛΗ",
+  "region": "Κρήτης",
+  "latitude": 35.0725,
+  "company": "NOVA Μ.Α.Ε.",
+  "longitude": 24.770833,
+  "permit_status": "Από τα στοιχεία που τηρούνται στην Ενημερωτική Πύλη προκύπτει ότι, για τη θέση \"ΤΥΜΠΑΚΙ \" στον Δήμο Φαιστού Περιφέρειας  Κρήτης \n\t(κωδικός αριθμός θέσης 1203732, κωδική ονομασία \"ΤΥΜΠΑΚΙ ΠΟΛΗ\") χορηγήθηκε, με την Απόφαση της ΕΕΤΤ \n12760/Φ610/22-07-2014, άδεια κατασκευής κεραίας στην εταιρία NOVA Μ.Α.Ε.. \nΑπό τo έγγραφο της άδειας μπορείτε να ενημερωθείτε για τις σχετικές εγκρίσεις των συναρμόδιων φορέων, καθώς και εάν πρόκειται για τροποποίηση παλαιότερης άδειας.\nΗ άδεια χορηγήθηκε, κατόπιν της με Αριθ. Πρωτ. 4196/07-10-2013 αίτησης, \n\tμε τη διαδικασία αδειοδότησης της παρ. 17 του άρθρου 30 του Ν.4070/2012 που πλέον έχει αντικατασταθεί από τη διαδικασία που ορίζει ο ν. 4635/2019.\n\tΣύμφωνα με τα στοιχεία που έχουν υποβληθεί στο ΣΗΛΥΑ για την κατασκευή κεραίας από τον κάτοχό της, έχει εκδοθεί έγκριση δομικών κατασκευών κεραίας",
+  "measurements_eaee": "-",
+  "documents": [
+    {
+      "document_number": "94570/08-08-2013",
+      "protocol_number": "ΣΥΝΗΜΕΝΝΟΣ ΠΡΟΣ ΤΗΝ ΚΑΤΑΘΕΣΗ ΥΠΑ/",
+      "type": "Απόσπασμα Χάρτη ΓΥΣ 1:50.000",
+      "file_url": "https://silia.eett.gr/silia/download/21fee14c-f9b9-4067-9537-cc241073f8e4"
+    },
+    {
+      "document_number": "94571/08-08-2013",
+      "protocol_number": "ΣΥΝΗΜΕΝΗ ΤΗΣ ΚΑΤΑΘΕΣΗΣ ΜΕΣΩ ΣΗΛΥΑ  ΠΡΟΣ ΤΗΝ ΕΕΑΕ/24-07-2013",
+      "type": "Αίτηση - Μελέτη Ραδιοεκπομπών ΕΕΑΕ",
+      "file_url": "https://silia.eett.gr/silia/download/2595cf41-9949-473f-8777-81848b3b6deb"
+    },
+    {
+      "document_number": "94573/08-08-2013",
+      "protocol_number": "833 (ΣΥΝΗΜΕΝΝΟ ΜΕ ΤΗΝ ΚΑΤΑΘΕΣΗ ΣΤΗΝ ΠΟΛΕΟΔΟΜΙΑ)/30-07-2013",
+      "type": "Τοπογραφικό",
+      "file_url": "https://silia.eett.gr/silia/download/c5f56c44-158a-4e9d-895c-42871639afa9"
+    },
+    {
+      "document_number": "94574/08-08-2013",
+      "protocol_number": "833 (ΣΥΝΗΜΕΝΝΑ ΜΕ ΤΗΝ ΚΑΤΑΘΕΣΗ ΣΤΗΝ ΠΟΛΕΟΔΟΜΙΑ)/30-07-2013",
+      "type": "Αρχιτεκτονικά Σχέδια",
+      "file_url": "https://silia.eett.gr/silia/download/7b8a6762-4977-467e-be79-de8ccbfdc706"
+    },
+    {
+      "document_number": "94845/09-08-2013",
+      "protocol_number": "ΣΥΝΗΜΕΝΗ ΤΗΣ ΚΑΤΑΘΕΣΗΣ ΜΕΣΩ ΣΗΛΥΑ /09-08-2013",
+      "type": "Δήλωση υπαγωγής σε ΠΠΔ και Συνοδευτικά Έγγραφα",
+      "file_url": "https://silia.eett.gr/silia/download/b33e1f9c-cf6f-4118-bd2f-4e599c4fef91"
+    },
+    {
+      "document_number": "98009/06-09-2013",
+      "protocol_number": "T:E35278 ΑΡ. ΠΑΡΑΣΤΑΤΙΚΟΥ : 14/28-08-2013",
+      "type": "Αποδεικτικό Καταβολής Τελών ΕΕΤΤ",
+      "file_url": "https://silia.eett.gr/silia/download/dc6f418f-09b2-43e6-9ce8-950bbe204048"
+    },
+    {
+      "document_number": "104302/07-10-2013",
+      "protocol_number": "40943/04-10-2013",
+      "type": "Αίτηση Ραδιοσυχνοτήτων",
+      "file_url": "https://silia.eett.gr/silia/download/26b16621-099f-40b3-b6aa-a5cdadaa1dad"
+    },
+    {
+      "document_number": "104334/07-10-2013",
+      "protocol_number": "Αρχείο Αίτησης/",
+      "type": "Αίτηση Άδειας Κατασκευής Κεραίας ΕΕΤΤ",
+      "file_url": "https://silia.eett.gr/silia/download/fc6e4d93-4325-4c8c-a690-f4d0ad6bd19f"
+    },
+    {
+      "document_number": "108431/25-10-2013",
+      "protocol_number": "Δ3/Δ/31620/7744/23-10-2013/25-10-2013",
+      "type": "Γνωμάτευση ΥΠΑ",
+      "file_url": "https://silia.eett.gr/silia/download/15f1d089-7348-427e-97ac-6fb2d11eb409"
+    },
+    {
+      "document_number": "175123/30-05-2014",
+      "protocol_number": "Mi/411/607/30-05-2014",
+      "type": "Γνωμάτευση ΕΕΑΕ",
+      "file_url": "https://silia.eett.gr/silia/download/22a938b6-a86a-40b9-875a-64ef077152ff"
+    },
+    {
+      "document_number": "178771/17-07-2014",
+      "protocol_number": "833/02-10-2013",
+      "type": "Έγκριση δομικών κατασκευών (έντυπη)",
+      "file_url": "https://silia.eett.gr/silia/download/f33665d9-f1f4-4f66-af03-783ddb90e80b"
+    },
+    {
+      "document_number": "179024/25-07-2014",
+      "protocol_number": "12760/Φ610/22-07-2014",
+      "type": "Άδεια Κατασκευής  Κεραίας",
+      "file_url": "https://silia.eett.gr/silia/download/936abcbd-867a-4324-9275-2c8dd77d8f15"
+    },
+    {
+      "document_number": "178771/17-07-2014",
+      "protocol_number": "833/02-10-2013",
+      "type": "Έγκριση δομικών κατασκευών (έντυπη)",
+      "file_url": "https://silia.eett.gr/silia/download/f33665d9-f1f4-4f66-af03-783ddb90e80b"
+    }
+  ]
+}

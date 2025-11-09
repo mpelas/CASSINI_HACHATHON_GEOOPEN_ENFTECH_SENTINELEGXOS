@@ -1,0 +1,87 @@
+{
+  "antenna_id": "174815",
+  "address": "ΔΗΜΟΤΙΚΗ ΟΔΟΣ ΒΕΡΟΙΑΣ-ΜΑΥΡΟΔΕΝΔΡΙΟΥ,ΑΠΟΘΗΚΕΣ ΟΤΕ",
+  "position_code": 1403161,
+  "municipality": "Βέροιας",
+  "code_name": "ΑΠ. ΒΕΡΟΙΑΣ",
+  "region": "Κεντρικής Μακεδονίας",
+  "latitude": 40.539444,
+  "company": "OTE",
+  "longitude": 22.226389,
+  "permit_status": "Από τα στοιχεία που τηρούνται στην Ενημερωτική Πύλη προκύπτει ότι, για τη θέση \"ΔΗΜΟΤΙΚΗ ΟΔΟΣ ΒΕΡΟΙΑΣ-ΜΑΥΡΟΔΕΝΔΡΙΟΥ,ΑΠΟΘΗΚΕΣ ΟΤΕ\" στον Δήμο Βέροιας Περιφέρειας  Κεντρικής Μακεδονίας \n\t(κωδικός αριθμός θέσης 1403161, κωδική ονομασία \"ΑΠ. ΒΕΡΟΙΑΣ\") χορηγήθηκε, με την Απόφαση της ΕΕΤΤ \n52038/24-01-2025, άδεια κατασκευής κεραίας στην εταιρία OTE. \nΑπό τo έγγραφο της άδειας μπορείτε να ενημερωθείτε για τις σχετικές εγκρίσεις των συναρμόδιων φορέων, καθώς και εάν πρόκειται για τροποποίηση παλαιότερης άδειας.\n\tΣύμφωνα με τα στοιχεία που έχουν υποβληθεί στο ΣΗΛΥΑ, ο κάτοχος της κατασκευής κεραίας έχει δηλώσει ότι θα προβεί σε έκδοση έγκρισης δομικών κατασκευών \n\t\tκεραίας μέσω του e-Άδειες \n\t\tμετά την έκδοση της άδειας κατασκευής κεραίας / δημοσιοποίηση της δήλωσης τροποποίησης της κατασκευής κεραίας",
+  "measurements_eaee": "-",
+  "documents": [
+    {
+      "document_number": "522999/06-08-2024",
+      "protocol_number": "ΑΡΧΙΤΕΚΤΟΝΙΚΑ/06-08-2024",
+      "type": "Αρχιτεκτονικά Σχέδια",
+      "file_url": "https://silia.eett.gr/silia/download/ZCMMq3h6fs72q0clV9pHHczbTzKKsPwmXlLq"
+    },
+    {
+      "document_number": "523000/06-08-2024",
+      "protocol_number": "Δ3/Δ/47867/7593/12-11-1998",
+      "type": "Γνωμάτευση ΥΠΑ",
+      "file_url": "https://silia.eett.gr/silia/download/ViWkUnmEsaDKfqclEd379WioFExE4Rs7FP3I"
+    },
+    {
+      "document_number": "523001/06-08-2024",
+      "protocol_number": "Δ3/Δ/10262/15-12-2003",
+      "type": "Γνωμάτευση ΥΠΑ",
+      "file_url": "https://silia.eett.gr/silia/download/AIUC6XnZGvdafdvM1Hh7DBrypqgACmGgEK06"
+    },
+    {
+      "document_number": "523002/06-08-2024",
+      "protocol_number": "ΜΕΣΩ ΣΗΛΥΑ/06-08-2024",
+      "type": "Αίτηση ΥΠΑ",
+      "file_url": "https://silia.eett.gr/silia/download/lgHV2hsiSzegT3dZkYU7aK8EWrR9e9YXb0p3"
+    },
+    {
+      "document_number": "523003/06-08-2024",
+      "protocol_number": "ΑΝΑΚΟΙΝΩΣΗ ΓΕΜΗ/06-08-2024",
+      "type": "Άλλο",
+      "file_url": "https://silia.eett.gr/silia/download/GRVKapLQ9f6IawQ8AR1nNuTsdrg12MyB6Fdk"
+    },
+    {
+      "document_number": "523272/09-08-2024",
+      "protocol_number": "ΜΕΛΕΤΗ Ρ/Ε/21-12-2023",
+      "type": "Αίτηση - Μελέτη Ραδιοεκπομπών ΕΕΑΕ",
+      "file_url": "https://silia.eett.gr/silia/download/9RYgc21XdZxz7kyxbzIBll8vE7pq7rgdG0Ve"
+    },
+    {
+      "document_number": "523273/09-08-2024",
+      "protocol_number": "ΤΟΠΟΓΡΑΦΙΚΟ/09-08-2024",
+      "type": "Τοπογραφικό",
+      "file_url": "https://silia.eett.gr/silia/download/GbXPEPqiHzSn5mu8WF5grGg8rWXfGs6sLneK"
+    },
+    {
+      "document_number": "523276/09-08-2024",
+      "protocol_number": "Αρχείο Αίτησης/09-08-2024",
+      "type": "Αίτηση Άδειας Κατασκευής Κεραίας ΕΕΤΤ",
+      "file_url": "https://silia.eett.gr/silia/download/r9MQxg9LCt7QyAyZA6g4xuFbUcwQ7DArxUYF"
+    },
+    {
+      "document_number": "531067/31-10-2024",
+      "protocol_number": "TMIA/411/15370/2024/31-10-2024",
+      "type": "Γνωμάτευση ΕΕΑΕ",
+      "file_url": "https://silia.eett.gr/silia/download/ErI88fKaya7TApD9Yx183iYmdgLZeCxUDvg3"
+    },
+    {
+      "document_number": "538876/24-01-2025",
+      "protocol_number": "52038/24-01-2025",
+      "type": "Άδεια Κατασκευής  Κεραίας",
+      "file_url": "https://silia.eett.gr/silia/download/6Mxo2EFUKaMp9lWVtPEm86gWqolKofXnkWCG"
+    },
+    {
+      "document_number": "522995/06-08-2024",
+      "protocol_number": "ΠΠΔ/06-08-2024",
+      "type": "Δήλωση υπαγωγής σε ΠΠΔ και Συνοδευτικά Έγγραφα",
+      "file_url": "https://silia.eett.gr/silia/download/eaVagWWgaNgzpkInoeHw9q874kRGX8GoQn86"
+    },
+    {
+      "document_number": "523277/09-08-2024",
+      "protocol_number": "Αρχείο Αίτησης/09-08-2024",
+      "type": "Δήλωση ΠΠΔ",
+      "file_url": "https://silia.eett.gr/silia/download/tqohzAhGObGuVcs6qMmeqvKm1Gn4PIPpg2gV"
+    }
+  ]
+}

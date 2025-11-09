@@ -1,0 +1,45 @@
+{
+  "antenna_id": "178412",
+  "address": "Παυσανίου 2, Βέροια.",
+  "position_code": 1144177,
+  "municipality": "Βέροιας",
+  "code_name": "3034177 SYZEFXIS NOMARCHIAKI MONADA IMATHIAS",
+  "region": "Κεντρικής Μακεδονίας",
+  "latitude": 40.534167,
+  "company": "VODAFONE",
+  "longitude": 22.206667,
+  "permit_status": "Από τα στοιχεία που τηρούνται στην Ενημερωτική Πύλη προκύπτει ότι, για τη θέση \"Παυσανίου 2, Βέροια.\" στον Δήμο Βέροιας Περιφέρειας  Κεντρικής Μακεδονίας \n\t(κωδικός αριθμός θέσης 1144177, κωδική ονομασία \"3034177 SYZEFXIS NOMARCHIAKI MONADA IMATHIAS\") έχει κατατεθεί από την εταιρία VODAFONE\tδήλωση εγκατάστασης κατασκευής κεραίας (αριθ. πρωτ. \n\t60038/20-03-2025) που εμπίπτει στις διατάξεις της νομοθεσίας για Εγκαταστάσεις Κατασκευών Κεραιών Χαμηλής Ηλεκτρομαγνητικής Περιβαλλοντικής Όχλησης (ΕΚΚΧΟ).",
+  "measurements_eaee": "-",
+  "documents": [
+    {
+      "document_number": "544494/20-03-2025",
+      "protocol_number": "Φωτορεαλιστική απεικόνιση κεραίας ΕΚΚΧΟ/20-03-2025",
+      "type": "Φωτογραφικό Υλικό - Σκαρίφημα",
+      "file_url": "https://silia.eett.gr/silia/download/YMgWcDmEnicaMPbceNgcge9YBfuFdxkWXc8D"
+    },
+    {
+      "document_number": "544495/20-03-2025",
+      "protocol_number": "Ψηφιακός χάρτης με προβολή της θέσης ΕΚΚΧΟ/20-03-2025",
+      "type": "Φωτογραφικό Υλικό - Σκαρίφημα",
+      "file_url": "https://silia.eett.gr/silia/download/dNubbx64bDsiHXvzCLkxzlGWN49oc7exkK5C"
+    },
+    {
+      "document_number": "544497/20-03-2025",
+      "protocol_number": "ΜΕΛΕΤΗ ΕΚΚΧΟ/20-03-2025",
+      "type": "Άλλο",
+      "file_url": "https://silia.eett.gr/silia/download/zlkMUXzThftzEdSmi5khCDbxCncgo46leQWd"
+    },
+    {
+      "document_number": "544498/20-03-2025",
+      "protocol_number": "Σκαρίφημα με περιοχή απαγόρευσης/20-03-2025",
+      "type": "Φωτογραφικό Υλικό - Σκαρίφημα",
+      "file_url": "https://silia.eett.gr/silia/download/VgF4Mta8isLba90aW80unHgm5UYDMp5QM2be"
+    },
+    {
+      "document_number": "544499/20-03-2025",
+      "protocol_number": "Αρχείο Αίτησης/20-03-2025",
+      "type": "Δήλωση ΕΚΚΧΟ",
+      "file_url": "https://silia.eett.gr/silia/download/5DGGpQZAWUvolBpgscmGePyr0V2PtHfGX56k"
+    }
+  ]
+}

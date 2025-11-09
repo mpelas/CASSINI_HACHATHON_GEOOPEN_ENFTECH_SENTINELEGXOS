@@ -1,0 +1,39 @@
+{
+  "antenna_id": "174205",
+  "address": "ΜΑΛΑΚΩΝΤΑ,ΕΡΕΤΡΙΑΣ,ΕΥΒΟΙΑΣ",
+  "position_code": 1496651,
+  "municipality": "Ερέτριας",
+  "code_name": "MEMORY_HOTEL_EVIA",
+  "region": "Στερεάς Ελλάδας",
+  "latitude": 38.411667,
+  "company": "OTE",
+  "longitude": 23.7075,
+  "permit_status": "Από τα στοιχεία που τηρούνται στην Ενημερωτική Πύλη προκύπτει ότι, για τη θέση \"ΜΑΛΑΚΩΝΤΑ,ΕΡΕΤΡΙΑΣ,ΕΥΒΟΙΑΣ\" στον Δήμο Ερέτριας Περιφέρειας  Στερεάς Ελλάδας \n\t(κωδικός αριθμός θέσης 1496651, κωδική ονομασία \"MEMORY_HOTEL_EVIA\") έχει κατατεθεί από την εταιρία OTE\tδήλωση εγκατάστασης κατασκευής κεραίας (αριθ. πρωτ. \n\t57160/02-09-2024) που εμπίπτει στις διατάξεις της νομοθεσίας για Εγκαταστάσεις Κατασκευών Κεραιών Χαμηλής Ηλεκτρομαγνητικής Περιβαλλοντικής Όχλησης (ΕΚΚΧΟ).",
+  "measurements_eaee": "-",
+  "documents": [
+    {
+      "document_number": "519893/09-07-2024",
+      "protocol_number": "ΦΩΤΟΓΡΑΦΙΑ/09-07-2024",
+      "type": "Φωτογραφικό Υλικό - Σκαρίφημα",
+      "file_url": "https://silia.eett.gr/silia/download/YQ1loi3sqdqlUYp7QagKLqG05yg62wqGWGzC"
+    },
+    {
+      "document_number": "524270/02-09-2024",
+      "protocol_number": "ΜΕΛΕΤΗ/02-09-2024",
+      "type": "Αίτηση - Μελέτη Ραδιοεκπομπών ΕΕΑΕ",
+      "file_url": "https://silia.eett.gr/silia/download/GLcMHG9Nhrbpx3h2dVmlB81MgliuguYBSFxL"
+    },
+    {
+      "document_number": "524286/02-09-2024",
+      "protocol_number": "Αρχείο Αίτησης/02-09-2024",
+      "type": "Δήλωση ΕΚΚΧΟ",
+      "file_url": "https://silia.eett.gr/silia/download/FS2KNGvcgf1cR9SKIGrE2pMkCWn4qnoyCrGt"
+    },
+    {
+      "document_number": "529140/17-10-2024",
+      "protocol_number": "ΥΠ.ΔΗΛΩΣΗ/17-10-2024",
+      "type": "Άλλο",
+      "file_url": "https://silia.eett.gr/silia/download/S4iFiCz4uA76WmagEgx6zrXkHlyaMUDrc5fo"
+    }
+  ]
+}

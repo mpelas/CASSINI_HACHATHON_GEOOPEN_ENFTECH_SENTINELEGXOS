@@ -1,0 +1,57 @@
+{
+  "antenna_id": "174666",
+  "address": "Λ. Πεντέλης 41 & Σισμανογλείου, Βριλήσσια",
+  "position_code": 1401740,
+  "municipality": "Βριλησσίων",
+  "code_name": "LPENTVRIL",
+  "region": "Αττικής",
+  "latitude": 38.040278,
+  "company": "OTE",
+  "longitude": 23.830556,
+  "permit_status": "Από τα στοιχεία που τηρούνται στην Ενημερωτική Πύλη προκύπτει ότι, για τη θέση \"Λ. Πεντέλης 41 & Σισμανογλείου, Βριλήσσια\" στον Δήμο Βριλησσίων Περιφέρειας  Αττικής \n\t(κωδικός αριθμός θέσης 1401740, κωδική ονομασία \"LPENTVRIL\") έχει κατατεθεί από την εταιρία OTE\tδήλωση εγκατάστασης κατασκευής κεραίας (αριθ. πρωτ. \n\t56847/30-07-2024) που εμπίπτει στις διατάξεις της νομοθεσίας για Εγκαταστάσεις Κατασκευών Κεραιών Χαμηλής Ηλεκτρομαγνητικής Περιβαλλοντικής Όχλησης (ΕΚΚΧΟ).",
+  "measurements_eaee": "-",
+  "documents": [
+    {
+      "document_number": "522279/30-07-2024",
+      "protocol_number": "ΦΩΤΟΓΡΑΦΙΑ/30-07-2024",
+      "type": "Φωτογραφικό Υλικό - Σκαρίφημα",
+      "file_url": "https://silia.eett.gr/silia/download/9uKgsnMtNyfcFFQUpT0yqGciP0HzYfEag86s"
+    },
+    {
+      "document_number": "522280/30-07-2024",
+      "protocol_number": "ΛΙΝΚ/30-07-2024",
+      "type": "Άλλο",
+      "file_url": "https://silia.eett.gr/silia/download/sv1QHDKoGZYZXmTesIguhemBNcbnHfWInzkE"
+    },
+    {
+      "document_number": "522282/30-07-2024",
+      "protocol_number": "ΚΑΤΟΨΗ/30-07-2024",
+      "type": "Αρχιτεκτονικά Σχέδια",
+      "file_url": "https://silia.eett.gr/silia/download/xgnmvlQN4Bg741PZnMWLaazAmSIrkq2xKYSE"
+    },
+    {
+      "document_number": "522283/30-07-2024",
+      "protocol_number": "ΤΟΜΗ/30-07-2024",
+      "type": "Αρχιτεκτονικά Σχέδια",
+      "file_url": "https://silia.eett.gr/silia/download/6s8wK1rf6xP3XqnnEgXL5SUgms1mSr7WMIwD"
+    },
+    {
+      "document_number": "522285/30-07-2024",
+      "protocol_number": "TOΠΟΓΡΑΦΙΚΟ/30-07-2024",
+      "type": "Τοπογραφικό",
+      "file_url": "https://silia.eett.gr/silia/download/NW8BSSTmrw2T0d6r9pfVfiLQt0LPYmwAYmDT"
+    },
+    {
+      "document_number": "522286/30-07-2024",
+      "protocol_number": "ΜΕΛΕΤΗ/30-07-2024",
+      "type": "Αίτηση - Μελέτη Ραδιοεκπομπών ΕΕΑΕ",
+      "file_url": "https://silia.eett.gr/silia/download/QMUIgWALZ92VZpM61pegB0DkGqPubrXgyFbt"
+    },
+    {
+      "document_number": "522287/30-07-2024",
+      "protocol_number": "Αρχείο Αίτησης/30-07-2024",
+      "type": "Δήλωση ΕΚΚΧΟ",
+      "file_url": "https://silia.eett.gr/silia/download/IGMa2eu45qTVhkZWTVTIggx4pEW9z4lVfnsb"
+    }
+  ]
+}

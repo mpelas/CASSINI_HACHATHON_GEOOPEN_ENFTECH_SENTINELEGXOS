@@ -1,0 +1,93 @@
+{
+  "antenna_id": "178233",
+  "address": "ΘΕΣΗ ΛΟΥΤΣΑ - ΟΡΟΣ ΤΟΜΑΡΟΣ, ΚΟΥΜΑΡΙΑ",
+  "position_code": 1201437,
+  "municipality": "Δωδώνης",
+  "code_name": "ΚΟΥΜΑΡΙΑ",
+  "region": "Ηπείρου",
+  "latitude": 39.545278,
+  "company": "NOVA Μ.Α.Ε.",
+  "longitude": 20.745556,
+  "permit_status": "Από τα στοιχεία που τηρούνται στην Ενημερωτική Πύλη προκύπτει ότι, για τη θέση \"ΘΕΣΗ ΛΟΥΤΣΑ - ΟΡΟΣ ΤΟΜΑΡΟΣ, ΚΟΥΜΑΡΙΑ\" στον Δήμο Δωδώνης Περιφέρειας  Ηπείρου \n\t(κωδικός αριθμός θέσης 1201437, κωδική ονομασία \"ΚΟΥΜΑΡΙΑ\") χορηγήθηκε, με την Απόφαση της ΕΕΤΤ \n52788/24-06-2025, άδεια κατασκευής κεραίας στην εταιρία NOVA Μ.Α.Ε.. \nΑπό τo έγγραφο της άδειας μπορείτε να ενημερωθείτε για τις σχετικές εγκρίσεις των συναρμόδιων φορέων, καθώς και εάν πρόκειται για τροποποίηση παλαιότερης άδειας.\n\tΣύμφωνα με τα στοιχεία που έχουν υποβληθεί στο ΣΗΛΥΑ, ο κάτοχος της κατασκευής κεραίας έχει δηλώσει ότι θα προβεί σε έκδοση έγκρισης δομικών κατασκευών \n\t\tκεραίας μέσω του e-Άδειες \n\t\tμετά την έκδοση της άδειας κατασκευής κεραίας / δημοσιοποίηση της δήλωσης τροποποίησης της κατασκευής κεραίας",
+  "measurements_eaee": "-",
+  "documents": [
+    {
+      "document_number": "543732/14-03-2025",
+      "protocol_number": "4954/728/01-02-2000",
+      "type": "Γνωμάτευση ΥΠΑ",
+      "file_url": "https://silia.eett.gr/silia/download/7FQDs6UoGrdIKNL71LTrn4WcBS4GGKTxAS6X"
+    },
+    {
+      "document_number": "543733/14-03-2025",
+      "protocol_number": "51429/11633/16-12-2008",
+      "type": "Γνωμάτευση ΥΠΑ",
+      "file_url": "https://silia.eett.gr/silia/download/oZODqpC4oh7TmPBXl8oPdQG4TNb2blarUnI6"
+    },
+    {
+      "document_number": "543742/14-03-2025",
+      "protocol_number": "ΤΟΠΟΓΡΑΦΙΚΟ & ΑΡΧΙΤΕΚΤΟΝΙΚΑ/14-03-2025",
+      "type": "Αρχιτεκτονικά Σχέδια",
+      "file_url": "https://silia.eett.gr/silia/download/kva1OIGymofoNcVMSNtiF7cd6GUs0GMLhfxi"
+    },
+    {
+      "document_number": "543743/14-03-2025",
+      "protocol_number": "ΜΕΣΩ ΣΗΛΥΑ/26-02-2025",
+      "type": "Αίτηση - Μελέτη Ραδιοεκπομπών ΕΕΑΕ",
+      "file_url": "https://silia.eett.gr/silia/download/snIFEqdvaWprknRUI1GNq2YRLcKs6FfzSFHb"
+    },
+    {
+      "document_number": "543744/14-03-2025",
+      "protocol_number": "ΥΔ ΚΟΙΝΗΣ ΧΡΗΣΗΣ VODAFONE/05-03-2025",
+      "type": "Άλλο",
+      "file_url": "https://silia.eett.gr/silia/download/xENSubIM1ngSFTk0WbVvy5GApGGHuYFFskBd"
+    },
+    {
+      "document_number": "543745/14-03-2025",
+      "protocol_number": "ΥΔ ΔΙΑΣΥΝΔΕΣΗΣ VODAFONE/05-03-2025",
+      "type": "Άλλο",
+      "file_url": "https://silia.eett.gr/silia/download/b0qFc2nh3oAREbzxEwUO7xcV5Yt9ptRvpatY"
+    },
+    {
+      "document_number": "543746/14-03-2025",
+      "protocol_number": "Αρχείο Αίτησης/14-03-2025",
+      "type": "Αίτηση Άδειας Κατασκευής Κεραίας ΕΕΤΤ",
+      "file_url": "https://silia.eett.gr/silia/download/cWNdYlzCtHAxBGnMHgFYeuBiqa4up9gOyXSY"
+    },
+    {
+      "document_number": "547685/28-04-2025",
+      "protocol_number": "ΚΓ/Δ3Δ/Δ/7860/28-04-2025",
+      "type": "Γνωμάτευση ΥΠΑ",
+      "file_url": "https://silia.eett.gr/silia/download/Uo1A0Lqu1BKg0NgiOyvZfzoXwGFQvW1I0U3p"
+    },
+    {
+      "document_number": "549865/20-05-2025",
+      "protocol_number": "TMIA/411/6737/2025/20-05-2025",
+      "type": "Γνωμάτευση ΕΕΑΕ",
+      "file_url": "https://silia.eett.gr/silia/download/e7Wwdh0GwLdFuEX4LUioPkC2vkIdwQtNFshQ"
+    },
+    {
+      "document_number": "552146/11-06-2025",
+      "protocol_number": "190261/22-12-2020",
+      "type": "Έγκριση δομικών κατασκευών (e-Άδειες, αντίγραφο)",
+      "file_url": "https://silia.eett.gr/silia/download/L4Vgc4GoMrlMRcmGpVrs9AQP1QlWpY2BXr3g"
+    },
+    {
+      "document_number": "553615/25-06-2025",
+      "protocol_number": "52788/24-06-2025",
+      "type": "Άδεια Κατασκευής  Κεραίας",
+      "file_url": "https://silia.eett.gr/silia/download/GM252zb8HAGPyUgH8hGiYgRqdir9Gd3kmX7w"
+    },
+    {
+      "document_number": "543748/14-03-2025",
+      "protocol_number": "ΣΥΝΟΔΕΥΤΙΚΑ ΕΓΓΡΑΦΑ ΠΠΔ/14-03-2025",
+      "type": "Δήλωση υπαγωγής σε ΠΠΔ και Συνοδευτικά Έγγραφα",
+      "file_url": "https://silia.eett.gr/silia/download/OYlyiZsc789lzEbgLyPEPrwEIFArphpwm7y7"
+    },
+    {
+      "document_number": "543749/14-03-2025",
+      "protocol_number": "Αρχείο Αίτησης/14-03-2025",
+      "type": "Δήλωση ΠΠΔ",
+      "file_url": "https://silia.eett.gr/silia/download/kQ4TYoa8hFsgLFAZQPehtDdpEbduqCO3i0s0"
+    }
+  ]
+}

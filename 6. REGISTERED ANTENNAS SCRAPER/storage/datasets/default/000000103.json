@@ -1,0 +1,51 @@
+{
+  "antenna_id": "164865",
+  "address": "Νεαπόλεως 27 και Πατριάρχου Γρηγορίου",
+  "position_code": 1105325,
+  "municipality": "Αγίας Παρασκευής",
+  "code_name": "DIMOKRITOS - AGIA PARASKEVI EKEFE",
+  "region": "Αττικής",
+  "latitude": 37.996389,
+  "company": "VODAFONE",
+  "longitude": 23.818333,
+  "permit_status": "Από τα στοιχεία που τηρούνται στην Ενημερωτική Πύλη προκύπτει ότι, για τη θέση \"Νεαπόλεως 27 και Πατριάρχου Γρηγορίου \" στον Δήμο Αγίας Παρασκευής Περιφέρειας  Αττικής \n\t(κωδικός αριθμός θέσης 1105325, κωδική ονομασία \"DIMOKRITOS - AGIA PARASKEVI EKEFE \") έχει κατατεθεί από την εταιρία VODAFONE\tδήλωση εγκατάστασης κατασκευής κεραίας (αριθ. πρωτ. \n\t48711/25-07-2022) που εμπίπτει στις διατάξεις της νομοθεσίας για Εγκαταστάσεις Κατασκευών Κεραιών Χαμηλής Ηλεκτρομαγνητικής Περιβαλλοντικής Όχλησης (ΕΚΚΧΟ).",
+  "measurements_eaee": "-",
+  "documents": [
+    {
+      "document_number": "464592/25-07-2022",
+      "protocol_number": "Σκαρίφημα τοποθέτησης ΕΚΚΧΟ- Όψη κτιρίου/",
+      "type": "Φωτογραφικό Υλικό - Σκαρίφημα",
+      "file_url": "https://silia.eett.gr/silia/download/b8e3bbbb-e937-4159-9492-e896ecefba87"
+    },
+    {
+      "document_number": "464593/25-07-2022",
+      "protocol_number": "Σκαρίφημα τοποθέτησης ΕΚΚΧΟ- Κάτοψη κτιρίου/",
+      "type": "Φωτογραφικό Υλικό - Σκαρίφημα",
+      "file_url": "https://silia.eett.gr/silia/download/95fc5e0d-c29d-4105-b13c-47b59908e6e0"
+    },
+    {
+      "document_number": "464594/25-07-2022",
+      "protocol_number": "Φωτογραφία θέσης EKKXO απο Google Earth/",
+      "type": "Φωτογραφικό Υλικό - Σκαρίφημα",
+      "file_url": "https://silia.eett.gr/silia/download/04a7fc51-2907-4eb8-bfb9-598358b28795"
+    },
+    {
+      "document_number": "464595/25-07-2022",
+      "protocol_number": "Μελέτη συμβατότητας 2700 MHz - Vodafone/21-07-2022",
+      "type": "Μελέτη για τη ζώνη  2,6GHz",
+      "file_url": "https://silia.eett.gr/silia/download/37c9af63-cf6e-420e-a72d-1e24b5a2a621"
+    },
+    {
+      "document_number": "464596/25-07-2022",
+      "protocol_number": "77863/21-07-2022",
+      "type": "Αποτελέσματα μελέτης στη ζώνης 2.6GHz για ΥΠΑ/ΓΕΕΘΑ",
+      "file_url": "https://silia.eett.gr/silia/download/d72f726b-90d7-49b4-9c57-8ea23f7baae2"
+    },
+    {
+      "document_number": "464607/25-07-2022",
+      "protocol_number": "Αρχείο Αίτησης/",
+      "type": "Δήλωση ΕΚΚΧΟ",
+      "file_url": "https://silia.eett.gr/silia/download/37398b58-088c-4e55-9ab2-e2742ec8d21b"
+    }
+  ]
+}

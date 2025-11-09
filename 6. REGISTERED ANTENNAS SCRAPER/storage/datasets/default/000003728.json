@@ -1,0 +1,39 @@
+{
+  "antenna_id": "166185",
+  "address": "ΚΑΛΟΡΡΟΥΜΑ 0 - ΧΑΝΙΩΝ",
+  "position_code": 1497827,
+  "municipality": "Χανίων",
+  "code_name": "FINOBETON_CHANIA",
+  "region": "Κρήτης",
+  "latitude": 35.551667,
+  "company": "OTE",
+  "longitude": 24.149722,
+  "permit_status": "Από τα στοιχεία που τηρούνται στην Ενημερωτική Πύλη προκύπτει ότι, για τη θέση \"ΚΑΛΟΡΡΟΥΜΑ 0 - ΧΑΝΙΩΝ\" στον Δήμο Χανίων Περιφέρειας  Κρήτης \n\t(κωδικός αριθμός θέσης 1497827, κωδική ονομασία \"FINOBETON_CHANIA\") έχει κατατεθεί από την εταιρία OTE\tδήλωση εγκατάστασης κατασκευής κεραίας (αριθ. πρωτ. \n\t50320/21-12-2022) που εμπίπτει στις διατάξεις της νομοθεσίας για Εγκαταστάσεις Κατασκευών Κεραιών Χαμηλής Ηλεκτρομαγνητικής Περιβαλλοντικής Όχλησης (ΕΚΚΧΟ).",
+  "measurements_eaee": "-",
+  "documents": [
+    {
+      "document_number": "472399/14-11-2022",
+      "protocol_number": "ΦΩΤΟΓΡΑΦΙΑ/",
+      "type": "Φωτογραφικό Υλικό - Σκαρίφημα",
+      "file_url": "https://silia.eett.gr/silia/download/16086d2a-ed53-4744-9f74-711fc4aae151"
+    },
+    {
+      "document_number": "472400/14-11-2022",
+      "protocol_number": "ΦΩΤΟΓΡΑΦΙΑ/",
+      "type": "Φωτογραφικό Υλικό - Σκαρίφημα",
+      "file_url": "https://silia.eett.gr/silia/download/9772af07-eaae-44d4-af63-c339cb75e370"
+    },
+    {
+      "document_number": "475348/21-12-2022",
+      "protocol_number": "ΜΕΛΕΤΗ ΡΑΔΙΟΕΚΠΟΜΠΩΝ/21-12-2022",
+      "type": "Άλλο",
+      "file_url": "https://silia.eett.gr/silia/download/085bf88f-e5e8-4c46-ac28-e963246a5191"
+    },
+    {
+      "document_number": "475349/21-12-2022",
+      "protocol_number": "Αρχείο Αίτησης/",
+      "type": "Δήλωση ΕΚΚΧΟ",
+      "file_url": "https://silia.eett.gr/silia/download/e3568204-00c6-4cf7-a6d9-64f68f36806d"
+    }
+  ]
+}

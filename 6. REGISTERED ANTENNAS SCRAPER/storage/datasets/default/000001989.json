@@ -1,0 +1,45 @@
+{
+  "antenna_id": "171698",
+  "address": "ΕΠΙ ΔΗΜΟΤΙΚΗΣ ΟΔΟΥ, ΟΙΚΙΣΜΟΣ ΒΛΑΧΟΜΑΝΔΡΑ",
+  "position_code": 20228,
+  "municipality": "Ναυπακτίας",
+  "code_name": "ΒΛΑΧΟΜΑΝΔΡΑ Τ/Σ",
+  "region": "Δυτικής Ελλάδας",
+  "latitude": 38.4425,
+  "company": "OTE",
+  "longitude": 21.708333,
+  "permit_status": "Από τα στοιχεία που τηρούνται στην Ενημερωτική Πύλη προκύπτει ότι, για τη θέση \"ΕΠΙ ΔΗΜΟΤΙΚΗΣ ΟΔΟΥ, ΟΙΚΙΣΜΟΣ ΒΛΑΧΟΜΑΝΔΡΑ\" στον Δήμο Ναυπακτίας Περιφέρειας  Δυτικής Ελλάδας \n\t(κωδικός αριθμός θέσης 0020228, κωδική ονομασία \"ΒΛΑΧΟΜΑΝΔΡΑ Τ/Σ\") έχει κατατεθεί από την εταιρία OTE\tδήλωση εγκατάστασης κατασκευής κεραίας (αριθ. πρωτ. \n\t54888/22-02-2024) που εμπίπτει στις διατάξεις της νομοθεσίας για Εγκαταστάσεις Κατασκευών Κεραιών Χαμηλής Ηλεκτρομαγνητικής Περιβαλλοντικής Όχλησης (ΕΚΚΧΟ).",
+  "measurements_eaee": "-",
+  "documents": [
+    {
+      "document_number": "504614/12-01-2024",
+      "protocol_number": "Χαρτης/",
+      "type": "Φωτογραφικό Υλικό - Σκαρίφημα",
+      "file_url": "https://silia.eett.gr/silia/download/d68dca1f-9da7-412d-a599-e04e611b51d8"
+    },
+    {
+      "document_number": "504615/12-01-2024",
+      "protocol_number": "Φωτογραφία/",
+      "type": "Φωτογραφικό Υλικό - Σκαρίφημα",
+      "file_url": "https://silia.eett.gr/silia/download/29634832-8ba2-4c69-9076-418997e7801d"
+    },
+    {
+      "document_number": "508074/21-02-2024",
+      "protocol_number": "ΜΕΣΩ ΣΗΛΥΑ/",
+      "type": "Αίτηση - Μελέτη Ραδιοεκπομπών ΕΕΑΕ",
+      "file_url": "https://silia.eett.gr/silia/download/c440579e-f005-4c5f-ae42-060d6c29188f"
+    },
+    {
+      "document_number": "508261/22-02-2024",
+      "protocol_number": "Αρχείο Αίτησης/",
+      "type": "Δήλωση ΕΚΚΧΟ",
+      "file_url": "https://silia.eett.gr/silia/download/085695ac-1e87-47d3-8e8d-09610e7332cd"
+    },
+    {
+      "document_number": "527350/01-10-2024",
+      "protocol_number": "ΥΠ.ΔΗΛΩΣΗ/01-10-2024",
+      "type": "Άλλο",
+      "file_url": "https://silia.eett.gr/silia/download/xBwuR8q1LgsT7m23xI0ZPGrIIHDxon8lbhmz"
+    }
+  ]
+}

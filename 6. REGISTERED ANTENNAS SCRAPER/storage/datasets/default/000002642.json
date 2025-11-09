@@ -1,0 +1,63 @@
+{
+  "antenna_id": "142591",
+  "address": "Νικόπολη Χρ. Καμενίδη 11",
+  "position_code": 8000981,
+  "municipality": "Παύλου Μελά",
+  "code_name": "ΝΙΚΟΠΟΛΗ",
+  "region": "Κεντρικής Μακεδονίας",
+  "latitude": 40.6875,
+  "company": "GREEKSTREAM NETWORKS",
+  "longitude": 22.932778,
+  "permit_status": "Από τα στοιχεία που τηρούνται στην Ενημερωτική Πύλη προκύπτει ότι, για τη θέση \"Νικόπολη Χρ. Καμενίδη 11\" στον Δήμο Παύλου Μελά Περιφέρειας  Κεντρικής Μακεδονίας \n\t(κωδικός αριθμός θέσης 8000981, κωδική ονομασία \"ΝΙΚΟΠΟΛΗ\") έχει κατατεθεί από την εταιρία GREEKSTREAM NETWORKS\tδήλωση εγκατάστασης κατασκευής κεραίας (αριθ. πρωτ. \n\t33080/30-05-2019) που εμπίπτει στις διατάξεις της νομοθεσίας για Εγκαταστάσεις Κατασκευών Κεραιών Χαμηλής Ηλεκτρομαγνητικής Περιβαλλοντικής Όχλησης (ΕΚΚΧΟ).",
+  "measurements_eaee": "-",
+  "documents": [
+    {
+      "document_number": "366800/30-05-2019",
+      "protocol_number": "Σχέδιο κάτοψης ΕΚΚΧΟ/30-05-2019",
+      "type": "Φωτογραφικό Υλικό - Σκαρίφημα",
+      "file_url": "https://silia.eett.gr/silia/download/b3e064b9-6bf0-4ba5-8e80-ce8bbbbf080d"
+    },
+    {
+      "document_number": "366801/30-05-2019",
+      "protocol_number": "Σχέδιο όψης ΕΚΚΧΟ/30-05-2019",
+      "type": "Φωτογραφικό Υλικό - Σκαρίφημα",
+      "file_url": "https://silia.eett.gr/silia/download/41a03398-19d9-45a1-ac4b-153b04da0b06"
+    },
+    {
+      "document_number": "366802/30-05-2019",
+      "protocol_number": "Σχέδιο κάτοψης κεραιών/30-05-2019",
+      "type": "Φωτογραφικό Υλικό - Σκαρίφημα",
+      "file_url": "https://silia.eett.gr/silia/download/3ef27472-2606-477a-8f6d-cea953635707"
+    },
+    {
+      "document_number": "366803/30-05-2019",
+      "protocol_number": "Σχέδιο κάτοψης χώρου προστασίας/30-05-2019",
+      "type": "Φωτογραφικό Υλικό - Σκαρίφημα",
+      "file_url": "https://silia.eett.gr/silia/download/5de2c51f-d4d1-477c-b90c-0461723cfd97"
+    },
+    {
+      "document_number": "366804/30-05-2019",
+      "protocol_number": "Σχέδιο όψης χώρου προστασίας/30-05-2019",
+      "type": "Φωτογραφικό Υλικό - Σκαρίφημα",
+      "file_url": "https://silia.eett.gr/silia/download/dd6d8405-1701-4d4a-92d4-4158b450a3f7"
+    },
+    {
+      "document_number": "366805/30-05-2019",
+      "protocol_number": "Αρχείο Αίτησης/",
+      "type": "Δήλωση ΕΚΚΧΟ",
+      "file_url": "https://silia.eett.gr/silia/download/b68e829d-711b-4cdb-94ae-07a8ceb70180"
+    },
+    {
+      "document_number": "374468/08-09-2019",
+      "protocol_number": "Σχέδιο όψης ΕΚΚΧΟ/08-09-2019",
+      "type": "Φωτογραφικό Υλικό - Σκαρίφημα",
+      "file_url": "https://silia.eett.gr/silia/download/a6ef8794-38cd-4520-a95f-ff5c2702483b"
+    },
+    {
+      "document_number": "374469/08-09-2019",
+      "protocol_number": "Σχέδιο κάτοψης ΕΚΚΧΟ και περίγραμμα ορόφου/08-09-2019",
+      "type": "Φωτογραφικό Υλικό - Σκαρίφημα",
+      "file_url": "https://silia.eett.gr/silia/download/cf1feba4-6aa4-47d0-847a-1bd37dde2669"
+    }
+  ]
+}

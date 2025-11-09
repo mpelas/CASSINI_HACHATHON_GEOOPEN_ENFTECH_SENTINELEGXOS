@@ -1,0 +1,45 @@
+{
+  "antenna_id": "160984",
+  "address": "ΠΑΡΟΔΟΣ 17ης ΝΟΕΜΒΡΙΟΥ 87,ΖΩΝΗ ΕΜΟ",
+  "position_code": 1208361,
+  "municipality": "Πυλαίας - Χορτιάτη",
+  "code_name": "Q EPSILON NET THESS",
+  "region": "Κεντρικής Μακεδονίας",
+  "latitude": 40.608333,
+  "company": "NOVA Μ.Α.Ε.",
+  "longitude": 22.998889,
+  "permit_status": "Από τα στοιχεία που τηρούνται στην Ενημερωτική Πύλη προκύπτει ότι, για τη θέση \"ΠΑΡΟΔΟΣ 17ης ΝΟΕΜΒΡΙΟΥ 87,ΖΩΝΗ ΕΜΟ\" στον Δήμο Πυλαίας - Χορτιάτη Περιφέρειας  Κεντρικής Μακεδονίας \n\t(κωδικός αριθμός θέσης 1208361, κωδική ονομασία \"Q EPSILON NET THESS\") έχει κατατεθεί από την εταιρία NOVA Μ.Α.Ε.\tδήλωση εγκατάστασης κατασκευής κεραίας (αριθ. πρωτ. \n\t45330/24-10-2021) που εμπίπτει στις διατάξεις της νομοθεσίας για Εγκαταστάσεις Κατασκευών Κεραιών Χαμηλής Ηλεκτρομαγνητικής Περιβαλλοντικής Όχλησης (ΕΚΚΧΟ).",
+  "measurements_eaee": "-",
+  "documents": [
+    {
+      "document_number": "444829/24-10-2021",
+      "protocol_number": "ΣΚΑΡΙΦΗΜΑ ΕΚΚΧΟ/",
+      "type": "Φωτογραφικό Υλικό - Σκαρίφημα",
+      "file_url": "https://silia.eett.gr/silia/download/250606d6-82b2-487f-b9ea-8e6d709219f9"
+    },
+    {
+      "document_number": "444833/24-10-2021",
+      "protocol_number": "Αρχείο Αίτησης/",
+      "type": "Δήλωση ΕΚΚΧΟ",
+      "file_url": "https://silia.eett.gr/silia/download/5be872ec-278f-49f8-bd84-bc9b7283e31f"
+    },
+    {
+      "document_number": "446242/18-11-2021",
+      "protocol_number": "ΦΩΤΟΓΡΑΦΙΑ ΕΚΚΧΟ/",
+      "type": "Φωτογραφικό Υλικό - Σκαρίφημα",
+      "file_url": "https://silia.eett.gr/silia/download/40367605-49ca-4a87-871a-3feead0868bb"
+    },
+    {
+      "document_number": "446243/18-11-2021",
+      "protocol_number": "ΦΩΤΟΓΡΑΦΙΑ GOOGLE EARTH/",
+      "type": "Άλλο",
+      "file_url": "https://silia.eett.gr/silia/download/7574482e-5c83-448e-9881-29400ef77898"
+    },
+    {
+      "document_number": "460543/31-05-2022",
+      "protocol_number": "ΥΠΕΥΘΥΝΗ ΔΗΛΩΣΗ ΤΕΧΝΙΚΟΥ ΥΠΕΥΘΥΝΟΥ/",
+      "type": "Άλλο",
+      "file_url": "https://silia.eett.gr/silia/download/2bc480d6-bf92-47c7-992c-af0d68156ec2"
+    }
+  ]
+}

@@ -1,0 +1,99 @@
+{
+  "antenna_id": "172338",
+  "address": "ΠΑΝΟΡΜΟΣ, ΠΛΗΣΙΟΝ ΟΙΚΙΣΜΟΥ ΑΓ. ΒΑΣΙΛΕΙΟΥ",
+  "position_code": 1001495,
+  "municipality": "Πατρέων",
+  "code_name": "ΑΓΙΟΣ ΒΑΣΙΛΕΙΟΣ ΑΧΑΪΑΣ",
+  "region": "Δυτικής Ελλάδας",
+  "latitude": 38.311667,
+  "company": "VODAFONE",
+  "longitude": 21.829167,
+  "permit_status": "Από τα στοιχεία που τηρούνται στην Ενημερωτική Πύλη προκύπτει ότι, για τη θέση \"ΠΑΝΟΡΜΟΣ, ΠΛΗΣΙΟΝ ΟΙΚΙΣΜΟΥ ΑΓ. ΒΑΣΙΛΕΙΟΥ\" στον Δήμο Πατρέων Περιφέρειας  Δυτικής Ελλάδας \n\t(κωδικός αριθμός θέσης 1001495, κωδική ονομασία \"ΑΓΙΟΣ ΒΑΣΙΛΕΙΟΣ ΑΧΑΪΑΣ\") χορηγήθηκε, με την Απόφαση της ΕΕΤΤ \n50892/02-05-2024, άδεια κατασκευής κεραίας στην εταιρία VODAFONE. \nΑπό τo έγγραφο της άδειας μπορείτε να ενημερωθείτε για τις σχετικές εγκρίσεις των συναρμόδιων φορέων, καθώς και εάν πρόκειται για τροποποίηση παλαιότερης άδειας.\n\tΣύμφωνα με τα στοιχεία που έχουν υποβληθεί στο ΣΗΛΥΑ, ο κάτοχος της κατασκευής κεραίας έχει δηλώσει ότι θα προβεί σε έκδοση έγκρισης δομικών κατασκευών \n\t\tκεραίας μέσω του e-Άδειες \n\t\tμετά την έκδοση της άδειας κατασκευής κεραίας / δημοσιοποίηση της δήλωσης τροποποίησης της κατασκευής κεραίας",
+  "measurements_eaee": "-",
+  "documents": [
+    {
+      "document_number": "508546/26-02-2024",
+      "protocol_number": "ΤΟΠΟΓΡΑΦΙΚΟ ΔΙΑΓΡΑΜΜΑ/",
+      "type": "Τοπογραφικό",
+      "file_url": "https://silia.eett.gr/silia/download/5233969b-4d24-40fd-85f4-bcf3787c31fe"
+    },
+    {
+      "document_number": "508547/26-02-2024",
+      "protocol_number": "ΑΡΧΙΤΕΚΤΟΝΙΚΑ ΣΧΕΔΙΑ/",
+      "type": "Αρχιτεκτονικά Σχέδια",
+      "file_url": "https://silia.eett.gr/silia/download/0eb995a3-fd9e-4c5d-9b4c-7dd63e6a9db1"
+    },
+    {
+      "document_number": "508548/26-02-2024",
+      "protocol_number": "ΜΕΛΕΤΗ ΡΑΔΙΟΕΚΠΟΜΠΩΝ/22-02-2024",
+      "type": "Αίτηση - Μελέτη Ραδιοεκπομπών ΕΕΑΕ",
+      "file_url": "https://silia.eett.gr/silia/download/e8beed30-056e-4754-9de2-874e003c6802"
+    },
+    {
+      "document_number": "508549/26-02-2024",
+      "protocol_number": "ΧΑΡΤΗΣ ΥΠΑ/",
+      "type": "Απόσπασμα Χάρτη ΓΥΣ 1:50.000",
+      "file_url": "https://silia.eett.gr/silia/download/310af4a9-7e3e-4a8c-b340-db9644d8306c"
+    },
+    {
+      "document_number": "508550/26-02-2024",
+      "protocol_number": "ΥΠΕΥΘΥΝΗ ΔΗΛΩΣΗ ΔΙΑΣΥΝΔΕΣΗΣ NOVA/16-02-2024",
+      "type": "Άλλο",
+      "file_url": "https://silia.eett.gr/silia/download/7c281623-7f17-41e0-a3f2-f5c1ea4adcc5"
+    },
+    {
+      "document_number": "508551/26-02-2024",
+      "protocol_number": "ΥΠΕΥΘΥΝΗ ΔΗΛΩΣΗ ΟΡΘΟΤΗΤΑΣ NOVA/16-02-2024",
+      "type": "Άλλο",
+      "file_url": "https://silia.eett.gr/silia/download/27706390-fb42-4f84-a63d-2e949e3a850f"
+    },
+    {
+      "document_number": "508689/27-02-2024",
+      "protocol_number": "Αρχείο Αίτησης/",
+      "type": "Αίτηση Άδειας Κατασκευής Κεραίας ΕΕΤΤ",
+      "file_url": "https://silia.eett.gr/silia/download/8ca84fe9-ad59-4866-af30-be88dd611edb"
+    },
+    {
+      "document_number": "509342/05-03-2024",
+      "protocol_number": "TMIA/411/3639/2024/05-03-2024",
+      "type": "Γνωμάτευση ΕΕΑΕ",
+      "file_url": "https://silia.eett.gr/silia/download/lowlGZ77NgaLDzYiVzEZyVcHpHQLLrn6rAgG"
+    },
+    {
+      "document_number": "510036/13-03-2024",
+      "protocol_number": "ΚΓ/Δ3/Δ/5202/13-03-2024",
+      "type": "Γνωμάτευση ΥΠΑ",
+      "file_url": "https://silia.eett.gr/silia/download/VpZfERTqpz27S0El5uGzoW3op6aiNoVGH0g8"
+    },
+    {
+      "document_number": "510527/19-03-2024",
+      "protocol_number": "0137073/15-03-2024",
+      "type": "Αίτηση Ραδιοσυχνοτήτων",
+      "file_url": "https://silia.eett.gr/silia/download/5QRnLp1Pu66XzZvni7GUhs9OGNHEzwk6WG5s"
+    },
+    {
+      "document_number": "514705/10-05-2024",
+      "protocol_number": "50892/02-05-2024",
+      "type": "Άδεια Κατασκευής  Κεραίας",
+      "file_url": "https://silia.eett.gr/silia/download/3EEoe45Gvd5GhArc2IAV8abpEl0tiSVwVzHy"
+    },
+    {
+      "document_number": "510535/19-03-2024",
+      "protocol_number": "ΜΕΛΕΤΗ ΡΑΔΙΟΕΚΠΟΜΠΩΝ/22-02-2024",
+      "type": "Αίτηση - Μελέτη Ραδιοεκπομπών ΕΕΑΕ",
+      "file_url": "https://silia.eett.gr/silia/download/e8beed30-056e-4754-9de2-874e003c6802"
+    },
+    {
+      "document_number": "510536/19-03-2024",
+      "protocol_number": "ΣΥΝΟΔΕΥΤΙΚΑ ΕΓΓΡΑΦΑ ΠΠΔ/19-03-2024",
+      "type": "Δήλωση υπαγωγής σε ΠΠΔ και Συνοδευτικά Έγγραφα",
+      "file_url": "https://silia.eett.gr/silia/download/rGhLMIpyEte8wcCrNrVYY5FYVZ5Kx9paxSwb"
+    },
+    {
+      "document_number": "510537/19-03-2024",
+      "protocol_number": "Αρχείο Αίτησης/19-03-2024",
+      "type": "Δήλωση ΠΠΔ",
+      "file_url": "https://silia.eett.gr/silia/download/uLAzfNoQGp2IhFV9NICRbhtCUtzLy5kAAgpR"
+    }
+  ]
+}

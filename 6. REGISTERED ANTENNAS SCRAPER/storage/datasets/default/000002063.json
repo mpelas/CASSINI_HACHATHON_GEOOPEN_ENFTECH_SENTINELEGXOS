@@ -1,0 +1,201 @@
+{
+  "antenna_id": "102893",
+  "address": "ΒΕΛΔΕΜΙΡΗ & ΣΑΡΑΦΗ",
+  "position_code": 2404603,
+  "municipality": "Νεάπολης - Συκεών",
+  "code_name": "ΑΝΩ ΠΟΛΗ",
+  "region": "Κεντρικής Μακεδονίας",
+  "latitude": 40.646389,
+  "company": "CONNECTICORE",
+  "longitude": 22.948056,
+  "permit_status": "Από τα στοιχεία που τηρούνται στην Ενημερωτική Πύλη προκύπτει ότι, για τη θέση \"ΒΕΛΔΕΜΙΡΗ & ΣΑΡΑΦΗ\" στον Δήμο Νεάπολης - Συκεών Περιφέρειας  Κεντρικής Μακεδονίας \n\t(κωδικός αριθμός θέσης 2404603, κωδική ονομασία \"ΑΝΩ ΠΟΛΗ\") χορηγήθηκε, με την Απόφαση της ΕΕΤΤ \n19522/Φ610/22-03-2016, άδεια κατασκευής κεραίας στην εταιρία CONNECTICORE. \nΑπό τo έγγραφο της άδειας μπορείτε να ενημερωθείτε για τις σχετικές εγκρίσεις των συναρμόδιων φορέων, καθώς και εάν πρόκειται για τροποποίηση παλαιότερης άδειας.\nΗ άδεια χορηγήθηκε, κατόπιν της με Αριθ. Πρωτ. 7372/21-03-2014 αίτησης, \n\tμε τη διαδικασία αδειοδότησης της παρ. 17 του άρθρου 30 του Ν.4070/2012 που πλέον έχει αντικατασταθεί από τη διαδικασία που ορίζει ο ν. 4635/2019.",
+  "measurements_eaee": "-",
+  "documents": [
+    {
+      "document_number": "136963/21-03-2014",
+      "protocol_number": "Υποβολή φακέλου στην Δ/νση πολεοδομίας του Δήμου Θεσσαλονίκης με αρ. πρωτ.8171/13-3-2014/13-03-2014",
+      "type": "Αίτηση προς Αρμόδιο Φορέα",
+      "file_url": "https://silia.eett.gr/silia/download/1e4fb9c2-3f84-4dca-ac69-bd7cb7326e2f"
+    },
+    {
+      "document_number": "137080/20-03-2014",
+      "protocol_number": "Διοικητικό τέλος ΕΕΤΤ για ΑΝΩ ΠΟΛΗ/14-03-2014",
+      "type": "Αποδεικτικό Καταβολής Τελών ΕΕΤΤ",
+      "file_url": "https://silia.eett.gr/silia/download/9651b0fc-4aea-4bb6-83b7-1ad17a9f6308"
+    },
+    {
+      "document_number": "137082/20-03-2014",
+      "protocol_number": "ΤΟΠΟΓΡΑΦΙΚΟ ΟΨΗ ΚΑΤΟΨΗ/20-03-2014",
+      "type": "Αρχιτεκτονικά Σχέδια",
+      "file_url": "https://silia.eett.gr/silia/download/57abe792-572f-4f69-aa4d-69e8f55a5a1e"
+    },
+    {
+      "document_number": "137102/20-03-2014",
+      "protocol_number": "αρ. πρωτ. εφορείας Νεωτέρων Μνημείων 3741/26-11-2013/26-11-2013",
+      "type": "Αίτηση προς Αρμόδιο Φορέα",
+      "file_url": "https://silia.eett.gr/silia/download/7aa25045-911c-4154-89f8-f200ca5c0c54"
+    },
+    {
+      "document_number": "137103/20-03-2014",
+      "protocol_number": "αρ. πρωτ. ΙΣΤ ΕΠΚΑ 12172/26-11-2013/26-11-2013",
+      "type": "Αίτηση προς Αρμόδιο Φορέα",
+      "file_url": "https://silia.eett.gr/silia/download/a9d1e4ce-99e4-4d08-b5f4-8fca294d4b82"
+    },
+    {
+      "document_number": "137104/20-03-2014",
+      "protocol_number": "αρ. πρωτ. 9ης ΕΒΑ  6319/26-11-2013/26-11-2013",
+      "type": "Αίτηση προς Αρμόδιο Φορέα",
+      "file_url": "https://silia.eett.gr/silia/download/6254fed8-d3fa-4e7e-b36d-d5631e5f15e4"
+    },
+    {
+      "document_number": "137113/20-03-2014",
+      "protocol_number": "αρ. πρωτ. ΙΣΤ ΕΠΚΑ 12172/2-12-2013/02-12-2013",
+      "type": "Έγκριση Αρμοδίου Φορέα",
+      "file_url": "https://silia.eett.gr/silia/download/358be674-5b3f-462b-a9cf-bad3bbca02b2"
+    },
+    {
+      "document_number": "137114/20-03-2014",
+      "protocol_number": "αρ. πρωτ. εφορείας Νεωτέρων Μνημείων 3741/4-12-2013/04-12-2013",
+      "type": "Έγκριση Αρμοδίου Φορέα",
+      "file_url": "https://silia.eett.gr/silia/download/68b34f79-7a81-4fb9-80ae-e23aeb6cbc36"
+    },
+    {
+      "document_number": "137118/20-03-2014",
+      "protocol_number": "αρ. πρωτ. 9ης ΕΒΑ  6319/9-12-2013/09-12-2013",
+      "type": "Έγκριση Αρμοδίου Φορέα",
+      "file_url": "https://silia.eett.gr/silia/download/ef774a31-25b7-42ec-b533-5723fe869d1c"
+    },
+    {
+      "document_number": "137119/20-03-2014",
+      "protocol_number": "Αίτηση προς Υπηρεσία Πολιτικής Αεροπορίας (μέσω ΣΗΛΥΑ)/19-03-2014",
+      "type": "Αίτηση ΥΠΑ",
+      "file_url": "https://silia.eett.gr/silia/download/dd971fce-4f01-4976-8dec-e1f90cc0c221"
+    },
+    {
+      "document_number": "137166/21-03-2014",
+      "protocol_number": "Υποβολή μελέτης ραδιοεκπομπών (ΗΜ) σε ΕΕΑΕ προς έγκριση (μέσω ΣΗΛΥΑ)/09-01-2014",
+      "type": "Αίτηση - Μελέτη Ραδιοεκπομπών ΕΕΑΕ",
+      "file_url": "https://silia.eett.gr/silia/download/ccb9a599-359d-4dd1-9c8a-77772040ae7e"
+    },
+    {
+      "document_number": "137224/21-03-2014",
+      "protocol_number": "Δήλωση υπαγωγής σε ΠΠΔ και Συνοδευτικά Έγγραφα uploaded μέσω ΣΗΛΥΑ/21-03-2014",
+      "type": "Δήλωση υπαγωγής σε ΠΠΔ και Συνοδευτικά Έγγραφα",
+      "file_url": "https://silia.eett.gr/silia/download/7ef84f02-9764-4230-b37c-d86a2093bfb3"
+    },
+    {
+      "document_number": "137299/21-03-2014",
+      "protocol_number": "Αρχείο Αίτησης/",
+      "type": "Αίτηση Άδειας Κατασκευής Κεραίας ΕΕΤΤ",
+      "file_url": "https://silia.eett.gr/silia/download/61edc654-3abe-4b11-acf2-fd92214b4b07"
+    },
+    {
+      "document_number": "171422/16-04-2014",
+      "protocol_number": "Δ3/Δ/10825/2838/11-4-2014/16-04-2014",
+      "type": "Γνωμάτευση ΥΠΑ",
+      "file_url": "https://silia.eett.gr/silia/download/2c1924c5-1ed5-412b-8658-213910007592"
+    },
+    {
+      "document_number": "185032/24-09-2014",
+      "protocol_number": "ΚΑΤΟΨΗ,ΟΨΗ,ΤΟΠΟΓΡΑΦΙΚΟ ΑΝΩ ΠΟΛΗ ΣΕ ΜΟΡΦΗ AUTOCAD/24-09-2014",
+      "type": "Αρχιτεκτονικά Σχέδια",
+      "file_url": "https://silia.eett.gr/silia/download/2763b22b-3759-4dbe-8a6e-71b86ffd445f"
+    },
+    {
+      "document_number": "185719/03-10-2014",
+      "protocol_number": "Υποβολή τροποποιημένης μελέτης ραδιοεκπομπών (ΗΜ) σε ΕΕΑΕ προς έγκριση (μέσω ΣΗΛΥΑ)/03-10-2014",
+      "type": "Άλλο",
+      "file_url": "https://silia.eett.gr/silia/download/12a41095-558d-4a8b-bd5d-57cd22b47ae6"
+    },
+    {
+      "document_number": "186712/15-10-2014",
+      "protocol_number": "Τροποποίηση Συνοδευτικών Εγγράφων δήλωσης υπαγωγής σε ΠΠΔ /13-10-2014",
+      "type": "Άλλο",
+      "file_url": "https://silia.eett.gr/silia/download/06c481d0-c1f4-434a-8560-605900829084"
+    },
+    {
+      "document_number": "192090/02-12-2014",
+      "protocol_number": "Μ.ι./411/1795/02-12-2014",
+      "type": "Γνωμάτευση ΕΕΑΕ",
+      "file_url": "https://silia.eett.gr/silia/download/576b12ae-f904-4476-b072-02d6f16a9984"
+    },
+    {
+      "document_number": "243907/18-12-2015",
+      "protocol_number": "Έγκριση Άδειας Κατασκευής Κεραίας Στ.Βάσης Σταθερής Ασύρματης Πρόσβασης/",
+      "type": "Έγκριση Αρμοδίου Φορέα",
+      "file_url": "https://silia.eett.gr/silia/download/e9ee21bf-afb2-419a-8fd4-0e1dcc9ee595"
+    },
+    {
+      "document_number": "243908/18-12-2015",
+      "protocol_number": "Αιτιολογική - Τεχνική Έκθεση/",
+      "type": "Συμπληρωματικά Έγγραφα",
+      "file_url": "https://silia.eett.gr/silia/download/6486a107-c98e-41ce-ab06-99d28939db7e"
+    },
+    {
+      "document_number": "243909/18-12-2015",
+      "protocol_number": "Κατασκευαστικές Λεπτομέριες Αρ.Σχ. Στ-2/",
+      "type": "Συμπληρωματικά Έγγραφα",
+      "file_url": "https://silia.eett.gr/silia/download/eda30fdd-bac8-4651-af9a-dbdfcaed9c45"
+    },
+    {
+      "document_number": "243910/18-12-2015",
+      "protocol_number": "Κάτοψη Κτηρίου Αρ.Σχ. Α-2/",
+      "type": "Συμπληρωματικά Έγγραφα",
+      "file_url": "https://silia.eett.gr/silia/download/6536d42f-694f-48c8-9e2d-0448406cd327"
+    },
+    {
+      "document_number": "243911/18-12-2015",
+      "protocol_number": "Στατικός Υπολογισμός/",
+      "type": "Συμπληρωματικά Έγγραφα",
+      "file_url": "https://silia.eett.gr/silia/download/16f64294-f25b-4361-8655-96c6b0bb5836"
+    },
+    {
+      "document_number": "243912/18-12-2015",
+      "protocol_number": "Σχηματική Τομή κτηρίου Αρ.Σχ. Α-3/",
+      "type": "Συμπληρωματικά Έγγραφα",
+      "file_url": "https://silia.eett.gr/silia/download/0b24cdae-2e1b-46f4-8991-e043f0036cc7"
+    },
+    {
+      "document_number": "243913/18-12-2015",
+      "protocol_number": "Τοπογραφικό Διάγραμμα Αρ.Σχ. Α-1/",
+      "type": "Συμπληρωματικά Έγγραφα",
+      "file_url": "https://silia.eett.gr/silia/download/c1456b72-2575-447b-958c-aa92dabd0a58"
+    },
+    {
+      "document_number": "252526/08-03-2016",
+      "protocol_number": "ΦΕΚ Αλλαγή επωνυμίας σε Connecticore/",
+      "type": "Συμπληρωματικά Έγγραφα",
+      "file_url": "https://silia.eett.gr/silia/download/25b90c1d-5e70-4822-971b-bfb3d792e259"
+    },
+    {
+      "document_number": "252527/08-03-2016",
+      "protocol_number": "Αίτηση Δ/νσης Δόμησης εσωτερικό διαβιβαστικό/",
+      "type": "Αίτηση προς Αρμόδιο Φορέα",
+      "file_url": "https://silia.eett.gr/silia/download/b85c469e-d641-4006-933a-d9ee8aaa3449"
+    },
+    {
+      "document_number": "252528/08-03-2016",
+      "protocol_number": "Υπεύθυνες Δηλώσεις Ιδιοκτητών/",
+      "type": "Άλλο",
+      "file_url": "https://silia.eett.gr/silia/download/c7ca4878-494b-4fb5-a84d-590ae709156b"
+    },
+    {
+      "document_number": "252529/08-03-2016",
+      "protocol_number": "Βεβαίωση ΕΕΑΕ  μετά από έλεγχο θεωρημένων αρχιτεκτονικών σχεδίων/",
+      "type": "Βεβαίωση ΕΕΑΕ περί Υποβολής Μελέτης Ραδιοεκπομπών",
+      "file_url": "https://silia.eett.gr/silia/download/b78bd82e-d614-4440-aac4-de8222c9e900"
+    },
+    {
+      "document_number": "254681/29-03-2016",
+      "protocol_number": "19522/Φ610/22-03-2016",
+      "type": "Άδεια Κατασκευής  Κεραίας",
+      "file_url": "https://silia.eett.gr/silia/download/9f670dec-c48b-4862-a4fa-f7919c78df5b"
+    },
+    {
+      "document_number": "266628/21-07-2016",
+      "protocol_number": "21012/Φ610/13-07-2016",
+      "type": "Άδεια Κατασκευής  Κεραίας",
+      "file_url": "https://silia.eett.gr/silia/download/4c679634-3f80-4612-beb4-6e18abbc6990"
+    }
+  ]
+}

@@ -1,0 +1,57 @@
+{
+  "antenna_id": "168332",
+  "address": "Θέση Ντρασαριά, Αναγεννήσεως, Ασπρόπυργος.",
+  "position_code": 1150487,
+  "municipality": "Ασπροπύργου",
+  "code_name": "3030487 ECOCASA ASPROPIRGOS",
+  "region": "Αττικής",
+  "latitude": 38.066667,
+  "company": "VODAFONE",
+  "longitude": 23.608611,
+  "permit_status": "Από τα στοιχεία που τηρούνται στην Ενημερωτική Πύλη προκύπτει ότι, για τη θέση \"Θέση Ντρασαριά, Αναγεννήσεως, Ασπρόπυργος.\" στον Δήμο Ασπροπύργου Περιφέρειας  Αττικής \n\t(κωδικός αριθμός θέσης 1150487, κωδική ονομασία \"3030487 ECOCASA ASPROPIRGOS\") έχει κατατεθεί από την εταιρία VODAFONE\tδήλωση εγκατάστασης κατασκευής κεραίας (αριθ. πρωτ. \n\t51599/10-05-2023) που εμπίπτει στις διατάξεις της νομοθεσίας για Εγκαταστάσεις Κατασκευών Κεραιών Χαμηλής Ηλεκτρομαγνητικής Περιβαλλοντικής Όχλησης (ΕΚΚΧΟ).",
+  "measurements_eaee": "-",
+  "documents": [
+    {
+      "document_number": "484425/10-05-2023",
+      "protocol_number": "Ψηφιακός Χάρτης με προβολή της θέσης ΕΚΚΧΟ/",
+      "type": "Φωτογραφικό Υλικό - Σκαρίφημα",
+      "file_url": "https://silia.eett.gr/silia/download/62209729-5a23-4add-9409-9fe36d203111"
+    },
+    {
+      "document_number": "484426/10-05-2023",
+      "protocol_number": "Φ.550/ΑΔ.5020/Σ.972/25-04-2023",
+      "type": "Έγκριση Αρμοδίου Φορέα",
+      "file_url": "https://silia.eett.gr/silia/download/191e9069-e93b-4ce7-8fba-ee5dc1e04b68"
+    },
+    {
+      "document_number": "484448/10-05-2023",
+      "protocol_number": "Φωτορεαλιστική απεικόνιση κεραιών ΕΚΚΧΟ/",
+      "type": "Φωτογραφικό Υλικό - Σκαρίφημα",
+      "file_url": "https://silia.eett.gr/silia/download/0a471923-f1d5-427a-a635-fa02c302338f"
+    },
+    {
+      "document_number": "484452/10-05-2023",
+      "protocol_number": "Αρχιτεκτονικά σχέδια ΕΚΚΧΟ/",
+      "type": "Αρχιτεκτονικά Σχέδια",
+      "file_url": "https://silia.eett.gr/silia/download/4bd7205f-a03e-4c3c-906c-18428028c2a3"
+    },
+    {
+      "document_number": "484453/10-05-2023",
+      "protocol_number": "Μελέτη ΕΚΚΧΟ/10-05-2023",
+      "type": "Άλλο",
+      "file_url": "https://silia.eett.gr/silia/download/7d759287-a963-4fff-820c-ac513e193a15"
+    },
+    {
+      "document_number": "484454/10-05-2023",
+      "protocol_number": "Αρχείο Αίτησης/",
+      "type": "Δήλωση ΕΚΚΧΟ",
+      "file_url": "https://silia.eett.gr/silia/download/879d9df4-33d1-4429-8809-61c99c91cf28"
+    },
+    {
+      "document_number": "487238/06-06-2023",
+      "protocol_number": "ΥΔ εγκατάστασης/06-06-2023",
+      "type": "Άλλο",
+      "file_url": "https://silia.eett.gr/silia/download/c4dc2508-96a8-43e8-b88f-af809a39411a"
+    }
+  ]
+}

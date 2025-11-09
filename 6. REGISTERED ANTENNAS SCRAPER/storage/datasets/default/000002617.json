@@ -1,0 +1,75 @@
+{
+  "antenna_id": "176671",
+  "address": "E.O.ΠΑΤΡΩΝ-ΚΛΑΟΥΣΑΡ.265&ΓΛΑΥΚΟΥ,ΘΕΣΗ ΛΙΑΛΙΟΥ",
+  "position_code": 1444024,
+  "municipality": "Πατρέων",
+  "code_name": "PERIVOLA",
+  "region": "Δυτικής Ελλάδας",
+  "latitude": 38.206667,
+  "company": "OTE",
+  "longitude": 21.764167,
+  "permit_status": "Από τα στοιχεία που τηρούνται στην Ενημερωτική Πύλη προκύπτει ότι, για τη θέση \"E.O.ΠΑΤΡΩΝ-ΚΛΑΟΥΣΑΡ.265&ΓΛΑΥΚΟΥ,ΘΕΣΗ ΛΙΑΛΙΟΥ\" στον Δήμο Πατρέων Περιφέρειας  Δυτικής Ελλάδας \n\t(κωδικός αριθμός θέσης 1444024, κωδική ονομασία \"PERIVOLA\") χορηγήθηκε, με την Απόφαση της ΕΕΤΤ \n52622/23-05-2025, άδεια κατασκευής κεραίας στην εταιρία OTE. \nΑπό τo έγγραφο της άδειας μπορείτε να ενημερωθείτε για τις σχετικές εγκρίσεις των συναρμόδιων φορέων, καθώς και εάν πρόκειται για τροποποίηση παλαιότερης άδειας.\n\tΣύμφωνα με τα στοιχεία που έχουν υποβληθεί στο ΣΗΛΥΑ, ο κάτοχος της κατασκευής κεραίας έχει δηλώσει ότι θα προβεί σε έκδοση έγκρισης δομικών κατασκευών \n\t\tκεραίας μέσω του e-Άδειες \n\t\tμετά την έκδοση της άδειας κατασκευής κεραίας / δημοσιοποίηση της δήλωσης τροποποίησης της κατασκευής κεραίας",
+  "measurements_eaee": "-",
+  "documents": [
+    {
+      "document_number": "534939/09-12-2024",
+      "protocol_number": "ΤΟΠΟΓΡΑΦΙΚΟ/09-12-2024",
+      "type": "Τοπογραφικό",
+      "file_url": "https://silia.eett.gr/silia/download/85ioz8vRDiWYqxIXAR5eYI5gF9GmgIzmNcvW"
+    },
+    {
+      "document_number": "534940/09-12-2024",
+      "protocol_number": "ΑΡΧΙΤΕΚΤΟΝΙΚΑ/09-12-2024",
+      "type": "Αρχιτεκτονικά Σχέδια",
+      "file_url": "https://silia.eett.gr/silia/download/bv4OndezF1lyfcfODzLwN19GFAacD1knIlZV"
+    },
+    {
+      "document_number": "534941/09-12-2024",
+      "protocol_number": "150917/03-12-2024",
+      "type": "Επιστολή Ενημέρωσης προς Αρμόδιο Φορέα",
+      "file_url": "https://silia.eett.gr/silia/download/w1fUxdwb8gW9sIprSXCYKl70iu84EpZ4onSy"
+    },
+    {
+      "document_number": "535066/10-12-2024",
+      "protocol_number": "ΜΕΛΕΤΗ Ρ/Ε/27-11-2024",
+      "type": "Αίτηση - Μελέτη Ραδιοεκπομπών ΕΕΑΕ",
+      "file_url": "https://silia.eett.gr/silia/download/0EuXRGWfxywhYsgncLBGgadUUVkypvZwnuQY"
+    },
+    {
+      "document_number": "535067/10-12-2024",
+      "protocol_number": "Αρχείο Αίτησης/10-12-2024",
+      "type": "Αίτηση Άδειας Κατασκευής Κεραίας ΕΕΤΤ",
+      "file_url": "https://silia.eett.gr/silia/download/8hepUGQAS97oqgy1I24N6h0IqklhSG0thfk0"
+    },
+    {
+      "document_number": "540166/06-02-2025",
+      "protocol_number": "ΚΓ/Δ3/Δ/2228/06-02-2025",
+      "type": "Γνωμάτευση ΥΠΑ",
+      "file_url": "https://silia.eett.gr/silia/download/xg6xGhTdXkWvhc1A0mpbnoIs8GGmElvttDuK"
+    },
+    {
+      "document_number": "545517/31-03-2025",
+      "protocol_number": "TMIA/411/4510/2025/31-03-2025",
+      "type": "Γνωμάτευση ΕΕΑΕ",
+      "file_url": "https://silia.eett.gr/silia/download/T4PXMDS7o1fzuUsOzuiPvVP5Lo0mqSXBplvz"
+    },
+    {
+      "document_number": "550589/27-05-2025",
+      "protocol_number": "52622/23-05-2025",
+      "type": "Άδεια Κατασκευής  Κεραίας",
+      "file_url": "https://silia.eett.gr/silia/download/Qdh6uzQUBU7hI5lAtglyrFXDX8RySPweNkQb"
+    },
+    {
+      "document_number": "534942/09-12-2024",
+      "protocol_number": "ΠΠΔ/09-12-2024",
+      "type": "Δήλωση υπαγωγής σε ΠΠΔ και Συνοδευτικά Έγγραφα",
+      "file_url": "https://silia.eett.gr/silia/download/GQnPB1ifNPGUPCTcVmTGImCFN8AIPWW27VuU"
+    },
+    {
+      "document_number": "535068/10-12-2024",
+      "protocol_number": "Αρχείο Αίτησης/10-12-2024",
+      "type": "Δήλωση ΠΠΔ",
+      "file_url": "https://silia.eett.gr/silia/download/pnantDvi72kCgXux6k3STGYbu2KPRbdpOZLg"
+    }
+  ]
+}

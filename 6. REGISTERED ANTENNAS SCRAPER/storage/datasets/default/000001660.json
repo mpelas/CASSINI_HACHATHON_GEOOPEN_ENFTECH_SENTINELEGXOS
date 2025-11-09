@@ -1,0 +1,93 @@
+{
+  "antenna_id": "179259",
+  "address": "ΘΕΣΗ ΜΕΡΚΑΤΙ, SUPER MARKET BAZAAR, ΑΡΓΑΣΙ",
+  "position_code": 1007449,
+  "municipality": "Ζακύνθου",
+  "code_name": "ΑΡΓΑΣΙ",
+  "region": "Ιονίων Νήσων",
+  "latitude": 37.764722,
+  "company": "VODAFONE",
+  "longitude": 20.923056,
+  "permit_status": "Από τα στοιχεία που τηρούνται στην Ενημερωτική Πύλη προκύπτει ότι, για τη θέση \"ΘΕΣΗ ΜΕΡΚΑΤΙ, SUPER MARKET BAZAAR, ΑΡΓΑΣΙ\" στον Δήμο Ζακύνθου Περιφέρειας  Ιονίων Νήσων \n\t(κωδικός αριθμός θέσης 1007449, κωδική ονομασία \"ΑΡΓΑΣΙ\") χορηγήθηκε, με την Απόφαση της ΕΕΤΤ \n52895/17-07-2025, άδεια κατασκευής κεραίας στην εταιρία VODAFONE. \nΑπό τo έγγραφο της άδειας μπορείτε να ενημερωθείτε για τις σχετικές εγκρίσεις των συναρμόδιων φορέων, καθώς και εάν πρόκειται για τροποποίηση παλαιότερης άδειας.\n\tΣύμφωνα με τα στοιχεία που έχουν υποβληθεί στο ΣΗΛΥΑ, ο κάτοχος της κατασκευής κεραίας έχει δηλώσει ότι θα προβεί σε έκδοση έγκρισης δομικών κατασκευών \n\t\tκεραίας μέσω του e-Άδειες \n\t\tμετά την έκδοση της άδειας κατασκευής κεραίας / δημοσιοποίηση της δήλωσης τροποποίησης της κατασκευής κεραίας",
+  "measurements_eaee": "-",
+  "documents": [
+    {
+      "document_number": "548043/30-04-2025",
+      "protocol_number": "ΤΟΠΟΓΡΑΦΙΚΟ/19-12-2024",
+      "type": "Τοπογραφικό",
+      "file_url": "https://silia.eett.gr/silia/download/gke7wofH0Z3f7f57nFnkpGWGgZCN5sSXiuCa"
+    },
+    {
+      "document_number": "548044/30-04-2025",
+      "protocol_number": "ΑΡΧΙΤΕΚΤΟΝΙΚΑ ΣΧΕΔΙΑ/19-12-2024",
+      "type": "Αρχιτεκτονικά Σχέδια",
+      "file_url": "https://silia.eett.gr/silia/download/bYk5WHhGhWSY5B72142xed1yiw0UAE3XmOwt"
+    },
+    {
+      "document_number": "548045/30-04-2025",
+      "protocol_number": "ΜΕΛΕΤΗ ΡΑΔΙΟΕΚΠΟΜΠΩΝ/29-04-2025",
+      "type": "Αίτηση - Μελέτη Ραδιοεκπομπών ΕΕΑΕ",
+      "file_url": "https://silia.eett.gr/silia/download/UMEmdg6FGukxs06D2xaDYEyA4Ai4qVC9Bwxl"
+    },
+    {
+      "document_number": "548046/30-04-2025",
+      "protocol_number": "0172346/29-04-2025",
+      "type": "Αίτηση Ραδιοσυχνοτήτων",
+      "file_url": "https://silia.eett.gr/silia/download/a50Cna1BmY0Ou7PgEcQ49v9PLN2sKuAhZWnW"
+    },
+    {
+      "document_number": "548047/30-04-2025",
+      "protocol_number": "ΥΠΕΥΘΥΝΗ ΔΗΛΩΣΗ ΟΡΘΟΤΗΤΑΣ NOVA/25-04-2025",
+      "type": "Άλλο",
+      "file_url": "https://silia.eett.gr/silia/download/ul0EAdB6gH0NiQPPb9UYTdM9nL9tWGXDg2Pq"
+    },
+    {
+      "document_number": "548048/30-04-2025",
+      "protocol_number": "ΥΠΕΥΘΥΝΗ ΔΗΛΩΣΗ ΔΙΑΣΥΝΔΕΣΗΣ NOVA/25-04-2025",
+      "type": "Άλλο",
+      "file_url": "https://silia.eett.gr/silia/download/oM8hHwUV0oGfmZWbM2gDQcf6ulIuBNbVd8AA"
+    },
+    {
+      "document_number": "548066/30-04-2025",
+      "protocol_number": "Αρχείο Αίτησης/30-04-2025",
+      "type": "Αίτηση Άδειας Κατασκευής Κεραίας ΕΕΤΤ",
+      "file_url": "https://silia.eett.gr/silia/download/v2oIiHDG8rpix09VtnItkKTM3ZI1VOiGvm1p"
+    },
+    {
+      "document_number": "549606/16-05-2025",
+      "protocol_number": "ΚΓ/Δ3/Δ/9333/16-05-2025",
+      "type": "Γνωμάτευση ΥΠΑ",
+      "file_url": "https://silia.eett.gr/silia/download/Po2Ou34PXHTNzw9GgUuPWTEssZKaMbdp1uKf"
+    },
+    {
+      "document_number": "553458/23-06-2025",
+      "protocol_number": "TMIA/411/8660/2025/23-06-2025",
+      "type": "Γνωμάτευση ΕΕΑΕ",
+      "file_url": "https://silia.eett.gr/silia/download/KGwofboHlrRQ6W2XioKOg3bgGc3dO4V4zMk0"
+    },
+    {
+      "document_number": "556064/21-07-2025",
+      "protocol_number": "52895/17-07-2025",
+      "type": "Άδεια Κατασκευής  Κεραίας",
+      "file_url": "https://silia.eett.gr/silia/download/aqnr0IFAyBvFvMhFYr8QDPyiM5X9gzWKGMcH"
+    },
+    {
+      "document_number": "553584/24-06-2025",
+      "protocol_number": "ΜΕΛΕΤΗ ΡΑΔΙΟΕΚΠΟΜΠΩΝ/29-04-2025",
+      "type": "Αίτηση - Μελέτη Ραδιοεκπομπών ΕΕΑΕ",
+      "file_url": "https://silia.eett.gr/silia/download/UMEmdg6FGukxs06D2xaDYEyA4Ai4qVC9Bwxl"
+    },
+    {
+      "document_number": "553585/24-06-2025",
+      "protocol_number": "ΣΥΝΟΔΕΥΤΙΚΑ ΕΓΓΡΑΦΑ ΠΠΔ/24-06-2025",
+      "type": "Δήλωση υπαγωγής σε ΠΠΔ και Συνοδευτικά Έγγραφα",
+      "file_url": "https://silia.eett.gr/silia/download/E24okGrCBUtdKCOhGEyET38gnWKtgABvYv1r"
+    },
+    {
+      "document_number": "553586/24-06-2025",
+      "protocol_number": "Αρχείο Αίτησης/24-06-2025",
+      "type": "Δήλωση ΠΠΔ",
+      "file_url": "https://silia.eett.gr/silia/download/KNvACqWhAtv3mQB8xu7GzCLoDRkddOtg7MVo"
+    }
+  ]
+}

@@ -1,0 +1,81 @@
+{
+  "antenna_id": "102919",
+  "address": "ΕΠΙ ΤΗΣ ΟΔΟΥ ΤΡΙΧΩΝΙΔΟΣ 2",
+  "position_code": 1401289,
+  "municipality": "Νεάπολης - Συκεών",
+  "code_name": "ΚΑΣΤΡΑ",
+  "region": "Κεντρικής Μακεδονίας",
+  "latitude": 40.643056,
+  "company": "OTE",
+  "longitude": 22.953889,
+  "permit_status": "Από τα στοιχεία που τηρούνται στην Ενημερωτική Πύλη προκύπτει ότι, για τη θέση \"ΕΠΙ ΤΗΣ ΟΔΟΥ ΤΡΙΧΩΝΙΔΟΣ 2\" στον Δήμο Νεάπολης - Συκεών Περιφέρειας  Κεντρικής Μακεδονίας \n\t(κωδικός αριθμός θέσης 1401289, κωδική ονομασία \"ΚΑΣΤΡΑ\") χορηγήθηκε, με την Απόφαση της ΕΕΤΤ \n14941/Φ610/23-01-2015, άδεια κατασκευής κεραίας στην εταιρία OTE. \nΑπό τo έγγραφο της άδειας μπορείτε να ενημερωθείτε για τις σχετικές εγκρίσεις των συναρμόδιων φορέων, καθώς και εάν πρόκειται για τροποποίηση παλαιότερης άδειας.\nΗ άδεια χορηγήθηκε, κατόπιν της με Αριθ. Πρωτ. 7961/17-06-2014 αίτησης, \n\tμε τη διαδικασία αδειοδότησης της παρ. 17 του άρθρου 30 του Ν.4070/2012 που πλέον έχει αντικατασταθεί από τη διαδικασία που ορίζει ο ν. 4635/2019.\n\tΣύμφωνα με τα στοιχεία που έχουν υποβληθεί στο ΣΗΛΥΑ για την κατασκευή κεραίας από τον κάτοχό της, έχει εκδοθεί έγκριση δομικών κατασκευών κεραίας",
+  "measurements_eaee": "-",
+  "documents": [
+    {
+      "document_number": "137135/21-03-2014",
+      "protocol_number": "ΜΕΣΩ ΣΗΛΥΑ/11-06-2014",
+      "type": "Αρχιτεκτονικά Σχέδια",
+      "file_url": "https://silia.eett.gr/silia/download/706e98af-00ac-4d55-87bd-046487ef5996"
+    },
+    {
+      "document_number": "137137/21-03-2014",
+      "protocol_number": "Δ3/Δ/34331/7760/11-09-2002",
+      "type": "Γνωμάτευση ΥΠΑ",
+      "file_url": "https://silia.eett.gr/silia/download/a4915165-63e1-4f26-8658-cd654039af0c"
+    },
+    {
+      "document_number": "137141/21-03-2014",
+      "protocol_number": "17291/13/17-09-2013",
+      "type": "Έγκριση δομικών κατασκευών (έντυπη)",
+      "file_url": "https://silia.eett.gr/silia/download/b566dc91-ca24-4e45-9e74-1fbb5e729c14"
+    },
+    {
+      "document_number": "137743/26-03-2014",
+      "protocol_number": "MEΣΩ ΣΗΛΥΑ/26-03-2014",
+      "type": "Αίτηση ΥΠΑ",
+      "file_url": "https://silia.eett.gr/silia/download/099d951b-2a16-4199-b0cd-ce403bf2d6c7"
+    },
+    {
+      "document_number": "176279/16-06-2014",
+      "protocol_number": "ΠΠΔ ΜΕΣΩ ΣΗΛΥΑ/16-06-2014",
+      "type": "Δήλωση υπαγωγής σε ΠΠΔ και Συνοδευτικά Έγγραφα",
+      "file_url": "https://silia.eett.gr/silia/download/d565fa4f-3056-4b4b-ad4c-23eb3305b4a6"
+    },
+    {
+      "document_number": "176280/16-06-2014",
+      "protocol_number": "ΜΕΣΩ ΣΗΛΥΑ/11-06-2014",
+      "type": "Αίτηση - Μελέτη Ραδιοεκπομπών ΕΕΑΕ",
+      "file_url": "https://silia.eett.gr/silia/download/22ba0ca5-204d-425e-a947-e12bbd3e8322"
+    },
+    {
+      "document_number": "176282/16-06-2014",
+      "protocol_number": "ΜΕΣΩ ΣΗΛΥΑ/11-06-2014",
+      "type": "Τοπογραφικό",
+      "file_url": "https://silia.eett.gr/silia/download/3d96a1df-1046-4f53-ad7f-d8ff5eae6ccc"
+    },
+    {
+      "document_number": "176390/17-06-2014",
+      "protocol_number": "Αρχείο Αίτησης/",
+      "type": "Αίτηση Άδειας Κατασκευής Κεραίας ΕΕΤΤ",
+      "file_url": "https://silia.eett.gr/silia/download/5229e5f9-c270-4472-8efd-cb0822c9ba3d"
+    },
+    {
+      "document_number": "187972/24-10-2014",
+      "protocol_number": "Mi/411/1485/24-10-2014",
+      "type": "Γνωμάτευση ΕΕΑΕ",
+      "file_url": "https://silia.eett.gr/silia/download/c2f02159-0f02-47a8-b4b4-9a9f66277d19"
+    },
+    {
+      "document_number": "195189/26-01-2015",
+      "protocol_number": "14941/Φ610/23-01-2015",
+      "type": "Άδεια Κατασκευής  Κεραίας",
+      "file_url": "https://silia.eett.gr/silia/download/33cff4a7-64e4-4856-8e98-50d7a84eb4a8"
+    },
+    {
+      "document_number": "137141/21-03-2014",
+      "protocol_number": "17291/13/17-09-2013",
+      "type": "Έγκριση δομικών κατασκευών (έντυπη)",
+      "file_url": "https://silia.eett.gr/silia/download/b566dc91-ca24-4e45-9e74-1fbb5e729c14"
+    }
+  ]
+}

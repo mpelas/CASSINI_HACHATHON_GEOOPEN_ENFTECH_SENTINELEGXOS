@@ -1,0 +1,39 @@
+{
+  "antenna_id": "168866",
+  "address": "ΚΟΙΛΑΔΑ  - ΚΡΑΝΙΔΙΟΥ - ΑΡΓΟΛΙΔΑΣ",
+  "position_code": 1496167,
+  "municipality": "Ναυπλιέων",
+  "code_name": "BOREIOS_ATLANTIKOS_KRANIDI",
+  "region": "Πελοποννήσου",
+  "latitude": 37.423889,
+  "company": "OTE",
+  "longitude": 23.118889,
+  "permit_status": "Από τα στοιχεία που τηρούνται στην Ενημερωτική Πύλη προκύπτει ότι, για τη θέση \"ΚΟΙΛΑΔΑ  - ΚΡΑΝΙΔΙΟΥ - ΑΡΓΟΛΙΔΑΣ\" στον Δήμο Ναυπλιέων Περιφέρειας  Πελοποννήσου \n\t(κωδικός αριθμός θέσης 1496167, κωδική ονομασία \"BOREIOS_ATLANTIKOS_KRANIDI\") έχει κατατεθεί από την εταιρία OTE\tδήλωση εγκατάστασης κατασκευής κεραίας (αριθ. πρωτ. \n\t52436/25-07-2023) που εμπίπτει στις διατάξεις της νομοθεσίας για Εγκαταστάσεις Κατασκευών Κεραιών Χαμηλής Ηλεκτρομαγνητικής Περιβαλλοντικής Όχλησης (ΕΚΚΧΟ).",
+  "measurements_eaee": "-",
+  "documents": [
+    {
+      "document_number": "487851/13-06-2023",
+      "protocol_number": "ΦΩΤΟΓΡΑΦΙΑ/",
+      "type": "Φωτογραφικό Υλικό - Σκαρίφημα",
+      "file_url": "https://silia.eett.gr/silia/download/9e4cbf63-7776-4d98-892d-eae5460e7edf"
+    },
+    {
+      "document_number": "487852/13-06-2023",
+      "protocol_number": "ΦΩΤΟΓΡΑΦΙΑ/",
+      "type": "Φωτογραφικό Υλικό - Σκαρίφημα",
+      "file_url": "https://silia.eett.gr/silia/download/60017f4d-4ee2-4c7a-82f7-be9c4edeed15"
+    },
+    {
+      "document_number": "491097/24-07-2023",
+      "protocol_number": "ΜΕΣΩ ΣΗΛΥΑ/",
+      "type": "Αίτηση - Μελέτη Ραδιοεκπομπών ΕΕΑΕ",
+      "file_url": "https://silia.eett.gr/silia/download/acbbfb27-591b-4bb6-8574-0f51e34fd986"
+    },
+    {
+      "document_number": "491205/25-07-2023",
+      "protocol_number": "Αρχείο Αίτησης/",
+      "type": "Δήλωση ΕΚΚΧΟ",
+      "file_url": "https://silia.eett.gr/silia/download/4f4c665d-0c6b-432f-89b7-cc0e02fba091"
+    }
+  ]
+}

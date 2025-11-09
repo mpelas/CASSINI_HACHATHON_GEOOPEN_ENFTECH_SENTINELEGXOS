@@ -1,0 +1,39 @@
+{
+  "antenna_id": "166980",
+  "address": "ΑΣΠΡΟΠΥΡΓΟΣ 0",
+  "position_code": 1497934,
+  "municipality": "Ασπροπύργου",
+  "code_name": "EPALTHEA_ASPR",
+  "region": "Αττικής",
+  "latitude": 38.070556,
+  "company": "OTE",
+  "longitude": 23.658333,
+  "permit_status": "Από τα στοιχεία που τηρούνται στην Ενημερωτική Πύλη προκύπτει ότι, για τη θέση \"ΑΣΠΡΟΠΥΡΓΟΣ 0\" στον Δήμο Ασπροπύργου Περιφέρειας  Αττικής \n\t(κωδικός αριθμός θέσης 1497934, κωδική ονομασία \"EPALTHEA_ASPR\") έχει κατατεθεί από την εταιρία OTE\tδήλωση εγκατάστασης κατασκευής κεραίας (αριθ. πρωτ. \n\t51194/31-03-2023) που εμπίπτει στις διατάξεις της νομοθεσίας για Εγκαταστάσεις Κατασκευών Κεραιών Χαμηλής Ηλεκτρομαγνητικής Περιβαλλοντικής Όχλησης (ΕΚΚΧΟ).",
+  "measurements_eaee": "-",
+  "documents": [
+    {
+      "document_number": "476919/27-01-2023",
+      "protocol_number": "ΦΩΤΟΓΡΑΦΙΑ/",
+      "type": "Φωτογραφικό Υλικό - Σκαρίφημα",
+      "file_url": "https://silia.eett.gr/silia/download/292f271d-7a2d-4d09-8a73-0797704fb03d"
+    },
+    {
+      "document_number": "481648/31-03-2023",
+      "protocol_number": "ΜΕΣΩ ΣΗΛΥΑ/",
+      "type": "Αίτηση - Μελέτη Ραδιοεκπομπών ΕΕΑΕ",
+      "file_url": "https://silia.eett.gr/silia/download/893779ee-9a53-4b3d-8fca-bafd21bab1a5"
+    },
+    {
+      "document_number": "481665/31-03-2023",
+      "protocol_number": "Αρχείο Αίτησης/",
+      "type": "Δήλωση ΕΚΚΧΟ",
+      "file_url": "https://silia.eett.gr/silia/download/038550d5-2c5a-4527-a305-31dd33b31d66"
+    },
+    {
+      "document_number": "526711/24-09-2024",
+      "protocol_number": "ΥΠ.ΔΗΛΩΣΗ/24-09-2024",
+      "type": "Άλλο",
+      "file_url": "https://silia.eett.gr/silia/download/9IPXDNQfWfUdMmuFgvrhczOvqe9YhgWKXBi9"
+    }
+  ]
+}

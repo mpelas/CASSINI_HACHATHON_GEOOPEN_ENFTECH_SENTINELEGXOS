@@ -1,0 +1,81 @@
+{
+  "antenna_id": "168401",
+  "address": "\"ΚΟΡΦΟΒΟΥΝΙ\", ΟΔΟΣ ΧΟΡΤΑΤΖΗ (ΤΕΡΜΑ), ΕΚΤΟΣ ΟΙΚΙΣΜΟΥ ΜΑΚΡΥΣ ΤΟΙΧΟΣ",
+  "position_code": 1444010,
+  "municipality": "Χανίων",
+  "code_name": "BATSAR",
+  "region": "Κρήτης",
+  "latitude": 35.504722,
+  "company": "OTE",
+  "longitude": 23.990278,
+  "permit_status": "Από τα στοιχεία που τηρούνται στην Ενημερωτική Πύλη προκύπτει ότι, για τη θέση \"\"ΚΟΡΦΟΒΟΥΝΙ\", ΟΔΟΣ ΧΟΡΤΑΤΖΗ (ΤΕΡΜΑ), ΕΚΤΟΣ ΟΙΚΙΣΜΟΥ ΜΑΚΡΥΣ ΤΟΙΧΟΣ\" στον Δήμο Χανίων Περιφέρειας  Κρήτης \n\t(κωδικός αριθμός θέσης 1444010, κωδική ονομασία \"BATSAR\") χορηγήθηκε, με την Απόφαση της ΕΕΤΤ \n48783/20-07-2023, άδεια κατασκευής κεραίας στην εταιρία OTE. \nΑπό τo έγγραφο της άδειας μπορείτε να ενημερωθείτε για τις σχετικές εγκρίσεις των συναρμόδιων φορέων, καθώς και εάν πρόκειται για τροποποίηση παλαιότερης άδειας.\n\tΣύμφωνα με τα στοιχεία που έχουν υποβληθεί στο ΣΗΛΥΑ, ο κάτοχος της κατασκευής κεραίας έχει δηλώσει ότι θα προβεί σε έκδοση έγκρισης δομικών κατασκευών \n\t\tκεραίας μέσω του e-Άδειες \n\t\tμετά την έκδοση της άδειας κατασκευής κεραίας / δημοσιοποίηση της δήλωσης τροποποίησης της κατασκευής κεραίας",
+  "measurements_eaee": "-",
+  "documents": [
+    {
+      "document_number": "484795/15-05-2023",
+      "protocol_number": "ΜΕΣΩ ΣΗΛΥΑ    /",
+      "type": "Τοπογραφικό",
+      "file_url": "https://silia.eett.gr/silia/download/7fb2129c-5a23-4c9c-a775-a31962f88751"
+    },
+    {
+      "document_number": "484796/15-05-2023",
+      "protocol_number": "ΜΕΣΩ ΣΗΛΥΑ    /",
+      "type": "Αρχιτεκτονικά Σχέδια",
+      "file_url": "https://silia.eett.gr/silia/download/bc24406e-7c8b-4cf5-8f85-07cbeb761813"
+    },
+    {
+      "document_number": "484797/15-05-2023",
+      "protocol_number": "ΜΕΣΩ ΣΗΛΥΑ    /21-04-2023",
+      "type": "Αίτηση - Μελέτη Ραδιοεκπομπών ΕΕΑΕ",
+      "file_url": "https://silia.eett.gr/silia/download/cd2fd92c-8b6c-4ea7-a27e-ffb6f39bd0d3"
+    },
+    {
+      "document_number": "485402/23-05-2023",
+      "protocol_number": "58180/23-05-2023",
+      "type": "Επιστολή Ενημέρωσης προς Αρμόδιο Φορέα",
+      "file_url": "https://silia.eett.gr/silia/download/0177a844-8f7a-4767-aa21-ac50bee99aa7"
+    },
+    {
+      "document_number": "485403/23-05-2023",
+      "protocol_number": "Αρχείο Αίτησης/",
+      "type": "Αίτηση Άδειας Κατασκευής Κεραίας ΕΕΤΤ",
+      "file_url": "https://silia.eett.gr/silia/download/851ee9f7-85ba-4483-81ff-1da53accc74c"
+    },
+    {
+      "document_number": "486951/01-06-2023",
+      "protocol_number": "ΚΓ/Δ3/Δ/11630/01-06-2023",
+      "type": "Γνωμάτευση ΥΠΑ",
+      "file_url": "https://silia.eett.gr/silia/download/955c9e83-f592-4ffd-ab3c-e55d6b15fddf"
+    },
+    {
+      "document_number": "487840/13-06-2023",
+      "protocol_number": "TMIA/411/7409/2023/14-06-2023",
+      "type": "Γνωμάτευση ΕΕΑΕ",
+      "file_url": "https://silia.eett.gr/silia/download/6dbf54f1-6dfc-49b2-bd5f-c44832c26e19"
+    },
+    {
+      "document_number": "490744/20-07-2023",
+      "protocol_number": "48783/20-07-2023",
+      "type": "Άδεια Κατασκευής  Κεραίας",
+      "file_url": "https://silia.eett.gr/silia/download/dc82423d-e9ab-48bd-89d4-bf95085067cb"
+    },
+    {
+      "document_number": "490959/21-07-2023",
+      "protocol_number": "48783/20-07-2023",
+      "type": "Άδεια Κατασκευής  Κεραίας",
+      "file_url": "https://silia.eett.gr/silia/download/4741d49f-320d-40dc-9bba-8a547a6b2e26"
+    },
+    {
+      "document_number": "484798/15-05-2023",
+      "protocol_number": "ΣΥΝΟΔΕΥΤΙΚΑ ΕΓΓΡΑΦΑ/",
+      "type": "Δήλωση υπαγωγής σε ΠΠΔ και Συνοδευτικά Έγγραφα",
+      "file_url": "https://silia.eett.gr/silia/download/3e611ed1-8b89-40d4-bdaa-0bebe31ff446"
+    },
+    {
+      "document_number": "485404/23-05-2023",
+      "protocol_number": "Αρχείο Αίτησης/",
+      "type": "Δήλωση ΠΠΔ",
+      "file_url": "https://silia.eett.gr/silia/download/8f16be8d-59a6-4bcf-ac2a-c3f69ba14041"
+    }
+  ]
+}

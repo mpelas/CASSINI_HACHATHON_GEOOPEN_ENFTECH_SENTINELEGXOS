@@ -1,0 +1,45 @@
+{
+  "antenna_id": "171569",
+  "address": "Κ. ΤΑΛΙΑΔΟΥΡΗ 84, ΓΡΕΒΕΝΑ.",
+  "position_code": 1159769,
+  "municipality": "Γρεβενών",
+  "code_name": "3029769 DEH KAT POL GREVENA",
+  "region": "Δυτικής Μακεδονίας",
+  "latitude": 40.085,
+  "company": "VODAFONE",
+  "longitude": 21.435,
+  "permit_status": "Από τα στοιχεία που τηρούνται στην Ενημερωτική Πύλη προκύπτει ότι, για τη θέση \"Κ. ΤΑΛΙΑΔΟΥΡΗ 84, ΓΡΕΒΕΝΑ.\" στον Δήμο Γρεβενών Περιφέρειας  Δυτικής Μακεδονίας \n\t(κωδικός αριθμός θέσης 1159769, κωδική ονομασία \"3029769 DEH KAT POL GREVENA\") έχει κατατεθεί από την εταιρία VODAFONE\tδήλωση εγκατάστασης κατασκευής κεραίας (αριθ. πρωτ. \n\t54245/21-12-2023) που εμπίπτει στις διατάξεις της νομοθεσίας για Εγκαταστάσεις Κατασκευών Κεραιών Χαμηλής Ηλεκτρομαγνητικής Περιβαλλοντικής Όχλησης (ΕΚΚΧΟ).",
+  "measurements_eaee": "-",
+  "documents": [
+    {
+      "document_number": "503792/21-12-2023",
+      "protocol_number": "Φωτορεαλιστική απεικόνιση κεραιας ΕΚΚΧΟ/",
+      "type": "Φωτογραφικό Υλικό - Σκαρίφημα",
+      "file_url": "https://silia.eett.gr/silia/download/832ae76c-6a2b-4676-aa5f-46aec3384976"
+    },
+    {
+      "document_number": "503793/21-12-2023",
+      "protocol_number": "Ψηφιακός Χάρτης με προβολή της θέσης της κεραίας ΕΚΚΧΟ/",
+      "type": "Φωτογραφικό Υλικό - Σκαρίφημα",
+      "file_url": "https://silia.eett.gr/silia/download/d9802188-1f38-4701-9286-3dba03d89e31"
+    },
+    {
+      "document_number": "503801/21-12-2023",
+      "protocol_number": "Μελέτη ΕΚΚΧΟ/21-12-2023",
+      "type": "Άλλο",
+      "file_url": "https://silia.eett.gr/silia/download/374200fd-2629-40d9-8cef-d6cf42ce12bd"
+    },
+    {
+      "document_number": "503802/21-12-2023",
+      "protocol_number": "Αρχείο Αίτησης/",
+      "type": "Δήλωση ΕΚΚΧΟ",
+      "file_url": "https://silia.eett.gr/silia/download/55411493-8757-4a0c-985f-2adc26c3595d"
+    },
+    {
+      "document_number": "509982/12-03-2024",
+      "protocol_number": "ΥΔ εγκατάστασης/12-03-2024",
+      "type": "Άλλο",
+      "file_url": "https://silia.eett.gr/silia/download/5UbLExuSnUPOEpFGkqbMnnpQPsbZ9Nw8Nkib"
+    }
+  ]
+}

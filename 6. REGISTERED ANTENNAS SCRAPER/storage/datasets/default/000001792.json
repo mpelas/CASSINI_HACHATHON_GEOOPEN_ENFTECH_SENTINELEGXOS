@@ -1,0 +1,39 @@
+{
+  "antenna_id": "170753",
+  "address": "ΛΕΩΦΟΡΟΣ ΒΟΥΛΙΑΓΜΕΝΗΣ 423Β, ΗΛΙΟΥΠΟΛΗ.",
+  "position_code": 1151461,
+  "municipality": "Ηλιουπόλεως",
+  "code_name": "3031461 EOS MATRIX ILIOUPOLI",
+  "region": "Αττικής",
+  "latitude": 37.9325,
+  "company": "VODAFONE",
+  "longitude": 23.745,
+  "permit_status": "Από τα στοιχεία που τηρούνται στην Ενημερωτική Πύλη προκύπτει ότι, για τη θέση \"ΛΕΩΦΟΡΟΣ ΒΟΥΛΙΑΓΜΕΝΗΣ 423Β, ΗΛΙΟΥΠΟΛΗ.\" στον Δήμο Ηλιουπόλεως Περιφέρειας  Αττικής \n\t(κωδικός αριθμός θέσης 1151461, κωδική ονομασία \"3031461 EOS MATRIX ILIOUPOLI\") έχει κατατεθεί από την εταιρία VODAFONE\tδήλωση εγκατάστασης κατασκευής κεραίας (αριθ. πρωτ. \n\t53634/31-10-2023) που εμπίπτει στις διατάξεις της νομοθεσίας για Εγκαταστάσεις Κατασκευών Κεραιών Χαμηλής Ηλεκτρομαγνητικής Περιβαλλοντικής Όχλησης (ΕΚΚΧΟ).",
+  "measurements_eaee": "-",
+  "documents": [
+    {
+      "document_number": "499101/30-10-2023",
+      "protocol_number": "Φωτορεαλιστική απεικόνιση κεραιας ΕΚΚΧΟ/",
+      "type": "Φωτογραφικό Υλικό - Σκαρίφημα",
+      "file_url": "https://silia.eett.gr/silia/download/616cda37-aea3-47d2-b1ed-87c15eab8e62"
+    },
+    {
+      "document_number": "499102/30-10-2023",
+      "protocol_number": "Ψηφιακός Χάρτης με προβολή της θέσης της κεραίας ΕΚΚΧΟ/",
+      "type": "Φωτογραφικό Υλικό - Σκαρίφημα",
+      "file_url": "https://silia.eett.gr/silia/download/0dca5a9f-c605-4131-b66a-3adfb98aa4dd"
+    },
+    {
+      "document_number": "499313/31-10-2023",
+      "protocol_number": "Μελέτη ΕΚΚΧΟ/31-10-2023",
+      "type": "Άλλο",
+      "file_url": "https://silia.eett.gr/silia/download/bfb0fd82-74fe-42e3-895d-fa4f56c34ae3"
+    },
+    {
+      "document_number": "499314/31-10-2023",
+      "protocol_number": "Αρχείο Αίτησης/",
+      "type": "Δήλωση ΕΚΚΧΟ",
+      "file_url": "https://silia.eett.gr/silia/download/eee393dc-62a6-4463-bf7f-bf42598af406"
+    }
+  ]
+}

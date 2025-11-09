@@ -1,0 +1,99 @@
+{
+  "antenna_id": "171604",
+  "address": "ΕΟ ΘΕΣΣΑΛΟΝΙΚΗΣ ΚΑΒΑΛΑΣ ΛΟΓΚΑΡΙ",
+  "position_code": 8002060,
+  "municipality": "Αμφίπολης",
+  "code_name": "ΚΥΑΝΗ ΑΚΤΗ (ΜΑΤΣΙΚΗ)-060",
+  "region": "Κεντρικής Μακεδονίας",
+  "latitude": 40.763333,
+  "company": "ERMIS-WISP",
+  "longitude": 23.771111,
+  "permit_status": "Από τα στοιχεία που τηρούνται στην Ενημερωτική Πύλη προκύπτει ότι, για τη θέση \"ΕΟ ΘΕΣΣΑΛΟΝΙΚΗΣ ΚΑΒΑΛΑΣ ΛΟΓΚΑΡΙ\" στον Δήμο Αμφίπολης Περιφέρειας  Κεντρικής Μακεδονίας \n\t(κωδικός αριθμός θέσης 8002060, κωδική ονομασία \"ΚΥΑΝΗ ΑΚΤΗ (ΜΑΤΣΙΚΗ)-060\") έχει κατατεθεί από την εταιρία ERMIS-WISP\tδήλωση εγκατάστασης κατασκευής κεραίας (αριθ. πρωτ. \n\t54297/02-01-2024) που εμπίπτει στις διατάξεις της νομοθεσίας για Εγκαταστάσεις Κατασκευών Κεραιών Χαμηλής Ηλεκτρομαγνητικής Περιβαλλοντικής Όχλησης (ΕΚΚΧΟ).",
+  "measurements_eaee": "-",
+  "documents": [
+    {
+      "document_number": "504110/02-01-2024",
+      "protocol_number": "Φωτορεαλιστική απεικόνιση/",
+      "type": "Φωτογραφικό Υλικό - Σκαρίφημα",
+      "file_url": "https://silia.eett.gr/silia/download/74f0cfac-59cf-49a5-aaf7-6d35f1261344"
+    },
+    {
+      "document_number": "504111/02-01-2024",
+      "protocol_number": "Τοπογραφικό Google Eatrh/",
+      "type": "Τοπογραφικό",
+      "file_url": "https://silia.eett.gr/silia/download/896b729c-dac5-417f-b03c-99fb24579335"
+    },
+    {
+      "document_number": "504112/02-01-2024",
+      "protocol_number": "Οψη  Ιστου & Κεραιων/",
+      "type": "Αρχιτεκτονικά Σχέδια",
+      "file_url": "https://silia.eett.gr/silia/download/777837d5-dbe9-487f-9618-847c1eaf8639"
+    },
+    {
+      "document_number": "504113/02-01-2024",
+      "protocol_number": "Οψη  Ιστου χωρων προστασιας/",
+      "type": "Αρχιτεκτονικά Σχέδια",
+      "file_url": "https://silia.eett.gr/silia/download/8fd9fbfd-92c5-4012-a34e-00c277018e4b"
+    },
+    {
+      "document_number": "504114/02-01-2024",
+      "protocol_number": "Κατοψη Κτιριου/",
+      "type": "Αρχιτεκτονικά Σχέδια",
+      "file_url": "https://silia.eett.gr/silia/download/a173a9ac-4205-4b20-80c8-02228a8bd8fd"
+    },
+    {
+      "document_number": "504115/02-01-2024",
+      "protocol_number": "Κατοψη Ιστου & κεραιων/",
+      "type": "Αρχιτεκτονικά Σχέδια",
+      "file_url": "https://silia.eett.gr/silia/download/cb9dc4e8-361f-4ba7-ac6c-8c543039474a"
+    },
+    {
+      "document_number": "504116/02-01-2024",
+      "protocol_number": "Κατοψη χωρων προστασιας/",
+      "type": "Αρχιτεκτονικά Σχέδια",
+      "file_url": "https://silia.eett.gr/silia/download/5236d774-8013-44d2-921e-f96abdc475ba"
+    },
+    {
+      "document_number": "504117/02-01-2024",
+      "protocol_number": "Τεχνικα Χαρακτηριστικα Mimosa C5c/",
+      "type": "Άλλο",
+      "file_url": "https://silia.eett.gr/silia/download/83acd22e-5e54-4f73-bbe8-f421e15cc4f6"
+    },
+    {
+      "document_number": "504118/02-01-2024",
+      "protocol_number": "Δήλωση συμμόρφωσης Mimosa c5/",
+      "type": "Άλλο",
+      "file_url": "https://silia.eett.gr/silia/download/21a44d47-fbb6-4f63-809a-d03a7faa42dc"
+    },
+    {
+      "document_number": "504119/02-01-2024",
+      "protocol_number": "Τεχνικα Χαρακτηριστικα Mikrotik MANT30PA/",
+      "type": "Άλλο",
+      "file_url": "https://silia.eett.gr/silia/download/e74b3505-a2a9-4749-a8a7-0db875628115"
+    },
+    {
+      "document_number": "504120/02-01-2024",
+      "protocol_number": "Τεχνικα Χαρακτηριστικα Jirous JRC 32 MIMO/",
+      "type": "Άλλο",
+      "file_url": "https://silia.eett.gr/silia/download/3fb873a9-0156-46a1-9cc4-8b17f064effb"
+    },
+    {
+      "document_number": "504121/02-01-2024",
+      "protocol_number": "Δήλωση συμμόρφωσης mANT30-PA/",
+      "type": "Άλλο",
+      "file_url": "https://silia.eett.gr/silia/download/9b45a66d-b207-417d-9b0f-d5c52c2fc0d8"
+    },
+    {
+      "document_number": "504122/02-01-2024",
+      "protocol_number": "Αρχείο Αίτησης/",
+      "type": "Δήλωση ΕΚΚΧΟ",
+      "file_url": "https://silia.eett.gr/silia/download/a9c38eff-fb20-49f7-8f55-979b41daa33f"
+    },
+    {
+      "document_number": "507118/08-02-2024",
+      "protocol_number": "Υπευθυνη Δηλωση Εγκαταστασης /",
+      "type": "Άλλο",
+      "file_url": "https://silia.eett.gr/silia/download/24f411c2-650f-4213-9063-b96feaa5b8be"
+    }
+  ]
+}

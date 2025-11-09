@@ -1,0 +1,27 @@
+{
+  "antenna_id": "160919",
+  "address": "ΒΟΥΡΛΙΩΤΕΣ",
+  "position_code": 3006671,
+  "municipality": "Σάμου",
+  "code_name": "ΒΟΥΡΛΙΩΤΕΣ Μ",
+  "region": "Βορείου Αιγαίου",
+  "latitude": 37.788056,
+  "company": "DIGEA",
+  "longitude": 26.854444,
+  "permit_status": "Από τα στοιχεία που τηρούνται στην Ενημερωτική Πύλη προκύπτει ότι για τη  θέση \"ΒΟΥΡΛΙΩΤΕΣ\" στον Δήμο Σάμου Περιφέρειας  Βορείου Αιγαίου έχει κατατεθεί από την εταιρία DIGEA δήλωση κατασκευής κεραίας τηλεοπτικής ευρυεκπομπής με αριθ. πρωτ. ΣΗΛΥΑ \n45269/20-10-2021 κατά τα οριζόμενα στην παρ. 7 του άρθρου 39 του Ν.4635/2019.",
+  "measurements_eaee": "-",
+  "documents": [
+    {
+      "document_number": "444469/20-10-2021",
+      "protocol_number": "ΜΕΣΩ ΣΗΛΥΑ/",
+      "type": "Αίτηση ΥΠΑ",
+      "file_url": "https://silia.eett.gr/silia/download/e6c8c3e5-6abd-4fd7-a02e-ea6d5c1cb962"
+    },
+    {
+      "document_number": "444470/20-10-2021",
+      "protocol_number": "Αρχείο Αίτησης/",
+      "type": "Δήλωση Τηλεοπτικής Ευρυεκπομπής",
+      "file_url": "https://silia.eett.gr/silia/download/3e373d94-2cff-406e-b7a8-10414ec8f79e"
+    }
+  ]
+}

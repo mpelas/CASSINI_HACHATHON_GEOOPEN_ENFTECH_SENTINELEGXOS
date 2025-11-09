@@ -1,0 +1,57 @@
+{
+  "antenna_id": "180157",
+  "address": "Ολυμπιάδα Χαλκιδικής",
+  "position_code": 1441698,
+  "municipality": "Αριστοτέλη",
+  "code_name": "HG_METAL_MI",
+  "region": "Κεντρικής Μακεδονίας",
+  "latitude": 40.588056,
+  "company": "OTE",
+  "longitude": 23.751944,
+  "permit_status": "Από τα στοιχεία που τηρούνται στην Ενημερωτική Πύλη προκύπτει ότι, για τη θέση \"Ολυμπιάδα Χαλκιδικής\" στον Δήμο Αριστοτέλη Περιφέρειας  Κεντρικής Μακεδονίας \n\t(κωδικός αριθμός θέσης 1441698, κωδική ονομασία \"HG_METAL_MI\") έχει κατατεθεί από την εταιρία OTE\tδήλωση εγκατάστασης κατασκευής κεραίας (αριθ. πρωτ. \n\t61622/11-06-2025) που εμπίπτει στις διατάξεις της νομοθεσίας για Εγκαταστάσεις Κατασκευών Κεραιών Χαμηλής Ηλεκτρομαγνητικής Περιβαλλοντικής Όχλησης (ΕΚΚΧΟ).",
+  "measurements_eaee": "-",
+  "documents": [
+    {
+      "document_number": "552152/11-06-2025",
+      "protocol_number": "ΜΕΛΕΤΗ/11-06-2025",
+      "type": "Αίτηση - Μελέτη Ραδιοεκπομπών ΕΕΑΕ",
+      "file_url": "https://silia.eett.gr/silia/download/gxkDiaI3YV9NKrbm0zbBcfIum2zyOKGVpF8k"
+    },
+    {
+      "document_number": "552153/11-06-2025",
+      "protocol_number": "ΤΟΠΟΓΡΑΦΙΚΟ/11-06-2025",
+      "type": "Τοπογραφικό",
+      "file_url": "https://silia.eett.gr/silia/download/iYZ82OhnkB8DUtr7gH5bqEdeFqvvMUzCMz5X"
+    },
+    {
+      "document_number": "552154/11-06-2025",
+      "protocol_number": "ΚΑΤΟΨΗ/11-06-2025",
+      "type": "Αρχιτεκτονικά [Κάτοψη - Τομή - Όψη]",
+      "file_url": "https://silia.eett.gr/silia/download/4XBRiyWGnx2l1hVLgBFAcYyFNgUGaGmALRgK"
+    },
+    {
+      "document_number": "552155/11-06-2025",
+      "protocol_number": "ΤΟΜΗ/11-06-2025",
+      "type": "Αρχιτεκτονικά [Κάτοψη - Τομή - Όψη]",
+      "file_url": "https://silia.eett.gr/silia/download/8RSvKDfbgnyk0MmHgl5ZzmagkeR66ilLrX8g"
+    },
+    {
+      "document_number": "552156/11-06-2025",
+      "protocol_number": "ΦΩΤΟΓΡΑΦΙΑ/11-06-2025",
+      "type": "Φωτογραφικό Υλικό - Σκαρίφημα",
+      "file_url": "https://silia.eett.gr/silia/download/2dVMRuEoBoBgCeVicAg5rAerNlDuVaa8yR12"
+    },
+    {
+      "document_number": "552157/11-06-2025",
+      "protocol_number": "ΛΙΝΚ/11-06-2025",
+      "type": "Άλλο",
+      "file_url": "https://silia.eett.gr/silia/download/435sRACzsNHRGrgbaUEr4qVcE50qRYOg3GeN"
+    },
+    {
+      "document_number": "552173/11-06-2025",
+      "protocol_number": "Αρχείο Αίτησης/11-06-2025",
+      "type": "Δήλωση ΕΚΚΧΟ",
+      "file_url": "https://silia.eett.gr/silia/download/ogUrGG4y9iIfpkQ3B7Tgw6ctNv60rWzDe0oU"
+    }
+  ]
+}

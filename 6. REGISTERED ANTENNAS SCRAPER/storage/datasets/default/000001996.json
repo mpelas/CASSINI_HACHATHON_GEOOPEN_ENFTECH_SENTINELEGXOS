@@ -1,0 +1,45 @@
+{
+  "antenna_id": "168323",
+  "address": "Αφροξυλιά - Βαμβακού (Μαμουλάδας- Αφροξυλιάς- Βομβοκούς), Ναύπακτος",
+  "position_code": 1497640,
+  "municipality": "Ναυπακτίας",
+  "code_name": "MYTIL_YS_NAYP",
+  "region": "Δυτικής Ελλάδας",
+  "latitude": 38.406389,
+  "company": "OTE",
+  "longitude": 21.82,
+  "permit_status": "Από τα στοιχεία που τηρούνται στην Ενημερωτική Πύλη προκύπτει ότι, για τη θέση \"Αφροξυλιά - Βαμβακού (Μαμουλάδας- Αφροξυλιάς- Βομβοκούς), Ναύπακτος\" στον Δήμο Ναυπακτίας Περιφέρειας  Δυτικής Ελλάδας \n\t(κωδικός αριθμός θέσης 1497640, κωδική ονομασία \"MYTIL_YS_NAYP\") έχει κατατεθεί από την εταιρία OTE\tδήλωση εγκατάστασης κατασκευής κεραίας (αριθ. πρωτ. \n\t55207/15-03-2024) που εμπίπτει στις διατάξεις της νομοθεσίας για Εγκαταστάσεις Κατασκευών Κεραιών Χαμηλής Ηλεκτρομαγνητικής Περιβαλλοντικής Όχλησης (ΕΚΚΧΟ).",
+  "measurements_eaee": "-",
+  "documents": [
+    {
+      "document_number": "484363/10-05-2023",
+      "protocol_number": "ΦΩΤΟΓΡΑΦΙΑ/",
+      "type": "Φωτογραφικό Υλικό - Σκαρίφημα",
+      "file_url": "https://silia.eett.gr/silia/download/6e748296-9a8a-4e5e-8661-814d4b6180d0"
+    },
+    {
+      "document_number": "484364/10-05-2023",
+      "protocol_number": "ΦΩΤΟΓΡΑΦΙΑ/",
+      "type": "Φωτογραφικό Υλικό - Σκαρίφημα",
+      "file_url": "https://silia.eett.gr/silia/download/f8f99f90-0caf-4af4-aa75-5fae5acef281"
+    },
+    {
+      "document_number": "507710/15-02-2024",
+      "protocol_number": "ΜΕΣΩ ΣΗΛΥΑ/",
+      "type": "Αίτηση - Μελέτη Ραδιοεκπομπών ΕΕΑΕ",
+      "file_url": "https://silia.eett.gr/silia/download/731d3eab-ace1-4919-bfe3-8025e6f67ed1"
+    },
+    {
+      "document_number": "510378/15-03-2024",
+      "protocol_number": "Αρχείο Αίτησης/15-03-2024",
+      "type": "Δήλωση ΕΚΚΧΟ",
+      "file_url": "https://silia.eett.gr/silia/download/E9LGgtycsneDevxylfRgg03VyrYB77HRfX3X"
+    },
+    {
+      "document_number": "527867/04-10-2024",
+      "protocol_number": "ΥΠ.ΔΗΛΩΣΗ/04-10-2024",
+      "type": "Άλλο",
+      "file_url": "https://silia.eett.gr/silia/download/hHXQb7FANDGQGUhLNWGhlsGEPGxF9gETOaq5"
+    }
+  ]
+}

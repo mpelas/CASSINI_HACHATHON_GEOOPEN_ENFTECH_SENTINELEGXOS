@@ -1,0 +1,117 @@
+{
+  "antenna_id": "103577",
+  "address": "ΒΙ.ΠΕ. ΣΙΝΔΟΥ,Ο.Τ.4",
+  "position_code": 2404605,
+  "municipality": "Δέλτα",
+  "code_name": "ΣΙΝΔΟΣ",
+  "region": "Κεντρικής Μακεδονίας",
+  "latitude": 40.684444,
+  "company": "CONNECTICORE",
+  "longitude": 22.811389,
+  "permit_status": "Από τα στοιχεία που τηρούνται στην Ενημερωτική Πύλη προκύπτει ότι, για τη θέση \"ΒΙ.ΠΕ. ΣΙΝΔΟΥ,Ο.Τ.4\" στον Δήμο Δέλτα Περιφέρειας  Κεντρικής Μακεδονίας \n\t(κωδικός αριθμός θέσης 2404605, κωδική ονομασία \"ΣΙΝΔΟΣ\") χορηγήθηκε, με την Απόφαση της ΕΕΤΤ \n16064/Φ610/08-05-2015, άδεια κατασκευής κεραίας στην εταιρία CONNECTICORE. \nΑπό τo έγγραφο της άδειας μπορείτε να ενημερωθείτε για τις σχετικές εγκρίσεις των συναρμόδιων φορέων, καθώς και εάν πρόκειται για τροποποίηση παλαιότερης άδειας.\nΗ άδεια χορηγήθηκε, κατόπιν της με Αριθ. Πρωτ. 8080/28-07-2014 αίτησης, \n\tμε τη διαδικασία αδειοδότησης της παρ. 17 του άρθρου 30 του Ν.4070/2012 που πλέον έχει αντικατασταθεί από τη διαδικασία που ορίζει ο ν. 4635/2019.",
+  "measurements_eaee": "-",
+  "documents": [
+    {
+      "document_number": "179072/25-07-2014",
+      "protocol_number": "ΑΡ. ΠΡΩΤ. 2729/29-5-2014  9η ΕΒΑ/29-05-2014",
+      "type": "Έγκριση Αρμοδίου Φορέα",
+      "file_url": "https://silia.eett.gr/silia/download/356a8e7e-0a63-46f7-a62e-df3f0896723e"
+    },
+    {
+      "document_number": "179090/25-07-2014",
+      "protocol_number": "αρ. πρωτ. 1306/26-5-2014/26-05-2014",
+      "type": "Έγκριση Αρμοδίου Φορέα",
+      "file_url": "https://silia.eett.gr/silia/download/36e462a9-7e6b-4aa3-b44e-aecdd219f008"
+    },
+    {
+      "document_number": "179091/25-07-2014",
+      "protocol_number": "αρ. πρωτ. ΙΣΤ ΕΠΚΑ/Α/4553/7-5-2014/07-05-2014",
+      "type": "Έγκριση Αρμοδίου Φορέα",
+      "file_url": "https://silia.eett.gr/silia/download/9c6dec10-dd04-4b61-9774-bec2553622b9"
+    },
+    {
+      "document_number": "179102/25-07-2014",
+      "protocol_number": "αρ. πρωτ. 7290 /14-07-2014",
+      "type": "Αίτηση προς Αρμόδιο Φορέα",
+      "file_url": "https://silia.eett.gr/silia/download/a019623f-5a80-46c8-913a-65d5beb50136"
+    },
+    {
+      "document_number": "179103/25-07-2014",
+      "protocol_number": "ΚΑΤΟΨΗ,ΟΨΗ,ΤΟΠΟΓΡΑΦΙΚΟ ΣΙΝΔΟΣ/25-07-2014",
+      "type": "Αρχιτεκτονικά Σχέδια",
+      "file_url": "https://silia.eett.gr/silia/download/2bbaa393-8377-4b1c-8956-2fe3d536ba23"
+    },
+    {
+      "document_number": "179140/28-07-2014",
+      "protocol_number": "Αίτηση προς Υπηρεσία Πολιτικής Αεροπορίας (μέσω ΣΗΛΥΑ)/25-07-2014",
+      "type": "Αίτηση ΥΠΑ",
+      "file_url": "https://silia.eett.gr/silia/download/da63ad75-c967-491c-8cdc-896b0929d981"
+    },
+    {
+      "document_number": "179210/28-07-2014",
+      "protocol_number": "Αρχείο Αίτησης/",
+      "type": "Αίτηση Άδειας Κατασκευής Κεραίας ΕΕΤΤ",
+      "file_url": "https://silia.eett.gr/silia/download/b545baca-ef9a-47d9-b65a-f1d227b1e1a6"
+    },
+    {
+      "document_number": "179229/28-07-2014",
+      "protocol_number": "Υποβολή μελέτης ραδιοεκπομπών (ΗΜ) σε ΕΕΑΕ προς έγκριση (μέσω ΣΗΛΥΑ)/22-07-2014",
+      "type": "Αίτηση - Μελέτη Ραδιοεκπομπών ΕΕΑΕ",
+      "file_url": "https://silia.eett.gr/silia/download/b94cad06-d316-412a-9175-eaf38c3985db"
+    },
+    {
+      "document_number": "179230/28-07-2014",
+      "protocol_number": "Δήλωση υπαγωγής σε ΠΠΔ και Συνοδευτικά Έγγραφα uploaded μέσω ΣΗΛΥΑ/24-07-2014",
+      "type": "Δήλωση υπαγωγής σε ΠΠΔ και Συνοδευτικά Έγγραφα",
+      "file_url": "https://silia.eett.gr/silia/download/e6f3927a-936a-4189-9218-33062fdd313c"
+    },
+    {
+      "document_number": "180405/20-08-2014",
+      "protocol_number": "Δ3/Δ/25132/6453/11-8-2014/20-08-2014",
+      "type": "Γνωμάτευση ΥΠΑ",
+      "file_url": "https://silia.eett.gr/silia/download/642ced20-7af7-49f7-8501-f4b53d9693b4"
+    },
+    {
+      "document_number": "200072/13-03-2015",
+      "protocol_number": "ΟΨΗ, ΚΑΤΟΨΗ ΣΙΝΔΟΣ ΣΕ ΑUTOCAD/13-03-2015",
+      "type": "Αρχιτεκτονικά Σχέδια",
+      "file_url": "https://silia.eett.gr/silia/download/ab5f264d-3b08-42b5-b00c-0a7fdf42b065"
+    },
+    {
+      "document_number": "200073/13-03-2015",
+      "protocol_number": "ΤΟΠΟΓΡΑΦΙΚΟ ΣΧΕΔΙΟ ΣΙΝΔΟΣ ΣΕ AUTOCAD/13-03-2015",
+      "type": "Τοπογραφικό",
+      "file_url": "https://silia.eett.gr/silia/download/b6ee94dc-7a3d-43db-8945-de1ad2bc98c1"
+    },
+    {
+      "document_number": "203362/16-04-2015",
+      "protocol_number": "Μ.ι./411/617/14-04-2015",
+      "type": "Γνωμάτευση ΕΕΑΕ",
+      "file_url": "https://silia.eett.gr/silia/download/a021ee53-2002-4c62-ab52-2dc8e2337ca1"
+    },
+    {
+      "document_number": "203520/17-04-2015",
+      "protocol_number": "ΠΟΛΕΟΔΟΜΙΚΗ ΕΓΚΡΙΣΗ/01-04-2015",
+      "type": "Έγκριση Αρμοδίου Φορέα",
+      "file_url": "https://silia.eett.gr/silia/download/28eba23c-4068-4c80-b97f-464b83852f5f"
+    },
+    {
+      "document_number": "203521/17-04-2015",
+      "protocol_number": "ΘΕΩΡΗΜΕΝΑ ΣΧΕΔΙΑ (ΟΨΗ-ΚΑΤΟΨΗ-ΤΟΠΟΓΡΑΦΙΚΟ) ΑΠΟ ΠΟΛΕΟΔΟΜΙΑ ΚΟΡΔΕΛΙΟΥ-ΕΥΟΣΜΟΥ/01-04-2015",
+      "type": "Αρχιτεκτονικά Σχέδια",
+      "file_url": "https://silia.eett.gr/silia/download/53220205-00de-4d50-9646-b0b8bb2b4b5d"
+    },
+    {
+      "document_number": "203523/17-04-2015",
+      "protocol_number": "ΤΕΧΝΙΚΗ ΕΚΘΕΣΗ ΕΓΚΑΤΑΣΤΑΣΗΣ ΠΡΟΣ ΠΟΛΕΟΔΟΜΙΑ ΚΟΡΔΕΛΙΟΥ ΣΥΝΟΔΕΥΤΙΚΟ ΤΗΣ ΑΙΤΗΣΗΣ ΜΕ ΑΡ. ΠΡΩΤ 7290/14-7-2014/14-07-2014",
+      "type": "Αίτηση προς Αρμόδιο Φορέα",
+      "file_url": "https://silia.eett.gr/silia/download/cf9ccf0f-2dae-4452-8fc5-3c49580783f8"
+    },
+    {
+      "document_number": "207957/18-05-2015",
+      "protocol_number": "16064/Φ.610/08-05-2015",
+      "type": "Άδεια Κατασκευής  Κεραίας",
+      "file_url": "https://silia.eett.gr/silia/download/0c99a4f3-e8e3-4f79-bcac-632d0c87d981"
+    }
+  ]
+}

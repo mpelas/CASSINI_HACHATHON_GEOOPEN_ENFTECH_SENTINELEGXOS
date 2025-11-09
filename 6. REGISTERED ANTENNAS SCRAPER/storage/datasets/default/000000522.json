@@ -1,0 +1,81 @@
+{
+  "antenna_id": "158223",
+  "address": "ΑΠ.ΠΑΥΛΟΥ 4 & ΗΠΕΙΡΟΥ",
+  "position_code": 1402006,
+  "municipality": "Αμαρουσίου",
+  "code_name": "HASIOTI",
+  "region": "Αττικής",
+  "latitude": 38.033333,
+  "company": "OTE",
+  "longitude": 23.790278,
+  "permit_status": "Από τα στοιχεία που τηρούνται στην Ενημερωτική Πύλη προκύπτει ότι, για τη θέση \"ΑΠ.ΠΑΥΛΟΥ 4 & ΗΠΕΙΡΟΥ\" στον Δήμο Αμαρουσίου Περιφέρειας  Αττικής \n\t(κωδικός αριθμός θέσης 1402006, κωδική ονομασία \"HASIOTI \") χορηγήθηκε, με την Απόφαση της ΕΕΤΤ \n41204/29-07-2021, άδεια κατασκευής κεραίας στην εταιρία OTE. \nΑπό τo έγγραφο της άδειας μπορείτε να ενημερωθείτε για τις σχετικές εγκρίσεις των συναρμόδιων φορέων, καθώς και εάν πρόκειται για τροποποίηση παλαιότερης άδειας.",
+  "measurements_eaee": "-",
+  "documents": [
+    {
+      "document_number": "429189/10-02-2021",
+      "protocol_number": "ΜΕΣΩ ΣΗΛΥΑ/",
+      "type": "Τοπογραφικό",
+      "file_url": "https://silia.eett.gr/silia/download/5762d54c-c33a-403c-8bb3-79b6daa2e4c6"
+    },
+    {
+      "document_number": "429190/10-02-2021",
+      "protocol_number": "ΜΕΣΩ ΣΗΛΥΑ/",
+      "type": "Αρχιτεκτονικά Σχέδια",
+      "file_url": "https://silia.eett.gr/silia/download/c5360ba5-dfa9-4f9f-8cab-834858ade7ba"
+    },
+    {
+      "document_number": "429191/10-02-2021",
+      "protocol_number": "ΜΕΣΩ ΣΗΛΥΑ/26-01-2021",
+      "type": "Αίτηση - Μελέτη Ραδιοεκπομπών ΕΕΑΕ",
+      "file_url": "https://silia.eett.gr/silia/download/6287b532-37a5-4958-bed7-f42c637cb077"
+    },
+    {
+      "document_number": "429192/10-02-2021",
+      "protocol_number": "ΜΕΛΕΤΗ  EMC/08-02-2021",
+      "type": "Αποτελέσματα μελέτης στη ζώνης 2.6GHz για ΥΠΑ/ΓΕΕΘΑ",
+      "file_url": "https://silia.eett.gr/silia/download/4d3fe179-5dd0-44c2-a1c6-a87bf4504c1d"
+    },
+    {
+      "document_number": "429193/10-02-2021",
+      "protocol_number": "13815/08-02-2021",
+      "type": "Επιστολή Ενημέρωσης προς Αρμόδιο Φορέα",
+      "file_url": "https://silia.eett.gr/silia/download/56e87b1a-5df3-4709-917a-862066386980"
+    },
+    {
+      "document_number": "429235/10-02-2021",
+      "protocol_number": "Αρχείο Αίτησης/",
+      "type": "Αίτηση Άδειας Κατασκευής Κεραίας ΕΕΤΤ",
+      "file_url": "https://silia.eett.gr/silia/download/18d6b20a-ff30-4a37-91e4-10a0a637e5b2"
+    },
+    {
+      "document_number": "431294/16-03-2021",
+      "protocol_number": "Μ.ι./411/7146 /2021/16-03-2021",
+      "type": "Γνωμάτευση ΕΕΑΕ",
+      "file_url": "https://silia.eett.gr/silia/download/4c0c58ad-c6cd-4a86-8c8d-7fd574998512"
+    },
+    {
+      "document_number": "436494/16-06-2021",
+      "protocol_number": "Δ3/Δ/19441/16-6-2021/16-06-2021",
+      "type": "Γνωμάτευση ΥΠΑ",
+      "file_url": "https://silia.eett.gr/silia/download/a1fa489d-cbed-4916-8110-ed1fe65bfc0d"
+    },
+    {
+      "document_number": "439504/03-08-2021",
+      "protocol_number": "41204/29-07-2021",
+      "type": "Άδεια Κατασκευής  Κεραίας",
+      "file_url": "https://silia.eett.gr/silia/download/bb5676d4-2593-4924-8b57-7260829b4e45"
+    },
+    {
+      "document_number": "429194/10-02-2021",
+      "protocol_number": "ΜΕΣΩ ΣΗΛΥΑ/",
+      "type": "Δήλωση υπαγωγής σε ΠΠΔ και Συνοδευτικά Έγγραφα",
+      "file_url": "https://silia.eett.gr/silia/download/dab22578-25e2-467a-9ae7-9e22bee35777"
+    },
+    {
+      "document_number": "429236/10-02-2021",
+      "protocol_number": "Αρχείο Αίτησης/",
+      "type": "Δήλωση ΠΠΔ",
+      "file_url": "https://silia.eett.gr/silia/download/e0553449-3f75-4583-9f66-56452cd6bd6d"
+    }
+  ]
+}

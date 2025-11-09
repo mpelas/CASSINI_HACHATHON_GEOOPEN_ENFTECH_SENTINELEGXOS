@@ -1,0 +1,57 @@
+{
+  "antenna_id": "173793",
+  "address": "Λεύκας 44, Πάτρα.",
+  "position_code": 1152439,
+  "municipality": "Πατρέων",
+  "code_name": "3032439 KASAPIS D PATRA",
+  "region": "Δυτικής Ελλάδας",
+  "latitude": 38.198056,
+  "company": "VODAFONE",
+  "longitude": 21.724722,
+  "permit_status": "Από τα στοιχεία που τηρούνται στην Ενημερωτική Πύλη προκύπτει ότι, για τη θέση \"Λεύκας 44, Πάτρα.\" στον Δήμο Πατρέων Περιφέρειας  Δυτικής Ελλάδας \n\t(κωδικός αριθμός θέσης 1152439, κωδική ονομασία \"3032439 KASAPIS D PATRA\") έχει κατατεθεί από την εταιρία VODAFONE\tδήλωση εγκατάστασης κατασκευής κεραίας (αριθ. πρωτ. \n\t56174/06-06-2024) που εμπίπτει στις διατάξεις της νομοθεσίας για Εγκαταστάσεις Κατασκευών Κεραιών Χαμηλής Ηλεκτρομαγνητικής Περιβαλλοντικής Όχλησης (ΕΚΚΧΟ).",
+  "measurements_eaee": "-",
+  "documents": [
+    {
+      "document_number": "517193/06-06-2024",
+      "protocol_number": "Φωτορεαλιστική απεικόνιση κεραίας ΕΚΚΧΟ/06-06-2024",
+      "type": "Φωτογραφικό Υλικό - Σκαρίφημα",
+      "file_url": "https://silia.eett.gr/silia/download/O4nwBgs9TCWzAgWk9f91DqLydluxKTfBIKnZ"
+    },
+    {
+      "document_number": "517194/06-06-2024",
+      "protocol_number": "Ψηφιακός χάρτης με προβολή της θέσης ΕΚΚΧΟ/06-06-2024",
+      "type": "Φωτογραφικό Υλικό - Σκαρίφημα",
+      "file_url": "https://silia.eett.gr/silia/download/3ftEzUNqloKWX6tzoklfG9lQltQAldbagGGr"
+    },
+    {
+      "document_number": "517195/06-06-2024",
+      "protocol_number": "ΜΕΛΕΤΗ ΕΚΚΧΟ/06-06-2024",
+      "type": "Άλλο",
+      "file_url": "https://silia.eett.gr/silia/download/utS1bEkBV3iu1cpDCOSSFuDbq9VBUo9rabhe"
+    },
+    {
+      "document_number": "517196/06-06-2024",
+      "protocol_number": "Σκαρίφημα με περιοχή απαγόρευσης/06-06-2024",
+      "type": "Φωτογραφικό Υλικό - Σκαρίφημα",
+      "file_url": "https://silia.eett.gr/silia/download/ny1ZUZTQtEF54Toux3kGmRqO4izmfxkKFSGn"
+    },
+    {
+      "document_number": "517197/06-06-2024",
+      "protocol_number": "Αρχείο Αίτησης/06-06-2024",
+      "type": "Δήλωση ΕΚΚΧΟ",
+      "file_url": "https://silia.eett.gr/silia/download/Bg1nMaVX1Ha8Lat7mFgzShbt3o00DPdwMbHM"
+    },
+    {
+      "document_number": "518216/18-06-2024",
+      "protocol_number": "ΥΔ Τετραγωνικών Μέτρων/10-06-2024",
+      "type": "Βεβαίωση πολιτικού μηχανικού",
+      "file_url": "https://silia.eett.gr/silia/download/870Wqs5KAh8XADE58MvuGhN6bFNEr3wsai11"
+    },
+    {
+      "document_number": "531054/31-10-2024",
+      "protocol_number": "ΥΔ ΕΓΚΑΤΑΣΤΑΣΗΣ/31-10-2024",
+      "type": "Άλλο",
+      "file_url": "https://silia.eett.gr/silia/download/QRkT8HWb7wvO2g5gUOTofYdpvGnYEnBleXsP"
+    }
+  ]
+}

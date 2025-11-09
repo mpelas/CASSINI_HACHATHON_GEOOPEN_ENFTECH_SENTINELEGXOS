@@ -1,0 +1,45 @@
+{
+  "antenna_id": "152477",
+  "address": "Δήμος Σάμου, Π.Ε Σάμου, Περιφέρεια Βορείου Αιγαίου",
+  "position_code": 3207155,
+  "municipality": "Σάμου",
+  "code_name": "ΒΑΘΥ ΖΕΡΒΟΥ-Δ",
+  "region": "Βορείου Αιγαίου",
+  "latitude": 37.739167,
+  "company": "ΕΡΤ ΑΕ",
+  "longitude": 26.946111,
+  "permit_status": "Από τα στοιχεία που τηρούνται στην Ενημερωτική Πύλη προκύπτει ότι για τη  θέση \"Δήμος Σάμου, Π.Ε Σάμου, Περιφέρεια Βορείου Αιγαίου\" στον Δήμο Σάμου Περιφέρειας  Βορείου Αιγαίου έχει κατατεθεί από την εταιρία ΕΡΤ ΑΕ δήλωση δομικών κατασκευών κεραιών  \nμε αριθ. πρωτ. ΣΗΛΥΑ 38099/09-04-2020 κατά τα οριζόμενα στην παρ. 7 του άρθρου 34 του Ν.4635/2019.",
+  "measurements_eaee": "-",
+  "documents": [
+    {
+      "document_number": "400017/25-03-2020",
+      "protocol_number": "δορυφορική λήψη και στοιχεία δομικών κατασκευών/",
+      "type": "Άλλο",
+      "file_url": "https://silia.eett.gr/silia/download/e325ea1d-8f9e-4238-a7b5-ed080b1c4ed8"
+    },
+    {
+      "document_number": "400018/25-03-2020",
+      "protocol_number": "βεβαίωση 1ης ηλεκτροδότησης/",
+      "type": "Άλλο",
+      "file_url": "https://silia.eett.gr/silia/download/ea0ef242-a363-41e2-a274-16ba35b04062"
+    },
+    {
+      "document_number": "400736/30-03-2020",
+      "protocol_number": "απογραφή 1987/",
+      "type": "Άλλο",
+      "file_url": "https://silia.eett.gr/silia/download/b8b39f59-3aa0-49e3-a1d1-3ee44e320dbe"
+    },
+    {
+      "document_number": "400737/30-03-2020",
+      "protocol_number": "πίνακας 49 απογραφής ΕΡΤ 1987/",
+      "type": "Άλλο",
+      "file_url": "https://silia.eett.gr/silia/download/dce5cba3-1b94-4c43-b2a0-416a06226d9e"
+    },
+    {
+      "document_number": "401701/09-04-2020",
+      "protocol_number": "Αρχείο Αίτησης/",
+      "type": "Δήλωση Δομικών ΕΡΤ",
+      "file_url": "https://silia.eett.gr/silia/download/4f41e0dd-921c-4107-be76-14084afada13"
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "antenna_id": "169382",
+  "address": "ΛΕΩΦΟΡΟΣ ΜΕΣΟΓΕΙΩΝ 473 ΑΓΙΑ ΠΑΡΑΣΚΕΥΗ",
+  "position_code": 1151389,
+  "municipality": "Αγίας Παρασκευής",
+  "code_name": "3031389 EUROSOS AG PARASKEVI",
+  "region": "Αττικής",
+  "latitude": 38.014167,
+  "company": "VODAFONE",
+  "longitude": 23.825556,
+  "permit_status": "Από τα στοιχεία που τηρούνται στην Ενημερωτική Πύλη προκύπτει ότι, για τη θέση \"ΛΕΩΦΟΡΟΣ ΜΕΣΟΓΕΙΩΝ 473 ΑΓΙΑ ΠΑΡΑΣΚΕΥΗ\" στον Δήμο Αγίας Παρασκευής Περιφέρειας  Αττικής \n\t(κωδικός αριθμός θέσης 1151389, κωδική ονομασία \"3031389 EUROSOS AG PARASKEVI\") έχει κατατεθεί από την εταιρία VODAFONE\tδήλωση εγκατάστασης κατασκευής κεραίας (αριθ. πρωτ. \n\t52452/25-07-2023) που εμπίπτει στις διατάξεις της νομοθεσίας για Εγκαταστάσεις Κατασκευών Κεραιών Χαμηλής Ηλεκτρομαγνητικής Περιβαλλοντικής Όχλησης (ΕΚΚΧΟ).",
+  "measurements_eaee": "-",
+  "documents": [
+    {
+      "document_number": "491346/25-07-2023",
+      "protocol_number": "Φωτορεαλιστική απεικόνιση κεραιας  ΕΚΚΧΟ/",
+      "type": "Φωτογραφικό Υλικό - Σκαρίφημα",
+      "file_url": "https://silia.eett.gr/silia/download/cf36b7ba-6c7e-4d0a-8cc2-f3791dc7553a"
+    },
+    {
+      "document_number": "491347/25-07-2023",
+      "protocol_number": "Ψηφιακός Χάρτης με προβολή της θέσης ΕΚΚΧΟ/",
+      "type": "Φωτογραφικό Υλικό - Σκαρίφημα",
+      "file_url": "https://silia.eett.gr/silia/download/f056c525-a5e5-4c17-a6a4-ea6bebb5b50d"
+    },
+    {
+      "document_number": "491348/25-07-2023",
+      "protocol_number": "Μελέτη ΕΚΚΧΟ/20-07-2023",
+      "type": "Άλλο",
+      "file_url": "https://silia.eett.gr/silia/download/bd7c38b1-bc85-435a-a9da-34bbc4991f46"
+    },
+    {
+      "document_number": "491349/25-07-2023",
+      "protocol_number": "Αρχείο Αίτησης/",
+      "type": "Δήλωση ΕΚΚΧΟ",
+      "file_url": "https://silia.eett.gr/silia/download/cb38ec7c-a7fe-4d4f-adc3-c974ceb3ad02"
+    },
+    {
+      "document_number": "494145/13-09-2023",
+      "protocol_number": "ΥΔ εγκατάστασης/13-09-2023",
+      "type": "Άλλο",
+      "file_url": "https://silia.eett.gr/silia/download/fda50287-0a9a-4ad0-a462-4042be1b772d"
+    }
+  ]
+}

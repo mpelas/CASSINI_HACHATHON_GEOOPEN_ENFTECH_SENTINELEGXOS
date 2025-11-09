@@ -1,0 +1,117 @@
+{
+  "antenna_id": "164391",
+  "address": "ΗΓΟΥΜΕΝΙΤΣΑ",
+  "position_code": 3006045,
+  "municipality": "Ηγουμενίτσας",
+  "code_name": "ΗΓΟΥΜΕΝΙΤΣΑ",
+  "region": "Ηπείρου",
+  "latitude": 39.483333,
+  "company": "DIGEA",
+  "longitude": 20.235833,
+  "permit_status": "Από τα στοιχεία που τηρούνται στην Ενημερωτική Πύλη προκύπτει ότι, για τη θέση \"ΗΓΟΥΜΕΝΙΤΣΑ\" στον Δήμο Ηγουμενίτσας Περιφέρειας  Ηπείρου \n\t(κωδικός αριθμός θέσης 3006045, κωδική ονομασία \"ΗΓΟΥΜΕΝΙΤΣΑ\") χορηγήθηκε, με την Απόφαση της ΕΕΤΤ \n45295/30-09-2022, άδεια κατασκευής κεραίας στην εταιρία DIGEA. \nΑπό τo έγγραφο της άδειας μπορείτε να ενημερωθείτε για τις σχετικές εγκρίσεις των συναρμόδιων φορέων, καθώς και εάν πρόκειται για τροποποίηση παλαιότερης άδειας.\n\tΣύμφωνα με τα στοιχεία που έχουν υποβληθεί στο ΣΗΛΥΑ για την κατασκευή κεραίας από τον κάτοχό της, έχει εκδοθεί έγκριση δομικών κατασκευών κεραίας",
+  "measurements_eaee": "-",
+  "documents": [
+    {
+      "document_number": "461783/16-06-2022",
+      "protocol_number": "ΜΕΣΩ ΣΗΛΥΑ/",
+      "type": "Αρχιτεκτονικά Σχέδια",
+      "file_url": "https://silia.eett.gr/silia/download/7f50e5c7-6687-4baa-946c-1efae2ab897c"
+    },
+    {
+      "document_number": "461784/16-06-2022",
+      "protocol_number": "ΜΕΣΩ ΣΗΛΥΑ/",
+      "type": "Τοπογραφικό",
+      "file_url": "https://silia.eett.gr/silia/download/092e6235-d077-46f1-b5d3-081b849c2b51"
+    },
+    {
+      "document_number": "461785/16-06-2022",
+      "protocol_number": "55039/",
+      "type": "Αίτηση / Μελέτη για Έγκριση Περιβαλλοντικών Επιπτώσεων",
+      "file_url": "https://silia.eett.gr/silia/download/521e6703-3a82-40c0-9a51-8dfb49431a84"
+    },
+    {
+      "document_number": "461786/16-06-2022",
+      "protocol_number": "ΜΕΣΩ ΣΗΛΥΑ/",
+      "type": "Αίτηση - Μελέτη Ραδιοεκπομπών ΕΕΑΕ",
+      "file_url": "https://silia.eett.gr/silia/download/d25ec612-54aa-449e-a59f-b5a70ccdb19d"
+    },
+    {
+      "document_number": "461787/16-06-2022",
+      "protocol_number": "Δ5467/",
+      "type": "Συμπληρωματικά Έγγραφα",
+      "file_url": "https://silia.eett.gr/silia/download/5189ef64-843e-45a1-ba14-2cd63836ba86"
+    },
+    {
+      "document_number": "461789/16-06-2022",
+      "protocol_number": "40825/",
+      "type": "Χορήγηση Δικαιώματος Χρήσης Ραδιοσυχνοτήτων",
+      "file_url": "https://silia.eett.gr/silia/download/bb577069-30e4-4e4e-8600-0ef088a5d2a8"
+    },
+    {
+      "document_number": "461802/16-06-2022",
+      "protocol_number": "ΜΕΣΩ ΣΗΛΥΑ/",
+      "type": "Αίτηση ΥΠΑ",
+      "file_url": "https://silia.eett.gr/silia/download/11fe038e-0efd-4774-a99f-73632ebdbdcd"
+    },
+    {
+      "document_number": "461889/16-06-2022",
+      "protocol_number": "Αρχείο Αίτησης/",
+      "type": "Αίτηση Άδειας Κατασκευής Κεραίας ΕΕΤΤ",
+      "file_url": "https://silia.eett.gr/silia/download/d780bb0c-880d-443b-bb49-5bec12a2ea56"
+    },
+    {
+      "document_number": "462444/22-06-2022",
+      "protocol_number": "ΜΕΣΩ ΣΗΛΥΑ/",
+      "type": "Αίτηση ΥΠΑ",
+      "file_url": "https://silia.eett.gr/silia/download/645a9638-bf42-462c-9e8c-15e6fdfc8aed"
+    },
+    {
+      "document_number": "463431/06-07-2022",
+      "protocol_number": "Μ.ι./411/9764/2022/04-07-2022",
+      "type": "Γνωμάτευση ΕΕΑΕ",
+      "file_url": "https://silia.eett.gr/silia/download/9acd34fa-2a0f-4745-9d5e-36c369672f59"
+    },
+    {
+      "document_number": "466462/24-08-2022",
+      "protocol_number": "ΜΕΣΩ ΣΗΛΥΑ/",
+      "type": "Συμπληρωματικά Έγγραφα",
+      "file_url": null
+    },
+    {
+      "document_number": "466463/24-08-2022",
+      "protocol_number": "ΜΕΣΩ ΣΗΛΥΑ/",
+      "type": "Συμπληρωματικά Έγγραφα",
+      "file_url": null
+    },
+    {
+      "document_number": "466464/24-08-2022",
+      "protocol_number": "90837/",
+      "type": "Έγκριση Περιβαλλοντικών Όρων",
+      "file_url": "https://silia.eett.gr/silia/download/cb88df14-c2f9-4e8d-9895-4e4525bea08a"
+    },
+    {
+      "document_number": "467558/12-09-2022",
+      "protocol_number": "22879/",
+      "type": "Γνωμάτευση ΥΠΑ",
+      "file_url": "https://silia.eett.gr/silia/download/7ce46e55-d2d0-4990-a11a-aef1a65c054a"
+    },
+    {
+      "document_number": "468914/03-10-2022",
+      "protocol_number": "45295/30-09-2022",
+      "type": "Άδεια Κατασκευής  Κεραίας",
+      "file_url": "https://silia.eett.gr/silia/download/a5ce5009-3f11-4827-9f07-012cf3411aca"
+    },
+    {
+      "document_number": "468915/03-10-2022",
+      "protocol_number": "45295/30-09-2022",
+      "type": "Άδεια Κατασκευής  Κεραίας",
+      "file_url": "https://silia.eett.gr/silia/download/320c777b-7b6f-4f66-9093-1ef4321d3ba8"
+    },
+    {
+      "document_number": "324075/21-03-2018",
+      "protocol_number": "2/2016/",
+      "type": "Έγκριση δομικών κατασκευών (έντυπη)",
+      "file_url": "https://silia.eett.gr/silia/download/70b0cbdc-e4b5-49ef-9251-1286232de208"
+    }
+  ]
+}

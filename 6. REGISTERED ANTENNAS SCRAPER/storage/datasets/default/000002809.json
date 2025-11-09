@@ -1,0 +1,39 @@
+{
+  "antenna_id": "170638",
+  "address": "25ης Μαρτίου 71, Πετρούπολη",
+  "position_code": 1141923,
+  "municipality": "Πετρούπολης",
+  "code_name": "3031923 DEH KAT POL PETROUPOLI",
+  "region": "Αττικής",
+  "latitude": 38.043056,
+  "company": "VODAFONE",
+  "longitude": 23.683056,
+  "permit_status": "Από τα στοιχεία που τηρούνται στην Ενημερωτική Πύλη προκύπτει ότι, για τη θέση \"25ης Μαρτίου 71, Πετρούπολη \" στον Δήμο Πετρούπολης Περιφέρειας  Αττικής \n\t(κωδικός αριθμός θέσης 1141923, κωδική ονομασία \"3031923 DEH KAT POL PETROUPOLI\") έχει κατατεθεί από την εταιρία VODAFONE\tδήλωση εγκατάστασης κατασκευής κεραίας (αριθ. πρωτ. \n\t53479/24-10-2023) που εμπίπτει στις διατάξεις της νομοθεσίας για Εγκαταστάσεις Κατασκευών Κεραιών Χαμηλής Ηλεκτρομαγνητικής Περιβαλλοντικής Όχλησης (ΕΚΚΧΟ).",
+  "measurements_eaee": "-",
+  "documents": [
+    {
+      "document_number": "498449/24-10-2023",
+      "protocol_number": "Φωτορεαλιστική απεικόνιση κεραιας ΕΚΚΧΟ/",
+      "type": "Φωτογραφικό Υλικό - Σκαρίφημα",
+      "file_url": "https://silia.eett.gr/silia/download/5c6db6c0-ebdb-4e0f-8503-af1a884b6d5b"
+    },
+    {
+      "document_number": "498450/24-10-2023",
+      "protocol_number": "Ψηφιακός Χάρτης με προβολή της θέσης της κεραίας ΕΚΚΧΟ/",
+      "type": "Φωτογραφικό Υλικό - Σκαρίφημα",
+      "file_url": "https://silia.eett.gr/silia/download/de65419c-1bab-4884-a24a-ba2bdc0424db"
+    },
+    {
+      "document_number": "498490/24-10-2023",
+      "protocol_number": "Μελέτη ΕΚΚΧΟ/24-10-2023",
+      "type": "Άλλο",
+      "file_url": "https://silia.eett.gr/silia/download/bb7ec451-d59a-48d1-9d07-4a5cc3ca1014"
+    },
+    {
+      "document_number": "498491/24-10-2023",
+      "protocol_number": "Αρχείο Αίτησης/",
+      "type": "Δήλωση ΕΚΚΧΟ",
+      "file_url": "https://silia.eett.gr/silia/download/660fddd4-ecf6-4915-9eb0-79415c9fde37"
+    }
+  ]
+}

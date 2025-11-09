@@ -1,0 +1,45 @@
+{
+  "antenna_id": "166256",
+  "address": "25ης ΜΑΙΟΥ 141, Διδυμότειχο",
+  "position_code": 1149753,
+  "municipality": "Διδυμοτείχου",
+  "code_name": "3029753 DEH KAT POL DIDIMOTICHO",
+  "region": "Ανατ. Μακεδονίας και Θράκης",
+  "latitude": 41.352778,
+  "company": "VODAFONE",
+  "longitude": 26.503611,
+  "permit_status": "Από τα στοιχεία που τηρούνται στην Ενημερωτική Πύλη προκύπτει ότι, για τη θέση \"25ης ΜΑΙΟΥ 141, Διδυμότειχο\" στον Δήμο Διδυμοτείχου Περιφέρειας  Ανατ. Μακεδονίας και Θράκης \n\t(κωδικός αριθμός θέσης 1149753, κωδική ονομασία \"3029753 DEH KAT POL DIDIMOTICHO\") έχει κατατεθεί από την εταιρία VODAFONE\tδήλωση εγκατάστασης κατασκευής κεραίας (αριθ. πρωτ. \n\t49949/17-11-2022) που εμπίπτει στις διατάξεις της νομοθεσίας για Εγκαταστάσεις Κατασκευών Κεραιών Χαμηλής Ηλεκτρομαγνητικής Περιβαλλοντικής Όχλησης (ΕΚΚΧΟ).",
+  "measurements_eaee": "-",
+  "documents": [
+    {
+      "document_number": "472727/16-11-2022",
+      "protocol_number": "Φωτορεαλιστική απεικόνιση ΕΚΚΧΟ/",
+      "type": "Φωτογραφικό Υλικό - Σκαρίφημα",
+      "file_url": "https://silia.eett.gr/silia/download/172a253b-4e88-4d1c-bfcd-7ee1feb1e8dc"
+    },
+    {
+      "document_number": "472728/16-11-2022",
+      "protocol_number": "Ψηφιακός Χάρτης με προβολή της θέσης ΕΚΚΧΟ/",
+      "type": "Φωτογραφικό Υλικό - Σκαρίφημα",
+      "file_url": "https://silia.eett.gr/silia/download/7b188400-b710-4883-ad9f-338cfc156b62"
+    },
+    {
+      "document_number": "472801/17-11-2022",
+      "protocol_number": "Μελέτη ΕΚΚΧΟ/17-11-2022",
+      "type": "Άλλο",
+      "file_url": "https://silia.eett.gr/silia/download/0884ff1d-7ffa-4002-94e4-a1e6eac6c09c"
+    },
+    {
+      "document_number": "472802/17-11-2022",
+      "protocol_number": "Αρχείο Αίτησης/",
+      "type": "Δήλωση ΕΚΚΧΟ",
+      "file_url": "https://silia.eett.gr/silia/download/77adf6e7-102d-4d5d-a568-6da9f0d0092d"
+    },
+    {
+      "document_number": "476259/17-01-2023",
+      "protocol_number": "Σκαρίφημα με περιοχή απαγόρευσης/",
+      "type": "Φωτογραφικό Υλικό - Σκαρίφημα",
+      "file_url": "https://silia.eett.gr/silia/download/7f0b1ca6-602e-482d-9d30-bc20d5f3c4b8"
+    }
+  ]
+}

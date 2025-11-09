@@ -1,0 +1,99 @@
+{
+  "antenna_id": "175029",
+  "address": "ΕΟ ΘΕΣΣΑΛΟΝΙΚΗΣ ΚΑΒΑΛΑΣ ΛΟΓΚΑΡΙ",
+  "position_code": 5000229,
+  "municipality": "Αμφίπολης",
+  "code_name": "ΚΥΑΝΗ ΑΚΤΗ ΛΟΓΚΑΡΙ",
+  "region": "Κεντρικής Μακεδονίας",
+  "latitude": 40.763333,
+  "company": "ERMIS-WISP",
+  "longitude": 23.771111,
+  "permit_status": "Από τα στοιχεία που τηρούνται στην Ενημερωτική Πύλη προκύπτει ότι, για τη θέση \"ΕΟ ΘΕΣΣΑΛΟΝΙΚΗΣ ΚΑΒΑΛΑΣ ΛΟΓΚΑΡΙ\" στον Δήμο Αμφίπολης Περιφέρειας  Κεντρικής Μακεδονίας \n\t(κωδικός αριθμός θέσης 5000229, κωδική ονομασία \"ΚΥΑΝΗ ΑΚΤΗ ΛΟΓΚΑΡΙ\") έχει κατατεθεί από την εταιρία ERMIS-WISP\tδήλωση εγκατάστασης κατασκευής κεραίας (αριθ. πρωτ. \n\t57141/30-08-2024) που εμπίπτει στις διατάξεις της νομοθεσίας για Εγκαταστάσεις Κατασκευών Κεραιών Χαμηλής Ηλεκτρομαγνητικής Περιβαλλοντικής Όχλησης (ΕΚΚΧΟ).",
+  "measurements_eaee": "-",
+  "documents": [
+    {
+      "document_number": "524105/30-08-2024",
+      "protocol_number": "ΦΩΤΟΡΕΑΛΙΣΤΙΚΗ ΑΠΕΙΚΟΝΙΣΗ/30-08-2024",
+      "type": "Φωτογραφικό Υλικό - Σκαρίφημα",
+      "file_url": "https://silia.eett.gr/silia/download/U013Ccv7RguTnYfl9hvafFgTXtO3PKeo4Kwg"
+    },
+    {
+      "document_number": "524106/30-08-2024",
+      "protocol_number": "ΤΟΠΟΓΡΑΦΙΚΟ/30-08-2024",
+      "type": "Τοπογραφικό",
+      "file_url": "https://silia.eett.gr/silia/download/XyD75XDZgG6KCpx7d6WNAdcGNIeZ9Y6dKbA3"
+    },
+    {
+      "document_number": "524107/30-08-2024",
+      "protocol_number": "ΟΨΗ ΧΩΡΩΝ ΠΡΟΣΤΑΣΙΑΣ/30-08-2024",
+      "type": "Αρχιτεκτονικά [Κάτοψη - Τομή - Όψη]",
+      "file_url": "https://silia.eett.gr/silia/download/h4roNbl1UG82d6SyibQGaWLg9z924b2vArMh"
+    },
+    {
+      "document_number": "524108/30-08-2024",
+      "protocol_number": "ΟΨΗ ΙΣΤΟΥ/30-08-2024",
+      "type": "Αρχιτεκτονικά [Κάτοψη - Τομή - Όψη]",
+      "file_url": "https://silia.eett.gr/silia/download/WRtq8dnxRNrfNB0sZf1GwDT0o56iP4RiQTLh"
+    },
+    {
+      "document_number": "524109/30-08-2024",
+      "protocol_number": "ΚΑΤΟΨΗ ΧΩΡΩΝ ΠΡΟΣΤΑΣΙΑΣ/30-08-2024",
+      "type": "Αρχιτεκτονικά [Κάτοψη - Τομή - Όψη]",
+      "file_url": "https://silia.eett.gr/silia/download/KDXdBUYUTQtWixerChKGetFR6ZmRqTUTalvh"
+    },
+    {
+      "document_number": "524110/30-08-2024",
+      "protocol_number": "ΚΑΤΟΨΗ ΚΤΙΡΙΟΥ/30-08-2024",
+      "type": "Αρχιτεκτονικά [Κάτοψη - Τομή - Όψη]",
+      "file_url": "https://silia.eett.gr/silia/download/i95pUMTOYaG4Y553exR8UC4C2sf6GrWbxtXD"
+    },
+    {
+      "document_number": "524111/30-08-2024",
+      "protocol_number": "ΚΑΤΟΨΗ ΙΣΤΟΥ/30-08-2024",
+      "type": "Αρχιτεκτονικά [Κάτοψη - Τομή - Όψη]",
+      "file_url": "https://silia.eett.gr/silia/download/FGG1P0gHMt66uD8mbhZ7T4pegQgBEtdg9MiK"
+    },
+    {
+      "document_number": "524112/30-08-2024",
+      "protocol_number": "ΤΕΧΝΙΚΑ ΧΑΡΑΚΤΗΡΙΣΤΙΚΑ ΟΜΝΙΤΙΚ/30-08-2024",
+      "type": "Άλλο",
+      "file_url": "https://silia.eett.gr/silia/download/U8cBws52n1rWwiN1pcmvlC6cHPhWdYANaObs"
+    },
+    {
+      "document_number": "524113/30-08-2024",
+      "protocol_number": "ΔΙΑΓΡΑΜΜΑ ΑΚΤΙΝΟΒΟΛΙΑΣ ΟΜΝΙΤΙΚ/30-08-2024",
+      "type": "Άλλο",
+      "file_url": "https://silia.eett.gr/silia/download/8H69EcYEl8G5GCZTxGw4gOGneTnyFoWTQ5sG"
+    },
+    {
+      "document_number": "524114/30-08-2024",
+      "protocol_number": "ΤΕΧΝΙΚΑ ΧΑΡΑΚΤΗΡΙΣΤΙΚΑ ΜΑΝΤΒΟΧ-15/30-08-2024",
+      "type": "Άλλο",
+      "file_url": "https://silia.eett.gr/silia/download/r663bfs19gz6kRIm0QLoU7ICIKqzgfE0P1OO"
+    },
+    {
+      "document_number": "524115/30-08-2024",
+      "protocol_number": "ΔΗΛΩΣΗ ΣΥΜΜΟΡΦΩΣΗΣ ΟΜΝΙΤΙΚ/30-08-2024",
+      "type": "Άλλο",
+      "file_url": "https://silia.eett.gr/silia/download/6moMG3YO2gbTfLpnBAw8nXxloYQkEGDdDVw1"
+    },
+    {
+      "document_number": "524116/30-08-2024",
+      "protocol_number": "ΔΗΛΩΣΗ ΣΥΜΜΟΡΦΩΣΗΣ ΜΑΝΤΒΟΧ-15/30-08-2024",
+      "type": "Άλλο",
+      "file_url": "https://silia.eett.gr/silia/download/zKHnLeHzP2kPhIahI44yWKa4qYAQhnBuV5cd"
+    },
+    {
+      "document_number": "524117/30-08-2024",
+      "protocol_number": "Αρχείο Αίτησης/30-08-2024",
+      "type": "Δήλωση ΕΚΚΧΟ",
+      "file_url": "https://silia.eett.gr/silia/download/FOLk3cFNVZmIOPA7eAmArgWVlgVtgbiP759d"
+    },
+    {
+      "document_number": "536014/19-12-2024",
+      "protocol_number": "ΥΠΕΥΘΥΝΗ ΔΗΛΩΣΗ/19-12-2024",
+      "type": "Άλλο",
+      "file_url": "https://silia.eett.gr/silia/download/SqVaGMimteN1EWyXPVhrMsWMop9mR1swFVSV"
+    }
+  ]
+}

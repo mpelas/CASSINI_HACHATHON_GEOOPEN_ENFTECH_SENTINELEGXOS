@@ -1,0 +1,75 @@
+{
+  "antenna_id": "173915",
+  "address": "ΥΨ. ΠΡ. ΗΛΙΑΣ-ΑΝΩ ΖΗΡΙΑ",
+  "position_code": 1405089,
+  "municipality": "Αιγιαλείας",
+  "code_name": "Α/Τ ΑΝΩ ΖΗΡΙΑ",
+  "region": "Δυτικής Ελλάδας",
+  "latitude": 38.304167,
+  "company": "OTE",
+  "longitude": 21.939722,
+  "permit_status": "Από τα στοιχεία που τηρούνται στην Ενημερωτική Πύλη προκύπτει ότι, για τη θέση \"ΥΨ. ΠΡ. ΗΛΙΑΣ-ΑΝΩ ΖΗΡΙΑ\" στον Δήμο Αιγιαλείας Περιφέρειας  Δυτικής Ελλάδας \n\t(κωδικός αριθμός θέσης 1405089, κωδική ονομασία \"Α/Τ ΑΝΩ ΖΗΡΙΑ\") χορηγήθηκε, με την Απόφαση της ΕΕΤΤ \n51708/18-11-2024, άδεια κατασκευής κεραίας στην εταιρία OTE. \nΑπό τo έγγραφο της άδειας μπορείτε να ενημερωθείτε για τις σχετικές εγκρίσεις των συναρμόδιων φορέων, καθώς και εάν πρόκειται για τροποποίηση παλαιότερης άδειας.\n\tΣύμφωνα με τα στοιχεία που έχουν υποβληθεί στο ΣΗΛΥΑ, ο κάτοχος της κατασκευής κεραίας έχει δηλώσει ότι θα προβεί σε έκδοση έγκρισης δομικών κατασκευών \n\t\tκεραίας μέσω του e-Άδειες \n\t\tμετά την έκδοση της άδειας κατασκευής κεραίας / δημοσιοποίηση της δήλωσης τροποποίησης της κατασκευής κεραίας",
+  "measurements_eaee": "-",
+  "documents": [
+    {
+      "document_number": "517976/14-06-2024",
+      "protocol_number": "ΤΟΠΟΓΡΑΦΙΚΟ/14-06-2024",
+      "type": "Τοπογραφικό",
+      "file_url": "https://silia.eett.gr/silia/download/GivlvpC2iItIGy5vgWv59xtA04CNXvnz7qt2"
+    },
+    {
+      "document_number": "517977/14-06-2024",
+      "protocol_number": "ΑΡΧΙΤΕΚΤΟΝΙΚΑ/14-06-2024",
+      "type": "Αρχιτεκτονικά Σχέδια",
+      "file_url": "https://silia.eett.gr/silia/download/lcI6dg15bfz9t4tmMTdvEmEvcOYQrCSCTopM"
+    },
+    {
+      "document_number": "517978/14-06-2024",
+      "protocol_number": "Δ3/Δ/2762/311/03-03-1999",
+      "type": "Γνωμάτευση ΥΠΑ",
+      "file_url": "https://silia.eett.gr/silia/download/oRL3gExnvu7IZqdyEs3n7Ctdm6qOSMQgPug2"
+    },
+    {
+      "document_number": "517980/14-06-2024",
+      "protocol_number": "ΑΝΑΚΟΙΝΩΣΗ ΓΕΜΗ/14-06-2024",
+      "type": "Άλλο",
+      "file_url": "https://silia.eett.gr/silia/download/0lBzScAnrG7PyfZYwOHe2p1MZrtmPvZ5PmVq"
+    },
+    {
+      "document_number": "518197/18-06-2024",
+      "protocol_number": "ΜΕΛΕΤΗ Ρ/Ε/17-10-2023",
+      "type": "Αίτηση - Μελέτη Ραδιοεκπομπών ΕΕΑΕ",
+      "file_url": "https://silia.eett.gr/silia/download/GgHc8NRP9MIuQGtvqKWgrSG3zE6GKqaMmPIp"
+    },
+    {
+      "document_number": "518211/18-06-2024",
+      "protocol_number": "ΜΕΣΩ ΣΗΛΥΑ/18-06-2024",
+      "type": "Αίτηση ΥΠΑ",
+      "file_url": "https://silia.eett.gr/silia/download/FWR40sU3RA8WRKc5nongUoYmvYwXd6k6kKq1"
+    },
+    {
+      "document_number": "518213/18-06-2024",
+      "protocol_number": "Αρχείο Αίτησης/18-06-2024",
+      "type": "Αίτηση Άδειας Κατασκευής Κεραίας ΕΕΤΤ",
+      "file_url": "https://silia.eett.gr/silia/download/NPLLlHnFgWk56oowiU8e5GRuxgnV3PWggPLW"
+    },
+    {
+      "document_number": "523581/22-08-2024",
+      "protocol_number": "TMIA/411/11043/2024/22-08-2024",
+      "type": "Γνωμάτευση ΕΕΑΕ",
+      "file_url": "https://silia.eett.gr/silia/download/uHrlizRgUZT0zZBZZmqHVPPqqOmsQ7eIRk0M"
+    },
+    {
+      "document_number": "532817/18-11-2024",
+      "protocol_number": "51708/18-11-2024",
+      "type": "Άδεια Κατασκευής  Κεραίας",
+      "file_url": "https://silia.eett.gr/silia/download/pGSHDoFbHadGDU7VwOOpYkh6guYOAhc83qco"
+    },
+    {
+      "document_number": "518214/18-06-2024",
+      "protocol_number": "Αρχείο Αίτησης/18-06-2024",
+      "type": "Δήλωση ΠΠΔ",
+      "file_url": "https://silia.eett.gr/silia/download/d8MQKGDL3gEfeVuHNst1SwqRg5tKEvFA6WKE"
+    }
+  ]
+}

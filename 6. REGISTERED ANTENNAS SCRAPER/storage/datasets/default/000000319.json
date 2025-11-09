@@ -1,0 +1,45 @@
+{
+  "antenna_id": "176149",
+  "address": "ΘΕΣΗ ΚΑΤΩ ΜΠΕΡΜΠΑΤΙ, Δ. Ε. ΜΑΚΡΥΝΕΙΑΣ",
+  "position_code": 1290208,
+  "municipality": "Αγρινίου",
+  "code_name": "WEST TRIKORFO NAFPAKTIAS",
+  "region": "Δυτικής Ελλάδας",
+  "latitude": 38.436389,
+  "company": "NOVA Μ.Α.Ε.",
+  "longitude": 21.628611,
+  "permit_status": "Από τα στοιχεία που τηρούνται στην Ενημερωτική Πύλη προκύπτει ότι, για τη θέση \"ΘΕΣΗ ΚΑΤΩ ΜΠΕΡΜΠΑΤΙ, Δ. Ε. ΜΑΚΡΥΝΕΙΑΣ\" στον Δήμο Αγρινίου Περιφέρειας  Δυτικής Ελλάδας \n\t(κωδικός αριθμός θέσης 1290208, κωδική ονομασία \"WEST TRIKORFO NAFPAKTIAS\") έχει κατατεθεί από την εταιρία NOVA Μ.Α.Ε.\tδήλωση εγκατάστασης κατασκευής κεραίας (αριθ. πρωτ. \n\t29135/21-09-2018) που εμπίπτει στις διατάξεις της νομοθεσίας για Εγκαταστάσεις Κατασκευών Κεραιών Χαμηλής Ηλεκτρομαγνητικής Περιβαλλοντικής Όχλησης (ΕΚΚΧΟ).",
+  "measurements_eaee": "-",
+  "documents": [
+    {
+      "document_number": "337668/03-08-2018",
+      "protocol_number": "ΦΩΤΟΓΡΑΦΙΑ ΚΕΡΑΙΩΝ ΕΚΚΧΟ/",
+      "type": "Φωτογραφικό Υλικό - Σκαρίφημα",
+      "file_url": "https://silia.eett.gr/silia/download/d788ef52-fbb0-4382-bffe-0d0c3cb200e7"
+    },
+    {
+      "document_number": "337669/03-08-2018",
+      "protocol_number": "145455/12-07-2018",
+      "type": "Πράξη χαρακτηρισμού (άτυπη)",
+      "file_url": "https://silia.eett.gr/silia/download/098f1db8-4725-4c4a-abfd-8b9a192c213f"
+    },
+    {
+      "document_number": "337670/03-08-2018",
+      "protocol_number": "ΥΠΠΟΑ/ΓΔΑΜΤΕ/ΥΝΜΤΕΔΠΝΙ/155994/16471/2289/17-04-2018",
+      "type": "Γνωμοδότηση Υπηρεσίας Νεωτέρων Μνημείων",
+      "file_url": "https://silia.eett.gr/silia/download/3bffbb00-8964-409a-aa9f-9046d09dcaba"
+    },
+    {
+      "document_number": "341485/21-09-2018",
+      "protocol_number": "ΥΠΠΟΑ/ΓΔΑΠΚ/ΕΦΑΑΙΤ/458475/327508/4525/20-09-2018",
+      "type": "Αρχαιολογική έγκριση/γνωμοδότηση (μη τυπική)",
+      "file_url": "https://silia.eett.gr/silia/download/53be129e-5ed3-4508-9578-ba57623e99a3"
+    },
+    {
+      "document_number": "341489/21-09-2018",
+      "protocol_number": "Αρχείο Αίτησης/",
+      "type": "Δήλωση ΕΚΚΧΟ",
+      "file_url": "https://silia.eett.gr/silia/download/3970c8a9-86eb-428f-8c0f-1aea228c0ba2"
+    }
+  ]
+}

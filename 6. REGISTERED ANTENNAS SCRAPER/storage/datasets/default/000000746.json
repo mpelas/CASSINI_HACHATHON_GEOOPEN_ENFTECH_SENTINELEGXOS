@@ -1,0 +1,141 @@
+{
+  "antenna_id": "144103",
+  "address": "ΠΛΗΣΙΟΝ ΣΤΡΑΤΟΝΙΚΗΣ, Δ.Ε. ΣΤΑΓΕΙΡΩΝ-ΑΚΑΝΘΟΥ",
+  "position_code": 1204821,
+  "municipality": "Αριστοτέλη",
+  "code_name": "ΣΤΡΑΤΟΝΙΚΟ",
+  "region": "Κεντρικής Μακεδονίας",
+  "latitude": 40.534722,
+  "company": "NOVA Μ.Α.Ε.",
+  "longitude": 23.842222,
+  "permit_status": "Από τα στοιχεία που τηρούνται στην Ενημερωτική Πύλη προκύπτει ότι, για τη θέση \"ΠΛΗΣΙΟΝ ΣΤΡΑΤΟΝΙΚΗΣ, Δ.Ε. ΣΤΑΓΕΙΡΩΝ-ΑΚΑΝΘΟΥ\" στον Δήμο Αριστοτέλη Περιφέρειας  Κεντρικής Μακεδονίας \n\t(κωδικός αριθμός θέσης 1204821, κωδική ονομασία \"ΣΤΡΑΤΟΝΙΚΟ\") χορηγήθηκε, με την Απόφαση της ΕΕΤΤ \n45630/14-10-2022, άδεια κατασκευής κεραίας στην εταιρία NOVA Μ.Α.Ε.. \nΑπό τo έγγραφο της άδειας μπορείτε να ενημερωθείτε για τις σχετικές εγκρίσεις των συναρμόδιων φορέων, καθώς και εάν πρόκειται για τροποποίηση παλαιότερης άδειας.\nΗ άδεια χορηγήθηκε με τη διαδικασία αδειοδότησης που ορίζει ο ν. 4635/2019, κατόπιν της με αριθ. πρωτ. 34757/07-10-2019 \n\tαίτησης, και βάσει σχετικής δήλωσης του κατόχου της περί υπαγωγή της κατασκευής κεραίας στο άρθρο 34 του ν. 4635/2019.",
+  "measurements_eaee": "-",
+  "documents": [
+    {
+      "document_number": "376101/19-09-2019",
+      "protocol_number": "30753/Φ615/12-12-2018",
+      "type": "Χορήγηση Δικαιώματος Χρήσης Ραδιοσυχνοτήτων",
+      "file_url": null
+    },
+    {
+      "document_number": "376102/19-09-2019",
+      "protocol_number": "ΥΠΕΥΘΥΝΗ ΔΗΛΩΣΗ ΚΟΙΝΗΣ ΧΡΗΣΗΣ VODAFONE/19-09-2019",
+      "type": "Άλλο",
+      "file_url": "https://silia.eett.gr/silia/download/7a770db0-a1cd-458f-afad-5d613ab61867"
+    },
+    {
+      "document_number": "376103/19-09-2019",
+      "protocol_number": "ΥΠΕΥΘΥΝΗ ΔΗΛΩΣΗ ΔΙΑΣΥΝΔΕΣΗΣ VODAFONE/19-09-2019",
+      "type": "Άλλο",
+      "file_url": "https://silia.eett.gr/silia/download/beea68e5-f8dc-4d1f-ac48-cf2929aecaeb"
+    },
+    {
+      "document_number": "376104/19-09-2019",
+      "protocol_number": "Δ3/Δ/19829/4634/04-08-2008",
+      "type": "Γνωμάτευση ΥΠΑ",
+      "file_url": "https://silia.eett.gr/silia/download/bbed6a7c-4817-42a2-baac-476b762cff58"
+    },
+    {
+      "document_number": "376105/19-09-2019",
+      "protocol_number": "ΜΕΛΕΤΗ ΡΑΔΙΟΕΚΠΟΜΠΩΝ/14-08-2019",
+      "type": "Αίτηση - Μελέτη Ραδιοεκπομπών ΕΕΑΕ",
+      "file_url": "https://silia.eett.gr/silia/download/a389f296-f0b7-4629-aa40-5dbff3c53e98"
+    },
+    {
+      "document_number": "376106/19-09-2019",
+      "protocol_number": "ΤΟΠΟΓΡΑΦΙΚΟ/",
+      "type": "Τοπογραφικό",
+      "file_url": "https://silia.eett.gr/silia/download/890a255a-d840-4b4d-b384-a5385ba41582"
+    },
+    {
+      "document_number": "376107/19-09-2019",
+      "protocol_number": "ΑΡΧΙΤΕΚΤΟΝΙΚΑ ΣΧΕΔΙΑ/",
+      "type": "Αρχιτεκτονικά Σχέδια",
+      "file_url": "https://silia.eett.gr/silia/download/eaa63f9b-12da-4871-95ab-2377c1d61113"
+    },
+    {
+      "document_number": "378538/07-10-2019",
+      "protocol_number": "Αρχείο Αίτησης/",
+      "type": "Αίτηση Άδειας Κατασκευής Κεραίας ΕΕΤΤ",
+      "file_url": "https://silia.eett.gr/silia/download/7c7667d5-de6a-484e-b6b9-c4ac099344a0"
+    },
+    {
+      "document_number": "391439/29-01-2020",
+      "protocol_number": "Μ.ι./411/1488/2020/28-01-2020",
+      "type": "Γνωμάτευση ΕΕΑΕ",
+      "file_url": "https://silia.eett.gr/silia/download/d25889c1-9ada-4713-ba52-7a7b9a40c43e"
+    },
+    {
+      "document_number": "409019/28-05-2020",
+      "protocol_number": "33081/25-05-2020",
+      "type": "Αίτηση ΓΕΑ",
+      "file_url": "https://silia.eett.gr/silia/download/6be5f204-2718-4aa3-8f83-f530823033b1"
+    },
+    {
+      "document_number": "456231/11-04-2022",
+      "protocol_number": "ΥΠΕΥΘΥΝΗ ΔΗΛΩΣΗ ΕΞΑΙΡΕΣΗΣ ΓΕΑ/11-06-2020",
+      "type": "Άλλο",
+      "file_url": "https://silia.eett.gr/silia/download/f87768e3-0430-4b10-896b-29d584e6ba4b"
+    },
+    {
+      "document_number": "469992/17-10-2022",
+      "protocol_number": "45630/14-10-2022",
+      "type": "Άδεια Κατασκευής  Κεραίας",
+      "file_url": "https://silia.eett.gr/silia/download/b647e6c6-9c37-4e7a-a7de-e3e7dbebbf35"
+    },
+    {
+      "document_number": "467489/09-09-2022",
+      "protocol_number": "Μ.ι./411/1488/2020/28-01-2020",
+      "type": "Γνωμάτευση ΕΕΑΕ",
+      "file_url": "https://silia.eett.gr/silia/download/d25889c1-9ada-4713-ba52-7a7b9a40c43e"
+    },
+    {
+      "document_number": "467490/09-09-2022",
+      "protocol_number": "I-277682/27-02-2020",
+      "type": "Αίτηση προς Αρμόδιο Φορέα",
+      "file_url": "https://silia.eett.gr/silia/download/432c6f51-f405-4f3d-9fa2-4c1bd57fda95"
+    },
+    {
+      "document_number": "467491/09-09-2022",
+      "protocol_number": "13/2022/07-09-2022",
+      "type": "Απόφαση εξαίρεσης ΡΑΕ",
+      "file_url": "https://silia.eett.gr/silia/download/c4650943-7027-40c0-83f4-fc7689738be5"
+    },
+    {
+      "document_number": "467492/09-09-2022",
+      "protocol_number": "ΤΟΠΟΓΡΑΦΙΚΟ/",
+      "type": "Τοπογραφικό",
+      "file_url": "https://silia.eett.gr/silia/download/f1fb442d-5f2e-4533-b0d4-966734a3626f"
+    },
+    {
+      "document_number": "467493/09-09-2022",
+      "protocol_number": "85154 ΑΠΑ 2019/24-09-2019",
+      "type": "Βεβαίωση Κτηματικής Υπηρεσίας Δημοσίου",
+      "file_url": "https://silia.eett.gr/silia/download/bf018db7-d0ec-4fea-ac74-32361c67d3fb"
+    },
+    {
+      "document_number": "467494/09-09-2022",
+      "protocol_number": "588192(19726)/03-10-2019",
+      "type": "Βεβαίωση Υπουργείου Αγροτικής Ανάπτυξης",
+      "file_url": "https://silia.eett.gr/silia/download/c8dadfab-0501-4058-ac69-703f268562e5"
+    },
+    {
+      "document_number": "467495/09-09-2022",
+      "protocol_number": "533465/2405/2019/27-08-2019",
+      "type": "Αίτηση προς Αρμόδιο Φορέα",
+      "file_url": "https://silia.eett.gr/silia/download/1abcab78-cd3d-4b0e-ba63-27ff5d18e74e"
+    },
+    {
+      "document_number": "467496/09-09-2022",
+      "protocol_number": "533465/2405/27-11-2019",
+      "type": "Έγκριση Αρμοδίου Φορέα",
+      "file_url": "https://silia.eett.gr/silia/download/775cf8e3-1224-4fe1-81b4-e3e20c314e39"
+    },
+    {
+      "document_number": "467497/09-09-2022",
+      "protocol_number": "Αρχείο Αίτησης/",
+      "type": "Δήλωση ΠΠΔ",
+      "file_url": "https://silia.eett.gr/silia/download/9ed56d99-e535-45ce-986a-70115a2267b5"
+    }
+  ]
+}

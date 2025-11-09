@@ -1,0 +1,81 @@
+{
+  "antenna_id": "150987",
+  "address": "ΥΨΩΜΑ ΓΚΑΡΓΚΑΝΗ",
+  "position_code": 1406408,
+  "municipality": "Ρεθύμνης",
+  "code_name": "ΧΑΡΚΙΑ/Χ",
+  "region": "Κρήτης",
+  "latitude": 35.302778,
+  "company": "OTE",
+  "longitude": 24.572222,
+  "permit_status": "Από τα στοιχεία που τηρούνται στην Ενημερωτική Πύλη προκύπτει ότι, για τη θέση \"ΥΨΩΜΑ ΓΚΑΡΓΚΑΝΗ\" στον Δήμο Ρεθύμνης Περιφέρειας  Κρήτης \n\t(κωδικός αριθμός θέσης 1406408, κωδική ονομασία \"ΧΑΡΚΙΑ/Χ\") χορηγήθηκε, με την Απόφαση της ΕΕΤΤ \n36888/Φ610/24-09-2020, άδεια κατασκευής κεραίας στην εταιρία OTE. \nΑπό τo έγγραφο της άδειας μπορείτε να ενημερωθείτε για τις σχετικές εγκρίσεις των συναρμόδιων φορέων, καθώς και εάν πρόκειται για τροποποίηση παλαιότερης άδειας.\nΗ άδεια χορηγήθηκε με τη διαδικασία αδειοδότησης που ορίζει ο ν. 4635/2019, κατόπιν της με αριθ. πρωτ. 37603/28-02-2020 \n\tαίτησης, και βάσει σχετικής δήλωσης του κατόχου της περί υπαγωγή της κατασκευής κεραίας στο άρθρο 34 του ν. 4635/2019.",
+  "measurements_eaee": "-",
+  "documents": [
+    {
+      "document_number": "397855/28-02-2020",
+      "protocol_number": "806/28-02-2020",
+      "type": "Αίτηση / Μελέτη για Έγκριση Περιβαλλοντικών Επιπτώσεων",
+      "file_url": "https://silia.eett.gr/silia/download/a293547d-df46-479f-9714-855cfa416564"
+    },
+    {
+      "document_number": "397856/28-02-2020",
+      "protocol_number": "ΜΕΣΩ ΣΗΛΥΑ/",
+      "type": "Τοπογραφικό",
+      "file_url": "https://silia.eett.gr/silia/download/22a7cc5a-174e-4c5e-905c-9fe163a32a0a"
+    },
+    {
+      "document_number": "397857/28-02-2020",
+      "protocol_number": "ΜΕΣΩ ΣΗΛΥΑ/",
+      "type": "Αρχιτεκτονικά Σχέδια",
+      "file_url": "https://silia.eett.gr/silia/download/84276377-6675-4fb7-bb08-64d46330f242"
+    },
+    {
+      "document_number": "397858/28-02-2020",
+      "protocol_number": "Δ3/Δ/28663/4961/06-09-2000",
+      "type": "Γνωμάτευση ΥΠΑ",
+      "file_url": "https://silia.eett.gr/silia/download/06816e45-a054-40ca-8690-2fe8188160e0"
+    },
+    {
+      "document_number": "397859/28-02-2020",
+      "protocol_number": "ΜΕΣΩ ΣΗΛΥΑ/09-01-2020",
+      "type": "Αίτηση - Μελέτη Ραδιοεκπομπών ΕΕΑΕ",
+      "file_url": "https://silia.eett.gr/silia/download/a0f669c2-8f85-4b21-b43b-94665e3c1d98"
+    },
+    {
+      "document_number": "397860/28-02-2020",
+      "protocol_number": "ΥΠ.ΔΗΛΩΣΗ ΣΥΝΕΓΚΑΤΑΣΤΑΣΗΣ ΟΤΕ/28-02-2020",
+      "type": "Άλλο",
+      "file_url": "https://silia.eett.gr/silia/download/2d21ee9b-a74c-4108-8d09-07c08c05ca32"
+    },
+    {
+      "document_number": "397967/28-02-2020",
+      "protocol_number": "Αρχείο Αίτησης/",
+      "type": "Αίτηση Άδειας Κατασκευής Κεραίας ΕΕΤΤ",
+      "file_url": "https://silia.eett.gr/silia/download/566833f6-4b8c-4ccd-9398-dbce579a0a84"
+    },
+    {
+      "document_number": "401604/08-04-2020",
+      "protocol_number": "ΜΕΣΩ ΣΗΛΥΑ/",
+      "type": "Αίτηση - Μελέτη Ραδιοεκπομπών ΕΕΑΕ",
+      "file_url": "https://silia.eett.gr/silia/download/a0a3e2c1-d376-478f-a415-13ae4756af58"
+    },
+    {
+      "document_number": "401627/08-04-2020",
+      "protocol_number": "M.i./4849/2020/08-04-2020",
+      "type": "Γνωμάτευση ΕΕΑΕ",
+      "file_url": "https://silia.eett.gr/silia/download/4cdd3742-df33-48c1-8279-c76d830725f5"
+    },
+    {
+      "document_number": "414085/27-07-2020",
+      "protocol_number": "2557/27-07-2020",
+      "type": "Έγκριση Περιβαλλοντικών Όρων",
+      "file_url": "https://silia.eett.gr/silia/download/18e8d297-24ab-44a0-91ef-2b7c774b99a0"
+    },
+    {
+      "document_number": "417392/25-09-2020",
+      "protocol_number": "36888/Φ610/24-09-2020",
+      "type": "Άδεια Κατασκευής  Κεραίας",
+      "file_url": "https://silia.eett.gr/silia/download/354fe07f-25b3-4d1d-9d3d-05da51797e5a"
+    }
+  ]
+}

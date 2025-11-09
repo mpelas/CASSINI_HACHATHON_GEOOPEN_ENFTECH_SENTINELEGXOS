@@ -1,0 +1,51 @@
+{
+  "antenna_id": "164616",
+  "address": "ΚΕΡΑΜΙΔΙ",
+  "position_code": 400104,
+  "municipality": "Ρήγα Φερραίου",
+  "code_name": "ΚΕΡΑΜΙΔΙ Τ/Σ",
+  "region": "Θεσσαλίας",
+  "latitude": 39.572778,
+  "company": "OTE",
+  "longitude": 22.911667,
+  "permit_status": "Από τα στοιχεία που τηρούνται στην Ενημερωτική Πύλη προκύπτει ότι, για τη θέση \"ΚΕΡΑΜΙΔΙ\" στον Δήμο Ρήγα Φερραίου Περιφέρειας  Θεσσαλίας \n\t(κωδικός αριθμός θέσης 0400104, κωδική ονομασία \"ΚΕΡΑΜΙΔΙ Τ/Σ\") έχει κατατεθεί από την εταιρία OTE\tδήλωση εγκατάστασης κατασκευής κεραίας (αριθ. πρωτ. \n\t54645/06-02-2024) που εμπίπτει στις διατάξεις της νομοθεσίας για Εγκαταστάσεις Κατασκευών Κεραιών Χαμηλής Ηλεκτρομαγνητικής Περιβαλλοντικής Όχλησης (ΕΚΚΧΟ).",
+  "measurements_eaee": "-",
+  "documents": [
+    {
+      "document_number": "463202/30-06-2022",
+      "protocol_number": "ΦΩΤΟΓΡΑΦΙΑ/",
+      "type": "Φωτογραφικό Υλικό - Σκαρίφημα",
+      "file_url": "https://silia.eett.gr/silia/download/9c5b92bb-ab90-4742-b90d-97d853f6060e"
+    },
+    {
+      "document_number": "475820/03-01-2023",
+      "protocol_number": "31420/23-12-2022",
+      "type": "Έγκριση Αρμοδίου Φορέα",
+      "file_url": "https://silia.eett.gr/silia/download/a3858245-5cb2-48e4-bc71-7c99bc8127cd"
+    },
+    {
+      "document_number": "506685/06-02-2024",
+      "protocol_number": "ΜΕΛΕΤΗ ΡΑΔΙΟΕΚΠΟΜΠΩΝ ΕΚΚΧΟ/06-02-2024",
+      "type": "Αίτηση - Μελέτη Ραδιοεκπομπών ΕΕΑΕ",
+      "file_url": "https://silia.eett.gr/silia/download/b5870109-27f5-495b-8915-4f6c5363320f"
+    },
+    {
+      "document_number": "506686/06-02-2024",
+      "protocol_number": "ΦΩΤΟΓΡΑΦΙΑ/06-02-2024",
+      "type": "Φωτογραφικό Υλικό - Σκαρίφημα",
+      "file_url": "https://silia.eett.gr/silia/download/9e0bb293-009f-4159-90e6-ab753ffb2234"
+    },
+    {
+      "document_number": "506687/06-02-2024",
+      "protocol_number": "Αρχείο Αίτησης/",
+      "type": "Δήλωση ΕΚΚΧΟ",
+      "file_url": "https://silia.eett.gr/silia/download/f9fefdbd-502a-4bed-a271-8133a6dc006c"
+    },
+    {
+      "document_number": "526772/25-09-2024",
+      "protocol_number": "ΥΠ.ΔΗΛΩΣΗ/25-09-2024",
+      "type": "Άλλο",
+      "file_url": "https://silia.eett.gr/silia/download/emwdRVGFEZ33KzeOTb1An9pA3F5bGBx38uyO"
+    }
+  ]
+}

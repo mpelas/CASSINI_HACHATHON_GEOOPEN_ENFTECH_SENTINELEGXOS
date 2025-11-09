@@ -1,0 +1,111 @@
+{
+  "antenna_id": "104313",
+  "address": "ΠΛΗΣΙΟΝ ΧΙΟΝΟΔΡΟΜΙΚΟΥ ΚΕΝΤΡΟΥ ΚΑΙΜΑΚΤΖΑΛΑΝ",
+  "position_code": 1200926,
+  "municipality": "Φλώρινας",
+  "code_name": "ΚΑΪΜΑΚΤΖΑΛΑΝ",
+  "region": "Δυτικής Μακεδονίας",
+  "latitude": 40.9025,
+  "company": "NOVA Μ.Α.Ε.",
+  "longitude": 21.818611,
+  "permit_status": "Από τα στοιχεία που τηρούνται στην Ενημερωτική Πύλη προκύπτει ότι, για τη θέση \"ΠΛΗΣΙΟΝ ΧΙΟΝΟΔΡΟΜΙΚΟΥ ΚΕΝΤΡΟΥ ΚΑΙΜΑΚΤΖΑΛΑΝ\" στον Δήμο Φλώρινας Περιφέρειας  Δυτικής Μακεδονίας \n\t(κωδικός αριθμός θέσης 1200926, κωδική ονομασία \"ΚΑΪΜΑΚΤΖΑΛΑΝ\") χορηγήθηκε, με την Απόφαση της ΕΕΤΤ \n15916/Φ610/27-04-2015, άδεια κατασκευής κεραίας στην εταιρία NOVA Μ.Α.Ε.. \nΑπό τo έγγραφο της άδειας μπορείτε να ενημερωθείτε για τις σχετικές εγκρίσεις των συναρμόδιων φορέων, καθώς και εάν πρόκειται για τροποποίηση παλαιότερης άδειας.\n\tΗ άδεια χορηγήθηκε κατόπιν της με Αριθ. Πρωτ. 35484 /14-09-2011 αίτησης. \n\tΓια την έκδοση της άδειας εφαρμόστηκε το προγενέστερο του Ν.4053/2012 νομοθετικό πλαίσιο, καθώς κατά δήλωση της εταιρίας, η κατασκευή πληρούσε \nτις προϋποθέσεις του άρθρου 31 του Ν.4053/2012.",
+  "measurements_eaee": "-",
+  "documents": [
+    {
+      "document_number": "193900/07-01-2015",
+      "protocol_number": "Μ.Ι./411/1918/21-05-2010",
+      "type": "Γνωμάτευση ΕΕΑΕ",
+      "file_url": "https://silia.eett.gr/silia/download/a52ddb14-098e-4211-914c-e388c870b516"
+    },
+    {
+      "document_number": "193901/07-01-2015",
+      "protocol_number": "13708/460/18-2-2010(ΔΙΑΒΙΒΑΣΤΙΚΟΠΟΥ ΑΝΑΦΕΡΕΙ ΤΟ ΠΡΩΤ. ΜΠΕ)/15-06-2011",
+      "type": "Αίτηση / Μελέτη για Έγκριση Περιβαλλοντικών Επιπτώσεων (νόμιμη λειτουργία)",
+      "file_url": "https://silia.eett.gr/silia/download/754f1661-0907-41c9-89ea-948ab3873632"
+    },
+    {
+      "document_number": "193902/07-01-2015",
+      "protocol_number": "35484/14-09-2011",
+      "type": "Αίτηση Άδειας Κατασκευής Κεραίας ΕΕΤΤ (νομίμως λειτουργούσα)",
+      "file_url": "https://silia.eett.gr/silia/download/cbcc41ba-00f5-4e9b-88bb-c8f12df480a0"
+    },
+    {
+      "document_number": "193903/07-01-2015",
+      "protocol_number": "Τ:Ε26287/06-02-2008",
+      "type": "Αποδεικτικό Καταβολής Τελών ΕΕΤΤ",
+      "file_url": "https://silia.eett.gr/silia/download/af6938ea-6757-4a59-87dc-88de2203c872"
+    },
+    {
+      "document_number": "193904/07-01-2015",
+      "protocol_number": "Δ3/Δ/39523/6907/15-09-1999",
+      "type": "Γνωμάτευση ΥΠΑ",
+      "file_url": "https://silia.eett.gr/silia/download/1374fb9a-3c09-4d1e-b050-c147a27324f9"
+    },
+    {
+      "document_number": "193905/07-01-2015",
+      "protocol_number": "Δ3/Δ/3271/06-06-2011",
+      "type": "Γνωμάτευση ΥΠΑ",
+      "file_url": "https://silia.eett.gr/silia/download/981b3248-1e9e-4024-a4a0-d0868fa07b44"
+    },
+    {
+      "document_number": "193906/07-01-2015",
+      "protocol_number": "64497/2726/31-01-2014",
+      "type": "Έγκριση Περιβαλλοντικών Όρων",
+      "file_url": "https://silia.eett.gr/silia/download/aa590a84-8702-4d5f-9d90-15bf647caa2d"
+    },
+    {
+      "document_number": "193934/07-01-2015",
+      "protocol_number": "ΥΠΕΥΘΥΝΗ ΔΗΛΩΣΗ ΝΛ/07-01-2015",
+      "type": "Άλλο",
+      "file_url": "https://silia.eett.gr/silia/download/41a802bb-c8b0-4122-92a3-75532f2eb173"
+    },
+    {
+      "document_number": "200985/23-03-2015",
+      "protocol_number": "695/02-02-2010",
+      "type": "Αίτηση - Μελέτη Ραδιοεκπομπών ΕΕΑΕ",
+      "file_url": "https://silia.eett.gr/silia/download/91456cbb-f73f-4536-bfde-3ef18dfa9c04"
+    },
+    {
+      "document_number": "201026/23-03-2015",
+      "protocol_number": "Αρχείο Αίτησης/",
+      "type": "Αίτηση Άδειας Κατασκευής Κεραίας ΕΕΤΤ",
+      "file_url": "https://silia.eett.gr/silia/download/25735ce4-8b9e-4c29-820d-77fe41575e30"
+    },
+    {
+      "document_number": "201828/01-04-2015",
+      "protocol_number": "77488/2566ΠΕ/08-06-2011",
+      "type": "Άλλο",
+      "file_url": "https://silia.eett.gr/silia/download/e5d2edfb-5112-42fa-8ac7-47168baede27"
+    },
+    {
+      "document_number": "201829/01-04-2015",
+      "protocol_number": "24638/2195/23-06-2011",
+      "type": "Άλλο",
+      "file_url": "https://silia.eett.gr/silia/download/7432a3e3-c26c-4896-8fd0-0562fa9bfa7b"
+    },
+    {
+      "document_number": "201984/02-04-2015",
+      "protocol_number": "30949/2911/25-07-2011",
+      "type": "Αίτηση προς Αρμόδιο Φορέα",
+      "file_url": "https://silia.eett.gr/silia/download/a939fd51-b72c-4ab1-80cd-4c14602b25a1"
+    },
+    {
+      "document_number": "202210/03-04-2015",
+      "protocol_number": "ΥΠΕΥΘΥΝΗ ΔΗΛΩΣΗ ΠΡΩΤ. ΜΠΕ/03-04-2015",
+      "type": "Άλλο",
+      "file_url": "https://silia.eett.gr/silia/download/b26a378d-df7a-4b0b-8765-e5de04ae60f9"
+    },
+    {
+      "document_number": "202211/03-04-2015",
+      "protocol_number": "13708/460/18-2-2010(ΔΙΑΒΙΒΑΣΤΙΚΟ 77488/2566πε/8-6-2011ΠΟΥ ΑΝΑΦΕΡΕΙ ΤΟ ΠΡΩΤ. ΜΠΕ 13708/460/18-2-2010)/18-02-2010",
+      "type": "Αίτηση / Μελέτη για Έγκριση Περιβαλλοντικών Επιπτώσεων (νόμιμη λειτουργία)",
+      "file_url": "https://silia.eett.gr/silia/download/eb12550b-76d7-40db-b413-0ef95c204cab"
+    },
+    {
+      "document_number": "207478/14-05-2015",
+      "protocol_number": "15916/Φ610/27-04-2015",
+      "type": "Άδεια Κατασκευής  Κεραίας",
+      "file_url": "https://silia.eett.gr/silia/download/05cccb00-d7d9-4c9e-8930-2746a22cfe5b"
+    }
+  ]
+}

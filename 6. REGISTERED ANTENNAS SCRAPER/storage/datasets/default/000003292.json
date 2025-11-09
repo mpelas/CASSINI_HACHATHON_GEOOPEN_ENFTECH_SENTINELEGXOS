@@ -1,0 +1,129 @@
+{
+  "antenna_id": "134495",
+  "address": "ΠΛΗΣΙΟΝ ΧΩΡΙΟΥ ΑΓ. ΒΗΣΣΑΡΙΟΣ Δ.Ε. ΣΟΦΑΔΩΝ",
+  "position_code": 1214860,
+  "municipality": "Σοφάδων",
+  "code_name": "ΑΓΙΟΣ ΒΗΣΣΑΡΙΟΣ REL.",
+  "region": "Θεσσαλίας",
+  "latitude": 39.296389,
+  "company": "NOVA Μ.Α.Ε.",
+  "longitude": 22.159444,
+  "permit_status": "Από τα στοιχεία που τηρούνται στην Ενημερωτική Πύλη προκύπτει ότι, για τη θέση \"ΠΛΗΣΙΟΝ ΧΩΡΙΟΥ ΑΓ. ΒΗΣΣΑΡΙΟΣ Δ.Ε. ΣΟΦΑΔΩΝ\" στον Δήμο Σοφάδων Περιφέρειας  Θεσσαλίας \n\t(κωδικός αριθμός θέσης 1214860, κωδική ονομασία \"ΑΓΙΟΣ ΒΗΣΣΑΡΙΟΣ REL.\") χορηγήθηκε, με την Απόφαση της ΕΕΤΤ \n31295/Φ610/25-01-2019, άδεια κατασκευής κεραίας στην εταιρία NOVA Μ.Α.Ε.. \nΑπό τo έγγραφο της άδειας μπορείτε να ενημερωθείτε για τις σχετικές εγκρίσεις των συναρμόδιων φορέων, καθώς και εάν πρόκειται για τροποποίηση παλαιότερης άδειας.\nΗ άδεια χορηγήθηκε, κατόπιν της με Αριθ. Πρωτ. 28892/06-09-2018 αίτησης, \n\tμε τη διαδικασία αδειοδότησης της παρ. 17 του άρθρου 30 του Ν.4070/2012 που πλέον έχει αντικατασταθεί από τη διαδικασία που ορίζει ο ν. 4635/2019.\n\tΣύμφωνα με τα στοιχεία που έχουν υποβληθεί στο ΣΗΛΥΑ για την κατασκευή κεραίας από τον κάτοχό της, έχει εκδοθεί έγκριση δομικών κατασκευών κεραίας",
+  "measurements_eaee": "-",
+  "documents": [
+    {
+      "document_number": "339447/06-09-2018",
+      "protocol_number": "28716/Φ615/06-07-2018",
+      "type": "Χορήγηση Δικαιώματος Χρήσης Ραδιοσυχνοτήτων",
+      "file_url": null
+    },
+    {
+      "document_number": "339455/06-09-2018",
+      "protocol_number": "ΜΕΛΕΤΗ ΡΑΔΙΟΕΚΠΟΜΠΩΝ/20-06-2018",
+      "type": "Αίτηση - Μελέτη Ραδιοεκπομπών ΕΕΑΕ",
+      "file_url": "https://silia.eett.gr/silia/download/7360ca4a-c701-4c61-b2ea-bbcbf633fa4f"
+    },
+    {
+      "document_number": "339456/06-09-2018",
+      "protocol_number": "ΤΟΠΟΓΡΑΦΙΚΟ/",
+      "type": "Τοπογραφικό",
+      "file_url": "https://silia.eett.gr/silia/download/079c8cb5-5d6f-4ad3-a565-e19d48e006f2"
+    },
+    {
+      "document_number": "339457/06-09-2018",
+      "protocol_number": "ΑΡΧΙΤΕΚΤΟΝΙΚΑ ΣΧΕΔΙΑ/",
+      "type": "Αρχιτεκτονικά Σχέδια",
+      "file_url": "https://silia.eett.gr/silia/download/650ebb83-9be9-456d-b490-61b0115c7d26"
+    },
+    {
+      "document_number": "339458/06-09-2018",
+      "protocol_number": "ΧΑΡΤΗΣ 1:50000/",
+      "type": "Αίτηση ΥΠΑ",
+      "file_url": "https://silia.eett.gr/silia/download/8c87cfd9-087d-409c-b655-1530ab353c4f"
+    },
+    {
+      "document_number": "339459/06-09-2018",
+      "protocol_number": "2190/04-07-2018",
+      "type": "Γνωμοδότηση Υπηρεσίας Νεωτέρων Μνημείων",
+      "file_url": "https://silia.eett.gr/silia/download/a31aced0-c653-42fb-b4e8-2a6c8a7d3d32"
+    },
+    {
+      "document_number": "339460/06-09-2018",
+      "protocol_number": "2083/06-07-2018",
+      "type": "Αρχαιολογική έγκριση/γνωμοδότηση (μη τυπική)",
+      "file_url": "https://silia.eett.gr/silia/download/c8f9e76b-e23f-4728-9c88-684cad9e7e85"
+    },
+    {
+      "document_number": "339477/06-09-2018",
+      "protocol_number": "Αρχείο Αίτησης/",
+      "type": "Αίτηση Άδειας Κατασκευής Κεραίας ΕΕΤΤ",
+      "file_url": "https://silia.eett.gr/silia/download/311b00cd-7140-4a87-9cb6-ff1d73665800"
+    },
+    {
+      "document_number": "339520/06-09-2018",
+      "protocol_number": "ΥΠΕΥΘΥΝΗ ΔΗΛΩΣΗ ΔΙΑΣΥΝΔΕΣΗΣ VODAFONE/06-09-2018",
+      "type": "Άλλο",
+      "file_url": "https://silia.eett.gr/silia/download/295f7a59-d931-457d-ae92-0f73b356a032"
+    },
+    {
+      "document_number": "341898/25-09-2018",
+      "protocol_number": "Δ3/Δ/22114/6405/21-9-2018/25-09-2018",
+      "type": "Γνωμάτευση ΥΠΑ",
+      "file_url": "https://silia.eett.gr/silia/download/50b414d2-29d0-4bdf-98cc-a210495be2a8"
+    },
+    {
+      "document_number": "350929/30-11-2018",
+      "protocol_number": "Μ.ι./411/18248/2018/30-11-2018",
+      "type": "Γνωμάτευση ΕΕΑΕ",
+      "file_url": "https://silia.eett.gr/silia/download/7a696c8d-33aa-45ad-ac06-f432b56e2f0d"
+    },
+    {
+      "document_number": "353129/09-01-2019",
+      "protocol_number": "4135/2018/06-12-2018",
+      "type": "Έγκριση δομικών κατασκευών (έντυπη)",
+      "file_url": "https://silia.eett.gr/silia/download/2e97c694-d792-41b3-84fc-836a1f49bed0"
+    },
+    {
+      "document_number": "353783/15-01-2019",
+      "protocol_number": "ΥΠΕΥΘΥΝΗ ΔΗΛΩΣΗ ΚΟΙΝΗΣ ΧΡΗΣΗΣ VODAFONE/15-01-2019",
+      "type": "Άλλο",
+      "file_url": "https://silia.eett.gr/silia/download/77dfeae4-870b-41e7-8f0c-ccd167854588"
+    },
+    {
+      "document_number": "357281/11-02-2019",
+      "protocol_number": "31295/Φ610/25-01-2019",
+      "type": "Άδεια Κατασκευής  Κεραίας",
+      "file_url": "https://silia.eett.gr/silia/download/a738c2c4-fb43-4fc4-8dfd-a3354fa8015a"
+    },
+    {
+      "document_number": "353129/09-01-2019",
+      "protocol_number": "4135/2018/06-12-2018",
+      "type": "Έγκριση δομικών κατασκευών (έντυπη)",
+      "file_url": "https://silia.eett.gr/silia/download/2e97c694-d792-41b3-84fc-836a1f49bed0"
+    },
+    {
+      "document_number": "339470/06-09-2018",
+      "protocol_number": "ΜΕΛΕΤΗ ΡΑΔΙΟΕΚΠΟΜΠΩΝ/20-06-2018",
+      "type": "Αίτηση - Μελέτη Ραδιοεκπομπών ΕΕΑΕ",
+      "file_url": "https://silia.eett.gr/silia/download/7360ca4a-c701-4c61-b2ea-bbcbf633fa4f"
+    },
+    {
+      "document_number": "339471/06-09-2018",
+      "protocol_number": "2190/04-07-2018",
+      "type": "Γνωμοδότηση Υπηρεσίας Νεωτέρων Μνημείων",
+      "file_url": "https://silia.eett.gr/silia/download/a31aced0-c653-42fb-b4e8-2a6c8a7d3d32"
+    },
+    {
+      "document_number": "339472/06-09-2018",
+      "protocol_number": "2083/06-07-2018",
+      "type": "Αρχαιολογική έγκριση/γνωμοδότηση (μη τυπική)",
+      "file_url": "https://silia.eett.gr/silia/download/c8f9e76b-e23f-4728-9c88-684cad9e7e85"
+    },
+    {
+      "document_number": "339478/06-09-2018",
+      "protocol_number": "Αρχείο Αίτησης/",
+      "type": "Δήλωση ΠΠΔ",
+      "file_url": "https://silia.eett.gr/silia/download/c68b515a-5abe-4982-b35a-83fcf854f18e"
+    }
+  ]
+}

@@ -1,0 +1,51 @@
+{
+  "antenna_id": "173934",
+  "address": "Πλησίον ναού Προφήτη Ηλία (Οικισμός Αγ. Κυριακής), ΝΑΥΠΛΙΟ, AΡΓΟΛΙΔΑ.",
+  "position_code": 1275144,
+  "municipality": "Ναυπλιέων",
+  "code_name": "ERT NAFPLIO (K144)",
+  "region": "Πελοποννήσου",
+  "latitude": 37.581389,
+  "company": "NOVA Μ.Α.Ε.",
+  "longitude": 22.812222,
+  "permit_status": "Από τα στοιχεία που τηρούνται στην Ενημερωτική Πύλη προκύπτει ότι, για τη θέση \"Πλησίον ναού Προφήτη Ηλία (Οικισμός Αγ. Κυριακής), ΝΑΥΠΛΙΟ, AΡΓΟΛΙΔΑ.\" στον Δήμο Ναυπλιέων Περιφέρειας  Πελοποννήσου \n\t(κωδικός αριθμός θέσης 1275144, κωδική ονομασία \"ERT NAFPLIO (K144)\") έχει κατατεθεί από την εταιρία NOVA Μ.Α.Ε.\tδήλωση εγκατάστασης κατασκευής κεραίας (αριθ. πρωτ. \n\t56303/17-06-2024) που εμπίπτει στις διατάξεις της νομοθεσίας για Εγκαταστάσεις Κατασκευών Κεραιών Χαμηλής Ηλεκτρομαγνητικής Περιβαλλοντικής Όχλησης (ΕΚΚΧΟ).",
+  "measurements_eaee": "-",
+  "documents": [
+    {
+      "document_number": "518099/17-06-2024",
+      "protocol_number": "Φωτορεαλιστική απεικόνιση κεραίας ΕΚΚΧΟ/17-06-2024",
+      "type": "Φωτογραφικό Υλικό - Σκαρίφημα",
+      "file_url": "https://silia.eett.gr/silia/download/HGaODz1InrcEMOenGThVuMoMAPywxS1IVevh"
+    },
+    {
+      "document_number": "518100/17-06-2024",
+      "protocol_number": "Ψηφιακός χάρτης με προβολή της θέσης ΕΚΚΧΟ/17-06-2024",
+      "type": "Φωτογραφικό Υλικό - Σκαρίφημα",
+      "file_url": "https://silia.eett.gr/silia/download/Pqyt0M1ghF21iybz1AMxXgazONruEOS0XtSg"
+    },
+    {
+      "document_number": "518105/17-06-2024",
+      "protocol_number": "ΜΕΛΕΤΗ ΕΚΚΧΟ/17-06-2024",
+      "type": "Άλλο",
+      "file_url": "https://silia.eett.gr/silia/download/qGecsh3tsNoLnHKxaYkoofAMgVhzQxcuvyIZ"
+    },
+    {
+      "document_number": "518107/17-06-2024",
+      "protocol_number": "Σκαρίφημα θέσης κεραίας ΕΚΚΧΟ/17-06-2024",
+      "type": "Φωτογραφικό Υλικό - Σκαρίφημα",
+      "file_url": "https://silia.eett.gr/silia/download/GWLrA22fyWLtM5GtWQiSF3b6CNDAWcBf9Wam"
+    },
+    {
+      "document_number": "518108/17-06-2024",
+      "protocol_number": "Αρχείο Αίτησης/17-06-2024",
+      "type": "Δήλωση ΕΚΚΧΟ",
+      "file_url": "https://silia.eett.gr/silia/download/wc6SifTBgimyNg36Mg9aEkCsaA658BbV5r2F"
+    },
+    {
+      "document_number": "529038/16-10-2024",
+      "protocol_number": "ΥΔ ΕΓΚΑΤΑΣΤΑΣΗΣ/16-10-2024",
+      "type": "Άλλο",
+      "file_url": "https://silia.eett.gr/silia/download/0KeOGUtoP3WYBQSxHgVLC0TncrW29H6AXrzO"
+    }
+  ]
+}

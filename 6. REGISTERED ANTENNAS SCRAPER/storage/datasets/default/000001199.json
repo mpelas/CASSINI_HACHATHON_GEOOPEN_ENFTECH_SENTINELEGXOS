@@ -1,0 +1,33 @@
+{
+  "antenna_id": "163286",
+  "address": "ΛΑΓΚΑΔΙΑ",
+  "position_code": 3206190,
+  "municipality": "Γορτυνίας",
+  "code_name": "ΛΑΓΚΑΔΙΑ",
+  "region": "Πελοποννήσου",
+  "latitude": 37.675556,
+  "company": "ΕΡΤ ΑΕ",
+  "longitude": 22.043333,
+  "permit_status": "Από τα στοιχεία που τηρούνται στην Ενημερωτική Πύλη προκύπτει ότι για τη  θέση \"ΛΑΓΚΑΔΙΑ\" στον Δήμο Γορτυνίας Περιφέρειας  Πελοποννήσου έχει κατατεθεί από την εταιρία ΕΡΤ ΑΕ δήλωση κατασκευής κεραίας τηλεοπτικής ευρυεκπομπής με αριθ. πρωτ. ΣΗΛΥΑ \n47315/06-04-2022 κατά τα οριζόμενα στην παρ. 7 του άρθρου 39 του Ν.4635/2019.",
+  "measurements_eaee": "-",
+  "documents": [
+    {
+      "document_number": "455746/06-04-2022",
+      "protocol_number": "Επαναυποβολή_ΥΠΑ_μετάβαση(ΟΡΘΗ ΕΠΑΝΑΛΗΨΗ)/",
+      "type": "Αίτηση ΥΠΑ",
+      "file_url": "https://silia.eett.gr/silia/download/0fbb406b-6216-4dbb-bded-d664d65bac90"
+    },
+    {
+      "document_number": "455747/06-04-2022",
+      "protocol_number": "screenshot/",
+      "type": "Φωτογραφικό Υλικό - Σκαρίφημα",
+      "file_url": "https://silia.eett.gr/silia/download/ea799957-971f-4a11-ad29-181512d95e0e"
+    },
+    {
+      "document_number": "455748/06-04-2022",
+      "protocol_number": "Αρχείο Αίτησης/",
+      "type": "Δήλωση Τηλεοπτικής Ευρυεκπομπής",
+      "file_url": "https://silia.eett.gr/silia/download/e90e3ec8-8dbb-4942-9a3b-7642e2b53f22"
+    }
+  ]
+}

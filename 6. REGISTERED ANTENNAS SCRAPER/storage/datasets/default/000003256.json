@@ -1,0 +1,45 @@
+{
+  "antenna_id": "171537",
+  "address": "ΑΧΕΡΟΥΝΕΣ ΣΚΥΡΟΥ, ΣΚΥΡΟΣ.",
+  "position_code": 1159744,
+  "municipality": "Σκύρου",
+  "code_name": "3029744 DEH TSP SKYROS",
+  "region": "Στερεάς Ελλάδας",
+  "latitude": 38.848611,
+  "company": "VODAFONE",
+  "longitude": 24.538056,
+  "permit_status": "Από τα στοιχεία που τηρούνται στην Ενημερωτική Πύλη προκύπτει ότι, για τη θέση \"ΑΧΕΡΟΥΝΕΣ ΣΚΥΡΟΥ, ΣΚΥΡΟΣ.\" στον Δήμο Σκύρου Περιφέρειας  Στερεάς Ελλάδας \n\t(κωδικός αριθμός θέσης 1159744, κωδική ονομασία \"3029744 DEH TSP SKYROS\") έχει κατατεθεί από την εταιρία VODAFONE\tδήλωση εγκατάστασης κατασκευής κεραίας (αριθ. πρωτ. \n\t54256/21-12-2023) που εμπίπτει στις διατάξεις της νομοθεσίας για Εγκαταστάσεις Κατασκευών Κεραιών Χαμηλής Ηλεκτρομαγνητικής Περιβαλλοντικής Όχλησης (ΕΚΚΧΟ).",
+  "measurements_eaee": "-",
+  "documents": [
+    {
+      "document_number": "503629/20-12-2023",
+      "protocol_number": "Φωτορεαλιστική απεικόνιση κεραιας  ΕΚΚΧΟ/",
+      "type": "Φωτογραφικό Υλικό - Σκαρίφημα",
+      "file_url": "https://silia.eett.gr/silia/download/1746428d-f191-4949-94f4-2a5cd89eb7e7"
+    },
+    {
+      "document_number": "503630/20-12-2023",
+      "protocol_number": "Ψηφιακός Χάρτης με προβολή της θέσης της κεραίας ΕΚΚΧΟ/",
+      "type": "Φωτογραφικό Υλικό - Σκαρίφημα",
+      "file_url": "https://silia.eett.gr/silia/download/7354d6be-00dc-486b-8467-8811447c3017"
+    },
+    {
+      "document_number": "503828/21-12-2023",
+      "protocol_number": "Μελέτη ΕΚΚΧΟ/20-12-2023",
+      "type": "Άλλο",
+      "file_url": "https://silia.eett.gr/silia/download/e9d240e2-debd-4087-982a-9ee459520719"
+    },
+    {
+      "document_number": "503829/21-12-2023",
+      "protocol_number": "Αρχείο Αίτησης/",
+      "type": "Δήλωση ΕΚΚΧΟ",
+      "file_url": "https://silia.eett.gr/silia/download/0fa0663c-9a6f-4144-a4d2-bdcb67ffa49f"
+    },
+    {
+      "document_number": "507149/09-02-2024",
+      "protocol_number": "ΥΔ εγκατάστασης/09-02-2024",
+      "type": "Άλλο",
+      "file_url": "https://silia.eett.gr/silia/download/38d2e8c7-5001-4c8a-a02b-c79830415106"
+    }
+  ]
+}

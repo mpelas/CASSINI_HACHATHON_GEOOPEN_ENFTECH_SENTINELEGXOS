@@ -1,0 +1,45 @@
+{
+  "antenna_id": "157142",
+  "address": "ΟΔΟΣ ΦΑΡΜΑΚΗ 14, ΠΑΝΟΡΑΜΑ, Ο.Τ.44",
+  "position_code": 1002603,
+  "municipality": "Πυλαίας - Χορτιάτη",
+  "code_name": "ΠΑΝΟΡΑΜΑ",
+  "region": "Κεντρικής Μακεδονίας",
+  "latitude": 40.583056,
+  "company": "VODAFONE",
+  "longitude": 23.014722,
+  "permit_status": "Από τα στοιχεία που τηρούνται στην Ενημερωτική Πύλη προκύπτει ότι, για τη θέση \"ΟΔΟΣ ΦΑΡΜΑΚΗ 14, ΠΑΝΟΡΑΜΑ, Ο.Τ.44\" στον Δήμο Πυλαίας - Χορτιάτη Περιφέρειας  Κεντρικής Μακεδονίας \n\t(κωδικός αριθμός θέσης 1002603, κωδική ονομασία \"ΠΑΝΟΡΑΜΑ\") έχει κατατεθεί από την εταιρία VODAFONE\tδήλωση εγκατάστασης κατασκευής κεραίας (αριθ. πρωτ. \n\t41183/16-11-2020) που εμπίπτει στις διατάξεις της νομοθεσίας για Εγκαταστάσεις Κατασκευών Κεραιών Χαμηλής Ηλεκτρομαγνητικής Περιβαλλοντικής Όχλησης (ΕΚΚΧΟ).",
+  "measurements_eaee": "-",
+  "documents": [
+    {
+      "document_number": "421715/13-11-2020",
+      "protocol_number": "ΣΚΑΡΙΦΗΜΑ ΘΕΣΗΣ ΚΕΡΑΙΩΝ ΕΚΚΧΟ/",
+      "type": "Φωτογραφικό Υλικό - Σκαρίφημα",
+      "file_url": "https://silia.eett.gr/silia/download/3a92d910-2641-4995-bf8a-c4a794256177"
+    },
+    {
+      "document_number": "421716/13-11-2020",
+      "protocol_number": "ΣΚΑΡΙΦΗΜΑ ΘΕΣΗΣ ΙΣΤΟΥ ΕΚΚΧΟ - ΚΑΤΟΨΗ /",
+      "type": "Φωτογραφικό Υλικό - Σκαρίφημα",
+      "file_url": "https://silia.eett.gr/silia/download/4fda8e76-29c9-4c54-a094-8a91fa17ecdb"
+    },
+    {
+      "document_number": "421731/13-11-2020",
+      "protocol_number": "ΦΩΤΟΓΡΑΦΙΑ ΘΕΣΗΣ ΚΕΡΑΙΑΣ ΕΚΚΧΟ ΑΠΟ GOOGLE EARTH/",
+      "type": "Φωτογραφικό Υλικό - Σκαρίφημα",
+      "file_url": "https://silia.eett.gr/silia/download/34feb921-72dc-49c3-beef-8ca34a4bfee4"
+    },
+    {
+      "document_number": "421791/16-11-2020",
+      "protocol_number": "ΥΔ WIND κοινής χρήσης /",
+      "type": "Άλλο",
+      "file_url": "https://silia.eett.gr/silia/download/f5a275b2-b47c-4160-8b06-e1575eb23c1f"
+    },
+    {
+      "document_number": "421795/16-11-2020",
+      "protocol_number": "Αρχείο Αίτησης/",
+      "type": "Δήλωση ΕΚΚΧΟ",
+      "file_url": "https://silia.eett.gr/silia/download/59d26d39-5e50-433f-a0a3-901c5895a90a"
+    }
+  ]
+}

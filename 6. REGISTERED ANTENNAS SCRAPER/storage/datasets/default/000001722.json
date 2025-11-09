@@ -1,0 +1,33 @@
+{
+  "antenna_id": "135612",
+  "address": "Γ.ΒΑΣΙΛΑΚΟΥ 4, ΗΓΟΥΜΕΝΙΤΣΑ",
+  "position_code": 1267546,
+  "municipality": "Ηγουμενίτσας",
+  "code_name": "NTAGIA AMARILDO IGOUMENITSA",
+  "region": "Ηπείρου",
+  "latitude": 39.543056,
+  "company": "NOVA Μ.Α.Ε.",
+  "longitude": 20.233056,
+  "permit_status": "Από τα στοιχεία που τηρούνται στην Ενημερωτική Πύλη προκύπτει ότι, για τη θέση \"Γ.ΒΑΣΙΛΑΚΟΥ 4, ΗΓΟΥΜΕΝΙΤΣΑ \" στον Δήμο Ηγουμενίτσας Περιφέρειας  Ηπείρου \n\t(κωδικός αριθμός θέσης 1267546, κωδική ονομασία \"NTAGIA AMARILDO IGOUMENITSA\") έχει κατατεθεί από την εταιρία NOVA Μ.Α.Ε.\tδήλωση εγκατάστασης κατασκευής κεραίας (αριθ. πρωτ. \n\t29963/31-10-2018) που εμπίπτει στις διατάξεις της νομοθεσίας για Εγκαταστάσεις Κατασκευών Κεραιών Χαμηλής Ηλεκτρομαγνητικής Περιβαλλοντικής Όχλησης (ΕΚΚΧΟ).",
+  "measurements_eaee": "-",
+  "documents": [
+    {
+      "document_number": "346298/25-10-2018",
+      "protocol_number": "ΦΩΤΟΓΡΑΦΙΑ LINK ΕΚΚΧΟ/",
+      "type": "Φωτογραφικό Υλικό - Σκαρίφημα",
+      "file_url": "https://silia.eett.gr/silia/download/be6e0105-33a7-44cc-b90b-8f0d95ddeba2"
+    },
+    {
+      "document_number": "347059/31-10-2018",
+      "protocol_number": "Αρχείο Αίτησης/",
+      "type": "Δήλωση ΕΚΚΧΟ",
+      "file_url": "https://silia.eett.gr/silia/download/4151bfba-890a-4ca3-8f4d-edf9155e000d"
+    },
+    {
+      "document_number": "349784/20-11-2018",
+      "protocol_number": "ΕΞΑΙΡΕΣΗ ΕΙΔΙΚΗΣ ΑΞΙΟΛΟΓΗΣΗΣ, ΛΟΓΩ NATURA/",
+      "type": "Άλλο",
+      "file_url": "https://silia.eett.gr/silia/download/6c246927-185c-4e21-833a-17727e9e47a8"
+    }
+  ]
+}

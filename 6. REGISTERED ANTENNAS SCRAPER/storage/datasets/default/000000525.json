@@ -1,0 +1,39 @@
+{
+  "antenna_id": "160902",
+  "address": "ΕΡΓΟΤΕΛΟΥΣ 2 - ΜΑΡΟΥΣΙ",
+  "position_code": 1497115,
+  "municipality": "Αμαρουσίου",
+  "code_name": "ELPE_MAROUSI",
+  "region": "Αττικής",
+  "latitude": 38.049167,
+  "company": "OTE",
+  "longitude": 23.807778,
+  "permit_status": "Από τα στοιχεία που τηρούνται στην Ενημερωτική Πύλη προκύπτει ότι, για τη θέση \"ΕΡΓΟΤΕΛΟΥΣ 2 - ΜΑΡΟΥΣΙ \" στον Δήμο Αμαρουσίου Περιφέρειας  Αττικής \n\t(κωδικός αριθμός θέσης 1497115, κωδική ονομασία \"ELPE_MAROUSI\") έχει κατατεθεί από την εταιρία OTE\tδήλωση εγκατάστασης κατασκευής κεραίας (αριθ. πρωτ. \n\t58104/30-10-2024) που εμπίπτει στις διατάξεις της νομοθεσίας για Εγκαταστάσεις Κατασκευών Κεραιών Χαμηλής Ηλεκτρομαγνητικής Περιβαλλοντικής Όχλησης (ΕΚΚΧΟ).",
+  "measurements_eaee": "-",
+  "documents": [
+    {
+      "document_number": "517842/13-06-2024",
+      "protocol_number": "ΧΑΡΤΗΣ/13-06-2024",
+      "type": "Φωτογραφικό Υλικό - Σκαρίφημα",
+      "file_url": "https://silia.eett.gr/silia/download/y6PQV69Ubrc8remZEAOG0RYGSIWAuoavTR0h"
+    },
+    {
+      "document_number": "530335/25-10-2024",
+      "protocol_number": "ΦΩΤΟΡΕΑΛΙΣΤΙΚΟ/25-10-2024",
+      "type": "Φωτογραφικό Υλικό - Σκαρίφημα",
+      "file_url": "https://silia.eett.gr/silia/download/3RtKoDxpFprMdGuqGlob9Rsz5TPl80gVUkc9"
+    },
+    {
+      "document_number": "530818/30-10-2024",
+      "protocol_number": "ΜΕΛΕΤΗ ΡΑΔΙΟΕΚΠΟΜΠΩΝ ΕΚΚΧΟ/30-10-2024",
+      "type": "Αίτηση - Μελέτη Ραδιοεκπομπών ΕΕΑΕ",
+      "file_url": "https://silia.eett.gr/silia/download/EGIOrMZxe4kIgpBP1gzbsUy8cLPgg6b3lSyU"
+    },
+    {
+      "document_number": "530819/30-10-2024",
+      "protocol_number": "Αρχείο Αίτησης/30-10-2024",
+      "type": "Δήλωση ΕΚΚΧΟ",
+      "file_url": "https://silia.eett.gr/silia/download/Dc0uuRG2ynLawfUFb9KpGtGw6vwRfGmgmNpQ"
+    }
+  ]
+}

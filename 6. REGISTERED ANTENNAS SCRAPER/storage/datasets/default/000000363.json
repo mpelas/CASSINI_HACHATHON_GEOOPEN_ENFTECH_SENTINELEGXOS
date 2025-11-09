@@ -1,0 +1,45 @@
+{
+  "antenna_id": "129021",
+  "address": "ΣΗΡΑΓΓΑ ΠΑΝΑΓΟΠΟΥΛΑΣ (Τ26) - ΜΕΣΗ",
+  "position_code": 1215914,
+  "municipality": "Αιγιαλείας",
+  "code_name": "TUNNEL PANAGOPOULA T26 MIDDLE INDOOR",
+  "region": "Δυτικής Ελλάδας",
+  "latitude": 38.320833,
+  "company": "NOVA Μ.Α.Ε.",
+  "longitude": 21.936111,
+  "permit_status": "Από τα στοιχεία που τηρούνται στην Ενημερωτική Πύλη προκύπτει ότι, για τη θέση \"ΣΗΡΑΓΓΑ ΠΑΝΑΓΟΠΟΥΛΑΣ (Τ26) - ΜΕΣΗ\" στον Δήμο Αιγιαλείας Περιφέρειας  Δυτικής Ελλάδας \n\t(κωδικός αριθμός θέσης 1215914, κωδική ονομασία \"TUNNEL PANAGOPOULA T26 MIDDLE INDOOR\") έχει κατατεθεί από την εταιρία NOVA Μ.Α.Ε.\tδήλωση εγκατάστασης κατασκευής κεραίας (αριθ. πρωτ. \n\t23864/05-09-2017) που εμπίπτει στις διατάξεις της νομοθεσίας για Εγκαταστάσεις Κατασκευών Κεραιών Χαμηλής Ηλεκτρομαγνητικής Περιβαλλοντικής Όχλησης (ΕΚΚΧΟ).",
+  "measurements_eaee": "-",
+  "documents": [
+    {
+      "document_number": "305078/05-09-2017",
+      "protocol_number": "ΣΚΑΡΙΦΗΜΑ ΘΕΣΗΣ ΚΕΡΑΙΩΝ Α1 & Α2/",
+      "type": "Φωτογραφικό Υλικό - Σκαρίφημα",
+      "file_url": "https://silia.eett.gr/silia/download/a6ef8bb7-66cb-442c-a6dc-b37deec97177"
+    },
+    {
+      "document_number": "305079/05-09-2017",
+      "protocol_number": "ΦΩΤΟΓΡΑΦΙΑ ΘΕΣΗΣ ΚΕΡΑΙΩΝ Α1 & Α2/",
+      "type": "Φωτογραφικό Υλικό - Σκαρίφημα",
+      "file_url": "https://silia.eett.gr/silia/download/cc3a286a-211e-49e4-a692-26fbc6338f46"
+    },
+    {
+      "document_number": "305080/05-09-2017",
+      "protocol_number": "ΣΚΑΡΙΦΗΜΑ ΘΕΣΗΣ ΚΕΡΑΙΩΝ Α3 & Α4/",
+      "type": "Φωτογραφικό Υλικό - Σκαρίφημα",
+      "file_url": "https://silia.eett.gr/silia/download/beb63a77-0d39-4af6-bc36-e3f9a64e757a"
+    },
+    {
+      "document_number": "305081/05-09-2017",
+      "protocol_number": "ΦΩΤΟΓΡΑΦΙΑ ΘΕΣΗΣ ΚΕΡΑΙΩΝ Α3 & Α4/",
+      "type": "Φωτογραφικό Υλικό - Σκαρίφημα",
+      "file_url": "https://silia.eett.gr/silia/download/784146e1-9f66-4d9f-a69b-98605b27bfd0"
+    },
+    {
+      "document_number": "305104/05-09-2017",
+      "protocol_number": "Αρχείο Αίτησης/",
+      "type": "Δήλωση ΕΚΚΧΟ",
+      "file_url": "https://silia.eett.gr/silia/download/5ce1aa98-6139-43f3-a779-5f64bb21e6e6"
+    }
+  ]
+}

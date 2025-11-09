@@ -1,0 +1,39 @@
+{
+  "antenna_id": "167722",
+  "address": "Σκαλάνι, Επάνω Αρχάνες - Ηράκλειο Κρήτης",
+  "position_code": 1498792,
+  "municipality": "Αρχανών - Αστερουσίων",
+  "code_name": "BOUTARIS_SCALANI",
+  "region": "Κρήτης",
+  "latitude": 35.275278,
+  "company": "OTE",
+  "longitude": 25.193056,
+  "permit_status": "Από τα στοιχεία που τηρούνται στην Ενημερωτική Πύλη προκύπτει ότι, για τη θέση \"Σκαλάνι, Επάνω Αρχάνες - Ηράκλειο Κρήτης\" στον Δήμο Αρχανών - Αστερουσίων Περιφέρειας  Κρήτης \n\t(κωδικός αριθμός θέσης 1498792, κωδική ονομασία \"BOUTARIS_SCALANI\") έχει κατατεθεί από την εταιρία OTE\tδήλωση εγκατάστασης κατασκευής κεραίας (αριθ. πρωτ. \n\t53197/10-10-2023) που εμπίπτει στις διατάξεις της νομοθεσίας για Εγκαταστάσεις Κατασκευών Κεραιών Χαμηλής Ηλεκτρομαγνητικής Περιβαλλοντικής Όχλησης (ΕΚΚΧΟ).",
+  "measurements_eaee": "-",
+  "documents": [
+    {
+      "document_number": "481160/28-03-2023",
+      "protocol_number": "ΦΩΤΟΓΡΑΦΙΑ/",
+      "type": "Φωτογραφικό Υλικό - Σκαρίφημα",
+      "file_url": "https://silia.eett.gr/silia/download/e7a67cee-a849-4e8e-93a7-7d03aae9f21d"
+    },
+    {
+      "document_number": "496509/09-10-2023",
+      "protocol_number": "ΜΕΣΩ ΣΗΛΥΑ/",
+      "type": "Αίτηση - Μελέτη Ραδιοεκπομπών ΕΕΑΕ",
+      "file_url": "https://silia.eett.gr/silia/download/595c975e-6957-459b-8dfc-3a63459ca9b6"
+    },
+    {
+      "document_number": "496675/10-10-2023",
+      "protocol_number": "Αρχείο Αίτησης/",
+      "type": "Δήλωση ΕΚΚΧΟ",
+      "file_url": "https://silia.eett.gr/silia/download/81ccf1a8-c6fc-4954-860a-aaf7e84faea7"
+    },
+    {
+      "document_number": "526719/24-09-2024",
+      "protocol_number": "ΥΠ.ΔΗΛΩΣΗ/24-09-2024",
+      "type": "Άλλο",
+      "file_url": "https://silia.eett.gr/silia/download/p79ZEYX6XiSMGBVBghe4IwqIUGgS4nOGkvDn"
+    }
+  ]
+}

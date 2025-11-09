@@ -1,0 +1,39 @@
+{
+  "antenna_id": "154501",
+  "address": "Δήμος Σιντικής, Π.Ε.Σερρών , Περιφέρεια Κεντρικήςς Μακεδονίας",
+  "position_code": 3207545,
+  "municipality": "Σιντικής",
+  "code_name": "ΑΧΛΑΔΟΧΩΡΙ-Δ",
+  "region": "Κεντρικής Μακεδονίας",
+  "latitude": 41.3175,
+  "company": "ΕΡΤ ΑΕ",
+  "longitude": 23.5425,
+  "permit_status": "Από τα στοιχεία που τηρούνται στην Ενημερωτική Πύλη προκύπτει ότι για τη  θέση \"Δήμος Σιντικής, Π.Ε.Σερρών , Περιφέρεια Κεντρικήςς Μακεδονίας\" στον Δήμο Σιντικής Περιφέρειας  Κεντρικής Μακεδονίας έχει κατατεθεί από την εταιρία ΕΡΤ ΑΕ δήλωση δομικών κατασκευών κεραιών  \nμε αριθ. πρωτ. ΣΗΛΥΑ 38865/17-05-2020 κατά τα οριζόμενα στην παρ. 7 του άρθρου 34 του Ν.4635/2019.",
+  "measurements_eaee": "-",
+  "documents": [
+    {
+      "document_number": "405162/12-05-2020",
+      "protocol_number": "δορυφορική λήψη και στοιχεία δομικών κατασκευών/",
+      "type": "Άλλο",
+      "file_url": "https://silia.eett.gr/silia/download/b59abef1-08a6-487b-9399-42aa8e1240df"
+    },
+    {
+      "document_number": "405163/12-05-2020",
+      "protocol_number": "απογραφή 1987/",
+      "type": "Άλλο",
+      "file_url": "https://silia.eett.gr/silia/download/651ab85e-d32c-4005-8ba6-29340172f5a8"
+    },
+    {
+      "document_number": "405164/12-05-2020",
+      "protocol_number": "πίνακας 49 απογραφής ΕΡΤ 1987/",
+      "type": "Άλλο",
+      "file_url": "https://silia.eett.gr/silia/download/3f0082d0-21cc-4e79-93d7-4ca93dcccd6e"
+    },
+    {
+      "document_number": "406111/17-05-2020",
+      "protocol_number": "Αρχείο Αίτησης/",
+      "type": "Δήλωση Δομικών ΕΡΤ",
+      "file_url": "https://silia.eett.gr/silia/download/ef79af5b-c5eb-42a1-9d19-cb0ce6af8806"
+    }
+  ]
+}

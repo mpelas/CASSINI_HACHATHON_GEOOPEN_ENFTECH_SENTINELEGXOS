@@ -1,0 +1,93 @@
+{
+  "antenna_id": "160050",
+  "address": "ΘΕΣΗ ΠΛΑΚΙΑΣ - Δ.Ε. ΦΟΙΝΙΚΑ",
+  "position_code": 1290379,
+  "municipality": "Αγίου Βασιλείου",
+  "code_name": "PLAKIAS VILLAGE RETHIMNO",
+  "region": "Κρήτης",
+  "latitude": 35.190556,
+  "company": "NOVA Μ.Α.Ε.",
+  "longitude": 24.395278,
+  "permit_status": "Από τα στοιχεία που τηρούνται στην Ενημερωτική Πύλη προκύπτει ότι, για τη θέση \"ΘΕΣΗ ΠΛΑΚΙΑΣ - Δ.Ε. ΦΟΙΝΙΚΑ\" στον Δήμο Αγίου Βασιλείου Περιφέρειας  Κρήτης \n\t(κωδικός αριθμός θέσης 1290379, κωδική ονομασία \"PLAKIAS VILLAGE RETHIMNO\") χορηγήθηκε, με την Απόφαση της ΕΕΤΤ \n41928/27-10-2021, άδεια κατασκευής κεραίας στην εταιρία NOVA Μ.Α.Ε.. \nΑπό τo έγγραφο της άδειας μπορείτε να ενημερωθείτε για τις σχετικές εγκρίσεις των συναρμόδιων φορέων, καθώς και εάν πρόκειται για τροποποίηση παλαιότερης άδειας.",
+  "measurements_eaee": "-",
+  "documents": [
+    {
+      "document_number": "439718/12-08-2021",
+      "protocol_number": "ΣΥΝΗΜΜΕΝΟΣ ΜΕ ΤΗΝ ΚΑΤΑΘΕΣΗ ΣΤΗΝ ΥΠΑ/",
+      "type": "Απόσπασμα Χάρτη ΓΥΣ 1:50.000",
+      "file_url": "https://silia.eett.gr/silia/download/d2aa78af-64fc-4a2d-9c19-12a39c7a9911"
+    },
+    {
+      "document_number": "439719/12-08-2021",
+      "protocol_number": "ΣΥΝΗΜΜΕΝΗ ΜΕ ΤΗΝ ΚΑΤΑΘΕΣΗ ΣΤΗΝ ΕΕΑΕ/11-08-2021",
+      "type": "Αίτηση - Μελέτη Ραδιοεκπομπών ΕΕΑΕ",
+      "file_url": "https://silia.eett.gr/silia/download/2ee4eca9-6e52-4789-81fd-a99d3a126438"
+    },
+    {
+      "document_number": "439720/12-08-2021",
+      "protocol_number": "ΣΥΝΗΜΜΕΝΑ ΜΕ ΤΗΝ ΚΑΤΑΘΕΣΗ ΣΤΗΝ ΕΕΑΕ/",
+      "type": "Αρχιτεκτονικά Σχέδια",
+      "file_url": "https://silia.eett.gr/silia/download/623fed88-a210-45c3-b519-3f3aa169291c"
+    },
+    {
+      "document_number": "439721/12-08-2021",
+      "protocol_number": "ΣΥΝΗΜΜΕΝΟ ΜΕ ΤΗΝ ΚΑΤΑΘΕΣΗ ΣΤΗΝ ΕΕΑΕ/",
+      "type": "Τοπογραφικό",
+      "file_url": "https://silia.eett.gr/silia/download/c817cb6b-7024-4882-9234-88981da045bd"
+    },
+    {
+      "document_number": "439722/12-08-2021",
+      "protocol_number": "ΣΥΝΗΜΜΕΝΗ ΜΕ ΤΗΝ ΚΑΤΑΘΕΣΗ ΣΤΗΝ ΕΕΤΤ/09-08-2021",
+      "type": "Βεβαίωση πολιτικού μηχανικού",
+      "file_url": "https://silia.eett.gr/silia/download/546737fd-6022-4572-9793-19ee03b1e6e1"
+    },
+    {
+      "document_number": "439726/12-08-2021",
+      "protocol_number": "Αρχείο Αίτησης/",
+      "type": "Αίτηση Άδειας Κατασκευής Κεραίας ΕΕΤΤ",
+      "file_url": "https://silia.eett.gr/silia/download/5e896da1-7fd2-417e-b4f0-62517bb88423"
+    },
+    {
+      "document_number": "441303/21-09-2021",
+      "protocol_number": "Δ3/Δ/32177/21-09-2021/21-09-2021",
+      "type": "Γνωμάτευση ΥΠΑ",
+      "file_url": "https://silia.eett.gr/silia/download/ccaa98ee-df6b-42f9-b031-a31d1fcb379d"
+    },
+    {
+      "document_number": "444568/21-10-2021",
+      "protocol_number": "Μ.ι./411/19370/2021/21-10-2021",
+      "type": "Γνωμάτευση ΕΕΑΕ",
+      "file_url": "https://silia.eett.gr/silia/download/4b359a81-0e7c-47d1-93d3-180033b1db34"
+    },
+    {
+      "document_number": "445242/29-10-2021",
+      "protocol_number": "41928/27-10-2021",
+      "type": "Άδεια Κατασκευής  Κεραίας",
+      "file_url": "https://silia.eett.gr/silia/download/e9daf8e8-3dc0-4ade-9cfd-4fd1a8988823"
+    },
+    {
+      "document_number": "439723/12-08-2021",
+      "protocol_number": "ΣΥΝΗΜΜΕΝΗ ΜΕ ΤΗΝ ΚΑΤΑΘΕΣΗ ΣΤΗΝ ΕΕΑΕ/11-08-2021",
+      "type": "Αίτηση - Μελέτη Ραδιοεκπομπών ΕΕΑΕ",
+      "file_url": "https://silia.eett.gr/silia/download/2ee4eca9-6e52-4789-81fd-a99d3a126438"
+    },
+    {
+      "document_number": "439724/12-08-2021",
+      "protocol_number": "410122/293114/4668/1098/28-08-2019",
+      "type": "Έγκριση Αρμοδίου Φορέα",
+      "file_url": "https://silia.eett.gr/silia/download/63b88b55-114d-4edc-8404-e35eb6267356"
+    },
+    {
+      "document_number": "439725/12-08-2021",
+      "protocol_number": "408971/42975/2524/09-09-2019",
+      "type": "Γνωμοδότηση Υπηρεσίας Νεωτέρων Μνημείων",
+      "file_url": "https://silia.eett.gr/silia/download/690c303d-b6e5-49ac-b439-1ef9161895b3"
+    },
+    {
+      "document_number": "439727/12-08-2021",
+      "protocol_number": "Αρχείο Αίτησης/",
+      "type": "Δήλωση ΠΠΔ",
+      "file_url": "https://silia.eett.gr/silia/download/8171faae-8023-4aec-99d2-a63ea6d88693"
+    }
+  ]
+}

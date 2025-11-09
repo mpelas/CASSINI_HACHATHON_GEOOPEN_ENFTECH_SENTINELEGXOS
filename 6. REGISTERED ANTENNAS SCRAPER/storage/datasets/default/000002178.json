@@ -1,0 +1,87 @@
+{
+  "antenna_id": "150766",
+  "address": "ΕΠΙ ΤΗΣ ΑΝΩΝΥΜΗΣ ΟΔΟΥ ΠΥΡΟΦΥΛΑΚΙΟ ΠΥΡΓΟΥ Τ/Κ, ΥΨΩΜΑ ΠΥΡΓΟΣ",
+  "position_code": 280028,
+  "municipality": "Νεστορίου",
+  "code_name": "ΠΥΡΟΦΥΛΑΚΙΟ ΠΥΡΓΟΥ",
+  "region": "Δυτικής Μακεδονίας",
+  "latitude": 40.343611,
+  "company": "OTE",
+  "longitude": 20.978333,
+  "permit_status": "Από τα στοιχεία που τηρούνται στην Ενημερωτική Πύλη προκύπτει ότι, για τη θέση \"ΕΠΙ ΤΗΣ ΑΝΩΝΥΜΗΣ ΟΔΟΥ ΠΥΡΟΦΥΛΑΚΙΟ ΠΥΡΓΟΥ Τ/Κ, ΥΨΩΜΑ ΠΥΡΓΟΣ\" στον Δήμο Νεστορίου Περιφέρειας  Δυτικής Μακεδονίας \n\t(κωδικός αριθμός θέσης 0280028, κωδική ονομασία \"ΠΥΡΟΦΥΛΑΚΙΟ ΠΥΡΓΟΥ\") χορηγήθηκε, με την Απόφαση της ΕΕΤΤ \n44526/22-06-2022, άδεια κατασκευής κεραίας στην εταιρία OTE. \nΑπό τo έγγραφο της άδειας μπορείτε να ενημερωθείτε για τις σχετικές εγκρίσεις των συναρμόδιων φορέων, καθώς και εάν πρόκειται για τροποποίηση παλαιότερης άδειας.\nΗ άδεια χορηγήθηκε με τη διαδικασία αδειοδότησης που ορίζει ο ν. 4635/2019, κατόπιν της με αριθ. πρωτ. 37654/03-03-2020 \n\tαίτησης, και βάσει σχετικής δήλωσης του κατόχου της περί υπαγωγή της κατασκευής κεραίας στο άρθρο 34 του ν. 4635/2019.",
+  "measurements_eaee": "-",
+  "documents": [
+    {
+      "document_number": "396588/26-02-2020",
+      "protocol_number": "ΜΕΣΩ ΣΗΛΥΑ/",
+      "type": "Τοπογραφικό",
+      "file_url": "https://silia.eett.gr/silia/download/5b7b28e0-1843-4c85-89cd-6ecbe1265241"
+    },
+    {
+      "document_number": "396589/26-02-2020",
+      "protocol_number": "ΜΕΣΩ ΣΗΛΥΑ/",
+      "type": "Αρχιτεκτονικά Σχέδια",
+      "file_url": "https://silia.eett.gr/silia/download/cdf7de80-8b66-4b52-aa5e-abccb56c5106"
+    },
+    {
+      "document_number": "396590/26-02-2020",
+      "protocol_number": "Δ3/Δ/29249/6634/02-08-2004",
+      "type": "Γνωμάτευση ΥΠΑ",
+      "file_url": "https://silia.eett.gr/silia/download/b116fd25-0ce9-4924-92d5-c8650a129125"
+    },
+    {
+      "document_number": "396591/26-02-2020",
+      "protocol_number": "ΜΕΣΩ ΣΗΛΥΑ/26-02-2020",
+      "type": "Αίτηση ΥΠΑ",
+      "file_url": "https://silia.eett.gr/silia/download/55b03925-f076-402c-870d-94fe49a9350d"
+    },
+    {
+      "document_number": "396592/26-02-2020",
+      "protocol_number": "ΜΕΣΩ ΣΗΛΥΑ/10-02-2020",
+      "type": "Αίτηση - Μελέτη Ραδιοεκπομπών ΕΕΑΕ",
+      "file_url": "https://silia.eett.gr/silia/download/b1a0f190-7736-48bb-87ff-89b05c51f243"
+    },
+    {
+      "document_number": "396593/26-02-2020",
+      "protocol_number": "ΥΠ.ΔΗΛΩΣΗ ΣΥΝΕΓΚΑΤΑΣΤΑΣΗΣ COSMOTE/26-02-2020",
+      "type": "Άλλο",
+      "file_url": "https://silia.eett.gr/silia/download/5e4d625c-2354-4a62-a6fd-f299ca4759aa"
+    },
+    {
+      "document_number": "398129/03-03-2020",
+      "protocol_number": "Αρχείο Αίτησης/",
+      "type": "Αίτηση Άδειας Κατασκευής Κεραίας ΕΕΤΤ",
+      "file_url": "https://silia.eett.gr/silia/download/94996d5c-e85b-4ebd-a1ce-e97ed5a0a5a1"
+    },
+    {
+      "document_number": "430007/22-02-2021",
+      "protocol_number": "ΜΕΣΩ ΣΗΛΥΑ/",
+      "type": "Αίτηση - Μελέτη Ραδιοεκπομπών ΕΕΑΕ",
+      "file_url": "https://silia.eett.gr/silia/download/28fa3b25-4044-4a25-942a-c306f99161f8"
+    },
+    {
+      "document_number": "430612/04-03-2021",
+      "protocol_number": "Μ.ι./411/6609/2021/04-03-2021",
+      "type": "Γνωμάτευση ΕΕΑΕ",
+      "file_url": "https://silia.eett.gr/silia/download/7719bd88-a11c-451a-90ad-15caf16b71e2"
+    },
+    {
+      "document_number": "462753/27-06-2022",
+      "protocol_number": "44526/22-06-2022",
+      "type": "Άδεια Κατασκευής  Κεραίας",
+      "file_url": "https://silia.eett.gr/silia/download/13280d73-8fc1-4028-8b36-0df2f93de4bb"
+    },
+    {
+      "document_number": "427469/18-01-2021",
+      "protocol_number": "ΣΥΝΟΔΕΥΤΙΚΑ ΕΓΓΡΑΦΑ/",
+      "type": "Δήλωση υπαγωγής σε ΠΠΔ και Συνοδευτικά Έγγραφα",
+      "file_url": "https://silia.eett.gr/silia/download/0440b2af-6723-4320-a23a-502ef68f7615"
+    },
+    {
+      "document_number": "427470/18-01-2021",
+      "protocol_number": "Αρχείο Αίτησης/",
+      "type": "Δήλωση ΠΠΔ",
+      "file_url": "https://silia.eett.gr/silia/download/1814e693-aea6-4abb-8ed5-6277e29846e4"
+    }
+  ]
+}

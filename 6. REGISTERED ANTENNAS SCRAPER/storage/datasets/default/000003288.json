@@ -1,0 +1,87 @@
+{
+  "antenna_id": "129846",
+  "address": "ΒΑΘΥΛΑΚΚΟΣ",
+  "position_code": 270070,
+  "municipality": "Σοφάδων",
+  "code_name": "ΒΑΘΥΛΑΚΚΟΣ Τ/Κ",
+  "region": "Θεσσαλίας",
+  "latitude": 39.131111,
+  "company": "OTE",
+  "longitude": 21.954444,
+  "permit_status": "Από τα στοιχεία που τηρούνται στην Ενημερωτική Πύλη προκύπτει ότι, για τη θέση \"ΒΑΘΥΛΑΚΚΟΣ\" στον Δήμο Σοφάδων Περιφέρειας  Θεσσαλίας \n\t(κωδικός αριθμός θέσης 0270070, κωδική ονομασία \"ΒΑΘΥΛΑΚΚΟΣ Τ/Κ\") χορηγήθηκε, με την Απόφαση της ΕΕΤΤ \n30215/Φ610/30-10-2018, άδεια κατασκευής κεραίας στην εταιρία OTE. \nΑπό τo έγγραφο της άδειας μπορείτε να ενημερωθείτε για τις σχετικές εγκρίσεις των συναρμόδιων φορέων, καθώς και εάν πρόκειται για τροποποίηση παλαιότερης άδειας.\nΗ άδεια χορηγήθηκε, κατόπιν της με Αριθ. Πρωτ. 24646/16-10-2017 αίτησης, \n\tμε τη διαδικασία αδειοδότησης της παρ. 17 του άρθρου 30 του Ν.4070/2012 που πλέον έχει αντικατασταθεί από τη διαδικασία που ορίζει ο ν. 4635/2019.\n\tΣύμφωνα με τα στοιχεία που έχουν υποβληθεί στο ΣΗΛΥΑ για την κατασκευή κεραίας από τον κάτοχό της, έχει εκδοθεί έγκριση δομικών κατασκευών κεραίας",
+  "measurements_eaee": "-",
+  "documents": [
+    {
+      "document_number": "309882/13-10-2017",
+      "protocol_number": "ΜΕΣΩ ΣΗΛΥΑ/25-05-2017",
+      "type": "Αίτηση - Μελέτη Ραδιοεκπομπών ΕΕΑΕ",
+      "file_url": "https://silia.eett.gr/silia/download/27860886-1702-4ee5-9af7-4cc3b367a2bd"
+    },
+    {
+      "document_number": "309888/13-10-2017",
+      "protocol_number": "Δ3/Δ/19313/4019/19-05-2004",
+      "type": "Γνωμάτευση ΥΠΑ",
+      "file_url": "https://silia.eett.gr/silia/download/07bac0eb-d231-45df-a162-52c7b43c76a2"
+    },
+    {
+      "document_number": "309889/13-10-2017",
+      "protocol_number": "ΜΕΣΩ ΣΗΛΥΑ/",
+      "type": "Αίτηση ΥΠΑ",
+      "file_url": "https://silia.eett.gr/silia/download/fc4543ce-37e2-456a-9d33-97060051a352"
+    },
+    {
+      "document_number": "310051/16-10-2017",
+      "protocol_number": "Αρχείο Αίτησης/",
+      "type": "Αίτηση Άδειας Κατασκευής Κεραίας ΕΕΤΤ",
+      "file_url": "https://silia.eett.gr/silia/download/6ddab8e1-0434-4cd5-8014-15df8ca3c09e"
+    },
+    {
+      "document_number": "315273/06-12-2017",
+      "protocol_number": "4307/01-12-2017",
+      "type": "Τοπογραφικό",
+      "file_url": "https://silia.eett.gr/silia/download/db0c171d-d131-49de-970e-7f065eca1c3f"
+    },
+    {
+      "document_number": "315274/06-12-2017",
+      "protocol_number": "4307/01-12-2017",
+      "type": "Αρχιτεκτονικά Σχέδια",
+      "file_url": "https://silia.eett.gr/silia/download/b135feef-472b-4440-a39f-7fea1f1a0990"
+    },
+    {
+      "document_number": "318242/15-01-2018",
+      "protocol_number": "Μ.ι./411/522/2018/15-01-2018",
+      "type": "Γνωμάτευση ΕΕΑΕ",
+      "file_url": "https://silia.eett.gr/silia/download/20885766-c55a-4d9f-ba4e-f795107bd174"
+    },
+    {
+      "document_number": "325866/03-04-2018",
+      "protocol_number": "4307/02-04-2018",
+      "type": "Έγκριση δομικών κατασκευών (έντυπη)",
+      "file_url": "https://silia.eett.gr/silia/download/1ba8a736-2350-4e8a-8932-73a85936ac42"
+    },
+    {
+      "document_number": "347276/01-11-2018",
+      "protocol_number": "30215/Φ610/30-10-2018",
+      "type": "Άδεια Κατασκευής  Κεραίας",
+      "file_url": "https://silia.eett.gr/silia/download/49ae7f87-d67a-4389-8943-d541d9a9013b"
+    },
+    {
+      "document_number": "325866/03-04-2018",
+      "protocol_number": "4307/02-04-2018",
+      "type": "Έγκριση δομικών κατασκευών (έντυπη)",
+      "file_url": "https://silia.eett.gr/silia/download/1ba8a736-2350-4e8a-8932-73a85936ac42"
+    },
+    {
+      "document_number": "315270/06-12-2017",
+      "protocol_number": "ΣΥΝΟΔΕΥΤΙΚΑ ΕΓΓΡΑΦΑ/",
+      "type": "Δήλωση υπαγωγής σε ΠΠΔ και Συνοδευτικά Έγγραφα",
+      "file_url": "https://silia.eett.gr/silia/download/c2b0c654-261a-4a53-8345-790a9318002d"
+    },
+    {
+      "document_number": "315271/06-12-2017",
+      "protocol_number": "Αρχείο Αίτησης/",
+      "type": "Δήλωση ΠΠΔ",
+      "file_url": "https://silia.eett.gr/silia/download/5dbf6867-1970-4da9-a9fb-d13f57193a3b"
+    }
+  ]
+}

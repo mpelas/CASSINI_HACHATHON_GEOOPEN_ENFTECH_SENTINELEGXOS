@@ -1,0 +1,27 @@
+{
+  "antenna_id": "143600",
+  "address": "ΟΔΟΣ ΑΣΥΡΜΑΤΟΥ 106",
+  "position_code": 1125070,
+  "municipality": "Αγίου Δημητρίου",
+  "code_name": "ASYRMATOU AGIOS DIMITRIOS REP.",
+  "region": "Αττικής",
+  "latitude": 37.930556,
+  "company": "VODAFONE",
+  "longitude": 23.720278,
+  "permit_status": "Από τα στοιχεία που τηρούνται στην Ενημερωτική Πύλη προκύπτει ότι, για τη θέση \"ΟΔΟΣ ΑΣΥΡΜΑΤΟΥ 106\" στον Δήμο Αγίου Δημητρίου Περιφέρειας  Αττικής \n\t(κωδικός αριθμός θέσης 1125070, κωδική ονομασία \"ASYRMATOU AGIOS DIMITRIOS REP.\") έχει κατατεθεί από την εταιρία VODAFONE\tδήλωση εγκατάστασης κατασκευής κεραίας (αριθ. πρωτ. \n\t34169/10-09-2019) που εμπίπτει στις διατάξεις της νομοθεσίας για Εγκαταστάσεις Κατασκευών Κεραιών Χαμηλής Ηλεκτρομαγνητικής Περιβαλλοντικής Όχλησης (ΕΚΚΧΟ).",
+  "measurements_eaee": "-",
+  "documents": [
+    {
+      "document_number": "373319/22-08-2019",
+      "protocol_number": "ΦΩΤΟΓΡΑΦΙΑ ΘΕΣΗΣ ΚΕΡΑΙΑΣ 1/",
+      "type": "Φωτογραφικό Υλικό - Σκαρίφημα",
+      "file_url": "https://silia.eett.gr/silia/download/1556a9fb-bfa4-4b83-bc46-d1c3cbf0d133"
+    },
+    {
+      "document_number": "374628/10-09-2019",
+      "protocol_number": "Αρχείο Αίτησης/",
+      "type": "Δήλωση ΕΚΚΧΟ",
+      "file_url": "https://silia.eett.gr/silia/download/30bf65f5-8c60-4740-9f5e-02d18cd669f0"
+    }
+  ]
+}

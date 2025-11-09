@@ -1,0 +1,33 @@
+{
+  "antenna_id": "175748",
+  "address": "Γ Τ.Τ. ΑΥΤ/ΜΩΝ ΑΝΤ-ΙΩΑΝ. (S-ART-29123)",
+  "position_code": 1495154,
+  "municipality": "Αρταίων",
+  "code_name": "TROXAIA_ARTA_SYZII",
+  "region": "Ηπείρου",
+  "latitude": 39.222222,
+  "company": "OTE",
+  "longitude": 20.909167,
+  "permit_status": "Από τα στοιχεία που τηρούνται στην Ενημερωτική Πύλη προκύπτει ότι, για τη θέση \"Γ Τ.Τ. ΑΥΤ/ΜΩΝ ΑΝΤ-ΙΩΑΝ. (S-ART-29123)\" στον Δήμο Αρταίων Περιφέρειας  Ηπείρου \n\t(κωδικός αριθμός θέσης 1495154, κωδική ονομασία \"TROXAIA_ARTA_SYZII\") έχει κατατεθεί από την εταιρία OTE\tδήλωση εγκατάστασης κατασκευής κεραίας (αριθ. πρωτ. \n\t57955/22-10-2024) που εμπίπτει στις διατάξεις της νομοθεσίας για Εγκαταστάσεις Κατασκευών Κεραιών Χαμηλής Ηλεκτρομαγνητικής Περιβαλλοντικής Όχλησης (ΕΚΚΧΟ).",
+  "measurements_eaee": "-",
+  "documents": [
+    {
+      "document_number": "528368/09-10-2024",
+      "protocol_number": "ΦΩΤΟΓΡΑΦΙΑ/09-10-2024",
+      "type": "Φωτογραφικό Υλικό - Σκαρίφημα",
+      "file_url": "https://silia.eett.gr/silia/download/liDTtBcqvuyYb9RSBHptKQQsoNWcG0YG82HG"
+    },
+    {
+      "document_number": "529380/18-10-2024",
+      "protocol_number": "ΜΕΛΕΤΗ/18-10-2024",
+      "type": "Αίτηση - Μελέτη Ραδιοεκπομπών ΕΕΑΕ",
+      "file_url": "https://silia.eett.gr/silia/download/f1Me6VplyoDlqwC6CEHurU4KNWDiIWspKUUs"
+    },
+    {
+      "document_number": "529704/22-10-2024",
+      "protocol_number": "Αρχείο Αίτησης/22-10-2024",
+      "type": "Δήλωση ΕΚΚΧΟ",
+      "file_url": "https://silia.eett.gr/silia/download/XR6h5DGmr1miMeWFKqf2OgRgydSS0UV0rqf1"
+    }
+  ]
+}

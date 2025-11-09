@@ -1,0 +1,75 @@
+{
+  "antenna_id": "168941",
+  "address": "ΥΨΩΜΑ \"ΠΡΟΦ. ΗΛΙΑΣ\" ΠΛΗΣΙΟΝ ΟΙΚΙΣΜΟΥ \"ΨΑΡΙ\"",
+  "position_code": 1405255,
+  "municipality": "Σικυωνίων",
+  "code_name": "ΨΑΡΙ / Χ",
+  "region": "Πελοποννήσου",
+  "latitude": 37.87,
+  "company": "OTE",
+  "longitude": 22.526667,
+  "permit_status": "Από τα στοιχεία που τηρούνται στην Ενημερωτική Πύλη προκύπτει ότι, για τη θέση \"ΥΨΩΜΑ \"ΠΡΟΦ. ΗΛΙΑΣ\" ΠΛΗΣΙΟΝ ΟΙΚΙΣΜΟΥ \"ΨΑΡΙ\"\" στον Δήμο Σικυωνίων Περιφέρειας  Πελοποννήσου \n\t(κωδικός αριθμός θέσης 1405255, κωδική ονομασία \"ΨΑΡΙ / Χ\") χορηγήθηκε, με την Απόφαση της ΕΕΤΤ \n49113/20-09-2023, άδεια κατασκευής κεραίας στην εταιρία OTE. \nΑπό τo έγγραφο της άδειας μπορείτε να ενημερωθείτε για τις σχετικές εγκρίσεις των συναρμόδιων φορέων, καθώς και εάν πρόκειται για τροποποίηση παλαιότερης άδειας.\n\tΣύμφωνα με τα στοιχεία που έχουν υποβληθεί στο ΣΗΛΥΑ, ο κάτοχος της κατασκευής κεραίας έχει δηλώσει ότι θα προβεί σε έκδοση έγκρισης δομικών κατασκευών \n\t\tκεραίας μέσω του e-Άδειες \n\t\tμετά την έκδοση της άδειας κατασκευής κεραίας / δημοσιοποίηση της δήλωσης τροποποίησης της κατασκευής κεραίας",
+  "measurements_eaee": "-",
+  "documents": [
+    {
+      "document_number": "488341/20-06-2023",
+      "protocol_number": "ΜΕΣΩ ΣΗΛΥΑ    /",
+      "type": "Τοπογραφικό",
+      "file_url": "https://silia.eett.gr/silia/download/cd46db74-803b-463a-91ee-15bc909392ae"
+    },
+    {
+      "document_number": "488342/20-06-2023",
+      "protocol_number": "ΜΕΣΩ ΣΗΛΥΑ    /",
+      "type": "Αρχιτεκτονικά Σχέδια",
+      "file_url": "https://silia.eett.gr/silia/download/e873da51-4299-41b6-92e5-5cd4781f4e57"
+    },
+    {
+      "document_number": "488343/20-06-2023",
+      "protocol_number": "ΜΕΣΩ ΣΗΛΥΑ    /12-06-2023",
+      "type": "Αίτηση - Μελέτη Ραδιοεκπομπών ΕΕΑΕ",
+      "file_url": "https://silia.eett.gr/silia/download/594aab31-3fec-4ef5-b942-9fa5a9d8189d"
+    },
+    {
+      "document_number": "488347/20-06-2023",
+      "protocol_number": "Δ3/Δ/1055/262/29-03-2000",
+      "type": "Γνωμάτευση ΥΠΑ",
+      "file_url": "https://silia.eett.gr/silia/download/cd058cd7-07e9-45f5-a239-554a97ca283c"
+    },
+    {
+      "document_number": "488348/20-06-2023",
+      "protocol_number": "ΜΕΣΩ ΣΗΛΥΑ    /",
+      "type": "Αίτηση ΥΠΑ",
+      "file_url": "https://silia.eett.gr/silia/download/1ff2d40b-871e-4a3f-b44d-c311a574a04f"
+    },
+    {
+      "document_number": "488350/20-06-2023",
+      "protocol_number": "Αρχείο Αίτησης/",
+      "type": "Αίτηση Άδειας Κατασκευής Κεραίας ΕΕΤΤ",
+      "file_url": "https://silia.eett.gr/silia/download/b8149150-266b-487c-801b-22eaf6a260d9"
+    },
+    {
+      "document_number": "490737/20-07-2023",
+      "protocol_number": "ΤΜΙΑ/411/9282/2023/20-07-2023",
+      "type": "Γνωμάτευση ΕΕΑΕ",
+      "file_url": "https://silia.eett.gr/silia/download/828c203d-226e-4f24-8d19-0948ac8c58c5"
+    },
+    {
+      "document_number": "494970/21-09-2023",
+      "protocol_number": "49113/20-09-2023",
+      "type": "Άδεια Κατασκευής  Κεραίας",
+      "file_url": "https://silia.eett.gr/silia/download/22529744-332f-49dd-92f1-e72f789969fa"
+    },
+    {
+      "document_number": "488340/20-06-2023",
+      "protocol_number": "ΣΥΝΟΔΕΥΤΙΚΑ ΕΓΓΡΑΦΑ/",
+      "type": "Δήλωση υπαγωγής σε ΠΠΔ και Συνοδευτικά Έγγραφα",
+      "file_url": "https://silia.eett.gr/silia/download/f0b279f8-bf1d-4bf6-99f7-d7584f9cda47"
+    },
+    {
+      "document_number": "488351/20-06-2023",
+      "protocol_number": "Αρχείο Αίτησης/",
+      "type": "Δήλωση ΠΠΔ",
+      "file_url": "https://silia.eett.gr/silia/download/a923ee2b-88fd-4ff7-bec1-e15cff771f82"
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "antenna_id": "152528",
+  "address": "ΕΛΑΤΗ ΔΗΜΟΣ ΠΥΛΗΣ ΠΕΡ. ΘΕΣΣΑΛΙΑΣ",
+  "position_code": 3207202,
+  "municipality": "Πύλης",
+  "code_name": "ΕΛΑΤΗ-Δ",
+  "region": "Θεσσαλίας",
+  "latitude": 39.531389,
+  "company": "ΕΡΤ ΑΕ",
+  "longitude": 21.498056,
+  "permit_status": "Από τα στοιχεία που τηρούνται στην Ενημερωτική Πύλη προκύπτει ότι για τη  θέση \"ΕΛΑΤΗ ΔΗΜΟΣ ΠΥΛΗΣ ΠΕΡ. ΘΕΣΣΑΛΙΑΣ\" στον Δήμο Πύλης Περιφέρειας  Θεσσαλίας έχει κατατεθεί από την εταιρία ΕΡΤ ΑΕ δήλωση δομικών κατασκευών κεραιών  \nμε αριθ. πρωτ. ΣΗΛΥΑ 38155/09-04-2020 κατά τα οριζόμενα στην παρ. 7 του άρθρου 34 του Ν.4635/2019.",
+  "measurements_eaee": "-",
+  "documents": [
+    {
+      "document_number": "400177/26-03-2020",
+      "protocol_number": "δορυφορική λήψη και στοιχεία δομικών κατασκευών/",
+      "type": "Άλλο",
+      "file_url": "https://silia.eett.gr/silia/download/600cea70-e962-4791-85e3-f06edf554401"
+    },
+    {
+      "document_number": "400463/30-03-2020",
+      "protocol_number": "απογραφή 1987/",
+      "type": "Άλλο",
+      "file_url": "https://silia.eett.gr/silia/download/f135c7be-280d-494a-8f4b-5984fef2641f"
+    },
+    {
+      "document_number": "400464/30-03-2020",
+      "protocol_number": "πίνακας 49 απογραφής ΕΡΤ 1987/",
+      "type": "Άλλο",
+      "file_url": "https://silia.eett.gr/silia/download/c416edf3-18df-4322-8a39-b898ef6ed622"
+    },
+    {
+      "document_number": "401824/09-04-2020",
+      "protocol_number": "Αρχείο Αίτησης/",
+      "type": "Δήλωση Δομικών ΕΡΤ",
+      "file_url": "https://silia.eett.gr/silia/download/94812100-6b0a-443f-a3fe-14dc6f42ab4c"
+    }
+  ]
+}

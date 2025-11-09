@@ -1,0 +1,93 @@
+{
+  "antenna_id": "157104",
+  "address": "ΠΡΩΤΑΓΟΡΑ 28",
+  "position_code": 1001168,
+  "municipality": "Πατρέων",
+  "code_name": "ΣΤΑΔΙΟ ΠΑΤΡΑΣ 2",
+  "region": "Δυτικής Ελλάδας",
+  "latitude": 38.223056,
+  "company": "VODAFONE",
+  "longitude": 21.753611,
+  "permit_status": "Από τα στοιχεία που τηρούνται στην Ενημερωτική Πύλη προκύπτει ότι, για τη θέση \"ΠΡΩΤΑΓΟΡΑ 28\" στον Δήμο Πατρέων Περιφέρειας  Δυτικής Ελλάδας \n\t(κωδικός αριθμός θέσης 1001168, κωδική ονομασία \"ΣΤΑΔΙΟ ΠΑΤΡΑΣ 2\") χορηγήθηκε, με την Απόφαση της ΕΕΤΤ \n39229/25-01-2021, άδεια κατασκευής κεραίας στην εταιρία VODAFONE. \nΑπό τo έγγραφο της άδειας μπορείτε να ενημερωθείτε για τις σχετικές εγκρίσεις των συναρμόδιων φορέων, καθώς και εάν πρόκειται για τροποποίηση παλαιότερης άδειας.",
+  "measurements_eaee": "-",
+  "documents": [
+    {
+      "document_number": "421595/12-11-2020",
+      "protocol_number": "Τοπογραφικό διάγραμμα/",
+      "type": "Τοπογραφικό",
+      "file_url": "https://silia.eett.gr/silia/download/ba403f29-ad28-4b42-aedc-2510cecd9821"
+    },
+    {
+      "document_number": "421596/12-11-2020",
+      "protocol_number": "Αρχιτεκτονικά Σχέδια/",
+      "type": "Αρχιτεκτονικά Σχέδια",
+      "file_url": "https://silia.eett.gr/silia/download/909f99a1-84aa-4b03-a79d-2fb2634dc61f"
+    },
+    {
+      "document_number": "421597/12-11-2020",
+      "protocol_number": "ΜΕΛΕΤΗ ΡΑΔΙΟΕΚΠΟΜΠΩΝ/11-11-2020",
+      "type": "Αίτηση - Μελέτη Ραδιοεκπομπών ΕΕΑΕ",
+      "file_url": "https://silia.eett.gr/silia/download/3e29a850-97c5-4082-bb95-46fc023817f9"
+    },
+    {
+      "document_number": "421598/12-11-2020",
+      "protocol_number": "76155/12-11-2020",
+      "type": "Αποτελέσματα μελέτης στη ζώνης 2.6GHz για ΥΠΑ/ΓΕΕΘΑ",
+      "file_url": "https://silia.eett.gr/silia/download/3025c01e-a934-4e89-9d76-6eaf643d7be3"
+    },
+    {
+      "document_number": "421599/12-11-2020",
+      "protocol_number": "Χάρτης ΥΠΑ/",
+      "type": "Απόσπασμα Χάρτη ΓΥΣ 1:50.000",
+      "file_url": "https://silia.eett.gr/silia/download/42d13cbe-b703-4c8c-880b-87b0792ad7b1"
+    },
+    {
+      "document_number": "421600/12-11-2020",
+      "protocol_number": "Μελέτη Η/Μ Υποβάθρου/11-11-2020",
+      "type": "Αίτηση - Μελέτη Ραδιοεκπομπών ΕΕΑΕ (υποβάθρου)",
+      "file_url": "https://silia.eett.gr/silia/download/12a5f0b1-9a79-4905-ae9c-0ae7787e669f"
+    },
+    {
+      "document_number": "421610/12-11-2020",
+      "protocol_number": "Αρχείο Αίτησης/",
+      "type": "Αίτηση Άδειας Κατασκευής Κεραίας ΕΕΤΤ",
+      "file_url": "https://silia.eett.gr/silia/download/54ada790-464d-4e29-af23-578dd4bebedf"
+    },
+    {
+      "document_number": "423524/28-11-2020",
+      "protocol_number": "Μ.ι./411/15290/2020/27-11-2020",
+      "type": "Γνωμάτευση ΕΕΑΕ",
+      "file_url": "https://silia.eett.gr/silia/download/494d5fdb-698a-46c0-8f0e-9a06cd70dca7"
+    },
+    {
+      "document_number": "426110/22-12-2020",
+      "protocol_number": "Δ3/Δ/43111/22-12-2020/22-12-2020",
+      "type": "Γνωμάτευση ΥΠΑ",
+      "file_url": "https://silia.eett.gr/silia/download/3311d9fd-1a79-4872-995e-e23c6aa4cec9"
+    },
+    {
+      "document_number": "427887/26-01-2021",
+      "protocol_number": "39229/25-01-2021",
+      "type": "Άδεια Κατασκευής  Κεραίας",
+      "file_url": "https://silia.eett.gr/silia/download/3723b2d8-ecea-4891-90d2-8c4f0b615073"
+    },
+    {
+      "document_number": "421608/12-11-2020",
+      "protocol_number": "ΜΕΛΕΤΗ ΡΑΔΙΟΕΚΠΟΜΠΩΝ/11-11-2020",
+      "type": "Αίτηση - Μελέτη Ραδιοεκπομπών ΕΕΑΕ",
+      "file_url": "https://silia.eett.gr/silia/download/3e29a850-97c5-4082-bb95-46fc023817f9"
+    },
+    {
+      "document_number": "421609/12-11-2020",
+      "protocol_number": "ΣΥΝΟΔΕΥΤΙΚΑ ΕΓΓΡΑΦΑ ΠΠΔ\t/",
+      "type": "Δήλωση υπαγωγής σε ΠΠΔ και Συνοδευτικά Έγγραφα",
+      "file_url": "https://silia.eett.gr/silia/download/f058ba8b-8432-45aa-b9af-8c793864095f"
+    },
+    {
+      "document_number": "421611/12-11-2020",
+      "protocol_number": "Αρχείο Αίτησης/",
+      "type": "Δήλωση ΠΠΔ",
+      "file_url": "https://silia.eett.gr/silia/download/aaf43f0f-237d-46cd-b5ca-9d4d750dc65b"
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "antenna_id": "171023",
+  "address": "ΚΕΝΤΡΟ \"ΔΗΜΗΤΡΑ\" ΣΚΥΔΡΑΣ - ΕΛΓΟ ΔΗΜΗΤΡΑ, Μαυροβούνι.",
+  "position_code": 1151884,
+  "municipality": "Έδεσσας",
+  "code_name": "3031884 SYZEFXIS KENTRO DIMITRA SKYDRA",
+  "region": "Κεντρικής Μακεδονίας",
+  "latitude": 40.783056,
+  "company": "VODAFONE",
+  "longitude": 22.134722,
+  "permit_status": "Από τα στοιχεία που τηρούνται στην Ενημερωτική Πύλη προκύπτει ότι, για τη θέση \"ΚΕΝΤΡΟ \"ΔΗΜΗΤΡΑ\" ΣΚΥΔΡΑΣ - ΕΛΓΟ ΔΗΜΗΤΡΑ, Μαυροβούνι.\" στον Δήμο Έδεσσας Περιφέρειας  Κεντρικής Μακεδονίας \n\t(κωδικός αριθμός θέσης 1151884, κωδική ονομασία \"3031884 SYZEFXIS KENTRO DIMITRA SKYDRA\") έχει κατατεθεί από την εταιρία VODAFONE\tδήλωση εγκατάστασης κατασκευής κεραίας (αριθ. πρωτ. \n\t53916/24-11-2023) που εμπίπτει στις διατάξεις της νομοθεσίας για Εγκαταστάσεις Κατασκευών Κεραιών Χαμηλής Ηλεκτρομαγνητικής Περιβαλλοντικής Όχλησης (ΕΚΚΧΟ).",
+  "measurements_eaee": "-",
+  "documents": [
+    {
+      "document_number": "500557/15-11-2023",
+      "protocol_number": "Φωτορεαλιστική απεικόνιση κεραίας ΕΚΚΧΟ/",
+      "type": "Φωτογραφικό Υλικό - Σκαρίφημα",
+      "file_url": "https://silia.eett.gr/silia/download/3f631d3d-d50b-48e9-af96-5f517fce36e4"
+    },
+    {
+      "document_number": "500558/15-11-2023",
+      "protocol_number": "Ψηφιακός Χάρτης με προβολή της θέσης της κεραίας ΕΚΚΧΟ/",
+      "type": "Φωτογραφικό Υλικό - Σκαρίφημα",
+      "file_url": "https://silia.eett.gr/silia/download/ead73859-4226-40ad-9c2b-32106d7cd57d"
+    },
+    {
+      "document_number": "501424/24-11-2023",
+      "protocol_number": "Μελέτη ΕΚΚΧΟ/20-11-2023",
+      "type": "Άλλο",
+      "file_url": "https://silia.eett.gr/silia/download/0c13c331-0574-4eaf-a911-fdad2ef3b7e2"
+    },
+    {
+      "document_number": "501425/24-11-2023",
+      "protocol_number": "Σκαρίφημα με περιοχή απαγόρευσης/",
+      "type": "Φωτογραφικό Υλικό - Σκαρίφημα",
+      "file_url": "https://silia.eett.gr/silia/download/a2f3d891-b3a1-4a0b-b241-582f594cd1f2"
+    },
+    {
+      "document_number": "501426/24-11-2023",
+      "protocol_number": "Αρχείο Αίτησης/",
+      "type": "Δήλωση ΕΚΚΧΟ",
+      "file_url": "https://silia.eett.gr/silia/download/97c6e54d-ab63-4824-83a3-8e3d57baba72"
+    }
+  ]
+}

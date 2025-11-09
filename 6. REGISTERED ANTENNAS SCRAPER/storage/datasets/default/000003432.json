@@ -1,0 +1,81 @@
+{
+  "antenna_id": "175280",
+  "address": "ΕΝΤΟΣ ΟΙΚΙΣΜΟΥ ΄΄ΚΙΟΝΙΑ΄΄",
+  "position_code": 1442421,
+  "municipality": "Τήνου",
+  "code_name": "ΚΙΟΝΙΑ-2",
+  "region": "Νοτίου Αιγαίου",
+  "latitude": 37.553056,
+  "company": "OTE",
+  "longitude": 25.138333,
+  "permit_status": "Από τα στοιχεία που τηρούνται στην Ενημερωτική Πύλη προκύπτει ότι, για τη θέση \"ΕΝΤΟΣ ΟΙΚΙΣΜΟΥ ΄΄ΚΙΟΝΙΑ΄΄\" στον Δήμο Τήνου Περιφέρειας  Νοτίου Αιγαίου \n\t(κωδικός αριθμός θέσης 1442421, κωδική ονομασία \"ΚΙΟΝΙΑ-2\") χορηγήθηκε, με την Απόφαση της ΕΕΤΤ \n51709/18-11-2024, άδεια κατασκευής κεραίας στην εταιρία OTE. \nΑπό τo έγγραφο της άδειας μπορείτε να ενημερωθείτε για τις σχετικές εγκρίσεις των συναρμόδιων φορέων, καθώς και εάν πρόκειται για τροποποίηση παλαιότερης άδειας.\n\tΣύμφωνα με τα στοιχεία που έχουν υποβληθεί στο ΣΗΛΥΑ, ο κάτοχος της κατασκευής κεραίας έχει δηλώσει ότι θα προβεί σε έκδοση έγκρισης δομικών κατασκευών \n\t\tκεραίας μέσω του e-Άδειες \n\t\tμετά την έκδοση της άδειας κατασκευής κεραίας / δημοσιοποίηση της δήλωσης τροποποίησης της κατασκευής κεραίας",
+  "measurements_eaee": "-",
+  "documents": [
+    {
+      "document_number": "525451/12-09-2024",
+      "protocol_number": "ΤΟΠΟΓΡΑΦΙΚΟ/12-09-2024",
+      "type": "Τοπογραφικό",
+      "file_url": "https://silia.eett.gr/silia/download/QsOesbqDbGIYIn8g4rGpGv2yhRZWZef3WxoH"
+    },
+    {
+      "document_number": "525452/12-09-2024",
+      "protocol_number": "ΑΡΧΙΤΕΚΤΟΝΙΚΑ/12-09-2024",
+      "type": "Αρχιτεκτονικά Σχέδια",
+      "file_url": "https://silia.eett.gr/silia/download/8huGmUOpg2go53Xlz5URgdW8dqflb3BebxMa"
+    },
+    {
+      "document_number": "525453/12-09-2024",
+      "protocol_number": "ΜΕΛΕΤΗ Ρ/Ε/09-09-2024",
+      "type": "Αίτηση - Μελέτη Ραδιοεκπομπών ΕΕΑΕ",
+      "file_url": "https://silia.eett.gr/silia/download/GfFvZd0RsEqwxLnAVhGb0ZMcSCFcnp4NVDGP"
+    },
+    {
+      "document_number": "525454/12-09-2024",
+      "protocol_number": "ΑΝΑΚΟΙΝΩΣΗ ΓΕΜΗ/12-09-2024",
+      "type": "Άλλο",
+      "file_url": "https://silia.eett.gr/silia/download/l1bMQKCEgyp0GoGQZbBokuXoLNvtn0ST0SIG"
+    },
+    {
+      "document_number": "525470/12-09-2024",
+      "protocol_number": "Αρχείο Αίτησης/12-09-2024",
+      "type": "Αίτηση Άδειας Κατασκευής Κεραίας ΕΕΤΤ",
+      "file_url": "https://silia.eett.gr/silia/download/THK7fzvFyH6tkz7rwVOGNgBz9e53ICSmNcSg"
+    },
+    {
+      "document_number": "528923/16-10-2024",
+      "protocol_number": "ΚΓ/Δ3/Δ/20484/16-10-2024",
+      "type": "Γνωμάτευση ΥΠΑ",
+      "file_url": "https://silia.eett.gr/silia/download/TyGq0VLhtk2QqVLE6nKL8BnW8uCr83EYy6Mt"
+    },
+    {
+      "document_number": "529583/21-10-2024",
+      "protocol_number": "μεσω ΣΗΛΥΑ/21-10-2024",
+      "type": "Αίτηση - Μελέτη Ραδιοεκπομπών ΕΕΑΕ",
+      "file_url": "https://silia.eett.gr/silia/download/QfhD481GovSABiWgsOr3rHyS40GK3UKpG00b"
+    },
+    {
+      "document_number": "529881/23-10-2024",
+      "protocol_number": "ΜΕΣΩ ΣΗΛΥΑ/23-10-2024",
+      "type": "Αίτηση - Μελέτη Ραδιοεκπομπών ΕΕΑΕ",
+      "file_url": "https://silia.eett.gr/silia/download/4bGgNq0hqKNBEpXICceVbWe5pA0xGDWvQxeT"
+    },
+    {
+      "document_number": "530040/24-10-2024",
+      "protocol_number": "TMIA/411/15071/2024/24-10-2024",
+      "type": "Γνωμάτευση ΕΕΑΕ",
+      "file_url": "https://silia.eett.gr/silia/download/naP0A729mKgGm3sBmn6q5OhmHNQIAn0DVLWM"
+    },
+    {
+      "document_number": "532794/18-11-2024",
+      "protocol_number": "51709/18-11-2024",
+      "type": "Άδεια Κατασκευής  Κεραίας",
+      "file_url": "https://silia.eett.gr/silia/download/sE9AGggncBWpV8UfshcNET5LQavzrQXLuvex"
+    },
+    {
+      "document_number": "525471/12-09-2024",
+      "protocol_number": "Αρχείο Αίτησης/12-09-2024",
+      "type": "Δήλωση ΠΠΔ",
+      "file_url": "https://silia.eett.gr/silia/download/PSTrzUsi3d4s0IFG2dQQ0IDP9tOcFWBXHokZ"
+    }
+  ]
+}

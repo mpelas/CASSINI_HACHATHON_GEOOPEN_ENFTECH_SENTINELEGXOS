@@ -1,0 +1,135 @@
+{
+  "antenna_id": "145150",
+  "address": "ΥΜΗΤΤΟΣ RING ROAD-ΑΤΤΙΚΗ ΟΔΟΣ ( Χ.Θ.2+140.00)",
+  "position_code": 1203606,
+  "municipality": "Αγίας Παρασκευής",
+  "code_name": "ΥΜΗΤΤΟΣ RING ROAD 2",
+  "region": "Αττικής",
+  "latitude": 38.008333,
+  "company": "NOVA Μ.Α.Ε.",
+  "longitude": 23.843056,
+  "permit_status": "Από τα στοιχεία που τηρούνται στην Ενημερωτική Πύλη προκύπτει ότι, για τη θέση \"ΥΜΗΤΤΟΣ RING ROAD-ΑΤΤΙΚΗ ΟΔΟΣ ( Χ.Θ.2+140.00)\" στον Δήμο Αγίας Παρασκευής Περιφέρειας  Αττικής \n\t(κωδικός αριθμός θέσης 1203606, κωδική ονομασία \"ΥΜΗΤΤΟΣ RING ROAD 2\") χορηγήθηκε, με την Απόφαση της ΕΕΤΤ \n39030/23-12-2020, άδεια κατασκευής κεραίας στην εταιρία NOVA Μ.Α.Ε.. \nΑπό τo έγγραφο της άδειας μπορείτε να ενημερωθείτε για τις σχετικές εγκρίσεις των συναρμόδιων φορέων, καθώς και εάν πρόκειται για τροποποίηση παλαιότερης άδειας.\nΗ άδεια χορηγήθηκε με τη διαδικασία αδειοδότησης που ορίζει ο ν. 4635/2019, κατόπιν της με αριθ. πρωτ. 35410/08-11-2019 \n\tαίτησης, και βάσει σχετικής δήλωσης του κατόχου της περί υπαγωγή της κατασκευής κεραίας στο άρθρο 34 του ν. 4635/2019.",
+  "measurements_eaee": "-",
+  "documents": [
+    {
+      "document_number": "382614/08-11-2019",
+      "protocol_number": "32600/Φ615/13-05-2019",
+      "type": "Χορήγηση Δικαιώματος Χρήσης Ραδιοσυχνοτήτων",
+      "file_url": null
+    },
+    {
+      "document_number": "382615/08-11-2019",
+      "protocol_number": "32708/Φ615/20-05-2019",
+      "type": "Χορήγηση Δικαιώματος Χρήσης Ραδιοσυχνοτήτων",
+      "file_url": null
+    },
+    {
+      "document_number": "382616/08-11-2019",
+      "protocol_number": "ΥΠΕΥΘΥΝΗ ΔΗΛΩΣΗ ΚΟΙΝΗΣ ΧΡΗΣΗΣ VODAFONE/08-11-2019",
+      "type": "Άλλο",
+      "file_url": "https://silia.eett.gr/silia/download/99d49d7a-14a7-4d53-ae1a-5f61d7c3abfe"
+    },
+    {
+      "document_number": "382617/08-11-2019",
+      "protocol_number": "Δ3/Δ/37419/8223/06-10-2003",
+      "type": "Γνωμάτευση ΥΠΑ",
+      "file_url": "https://silia.eett.gr/silia/download/0ddf94a9-bd2a-4062-86c6-e1daee6bbcc4"
+    },
+    {
+      "document_number": "382618/08-11-2019",
+      "protocol_number": "Δ3/Δ/21778/6011/30-06-2010",
+      "type": "Γνωμάτευση ΥΠΑ",
+      "file_url": "https://silia.eett.gr/silia/download/9ab40929-ba07-4671-acac-a0389ea8300f"
+    },
+    {
+      "document_number": "382619/08-11-2019",
+      "protocol_number": "ΜΕΛΕΤΗ ΡΑΔΙΟΕΚΠΟΜΠΩΝ/06-11-2019",
+      "type": "Αίτηση - Μελέτη Ραδιοεκπομπών ΕΕΑΕ",
+      "file_url": "https://silia.eett.gr/silia/download/8408b944-1c89-443a-9fac-1dafba242a4d"
+    },
+    {
+      "document_number": "382620/08-11-2019",
+      "protocol_number": "ΤΟΠΟΓΡΑΦΙΚΟ/",
+      "type": "Τοπογραφικό",
+      "file_url": "https://silia.eett.gr/silia/download/9ea32b57-d86c-4074-acbb-578ba0a80398"
+    },
+    {
+      "document_number": "382621/08-11-2019",
+      "protocol_number": "ΑΡΧΙΤΕΚΤΟΝΙΚΑ ΣΧΕΔΙΑ/",
+      "type": "Αρχιτεκτονικά Σχέδια",
+      "file_url": "https://silia.eett.gr/silia/download/562fdf2c-ecc4-44af-b107-37cd0520c68c"
+    },
+    {
+      "document_number": "382624/08-11-2019",
+      "protocol_number": "ΜΕΛΕΤΗ ΣΥΜΒΑΤΟΤΗΤΑΣ/06-11-2019",
+      "type": "Μελέτη για τη ζώνη  2,6GHz",
+      "file_url": "https://silia.eett.gr/silia/download/c8ce01a6-03a7-46c9-bd62-8f7f45156f7d"
+    },
+    {
+      "document_number": "382625/08-11-2019",
+      "protocol_number": "ΜΕΛΕΤΗ ΣΥΜΒΑΤΟΤΗΤΑΣ/06-11-2019",
+      "type": "Μελέτη για τη ζώνη  2,6GHz",
+      "file_url": "https://silia.eett.gr/silia/download/eb5cbf0a-1309-4f8e-82df-14e78c5aaac5"
+    },
+    {
+      "document_number": "382630/08-11-2019",
+      "protocol_number": "Αρχείο Αίτησης/",
+      "type": "Αίτηση Άδειας Κατασκευής Κεραίας ΕΕΤΤ",
+      "file_url": "https://silia.eett.gr/silia/download/7a385903-15f4-4c8f-915a-17ec269f9b70"
+    },
+    {
+      "document_number": "398728/09-03-2020",
+      "protocol_number": "Μ.ι./411/3532/2020/06-03-2020",
+      "type": "Γνωμάτευση ΕΕΑΕ",
+      "file_url": "https://silia.eett.gr/silia/download/0af2115d-036e-47e6-b834-865f1e1447b7"
+    },
+    {
+      "document_number": "407028/21-05-2020",
+      "protocol_number": "27620/30-04-2020",
+      "type": "Αίτηση ΓΕΑ",
+      "file_url": "https://silia.eett.gr/silia/download/7ca62529-1e37-4f94-beaa-76fbdd33fb70"
+    },
+    {
+      "document_number": "423999/03-12-2020",
+      "protocol_number": "ΥΠΕΥΘΥΝΗ ΔΗΛΩΣΗ ΕΞΑΙΡΕΣΗΣ ΓΕΑ/11-06-2020",
+      "type": "Άλλο",
+      "file_url": "https://silia.eett.gr/silia/download/a3d010ac-c3a0-4465-a569-2db3a208e3c3"
+    },
+    {
+      "document_number": "425122/14-12-2020",
+      "protocol_number": "83626/11-12-2020",
+      "type": "Αποτελέσματα μελέτης στη ζώνης 2.6GHz για ΥΠΑ/ΓΕΕΘΑ",
+      "file_url": "https://silia.eett.gr/silia/download/998e1c9c-78e8-48fa-8007-4d11cd21a28b"
+    },
+    {
+      "document_number": "426609/29-12-2020",
+      "protocol_number": "39030/23-12-2020",
+      "type": "Άδεια Κατασκευής  Κεραίας",
+      "file_url": "https://silia.eett.gr/silia/download/22f46f92-b582-4f59-b206-16cd11aee8b6"
+    },
+    {
+      "document_number": "382627/08-11-2019",
+      "protocol_number": "ΜΕΛΕΤΗ ΡΑΔΙΟΕΚΠΟΜΠΩΝ/06-11-2019",
+      "type": "Αίτηση - Μελέτη Ραδιοεκπομπών ΕΕΑΕ",
+      "file_url": "https://silia.eett.gr/silia/download/8408b944-1c89-443a-9fac-1dafba242a4d"
+    },
+    {
+      "document_number": "382628/08-11-2019",
+      "protocol_number": "ΥΠΠΟΑ/ΓΔΑΜΤΕ/ΕΝΜΑ/103894/15235/4683/09-07-2013",
+      "type": "Γνωμοδότηση Υπηρεσίας Νεωτέρων Μνημείων",
+      "file_url": "https://silia.eett.gr/silia/download/ef5ff44d-0cbf-4d73-a33b-9515c12da1d4"
+    },
+    {
+      "document_number": "400264/27-03-2020",
+      "protocol_number": "ΥΠΠΟΑ/ΓΔΑΠΚ/ΑΦΑΑΝΑΤ/ΤΠΚΑΜ/40334/27458/1107/473/26-03-2020",
+      "type": "Αρχαιολογική έγκριση/γνωμοδότηση (μη τυπική)",
+      "file_url": "https://silia.eett.gr/silia/download/9e3543af-cc9c-410f-a852-977fd50f2486"
+    },
+    {
+      "document_number": "424000/03-12-2020",
+      "protocol_number": "Αρχείο Αίτησης/",
+      "type": "Δήλωση ΠΠΔ",
+      "file_url": "https://silia.eett.gr/silia/download/f24270f2-3cfc-4b05-af9b-9ce616dc06de"
+    }
+  ]
+}

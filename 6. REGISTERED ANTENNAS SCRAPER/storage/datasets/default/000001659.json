@@ -1,0 +1,63 @@
+{
+  "antenna_id": "180399",
+  "address": "ΞΕΝΟΔΟΧΕΙΟ, ΘΕΣΗ ΤΡΑΓΑΚΙ",
+  "position_code": 1405434,
+  "municipality": "Ζακύνθου",
+  "code_name": "SENTIDO_LUIS_MI",
+  "region": "Ιονίων Νήσων",
+  "latitude": 37.825278,
+  "company": "OTE",
+  "longitude": 20.848056,
+  "permit_status": "Από τα στοιχεία που τηρούνται στην Ενημερωτική Πύλη προκύπτει ότι, για τη θέση \"ΞΕΝΟΔΟΧΕΙΟ, ΘΕΣΗ ΤΡΑΓΑΚΙ\" στον Δήμο Ζακύνθου Περιφέρειας  Ιονίων Νήσων \n\t(κωδικός αριθμός θέσης 1405434, κωδική ονομασία \"SENTIDO_LUIS_MI\") έχει κατατεθεί από την εταιρία OTE\tδήλωση εγκατάστασης κατασκευής κεραίας (αριθ. πρωτ. \n\t61874/23-06-2025) που εμπίπτει στις διατάξεις της νομοθεσίας για Εγκαταστάσεις Κατασκευών Κεραιών Χαμηλής Ηλεκτρομαγνητικής Περιβαλλοντικής Όχλησης (ΕΚΚΧΟ).",
+  "measurements_eaee": "-",
+  "documents": [
+    {
+      "document_number": "553247/20-06-2025",
+      "protocol_number": "ΜΕΛΕΤΗ/20-06-2025",
+      "type": "Αίτηση - Μελέτη Ραδιοεκπομπών ΕΕΑΕ",
+      "file_url": "https://silia.eett.gr/silia/download/CNL4haPI2gb4s1V8iZ8GynHphm9bqAdqLgeb"
+    },
+    {
+      "document_number": "553248/20-06-2025",
+      "protocol_number": "ΤΟΠΟΓΡΑΦΙΚΟ/20-06-2025",
+      "type": "Τοπογραφικό",
+      "file_url": "https://silia.eett.gr/silia/download/nWq0Nb172qbVGs1ezZMe7PBXqFniFU4aeqy7"
+    },
+    {
+      "document_number": "553249/20-06-2025",
+      "protocol_number": "ΚΑΤΟΨΗ/20-06-2025",
+      "type": "Αρχιτεκτονικά [Κάτοψη - Τομή - Όψη]",
+      "file_url": "https://silia.eett.gr/silia/download/dC3bgu3Hzg9o1agBKeTBcTNDc6iyEIiRh7cq"
+    },
+    {
+      "document_number": "553250/20-06-2025",
+      "protocol_number": "ΤΟΜΗ/20-06-2025",
+      "type": "Αρχιτεκτονικά [Κάτοψη - Τομή - Όψη]",
+      "file_url": "https://silia.eett.gr/silia/download/bV4VMBvNWXebb8mdW3KxwQVmLDQYLAACMbgQ"
+    },
+    {
+      "document_number": "553251/20-06-2025",
+      "protocol_number": "273081/17-06-2025",
+      "type": "Γνωμοδότηση Υπηρεσίας Νεωτέρων Μνημείων",
+      "file_url": "https://silia.eett.gr/silia/download/EzrUpSnUXgfoF5mbskuICHnQPwrhWxnLy4x4"
+    },
+    {
+      "document_number": "553252/20-06-2025",
+      "protocol_number": "515813/05-12-2024",
+      "type": "Γνωμοδότηση ΕΠΚΑ",
+      "file_url": "https://silia.eett.gr/silia/download/YfvF7wxuLKGbEPviq53KRc4lwW4XbKKcuzYm"
+    },
+    {
+      "document_number": "553467/23-06-2025",
+      "protocol_number": "ΦΩΤΟΡΕΑΛΙΣΤΙΚΟ/23-06-2025",
+      "type": "Φωτογραφικό Υλικό - Σκαρίφημα",
+      "file_url": "https://silia.eett.gr/silia/download/QY1LrRzkP42D4awU6GeLGs9d5HbGfqGQlO85"
+    },
+    {
+      "document_number": "553468/23-06-2025",
+      "protocol_number": "Αρχείο Αίτησης/23-06-2025",
+      "type": "Δήλωση ΕΚΚΧΟ",
+      "file_url": "https://silia.eett.gr/silia/download/TL10NrNgGfD5xePgm5Gxd77DwV9UlzrrpHyi"
+    }
+  ]
+}

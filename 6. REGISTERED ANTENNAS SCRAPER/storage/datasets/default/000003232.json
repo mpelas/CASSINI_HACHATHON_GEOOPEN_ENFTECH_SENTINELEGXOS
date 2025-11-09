@@ -1,0 +1,63 @@
+{
+  "antenna_id": "166917",
+  "address": "ΧΕΡΡΟΝΗΣΟΣ ΣΙΦΝΟΥ",
+  "position_code": 1411430,
+  "municipality": "Σίφνου",
+  "code_name": "HERONISOS_MI",
+  "region": "Νοτίου Αιγαίου",
+  "latitude": 37.034722,
+  "company": "OTE",
+  "longitude": 24.651389,
+  "permit_status": "Από τα στοιχεία που τηρούνται στην Ενημερωτική Πύλη προκύπτει ότι, για τη θέση \"ΧΕΡΡΟΝΗΣΟΣ ΣΙΦΝΟΥ\" στον Δήμο Σίφνου Περιφέρειας  Νοτίου Αιγαίου \n\t(κωδικός αριθμός θέσης 1411430, κωδική ονομασία \"HERONISOS_MI\") έχει κατατεθεί από την εταιρία OTE\tδήλωση εγκατάστασης κατασκευής κεραίας (αριθ. πρωτ. \n\t50519/26-01-2023) που εμπίπτει στις διατάξεις της νομοθεσίας για Εγκαταστάσεις Κατασκευών Κεραιών Χαμηλής Ηλεκτρομαγνητικής Περιβαλλοντικής Όχλησης (ΕΚΚΧΟ).",
+  "measurements_eaee": "-",
+  "documents": [
+    {
+      "document_number": "476656/24-01-2023",
+      "protocol_number": "ΦΩΤΟΓΡΑΦΙΑ/",
+      "type": "Φωτογραφικό Υλικό - Σκαρίφημα",
+      "file_url": "https://silia.eett.gr/silia/download/e837c1be-0d11-445d-a32c-a8ef8a81aeaa"
+    },
+    {
+      "document_number": "476657/24-01-2023",
+      "protocol_number": "ΦΩΤΟΓΡΑΦΙΑ/",
+      "type": "Φωτογραφικό Υλικό - Σκαρίφημα",
+      "file_url": "https://silia.eett.gr/silia/download/0c6c1df1-4f25-444f-84f6-9b90a5cc066c"
+    },
+    {
+      "document_number": "476658/24-01-2023",
+      "protocol_number": "ΦΩΤΟΓΡΑΦΙΑ/",
+      "type": "Φωτογραφικό Υλικό - Σκαρίφημα",
+      "file_url": "https://silia.eett.gr/silia/download/d8677588-272f-4683-ba8a-c3000b2662b7"
+    },
+    {
+      "document_number": "476659/24-01-2023",
+      "protocol_number": "ΣΚΑΡΙΦΗΜΑ/",
+      "type": "Φωτογραφικό Υλικό - Σκαρίφημα",
+      "file_url": "https://silia.eett.gr/silia/download/4d045342-e2ee-42cd-bd2a-dc8b61cb1e6b"
+    },
+    {
+      "document_number": "476660/24-01-2023",
+      "protocol_number": "ΣΚΑΡΙΦΗΜΑ/",
+      "type": "Φωτογραφικό Υλικό - Σκαρίφημα",
+      "file_url": "https://silia.eett.gr/silia/download/1e8361a8-3332-4bba-a56c-2d51baacd710"
+    },
+    {
+      "document_number": "476661/24-01-2023",
+      "protocol_number": "ΜΕΣΩ ΣΗΛΥΑ/",
+      "type": "Αίτηση - Μελέτη Ραδιοεκπομπών ΕΕΑΕ",
+      "file_url": "https://silia.eett.gr/silia/download/47be2a13-37bd-497e-b30d-1a09a6df321b"
+    },
+    {
+      "document_number": "476771/26-01-2023",
+      "protocol_number": "Αρχείο Αίτησης/",
+      "type": "Δήλωση ΕΚΚΧΟ",
+      "file_url": "https://silia.eett.gr/silia/download/96761260-e1a8-4792-bf9e-3966a13584de"
+    },
+    {
+      "document_number": "478274/16-02-2023",
+      "protocol_number": "ΥΠΕΥΘΥΝΗ ΔΗΛΩΣΗ/16-02-2023",
+      "type": "Άλλο",
+      "file_url": "https://silia.eett.gr/silia/download/17ff0fb1-42df-41ef-8f7c-14ac502400d9"
+    }
+  ]
+}

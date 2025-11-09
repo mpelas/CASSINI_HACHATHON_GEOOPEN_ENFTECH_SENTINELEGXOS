@@ -1,0 +1,87 @@
+{
+  "antenna_id": "56181",
+  "address": "ΟΙΚΙΣΜΟΣ ΑΝΑΤΟΛΗ",
+  "position_code": 360010,
+  "municipality": "Αγιάς",
+  "code_name": "ΑΝΑΤΟΛΗ Τ/Κ (ΛΑΡΙΣΑΣ)",
+  "region": "Θεσσαλίας",
+  "latitude": 39.744722,
+  "company": "OTE",
+  "longitude": 22.7025,
+  "permit_status": "Από τα στοιχεία που τηρούνται στην Ενημερωτική Πύλη προκύπτει ότι, για τη θέση \"ΟΙΚΙΣΜΟΣ ΑΝΑΤΟΛΗ\" στον Δήμο Αγιάς Περιφέρειας  Θεσσαλίας \n\t(κωδικός αριθμός θέσης 0360010, κωδική ονομασία \"ΑΝΑΤΟΛΗ Τ/Κ (ΛΑΡΙΣΑΣ)\") χορηγήθηκε, με την Απόφαση της ΕΕΤΤ \n29045/Φ610/01-08-2018, άδεια κατασκευής κεραίας στην εταιρία OTE. \nΑπό τo έγγραφο της άδειας μπορείτε να ενημερωθείτε για τις σχετικές εγκρίσεις των συναρμόδιων φορέων, καθώς και εάν πρόκειται για τροποποίηση παλαιότερης άδειας.\n\tΗ άδεια χορηγήθηκε κατόπιν της με Αριθ. Πρωτ. 6272/15-02-2011 αίτησης. \n\tΓια την έκδοση της άδειας εφαρμόστηκε το προγενέστερο του Ν.4053/2012 νομοθετικό πλαίσιο, καθώς κατά δήλωση της εταιρίας, η κατασκευή πληρούσε \nτις προϋποθέσεις του άρθρου 31 του Ν.4053/2012.",
+  "measurements_eaee": "-",
+  "documents": [
+    {
+      "document_number": "9606/16-11-2012",
+      "protocol_number": "Μ.ι./411/1879/24-09-2007",
+      "type": "Γνωμάτευση ΕΕΑΕ",
+      "file_url": "https://silia.eett.gr/silia/download/ada8ca1e-7572-4880-b573-d167bf17dbd9"
+    },
+    {
+      "document_number": "9607/16-11-2012",
+      "protocol_number": "1261/14-03-2007",
+      "type": "Αίτηση / Μελέτη για Έγκριση Περιβαλλοντικών Επιπτώσεων (νόμιμη λειτουργία)",
+      "file_url": "https://silia.eett.gr/silia/download/4fb7d96d-c54f-42fd-9b82-c5441a023162"
+    },
+    {
+      "document_number": "15056/16-11-2012",
+      "protocol_number": "6272/15-02-2011",
+      "type": "Άλλο",
+      "file_url": "https://silia.eett.gr/silia/download/6ac8814e-c5dd-4d91-8f6c-728596d81a3d"
+    },
+    {
+      "document_number": "102073/25-09-2013",
+      "protocol_number": "Δ3/Δ/9117/1696/11-03-2004",
+      "type": "Γνωμάτευση ΥΠΑ",
+      "file_url": "https://silia.eett.gr/silia/download/666a86c7-eecf-4ea8-8d7a-76a4e072f3cd"
+    },
+    {
+      "document_number": "102074/25-09-2013",
+      "protocol_number": "35/07-01-2010",
+      "type": "Αποδεικτικό Καταβολής Τελών ΕΕΤΤ",
+      "file_url": "https://silia.eett.gr/silia/download/9e601ed2-d275-44fc-a9fb-71f468052ff4"
+    },
+    {
+      "document_number": "119354/19-12-2013",
+      "protocol_number": "ΠΠΔ ΜΕΣΩ ΣΗΛΥΑ/",
+      "type": "Δήλωση υπαγωγής σε ΠΠΔ και Συνοδευτικά Έγγραφα",
+      "file_url": "https://silia.eett.gr/silia/download/4600b0ad-bec8-4db9-b0f0-a5a51c2da22c"
+    },
+    {
+      "document_number": "129752/12-02-2014",
+      "protocol_number": "Αρχείο Αίτησης/",
+      "type": "Αίτηση Άδειας Κατασκευής Κεραίας ΕΕΤΤ",
+      "file_url": "https://silia.eett.gr/silia/download/dadbd3c3-844b-4f77-bbad-17bbd80ffa34"
+    },
+    {
+      "document_number": "236139/22-10-2015",
+      "protocol_number": "7732/21-11-2006",
+      "type": "Αίτηση - Μελέτη Ραδιοεκπομπών ΕΕΑΕ",
+      "file_url": "https://silia.eett.gr/silia/download/a3a3797a-2946-4f99-ac7a-77a08c25b95d"
+    },
+    {
+      "document_number": "337665/03-08-2018",
+      "protocol_number": "29045/Φ610/01-08-2018",
+      "type": "Άδεια Κατασκευής  Κεραίας",
+      "file_url": "https://silia.eett.gr/silia/download/08645ea3-4f89-4bbf-89d0-2625c64b7531"
+    },
+    {
+      "document_number": "337666/03-08-2018",
+      "protocol_number": "29045/Φ610/01-08-2018",
+      "type": "Άδεια Κατασκευής  Κεραίας",
+      "file_url": "https://silia.eett.gr/silia/download/9ef2df4f-7616-44ec-88e5-847e47cd3691"
+    },
+    {
+      "document_number": "236131/22-10-2015",
+      "protocol_number": "ΠΠΔ ΜΕΣΩ ΣΗΛΥΑ/",
+      "type": "Δήλωση υπαγωγής σε ΠΠΔ και Συνοδευτικά Έγγραφα",
+      "file_url": "https://silia.eett.gr/silia/download/530054e4-0198-4b6f-a55f-3cca34f704a9"
+    },
+    {
+      "document_number": "236132/22-10-2015",
+      "protocol_number": "Αρχείο Αίτησης/",
+      "type": "Δήλωση ΠΠΔ",
+      "file_url": "https://silia.eett.gr/silia/download/4b8c8858-420d-4728-87e9-33c5e8cba9ac"
+    }
+  ]
+}

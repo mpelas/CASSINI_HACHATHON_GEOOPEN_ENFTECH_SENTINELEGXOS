@@ -1,0 +1,51 @@
+{
+  "antenna_id": "167226",
+  "address": "16 χλμ Λεωφόρου Σπατών, Παιάνια",
+  "position_code": 1140409,
+  "municipality": "Παιανίας",
+  "code_name": "3030409 SYCHEM PAIANIA",
+  "region": "Αττικής",
+  "latitude": 37.990556,
+  "company": "VODAFONE",
+  "longitude": 23.876944,
+  "permit_status": "Από τα στοιχεία που τηρούνται στην Ενημερωτική Πύλη προκύπτει ότι, για τη θέση \"16 χλμ Λεωφόρου Σπατών, Παιάνια\" στον Δήμο Παιανίας Περιφέρειας  Αττικής \n\t(κωδικός αριθμός θέσης 1140409, κωδική ονομασία \"3030409 SYCHEM PAIANIA\") έχει κατατεθεί από την εταιρία VODAFONE\tδήλωση εγκατάστασης κατασκευής κεραίας (αριθ. πρωτ. \n\t50727/15-02-2023) που εμπίπτει στις διατάξεις της νομοθεσίας για Εγκαταστάσεις Κατασκευών Κεραιών Χαμηλής Ηλεκτρομαγνητικής Περιβαλλοντικής Όχλησης (ΕΚΚΧΟ).",
+  "measurements_eaee": "-",
+  "documents": [
+    {
+      "document_number": "478138/15-02-2023",
+      "protocol_number": "ΦΩΤΟΓΡΑΦΙΑ ΘΕΣΗΣ ΚΕΡΑΙΑΣ 1/",
+      "type": "Φωτογραφικό Υλικό - Σκαρίφημα",
+      "file_url": "https://silia.eett.gr/silia/download/bba1bcbb-d2f5-4e50-8f77-db5e3b692779"
+    },
+    {
+      "document_number": "478139/15-02-2023",
+      "protocol_number": "ΦΩΤΟΓΡΑΦΙΑ ΘΕΣΗΣ ΚΕΡΑΙΑΣ ΕΚΚΧΟ ΑΠΟ GOOGLE EARTH/",
+      "type": "Φωτογραφικό Υλικό - Σκαρίφημα",
+      "file_url": "https://silia.eett.gr/silia/download/1eaf8be3-08ef-4ba3-b6b2-d171d60e48b3"
+    },
+    {
+      "document_number": "478212/15-02-2023",
+      "protocol_number": "Μελέτη ΕΚΚΧΟ/14-02-2023",
+      "type": "Άλλο",
+      "file_url": "https://silia.eett.gr/silia/download/ee3603f6-aefe-45df-8606-04f400bfd6ea"
+    },
+    {
+      "document_number": "478213/15-02-2023",
+      "protocol_number": "Σκαρίφημα με περιοχή απαγόρευσης/",
+      "type": "Φωτογραφικό Υλικό - Σκαρίφημα",
+      "file_url": "https://silia.eett.gr/silia/download/3bc21d3e-ac6e-43b1-970c-8f0a8b51b649"
+    },
+    {
+      "document_number": "478214/15-02-2023",
+      "protocol_number": "Αρχείο Αίτησης/",
+      "type": "Δήλωση ΕΚΚΧΟ",
+      "file_url": "https://silia.eett.gr/silia/download/f0e6ba99-e3f9-4d51-a091-1eb944cebf35"
+    },
+    {
+      "document_number": "483213/26-04-2023",
+      "protocol_number": "ΥΔ εγκατάστασης/26-04-2023",
+      "type": "Άλλο",
+      "file_url": "https://silia.eett.gr/silia/download/d0d5bba2-1cb2-4967-8508-976a618ba94d"
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "antenna_id": "158656",
+  "address": "Μάρκου Μπότσαρη 20 και Αράχθου, Άρτα.",
+  "position_code": 1000923,
+  "municipality": "Αρταίων",
+  "code_name": "ARTA RING ROAD MICRO",
+  "region": "Ηπείρου",
+  "latitude": 39.16,
+  "company": "VODAFONE",
+  "longitude": 20.980556,
+  "permit_status": "Από τα στοιχεία που τηρούνται στην Ενημερωτική Πύλη προκύπτει ότι, για τη θέση \"Μάρκου Μπότσαρη 20 και Αράχθου, Άρτα.\" στον Δήμο Αρταίων Περιφέρειας  Ηπείρου \n\t(κωδικός αριθμός θέσης 1000923, κωδική ονομασία \"ARTA RING ROAD MICRO\") έχει κατατεθεί από την εταιρία VODAFONE\tδήλωση εγκατάστασης κατασκευής κεραίας (αριθ. πρωτ. \n\t43182/19-03-2021) που εμπίπτει στις διατάξεις της νομοθεσίας για Εγκαταστάσεις Κατασκευών Κεραιών Χαμηλής Ηλεκτρομαγνητικής Περιβαλλοντικής Όχλησης (ΕΚΚΧΟ).",
+  "measurements_eaee": "-",
+  "documents": [
+    {
+      "document_number": "431377/18-03-2021",
+      "protocol_number": "ΦΩΤΟΓΡΑΦΙΑ ΘΕΣΗΣ ΚΕΡΑΙΩΝ ΕΚΚΧΟ 1 & 2/",
+      "type": "Φωτογραφικό Υλικό - Σκαρίφημα",
+      "file_url": "https://silia.eett.gr/silia/download/36ad994d-ca52-4f54-abdf-9715386bf4a8"
+    },
+    {
+      "document_number": "431378/18-03-2021",
+      "protocol_number": "ΦΩΤΟΓΡΑΦΙΑ ΘΕΣΗΣ ΚΕΡΑΙΑΣ ΕΚΚΧΟ ΑΠΟ GOOGLE EARTH/",
+      "type": "Φωτογραφικό Υλικό - Σκαρίφημα",
+      "file_url": "https://silia.eett.gr/silia/download/de28551c-6224-4776-9733-e1c82bbfe62c"
+    },
+    {
+      "document_number": "431379/18-03-2021",
+      "protocol_number": "ΥΔ WIND κοινής χρήσης /",
+      "type": "Άλλο",
+      "file_url": "https://silia.eett.gr/silia/download/2d7df802-380b-4ebf-9058-e93f844c0f04"
+    },
+    {
+      "document_number": "431399/19-03-2021",
+      "protocol_number": "Αρχείο Αίτησης/",
+      "type": "Δήλωση ΕΚΚΧΟ",
+      "file_url": "https://silia.eett.gr/silia/download/a1b59f99-e546-4040-9cc9-0384d63ed1a4"
+    }
+  ]
+}

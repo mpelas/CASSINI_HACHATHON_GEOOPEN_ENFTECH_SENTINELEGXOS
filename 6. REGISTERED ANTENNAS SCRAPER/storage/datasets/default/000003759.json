@@ -1,0 +1,69 @@
+{
+  "antenna_id": "177801",
+  "address": "ΣΚΛΟΚΑ ΧΑΝΙΩΝ",
+  "position_code": 1275245,
+  "municipality": "Χανίων",
+  "code_name": "ERT SKLOKA (K245)",
+  "region": "Κρήτης",
+  "latitude": 35.549722,
+  "company": "NOVA Μ.Α.Ε.",
+  "longitude": 24.173611,
+  "permit_status": "Από τα στοιχεία που τηρούνται στην Ενημερωτική Πύλη προκύπτει ότι, για τη θέση \"ΣΚΛΟΚΑ ΧΑΝΙΩΝ\" στον Δήμο Χανίων Περιφέρειας  Κρήτης \n\t(κωδικός αριθμός θέσης 1275245, κωδική ονομασία \"ERT SKLOKA (K245)\") έχει κατατεθεί από την εταιρία NOVA Μ.Α.Ε.\tδήλωση εγκατάστασης κατασκευής κεραίας (αριθ. πρωτ. \n\t59523/24-02-2025) που εμπίπτει στις διατάξεις της νομοθεσίας για Εγκαταστάσεις Κατασκευών Κεραιών Χαμηλής Ηλεκτρομαγνητικής Περιβαλλοντικής Όχλησης (ΕΚΚΧΟ).",
+  "measurements_eaee": "-",
+  "documents": [
+    {
+      "document_number": "541809/24-02-2025",
+      "protocol_number": "Φωτορεαλιστική απεικόνιση κεραίας ΕΚΚΧΟ/24-02-2025",
+      "type": "Φωτογραφικό Υλικό - Σκαρίφημα",
+      "file_url": "https://silia.eett.gr/silia/download/sU2PNyZVAlSA1vQR6x2zttZcvokLKi55u1SF"
+    },
+    {
+      "document_number": "541810/24-02-2025",
+      "protocol_number": "Ψηφιακός χάρτης με προβολή της θέσης ΕΚΚΧΟ/24-02-2025",
+      "type": "Φωτογραφικό Υλικό - Σκαρίφημα",
+      "file_url": "https://silia.eett.gr/silia/download/sOpOwmtfU6EA9F9FauEndG9XCgFNpTH5HsWE"
+    },
+    {
+      "document_number": "541812/24-02-2025",
+      "protocol_number": "Σκαρίφημα θέσης κεραίας ΕΚΚΧΟ (ΚΑΤΟΨΗ)/24-02-2025",
+      "type": "Φωτογραφικό Υλικό - Σκαρίφημα",
+      "file_url": "https://silia.eett.gr/silia/download/MFDgqUEEGqm2ODFBp912xio040o8Z71rTK1Q"
+    },
+    {
+      "document_number": "541813/24-02-2025",
+      "protocol_number": "Σκαρίφημα θέσης κεραίας ΕΚΚΧΟ (ΟΨΗ)/24-02-2025",
+      "type": "Φωτογραφικό Υλικό - Σκαρίφημα",
+      "file_url": "https://silia.eett.gr/silia/download/5XbK8TUhsr9KMU60d6nUculIxRzPxGx8yokK"
+    },
+    {
+      "document_number": "541814/24-02-2025",
+      "protocol_number": "ΤΟΠΟΓΡΑΦΙΚΟ ΕΚΚΧΟ/10-12-2024",
+      "type": "Τοπογραφικό",
+      "file_url": "https://silia.eett.gr/silia/download/3s7tXxVCQ5a2cWAWvSY6FdaTTOkx06162gO5"
+    },
+    {
+      "document_number": "541816/24-02-2025",
+      "protocol_number": "ΜΕΛΕΤΗ ΕΚΚΧΟ/24-02-2025",
+      "type": "Άλλο",
+      "file_url": "https://silia.eett.gr/silia/download/RN4kvDbDyTM8AoUnqRLkughKGWg5guxYUnXg"
+    },
+    {
+      "document_number": "541818/24-02-2025",
+      "protocol_number": "Φ550/ΑΔ.543/Σ.138/21-01-2025",
+      "type": "Γνωμάτευση ΓΕΑ",
+      "file_url": "https://silia.eett.gr/silia/download/e37YPh2pyAIf3vOePyDWSDF7r4phDHw0Pu7g"
+    },
+    {
+      "document_number": "541819/24-02-2025",
+      "protocol_number": "Αρχείο Αίτησης/24-02-2025",
+      "type": "Δήλωση ΕΚΚΧΟ",
+      "file_url": "https://silia.eett.gr/silia/download/EEqS7VQYL7DbK0n2yYKXsuH2M2gRURVPcOzQ"
+    },
+    {
+      "document_number": "550984/30-05-2025",
+      "protocol_number": "ΥΔ ΕΓΚΑΤΑΣΤΑΣΗΣ/30-05-2025",
+      "type": "Άλλο",
+      "file_url": "https://silia.eett.gr/silia/download/R4Fmhk94XLsLahaNoYXuF1kZggBbpBewVMQ5"
+    }
+  ]
+}

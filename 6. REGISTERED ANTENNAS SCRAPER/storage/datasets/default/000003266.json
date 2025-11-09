@@ -1,0 +1,99 @@
+{
+  "antenna_id": "170162",
+  "address": "ΠΛΗΣΙΟΝ ΟΙΚΙΣΜΟΥ ΑΓΙΑΣ ΚΥΡΙΑΚΗΣ",
+  "position_code": 1007236,
+  "municipality": "Σουλίου",
+  "code_name": "ΑΓΙΑ ΚΥΡΙΑΚΗ ΘΕΣΠΡΩΤΙΑΣ",
+  "region": "Ηπείρου",
+  "latitude": 39.484444,
+  "company": "VODAFONE",
+  "longitude": 20.597222,
+  "permit_status": "Από τα στοιχεία που τηρούνται στην Ενημερωτική Πύλη προκύπτει ότι, για τη θέση \"ΠΛΗΣΙΟΝ ΟΙΚΙΣΜΟΥ ΑΓΙΑΣ ΚΥΡΙΑΚΗΣ\" στον Δήμο Σουλίου Περιφέρειας  Ηπείρου \n\t(κωδικός αριθμός θέσης 1007236, κωδική ονομασία \"ΑΓΙΑ ΚΥΡΙΑΚΗ ΘΕΣΠΡΩΤΙΑΣ\") χορηγήθηκε, με την Απόφαση της ΕΕΤΤ \n50390/21-12-2023, άδεια κατασκευής κεραίας στην εταιρία VODAFONE. \nΑπό τo έγγραφο της άδειας μπορείτε να ενημερωθείτε για τις σχετικές εγκρίσεις των συναρμόδιων φορέων, καθώς και εάν πρόκειται για τροποποίηση παλαιότερης άδειας.\n\tΣύμφωνα με τα στοιχεία που έχουν υποβληθεί στο ΣΗΛΥΑ, ο κάτοχος της κατασκευής κεραίας έχει δηλώσει ότι θα προβεί σε έκδοση έγκρισης δομικών κατασκευών \n\t\tκεραίας μέσω του e-Άδειες \n\t\tμετά την έκδοση της άδειας κατασκευής κεραίας / δημοσιοποίηση της δήλωσης τροποποίησης της κατασκευής κεραίας",
+  "measurements_eaee": "-",
+  "documents": [
+    {
+      "document_number": "495631/28-09-2023",
+      "protocol_number": "ΤΟΠΟΓΡΑΦΙΚΟ ΔΙΑΓΡΑΜΜΑ/",
+      "type": "Τοπογραφικό",
+      "file_url": "https://silia.eett.gr/silia/download/cbed414f-a5a0-42b1-9d89-7f3a32821d70"
+    },
+    {
+      "document_number": "495632/28-09-2023",
+      "protocol_number": "ΑΡΧΙΤΕΚΤΟΝΙΚΗ ΜΕΛΕΤΗ/",
+      "type": "Αρχιτεκτονικά Σχέδια",
+      "file_url": "https://silia.eett.gr/silia/download/ea5bfc2d-ca03-4f3e-a36b-1369e0de1076"
+    },
+    {
+      "document_number": "495633/28-09-2023",
+      "protocol_number": "ΜΕΛΕΤΗ ΡΑΔΙΟΕΚΠΟΜΠΩΝ/28-09-2023",
+      "type": "Αίτηση - Μελέτη Ραδιοεκπομπών ΕΕΑΕ",
+      "file_url": "https://silia.eett.gr/silia/download/43621a62-6159-47c4-ab59-2c2b4f22f44e"
+    },
+    {
+      "document_number": "495634/28-09-2023",
+      "protocol_number": "ΧΑΡΤΗΣ ΥΠΑ/",
+      "type": "Απόσπασμα Χάρτη ΓΥΣ 1:50.000",
+      "file_url": "https://silia.eett.gr/silia/download/a5476b86-88d8-4500-a448-c2ed58550e8b"
+    },
+    {
+      "document_number": "495635/28-09-2023",
+      "protocol_number": "ΥΠΕΥΘΥΝΗ ΔΗΛΩΣΗ ΟΡΘΟΤΗΤΑΣ NOVA/27-09-2023",
+      "type": "Άλλο",
+      "file_url": "https://silia.eett.gr/silia/download/4676aa99-7bd9-402b-ac39-3536ac99d95d"
+    },
+    {
+      "document_number": "495636/28-09-2023",
+      "protocol_number": "ΥΠΕΥΘΥΝΗ ΔΗΛΩΣΗ ΔΙΑΣΥΝΔΕΣΗΣ NOVA/27-09-2023",
+      "type": "Άλλο",
+      "file_url": "https://silia.eett.gr/silia/download/5e4a24f4-9366-422b-97de-875d12108d12"
+    },
+    {
+      "document_number": "495688/28-09-2023",
+      "protocol_number": "Αρχείο Αίτησης/",
+      "type": "Αίτηση Άδειας Κατασκευής Κεραίας ΕΕΤΤ",
+      "file_url": "https://silia.eett.gr/silia/download/3668c115-4890-40cb-a831-fc87ec42f244"
+    },
+    {
+      "document_number": "497866/20-10-2023",
+      "protocol_number": "ΚΓ/Δ3/Δ/21534/20-10-2023",
+      "type": "Γνωμάτευση ΥΠΑ",
+      "file_url": "https://silia.eett.gr/silia/download/e23a5d49-13a7-400e-8bb2-5f630be7e9d2"
+    },
+    {
+      "document_number": "499543/02-11-2023",
+      "protocol_number": "ΤΜΙΑ/411/13706/2023/02-11-2023",
+      "type": "Γνωμάτευση ΕΕΑΕ",
+      "file_url": "https://silia.eett.gr/silia/download/6341243c-af3d-4254-ad70-5ee8bc6243d2"
+    },
+    {
+      "document_number": "502790/08-12-2023",
+      "protocol_number": "30586/08-12-2023",
+      "type": "Αίτηση Ραδιοσυχνοτήτων",
+      "file_url": "https://silia.eett.gr/silia/download/d4d52493-1ff4-43f9-9fdf-ff9f7dd76e6c"
+    },
+    {
+      "document_number": "503978/27-12-2023",
+      "protocol_number": "50390/21-12-2023",
+      "type": "Άδεια Κατασκευής  Κεραίας",
+      "file_url": "https://silia.eett.gr/silia/download/ab36287d-5440-4efe-af48-d5da65664e4d"
+    },
+    {
+      "document_number": "502781/08-12-2023",
+      "protocol_number": "ΜΕΛΕΤΗ ΡΑΔΙΟΕΚΠΟΜΠΩΝ/28-09-2023",
+      "type": "Αίτηση - Μελέτη Ραδιοεκπομπών ΕΕΑΕ",
+      "file_url": "https://silia.eett.gr/silia/download/43621a62-6159-47c4-ab59-2c2b4f22f44e"
+    },
+    {
+      "document_number": "502782/08-12-2023",
+      "protocol_number": "ΣΥΝΟΔΕΥΤΙΚΑ ΕΓΓΡΑΦΑ ΠΠΔ/",
+      "type": "Δήλωση υπαγωγής σε ΠΠΔ και Συνοδευτικά Έγγραφα",
+      "file_url": "https://silia.eett.gr/silia/download/1c7f0e63-5242-4d18-8e36-bcb747f0a1a7"
+    },
+    {
+      "document_number": "502789/08-12-2023",
+      "protocol_number": "Αρχείο Αίτησης/",
+      "type": "Δήλωση ΠΠΔ",
+      "file_url": "https://silia.eett.gr/silia/download/7c77741a-7912-4444-a26a-8f60a87eb1ad"
+    }
+  ]
+}

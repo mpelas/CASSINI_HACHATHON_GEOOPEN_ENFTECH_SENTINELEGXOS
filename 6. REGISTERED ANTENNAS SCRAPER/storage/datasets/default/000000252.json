@@ -1,0 +1,75 @@
+{
+  "antenna_id": "162124",
+  "address": "ΕΚΤΟΣ ΣΧΕΔΙΟΥ ΠΟΛΕΩΣ ΑΓΙΟΥ ΝΙΚΟΛΑΟΥ, ΘΕΣΗ ΞΗΡΟΚΑΜΠΟΣ",
+  "position_code": 1406087,
+  "municipality": "Αγίου Νικολάου",
+  "code_name": "ΞΗΡΟΚΑΜΠΟΣ",
+  "region": "Κρήτης",
+  "latitude": 35.201667,
+  "company": "OTE",
+  "longitude": 25.706667,
+  "permit_status": "Από τα στοιχεία που τηρούνται στην Ενημερωτική Πύλη προκύπτει ότι, για τη θέση \"ΕΚΤΟΣ ΣΧΕΔΙΟΥ ΠΟΛΕΩΣ ΑΓΙΟΥ ΝΙΚΟΛΑΟΥ, ΘΕΣΗ ΞΗΡΟΚΑΜΠΟΣ\" στον Δήμο Αγίου Νικολάου Περιφέρειας  Κρήτης \n\t(κωδικός αριθμός θέσης 1406087, κωδική ονομασία \"ΞΗΡΟΚΑΜΠΟΣ\") χορηγήθηκε, με την Απόφαση της ΕΕΤΤ \n44889/18-07-2022, άδεια κατασκευής κεραίας στην εταιρία OTE. \nΑπό τo έγγραφο της άδειας μπορείτε να ενημερωθείτε για τις σχετικές εγκρίσεις των συναρμόδιων φορέων, καθώς και εάν πρόκειται για τροποποίηση παλαιότερης άδειας.",
+  "measurements_eaee": "-",
+  "documents": [
+    {
+      "document_number": "450044/22-01-2022",
+      "protocol_number": "ΜΕΣΩ ΣΗΛΥΑ/",
+      "type": "Αρχιτεκτονικά Σχέδια",
+      "file_url": "https://silia.eett.gr/silia/download/0933e0ed-b85a-4972-97a6-dbd75480a7e4"
+    },
+    {
+      "document_number": "450045/22-01-2022",
+      "protocol_number": "ΜΕΣΩ ΣΗΛΥΑ/04-11-2021",
+      "type": "Αίτηση - Μελέτη Ραδιοεκπομπών ΕΕΑΕ",
+      "file_url": "https://silia.eett.gr/silia/download/b2a78eed-36f6-4507-8cd4-cb2a65a74a98"
+    },
+    {
+      "document_number": "450046/22-01-2022",
+      "protocol_number": "132260/06-12-2021",
+      "type": "Επιστολή Ενημέρωσης προς Αρμόδιο Φορέα",
+      "file_url": "https://silia.eett.gr/silia/download/e0875552-edf7-4f79-8e75-471774c574d6"
+    },
+    {
+      "document_number": "450068/24-01-2022",
+      "protocol_number": "ΜΕΣΩ ΣΗΛΥΑ/",
+      "type": "Τοπογραφικό",
+      "file_url": "https://silia.eett.gr/silia/download/57641d2e-f4d6-45d4-a045-ddc324887c1b"
+    },
+    {
+      "document_number": "450081/24-01-2022",
+      "protocol_number": "Αρχείο Αίτησης/",
+      "type": "Αίτηση Άδειας Κατασκευής Κεραίας ΕΕΤΤ",
+      "file_url": "https://silia.eett.gr/silia/download/a2837b2f-33cc-47c0-9139-d4c2c87fbc3a"
+    },
+    {
+      "document_number": "452995/11-03-2022",
+      "protocol_number": "Μ.ι./411/3343/2022/11-03-2022",
+      "type": "Γνωμάτευση ΕΕΑΕ",
+      "file_url": "https://silia.eett.gr/silia/download/79d8392b-f19f-4675-ad1a-629d58973c51"
+    },
+    {
+      "document_number": "460761/02-06-2022",
+      "protocol_number": "ΚΓ/Δ3/Δ/14107/2-6-2022/02-06-2022",
+      "type": "Γνωμάτευση ΥΠΑ",
+      "file_url": "https://silia.eett.gr/silia/download/462eec93-84dc-44af-a4f2-fb0d288feeee"
+    },
+    {
+      "document_number": "465263/01-08-2022",
+      "protocol_number": "44889/18-07-2022",
+      "type": "Άδεια Κατασκευής  Κεραίας",
+      "file_url": "https://silia.eett.gr/silia/download/af890897-6781-40b9-8a86-fc8d6c139460"
+    },
+    {
+      "document_number": "450043/22-01-2022",
+      "protocol_number": "ΣΥΝΟΔΕΥΤΙΚΑ ΕΓΓΡΑΦΑ/",
+      "type": "Δήλωση υπαγωγής σε ΠΠΔ και Συνοδευτικά Έγγραφα",
+      "file_url": "https://silia.eett.gr/silia/download/530386c5-357d-4c75-84c7-c5a2c2221e5c"
+    },
+    {
+      "document_number": "450082/24-01-2022",
+      "protocol_number": "Αρχείο Αίτησης/",
+      "type": "Δήλωση ΠΠΔ",
+      "file_url": "https://silia.eett.gr/silia/download/14f4dd03-3b59-402e-8fda-f22697c72ca5"
+    }
+  ]
+}

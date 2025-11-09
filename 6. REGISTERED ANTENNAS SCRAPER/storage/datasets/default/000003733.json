@@ -1,0 +1,93 @@
+{
+  "antenna_id": "169256",
+  "address": "ΠΛΗΣΙΟΝ ΣΤΡΑΤΙΩΤΙΚΗΣ ΒΑΣΗΣ ΝΑΤΟ ΣΟΥΔΑ",
+  "position_code": 1007189,
+  "municipality": "Χανίων",
+  "code_name": "ΣΟΥΔΑ ΣΤΡΑΤΙΩΤΙΚΗ ΒΑΣΗ Ε ΝΑΤΟ",
+  "region": "Κρήτης",
+  "latitude": 35.534444,
+  "company": "VODAFONE",
+  "longitude": 24.161389,
+  "permit_status": "Από τα στοιχεία που τηρούνται στην Ενημερωτική Πύλη προκύπτει ότι, για τη θέση \"ΠΛΗΣΙΟΝ ΣΤΡΑΤΙΩΤΙΚΗΣ ΒΑΣΗΣ ΝΑΤΟ ΣΟΥΔΑ\" στον Δήμο Χανίων Περιφέρειας  Κρήτης \n\t(κωδικός αριθμός θέσης 1007189, κωδική ονομασία \"ΣΟΥΔΑ ΣΤΡΑΤΙΩΤΙΚΗ ΒΑΣΗ Ε ΝΑΤΟ\") χορηγήθηκε, με την Απόφαση της ΕΕΤΤ \n49254/02-10-2023, άδεια κατασκευής κεραίας στην εταιρία VODAFONE. \nΑπό τo έγγραφο της άδειας μπορείτε να ενημερωθείτε για τις σχετικές εγκρίσεις των συναρμόδιων φορέων, καθώς και εάν πρόκειται για τροποποίηση παλαιότερης άδειας.\n\tΣύμφωνα με τα στοιχεία που έχουν υποβληθεί στο ΣΗΛΥΑ, ο κάτοχος της κατασκευής κεραίας έχει δηλώσει ότι θα προβεί σε έκδοση έγκρισης δομικών κατασκευών \n\t\tκεραίας μέσω του e-Άδειες \n\t\tμετά την έκδοση της άδειας κατασκευής κεραίας / δημοσιοποίηση της δήλωσης τροποποίησης της κατασκευής κεραίας",
+  "measurements_eaee": "-",
+  "documents": [
+    {
+      "document_number": "490161/14-07-2023",
+      "protocol_number": "ΤΟΠΟΓΡΑΦΙΚΟ ΔΙΑΓΡΑΜΜΑ/",
+      "type": "Τοπογραφικό",
+      "file_url": "https://silia.eett.gr/silia/download/3029ab4e-ce04-46a6-85f9-87a33f6d37b3"
+    },
+    {
+      "document_number": "490162/14-07-2023",
+      "protocol_number": "ΑΡΧΙΤΕΚΤΟΝΙΚΗ ΜΕΛΕΤΗ/",
+      "type": "Αρχιτεκτονικά Σχέδια",
+      "file_url": "https://silia.eett.gr/silia/download/5b38ef1a-44a6-407b-afa8-1761bf1c5ae7"
+    },
+    {
+      "document_number": "490163/14-07-2023",
+      "protocol_number": "ΜΕΛΕΤΗ ΡΑΔΙΟΕΚΠΟΜΠΩΝ/11-07-2023",
+      "type": "Αίτηση - Μελέτη Ραδιοεκπομπών ΕΕΑΕ",
+      "file_url": "https://silia.eett.gr/silia/download/16b2dc82-2ccb-4891-96e9-bcf54a403919"
+    },
+    {
+      "document_number": "490165/14-07-2023",
+      "protocol_number": "77644/13-07-2023",
+      "type": "Αποτελέσματα μελέτης στη ζώνης 2.6GHz για ΥΠΑ/ΓΕΕΘΑ",
+      "file_url": "https://silia.eett.gr/silia/download/fc3c3060-70a2-4b12-8dc7-d6d8d822edf5"
+    },
+    {
+      "document_number": "490167/14-07-2023",
+      "protocol_number": "ΧΑΡΤΗΣ ΥΠΑ/",
+      "type": "Απόσπασμα Χάρτη ΓΥΣ 1:50.000",
+      "file_url": "https://silia.eett.gr/silia/download/b4bdaccc-d1a7-4c91-a046-b6fe8b87c0d2"
+    },
+    {
+      "document_number": "490172/14-07-2023",
+      "protocol_number": "Φ.550/ΑΔ.5018/25-04-2023",
+      "type": "Γνωμάτευση ΓΕΑ",
+      "file_url": "https://silia.eett.gr/silia/download/04c5fdf9-956e-48fb-90a6-f559c9553ea6"
+    },
+    {
+      "document_number": "490173/14-07-2023",
+      "protocol_number": "Αρχείο Αίτησης/",
+      "type": "Αίτηση Άδειας Κατασκευής Κεραίας ΕΕΤΤ",
+      "file_url": "https://silia.eett.gr/silia/download/ad13a24e-3193-4bd2-ba7e-71cb1af973ad"
+    },
+    {
+      "document_number": "491670/28-07-2023",
+      "protocol_number": "ΚΓ/Δ3/Δ/16088/28-07-2023",
+      "type": "Γνωμάτευση ΥΠΑ",
+      "file_url": "https://silia.eett.gr/silia/download/bc04a04f-a71b-46fb-9fe8-d1325be4458f"
+    },
+    {
+      "document_number": "492498/09-08-2023",
+      "protocol_number": "TMIA/411/10198/2023/09-08-2023",
+      "type": "Γνωμάτευση ΕΕΑΕ",
+      "file_url": "https://silia.eett.gr/silia/download/686c242d-5765-472d-a42d-fbfc1c43af7e"
+    },
+    {
+      "document_number": "496597/09-10-2023",
+      "protocol_number": "49254/02-10-2023",
+      "type": "Άδεια Κατασκευής  Κεραίας",
+      "file_url": "https://silia.eett.gr/silia/download/d73ca37e-5a54-494c-ad1b-5f91d0d0d9ff"
+    },
+    {
+      "document_number": "490169/14-07-2023",
+      "protocol_number": "ΜΕΛΕΤΗ ΡΑΔΙΟΕΚΠΟΜΠΩΝ/11-07-2023",
+      "type": "Αίτηση - Μελέτη Ραδιοεκπομπών ΕΕΑΕ",
+      "file_url": "https://silia.eett.gr/silia/download/16b2dc82-2ccb-4891-96e9-bcf54a403919"
+    },
+    {
+      "document_number": "490170/14-07-2023",
+      "protocol_number": "ΣΥΝΟΔΕΥΤΙΚΑ ΕΓΓΡΑΦΑ ΠΠΔ/",
+      "type": "Δήλωση υπαγωγής σε ΠΠΔ και Συνοδευτικά Έγγραφα",
+      "file_url": "https://silia.eett.gr/silia/download/7af0dc32-78a7-4c36-8a49-2c1cafbc87fd"
+    },
+    {
+      "document_number": "490174/14-07-2023",
+      "protocol_number": "Αρχείο Αίτησης/",
+      "type": "Δήλωση ΠΠΔ",
+      "file_url": "https://silia.eett.gr/silia/download/c6a043dd-afcb-4f02-a74e-6657f105c9ca"
+    }
+  ]
+}

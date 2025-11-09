@@ -1,0 +1,45 @@
+{
+  "antenna_id": "165839",
+  "address": "ΖΑΛΟΓΓΟΥ 4 & Λ.ΜΕΣΟΓΕΙΩΝ, ΑΓΙΑ ΠΑΡΑΣΚΕΥΗ.",
+  "position_code": 1159944,
+  "municipality": "Αγίας Παρασκευής",
+  "code_name": "3029944 ACCOUNTING SOLUTIONS AG.PARASKEVI",
+  "region": "Αττικής",
+  "latitude": 38.012778,
+  "company": "VODAFONE",
+  "longitude": 23.816111,
+  "permit_status": "Από τα στοιχεία που τηρούνται στην Ενημερωτική Πύλη προκύπτει ότι, για τη θέση \"ΖΑΛΟΓΓΟΥ 4 & Λ.ΜΕΣΟΓΕΙΩΝ, ΑΓΙΑ ΠΑΡΑΣΚΕΥΗ.\" στον Δήμο Αγίας Παρασκευής Περιφέρειας  Αττικής \n\t(κωδικός αριθμός θέσης 1159944, κωδική ονομασία \"3029944 ACCOUNTING SOLUTIONS AG.PARASKEVI\") έχει κατατεθεί από την εταιρία VODAFONE\tδήλωση εγκατάστασης κατασκευής κεραίας (αριθ. πρωτ. \n\t49558/14-10-2022) που εμπίπτει στις διατάξεις της νομοθεσίας για Εγκαταστάσεις Κατασκευών Κεραιών Χαμηλής Ηλεκτρομαγνητικής Περιβαλλοντικής Όχλησης (ΕΚΚΧΟ).",
+  "measurements_eaee": "-",
+  "documents": [
+    {
+      "document_number": "469940/14-10-2022",
+      "protocol_number": "Φωτορεαλιστική απεικόνιση ΕΚΚΧΟ/",
+      "type": "Φωτογραφικό Υλικό - Σκαρίφημα",
+      "file_url": "https://silia.eett.gr/silia/download/2be590c8-f016-47e8-bd1f-c4e98286135a"
+    },
+    {
+      "document_number": "469941/14-10-2022",
+      "protocol_number": "Ψηφιακός Χάρτης με προβολή της θέσης ΕΚΚΧΟ/",
+      "type": "Φωτογραφικό Υλικό - Σκαρίφημα",
+      "file_url": "https://silia.eett.gr/silia/download/b6c8d1ac-4f54-4bc1-98ca-3385bf296873"
+    },
+    {
+      "document_number": "469942/14-10-2022",
+      "protocol_number": "Μελέτη ΕΚΚΧΟ/10-10-2022",
+      "type": "Άλλο",
+      "file_url": "https://silia.eett.gr/silia/download/78d9d25b-37a5-439f-934f-35608a26f0f2"
+    },
+    {
+      "document_number": "469943/14-10-2022",
+      "protocol_number": "Αρχείο Αίτησης/",
+      "type": "Δήλωση ΕΚΚΧΟ",
+      "file_url": "https://silia.eett.gr/silia/download/f8c9c0ca-2001-476b-b3bb-183425881c96"
+    },
+    {
+      "document_number": "520232/11-07-2024",
+      "protocol_number": "49558/11-07-2024",
+      "type": "Δειγματοληπτικός έλεγχος",
+      "file_url": "https://silia.eett.gr/silia/download/u9DnQOmACxrdTUqAK1E6RTNrONW2Bf8gzPSF"
+    }
+  ]
+}

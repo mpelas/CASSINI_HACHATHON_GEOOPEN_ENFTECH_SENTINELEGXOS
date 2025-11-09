@@ -1,0 +1,57 @@
+{
+  "antenna_id": "172562",
+  "address": "ΟΛΥΜΠΙΑΚΟ ΠΑΝΘΕΣΣΑΛΙΚΟ ΣΤΑΔΙΟ ΒΟΛΟΥ, Δ.Ε. ΝΕΑΣ ΙΩΝΙΑΣ",
+  "position_code": 1213021,
+  "municipality": "Βόλου",
+  "code_name": "PANTHESSALIKO STADIUM_MW",
+  "region": "Θεσσαλίας",
+  "latitude": 39.386667,
+  "company": "NOVA Μ.Α.Ε.",
+  "longitude": 22.931944,
+  "permit_status": "Από τα στοιχεία που τηρούνται στην Ενημερωτική Πύλη προκύπτει ότι, για τη θέση \"ΟΛΥΜΠΙΑΚΟ ΠΑΝΘΕΣΣΑΛΙΚΟ ΣΤΑΔΙΟ ΒΟΛΟΥ, Δ.Ε. ΝΕΑΣ ΙΩΝΙΑΣ\" στον Δήμο Βόλου Περιφέρειας  Θεσσαλίας \n\t(κωδικός αριθμός θέσης 1213021, κωδική ονομασία \"PANTHESSALIKO STADIUM_MW\") έχει κατατεθεί από την εταιρία NOVA Μ.Α.Ε.\tδήλωση εγκατάστασης κατασκευής κεραίας (αριθ. πρωτ. \n\t55361/28-03-2024) που εμπίπτει στις διατάξεις της νομοθεσίας για Εγκαταστάσεις Κατασκευών Κεραιών Χαμηλής Ηλεκτρομαγνητικής Περιβαλλοντικής Όχλησης (ΕΚΚΧΟ).",
+  "measurements_eaee": "-",
+  "documents": [
+    {
+      "document_number": "511374/28-03-2024",
+      "protocol_number": "ΑΠΕΙΚΟΝΙΣΗ GOOGLE EARTH/28-03-2024",
+      "type": "Άλλο",
+      "file_url": "https://silia.eett.gr/silia/download/h6vg02yPxYAfPeua18fl37e3QKv51Z3dPcVu"
+    },
+    {
+      "document_number": "511375/28-03-2024",
+      "protocol_number": "ΦΩΤΟΓΡΑΦΙΑ ΕΚΚΧΟ/28-03-2024",
+      "type": "Φωτογραφικό Υλικό - Σκαρίφημα",
+      "file_url": "https://silia.eett.gr/silia/download/YqVdVnfPeUcvaI3vGF8sCe8gaEsAq3C2VXtg"
+    },
+    {
+      "document_number": "511376/28-03-2024",
+      "protocol_number": "ΣΚΑΡΙΦΗΜΑ ΕΚΚΧΟ/28-03-2024",
+      "type": "Φωτογραφικό Υλικό - Σκαρίφημα",
+      "file_url": "https://silia.eett.gr/silia/download/Aw52ma4c7Fk0ZuYsrp0yHzACw9xtrSuE5zGn"
+    },
+    {
+      "document_number": "511381/28-03-2024",
+      "protocol_number": "ΣΚΑΡΙΦΗΜΑ ΕΚΚΧΟ1/28-03-2024",
+      "type": "Φωτογραφικό Υλικό - Σκαρίφημα",
+      "file_url": "https://silia.eett.gr/silia/download/awzwITvtWZ0oWIcAN52Se6FT8VyXWbCfbG8y"
+    },
+    {
+      "document_number": "511449/28-03-2024",
+      "protocol_number": "ΜΕΛΕΤΗ ΕΚΚΧΟ/28-03-2024",
+      "type": "Άλλο",
+      "file_url": "https://silia.eett.gr/silia/download/EBpyLGpi8X0Nv6VnLxyuw4XvqQDPwB1YM7Kk"
+    },
+    {
+      "document_number": "511450/28-03-2024",
+      "protocol_number": "Αρχείο Αίτησης/28-03-2024",
+      "type": "Δήλωση ΕΚΚΧΟ",
+      "file_url": "https://silia.eett.gr/silia/download/2OvgoeutCtrERw4y21QAGQ87GsmxoNcGCHld"
+    },
+    {
+      "document_number": "514067/25-04-2024",
+      "protocol_number": "ΥΠΕΥΘΥΝΗ ΔΗΛΩΣΗ ΕΓΚΑΤΑΣΤΑΣΗΣ/25-04-2024",
+      "type": "Άλλο",
+      "file_url": "https://silia.eett.gr/silia/download/mTNRPeIEYLO5STqZ6X6im0gNMHpwb2gnGsY6"
+    }
+  ]
+}

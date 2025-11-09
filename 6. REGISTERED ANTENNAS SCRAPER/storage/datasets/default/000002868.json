@@ -1,0 +1,141 @@
+{
+  "antenna_id": "171338",
+  "address": "ΜΑΝΔΗΛΑΡΑ 3 - ΠΡΕΒΕΖΑ",
+  "position_code": 1204637,
+  "municipality": "Πρέβεζας",
+  "code_name": "PREVEZA SOUTH",
+  "region": "Ηπείρου",
+  "latitude": 38.953889,
+  "company": "NOVA Μ.Α.Ε.",
+  "longitude": 20.75,
+  "permit_status": "Από τα στοιχεία που τηρούνται στην Ενημερωτική Πύλη προκύπτει ότι, για τη θέση \"ΜΑΝΔΗΛΑΡΑ 3 - ΠΡΕΒΕΖΑ\" στον Δήμο Πρέβεζας Περιφέρειας  Ηπείρου \n\t(κωδικός αριθμός θέσης 1204637, κωδική ονομασία \"PREVEZA SOUTH\") χορηγήθηκε, με την Απόφαση της ΕΕΤΤ \n51048/10-06-2024, άδεια κατασκευής κεραίας στην εταιρία NOVA Μ.Α.Ε.. \nΑπό τo έγγραφο της άδειας μπορείτε να ενημερωθείτε για τις σχετικές εγκρίσεις των συναρμόδιων φορέων, καθώς και εάν πρόκειται για τροποποίηση παλαιότερης άδειας.\n\tΣύμφωνα με τα στοιχεία που έχουν υποβληθεί στο ΣΗΛΥΑ, ο κάτοχος της κατασκευής κεραίας έχει δηλώσει ότι θα προβεί σε έκδοση έγκρισης δομικών κατασκευών \n\t\tκεραίας μέσω του e-Άδειες \n\t\tμετά την έκδοση της άδειας κατασκευής κεραίας / δημοσιοποίηση της δήλωσης τροποποίησης της κατασκευής κεραίας",
+  "measurements_eaee": "-",
+  "documents": [
+    {
+      "document_number": "511362/28-03-2024",
+      "protocol_number": "ΣΥΝΗΜΜΕΝΟΣ ΜΕ ΤΗΝ ΚΑΤΑΘΕΣΗ ΣΤΗΝ ΥΠΑ/28-03-2024",
+      "type": "Απόσπασμα Χάρτη ΓΥΣ 1:50.000",
+      "file_url": "https://silia.eett.gr/silia/download/asRdETItxXu0QpKwhxn7ABIyVKvuELUedIea"
+    },
+    {
+      "document_number": "511363/28-03-2024",
+      "protocol_number": "ΣΥΝΗΜΜΕΝΗ ΜΕ ΤΗΝ ΚΑΤΑΘΕΣΗ ΣΤΗΝ ΕΕΑΕ/15-03-2024",
+      "type": "Αίτηση - Μελέτη Ραδιοεκπομπών ΕΕΑΕ",
+      "file_url": "https://silia.eett.gr/silia/download/HmL2QUipFKD01qT10zZ3zRiwAxu7KVxzLdGT"
+    },
+    {
+      "document_number": "511364/28-03-2024",
+      "protocol_number": "ΣΥΝΗΜΜΕΝΑ ΜΕ ΤΗΝ ΚΑΤΑΘΕΣΗ ΣΤΗΝ ΕΕΑΕ/28-03-2024",
+      "type": "Αρχιτεκτονικά Σχέδια",
+      "file_url": "https://silia.eett.gr/silia/download/G5Xv6Ia1lm69DGtekyiGRmxdngkkU20cvLVC"
+    },
+    {
+      "document_number": "511365/28-03-2024",
+      "protocol_number": "ΣΥΝΗΜΜΕΝΟ ΜΕ ΤΗΝ ΚΑΤΑΘΕΣΗ ΣΤΗΝ ΕΕΑΕ/28-03-2024",
+      "type": "Τοπογραφικό",
+      "file_url": "https://silia.eett.gr/silia/download/gUF8ZnazFqi1rKFGRvGecg8VLk3ziTpynzMg"
+    },
+    {
+      "document_number": "511366/28-03-2024",
+      "protocol_number": "ΔΗΛΩΣΗ ΔΙΑΣΥΝΔΕΣΗΣ NOVA/15-03-2024",
+      "type": "Άλλο",
+      "file_url": "https://silia.eett.gr/silia/download/Bl8sVGTv0bGXnKUZZ1Gx1BBggF2HawnKPWkp"
+    },
+    {
+      "document_number": "511367/28-03-2024",
+      "protocol_number": "ΥΠΕΥΘΥΝΗ ΔΗΛΩΣΗ ΚΟΙΝΗΣ ΧΡΗΣΗΣ VODAFONE/19-03-2024",
+      "type": "Άλλο",
+      "file_url": "https://silia.eett.gr/silia/download/UTGK0ou8kP9ZCYvxDbvGypnmf85YgFGHxGy4"
+    },
+    {
+      "document_number": "511368/28-03-2024",
+      "protocol_number": "ΥΠΕΥΘΥΝΗ ΔΗΛΩΣΗ ΔΙΑΣΥΝΔΕΣΗΣ VODAFONE/19-03-2024",
+      "type": "Άλλο",
+      "file_url": "https://silia.eett.gr/silia/download/Nmr6EH51N5FWdZedGT0stgZKGyfhuh1ggwwb"
+    },
+    {
+      "document_number": "511369/28-03-2024",
+      "protocol_number": "35989/20-03-2024",
+      "type": "Αίτηση ΓΕΑ",
+      "file_url": "https://silia.eett.gr/silia/download/km1emgDWmqpcoCCxGixwqcRUl25kV3vhGGGD"
+    },
+    {
+      "document_number": "511370/28-03-2024",
+      "protocol_number": "ΣΥΝΗΜΜΕΝΗ ΜΕ ΤΗΝ ΚΑΤΑΘΕΣΗ ΣΤΗΝ ΕΕΤΤ/14-03-2024",
+      "type": "Βεβαίωση πολιτικού μηχανικού",
+      "file_url": "https://silia.eett.gr/silia/download/XunylNpyFUgSxCiW4IodoeH9xwmvzUbiaYgg"
+    },
+    {
+      "document_number": "511387/28-03-2024",
+      "protocol_number": "Αρχείο Αίτησης/28-03-2024",
+      "type": "Αίτηση Άδειας Κατασκευής Κεραίας ΕΕΤΤ",
+      "file_url": "https://silia.eett.gr/silia/download/gACgrD1QmbbMiQIZzlLz0BnI6iMbvgoFQe78"
+    },
+    {
+      "document_number": "512230/05-04-2024",
+      "protocol_number": "ΚΓ/Δ3/Δ/6694/04-04-2024",
+      "type": "Γνωμάτευση ΥΠΑ",
+      "file_url": "https://silia.eett.gr/silia/download/1LWdSARNaP3gUk7gi8WAcoBbz3n1XX0IVFOx"
+    },
+    {
+      "document_number": "512231/05-04-2024",
+      "protocol_number": "ΚΓ/Δ3/Δ/66941/04-04-2024",
+      "type": "Γνωμάτευση ΥΠΑ",
+      "file_url": "https://silia.eett.gr/silia/download/ZN8r8B4CUtLrrMq0S8G5PHgPQ4Qdm9bid8QU"
+    },
+    {
+      "document_number": "512811/12-04-2024",
+      "protocol_number": "TMIA/411/5638/2024/12-04-2024",
+      "type": "Γνωμάτευση ΕΕΑΕ",
+      "file_url": "https://silia.eett.gr/silia/download/Dd4BQHl1WurzMkyWmUgqGpOqDvYYYhnTFhCk"
+    },
+    {
+      "document_number": "513457/18-04-2024",
+      "protocol_number": "Σ1005/Φ550/ΑΔ 4141/15-04-2024",
+      "type": "Γνωμάτευση ΓΕΑ",
+      "file_url": "https://silia.eett.gr/silia/download/Dw9arymofUdX3hZvIpBCu7F6HCUPdQILH1Fb"
+    },
+    {
+      "document_number": "517793/13-06-2024",
+      "protocol_number": "51048/10-06-2024",
+      "type": "Άδεια Κατασκευής  Κεραίας",
+      "file_url": "https://silia.eett.gr/silia/download/ug7GSYD1ueQS2lcyEckHPlhMznbyom2tk9oK"
+    },
+    {
+      "document_number": "513636/23-04-2024",
+      "protocol_number": "TMIA/411/5638/2024/12-04-2024",
+      "type": "Γνωμάτευση ΕΕΑΕ",
+      "file_url": "https://silia.eett.gr/silia/download/Dd4BQHl1WurzMkyWmUgqGpOqDvYYYhnTFhCk"
+    },
+    {
+      "document_number": "513637/23-04-2024",
+      "protocol_number": "114161/11-04-2024",
+      "type": "Έγκριση Αρμοδίου Φορέα",
+      "file_url": "https://silia.eett.gr/silia/download/ulP33MprSBFfg2xX57GR0ycyFCWXyGWcQp3W"
+    },
+    {
+      "document_number": "513638/23-04-2024",
+      "protocol_number": "115037/22-04-2024",
+      "type": "Γνωμοδότηση Υπηρεσίας Νεωτέρων Μνημείων",
+      "file_url": "https://silia.eett.gr/silia/download/gC0aHCnIYE5ZlytGYsuT1H7Rlo0W7Xr7Tre6"
+    },
+    {
+      "document_number": "513639/23-04-2024",
+      "protocol_number": "ΣΥΝΗΜΜΕΝΟΣ ΜΕ ΤΗΝ ΚΑΤΑΘΕΣΗ ΣΤΗΝ ΕΕΤΤ/23-04-2024",
+      "type": "Χάρτης Χρήσεως Γης",
+      "file_url": "https://silia.eett.gr/silia/download/XReNexLoxXZ3DoM9iGwOxpL5gPMwGQGtlGg5"
+    },
+    {
+      "document_number": "513640/23-04-2024",
+      "protocol_number": "ΣΥΝΗΜΜΕΝΗ ΜΕ ΤΗΝ ΚΑΤΑΘΕΣΗ ΣΤΗΝ ΕΕΤΤ/15-03-2024",
+      "type": "Αίτηση - Μελέτη Ραδιοεκπομπών ΕΕΑΕ (υποβάθρου)",
+      "file_url": "https://silia.eett.gr/silia/download/ilcOeghfsHgVennlOCN9cXNgiOhKigEB7LTE"
+    },
+    {
+      "document_number": "513645/23-04-2024",
+      "protocol_number": "Αρχείο Αίτησης/23-04-2024",
+      "type": "Δήλωση ΠΠΔ",
+      "file_url": "https://silia.eett.gr/silia/download/gRDv4uUR2w1rc6uQQWXlvpyFzbg3VsXUItED"
+    }
+  ]
+}

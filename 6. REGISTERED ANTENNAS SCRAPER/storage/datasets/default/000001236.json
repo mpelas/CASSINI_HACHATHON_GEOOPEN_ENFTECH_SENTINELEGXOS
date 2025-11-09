@@ -1,0 +1,51 @@
+{
+  "antenna_id": "174275",
+  "address": "ΚΕΝΤΡΟ ΕΚΠΟΜΠΗΣ ΥΔΑΤΟΠΥΡΓΟΥ",
+  "position_code": 1275050,
+  "municipality": "Γρεβενών",
+  "code_name": "ERT YDATOPIRGOS (K050)",
+  "region": "Δυτικής Μακεδονίας",
+  "latitude": 40.080833,
+  "company": "NOVA Μ.Α.Ε.",
+  "longitude": 21.445,
+  "permit_status": "Από τα στοιχεία που τηρούνται στην Ενημερωτική Πύλη προκύπτει ότι, για τη θέση \"ΚΕΝΤΡΟ ΕΚΠΟΜΠΗΣ ΥΔΑΤΟΠΥΡΓΟΥ\" στον Δήμο Γρεβενών Περιφέρειας  Δυτικής Μακεδονίας \n\t(κωδικός αριθμός θέσης 1275050, κωδική ονομασία \"ERT YDATOPIRGOS (K050)\") έχει κατατεθεί από την εταιρία NOVA Μ.Α.Ε.\tδήλωση εγκατάστασης κατασκευής κεραίας (αριθ. πρωτ. \n\t56569/12-07-2024) που εμπίπτει στις διατάξεις της νομοθεσίας για Εγκαταστάσεις Κατασκευών Κεραιών Χαμηλής Ηλεκτρομαγνητικής Περιβαλλοντικής Όχλησης (ΕΚΚΧΟ).",
+  "measurements_eaee": "-",
+  "documents": [
+    {
+      "document_number": "520237/12-07-2024",
+      "protocol_number": "Φωτορεαλιστική απεικόνιση κεραίας ΕΚΚΧΟ/12-07-2024",
+      "type": "Φωτογραφικό Υλικό - Σκαρίφημα",
+      "file_url": "https://silia.eett.gr/silia/download/Z2h0CbmBYDhGBqoIfYW6OAHIY4S6lYRdasE7"
+    },
+    {
+      "document_number": "520238/12-07-2024",
+      "protocol_number": "Ψηφιακός χάρτης με προβολή της θέσης ΕΚΚΧΟ/12-07-2024",
+      "type": "Φωτογραφικό Υλικό - Σκαρίφημα",
+      "file_url": "https://silia.eett.gr/silia/download/1oMG0nNhB2umCh2WeFW8hWufotogWx7RqO9N"
+    },
+    {
+      "document_number": "520239/12-07-2024",
+      "protocol_number": "ΜΕΛΕΤΗ ΕΚΚΧΟ/12-07-2024",
+      "type": "Άλλο",
+      "file_url": "https://silia.eett.gr/silia/download/69p59VNM5DeSSfMApDaVeewOxlLQNDXyUvcN"
+    },
+    {
+      "document_number": "520240/12-07-2024",
+      "protocol_number": "Σκαρίφημα με περιοχή απαγόρευσης/12-07-2024",
+      "type": "Φωτογραφικό Υλικό - Σκαρίφημα",
+      "file_url": "https://silia.eett.gr/silia/download/ULvWUgyOlyonIFNLaElQcOCGXNYrKPiHpGW6"
+    },
+    {
+      "document_number": "520241/12-07-2024",
+      "protocol_number": "Αρχείο Αίτησης/12-07-2024",
+      "type": "Δήλωση ΕΚΚΧΟ",
+      "file_url": "https://silia.eett.gr/silia/download/StODz7Y0i4a05pkpY3REPuhEbYLGa4adTR0G"
+    },
+    {
+      "document_number": "529041/16-10-2024",
+      "protocol_number": "ΥΔ ΕΓΚΑΤΑΣΤΑΣΗΣ/16-10-2024",
+      "type": "Άλλο",
+      "file_url": "https://silia.eett.gr/silia/download/imQR0vU578gdHPe4Qcc0CZmHWSwGfOc14gOi"
+    }
+  ]
+}

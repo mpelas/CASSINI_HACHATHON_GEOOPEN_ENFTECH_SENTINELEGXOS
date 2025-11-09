@@ -1,0 +1,45 @@
+{
+  "antenna_id": "167667",
+  "address": "ΠΥΡΓΟΣ ΑΧΑΪΑΣ",
+  "position_code": 1498581,
+  "municipality": "Αιγιαλείας",
+  "code_name": "PYRGOS TS",
+  "region": "Δυτικής Ελλάδας",
+  "latitude": 38.118889,
+  "company": "OTE",
+  "longitude": 22.281111,
+  "permit_status": "Από τα στοιχεία που τηρούνται στην Ενημερωτική Πύλη προκύπτει ότι, για τη θέση \"ΠΥΡΓΟΣ ΑΧΑΪΑΣ\" στον Δήμο Αιγιαλείας Περιφέρειας  Δυτικής Ελλάδας \n\t(κωδικός αριθμός θέσης 1498581, κωδική ονομασία \"PYRGOS TS\") έχει κατατεθεί από την εταιρία OTE\tδήλωση εγκατάστασης κατασκευής κεραίας (αριθ. πρωτ. \n\t51381/24-04-2023) που εμπίπτει στις διατάξεις της νομοθεσίας για Εγκαταστάσεις Κατασκευών Κεραιών Χαμηλής Ηλεκτρομαγνητικής Περιβαλλοντικής Όχλησης (ΕΚΚΧΟ).",
+  "measurements_eaee": "-",
+  "documents": [
+    {
+      "document_number": "480874/23-03-2023",
+      "protocol_number": "ΦΩΤΟΓΡΑΦΙΑ/",
+      "type": "Φωτογραφικό Υλικό - Σκαρίφημα",
+      "file_url": "https://silia.eett.gr/silia/download/da329f7b-0b32-462a-9d03-6efb65ee9cf7"
+    },
+    {
+      "document_number": "480875/23-03-2023",
+      "protocol_number": "ΦΩΤΟΓΡΑΦΙΑ/",
+      "type": "Φωτογραφικό Υλικό - Σκαρίφημα",
+      "file_url": "https://silia.eett.gr/silia/download/53d96914-af63-49cb-a208-509682014080"
+    },
+    {
+      "document_number": "482909/24-04-2023",
+      "protocol_number": "ΜΕΣΩ ΣΗΛΥΑ/",
+      "type": "Αίτηση - Μελέτη Ραδιοεκπομπών ΕΕΑΕ",
+      "file_url": "https://silia.eett.gr/silia/download/bd1b7d91-3f56-4f7e-8405-63af00e70514"
+    },
+    {
+      "document_number": "482961/24-04-2023",
+      "protocol_number": "Αρχείο Αίτησης/",
+      "type": "Δήλωση ΕΚΚΧΟ",
+      "file_url": "https://silia.eett.gr/silia/download/71679806-3ef7-4f4b-8f30-a74b5551279d"
+    },
+    {
+      "document_number": "527503/02-10-2024",
+      "protocol_number": "ΥΠ.ΔΗΛΩΣΗ/02-10-2024",
+      "type": "Άλλο",
+      "file_url": "https://silia.eett.gr/silia/download/2rUbi31n8XfdSsvyUgtEgNwsMv89ghpe32s9"
+    }
+  ]
+}

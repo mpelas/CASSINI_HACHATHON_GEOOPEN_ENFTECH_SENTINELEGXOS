@@ -1,0 +1,87 @@
+{
+  "antenna_id": "162220",
+  "address": "ΔΗΜ. ΓΟΥΝΑΡΗ 38 & ΚΑΝΑΚΑΡΗ 201",
+  "position_code": 1405009,
+  "municipality": "Πατρέων",
+  "code_name": "ΓΟΥΝΑΡΗ",
+  "region": "Δυτικής Ελλάδας",
+  "latitude": 38.243056,
+  "company": "OTE",
+  "longitude": 21.733333,
+  "permit_status": "Από τα στοιχεία που τηρούνται στην Ενημερωτική Πύλη προκύπτει ότι, για τη θέση \"ΔΗΜ. ΓΟΥΝΑΡΗ 38 & ΚΑΝΑΚΑΡΗ 201\" στον Δήμο Πατρέων Περιφέρειας  Δυτικής Ελλάδας \n\t(κωδικός αριθμός θέσης 1405009, κωδική ονομασία \"ΓΟΥΝΑΡΗ\") χορηγήθηκε, με την Απόφαση της ΕΕΤΤ \n44574/27-06-2022, άδεια κατασκευής κεραίας στην εταιρία OTE. \nΑπό τo έγγραφο της άδειας μπορείτε να ενημερωθείτε για τις σχετικές εγκρίσεις των συναρμόδιων φορέων, καθώς και εάν πρόκειται για τροποποίηση παλαιότερης άδειας.",
+  "measurements_eaee": "-",
+  "documents": [
+    {
+      "document_number": "450639/04-02-2022",
+      "protocol_number": "ΜΕΣΩ ΣΗΛΥΑ/",
+      "type": "Τοπογραφικό",
+      "file_url": "https://silia.eett.gr/silia/download/95accf2e-6193-4d56-84fe-4d6ae3e3cbe5"
+    },
+    {
+      "document_number": "450640/04-02-2022",
+      "protocol_number": "ΜΕΣΩ ΣΗΛΥΑ/",
+      "type": "Αρχιτεκτονικά Σχέδια",
+      "file_url": "https://silia.eett.gr/silia/download/5cf538c3-64b8-4b4d-ba26-370cc53f8222"
+    },
+    {
+      "document_number": "450641/04-02-2022",
+      "protocol_number": "ΜΕΣΩ ΣΗΛΥΑ/29-03-2021",
+      "type": "Αίτηση - Μελέτη Ραδιοεκπομπών ΕΕΑΕ",
+      "file_url": "https://silia.eett.gr/silia/download/8db95c27-d066-455b-ad46-dd3a4abd8458"
+    },
+    {
+      "document_number": "450642/04-02-2022",
+      "protocol_number": "38649/09-04-2021",
+      "type": "Επιστολή Ενημέρωσης προς Αρμόδιο Φορέα",
+      "file_url": "https://silia.eett.gr/silia/download/255349ad-ad34-4e33-a078-538b7608ffb3"
+    },
+    {
+      "document_number": "450643/04-02-2022",
+      "protocol_number": "Δ3/Δ/48493/7420/27-11-1197",
+      "type": "Γνωμάτευση ΥΠΑ",
+      "file_url": "https://silia.eett.gr/silia/download/8f152cfd-c041-4835-955a-39c612af3558"
+    },
+    {
+      "document_number": "450644/04-02-2022",
+      "protocol_number": "ΜΕΣΩ ΣΗΛΥΑ/",
+      "type": "Αίτηση ΥΠΑ",
+      "file_url": "https://silia.eett.gr/silia/download/bfa3f0e8-8a1f-4abe-96c3-417ee4f8ed9d"
+    },
+    {
+      "document_number": "450657/07-02-2022",
+      "protocol_number": "Αρχείο Αίτησης/",
+      "type": "Αίτηση Άδειας Κατασκευής Κεραίας ΕΕΤΤ",
+      "file_url": "https://silia.eett.gr/silia/download/933a033d-2ac5-4339-b23b-74987c876f53"
+    },
+    {
+      "document_number": "453220/15-03-2022",
+      "protocol_number": "Μ.ι./411/3516/2022/15-03-2022",
+      "type": "Γνωμάτευση ΕΕΑΕ",
+      "file_url": "https://silia.eett.gr/silia/download/2cb12c1f-b438-424b-832a-df4c643fb2e6"
+    },
+    {
+      "document_number": "460756/02-06-2022",
+      "protocol_number": "ΚΓ/Δ3/Δ/14107/2-6-2022/02-06-2022",
+      "type": "Γνωμάτευση ΥΠΑ",
+      "file_url": "https://silia.eett.gr/silia/download/dd80614c-e95f-46b8-99e7-dfd65dff4523"
+    },
+    {
+      "document_number": "462804/27-06-2022",
+      "protocol_number": "44574/27-06-2022",
+      "type": "Άδεια Κατασκευής  Κεραίας",
+      "file_url": "https://silia.eett.gr/silia/download/3ed0559d-0ceb-40cd-80f1-542733bc8dc8"
+    },
+    {
+      "document_number": "450638/04-02-2022",
+      "protocol_number": "ΣΥΝΟΔΕΥΤΙΚΑ ΕΓΓΡΑΦΑ/",
+      "type": "Δήλωση υπαγωγής σε ΠΠΔ και Συνοδευτικά Έγγραφα",
+      "file_url": "https://silia.eett.gr/silia/download/4ee284b6-ad87-48fd-ba17-e541321c3d1f"
+    },
+    {
+      "document_number": "450658/07-02-2022",
+      "protocol_number": "Αρχείο Αίτησης/",
+      "type": "Δήλωση ΠΠΔ",
+      "file_url": "https://silia.eett.gr/silia/download/a5db6650-f0f7-4ce1-820d-64f944a419c6"
+    }
+  ]
+}

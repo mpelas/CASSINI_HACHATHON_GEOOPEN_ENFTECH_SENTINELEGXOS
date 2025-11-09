@@ -1,0 +1,33 @@
+{
+  "antenna_id": "128835",
+  "address": "ΠΑΡΑΛΙΑ ΚΑΜΑΡΕΣ ΓΥΘΕΙΟΥ ΛΑΚΩΝΙΑΣ",
+  "position_code": 1150461,
+  "municipality": "Ανατολικής Μάνης",
+  "code_name": "PYRGOI LAZARAKOY LAKONIA",
+  "region": "Πελοποννήσου",
+  "latitude": 36.675833,
+  "company": "VODAFONE",
+  "longitude": 22.525,
+  "permit_status": "Από τα στοιχεία που τηρούνται στην Ενημερωτική Πύλη προκύπτει ότι, για τη θέση \"ΠΑΡΑΛΙΑ ΚΑΜΑΡΕΣ ΓΥΘΕΙΟΥ ΛΑΚΩΝΙΑΣ\" στον Δήμο Ανατολικής Μάνης Περιφέρειας  Πελοποννήσου \n\t(κωδικός αριθμός θέσης 1150461, κωδική ονομασία \"PYRGOI LAZARAKOY LAKONIA\") έχει κατατεθεί από την εταιρία VODAFONE\tδήλωση εγκατάστασης κατασκευής κεραίας (αριθ. πρωτ. \n\t23802/31-08-2017) που εμπίπτει στις διατάξεις της νομοθεσίας για Εγκαταστάσεις Κατασκευών Κεραιών Χαμηλής Ηλεκτρομαγνητικής Περιβαλλοντικής Όχλησης (ΕΚΚΧΟ).",
+  "measurements_eaee": "-",
+  "documents": [
+    {
+      "document_number": "304100/22-08-2017",
+      "protocol_number": "ΦΩΤΟΓΡΑΦΙΑ ΘΕΣΗΣ ΚΕΡΑΙΑΣ 1/",
+      "type": "Φωτογραφικό Υλικό - Σκαρίφημα",
+      "file_url": "https://silia.eett.gr/silia/download/208ad1e5-74d7-4226-9065-d9b1cb09277e"
+    },
+    {
+      "document_number": "304664/31-08-2017",
+      "protocol_number": "Αρχείο Αίτησης/",
+      "type": "Δήλωση ΕΚΚΧΟ",
+      "file_url": "https://silia.eett.gr/silia/download/20b377b9-3a9a-4a50-98c8-25b0909cce36"
+    },
+    {
+      "document_number": "309519/10-10-2017",
+      "protocol_number": "207510/25-09-2017",
+      "type": "Άλλο",
+      "file_url": "https://silia.eett.gr/silia/download/9f1ffcfd-d3a2-4736-b16f-e0e20b537958"
+    }
+  ]
+}

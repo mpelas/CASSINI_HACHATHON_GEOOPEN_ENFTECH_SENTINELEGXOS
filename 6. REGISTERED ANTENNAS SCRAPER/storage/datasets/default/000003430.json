@@ -1,0 +1,93 @@
+{
+  "antenna_id": "166740",
+  "address": "ΠΑΡΟΥΤΑ ΑΕΤΟΦΩΛΙΑ",
+  "position_code": 1406451,
+  "municipality": "Τήνου",
+  "code_name": "ΑΕΤΟΦΩΛΙΑ / Χ",
+  "region": "Νοτίου Αιγαίου",
+  "latitude": 37.617222,
+  "company": "OTE",
+  "longitude": 25.124167,
+  "permit_status": "Από τα στοιχεία που τηρούνται στην Ενημερωτική Πύλη προκύπτει ότι, για τη θέση \"ΠΑΡΟΥΤΑ ΑΕΤΟΦΩΛΙΑ\" στον Δήμο Τήνου Περιφέρειας  Νοτίου Αιγαίου \n\t(κωδικός αριθμός θέσης 1406451, κωδική ονομασία \"ΑΕΤΟΦΩΛΙΑ / Χ\") χορηγήθηκε, με την Απόφαση της ΕΕΤΤ \n48094/25-05-2023, άδεια κατασκευής κεραίας στην εταιρία OTE. \nΑπό τo έγγραφο της άδειας μπορείτε να ενημερωθείτε για τις σχετικές εγκρίσεις των συναρμόδιων φορέων, καθώς και εάν πρόκειται για τροποποίηση παλαιότερης άδειας.\n\tΣύμφωνα με τα στοιχεία που έχουν υποβληθεί στο ΣΗΛΥΑ, ο κάτοχος της κατασκευής κεραίας έχει δηλώσει ότι θα προβεί σε έκδοση έγκρισης δομικών κατασκευών \n\t\tκεραίας μέσω του e-Άδειες \n\t\tμετά την έκδοση της άδειας κατασκευής κεραίας / δημοσιοποίηση της δήλωσης τροποποίησης της κατασκευής κεραίας",
+  "measurements_eaee": "-",
+  "documents": [
+    {
+      "document_number": "475499/22-12-2022",
+      "protocol_number": "ΜΕΣΩ ΣΗΛΥΑ    /",
+      "type": "Τοπογραφικό",
+      "file_url": "https://silia.eett.gr/silia/download/5c5aaeb6-a8a3-4bac-adc2-8e6c53f8c58a"
+    },
+    {
+      "document_number": "475500/22-12-2022",
+      "protocol_number": "ΜΕΣΩ ΣΗΛΥΑ    /",
+      "type": "Αρχιτεκτονικά Σχέδια",
+      "file_url": "https://silia.eett.gr/silia/download/abe05d3e-12a2-42a3-863a-34f3e8300b33"
+    },
+    {
+      "document_number": "475501/22-12-2022",
+      "protocol_number": "ΜΕΣΩ ΣΗΛΥΑ    /25-04-2021",
+      "type": "Αίτηση - Μελέτη Ραδιοεκπομπών ΕΕΑΕ",
+      "file_url": "https://silia.eett.gr/silia/download/889d4090-ee0f-41bd-9426-03e4c900df9b"
+    },
+    {
+      "document_number": "475503/22-12-2022",
+      "protocol_number": "Δ3/Δ/14631/2898/06-04-2001",
+      "type": "Γνωμάτευση ΥΠΑ",
+      "file_url": "https://silia.eett.gr/silia/download/5c14ef33-d7e5-4353-a2a6-eac77a72ecd3"
+    },
+    {
+      "document_number": "475504/22-12-2022",
+      "protocol_number": "ΜΕΣΩ ΣΗΛΥΑ    /02-12-2022",
+      "type": "Αίτηση ΥΠΑ",
+      "file_url": "https://silia.eett.gr/silia/download/706b8915-8fd1-49bc-aee9-409566c78eb1"
+    },
+    {
+      "document_number": "475505/22-12-2022",
+      "protocol_number": "Αρχείο Αίτησης/",
+      "type": "Αίτηση Άδειας Κατασκευής Κεραίας ΕΕΤΤ",
+      "file_url": "https://silia.eett.gr/silia/download/88dcd7a2-15f3-4b9e-8ae1-51cab7f9261e"
+    },
+    {
+      "document_number": "481659/31-03-2023",
+      "protocol_number": "ΤΜΙΑ/411/4451/2023/31-03-2023",
+      "type": "Γνωμάτευση ΕΕΑΕ",
+      "file_url": "https://silia.eett.gr/silia/download/05051fba-57f2-4bf2-b028-44c3e203ce96"
+    },
+    {
+      "document_number": "485876/26-05-2023",
+      "protocol_number": "48094/25-05-2023",
+      "type": "Άδεια Κατασκευής  Κεραίας",
+      "file_url": "https://silia.eett.gr/silia/download/6174b402-9b83-4235-9a79-8198a1ee61a3"
+    },
+    {
+      "document_number": "494915/21-09-2023",
+      "protocol_number": "49096/20-09-2023",
+      "type": "Ανάκληση Άδειας Κατασκευής Κεραίας",
+      "file_url": "https://silia.eett.gr/silia/download/d0468b10-332e-4b52-a42e-1db2fa8abd31"
+    },
+    {
+      "document_number": "500126/09-11-2023",
+      "protocol_number": "49629/02-11-2023",
+      "type": "Άλλο",
+      "file_url": null
+    },
+    {
+      "document_number": "515798/24-05-2024",
+      "protocol_number": "496291/02-11-2023",
+      "type": "Άλλο",
+      "file_url": "https://silia.eett.gr/silia/download/iYl68sHI2d4SbnSmgo6s1P3AGBQGKDNvgidq"
+    },
+    {
+      "document_number": "475502/22-12-2022",
+      "protocol_number": "ΣΥΝΟΔΕΥΤΙΚΑ ΕΓΓΡΑΦΑ/",
+      "type": "Δήλωση υπαγωγής σε ΠΠΔ και Συνοδευτικά Έγγραφα",
+      "file_url": "https://silia.eett.gr/silia/download/d1e6becd-f5dd-4ae4-b6bf-7216b04c8c19"
+    },
+    {
+      "document_number": "475506/22-12-2022",
+      "protocol_number": "Αρχείο Αίτησης/",
+      "type": "Δήλωση ΠΠΔ",
+      "file_url": "https://silia.eett.gr/silia/download/a308e0a6-8a8c-49b9-9d2b-e9817376744e"
+    }
+  ]
+}

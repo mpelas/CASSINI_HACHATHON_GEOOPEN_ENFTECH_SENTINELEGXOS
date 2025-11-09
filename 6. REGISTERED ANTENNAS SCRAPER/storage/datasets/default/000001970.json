@@ -1,0 +1,57 @@
+{
+  "antenna_id": "159723",
+  "address": "ΕΠΑΡΧ. ΟΔΟΣ ΝΕΟΧΩΡΙ- ΑΡΑΧΟΒΑ ΑΙΤ/ΝΙΑΣ",
+  "position_code": 1412302,
+  "municipality": "Ναυπακτίας",
+  "code_name": "NEOCHO_MI",
+  "region": "Δυτικής Ελλάδας",
+  "latitude": 38.676667,
+  "company": "OTE",
+  "longitude": 21.853611,
+  "permit_status": "Από τα στοιχεία που τηρούνται στην Ενημερωτική Πύλη προκύπτει ότι, για τη θέση \"ΕΠΑΡΧ. ΟΔΟΣ ΝΕΟΧΩΡΙ- ΑΡΑΧΟΒΑ ΑΙΤ/ΝΙΑΣ\" στον Δήμο Ναυπακτίας Περιφέρειας  Δυτικής Ελλάδας \n\t(κωδικός αριθμός θέσης 1412302, κωδική ονομασία \"NEOCHO_MI\") έχει κατατεθεί από την εταιρία OTE\tδήλωση εγκατάστασης κατασκευής κεραίας (αριθ. πρωτ. \n\t44166/01-07-2021) που εμπίπτει στις διατάξεις της νομοθεσίας για Εγκαταστάσεις Κατασκευών Κεραιών Χαμηλής Ηλεκτρομαγνητικής Περιβαλλοντικής Όχλησης (ΕΚΚΧΟ).",
+  "measurements_eaee": "-",
+  "documents": [
+    {
+      "document_number": "437699/01-07-2021",
+      "protocol_number": "ΣΚΑΡΙΦΗΜΑ/",
+      "type": "Φωτογραφικό Υλικό - Σκαρίφημα",
+      "file_url": "https://silia.eett.gr/silia/download/27ef6431-b775-4811-b057-1739a1d961d6"
+    },
+    {
+      "document_number": "437700/01-07-2021",
+      "protocol_number": "ΥΠ.ΠΟ.Α/ΥΝΕΜΤΕΔΕΠΝΙ/Φ10-ε/7150/01-02-2021",
+      "type": "Γνωμοδότηση Υπηρεσίας Νεωτέρων Μνημείων",
+      "file_url": "https://silia.eett.gr/silia/download/b9022c04-842c-4210-8724-daf2dde36f61"
+    },
+    {
+      "document_number": "437701/01-07-2021",
+      "protocol_number": "18622/09-02-2021",
+      "type": "Γνωμοδότηση ΕΠΚΑ",
+      "file_url": "https://silia.eett.gr/silia/download/481a4d4d-9896-4f69-8d01-f5d77287a7a6"
+    },
+    {
+      "document_number": "437721/01-07-2021",
+      "protocol_number": "Αρχείο Αίτησης/",
+      "type": "Δήλωση ΕΚΚΧΟ",
+      "file_url": "https://silia.eett.gr/silia/download/61c413af-5e70-4dfa-8c1d-734f25315954"
+    },
+    {
+      "document_number": "451886/24-02-2022",
+      "protocol_number": "ΣΚΑΡΙΦΗΜΑ/24-02-2022",
+      "type": "Φωτογραφικό Υλικό - Σκαρίφημα",
+      "file_url": "https://silia.eett.gr/silia/download/8f2272a6-ea40-4d6e-875d-670c12b6594c"
+    },
+    {
+      "document_number": "458867/11-05-2022",
+      "protocol_number": "ΥΠΕΥΘΥΝΗ ΔΗΛΩΣΗ/11-05-2022",
+      "type": "Άλλο",
+      "file_url": "https://silia.eett.gr/silia/download/e881cad9-fa07-4898-8984-bf4037e514c3"
+    },
+    {
+      "document_number": "458868/11-05-2022",
+      "protocol_number": "ΣΚΑΡΙΦΗΜΑ/11-05-2022",
+      "type": "Φωτογραφικό Υλικό - Σκαρίφημα",
+      "file_url": "https://silia.eett.gr/silia/download/b4399551-ffc0-464b-8739-7a52fe840fac"
+    }
+  ]
+}

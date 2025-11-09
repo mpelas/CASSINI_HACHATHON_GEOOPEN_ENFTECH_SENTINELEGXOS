@@ -1,0 +1,87 @@
+{
+  "antenna_id": "103825",
+  "address": "ΚΑΜΠΟΣ ΕΚΤΟΣ ΣΧΕΔΙΟΥ ΟΙΚΙΣΜΟΥ ΚΟΛΥΜΠΑΡΙΟΥ",
+  "position_code": 1204500,
+  "municipality": "Πλατανιά",
+  "code_name": "ΚΟΛΥΜΠΑΡΙ ΧΑΝΙΩΝ",
+  "region": "Κρήτης",
+  "latitude": 35.534722,
+  "company": "NOVA Μ.Α.Ε.",
+  "longitude": 23.784722,
+  "permit_status": "Από τα στοιχεία που τηρούνται στην Ενημερωτική Πύλη προκύπτει ότι, για τη θέση \"ΚΑΜΠΟΣ ΕΚΤΟΣ ΣΧΕΔΙΟΥ ΟΙΚΙΣΜΟΥ ΚΟΛΥΜΠΑΡΙΟΥ\" στον Δήμο Πλατανιά Περιφέρειας  Κρήτης \n\t(κωδικός αριθμός θέσης 1204500, κωδική ονομασία \"ΚΟΛΥΜΠΑΡΙ ΧΑΝΙΩΝ\") χορηγήθηκε, με την Απόφαση της ΕΕΤΤ \n20578/Φ610/08-06-2016, άδεια κατασκευής κεραίας στην εταιρία NOVA Μ.Α.Ε.. \nΑπό τo έγγραφο της άδειας μπορείτε να ενημερωθείτε για τις σχετικές εγκρίσεις των συναρμόδιων φορέων, καθώς και εάν πρόκειται για τροποποίηση παλαιότερης άδειας.\n\tΗ άδεια χορηγήθηκε κατόπιν της με Αριθ. Πρωτ. 54511 /04-12-2009 αίτησης. \n\tΓια την έκδοση της άδειας εφαρμόστηκε το προγενέστερο του Ν.4053/2012 νομοθετικό πλαίσιο, καθώς κατά δήλωση της εταιρίας, η κατασκευή πληρούσε \nτις προϋποθέσεις του άρθρου 31 του Ν.4053/2012.",
+  "measurements_eaee": "-",
+  "documents": [
+    {
+      "document_number": "185399/30-09-2014",
+      "protocol_number": "54511/04-12-2009",
+      "type": "Αίτηση Άδειας Κατασκευής Κεραίας ΕΕΤΤ (νομίμως λειτουργούσα)",
+      "file_url": "https://silia.eett.gr/silia/download/c1a29dfb-dd42-4dd8-9031-62cdf4b4058c"
+    },
+    {
+      "document_number": "185400/30-09-2014",
+      "protocol_number": "12609/04-07-2011",
+      "type": "Αίτηση / Μελέτη για Έγκριση Περιβαλλοντικών Επιπτώσεων (νόμιμη λειτουργία)",
+      "file_url": "https://silia.eett.gr/silia/download/1bf50d1f-c3bb-4d1e-889d-ca920ce87ebb"
+    },
+    {
+      "document_number": "185401/30-09-2014",
+      "protocol_number": "Μ.Ι./411/1652/05-05-2010",
+      "type": "Γνωμάτευση ΕΕΑΕ",
+      "file_url": "https://silia.eett.gr/silia/download/580e7087-b7f3-41f6-8926-db1821bf5b9c"
+    },
+    {
+      "document_number": "185402/30-09-2014",
+      "protocol_number": "Τ:Ε26287/02-12-2009",
+      "type": "Αποδεικτικό Καταβολής Τελών ΕΕΤΤ",
+      "file_url": "https://silia.eett.gr/silia/download/d4935f68-ad1c-4526-a793-adca6b5585d6"
+    },
+    {
+      "document_number": "185403/30-09-2014",
+      "protocol_number": "Δ3/Δ/44229/10733/25-11-2009",
+      "type": "Γνωμάτευση ΥΠΑ",
+      "file_url": "https://silia.eett.gr/silia/download/c6453c2f-429f-4a17-96bc-6fe5e537f822"
+    },
+    {
+      "document_number": "185404/30-09-2014",
+      "protocol_number": "9882/13-11-2009",
+      "type": "Αίτηση - Μελέτη Ραδιοεκπομπών ΕΕΑΕ",
+      "file_url": "https://silia.eett.gr/silia/download/a43e9caa-bf67-4f8b-b54c-e03a30b33aea"
+    },
+    {
+      "document_number": "185405/30-09-2014",
+      "protocol_number": "8111/08-03-2013",
+      "type": "Αίτηση προς Αρμόδιο Φορέα",
+      "file_url": "https://silia.eett.gr/silia/download/2490082f-7107-4bc2-8e1e-cbc2997d05b4"
+    },
+    {
+      "document_number": "187189/20-10-2014",
+      "protocol_number": "ΥΠΕΥΘΥΝΗ ΔΗΛΩΣΗ/30-09-2014",
+      "type": "Άλλο",
+      "file_url": "https://silia.eett.gr/silia/download/822677d7-0dd5-48ac-b4c7-978c570188d6"
+    },
+    {
+      "document_number": "196022/05-02-2015",
+      "protocol_number": "ΠΠΔ/05-02-2015",
+      "type": "Δήλωση υπαγωγής σε ΠΠΔ και Συνοδευτικά Έγγραφα",
+      "file_url": "https://silia.eett.gr/silia/download/f74c3750-5ba8-4bbc-8906-b0fe850ffd43"
+    },
+    {
+      "document_number": "196155/06-02-2015",
+      "protocol_number": "Αρχείο Αίτησης/",
+      "type": "Αίτηση Άδειας Κατασκευής Κεραίας ΕΕΤΤ",
+      "file_url": "https://silia.eett.gr/silia/download/ab99736a-c7e4-40c8-ba28-bb9a3b531fb0"
+    },
+    {
+      "document_number": "261738/03-06-2016",
+      "protocol_number": "ΟΔΟΙΠΟΡΙΚΟ ΣΚΑΡΙΦΗΜΑ/",
+      "type": "Άλλο",
+      "file_url": "https://silia.eett.gr/silia/download/e5e3550a-4b4e-4b05-be6e-14554b8719c5"
+    },
+    {
+      "document_number": "262417/10-06-2016",
+      "protocol_number": "20578/Φ610/08-06-2016",
+      "type": "Άδεια Κατασκευής  Κεραίας",
+      "file_url": "https://silia.eett.gr/silia/download/d2b464b8-aead-4591-a1e7-467564c2b8ae"
+    }
+  ]
+}

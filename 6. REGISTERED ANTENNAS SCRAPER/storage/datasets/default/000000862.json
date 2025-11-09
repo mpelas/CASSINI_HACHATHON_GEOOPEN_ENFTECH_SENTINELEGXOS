@@ -1,0 +1,45 @@
+{
+  "antenna_id": "161192",
+  "address": "ΘΕΣΗ ΛΑΚΟΣ ΚΑΜΑΤΕΡΟΥ 19300 ΑΣΠΡΟΠΥΡΓΟΣ",
+  "position_code": 2340570,
+  "municipality": "Ασπροπύργου",
+  "code_name": "TTSA WELLA",
+  "region": "Αττικής",
+  "latitude": 38.100556,
+  "company": "NOVA Μ.Α.Ε.",
+  "longitude": 23.555,
+  "permit_status": "Από τα στοιχεία που τηρούνται στην Ενημερωτική Πύλη προκύπτει ότι, για τη θέση \"ΘΕΣΗ ΛΑΚΟΣ ΚΑΜΑΤΕΡΟΥ 19300 ΑΣΠΡΟΠΥΡΓΟΣ\" στον Δήμο Ασπροπύργου Περιφέρειας  Αττικής \n\t(κωδικός αριθμός θέσης 2340570, κωδική ονομασία \"TTSA WELLA\") έχει κατατεθεί από την εταιρία NOVA Μ.Α.Ε.\tδήλωση εγκατάστασης κατασκευής κεραίας (αριθ. πρωτ. \n\t45515/15-11-2021) που εμπίπτει στις διατάξεις της νομοθεσίας για Εγκαταστάσεις Κατασκευών Κεραιών Χαμηλής Ηλεκτρομαγνητικής Περιβαλλοντικής Όχλησης (ΕΚΚΧΟ).",
+  "measurements_eaee": "-",
+  "documents": [
+    {
+      "document_number": "446031/15-11-2021",
+      "protocol_number": "FOTO /",
+      "type": "Φωτογραφικό Υλικό - Σκαρίφημα",
+      "file_url": "https://silia.eett.gr/silia/download/20cff3c1-f36e-45d2-b0ef-3c22002c3f2e"
+    },
+    {
+      "document_number": "446032/15-11-2021",
+      "protocol_number": "δικαιωμα χρήσης/",
+      "type": "Χορήγηση Δικαιώματος Χρήσης Ραδιοσυχνοτήτων",
+      "file_url": "https://silia.eett.gr/silia/download/00ead67d-ca7c-4f1d-928c-8f456b46963e"
+    },
+    {
+      "document_number": "446033/15-11-2021",
+      "protocol_number": "δικαιωμα χρήσης/",
+      "type": "Χορήγηση Δικαιώματος Χρήσης Ραδιοσυχνοτήτων",
+      "file_url": "https://silia.eett.gr/silia/download/84e159a4-34a2-4556-be7b-7ba8bd78a339"
+    },
+    {
+      "document_number": "446034/15-11-2021",
+      "protocol_number": "δικαιωμα χρήσης/",
+      "type": "Χορήγηση Δικαιώματος Χρήσης Ραδιοσυχνοτήτων",
+      "file_url": "https://silia.eett.gr/silia/download/c1be0658-0187-43d0-aecc-23b2c71113f6"
+    },
+    {
+      "document_number": "446035/15-11-2021",
+      "protocol_number": "Αρχείο Αίτησης/",
+      "type": "Δήλωση ΕΚΚΧΟ",
+      "file_url": "https://silia.eett.gr/silia/download/5b344502-6909-46d1-8bef-1718f2ed28c6"
+    }
+  ]
+}

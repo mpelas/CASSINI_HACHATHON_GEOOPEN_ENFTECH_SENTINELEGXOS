@@ -1,0 +1,39 @@
+{
+  "antenna_id": "133653",
+  "address": "25ης ΜΑΡΤΙΟΥ",
+  "position_code": 1001899,
+  "municipality": "Διονύσου",
+  "code_name": "ΑΓ ΣΤΕΦΑΝΟΣ CNR",
+  "region": "Αττικής",
+  "latitude": 38.14,
+  "company": "VODAFONE",
+  "longitude": 23.86,
+  "permit_status": "Από τα στοιχεία που τηρούνται στην Ενημερωτική Πύλη προκύπτει ότι, για τη θέση \"25ης ΜΑΡΤΙΟΥ\" στον Δήμο Διονύσου Περιφέρειας  Αττικής \n\t(κωδικός αριθμός θέσης 1001899, κωδική ονομασία \"ΑΓ ΣΤΕΦΑΝΟΣ CNR\") έχει κατατεθεί από την εταιρία VODAFONE\tδήλωση εγκατάστασης κατασκευής κεραίας (αριθ. πρωτ. \n\t28283/05-07-2018) που εμπίπτει στις διατάξεις της νομοθεσίας για Εγκαταστάσεις Κατασκευών Κεραιών Χαμηλής Ηλεκτρομαγνητικής Περιβαλλοντικής Όχλησης (ΕΚΚΧΟ).",
+  "measurements_eaee": "-",
+  "documents": [
+    {
+      "document_number": "333492/22-06-2018",
+      "protocol_number": "39252/23177/823/147/22-02-2017",
+      "type": "Έγκριση Αρμοδίου Φορέα",
+      "file_url": "https://silia.eett.gr/silia/download/b6c23bc3-f787-403f-858d-471ecbf1a4ca"
+    },
+    {
+      "document_number": "333493/22-06-2018",
+      "protocol_number": "39121/4301/736/20-02-2017",
+      "type": "Γνωμοδότηση Υπηρεσίας Νεωτέρων Μνημείων",
+      "file_url": "https://silia.eett.gr/silia/download/3fa8c87b-cde5-4ef6-8fc8-2cf16e75c632"
+    },
+    {
+      "document_number": "333851/27-06-2018",
+      "protocol_number": "ΣΚΑΡΙΦΗΜΑ ΘΕΣΗΣ ΚΕΡΑΙΩΝ ΕΚΚΧΟ 1, 2, 3 & 4./",
+      "type": "Φωτογραφικό Υλικό - Σκαρίφημα",
+      "file_url": "https://silia.eett.gr/silia/download/e7474942-2056-4c87-88c8-d96bee0bb7ea"
+    },
+    {
+      "document_number": "334872/05-07-2018",
+      "protocol_number": "Αρχείο Αίτησης/",
+      "type": "Δήλωση ΕΚΚΧΟ",
+      "file_url": "https://silia.eett.gr/silia/download/72a0824b-cf2d-4be8-b75f-630ad625270a"
+    }
+  ]
+}

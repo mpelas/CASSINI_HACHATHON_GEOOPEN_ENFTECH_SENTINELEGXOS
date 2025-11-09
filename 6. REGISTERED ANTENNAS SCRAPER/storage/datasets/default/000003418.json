@@ -1,0 +1,105 @@
+{
+  "antenna_id": "161166",
+  "address": "ΝΕΑ ΜΕΣΑΓΓΑΛΑ - Τ.Κ. ΑΙΓΑΝΗΣ",
+  "position_code": 1290117,
+  "municipality": "Τεμπών",
+  "code_name": "ΝΕΑ ΜΕΣΑΓΓΑΛΑ",
+  "region": "Θεσσαλίας",
+  "latitude": 39.950833,
+  "company": "NOVA Μ.Α.Ε.",
+  "longitude": 22.709167,
+  "permit_status": "Από τα στοιχεία που τηρούνται στην Ενημερωτική Πύλη προκύπτει ότι, για τη θέση \"ΝΕΑ ΜΕΣΑΓΓΑΛΑ - Τ.Κ. ΑΙΓΑΝΗΣ\" στον Δήμο Τεμπών Περιφέρειας  Θεσσαλίας \n\t(κωδικός αριθμός θέσης 1290117, κωδική ονομασία \"ΝΕΑ ΜΕΣΑΓΓΑΛΑ\") χορηγήθηκε, με την Απόφαση της ΕΕΤΤ \n45342/30-09-2022, άδεια κατασκευής κεραίας στην εταιρία NOVA Μ.Α.Ε.. \nΑπό τo έγγραφο της άδειας μπορείτε να ενημερωθείτε για τις σχετικές εγκρίσεις των συναρμόδιων φορέων, καθώς και εάν πρόκειται για τροποποίηση παλαιότερης άδειας.",
+  "measurements_eaee": "-",
+  "documents": [
+    {
+      "document_number": "446692/24-11-2021",
+      "protocol_number": "ΣΥΝΗΜΜΕΝΟΣ ΜΕ ΤΗΝ ΚΑΤΑΘΕΣΗ ΣΤΗΝ ΥΠΑ/",
+      "type": "Απόσπασμα Χάρτη ΓΥΣ 1:50.000",
+      "file_url": "https://silia.eett.gr/silia/download/df8e5584-2a70-426a-9816-77de436eb197"
+    },
+    {
+      "document_number": "446693/24-11-2021",
+      "protocol_number": "ΣΥΝΗΜΜΕΝΗ ΜΕ ΤΗΝ ΚΑΤΑΘΕΣΗ ΣΤΗΝ ΕΕΑΕ/17-11-2021",
+      "type": "Αίτηση - Μελέτη Ραδιοεκπομπών ΕΕΑΕ",
+      "file_url": "https://silia.eett.gr/silia/download/e2a884ff-0118-4288-a283-359609e17db2"
+    },
+    {
+      "document_number": "446694/24-11-2021",
+      "protocol_number": "ΣΥΝΗΜΜΕΝΑ  ΜΕ ΤΗΝ ΚΑΤΑΘΕΣΗ ΣΤΗΝ ΕΕΑΕ/",
+      "type": "Αρχιτεκτονικά Σχέδια",
+      "file_url": "https://silia.eett.gr/silia/download/dd60d9c7-254a-49a5-95b3-ec489c4c44a6"
+    },
+    {
+      "document_number": "446695/24-11-2021",
+      "protocol_number": "ΣΥΝΗΜΜΕΝΟ ΜΕ ΤΗΝ ΚΑΤΑΘΕΣΗ ΣΤΗΝ ΕΕΑΕ/",
+      "type": "Τοπογραφικό",
+      "file_url": "https://silia.eett.gr/silia/download/9bca78cf-c5ce-47e1-b034-15e5ce35fd69"
+    },
+    {
+      "document_number": "446712/24-11-2021",
+      "protocol_number": "ΣΥΝΗΜΜΕΝΗ ΜΕ ΤΗΝ ΚΑΤΑΘΕΣΗ ΣΤΗΝ ΕΕΤΤ/24-11-2021",
+      "type": "Βεβαίωση πολιτικού μηχανικού",
+      "file_url": "https://silia.eett.gr/silia/download/092fbb84-9365-4a3f-be36-badbd4a8be09"
+    },
+    {
+      "document_number": "450402/02-02-2022",
+      "protocol_number": "Αρχείο Αίτησης/",
+      "type": "Αίτηση Άδειας Κατασκευής Κεραίας ΕΕΤΤ",
+      "file_url": "https://silia.eett.gr/silia/download/cbab093f-cc0a-4a0e-bc05-8f5207240767"
+    },
+    {
+      "document_number": "458615/05-05-2022",
+      "protocol_number": "ΚΓ/Δ3/Δ/11156/",
+      "type": "Γνωμάτευση ΥΠΑ",
+      "file_url": null
+    },
+    {
+      "document_number": "458616/05-05-2022",
+      "protocol_number": "ΚΓ/Δ3/Δ/11156/4-5-2022/04-05-2022",
+      "type": "Γνωμάτευση ΥΠΑ",
+      "file_url": "https://silia.eett.gr/silia/download/328be458-33a3-474e-842c-28ca4ea90594"
+    },
+    {
+      "document_number": "460974/06-06-2022",
+      "protocol_number": "Μ.ι./411/8462/2022/06-06-2022",
+      "type": "Γνωμάτευση ΕΕΑΕ",
+      "file_url": "https://silia.eett.gr/silia/download/da9efd05-07ef-4a4e-a846-1086f6a0a8a7"
+    },
+    {
+      "document_number": "468833/30-09-2022",
+      "protocol_number": "45342/30-09-2022",
+      "type": "Άδεια Κατασκευής  Κεραίας",
+      "file_url": "https://silia.eett.gr/silia/download/643dba3e-e517-42cb-b80d-cd0b3a484932"
+    },
+    {
+      "document_number": "464820/27-07-2022",
+      "protocol_number": "Μ.ι./411/8462/2022/06-06-2022",
+      "type": "Γνωμάτευση ΕΕΑΕ",
+      "file_url": "https://silia.eett.gr/silia/download/da9efd05-07ef-4a4e-a846-1086f6a0a8a7"
+    },
+    {
+      "document_number": "464821/27-07-2022",
+      "protocol_number": "117857/07-04-2021",
+      "type": "Έγκριση Αρμοδίου Φορέα",
+      "file_url": "https://silia.eett.gr/silia/download/e7d734f6-4f05-4e3e-afec-e06f8ab616b4"
+    },
+    {
+      "document_number": "464822/27-07-2022",
+      "protocol_number": "118845/26-03-2021",
+      "type": "Γνωμοδότηση Υπηρεσίας Νεωτέρων Μνημείων",
+      "file_url": "https://silia.eett.gr/silia/download/d7d3debe-2ea2-45c0-be7b-3a5f0f587312"
+    },
+    {
+      "document_number": "464823/27-07-2022",
+      "protocol_number": "299826 ΟΡΘΗ ΕΠΑΝΑΛΗΨΗ/19-07-2022",
+      "type": "Ειδική Οικολογική Αξιολόγηση",
+      "file_url": "https://silia.eett.gr/silia/download/17176667-f2cd-4835-bbaf-bf2508247ae1"
+    },
+    {
+      "document_number": "464824/27-07-2022",
+      "protocol_number": "Αρχείο Αίτησης/",
+      "type": "Δήλωση ΠΠΔ",
+      "file_url": "https://silia.eett.gr/silia/download/e5882d0a-1f3d-48f3-b547-e712ba948599"
+    }
+  ]
+}

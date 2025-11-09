@@ -1,0 +1,87 @@
+{
+  "antenna_id": "166134",
+  "address": "ΤΡΙΠΟΛΕΩΣ 3",
+  "position_code": 1405790,
+  "municipality": "Αγίου Δημητρίου",
+  "code_name": "SARONIKOS",
+  "region": "Αττικής",
+  "latitude": 37.929722,
+  "company": "OTE",
+  "longitude": 23.725833,
+  "permit_status": "Από τα στοιχεία που τηρούνται στην Ενημερωτική Πύλη προκύπτει ότι, για τη θέση \"ΤΡΙΠΟΛΕΩΣ 3\" στον Δήμο Αγίου Δημητρίου Περιφέρειας  Αττικής \n\t(κωδικός αριθμός θέσης 1405790, κωδική ονομασία \"SARONIKOS\") χορηγήθηκε, με την Απόφαση της ΕΕΤΤ \n47484/10-03-2023, άδεια κατασκευής κεραίας στην εταιρία OTE. \nΑπό τo έγγραφο της άδειας μπορείτε να ενημερωθείτε για τις σχετικές εγκρίσεις των συναρμόδιων φορέων, καθώς και εάν πρόκειται για τροποποίηση παλαιότερης άδειας.\n\tΣύμφωνα με τα στοιχεία που έχουν υποβληθεί στο ΣΗΛΥΑ, ο κάτοχος της κατασκευής κεραίας έχει δηλώσει ότι θα προβεί σε έκδοση έγκρισης δομικών κατασκευών \n\t\tκεραίας μέσω του e-Άδειες \n\t\tμετά την έκδοση της άδειας κατασκευής κεραίας / δημοσιοποίηση της δήλωσης τροποποίησης της κατασκευής κεραίας",
+  "measurements_eaee": "-",
+  "documents": [
+    {
+      "document_number": "472083/09-11-2022",
+      "protocol_number": "ΜΕΣΩ ΣΗΛΥΑ    /",
+      "type": "Τοπογραφικό",
+      "file_url": "https://silia.eett.gr/silia/download/edd13d2a-9f23-480b-93a7-16de77f0c602"
+    },
+    {
+      "document_number": "472084/09-11-2022",
+      "protocol_number": "ΜΕΣΩ ΣΗΛΥΑ    /",
+      "type": "Αρχιτεκτονικά Σχέδια",
+      "file_url": "https://silia.eett.gr/silia/download/3e2471cb-03de-4c4f-b0ea-8d9bc306c2d2"
+    },
+    {
+      "document_number": "472085/09-11-2022",
+      "protocol_number": "ΜΕΣΩ ΣΗΛΥΑ    /22-10-2021",
+      "type": "Αίτηση - Μελέτη Ραδιοεκπομπών ΕΕΑΕ",
+      "file_url": "https://silia.eett.gr/silia/download/f150902c-1709-4ffc-8a38-0f1b99fe0716"
+    },
+    {
+      "document_number": "472086/09-11-2022",
+      "protocol_number": "EMC/24-10-2022",
+      "type": "Αποτελέσματα μελέτης στη ζώνης 2.6GHz για ΥΠΑ/ΓΕΕΘΑ",
+      "file_url": "https://silia.eett.gr/silia/download/acb90be2-bd4e-4142-8d37-5b64743a0cbf"
+    },
+    {
+      "document_number": "472087/09-11-2022",
+      "protocol_number": "120715/08-11-2021",
+      "type": "Επιστολή Ενημέρωσης προς Αρμόδιο Φορέα",
+      "file_url": "https://silia.eett.gr/silia/download/d89c822c-2103-409a-ae3a-9bd374fe5d5d"
+    },
+    {
+      "document_number": "472088/09-11-2022",
+      "protocol_number": "Δ3/Δ/22879/5562/28-07-2011",
+      "type": "Γνωμάτευση ΥΠΑ",
+      "file_url": "https://silia.eett.gr/silia/download/c0e6652b-a9f1-46ac-b2e4-dc9f404bdb25"
+    },
+    {
+      "document_number": "472089/09-11-2022",
+      "protocol_number": "ΜΕΣΩ ΣΗΛΥΑ    /09-11-2022",
+      "type": "Αίτηση ΥΠΑ",
+      "file_url": "https://silia.eett.gr/silia/download/ccc569c2-b46c-4e5d-b01d-07e5b3bf6079"
+    },
+    {
+      "document_number": "472090/09-11-2022",
+      "protocol_number": "Αρχείο Αίτησης/",
+      "type": "Αίτηση Άδειας Κατασκευής Κεραίας ΕΕΤΤ",
+      "file_url": "https://silia.eett.gr/silia/download/93722f45-ba2c-4ea0-9f70-595fcd2e0110"
+    },
+    {
+      "document_number": "479212/01-03-2023",
+      "protocol_number": "ΤΜΙΑ/411/2958/2023/01-03-2023",
+      "type": "Γνωμάτευση ΕΕΑΕ",
+      "file_url": "https://silia.eett.gr/silia/download/365d0655-3be9-4520-aef6-6730bce1cd5d"
+    },
+    {
+      "document_number": "480101/13-03-2023",
+      "protocol_number": "47484/10-03-2023",
+      "type": "Άδεια Κατασκευής  Κεραίας",
+      "file_url": "https://silia.eett.gr/silia/download/01921dac-316c-44e9-b375-e29854a31f20"
+    },
+    {
+      "document_number": "472082/09-11-2022",
+      "protocol_number": "ΣΥΝΟΔΕΥΤΙΚΑ ΕΓΓΡΑΦΑ/",
+      "type": "Δήλωση υπαγωγής σε ΠΠΔ και Συνοδευτικά Έγγραφα",
+      "file_url": "https://silia.eett.gr/silia/download/d7874280-0b4e-45a1-ade7-be947394f1a0"
+    },
+    {
+      "document_number": "472091/09-11-2022",
+      "protocol_number": "Αρχείο Αίτησης/",
+      "type": "Δήλωση ΠΠΔ",
+      "file_url": "https://silia.eett.gr/silia/download/2b194800-fb92-4116-be4a-5b8f2a5c77b2"
+    }
+  ]
+}

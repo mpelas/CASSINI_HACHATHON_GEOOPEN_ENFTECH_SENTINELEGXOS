@@ -1,0 +1,39 @@
+{
+  "antenna_id": "152517",
+  "address": "Μεσόπυργος, Δήμος Γ. Καραϊσκάκη, Π.Ε. Άρτας, Περιφέρεια Ηπείρου",
+  "position_code": 3207191,
+  "municipality": "Γεωργίου Καραϊσκάκη",
+  "code_name": "ΜΕΣΟΠΥΡΓΟΣ-Δ",
+  "region": "Ηπείρου",
+  "latitude": 39.191667,
+  "company": "ΕΡΤ ΑΕ",
+  "longitude": 21.339167,
+  "permit_status": "Από τα στοιχεία που τηρούνται στην Ενημερωτική Πύλη προκύπτει ότι για τη  θέση \"Μεσόπυργος, Δήμος Γ. Καραϊσκάκη, Π.Ε. Άρτας, Περιφέρεια Ηπείρου\" στον Δήμο Γεωργίου Καραϊσκάκη Περιφέρειας  Ηπείρου έχει κατατεθεί από την εταιρία ΕΡΤ ΑΕ δήλωση δομικών κατασκευών κεραιών  \nμε αριθ. πρωτ. ΣΗΛΥΑ 38145/09-04-2020 κατά τα οριζόμενα στην παρ. 7 του άρθρου 34 του Ν.4635/2019.",
+  "measurements_eaee": "-",
+  "documents": [
+    {
+      "document_number": "400166/26-03-2020",
+      "protocol_number": "δορυφορική λήψη και στοιχεία δομικών κατασκευών/",
+      "type": "Άλλο",
+      "file_url": "https://silia.eett.gr/silia/download/51d780cd-33de-4ce6-84ec-1fa19e9dca7d"
+    },
+    {
+      "document_number": "400443/29-03-2020",
+      "protocol_number": "απογραφή 1987/",
+      "type": "Άλλο",
+      "file_url": "https://silia.eett.gr/silia/download/842e9fa5-2ba3-4d7c-acc7-eaccb73bde76"
+    },
+    {
+      "document_number": "400444/29-03-2020",
+      "protocol_number": "πίνακας 49 απογραφής ΕΡΤ 1987/",
+      "type": "Άλλο",
+      "file_url": "https://silia.eett.gr/silia/download/7abec9e1-72b2-441a-bc3e-6304cdf9aa5f"
+    },
+    {
+      "document_number": "401814/09-04-2020",
+      "protocol_number": "Αρχείο Αίτησης/",
+      "type": "Δήλωση Δομικών ΕΡΤ",
+      "file_url": "https://silia.eett.gr/silia/download/2c0a42ca-4295-49ee-8cb3-fc56b182a101"
+    }
+  ]
+}

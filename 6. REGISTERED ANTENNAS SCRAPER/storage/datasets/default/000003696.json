@@ -1,0 +1,33 @@
+{
+  "antenna_id": "158252",
+  "address": "ΑΒΑΝΤΩΝ 29, ΧΑΛΚΙΔA.",
+  "position_code": 1144138,
+  "municipality": "Χαλκιδέων",
+  "code_name": "MAKALDI CHALKIDA",
+  "region": "Στερεάς Ελλάδας",
+  "latitude": 38.465833,
+  "company": "VODAFONE",
+  "longitude": 23.595556,
+  "permit_status": "Από τα στοιχεία που τηρούνται στην Ενημερωτική Πύλη προκύπτει ότι, για τη θέση \"ΑΒΑΝΤΩΝ 29, ΧΑΛΚΙΔA.\" στον Δήμο Χαλκιδέων Περιφέρειας  Στερεάς Ελλάδας \n\t(κωδικός αριθμός θέσης 1144138, κωδική ονομασία \"MAKALDI CHALKIDA\") έχει κατατεθεί από την εταιρία VODAFONE\tδήλωση εγκατάστασης κατασκευής κεραίας (αριθ. πρωτ. \n\t45729/30-11-2021) που εμπίπτει στις διατάξεις της νομοθεσίας για Εγκαταστάσεις Κατασκευών Κεραιών Χαμηλής Ηλεκτρομαγνητικής Περιβαλλοντικής Όχλησης (ΕΚΚΧΟ).",
+  "measurements_eaee": "-",
+  "documents": [
+    {
+      "document_number": "447128/30-11-2021",
+      "protocol_number": "Φωτογραφία θέσης ΕΚΚΧΟ από Google Earth/",
+      "type": "Φωτογραφικό Υλικό - Σκαρίφημα",
+      "file_url": "https://silia.eett.gr/silia/download/6c8495b6-03e4-4fc7-9784-b9a016c86d9b"
+    },
+    {
+      "document_number": "447129/30-11-2021",
+      "protocol_number": "ΣΚΑΡΙΦΗΜΑ ΘΕΣΗΣ ΙΣΤΟΥ ΕΚΚΧΟ - ΟΨΗ ΚΕΡΑΙΑΣ/",
+      "type": "Φωτογραφικό Υλικό - Σκαρίφημα",
+      "file_url": "https://silia.eett.gr/silia/download/d34d11a4-1503-4799-91f6-97c54cf2cf59"
+    },
+    {
+      "document_number": "447130/30-11-2021",
+      "protocol_number": "Αρχείο Αίτησης/",
+      "type": "Δήλωση ΕΚΚΧΟ",
+      "file_url": "https://silia.eett.gr/silia/download/8885ff2a-1bb6-468e-a6db-d67dab19d69b"
+    }
+  ]
+}

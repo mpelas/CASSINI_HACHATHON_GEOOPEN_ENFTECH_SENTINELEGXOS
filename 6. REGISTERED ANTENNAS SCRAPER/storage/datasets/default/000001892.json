@@ -1,0 +1,39 @@
+{
+  "antenna_id": "177298",
+  "address": "ΛΕΩΦΟΡΟΣ ΙΚΑΡΟΥ 91, ΝΕΑ ΑΛΙΚΑΡΝΑΣΣΟΣ, ΗΡΑΚΛΕΙΟΥ",
+  "position_code": 1495305,
+  "municipality": "Ηρακλείου Κρήτης",
+  "code_name": "ETE_NEA_ALIK_HER",
+  "region": "Κρήτης",
+  "latitude": 35.337778,
+  "company": "OTE",
+  "longitude": 25.163889,
+  "permit_status": "Από τα στοιχεία που τηρούνται στην Ενημερωτική Πύλη προκύπτει ότι, για τη θέση \"ΛΕΩΦΟΡΟΣ ΙΚΑΡΟΥ 91, ΝΕΑ ΑΛΙΚΑΡΝΑΣΣΟΣ, ΗΡΑΚΛΕΙΟΥ\" στον Δήμο Ηρακλείου Κρήτης Περιφέρειας  Κρήτης \n\t(κωδικός αριθμός θέσης 1495305, κωδική ονομασία \"ETE_NEA_ALIK_HER\") έχει κατατεθεί από την εταιρία OTE\tδήλωση εγκατάστασης κατασκευής κεραίας (αριθ. πρωτ. \n\t59913/14-03-2025) που εμπίπτει στις διατάξεις της νομοθεσίας για Εγκαταστάσεις Κατασκευών Κεραιών Χαμηλής Ηλεκτρομαγνητικής Περιβαλλοντικής Όχλησης (ΕΚΚΧΟ).",
+  "measurements_eaee": "-",
+  "documents": [
+    {
+      "document_number": "538502/21-01-2025",
+      "protocol_number": "ΦΩΤΟΓΡΑΦΙΑ/21-01-2025",
+      "type": "Φωτογραφικό Υλικό - Σκαρίφημα",
+      "file_url": "https://silia.eett.gr/silia/download/gaSPYx8vqLOW1ZwBfv5v4b9SG2iQGb9d1Byl"
+    },
+    {
+      "document_number": "543258/10-03-2025",
+      "protocol_number": "ΜΕΛΕΤΗ/10-03-2025",
+      "type": "Αίτηση - Μελέτη Ραδιοεκπομπών ΕΕΑΕ",
+      "file_url": "https://silia.eett.gr/silia/download/1gVZKgL0Xmoa0GEBYBWbUBRecYi4Sn2a2TZq"
+    },
+    {
+      "document_number": "543863/14-03-2025",
+      "protocol_number": "ΧΑΡΤΗΣ/14-03-2025",
+      "type": "Φωτογραφικό Υλικό - Σκαρίφημα",
+      "file_url": "https://silia.eett.gr/silia/download/ELrxOFzTGoOzL07uwrhelNgDGZToKPou5WLg"
+    },
+    {
+      "document_number": "543865/14-03-2025",
+      "protocol_number": "Αρχείο Αίτησης/14-03-2025",
+      "type": "Δήλωση ΕΚΚΧΟ",
+      "file_url": "https://silia.eett.gr/silia/download/ryZTkkZmpd8q9bRSYsOulO5Z9oIdfN4HCF2a"
+    }
+  ]
+}

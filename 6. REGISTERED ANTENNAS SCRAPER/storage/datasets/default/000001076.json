@@ -1,0 +1,87 @@
+{
+  "antenna_id": "173004",
+  "address": "ΑΝΑΠΑΥΣΕΩΣ 35",
+  "position_code": 1404731,
+  "municipality": "Βόλου",
+  "code_name": "ANAPAFSEOS",
+  "region": "Θεσσαλίας",
+  "latitude": 39.374167,
+  "company": "OTE",
+  "longitude": 22.938889,
+  "permit_status": "Από τα στοιχεία που τηρούνται στην Ενημερωτική Πύλη προκύπτει ότι, για τη θέση \"ΑΝΑΠΑΥΣΕΩΣ 35\" στον Δήμο Βόλου Περιφέρειας  Θεσσαλίας \n\t(κωδικός αριθμός θέσης 1404731, κωδική ονομασία \"ANAPAFSEOS\") χορηγήθηκε, με την Απόφαση της ΕΕΤΤ \n51131/28-06-2024, άδεια κατασκευής κεραίας στην εταιρία OTE. \nΑπό τo έγγραφο της άδειας μπορείτε να ενημερωθείτε για τις σχετικές εγκρίσεις των συναρμόδιων φορέων, καθώς και εάν πρόκειται για τροποποίηση παλαιότερης άδειας.\n\tΣύμφωνα με τα στοιχεία που έχουν υποβληθεί στο ΣΗΛΥΑ, ο κάτοχος της κατασκευής κεραίας έχει δηλώσει ότι θα προβεί σε έκδοση έγκρισης δομικών κατασκευών \n\t\tκεραίας μέσω του e-Άδειες \n\t\tμετά την έκδοση της άδειας κατασκευής κεραίας / δημοσιοποίηση της δήλωσης τροποποίησης της κατασκευής κεραίας",
+  "measurements_eaee": "-",
+  "documents": [
+    {
+      "document_number": "513419/18-04-2024",
+      "protocol_number": "ΑΡΧΙΤΕΚΤΟΝΙΚΑ/18-04-2024",
+      "type": "Αρχιτεκτονικά Σχέδια",
+      "file_url": "https://silia.eett.gr/silia/download/LeqHpIgXCsay9t6efUdWPfb4CVduGX5lbM1A"
+    },
+    {
+      "document_number": "513420/18-04-2024",
+      "protocol_number": "ΜΕΛΕΤΗ Ρ/Ε/22-02-2024",
+      "type": "Αίτηση - Μελέτη Ραδιοεκπομπών ΕΕΑΕ",
+      "file_url": "https://silia.eett.gr/silia/download/kMQeRrkGORf5wBI284obDPgUbRksbQBWIYCs"
+    },
+    {
+      "document_number": "513421/18-04-2024",
+      "protocol_number": "25882/27-02-2024",
+      "type": "Επιστολή Ενημέρωσης προς Αρμόδιο Φορέα",
+      "file_url": "https://silia.eett.gr/silia/download/3p3UGe3sxxGLOUu1EIB8An0tBblsmGGuGZ5z"
+    },
+    {
+      "document_number": "513422/18-04-2024",
+      "protocol_number": "ΑΝΑΚΟΙΝΩΣΗ ΓΕΜΗ/18-04-2024",
+      "type": "Άλλο",
+      "file_url": "https://silia.eett.gr/silia/download/VnSTMP756ks2gyGYWVEAYx3qf4MLkLvePgZp"
+    },
+    {
+      "document_number": "513486/19-04-2024",
+      "protocol_number": "ΤΟΠΟΓΡΑΦΙΚΟ/19-04-2024",
+      "type": "Τοπογραφικό",
+      "file_url": "https://silia.eett.gr/silia/download/55c0EhxDykopgtGZSW10Q5Py03kLmfTasyPX"
+    },
+    {
+      "document_number": "513487/19-04-2024",
+      "protocol_number": "Αρχείο Αίτησης/19-04-2024",
+      "type": "Αίτηση Άδειας Κατασκευής Κεραίας ΕΕΤΤ",
+      "file_url": "https://silia.eett.gr/silia/download/GqH9X1AbqbRYofDaeIYLmK0ZI0FyCgabnDhK"
+    },
+    {
+      "document_number": "515477/21-05-2024",
+      "protocol_number": "μέσω σηλυα/21-05-2024",
+      "type": "Αίτηση - Μελέτη Ραδιοεκπομπών ΕΕΑΕ",
+      "file_url": "https://silia.eett.gr/silia/download/bxhNPRvr9gVSvkGPVf7sGfrsRzfrnkOnTCVh"
+    },
+    {
+      "document_number": "515533/22-05-2024",
+      "protocol_number": "ΚΓ/Δ3/Δ/10011/22-05-2024",
+      "type": "Γνωμάτευση ΥΠΑ",
+      "file_url": "https://silia.eett.gr/silia/download/274KguvAANk2m2KNG7WWGywCA0bYM8cZ3FVU"
+    },
+    {
+      "document_number": "515580/22-05-2024",
+      "protocol_number": "TMIA/411/7156/2024/22-05-2024",
+      "type": "Γνωμάτευση ΕΕΑΕ",
+      "file_url": "https://silia.eett.gr/silia/download/kkk22ylykkuspq3GYe8SmfNPPgWfrWLXDRSI"
+    },
+    {
+      "document_number": "519402/02-07-2024",
+      "protocol_number": "51131/28-06-2024",
+      "type": "Άδεια Κατασκευής  Κεραίας",
+      "file_url": "https://silia.eett.gr/silia/download/ZgvyHY6WYEMoqg0xgQQN9hReg2QVBooeGQN8"
+    },
+    {
+      "document_number": "512543/09-04-2024",
+      "protocol_number": "ΠΠΔ/09-04-2024",
+      "type": "Δήλωση υπαγωγής σε ΠΠΔ και Συνοδευτικά Έγγραφα",
+      "file_url": "https://silia.eett.gr/silia/download/oCmyGSB737FYxOnuxgEit5hGuW0z2RpVPpcV"
+    },
+    {
+      "document_number": "513489/19-04-2024",
+      "protocol_number": "Αρχείο Αίτησης/19-04-2024",
+      "type": "Δήλωση ΠΠΔ",
+      "file_url": "https://silia.eett.gr/silia/download/Ky2qyv3DGI1S9Z80rs4mcVhw32dEvfyLdlsg"
+    }
+  ]
+}

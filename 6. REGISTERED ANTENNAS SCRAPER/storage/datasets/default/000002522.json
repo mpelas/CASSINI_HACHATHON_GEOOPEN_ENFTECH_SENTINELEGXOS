@@ -1,0 +1,105 @@
+{
+  "antenna_id": "134943",
+  "address": "ΜΠΟΥΜΠΟΥΛΙΝΑΣ 10 & ΜΙΑΟΥΛΗ, ΔΗΜΟΤΙΚΗ ΕΝΟΤΗΤΑ ΠΑΤΡΕΩΝ",
+  "position_code": 1204233,
+  "municipality": "Πατρέων",
+  "code_name": "ΠΑΤΡΑ PORT",
+  "region": "Δυτικής Ελλάδας",
+  "latitude": 38.245278,
+  "company": "NOVA Μ.Α.Ε.",
+  "longitude": 21.729444,
+  "permit_status": "Από τα στοιχεία που τηρούνται στην Ενημερωτική Πύλη προκύπτει ότι, για τη θέση \"ΜΠΟΥΜΠΟΥΛΙΝΑΣ 10 & ΜΙΑΟΥΛΗ, ΔΗΜΟΤΙΚΗ ΕΝΟΤΗΤΑ ΠΑΤΡΕΩΝ\" στον Δήμο Πατρέων Περιφέρειας  Δυτικής Ελλάδας \n\t(κωδικός αριθμός θέσης 1204233, κωδική ονομασία \"ΠΑΤΡΑ PORT\") χορηγήθηκε, με την Απόφαση της ΕΕΤΤ \n31673/Φ610/26-02-2019, άδεια κατασκευής κεραίας στην εταιρία NOVA Μ.Α.Ε.. \nΑπό τo έγγραφο της άδειας μπορείτε να ενημερωθείτε για τις σχετικές εγκρίσεις των συναρμόδιων φορέων, καθώς και εάν πρόκειται για τροποποίηση παλαιότερης άδειας.\nΗ άδεια χορηγήθηκε, κατόπιν της με Αριθ. Πρωτ. 29244/26-09-2018 αίτησης, \n\tμε τη διαδικασία αδειοδότησης της παρ. 17 του άρθρου 30 του Ν.4070/2012 που πλέον έχει αντικατασταθεί από τη διαδικασία που ορίζει ο ν. 4635/2019.\n\tΣύμφωνα με τα στοιχεία που έχουν υποβληθεί στο ΣΗΛΥΑ για την κατασκευή κεραίας από τον κάτοχό της, έχει εκδοθεί έγκριση δομικών κατασκευών κεραίας",
+  "measurements_eaee": "-",
+  "documents": [
+    {
+      "document_number": "342226/26-09-2018",
+      "protocol_number": "28406/Φ615/18-06-2018",
+      "type": "Χορήγηση Δικαιώματος Χρήσης Ραδιοσυχνοτήτων",
+      "file_url": null
+    },
+    {
+      "document_number": "342227/26-09-2018",
+      "protocol_number": "Δ3/Δ/13809/3287/18-06-2007",
+      "type": "Γνωμάτευση ΥΠΑ",
+      "file_url": "https://silia.eett.gr/silia/download/1ec580b7-bbd1-46a9-b34b-961dae3d8922"
+    },
+    {
+      "document_number": "342228/26-09-2018",
+      "protocol_number": "ΜΕΛΕΤΗ ΡΑΔΙΟΕΚΠΟΜΠΩΝ/25-09-2018",
+      "type": "Αίτηση - Μελέτη Ραδιοεκπομπών ΕΕΑΕ",
+      "file_url": "https://silia.eett.gr/silia/download/6afcf34f-c50b-490b-946c-2b0ef0ff5bfe"
+    },
+    {
+      "document_number": "342229/26-09-2018",
+      "protocol_number": "ΤΟΠΟΓΡΑΦΙΚΟ & ΑΡΧΙΤΕΚΤΟΝΙΚΑ/",
+      "type": "Αρχιτεκτονικά Σχέδια",
+      "file_url": "https://silia.eett.gr/silia/download/37f78c69-7c19-4278-972d-522952b69c80"
+    },
+    {
+      "document_number": "342230/26-09-2018",
+      "protocol_number": "ΜΕΛΕΤΗ ΥΠΟΒΑΘΡΟΥ/25-09-2018",
+      "type": "Αίτηση - Μελέτη Ραδιοεκπομπών ΕΕΑΕ (υποβάθρου)",
+      "file_url": "https://silia.eett.gr/silia/download/692c74fd-bfa7-4bff-88e2-b13c7f7dede7"
+    },
+    {
+      "document_number": "342231/26-09-2018",
+      "protocol_number": "ΧΧΓ  /",
+      "type": "Χάρτης Ευαίσθητων Χρήσεων Γης",
+      "file_url": "https://silia.eett.gr/silia/download/176b96a8-78f0-413b-8f7b-2d0166ca17e9"
+    },
+    {
+      "document_number": "342235/26-09-2018",
+      "protocol_number": "Αρχείο Αίτησης/",
+      "type": "Αίτηση Άδειας Κατασκευής Κεραίας ΕΕΤΤ",
+      "file_url": "https://silia.eett.gr/silia/download/a37aa1e0-275b-4e29-a422-6dc816ba5125"
+    },
+    {
+      "document_number": "350317/23-11-2018",
+      "protocol_number": "69442/Π11552/3623/21-11-2018",
+      "type": "Έγκριση δομικών κατασκευών (έντυπη)",
+      "file_url": "https://silia.eett.gr/silia/download/1a88e0c3-9085-41a9-b80a-0452bc7f57a1"
+    },
+    {
+      "document_number": "355583/29-01-2019",
+      "protocol_number": "Μ.ι./411/1560/2019/29-01-2019",
+      "type": "Γνωμάτευση ΕΕΑΕ",
+      "file_url": "https://silia.eett.gr/silia/download/3a0296d7-27db-444e-9fb2-f8760e90d270"
+    },
+    {
+      "document_number": "360018/05-03-2019",
+      "protocol_number": "31673/Φ610/26-02-2019",
+      "type": "Άδεια Κατασκευής  Κεραίας",
+      "file_url": "https://silia.eett.gr/silia/download/915734e7-3c81-4c0f-96c4-74cb2ff8da2c"
+    },
+    {
+      "document_number": "350317/23-11-2018",
+      "protocol_number": "69442/Π11552/3623/21-11-2018",
+      "type": "Έγκριση δομικών κατασκευών (έντυπη)",
+      "file_url": "https://silia.eett.gr/silia/download/1a88e0c3-9085-41a9-b80a-0452bc7f57a1"
+    },
+    {
+      "document_number": "342232/26-09-2018",
+      "protocol_number": "ΜΕΛΕΤΗ ΡΑΔΙΟΕΚΠΟΜΠΩΝ/25-09-2018",
+      "type": "Αίτηση - Μελέτη Ραδιοεκπομπών ΕΕΑΕ",
+      "file_url": "https://silia.eett.gr/silia/download/6afcf34f-c50b-490b-946c-2b0ef0ff5bfe"
+    },
+    {
+      "document_number": "342233/26-09-2018",
+      "protocol_number": "ΜΕΛΕΤΗ ΥΠΟΒΑΘΡΟΥ/25-09-2018",
+      "type": "Αίτηση - Μελέτη Ραδιοεκπομπών ΕΕΑΕ (υποβάθρου)",
+      "file_url": "https://silia.eett.gr/silia/download/692c74fd-bfa7-4bff-88e2-b13c7f7dede7"
+    },
+    {
+      "document_number": "342234/26-09-2018",
+      "protocol_number": "ΧΧΓ  /",
+      "type": "Χάρτης Ευαίσθητων Χρήσεων Γης",
+      "file_url": "https://silia.eett.gr/silia/download/176b96a8-78f0-413b-8f7b-2d0166ca17e9"
+    },
+    {
+      "document_number": "342236/26-09-2018",
+      "protocol_number": "Αρχείο Αίτησης/",
+      "type": "Δήλωση ΠΠΔ",
+      "file_url": "https://silia.eett.gr/silia/download/e1354483-3373-4c40-8eb2-e8d55420baa3"
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "antenna_id": "174093",
+  "address": "ΝΕΑ ΜΑΚΡΙΣΗ, ΔΟΜΟΚΟΥ",
+  "position_code": 1496649,
+  "municipality": "Δομοκού",
+  "code_name": "MIDAS_ENERGY_NEA_MAKRISI",
+  "region": "Στερεάς Ελλάδας",
+  "latitude": 39.065556,
+  "company": "OTE",
+  "longitude": 22.339722,
+  "permit_status": "Από τα στοιχεία που τηρούνται στην Ενημερωτική Πύλη προκύπτει ότι, για τη θέση \"ΝΕΑ ΜΑΚΡΙΣΗ, ΔΟΜΟΚΟΥ\" στον Δήμο Δομοκού Περιφέρειας  Στερεάς Ελλάδας \n\t(κωδικός αριθμός θέσης 1496649, κωδική ονομασία \"MIDAS_ENERGY_NEA_MAKRISI\") έχει κατατεθεί από την εταιρία OTE\tδήλωση εγκατάστασης κατασκευής κεραίας (αριθ. πρωτ. \n\t57840/17-10-2024) που εμπίπτει στις διατάξεις της νομοθεσίας για Εγκαταστάσεις Κατασκευών Κεραιών Χαμηλής Ηλεκτρομαγνητικής Περιβαλλοντικής Όχλησης (ΕΚΚΧΟ).",
+  "measurements_eaee": "-",
+  "documents": [
+    {
+      "document_number": "519119/28-06-2024",
+      "protocol_number": "ΦΩΤΟΓΡΑΦΙΑ/28-06-2024",
+      "type": "Φωτογραφικό Υλικό - Σκαρίφημα",
+      "file_url": "https://silia.eett.gr/silia/download/GsYfyGAADEzocrhiGn0LyrFoqb40dtrsIfNA"
+    },
+    {
+      "document_number": "528631/11-10-2024",
+      "protocol_number": "ΜΕΛΕΤΗ/11-10-2024",
+      "type": "Αίτηση - Μελέτη Ραδιοεκπομπών ΕΕΑΕ",
+      "file_url": "https://silia.eett.gr/silia/download/FxaeNQolYNKn9KtM2lg03DKuDKG3nz3h4YZ5"
+    },
+    {
+      "document_number": "529163/17-10-2024",
+      "protocol_number": "ΑΠΟΣΠΑΣΜΑ ΨΗΦΙΑΚΟΥ ΧΑΡΤΗ/17-10-2024",
+      "type": "Φωτογραφικό Υλικό - Σκαρίφημα",
+      "file_url": "https://silia.eett.gr/silia/download/tXhazK6AQWpmO7qYtCf4G1FkPK4tb2UAx1Tn"
+    },
+    {
+      "document_number": "529165/17-10-2024",
+      "protocol_number": "Αρχείο Αίτησης/17-10-2024",
+      "type": "Δήλωση ΕΚΚΧΟ",
+      "file_url": "https://silia.eett.gr/silia/download/Tdvs5wgOWE353yRg9xS7Upbb4dupS04usgXA"
+    },
+    {
+      "document_number": "538267/20-01-2025",
+      "protocol_number": "ΥΠ.ΔΗΛΩΣΗ/20-01-2025",
+      "type": "Άλλο",
+      "file_url": "https://silia.eett.gr/silia/download/osXDgtFg10q9g1nzKlZAscZB0ESp3k1HMaLW"
+    }
+  ]
+}

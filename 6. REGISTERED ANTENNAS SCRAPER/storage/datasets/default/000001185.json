@@ -1,0 +1,57 @@
+{
+  "antenna_id": "172624",
+  "address": "ΑΝΩ ΜΟΥΛΙΑ",
+  "position_code": 5000063,
+  "municipality": "Γόρτυνας",
+  "code_name": "ΜΟΥΛΙΑ-2",
+  "region": "Κρήτης",
+  "latitude": 35.107222,
+  "company": "ΡΑΔΙΟΦΩΝΙΚΟΣ ΣΤΑΘΜΟΣ CITY FM 100",
+  "longitude": 24.981111,
+  "permit_status": "Από τα στοιχεία που τηρούνται στην Ενημερωτική Πύλη προκύπτει ότι, για τη θέση \"ΑΝΩ ΜΟΥΛΙΑ\" στον Δήμο Γόρτυνας Περιφέρειας  Κρήτης \n\t(κωδικός αριθμός θέσης 5000063, κωδική ονομασία \"ΜΟΥΛΙΑ-2\") έχει κατατεθεί από την εταιρία ΡΑΔΙΟΦΩΝΙΚΟΣ ΣΤΑΘΜΟΣ CITY FM 100\tδήλωση εγκατάστασης κατασκευής κεραίας (αριθ. πρωτ. \n\t55169/13-03-2024) που εμπίπτει στις διατάξεις της νομοθεσίας για Εγκαταστάσεις Κατασκευών Κεραιών Χαμηλής Ηλεκτρομαγνητικής Περιβαλλοντικής Όχλησης (ΕΚΚΧΟ).",
+  "measurements_eaee": "-",
+  "documents": [
+    {
+      "document_number": "510168/13-03-2024",
+      "protocol_number": "ΚΑΤΟΨΗ ΜΟΥΛΙΑ-2 ΜΕ ΠΕΡΙΟΧΗ ΑΝΑΓΚΑΣΤΙΚΗΣ ΠΡΟΣΤΑΣΙΑΣ 2,5m/13-03-2024",
+      "type": "Αρχιτεκτονικά Σχέδια",
+      "file_url": "https://silia.eett.gr/silia/download/vYBdlsGBKGKLOy0ebP6dkg4149f01T0Y5oto"
+    },
+    {
+      "document_number": "510170/13-03-2024",
+      "protocol_number": "ΟΨΕΙΣ ΚΕΡΑΙΩΝ + ΠΕΡΙΟΧΗ ΑΝΑΓΚΑΣΤΙΚΗΣ ΠΡΟΣΤΑΣΙΑΣ ΜΟΥΛΙΑ-2/13-03-2024",
+      "type": "Αρχιτεκτονικά Σχέδια",
+      "file_url": "https://silia.eett.gr/silia/download/egqgMuRWAS4y8O01Cz0UiFIlzzuaVkgv8P2G"
+    },
+    {
+      "document_number": "510171/13-03-2024",
+      "protocol_number": "ΤΟΠΟΓΡΑΦΙΚΟ GOOGLE EARTH MOYΛΙΑ-2/13-03-2024",
+      "type": "Τοπογραφικό",
+      "file_url": "https://silia.eett.gr/silia/download/ie7dLAGGbGqfNROlWbxTgxqPwq6AkaEMn7mQ"
+    },
+    {
+      "document_number": "510172/13-03-2024",
+      "protocol_number": "ΦΩΤΟΡΕΑΛΙΣΤΙΚΗ ΑΠΕΙΚΟΝΙΣΗ ΟΨΗ ΜΟΥΛΙΑ-2/13-03-2024",
+      "type": "Άλλο",
+      "file_url": "https://silia.eett.gr/silia/download/XxfNeFFYKN61xLvNQO3olC21mGdCbkGMDvDU"
+    },
+    {
+      "document_number": "510173/13-03-2024",
+      "protocol_number": "ΜΕΛΕΤΗ ΕΚΚΧΟ ΣΥΜΦΩΝΑ με την KYA με αριθμ. 32661 ΕΞ 2022/13-03-2024",
+      "type": "Μελέτη Ραδιοεκπομπών",
+      "file_url": "https://silia.eett.gr/silia/download/XBhOqP1kPdw8XkEGCqG8sTm9pFKv5LppV5FS"
+    },
+    {
+      "document_number": "510174/13-03-2024",
+      "protocol_number": "ΟΨΕΙΣ ΚΕΡΑΙΩΝ ΜΟΥΛΙΑ-21/13-03-2024",
+      "type": "Αρχιτεκτονικά Σχέδια",
+      "file_url": "https://silia.eett.gr/silia/download/oNzzfx72gdMP39Ygr0gFrtL4ZvTSUskVNmIO"
+    },
+    {
+      "document_number": "510175/13-03-2024",
+      "protocol_number": "Αρχείο Αίτησης/13-03-2024",
+      "type": "Δήλωση ΕΚΚΧΟ",
+      "file_url": "https://silia.eett.gr/silia/download/q753dU0pGME7Vw7XcBAHeng1LGMhb7KfXTIs"
+    }
+  ]
+}

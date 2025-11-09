@@ -1,0 +1,51 @@
+{
+  "antenna_id": "173867",
+  "address": "ΑΛ. ΠΑΝΑΓΟΥΛΗ 40",
+  "position_code": 1275323,
+  "municipality": "Νέας Ιωνίας",
+  "code_name": "PLANET PHONES N. IONIA (K323)",
+  "region": "Αττικής",
+  "latitude": 38.047222,
+  "company": "NOVA Μ.Α.Ε.",
+  "longitude": 23.756389,
+  "permit_status": "Από τα στοιχεία που τηρούνται στην Ενημερωτική Πύλη προκύπτει ότι, για τη θέση \"ΑΛ. ΠΑΝΑΓΟΥΛΗ 40\" στον Δήμο Νέας Ιωνίας Περιφέρειας  Αττικής \n\t(κωδικός αριθμός θέσης 1275323, κωδική ονομασία \"PLANET PHONES N. IONIA (K323)\") έχει κατατεθεί από την εταιρία NOVA Μ.Α.Ε.\tδήλωση εγκατάστασης κατασκευής κεραίας (αριθ. πρωτ. \n\t56243/12-06-2024) που εμπίπτει στις διατάξεις της νομοθεσίας για Εγκαταστάσεις Κατασκευών Κεραιών Χαμηλής Ηλεκτρομαγνητικής Περιβαλλοντικής Όχλησης (ΕΚΚΧΟ).",
+  "measurements_eaee": "-",
+  "documents": [
+    {
+      "document_number": "517708/12-06-2024",
+      "protocol_number": "Φωτορεαλιστική απεικόνιση κεραίας ΕΚΚΧΟ/12-06-2024",
+      "type": "Φωτογραφικό Υλικό - Σκαρίφημα",
+      "file_url": "https://silia.eett.gr/silia/download/376sNL3HkPnBMXA5tYNknxupty1KuVLiFgho"
+    },
+    {
+      "document_number": "517709/12-06-2024",
+      "protocol_number": "Ψηφιακός χάρτης με προβολή της θέσης ΕΚΚΧΟ/12-06-2024",
+      "type": "Φωτογραφικό Υλικό - Σκαρίφημα",
+      "file_url": "https://silia.eett.gr/silia/download/m6I84slSBC4GEQFb4To0ReUPQwo7Go37xdKu"
+    },
+    {
+      "document_number": "517710/12-06-2024",
+      "protocol_number": "ΜΕΛΕΤΗ ΕΚΚΧΟ/12-06-2024",
+      "type": "Άλλο",
+      "file_url": "https://silia.eett.gr/silia/download/InrKZi61ZtG09w4QoKF06EBs9pEmH498UrsG"
+    },
+    {
+      "document_number": "517714/12-06-2024",
+      "protocol_number": "Σκαρίφημα με περιοχή απαγόρευσης/12-06-2024",
+      "type": "Φωτογραφικό Υλικό - Σκαρίφημα",
+      "file_url": "https://silia.eett.gr/silia/download/fNmBWXddlv8PxV2e2YS6yRozPZQghIPkLl5x"
+    },
+    {
+      "document_number": "517716/12-06-2024",
+      "protocol_number": "Αρχείο Αίτησης/12-06-2024",
+      "type": "Δήλωση ΕΚΚΧΟ",
+      "file_url": "https://silia.eett.gr/silia/download/7lFku3hlrEdSTGxVuKXSyZDVkq0HGEsBRwAb"
+    },
+    {
+      "document_number": "529056/16-10-2024",
+      "protocol_number": "ΥΔ ΕΓΚΑΤΑΣΤΑΣΗΣ/16-10-2024",
+      "type": "Άλλο",
+      "file_url": "https://silia.eett.gr/silia/download/7qhmOwh2RNILfOt12DxGd8UEu4VYB0KOTKgl"
+    }
+  ]
+}

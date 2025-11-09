@@ -1,0 +1,99 @@
+{
+  "antenna_id": "170046",
+  "address": "ΧΕΛΙΔΟΝΟΣ 18, Ο.Τ. 950",
+  "position_code": 1007204,
+  "municipality": "Αχαρνών",
+  "code_name": "ΕΥΔΑΠ ΑΧΑΡΝΕΣ",
+  "region": "Αττικής",
+  "latitude": 38.099167,
+  "company": "VODAFONE",
+  "longitude": 23.730833,
+  "permit_status": "Από τα στοιχεία που τηρούνται στην Ενημερωτική Πύλη προκύπτει ότι, για τη θέση \"ΧΕΛΙΔΟΝΟΣ 18, Ο.Τ. 950\" στον Δήμο Αχαρνών Περιφέρειας  Αττικής \n\t(κωδικός αριθμός θέσης 1007204, κωδική ονομασία \"ΕΥΔΑΠ ΑΧΑΡΝΕΣ\") χορηγήθηκε, με την Απόφαση της ΕΕΤΤ \n50536/01-02-2024, άδεια κατασκευής κεραίας στην εταιρία VODAFONE. \nΑπό τo έγγραφο της άδειας μπορείτε να ενημερωθείτε για τις σχετικές εγκρίσεις των συναρμόδιων φορέων, καθώς και εάν πρόκειται για τροποποίηση παλαιότερης άδειας.\n\tΣύμφωνα με τα στοιχεία που έχουν υποβληθεί στο ΣΗΛΥΑ, ο κάτοχος της κατασκευής κεραίας έχει δηλώσει ότι θα προβεί σε έκδοση έγκρισης δομικών κατασκευών \n\t\tκεραίας μέσω του e-Άδειες \n\t\tμετά την έκδοση της άδειας κατασκευής κεραίας / δημοσιοποίηση της δήλωσης τροποποίησης της κατασκευής κεραίας",
+  "measurements_eaee": "-",
+  "documents": [
+    {
+      "document_number": "495190/25-09-2023",
+      "protocol_number": "ΤΟΠΟΓΡΑΦΙΚΟ ΔΙΑΓΡΑΜΜΑ/",
+      "type": "Τοπογραφικό",
+      "file_url": "https://silia.eett.gr/silia/download/e29a4565-e205-4ab4-b5de-374f1b74f3a1"
+    },
+    {
+      "document_number": "495191/25-09-2023",
+      "protocol_number": "ΑΡΧΙΤΕΚΤΟΝΙΚΗ ΜΕΛΕΤΗ/",
+      "type": "Αρχιτεκτονικά Σχέδια",
+      "file_url": "https://silia.eett.gr/silia/download/88c55a9b-7c5d-438f-96a9-e629e7d6456b"
+    },
+    {
+      "document_number": "495192/25-09-2023",
+      "protocol_number": "ΜΕΛΕΤΗ ΡΑΔΙΟΕΚΠΟΜΠΩΝ/25-09-2023",
+      "type": "Αίτηση - Μελέτη Ραδιοεκπομπών ΕΕΑΕ",
+      "file_url": "https://silia.eett.gr/silia/download/af9eb402-a8d8-4d20-8f16-d8571868e899"
+    },
+    {
+      "document_number": "495193/25-09-2023",
+      "protocol_number": "ΧΑΡΤΗΣ ΥΠΑ/",
+      "type": "Απόσπασμα Χάρτη ΓΥΣ 1:50.000",
+      "file_url": "https://silia.eett.gr/silia/download/5e41c66f-ed9c-42ec-b935-cd93dd6a66c5"
+    },
+    {
+      "document_number": "495196/25-09-2023",
+      "protocol_number": "ΜΕΛΕΤΗ ΣΥΜΒΑΤΟΤΗΤΑΣ 2700MHz VF/25-09-2023",
+      "type": "Μελέτη για τη ζώνη  2,6GHz",
+      "file_url": "https://silia.eett.gr/silia/download/09c1c2bc-b428-4819-92ef-faa769142e77"
+    },
+    {
+      "document_number": "495232/25-09-2023",
+      "protocol_number": "ΥΠΕΥΘΥΝΗ ΔΗΛΩΣΗ ΔΙΑΣΥΝΔΕΣΗΣ VF/25-09-2023",
+      "type": "Άλλο",
+      "file_url": "https://silia.eett.gr/silia/download/af3881f5-3d9c-40fd-9971-b4834bdde0e6"
+    },
+    {
+      "document_number": "495298/26-09-2023",
+      "protocol_number": "Αρχείο Αίτησης/",
+      "type": "Αίτηση Άδειας Κατασκευής Κεραίας ΕΕΤΤ",
+      "file_url": "https://silia.eett.gr/silia/download/8a2f4e97-4b5b-48b6-8b19-2f82e5047bb0"
+    },
+    {
+      "document_number": "496541/09-10-2023",
+      "protocol_number": "ΚΓ/Δ3/Δ/20712/09-10-2023",
+      "type": "Γνωμάτευση ΥΠΑ",
+      "file_url": "https://silia.eett.gr/silia/download/c22bb01e-672d-40e3-95da-57fe011182a6"
+    },
+    {
+      "document_number": "500378/13-11-2023",
+      "protocol_number": "TMIA/411/15346/2023/13-11-2023",
+      "type": "Γνωμάτευση ΕΕΑΕ",
+      "file_url": "https://silia.eett.gr/silia/download/21c2ef92-f93e-4a10-8676-65fe8230ecfe"
+    },
+    {
+      "document_number": "503503/19-12-2023",
+      "protocol_number": "Φ.550/ΑΔ.13754/Σ.2587/06-12-2023",
+      "type": "Γνωμάτευση ΓΕΑ",
+      "file_url": "https://silia.eett.gr/silia/download/834a7e0a-be33-4562-9760-9606c578d99a"
+    },
+    {
+      "document_number": "506658/06-02-2024",
+      "protocol_number": "50536/01-02-2024",
+      "type": "Άδεια Κατασκευής  Κεραίας",
+      "file_url": "https://silia.eett.gr/silia/download/bdae8053-ba97-4b85-9a3f-1e3685e02f9a"
+    },
+    {
+      "document_number": "495194/25-09-2023",
+      "protocol_number": "ΜΕΛΕΤΗ ΡΑΔΙΟΕΚΠΟΜΠΩΝ/25-09-2023",
+      "type": "Αίτηση - Μελέτη Ραδιοεκπομπών ΕΕΑΕ",
+      "file_url": "https://silia.eett.gr/silia/download/af9eb402-a8d8-4d20-8f16-d8571868e899"
+    },
+    {
+      "document_number": "495195/25-09-2023",
+      "protocol_number": "ΣΥΝΟΔΕΥΤΙΚΑ ΕΓΓΡΑΦΑ ΠΠΔ/",
+      "type": "Δήλωση υπαγωγής σε ΠΠΔ και Συνοδευτικά Έγγραφα",
+      "file_url": "https://silia.eett.gr/silia/download/9a2826e1-bf61-4057-a7a0-45f842a9f21b"
+    },
+    {
+      "document_number": "495300/26-09-2023",
+      "protocol_number": "Αρχείο Αίτησης/",
+      "type": "Δήλωση ΠΠΔ",
+      "file_url": "https://silia.eett.gr/silia/download/d5d89496-66e3-4d6b-8ca9-c711a8162659"
+    }
+  ]
+}

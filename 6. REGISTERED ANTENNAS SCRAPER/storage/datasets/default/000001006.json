@@ -1,0 +1,177 @@
+{
+  "antenna_id": "106049",
+  "address": "ΠΛΗΣΙΟΝ ΠΕΝΤΑΛΟΦΟΥ",
+  "position_code": 1200910,
+  "municipality": "Βοΐου",
+  "code_name": "ΠΕΝΤΑΛΟΦΟΣ",
+  "region": "Δυτικής Μακεδονίας",
+  "latitude": 40.195833,
+  "company": "NOVA Μ.Α.Ε.",
+  "longitude": 21.137222,
+  "permit_status": "Από τα στοιχεία που τηρούνται στην Ενημερωτική Πύλη προκύπτει ότι, για τη θέση \"ΠΛΗΣΙΟΝ ΠΕΝΤΑΛΟΦΟΥ\" στον Δήμο Βοΐου Περιφέρειας  Δυτικής Μακεδονίας \n\t(κωδικός αριθμός θέσης 1200910, κωδική ονομασία \"ΠΕΝΤΑΛΟΦΟΣ\") χορηγήθηκε, με την Απόφαση της ΕΕΤΤ \n18064/Φ610/04-11-2015, άδεια κατασκευής κεραίας στην εταιρία NOVA Μ.Α.Ε.. \nΑπό τo έγγραφο της άδειας μπορείτε να ενημερωθείτε για τις σχετικές εγκρίσεις των συναρμόδιων φορέων, καθώς και εάν πρόκειται για τροποποίηση παλαιότερης άδειας.\nΗ άδεια χορηγήθηκε, κατόπιν της με Αριθ. Πρωτ. 10637/12-06-2015 αίτησης, \n\tμε τη διαδικασία αδειοδότησης της παρ. 17 του άρθρου 30 του Ν.4070/2012 που πλέον έχει αντικατασταθεί από τη διαδικασία που ορίζει ο ν. 4635/2019.\n\tΣύμφωνα με τα στοιχεία που έχουν υποβληθεί στο ΣΗΛΥΑ για την κατασκευή κεραίας από τον κάτοχό της, έχει εκδοθεί έγκριση δομικών κατασκευών κεραίας",
+  "measurements_eaee": "-",
+  "documents": [
+    {
+      "document_number": "207133/13-05-2015",
+      "protocol_number": "540/Φ615 WIND/14-12-2012",
+      "type": "Χορήγηση Δικαιώματος Χρήσης Ραδιοσυχνοτήτων",
+      "file_url": null
+    },
+    {
+      "document_number": "207134/13-05-2015",
+      "protocol_number": "11460/Φ615 VODAFONE/04-04-2014",
+      "type": "Χορήγηση Δικαιώματος Χρήσης Ραδιοσυχνοτήτων",
+      "file_url": null
+    },
+    {
+      "document_number": "207141/13-05-2015",
+      "protocol_number": "ΥΠΕΥΘΗΝΗ ΔΗΛΩΣΗ ΛΟΓΩ VODAFONE/16-10-2013",
+      "type": "Άλλο",
+      "file_url": "https://silia.eett.gr/silia/download/45d39059-520c-4354-bad5-6a57f96e6268"
+    },
+    {
+      "document_number": "207143/13-05-2015",
+      "protocol_number": "53226/9345/05-01-2000",
+      "type": "Γνωμάτευση ΥΠΑ",
+      "file_url": "https://silia.eett.gr/silia/download/dff14f25-17f7-4028-9bd9-4a3945b6355f"
+    },
+    {
+      "document_number": "207145/13-05-2015",
+      "protocol_number": "7495 (ΣΥΝΗΜΜΕΝΑ ΜΕ ΤΗΝ ΚΑΤΑΘΕΣΗ ΣΤΗΝ ΠΟΛΕΟΔΟΜΙΑ )/06-05-2015",
+      "type": "Αρχιτεκτονικά Σχέδια",
+      "file_url": "https://silia.eett.gr/silia/download/b0b941bd-d03b-4478-8720-615b4cc0dea2"
+    },
+    {
+      "document_number": "207146/13-05-2015",
+      "protocol_number": "7495 (ΣΥΝΗΜΜΕΝΟ ΜΕ ΤΗΝ ΚΑΤΑΘΕΣΗ ΣΤΗΝ ΠΟΛΕΟΔΟΜΙΑ )/06-05-2015",
+      "type": "Τοπογραφικό",
+      "file_url": "https://silia.eett.gr/silia/download/0a2209fb-46fd-4d90-9384-b1daec0b63df"
+    },
+    {
+      "document_number": "207195/13-05-2015",
+      "protocol_number": "ΣΥΝΗΜΕΝΗ ΤΗΣ ΚΑΤΑΘΕΣΗΣ ΜΕΣΩ ΣΗΛΥΑ  ΠΡΟΣ ΤΗΝ ΕΕΑΕ/13-05-2015",
+      "type": "Αίτηση - Μελέτη Ραδιοεκπομπών ΕΕΑΕ",
+      "file_url": "https://silia.eett.gr/silia/download/7feb7e46-b2a1-4dee-9bd8-acad1176be15"
+    },
+    {
+      "document_number": "207256/13-05-2015",
+      "protocol_number": "26/ΔΑΣ/848/24-07-2001",
+      "type": "Έγκριση Επέμβασης Δ/νση Δασών - Δασαρχείου",
+      "file_url": "https://silia.eett.gr/silia/download/35552179-4a3a-4d8e-a1de-b4cd96765d96"
+    },
+    {
+      "document_number": "207282/13-05-2015",
+      "protocol_number": "14695/468/06-04-2015",
+      "type": "Έγγραφο Αρμοδίου Φορέα",
+      "file_url": "https://silia.eett.gr/silia/download/bebc5ecd-ee08-413c-8481-ff60c70f69b1"
+    },
+    {
+      "document_number": "210993/08-06-2015",
+      "protocol_number": "21757 ΑΙΤΗΜΑ ΓΙΑ ΠΡΑΞΗ ΧΑΡΑΚΤΗΡΙΣΜΟΥ/18-05-2015",
+      "type": "Αίτηση προς Αρμόδιο Φορέα",
+      "file_url": "https://silia.eett.gr/silia/download/d83d593d-de02-4017-a0ae-761263678d2a"
+    },
+    {
+      "document_number": "212452/12-06-2015",
+      "protocol_number": "26790/1051 ΠΡΑΞΗ ΧΑΡΑΚΤΗΡΙΣΜΟΥ /10-06-2015",
+      "type": "Έγκριση Αρμοδίου Φορέα",
+      "file_url": "https://silia.eett.gr/silia/download/9a211305-b58a-4bd9-9629-f2d660c80852"
+    },
+    {
+      "document_number": "212551/12-06-2015",
+      "protocol_number": "Αρχείο Αίτησης/",
+      "type": "Αίτηση Άδειας Κατασκευής Κεραίας ΕΕΤΤ",
+      "file_url": "https://silia.eett.gr/silia/download/d1127154-9f17-43e0-a561-3dc68d29c88d"
+    },
+    {
+      "document_number": "227722/12-08-2015",
+      "protocol_number": "ΣΥΝΗΜΕΝΗ ΤΗΣ ΚΑΤΑΘΕΣΗΣ ΜΕΣΩ ΣΗΛΥΑ ΠΡΟΣ ΤΗΝ ΕΕΑΕ\t(ΟΡΘΗ ΕΠΑΝΑΛΗΨΗ)/12-08-2015",
+      "type": "Αίτηση - Μελέτη Ραδιοεκπομπών ΕΕΑΕ",
+      "file_url": "https://silia.eett.gr/silia/download/57bf11ee-97b1-4be0-9a46-f9ac8520f523"
+    },
+    {
+      "document_number": "228037/19-08-2015",
+      "protocol_number": "Μ.ι./411/1522/17-08-2015",
+      "type": "Γνωμάτευση ΕΕΑΕ",
+      "file_url": "https://silia.eett.gr/silia/download/39c935eb-ade9-410a-b4ce-497aaf434dff"
+    },
+    {
+      "document_number": "231937/28-09-2015",
+      "protocol_number": "Δ3/Δ/8352/25-9-2015/28-09-2015",
+      "type": "Γνωμάτευση ΥΠΑ",
+      "file_url": "https://silia.eett.gr/silia/download/e7854a9f-73f5-4d07-9432-449b01fa8781"
+    },
+    {
+      "document_number": "233425/07-10-2015",
+      "protocol_number": "4/29-06-2015",
+      "type": "Έγκριση δομικών κατασκευών (έντυπη)",
+      "file_url": "https://silia.eett.gr/silia/download/7ae41ad1-4254-4d51-859a-cec4d53bee68"
+    },
+    {
+      "document_number": "235228/16-10-2015",
+      "protocol_number": "8352 ΔΙΟΡΘΩΜΕΝΗ /25-09-2015",
+      "type": "Γνωμάτευση ΥΠΑ",
+      "file_url": "https://silia.eett.gr/silia/download/deeff4aa-42bc-4d54-89e6-8af888043555"
+    },
+    {
+      "document_number": "235229/16-10-2015",
+      "protocol_number": "ΘΕΩΡΗΜΕΝΟ ΤΟΠΟΓΡΑΦΙΚΟ ΕΓΚΡΙΣΗΣ ΕΠΕΜΒΑΣΗΣ /",
+      "type": "Συμπληρωματικά Έγγραφα Αίτησης / Μελέτης",
+      "file_url": "https://silia.eett.gr/silia/download/fda0b2f2-1a64-44a2-b628-af0ef2542617"
+    },
+    {
+      "document_number": "235230/16-10-2015",
+      "protocol_number": "ΘΕΩΡΗΜΕΝΟ ΤΟΠΟΓΡΑΦΙΚΟ ΠΡΑΞΗΣ ΧΑΡΑΚΤΗΡΙΣΜΟΥ/",
+      "type": "Συμπληρωματικά Έγγραφα Αίτησης / Μελέτης",
+      "file_url": "https://silia.eett.gr/silia/download/6abe0c0a-d970-4f38-bcab-bfe2bb3e986a"
+    },
+    {
+      "document_number": "236417/23-10-2015",
+      "protocol_number": "Δ3/Δ/9101/22-10-2015",
+      "type": "Έγκριση Αρμοδίου Φορέα",
+      "file_url": "https://silia.eett.gr/silia/download/009b0eb6-4354-47ec-a166-9e2faad975bf"
+    },
+    {
+      "document_number": "236966/27-10-2015",
+      "protocol_number": "11239 ΕΠΙΣΤΟΛΗ ΕΠΑΝΑΧΡΗΣΙΜΟΠΟΙΗΣΗΣ/17-03-2015",
+      "type": "Επιστολή Ενημέρωσης προς Αρμόδιο Φορέα",
+      "file_url": "https://silia.eett.gr/silia/download/043c49f3-795c-4ecc-9b8c-8c87c1b31458"
+    },
+    {
+      "document_number": "240264/13-11-2015",
+      "protocol_number": "18064/Φ610/04-11-2015",
+      "type": "Άδεια Κατασκευής  Κεραίας",
+      "file_url": "https://silia.eett.gr/silia/download/cb69be55-a686-40ce-bd63-42159f78f4c6"
+    },
+    {
+      "document_number": "233425/07-10-2015",
+      "protocol_number": "4/29-06-2015",
+      "type": "Έγκριση δομικών κατασκευών (έντυπη)",
+      "file_url": "https://silia.eett.gr/silia/download/7ae41ad1-4254-4d51-859a-cec4d53bee68"
+    },
+    {
+      "document_number": "235231/16-10-2015",
+      "protocol_number": "Μ.ι./411/1522/17-08-2015",
+      "type": "Γνωμάτευση ΕΕΑΕ",
+      "file_url": "https://silia.eett.gr/silia/download/39c935eb-ade9-410a-b4ce-497aaf434dff"
+    },
+    {
+      "document_number": "235232/16-10-2015",
+      "protocol_number": "26/ΔΑΣ/848/24-07-2001",
+      "type": "Έγκριση Επέμβασης Δ/νση Δασών - Δασαρχείου",
+      "file_url": "https://silia.eett.gr/silia/download/35552179-4a3a-4d8e-a1de-b4cd96765d96"
+    },
+    {
+      "document_number": "235233/16-10-2015",
+      "protocol_number": "26790/1051 ΠΡΑΞΗ ΧΑΡΑΚΤΗΡΙΣΜΟΥ /10-06-2015",
+      "type": "Έγκριση Αρμοδίου Φορέα",
+      "file_url": "https://silia.eett.gr/silia/download/9a211305-b58a-4bd9-9629-f2d660c80852"
+    },
+    {
+      "document_number": "235236/16-10-2015",
+      "protocol_number": "Αρχείο Αίτησης/",
+      "type": "Δήλωση ΠΠΔ",
+      "file_url": "https://silia.eett.gr/silia/download/1e96f734-4320-42c5-a3a4-c7d9aa530dfd"
+    }
+  ]
+}

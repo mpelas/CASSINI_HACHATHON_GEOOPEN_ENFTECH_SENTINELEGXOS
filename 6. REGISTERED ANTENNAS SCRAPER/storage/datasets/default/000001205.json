@@ -1,0 +1,69 @@
+{
+  "antenna_id": "174630",
+  "address": "ΚΑΡΦΟΞΥΛΙΑ, Τ.Κ. ΜΑΓΟΥΛΙΑΝΩΝ, ΞΕΝΟΔΟΧΕΙΟ MANNA",
+  "position_code": 1442585,
+  "municipality": "Γορτυνίας",
+  "code_name": "MANNA_MI",
+  "region": "Πελοποννήσου",
+  "latitude": 37.683056,
+  "company": "OTE",
+  "longitude": 22.110833,
+  "permit_status": "Από τα στοιχεία που τηρούνται στην Ενημερωτική Πύλη προκύπτει ότι, για τη θέση \"ΚΑΡΦΟΞΥΛΙΑ, Τ.Κ. ΜΑΓΟΥΛΙΑΝΩΝ, ΞΕΝΟΔΟΧΕΙΟ MANNA\" στον Δήμο Γορτυνίας Περιφέρειας  Πελοποννήσου \n\t(κωδικός αριθμός θέσης 1442585, κωδική ονομασία \"MANNA_MI\") έχει κατατεθεί από την εταιρία OTE\tδήλωση εγκατάστασης κατασκευής κεραίας (αριθ. πρωτ. \n\t57044/20-08-2024) που εμπίπτει στις διατάξεις της νομοθεσίας για Εγκαταστάσεις Κατασκευών Κεραιών Χαμηλής Ηλεκτρομαγνητικής Περιβαλλοντικής Όχλησης (ΕΚΚΧΟ).",
+  "measurements_eaee": "-",
+  "documents": [
+    {
+      "document_number": "522092/29-07-2024",
+      "protocol_number": "ΜΕΛΕΤΗ/29-07-2024",
+      "type": "Αίτηση - Μελέτη Ραδιοεκπομπών ΕΕΑΕ",
+      "file_url": "https://silia.eett.gr/silia/download/vCPhdOrLAFmi3svdQ2tt1qGHtLWU0GALVvNR"
+    },
+    {
+      "document_number": "522093/29-07-2024",
+      "protocol_number": "ΚΑΤΟΨΗ/29-07-2024",
+      "type": "Αρχιτεκτονικά [Κάτοψη - Τομή - Όψη]",
+      "file_url": "https://silia.eett.gr/silia/download/labNtae3EIZCLzb5gdgcXSn4sQzLxslgsi6r"
+    },
+    {
+      "document_number": "522094/29-07-2024",
+      "protocol_number": "ΤΟΜΗ/29-07-2024",
+      "type": "Αρχιτεκτονικά [Κάτοψη - Τομή - Όψη]",
+      "file_url": "https://silia.eett.gr/silia/download/gcn2AqW8bpxwBMeEe3oLaE6vhHPgeWu8KPaC"
+    },
+    {
+      "document_number": "522095/29-07-2024",
+      "protocol_number": "ΦΩΤΟΓΡΑΦΙΑ/29-07-2024",
+      "type": "Φωτογραφικό Υλικό - Σκαρίφημα",
+      "file_url": "https://silia.eett.gr/silia/download/LWogeo1s3pO654DGTQHShr1CsiaBCVIbrGB0"
+    },
+    {
+      "document_number": "522096/29-07-2024",
+      "protocol_number": "174557/05-06-2024",
+      "type": "Γνωμοδότηση ΕΠΚΑ",
+      "file_url": "https://silia.eett.gr/silia/download/A1nAz4dL5gE7mo2Q0qLMfgtNNDtAxV41ZgNy"
+    },
+    {
+      "document_number": "522097/29-07-2024",
+      "protocol_number": "158240/11-04-2024",
+      "type": "Γνωμοδότηση Υπηρεσίας Νεωτέρων Μνημείων",
+      "file_url": "https://silia.eett.gr/silia/download/3wZ189mXmdCnon3At6fuzBCagk0wNXLWld3p"
+    },
+    {
+      "document_number": "523495/20-08-2024",
+      "protocol_number": "ΑΠΟΣΠΑΣΜΑ ΨΗΦΙΑΚΟΥ ΧΑΡΤΗ/20-08-2024",
+      "type": "Φωτογραφικό Υλικό - Σκαρίφημα",
+      "file_url": "https://silia.eett.gr/silia/download/mDGU7cu0QDe3n42ITfoFsNgzqd5oVIxGVUiQ"
+    },
+    {
+      "document_number": "523496/20-08-2024",
+      "protocol_number": "Αρχείο Αίτησης/20-08-2024",
+      "type": "Δήλωση ΕΚΚΧΟ",
+      "file_url": "https://silia.eett.gr/silia/download/DE3iWGyS1kuQNGa4Cg1akV9aNRlRSGiR7lNd"
+    },
+    {
+      "document_number": "539254/29-01-2025",
+      "protocol_number": "ΥΠ.ΔΗΛΩΣΗ/29-01-2025",
+      "type": "Άλλο",
+      "file_url": "https://silia.eett.gr/silia/download/ZUKiwikhBnXnhx3vxF03wVzaYiY0NGhdx1Tc"
+    }
+  ]
+}

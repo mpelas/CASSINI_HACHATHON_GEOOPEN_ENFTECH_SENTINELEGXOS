@@ -1,0 +1,75 @@
+{
+  "antenna_id": "167303",
+  "address": "ΜΥΡΙΒΗΛΗ & ΛΟΥΝΤΕΜΗ (ΠΡΩΗΝ ΠΕΤΡΟΥ ΡΑΛΛΗ 97)",
+  "position_code": 1124701,
+  "municipality": "Νίκαιας - Αγίου Ι. Ρέντη",
+  "code_name": "ΣΚΛΑΒΕΝΙΤΗΣ ΡΕΝΤΗΣ ΠΡΟΣΩΡΙΝΟ",
+  "region": "Αττικής",
+  "latitude": 37.974167,
+  "company": "VODAFONE",
+  "longitude": 23.673333,
+  "permit_status": "Από τα στοιχεία που τηρούνται στην Ενημερωτική Πύλη προκύπτει ότι, για τη θέση \"ΜΥΡΙΒΗΛΗ & ΛΟΥΝΤΕΜΗ (ΠΡΩΗΝ ΠΕΤΡΟΥ ΡΑΛΛΗ 97)\" στον Δήμο Νίκαιας - Αγίου Ι. Ρέντη Περιφέρειας  Αττικής \n\t(κωδικός αριθμός θέσης 1124701, κωδική ονομασία \"ΣΚΛΑΒΕΝΙΤΗΣ ΡΕΝΤΗΣ ΠΡΟΣΩΡΙΝΟ \") έχει κατατεθεί από την εταιρία VODAFONE\tδήλωση εγκατάστασης κατασκευής κεραίας (αριθ. πρωτ. \n\t50815/22-02-2023) που εμπίπτει στις διατάξεις της νομοθεσίας για Εγκαταστάσεις Κατασκευών Κεραιών Χαμηλής Ηλεκτρομαγνητικής Περιβαλλοντικής Όχλησης (ΕΚΚΧΟ).",
+  "measurements_eaee": "-",
+  "documents": [
+    {
+      "document_number": "478709/22-02-2023",
+      "protocol_number": "Φωτορεαλιστική απεικόνιση ΕΚΚΧΟ/",
+      "type": "Φωτογραφικό Υλικό - Σκαρίφημα",
+      "file_url": "https://silia.eett.gr/silia/download/c89dc37c-f746-4738-910f-4ac0ae7a1ec2"
+    },
+    {
+      "document_number": "478710/22-02-2023",
+      "protocol_number": "Ψηφιακός Χάρτης με προβολή της θέσης ΕΚΚΧΟ/",
+      "type": "Φωτογραφικό Υλικό - Σκαρίφημα",
+      "file_url": "https://silia.eett.gr/silia/download/3f408794-d0b5-4e68-b8a8-e6e2ff039bbd"
+    },
+    {
+      "document_number": "478713/22-02-2023",
+      "protocol_number": "Μελέτη συμβατότητας 2700 MHz - Vodafone/02-02-2023",
+      "type": "Μελέτη για τη ζώνη  2,6GHz",
+      "file_url": "https://silia.eett.gr/silia/download/84796bd0-26d0-426d-a3fc-5f4b151cb0be"
+    },
+    {
+      "document_number": "478714/22-02-2023",
+      "protocol_number": "Μελέτη συμβατότητας 2700 MHz - NOVA/02-02-2023",
+      "type": "Μελέτη για τη ζώνη  2,6GHz",
+      "file_url": "https://silia.eett.gr/silia/download/09a4bc9b-bce0-4c6c-983c-5f88358c411f"
+    },
+    {
+      "document_number": "478715/22-02-2023",
+      "protocol_number": "19925/20-02-2023",
+      "type": "Αποτελέσματα μελέτης στη ζώνης 2.6GHz για ΥΠΑ/ΓΕΕΘΑ",
+      "file_url": "https://silia.eett.gr/silia/download/0e375bc9-8de4-4eb2-aef5-0210700b1a20"
+    },
+    {
+      "document_number": "478718/22-02-2023",
+      "protocol_number": "Αρχιτεκτονικά σχέδια ΕΚΚΧΟ/",
+      "type": "Αρχιτεκτονικά Σχέδια",
+      "file_url": "https://silia.eett.gr/silia/download/b44ee283-23c2-4948-b58d-6b8a5395a0f2"
+    },
+    {
+      "document_number": "478719/22-02-2023",
+      "protocol_number": "Μελέτη ΕΚΚΧΟ/10-02-2023",
+      "type": "Άλλο",
+      "file_url": "https://silia.eett.gr/silia/download/038fb852-1c59-409f-8db1-b307d88a7545"
+    },
+    {
+      "document_number": "478720/22-02-2023",
+      "protocol_number": "ΥΔ κοινής χρήσης NOVA/22-02-2023",
+      "type": "Άλλο",
+      "file_url": "https://silia.eett.gr/silia/download/2444efda-2cd4-4a3d-83c2-41b54bc1b760"
+    },
+    {
+      "document_number": "478746/22-02-2023",
+      "protocol_number": "Αρχείο Αίτησης/",
+      "type": "Δήλωση ΕΚΚΧΟ",
+      "file_url": "https://silia.eett.gr/silia/download/b396bcc2-ff7b-4368-83c5-0cb162a27995"
+    },
+    {
+      "document_number": "483630/28-04-2023",
+      "protocol_number": "ΥΔ εγκατάστασης/28-04-2023",
+      "type": "Άλλο",
+      "file_url": "https://silia.eett.gr/silia/download/fe24bb9f-24e8-42a8-9028-98f978bdc354"
+    }
+  ]
+}

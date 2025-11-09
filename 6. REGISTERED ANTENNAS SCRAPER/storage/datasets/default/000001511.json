@@ -1,0 +1,45 @@
+{
+  "antenna_id": "152405",
+  "address": "ΒΕΡΔΙΚΟΥΣΑ ΠΕΡ. ΘΕΣΣΑΛΙΑΣ",
+  "position_code": 3207042,
+  "municipality": "Ελασσόνας",
+  "code_name": "ΕΛΑΣΣΟΝΑ-Δ",
+  "region": "Θεσσαλίας",
+  "latitude": 39.781667,
+  "company": "ΕΡΤ ΑΕ",
+  "longitude": 21.970833,
+  "permit_status": "Από τα στοιχεία που τηρούνται στην Ενημερωτική Πύλη προκύπτει ότι για τη  θέση \"ΒΕΡΔΙΚΟΥΣΑ ΠΕΡ. ΘΕΣΣΑΛΙΑΣ\" στον Δήμο Ελασσόνας Περιφέρειας  Θεσσαλίας έχει κατατεθεί από την εταιρία ΕΡΤ ΑΕ δήλωση δομικών κατασκευών κεραιών  \nμε αριθ. πρωτ. ΣΗΛΥΑ 38043/08-04-2020 κατά τα οριζόμενα στην παρ. 7 του άρθρου 34 του Ν.4635/2019.",
+  "measurements_eaee": "-",
+  "documents": [
+    {
+      "document_number": "399702/23-03-2020",
+      "protocol_number": "δορυφορική λήψη και στοιχεία δομικών κατασκευών/",
+      "type": "Άλλο",
+      "file_url": "https://silia.eett.gr/silia/download/bdecc000-0917-42f8-b265-ab272c47f3e1"
+    },
+    {
+      "document_number": "399703/23-03-2020",
+      "protocol_number": "βεβαίωση 1ης ηλεκτροδότησης/",
+      "type": "Άλλο",
+      "file_url": "https://silia.eett.gr/silia/download/4442e18d-1d2b-456a-86e4-1aef02cba075"
+    },
+    {
+      "document_number": "400617/30-03-2020",
+      "protocol_number": "πίνακας 49 απογραφής ΕΡΤ 1987/",
+      "type": "Άλλο",
+      "file_url": "https://silia.eett.gr/silia/download/400ab0ba-0bf2-4c47-b726-662dec68b2d5"
+    },
+    {
+      "document_number": "400620/30-03-2020",
+      "protocol_number": "απογραφή 1987/",
+      "type": "Άλλο",
+      "file_url": "https://silia.eett.gr/silia/download/463a6d4a-dea2-4435-9d51-fb7a51519ad5"
+    },
+    {
+      "document_number": "401641/08-04-2020",
+      "protocol_number": "Αρχείο Αίτησης/",
+      "type": "Δήλωση Δομικών ΕΡΤ",
+      "file_url": "https://silia.eett.gr/silia/download/d484fedb-4cee-4620-83fc-a1c3ded3dd3b"
+    }
+  ]
+}

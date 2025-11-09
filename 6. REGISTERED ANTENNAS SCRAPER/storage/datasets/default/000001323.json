@@ -1,0 +1,39 @@
+{
+  "antenna_id": "171009",
+  "address": "Α.Τ. ΔΕΣΚΑΤΗΣ ΓΡΕΒΕΝΩΝ ΔΕΣΚΑΤΗ, ΓΡΕΒΕΝΑ.",
+  "position_code": 1151700,
+  "municipality": "Δεσκάτης",
+  "code_name": "3031700 SYZEFXIS AT DESKATIS GREVENA",
+  "region": "Δυτικής Μακεδονίας",
+  "latitude": 39.9275,
+  "company": "VODAFONE",
+  "longitude": 21.81,
+  "permit_status": "Από τα στοιχεία που τηρούνται στην Ενημερωτική Πύλη προκύπτει ότι, για τη θέση \"Α.Τ. ΔΕΣΚΑΤΗΣ ΓΡΕΒΕΝΩΝ ΔΕΣΚΑΤΗ, ΓΡΕΒΕΝΑ.\" στον Δήμο Δεσκάτης Περιφέρειας  Δυτικής Μακεδονίας \n\t(κωδικός αριθμός θέσης 1151700, κωδική ονομασία \"3031700 SYZEFXIS AT DESKATIS GREVENA\") έχει κατατεθεί από την εταιρία VODAFONE\tδήλωση εγκατάστασης κατασκευής κεραίας (αριθ. πρωτ. \n\t53914/24-11-2023) που εμπίπτει στις διατάξεις της νομοθεσίας για Εγκαταστάσεις Κατασκευών Κεραιών Χαμηλής Ηλεκτρομαγνητικής Περιβαλλοντικής Όχλησης (ΕΚΚΧΟ).",
+  "measurements_eaee": "-",
+  "documents": [
+    {
+      "document_number": "500462/14-11-2023",
+      "protocol_number": "Φωτορεαλιστική απεικόνιση κεραιας ΕΚΚΧΟ/",
+      "type": "Φωτογραφικό Υλικό - Σκαρίφημα",
+      "file_url": "https://silia.eett.gr/silia/download/8aab39ad-81c3-4ce0-b099-bdef4bdc380a"
+    },
+    {
+      "document_number": "500463/14-11-2023",
+      "protocol_number": "Ψηφιακός Χάρτης με προβολή της θέσης της κεραίας ΕΚΚΧΟ/",
+      "type": "Φωτογραφικό Υλικό - Σκαρίφημα",
+      "file_url": "https://silia.eett.gr/silia/download/b6a45bd7-4466-4cf3-bf45-b4737e118bae"
+    },
+    {
+      "document_number": "501419/24-11-2023",
+      "protocol_number": "Μελέτη ΕΚΚΧΟ/15-11-2023",
+      "type": "Άλλο",
+      "file_url": "https://silia.eett.gr/silia/download/d3924d2c-8a38-4509-87b8-2e04ca4522a3"
+    },
+    {
+      "document_number": "501420/24-11-2023",
+      "protocol_number": "Αρχείο Αίτησης/",
+      "type": "Δήλωση ΕΚΚΧΟ",
+      "file_url": "https://silia.eett.gr/silia/download/a83b3931-d3ad-4a89-819c-deab0eb29332"
+    }
+  ]
+}

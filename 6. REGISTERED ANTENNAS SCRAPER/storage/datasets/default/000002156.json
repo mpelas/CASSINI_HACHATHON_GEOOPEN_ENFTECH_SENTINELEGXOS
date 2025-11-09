@@ -1,0 +1,39 @@
+{
+  "antenna_id": "144772",
+  "address": "ΝΕΑ ΜΟΥΔΑΝΙΑ ΧΑΛΚΙΔΙΚΗΣ, ΑΓ. ΜΑΜΑΣ PORTES BEACH HOTEL",
+  "position_code": 1153706,
+  "municipality": "Νέας Προποντίδας",
+  "code_name": "BEACH HOTEL MOUDANIA CHALKIDIKI 2",
+  "region": "Κεντρικής Μακεδονίας",
+  "latitude": 40.2175,
+  "company": "VODAFONE",
+  "longitude": 23.318056,
+  "permit_status": "Από τα στοιχεία που τηρούνται στην Ενημερωτική Πύλη προκύπτει ότι, για τη θέση \"ΝΕΑ ΜΟΥΔΑΝΙΑ ΧΑΛΚΙΔΙΚΗΣ, ΑΓ. ΜΑΜΑΣ PORTES BEACH HOTEL\" στον Δήμο Νέας Προποντίδας Περιφέρειας  Κεντρικής Μακεδονίας \n\t(κωδικός αριθμός θέσης 1153706, κωδική ονομασία \"BEACH HOTEL MOUDANIA CHALKIDIKI 2\") έχει κατατεθεί από την εταιρία VODAFONE\tδήλωση εγκατάστασης κατασκευής κεραίας (αριθ. πρωτ. \n\t35321/04-11-2019) που εμπίπτει στις διατάξεις της νομοθεσίας για Εγκαταστάσεις Κατασκευών Κεραιών Χαμηλής Ηλεκτρομαγνητικής Περιβαλλοντικής Όχλησης (ΕΚΚΧΟ).",
+  "measurements_eaee": "-",
+  "documents": [
+    {
+      "document_number": "380103/18-10-2019",
+      "protocol_number": "ΣΚΑΡΙΦΗΜΑ ΘΕΣΗΣ ΙΣΤΟΥ ΕΚΚΧΟ - ΚΑΤΟΨΗ/",
+      "type": "Φωτογραφικό Υλικό - Σκαρίφημα",
+      "file_url": "https://silia.eett.gr/silia/download/204c0c9b-b520-4d80-8b95-7eb396c84fa6"
+    },
+    {
+      "document_number": "380589/23-10-2019",
+      "protocol_number": "ΦΩΤΟΓΡΑΦΙΑ ΘΕΣΗΣ ΕΚΚΧΟ/",
+      "type": "Φωτογραφικό Υλικό - Σκαρίφημα",
+      "file_url": "https://silia.eett.gr/silia/download/56f80010-6664-41f2-88e8-95cd8e048693"
+    },
+    {
+      "document_number": "380590/23-10-2019",
+      "protocol_number": "ΦΩΤΟΓΡΑΦΙΑ ΘΕΣΗΣ ΚΕΡΑΙΩΝ ΕΚΚΧΟ - ΕΡΜΑΡΙΟΥ/",
+      "type": "Φωτογραφικό Υλικό - Σκαρίφημα",
+      "file_url": "https://silia.eett.gr/silia/download/dcaf4098-f755-4287-8540-8933078feb55"
+    },
+    {
+      "document_number": "382072/04-11-2019",
+      "protocol_number": "Αρχείο Αίτησης/",
+      "type": "Δήλωση ΕΚΚΧΟ",
+      "file_url": "https://silia.eett.gr/silia/download/ce903535-ad4b-425a-aa2c-b0d1e1beb4df"
+    }
+  ]
+}

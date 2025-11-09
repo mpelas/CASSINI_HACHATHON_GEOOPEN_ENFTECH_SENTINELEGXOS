@@ -1,0 +1,75 @@
+{
+  "antenna_id": "170918",
+  "address": "¨ΚΟΚΚΙΝΟ ΛΙΘΑΡΙ\", ΠΛΗΣΙΟΝ ΟΙΚΙΣΜΟΥ ΤΣΕΠΕΛΟΒΟ",
+  "position_code": 1404245,
+  "municipality": "Ζαγορίου",
+  "code_name": "ΤΣΕΠΕΛΟΒΟ - Χ",
+  "region": "Ηπείρου",
+  "latitude": 39.889167,
+  "company": "OTE",
+  "longitude": 20.816667,
+  "permit_status": "Από τα στοιχεία που τηρούνται στην Ενημερωτική Πύλη προκύπτει ότι, για τη θέση \"¨ΚΟΚΚΙΝΟ ΛΙΘΑΡΙ\", ΠΛΗΣΙΟΝ ΟΙΚΙΣΜΟΥ ΤΣΕΠΕΛΟΒΟ\" στον Δήμο Ζαγορίου Περιφέρειας  Ηπείρου \n\t(κωδικός αριθμός θέσης 1404245, κωδική ονομασία \"ΤΣΕΠΕΛΟΒΟ - Χ\") χορηγήθηκε, με την Απόφαση της ΕΕΤΤ \n50740/26-03-2024, άδεια κατασκευής κεραίας στην εταιρία OTE. \nΑπό τo έγγραφο της άδειας μπορείτε να ενημερωθείτε για τις σχετικές εγκρίσεις των συναρμόδιων φορέων, καθώς και εάν πρόκειται για τροποποίηση παλαιότερης άδειας.\n\tΣύμφωνα με τα στοιχεία που έχουν υποβληθεί στο ΣΗΛΥΑ, ο κάτοχος της κατασκευής κεραίας έχει δηλώσει ότι θα προβεί σε έκδοση έγκρισης δομικών κατασκευών \n\t\tκεραίας μέσω του e-Άδειες \n\t\tμετά την έκδοση της άδειας κατασκευής κεραίας / δημοσιοποίηση της δήλωσης τροποποίησης της κατασκευής κεραίας",
+  "measurements_eaee": "-",
+  "documents": [
+    {
+      "document_number": "499956/07-11-2023",
+      "protocol_number": "ΜΕΣΩ ΣΗΛΥΑ/",
+      "type": "Αρχιτεκτονικά Σχέδια",
+      "file_url": "https://silia.eett.gr/silia/download/887a6451-c94e-42ab-9118-7f7784185893"
+    },
+    {
+      "document_number": "499957/07-11-2023",
+      "protocol_number": "ΜΕΣΩ ΣΗΛΥΑ/02-10-2023",
+      "type": "Αίτηση - Μελέτη Ραδιοεκπομπών ΕΕΑΕ",
+      "file_url": "https://silia.eett.gr/silia/download/1affb549-e496-4eca-9e4e-dae3e2f61e3d"
+    },
+    {
+      "document_number": "499958/07-11-2023",
+      "protocol_number": "Δ3/Δ/29586/6201/11-07-2001",
+      "type": "Γνωμάτευση ΥΠΑ",
+      "file_url": "https://silia.eett.gr/silia/download/a24a72e2-899a-4efb-9acd-e8b6b8c7ac50"
+    },
+    {
+      "document_number": "499959/07-11-2023",
+      "protocol_number": "ΜΕΣΩ ΣΗΛΥΑ/",
+      "type": "Αίτηση ΥΠΑ",
+      "file_url": "https://silia.eett.gr/silia/download/60d76f99-e30c-433f-a98f-54a4d5a5731d"
+    },
+    {
+      "document_number": "499983/07-11-2023",
+      "protocol_number": "ΜΕΣΩ ΣΗΛΥΑ/",
+      "type": "Τοπογραφικό",
+      "file_url": "https://silia.eett.gr/silia/download/ba9ddf37-0326-4e51-b1a6-8af6eb848937"
+    },
+    {
+      "document_number": "499987/07-11-2023",
+      "protocol_number": "Αρχείο Αίτησης/",
+      "type": "Αίτηση Άδειας Κατασκευής Κεραίας ΕΕΤΤ",
+      "file_url": "https://silia.eett.gr/silia/download/cb3594fa-0e31-496b-97d3-5028844f5dcd"
+    },
+    {
+      "document_number": "504090/30-12-2023",
+      "protocol_number": "TMIA/411/17656/2023/29-12-2023",
+      "type": "Γνωμάτευση ΕΕΑΕ",
+      "file_url": "https://silia.eett.gr/silia/download/ea8aa52c-c07f-4c06-8fdc-3fb6b149f259"
+    },
+    {
+      "document_number": "511080/27-03-2024",
+      "protocol_number": "50740/26-03-2024",
+      "type": "Άδεια Κατασκευής  Κεραίας",
+      "file_url": "https://silia.eett.gr/silia/download/SUqhYDZG5Y7qEKDhtuNdiloWGx784nDQbOIz"
+    },
+    {
+      "document_number": "499961/07-11-2023",
+      "protocol_number": "ΜΕΣΩ ΣΗΛΥΑ/",
+      "type": "Δήλωση υπαγωγής σε ΠΠΔ και Συνοδευτικά Έγγραφα",
+      "file_url": "https://silia.eett.gr/silia/download/ddad188b-22df-48a4-a982-885ecc2adbd0"
+    },
+    {
+      "document_number": "499988/07-11-2023",
+      "protocol_number": "Αρχείο Αίτησης/",
+      "type": "Δήλωση ΠΠΔ",
+      "file_url": "https://silia.eett.gr/silia/download/145f199a-092a-45f6-8105-1a52086f4782"
+    }
+  ]
+}

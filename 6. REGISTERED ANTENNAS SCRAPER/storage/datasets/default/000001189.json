@@ -1,0 +1,39 @@
+{
+  "antenna_id": "152516",
+  "address": "ΛΑΓΚΑΔΙΑ",
+  "position_code": 3207190,
+  "municipality": "Γορτυνίας",
+  "code_name": "ΛΑΓΚΑΔΙΑ-Δ",
+  "region": "Πελοποννήσου",
+  "latitude": 37.675556,
+  "company": "ΕΡΤ ΑΕ",
+  "longitude": 22.042778,
+  "permit_status": "Από τα στοιχεία που τηρούνται στην Ενημερωτική Πύλη προκύπτει ότι για τη  θέση \"ΛΑΓΚΑΔΙΑ\" στον Δήμο Γορτυνίας Περιφέρειας  Πελοποννήσου έχει κατατεθεί από την εταιρία ΕΡΤ ΑΕ δήλωση δομικών κατασκευών κεραιών  \nμε αριθ. πρωτ. ΣΗΛΥΑ 38144/09-04-2020 κατά τα οριζόμενα στην παρ. 7 του άρθρου 34 του Ν.4635/2019.",
+  "measurements_eaee": "-",
+  "documents": [
+    {
+      "document_number": "400165/26-03-2020",
+      "protocol_number": "δορυφορική λήψη και στοιχεία δομικών κατασκευών/",
+      "type": "Άλλο",
+      "file_url": "https://silia.eett.gr/silia/download/50c3c23f-d2a6-469d-9ee9-c265d6197c85"
+    },
+    {
+      "document_number": "400441/29-03-2020",
+      "protocol_number": "απογραφή 1987/",
+      "type": "Άλλο",
+      "file_url": "https://silia.eett.gr/silia/download/5581bf2b-fbef-4028-9f55-8f113b8558a4"
+    },
+    {
+      "document_number": "400442/29-03-2020",
+      "protocol_number": "πίνακας 49 απογραφής ΕΡΤ 1987/",
+      "type": "Άλλο",
+      "file_url": "https://silia.eett.gr/silia/download/02ee796a-a1de-4f9d-bd19-8ba7e8a3f9ae"
+    },
+    {
+      "document_number": "401813/09-04-2020",
+      "protocol_number": "Αρχείο Αίτησης/",
+      "type": "Δήλωση Δομικών ΕΡΤ",
+      "file_url": "https://silia.eett.gr/silia/download/3daf6a91-e62d-4669-9fb6-43a99bae40db"
+    }
+  ]
+}

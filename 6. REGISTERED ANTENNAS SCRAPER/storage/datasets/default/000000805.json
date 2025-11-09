@@ -1,0 +1,39 @@
+{
+  "antenna_id": "152679",
+  "address": "ΓΙΟΥΧΤΑ, Δ. ΑΡΧΑΝΩΝ - ΑΣΤΕΡΟΥΣΙΩΝ, Π.Ε. ΗΡΑΚΛΕΙΟΥ, ΠΕΡΙΦ. ΚΡΗΤΗΣ",
+  "position_code": 3207397,
+  "municipality": "Αρχανών - Αστερουσίων",
+  "code_name": "ΓΙΟΥΧΤΑ-Δ",
+  "region": "Κρήτης",
+  "latitude": 35.240278,
+  "company": "ΕΡΤ ΑΕ",
+  "longitude": 25.144167,
+  "permit_status": "Από τα στοιχεία που τηρούνται στην Ενημερωτική Πύλη προκύπτει ότι για τη  θέση \"ΓΙΟΥΧΤΑ, Δ. ΑΡΧΑΝΩΝ - ΑΣΤΕΡΟΥΣΙΩΝ, Π.Ε. ΗΡΑΚΛΕΙΟΥ, ΠΕΡΙΦ. ΚΡΗΤΗΣ\" στον Δήμο Αρχανών - Αστερουσίων Περιφέρειας  Κρήτης έχει κατατεθεί από την εταιρία ΕΡΤ ΑΕ δήλωση δομικών κατασκευών κεραιών  \nμε αριθ. πρωτ. ΣΗΛΥΑ 38216/10-04-2020 κατά τα οριζόμενα στην παρ. 7 του άρθρου 34 του Ν.4635/2019.",
+  "measurements_eaee": "-",
+  "documents": [
+    {
+      "document_number": "401362/06-04-2020",
+      "protocol_number": "δορυφορική λήψη και στοιχεία δομικών κατασκευών/",
+      "type": "Άλλο",
+      "file_url": "https://silia.eett.gr/silia/download/0f8fd02a-af44-4da2-8d7f-fbfabe8ba4e0"
+    },
+    {
+      "document_number": "401363/06-04-2020",
+      "protocol_number": "απογραφή 1987/",
+      "type": "Άλλο",
+      "file_url": "https://silia.eett.gr/silia/download/3b38ad5e-ac15-4b1b-a7b9-7036eacb2143"
+    },
+    {
+      "document_number": "401364/06-04-2020",
+      "protocol_number": "πίνακας 49 απογραφής ΕΡΤ 1987/",
+      "type": "Άλλο",
+      "file_url": "https://silia.eett.gr/silia/download/041d6d99-0f20-4329-ae4d-a5a2e92fd6e9"
+    },
+    {
+      "document_number": "402038/10-04-2020",
+      "protocol_number": "Αρχείο Αίτησης/",
+      "type": "Δήλωση Δομικών ΕΡΤ",
+      "file_url": "https://silia.eett.gr/silia/download/8a7c15a8-f839-4d58-976f-ae10dc12cf11"
+    }
+  ]
+}

@@ -1,0 +1,57 @@
+{
+  "antenna_id": "174179",
+  "address": "ΠΕΡΙΟΧΗ ΔΟΓΡΗ, ΠΑΡΑΒΟΛΑ.",
+  "position_code": 1152314,
+  "municipality": "Αγρινίου",
+  "code_name": "3032314 MPAZONH DIMITRA PARAVOLA AGRINIO",
+  "region": "Δυτικής Ελλάδας",
+  "latitude": 38.600833,
+  "company": "VODAFONE",
+  "longitude": 21.570833,
+  "permit_status": "Από τα στοιχεία που τηρούνται στην Ενημερωτική Πύλη προκύπτει ότι, για τη θέση \"ΠΕΡΙΟΧΗ ΔΟΓΡΗ, ΠΑΡΑΒΟΛΑ.\" στον Δήμο Αγρινίου Περιφέρειας  Δυτικής Ελλάδας \n\t(κωδικός αριθμός θέσης 1152314, κωδική ονομασία \"3032314 MPAZONH DIMITRA PARAVOLA AGRINIO\") έχει κατατεθεί από την εταιρία VODAFONE\tδήλωση εγκατάστασης κατασκευής κεραίας (αριθ. πρωτ. \n\t56516/06-07-2024) που εμπίπτει στις διατάξεις της νομοθεσίας για Εγκαταστάσεις Κατασκευών Κεραιών Χαμηλής Ηλεκτρομαγνητικής Περιβαλλοντικής Όχλησης (ΕΚΚΧΟ).",
+  "measurements_eaee": "-",
+  "documents": [
+    {
+      "document_number": "519700/06-07-2024",
+      "protocol_number": "Φωτορεαλιστική απεικόνιση κεραίας ΕΚΚΧΟ/06-07-2024",
+      "type": "Φωτογραφικό Υλικό - Σκαρίφημα",
+      "file_url": "https://silia.eett.gr/silia/download/sug7ymUSGQCTRQKycvXFEuI4o9w1xDSPnuLK"
+    },
+    {
+      "document_number": "519701/06-07-2024",
+      "protocol_number": "Ψηφιακός χάρτης με προβολή της θέσης ΕΚΚΧΟ/06-07-2024",
+      "type": "Φωτογραφικό Υλικό - Σκαρίφημα",
+      "file_url": "https://silia.eett.gr/silia/download/PTNCyzfKg0BuBRcZ2cicwmLy4K4x2kSXFuGQ"
+    },
+    {
+      "document_number": "519702/06-07-2024",
+      "protocol_number": "ΜΕΛΕΤΗ ΕΚΚΧΟ/06-07-2024",
+      "type": "Άλλο",
+      "file_url": "https://silia.eett.gr/silia/download/b4PHfLwRWKtAC5KdeVgprZl7RVZt7OBRBKEk"
+    },
+    {
+      "document_number": "519703/06-07-2024",
+      "protocol_number": "Σκαρίφημα θέσης κεραίας ΕΚΚΧΟ/06-07-2024",
+      "type": "Φωτογραφικό Υλικό - Σκαρίφημα",
+      "file_url": "https://silia.eett.gr/silia/download/6lEVTLSgEEms10MIVcUhFOgbaF9rZhCU0oW8"
+    },
+    {
+      "document_number": "519704/06-07-2024",
+      "protocol_number": "Αρχείο Αίτησης/06-07-2024",
+      "type": "Δήλωση ΕΚΚΧΟ",
+      "file_url": "https://silia.eett.gr/silia/download/uWirpllktdGaGqEOZ3w8l02nisNz16gth4Ay"
+    },
+    {
+      "document_number": "521889/25-07-2024",
+      "protocol_number": "21956/24-07-2024",
+      "type": "Έγκριση Αρμοδίου Φορέα",
+      "file_url": "https://silia.eett.gr/silia/download/lxd7r1krghtafm9ISg4FPGeXQR1Ko2fxYVu3"
+    },
+    {
+      "document_number": "530370/25-10-2024",
+      "protocol_number": "ΥΔ ΕΓΚΑΤΑΣΤΑΣΗΣ/25-10-2024",
+      "type": "Άλλο",
+      "file_url": "https://silia.eett.gr/silia/download/1AHum7Ck09VNaw4rGMA3WWO6UPG1V8ZzTM0n"
+    }
+  ]
+}

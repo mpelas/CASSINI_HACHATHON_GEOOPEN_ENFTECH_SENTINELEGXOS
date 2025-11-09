@@ -1,0 +1,45 @@
+{
+  "antenna_id": "174330",
+  "address": "ΙΤΕΑΣ 20 - ΑΡΓΥΡΟΥΠΟΛΗ",
+  "position_code": 1496710,
+  "municipality": "Ελληνικού - Αργυρούπολης",
+  "code_name": "HOTEL_BRAIN_ARGYR",
+  "region": "Αττικής",
+  "latitude": 37.905833,
+  "company": "OTE",
+  "longitude": 23.738611,
+  "permit_status": "Από τα στοιχεία που τηρούνται στην Ενημερωτική Πύλη προκύπτει ότι, για τη θέση \"ΙΤΕΑΣ 20 - ΑΡΓΥΡΟΥΠΟΛΗ\" στον Δήμο Ελληνικού - Αργυρούπολης Περιφέρειας  Αττικής \n\t(κωδικός αριθμός θέσης 1496710, κωδική ονομασία \"HOTEL_BRAIN_ARGYR\") έχει κατατεθεί από την εταιρία OTE\tδήλωση εγκατάστασης κατασκευής κεραίας (αριθ. πρωτ. \n\t57170/02-09-2024) που εμπίπτει στις διατάξεις της νομοθεσίας για Εγκαταστάσεις Κατασκευών Κεραιών Χαμηλής Ηλεκτρομαγνητικής Περιβαλλοντικής Όχλησης (ΕΚΚΧΟ).",
+  "measurements_eaee": "-",
+  "documents": [
+    {
+      "document_number": "520618/16-07-2024",
+      "protocol_number": "ΦΩΤΟΓΡΑΦΙΑ/16-07-2024",
+      "type": "Φωτογραφικό Υλικό - Σκαρίφημα",
+      "file_url": "https://silia.eett.gr/silia/download/i8PdD6aDxyrs9mB0BxO3Kd2UsaRS2rEOhs4F"
+    },
+    {
+      "document_number": "520619/16-07-2024",
+      "protocol_number": "ΦΩΤΟΓΡΑΦΙΑ1/16-07-2024",
+      "type": "Φωτογραφικό Υλικό - Σκαρίφημα",
+      "file_url": "https://silia.eett.gr/silia/download/0Ub67rWmiyrYSZlArghpNep6q49SHQ7x21Wd"
+    },
+    {
+      "document_number": "524224/30-08-2024",
+      "protocol_number": "ΜΕΛΕΤΗ/30-08-2024",
+      "type": "Αίτηση - Μελέτη Ραδιοεκπομπών ΕΕΑΕ",
+      "file_url": "https://silia.eett.gr/silia/download/Q0CKmZ8D8SF8Uloz9qmuYCbHS9CieKVTrgl0"
+    },
+    {
+      "document_number": "524316/02-09-2024",
+      "protocol_number": "Αρχείο Αίτησης/02-09-2024",
+      "type": "Δήλωση ΕΚΚΧΟ",
+      "file_url": "https://silia.eett.gr/silia/download/C3gdQZlL1qDCTRggs4i9l0u0Tm1XOCCMV4Cq"
+    },
+    {
+      "document_number": "529135/17-10-2024",
+      "protocol_number": "ΥΠ.ΔΗΛΩΣΗ/17-10-2024",
+      "type": "Άλλο",
+      "file_url": "https://silia.eett.gr/silia/download/IiGse2yBG65lXqaT5MZRF4poEyqTmVm4qohw"
+    }
+  ]
+}

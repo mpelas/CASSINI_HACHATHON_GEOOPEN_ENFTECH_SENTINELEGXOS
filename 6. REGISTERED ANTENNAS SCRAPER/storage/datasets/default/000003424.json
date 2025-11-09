@@ -1,0 +1,39 @@
+{
+  "antenna_id": "170626",
+  "address": "ΣΥΚΟΥΡΙΟ, ΔΕ ΝΕΣΣΩΝΟΣ",
+  "position_code": 1141525,
+  "municipality": "Τεμπών",
+  "code_name": "3031525 SYZEFXIS KEP SIKOURIO",
+  "region": "Θεσσαλίας",
+  "latitude": 39.759444,
+  "company": "VODAFONE",
+  "longitude": 22.579444,
+  "permit_status": "Από τα στοιχεία που τηρούνται στην Ενημερωτική Πύλη προκύπτει ότι, για τη θέση \"ΣΥΚΟΥΡΙΟ, ΔΕ ΝΕΣΣΩΝΟΣ\" στον Δήμο Τεμπών Περιφέρειας  Θεσσαλίας \n\t(κωδικός αριθμός θέσης 1141525, κωδική ονομασία \"3031525 SYZEFXIS KEP SIKOURIO\") έχει κατατεθεί από την εταιρία VODAFONE\tδήλωση εγκατάστασης κατασκευής κεραίας (αριθ. πρωτ. \n\t53476/24-10-2023) που εμπίπτει στις διατάξεις της νομοθεσίας για Εγκαταστάσεις Κατασκευών Κεραιών Χαμηλής Ηλεκτρομαγνητικής Περιβαλλοντικής Όχλησης (ΕΚΚΧΟ).",
+  "measurements_eaee": "-",
+  "documents": [
+    {
+      "document_number": "498381/24-10-2023",
+      "protocol_number": "Φωτορεαλιστική απεικόνιση κεραιας ΕΚΚΧΟ/",
+      "type": "Φωτογραφικό Υλικό - Σκαρίφημα",
+      "file_url": "https://silia.eett.gr/silia/download/621203e1-a0bc-40de-a75d-0d868474a63d"
+    },
+    {
+      "document_number": "498382/24-10-2023",
+      "protocol_number": "Ψηφιακός Χάρτης με προβολή της θέσης της κεραίας ΕΚΚΧΟ/",
+      "type": "Φωτογραφικό Υλικό - Σκαρίφημα",
+      "file_url": "https://silia.eett.gr/silia/download/2284a0cf-8907-4339-a7fc-a93166c36014"
+    },
+    {
+      "document_number": "498484/24-10-2023",
+      "protocol_number": "Μελέτη ΕΚΚΧΟ/24-10-2023",
+      "type": "Άλλο",
+      "file_url": "https://silia.eett.gr/silia/download/42fce020-75cf-4813-8166-b36e1cbea8f1"
+    },
+    {
+      "document_number": "498485/24-10-2023",
+      "protocol_number": "Αρχείο Αίτησης/",
+      "type": "Δήλωση ΕΚΚΧΟ",
+      "file_url": "https://silia.eett.gr/silia/download/d281a2e6-ef63-4f78-b903-6bb8c5e20712"
+    }
+  ]
+}

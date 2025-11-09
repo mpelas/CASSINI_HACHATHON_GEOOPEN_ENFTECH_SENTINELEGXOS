@@ -1,0 +1,69 @@
+{
+  "antenna_id": "167356",
+  "address": "2 ΧΛΜ ΗΓΟΥΜΕΝΙΤΣΑΣ - ΙΩΑΝΝΙΝΩΝ ΗΓΟΥΜΕΝΙΤΣΑ.",
+  "position_code": 1159952,
+  "municipality": "Ηγουμενίτσας",
+  "code_name": "3029952 DEH KAT POLISEON IGOUMENITSAS",
+  "region": "Ηπείρου",
+  "latitude": 39.524167,
+  "company": "VODAFONE",
+  "longitude": 20.260833,
+  "permit_status": "Από τα στοιχεία που τηρούνται στην Ενημερωτική Πύλη προκύπτει ότι, για τη θέση \"2 ΧΛΜ ΗΓΟΥΜΕΝΙΤΣΑΣ - ΙΩΑΝΝΙΝΩΝ ΗΓΟΥΜΕΝΙΤΣΑ.\" στον Δήμο Ηγουμενίτσας Περιφέρειας  Ηπείρου \n\t(κωδικός αριθμός θέσης 1159952, κωδική ονομασία \"3029952 DEH KAT POLISEON IGOUMENITSAS\") έχει κατατεθεί από την εταιρία VODAFONE\tδήλωση εγκατάστασης κατασκευής κεραίας (αριθ. πρωτ. \n\t50853/28-02-2023) που εμπίπτει στις διατάξεις της νομοθεσίας για Εγκαταστάσεις Κατασκευών Κεραιών Χαμηλής Ηλεκτρομαγνητικής Περιβαλλοντικής Όχλησης (ΕΚΚΧΟ).",
+  "measurements_eaee": "-",
+  "documents": [
+    {
+      "document_number": "478865/24-02-2023",
+      "protocol_number": "Φωτορεαλιστική απεικόνιση ΕΚΚΧΟ/",
+      "type": "Φωτογραφικό Υλικό - Σκαρίφημα",
+      "file_url": "https://silia.eett.gr/silia/download/ae98dea2-7065-4c36-82fb-2f8282fe077c"
+    },
+    {
+      "document_number": "478866/24-02-2023",
+      "protocol_number": "Ψηφιακός Χάρτης με προβολή της θέσης ΕΚΚΧΟ/",
+      "type": "Φωτογραφικό Υλικό - Σκαρίφημα",
+      "file_url": "https://silia.eett.gr/silia/download/318fdda6-7c0c-46f1-a597-595114b6e615"
+    },
+    {
+      "document_number": "479111/28-02-2023",
+      "protocol_number": "Μελέτη ΕΚΚΧΟ/24-02-2023",
+      "type": "Άλλο",
+      "file_url": "https://silia.eett.gr/silia/download/927578c9-55df-4970-b674-67cf59a49cc8"
+    },
+    {
+      "document_number": "479112/28-02-2023",
+      "protocol_number": "Σκαρίφημα με περιοχή απαγόρευσης/",
+      "type": "Φωτογραφικό Υλικό - Σκαρίφημα",
+      "file_url": "https://silia.eett.gr/silia/download/22462b73-94fb-4089-b481-ddaa0390de2e"
+    },
+    {
+      "document_number": "479113/28-02-2023",
+      "protocol_number": "Αρχείο Αίτησης/",
+      "type": "Δήλωση ΕΚΚΧΟ",
+      "file_url": "https://silia.eett.gr/silia/download/ff1c736a-8c57-4899-9e7b-27384f1eb476"
+    },
+    {
+      "document_number": "483219/26-04-2023",
+      "protocol_number": "ΥΔ εγκατάστασης/26-04-2023",
+      "type": "Άλλο",
+      "file_url": "https://silia.eett.gr/silia/download/eeba9889-aea9-49f0-9e18-9bcc87c06aae"
+    },
+    {
+      "document_number": "520441/14-07-2024",
+      "protocol_number": "50853/12-07-2024",
+      "type": "Δειγματοληπτικός έλεγχος",
+      "file_url": "https://silia.eett.gr/silia/download/tITlObbTobf9YHLlGi6yQigTigfLkr1kGgK7"
+    },
+    {
+      "document_number": "520442/14-07-2024",
+      "protocol_number": "508531/12-07-2024",
+      "type": "Δειγματοληπτικός έλεγχος",
+      "file_url": "https://silia.eett.gr/silia/download/ciFfWT0R5zztpBxwLlE3rr1GYg7YZluPK9G7"
+    },
+    {
+      "document_number": "520443/14-07-2024",
+      "protocol_number": "5085311/12-07-2024",
+      "type": "Δειγματοληπτικός έλεγχος",
+      "file_url": "https://silia.eett.gr/silia/download/tpI2lK6muDIXrV2vnD6TvywBz9Fz0yYvOT4P"
+    }
+  ]
+}

@@ -1,0 +1,87 @@
+{
+  "antenna_id": "172320",
+  "address": "ΠΛΑΤΑΝΟΣ ΗΜΑΘΙΑΣ",
+  "position_code": 1442060,
+  "municipality": "Αλεξάνδρειας",
+  "code_name": "PLATANOS T/K",
+  "region": "Κεντρικής Μακεδονίας",
+  "latitude": 40.566389,
+  "company": "OTE",
+  "longitude": 22.552222,
+  "permit_status": "Από τα στοιχεία που τηρούνται στην Ενημερωτική Πύλη προκύπτει ότι, για τη θέση \"ΠΛΑΤΑΝΟΣ ΗΜΑΘΙΑΣ\" στον Δήμο Αλεξάνδρειας Περιφέρειας  Κεντρικής Μακεδονίας \n\t(κωδικός αριθμός θέσης 1442060, κωδική ονομασία \"PLATANOS T/K\") χορηγήθηκε, με την Απόφαση της ΕΕΤΤ \n50888/02-05-2024, άδεια κατασκευής κεραίας στην εταιρία OTE. \nΑπό τo έγγραφο της άδειας μπορείτε να ενημερωθείτε για τις σχετικές εγκρίσεις των συναρμόδιων φορέων, καθώς και εάν πρόκειται για τροποποίηση παλαιότερης άδειας.\n\tΣύμφωνα με τα στοιχεία που έχουν υποβληθεί στο ΣΗΛΥΑ, ο κάτοχος της κατασκευής κεραίας έχει δηλώσει ότι θα προβεί σε έκδοση έγκρισης δομικών κατασκευών \n\t\tκεραίας μέσω του e-Άδειες \n\t\tμετά την έκδοση της άδειας κατασκευής κεραίας / δημοσιοποίηση της δήλωσης τροποποίησης της κατασκευής κεραίας",
+  "measurements_eaee": "-",
+  "documents": [
+    {
+      "document_number": "508510/26-02-2024",
+      "protocol_number": "ΜΕΣΩ ΣΗΛΥΑ/",
+      "type": "Τοπογραφικό",
+      "file_url": "https://silia.eett.gr/silia/download/7f6125be-073c-4fe6-bccc-666ec213187a"
+    },
+    {
+      "document_number": "508511/26-02-2024",
+      "protocol_number": "ΜΕΣΩ ΣΗΛΥΑ/",
+      "type": "Αρχιτεκτονικά Σχέδια",
+      "file_url": "https://silia.eett.gr/silia/download/fe360ffa-e8a3-42f5-b556-2586ea4dc898"
+    },
+    {
+      "document_number": "508512/26-02-2024",
+      "protocol_number": "ΜΕΣΩ ΣΗΛΥΑ/16-02-2024",
+      "type": "Αίτηση - Μελέτη Ραδιοεκπομπών ΕΕΑΕ",
+      "file_url": "https://silia.eett.gr/silia/download/40911d99-2700-4972-af8b-b5702bf6375a"
+    },
+    {
+      "document_number": "508513/26-02-2024",
+      "protocol_number": "ΑΝΑΚΟΙΝΩΣΗ ΚΑΤΑΧΩΡΗΣΗ Γ.Ε.ΜΗ  3189349/",
+      "type": "Άλλο",
+      "file_url": "https://silia.eett.gr/silia/download/0df78ff1-279b-4a50-a19a-3dfd80f276d5"
+    },
+    {
+      "document_number": "508587/26-02-2024",
+      "protocol_number": "Αρχείο Αίτησης/",
+      "type": "Αίτηση Άδειας Κατασκευής Κεραίας ΕΕΤΤ",
+      "file_url": "https://silia.eett.gr/silia/download/8334f922-b36d-41d2-8273-8f687cb074f3"
+    },
+    {
+      "document_number": "509341/05-03-2024",
+      "protocol_number": "TMIA/411/3642/2024/05-03-2024",
+      "type": "Γνωμάτευση ΕΕΑΕ",
+      "file_url": "https://silia.eett.gr/silia/download/VFTCG1rPW01zDZBPaMR9NpPVqqqAGtPgrou6"
+    },
+    {
+      "document_number": "512350/05-04-2024",
+      "protocol_number": "ΚΓ/Δ3/Δ 5207/13-03-2024",
+      "type": "Γνωμάτευση ΥΠΑ",
+      "file_url": "https://silia.eett.gr/silia/download/fYD2zgaddinU1c9lyrdOb8KF1vAaHBKWa851"
+    },
+    {
+      "document_number": "512756/11-04-2024",
+      "protocol_number": "Μελέτη EMC/11-04-2024",
+      "type": "Αίτηση ΥΠΑ",
+      "file_url": "https://silia.eett.gr/silia/download/Hg7LByPggPxOaGiemwgqCg6zwRH2FbVuEdOO"
+    },
+    {
+      "document_number": "512757/11-04-2024",
+      "protocol_number": "ΜΕΛΕΤΗ EMC/11-04-2024",
+      "type": "Αποτελέσματα μελέτης στη ζώνης 2.6GHz για ΥΠΑ/ΓΕΕΘΑ",
+      "file_url": "https://silia.eett.gr/silia/download/ziRboWV3RGB4aYUSYqGsAUIN8L60YkOIcTLB"
+    },
+    {
+      "document_number": "514631/09-05-2024",
+      "protocol_number": "50888/02-05-2024",
+      "type": "Άδεια Κατασκευής  Κεραίας",
+      "file_url": "https://silia.eett.gr/silia/download/ECkg3nsoDVmW3i8KlKbcZZygmGKokLYpblCQ"
+    },
+    {
+      "document_number": "508514/26-02-2024",
+      "protocol_number": "ΜΕΣΩ ΣΗΛΥΑ/",
+      "type": "Δήλωση υπαγωγής σε ΠΠΔ και Συνοδευτικά Έγγραφα",
+      "file_url": "https://silia.eett.gr/silia/download/74e40a1f-628c-46ec-a952-5642a38c4a22"
+    },
+    {
+      "document_number": "508588/26-02-2024",
+      "protocol_number": "Αρχείο Αίτησης/",
+      "type": "Δήλωση ΠΠΔ",
+      "file_url": "https://silia.eett.gr/silia/download/78dbabf5-a0f0-4ec0-8f03-aaf3a5ab49f4"
+    }
+  ]
+}

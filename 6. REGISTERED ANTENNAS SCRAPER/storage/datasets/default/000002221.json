@@ -1,0 +1,111 @@
+{
+  "antenna_id": "171735",
+  "address": "ΜΥΛΑΣΣΩΝ 5",
+  "position_code": 1400036,
+  "municipality": "Νίκαιας - Αγίου Ι. Ρέντη",
+  "code_name": "ΝΙΚΑΙΑ",
+  "region": "Αττικής",
+  "latitude": 37.965,
+  "company": "OTE",
+  "longitude": 23.650278,
+  "permit_status": "Από τα στοιχεία που τηρούνται στην Ενημερωτική Πύλη προκύπτει ότι, για τη θέση \"ΜΥΛΑΣΣΩΝ 5 \" στον Δήμο Νίκαιας - Αγίου Ι. Ρέντη Περιφέρειας  Αττικής \n\t(κωδικός αριθμός θέσης 1400036, κωδική ονομασία \"ΝΙΚΑΙΑ\") χορηγήθηκε, με την Απόφαση της ΕΕΤΤ \n50768/29-03-2024, άδεια κατασκευής κεραίας στην εταιρία OTE. \nΑπό τo έγγραφο της άδειας μπορείτε να ενημερωθείτε για τις σχετικές εγκρίσεις των συναρμόδιων φορέων, καθώς και εάν πρόκειται για τροποποίηση παλαιότερης άδειας.\n\tΣύμφωνα με τα στοιχεία που έχουν υποβληθεί στο ΣΗΛΥΑ, ο κάτοχος της κατασκευής κεραίας έχει δηλώσει ότι θα προβεί σε έκδοση έγκρισης δομικών κατασκευών \n\t\tκεραίας μέσω του e-Άδειες \n\t\tμετά την έκδοση της άδειας κατασκευής κεραίας / δημοσιοποίηση της δήλωσης τροποποίησης της κατασκευής κεραίας",
+  "measurements_eaee": "-",
+  "documents": [
+    {
+      "document_number": "504785/16-01-2024",
+      "protocol_number": "ΜΕΣΩ ΣΗΛΥΑ/",
+      "type": "Τοπογραφικό",
+      "file_url": "https://silia.eett.gr/silia/download/71ecf592-c636-40c0-916b-113bb49f6167"
+    },
+    {
+      "document_number": "504786/16-01-2024",
+      "protocol_number": "ΜΕΣΩ ΣΗΛΥΑ/",
+      "type": "Αρχιτεκτονικά Σχέδια",
+      "file_url": "https://silia.eett.gr/silia/download/37f60ead-1cd7-4a46-b07e-787ebb9466c8"
+    },
+    {
+      "document_number": "504787/16-01-2024",
+      "protocol_number": "ΜΕΣΩ ΣΗΛΥΑ/12-01-2024",
+      "type": "Αίτηση - Μελέτη Ραδιοεκπομπών ΕΕΑΕ",
+      "file_url": "https://silia.eett.gr/silia/download/caa50e19-42d0-4ad7-a614-bd4ff95fd5ce"
+    },
+    {
+      "document_number": "504788/16-01-2024",
+      "protocol_number": "ΜΕΛΕΤΗ ΕΜC/15-01-2024",
+      "type": "Αποτελέσματα μελέτης στη ζώνης 2.6GHz για ΥΠΑ/ΓΕΕΘΑ",
+      "file_url": "https://silia.eett.gr/silia/download/72d4bbb3-40f3-491d-abcc-1c7a7d0893bb"
+    },
+    {
+      "document_number": "504789/16-01-2024",
+      "protocol_number": "Δ3/Δ/51195/7846/15-12-1997",
+      "type": "Γνωμάτευση ΥΠΑ",
+      "file_url": "https://silia.eett.gr/silia/download/47d258e3-7f72-4ec0-aaae-3a359bb6f05a"
+    },
+    {
+      "document_number": "504790/16-01-2024",
+      "protocol_number": "Δ3/Δ/20906/5241/23-06-2005",
+      "type": "Γνωμάτευση ΥΠΑ",
+      "file_url": "https://silia.eett.gr/silia/download/a086e727-6f1c-4f9a-8b54-0c30ddc0be0e"
+    },
+    {
+      "document_number": "504791/16-01-2024",
+      "protocol_number": "Δ3/Δ/9002/29-09-2005",
+      "type": "Γνωμάτευση ΥΠΑ",
+      "file_url": "https://silia.eett.gr/silia/download/cbd31790-0f30-4491-9457-e7f2da88fea5"
+    },
+    {
+      "document_number": "504792/16-01-2024",
+      "protocol_number": "Δ3/Δ/9356/19-12-2013",
+      "type": "Γνωμάτευση ΥΠΑ",
+      "file_url": "https://silia.eett.gr/silia/download/ac0aec9e-f2cf-48de-b503-f8d6b0467253"
+    },
+    {
+      "document_number": "504798/16-01-2024",
+      "protocol_number": "ΜΕΣΩ ΣΗΛΥΑ/",
+      "type": "Αίτηση ΥΠΑ",
+      "file_url": "https://silia.eett.gr/silia/download/badf237e-d807-4770-a74a-fb44e90ce247"
+    },
+    {
+      "document_number": "504799/16-01-2024",
+      "protocol_number": "5803/16-01-2024",
+      "type": "Επιστολή Ενημέρωσης προς Αρμόδιο Φορέα",
+      "file_url": "https://silia.eett.gr/silia/download/0f18c0a8-b078-42d0-aa56-365fb776fa82"
+    },
+    {
+      "document_number": "504800/16-01-2024",
+      "protocol_number": "ΑΝΑΚΟΙΝΩΣΗ ΚΑΤΑΧΩΡΗΣΗΣ ΓΕΜΗ 3189349/",
+      "type": "Άλλο",
+      "file_url": "https://silia.eett.gr/silia/download/96920f30-fed7-4140-a520-1b7eaf95efe6"
+    },
+    {
+      "document_number": "504810/16-01-2024",
+      "protocol_number": "Αρχείο Αίτησης/",
+      "type": "Αίτηση Άδειας Κατασκευής Κεραίας ΕΕΤΤ",
+      "file_url": "https://silia.eett.gr/silia/download/6a3058dd-f7c7-4663-857c-59c3f86df840"
+    },
+    {
+      "document_number": "509157/01-03-2024",
+      "protocol_number": "TMIA/411/3468/2024/01-03-2024",
+      "type": "Γνωμάτευση ΕΕΑΕ",
+      "file_url": "https://silia.eett.gr/silia/download/5cf8cccb-4deb-4dc1-975b-24d56fb3c123"
+    },
+    {
+      "document_number": "511925/02-04-2024",
+      "protocol_number": "50768/29-03-2024",
+      "type": "Άδεια Κατασκευής  Κεραίας",
+      "file_url": "https://silia.eett.gr/silia/download/Rgo3ZauQiVa4QwybschDHsk8V4T2MWvk4VGr"
+    },
+    {
+      "document_number": "504813/16-01-2024",
+      "protocol_number": "ΣΥΝΟΔΕΥΤΙΚΑ ΕΓΓΡΑΦΑ/",
+      "type": "Δήλωση υπαγωγής σε ΠΠΔ και Συνοδευτικά Έγγραφα",
+      "file_url": "https://silia.eett.gr/silia/download/e3b4f078-3999-4ebe-89e0-3837c505ab26"
+    },
+    {
+      "document_number": "504814/16-01-2024",
+      "protocol_number": "Αρχείο Αίτησης/",
+      "type": "Δήλωση ΠΠΔ",
+      "file_url": "https://silia.eett.gr/silia/download/387943e8-9673-4f2a-a1ef-9e0752862d3d"
+    }
+  ]
+}

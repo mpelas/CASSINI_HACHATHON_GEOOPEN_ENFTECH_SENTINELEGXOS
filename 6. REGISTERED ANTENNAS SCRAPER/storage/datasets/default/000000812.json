@@ -1,0 +1,57 @@
+{
+  "antenna_id": "170188",
+  "address": "12ΧΛΜ ΗΡΑΚΛΕΙΟΥ ΒΙΑΝΝΟΥ ΘΕΣΗ ΚΕΦΑΛΑ ΚΟΥΝΑΒΩΝ ΑΡΧΑΝΕΣ",
+  "position_code": 1271129,
+  "municipality": "Αρχανών - Αστερουσίων",
+  "code_name": "CORAL IRAKLEIO-KOUNAVOI",
+  "region": "Κρήτης",
+  "latitude": 35.236944,
+  "company": "NOVA Μ.Α.Ε.",
+  "longitude": 25.180556,
+  "permit_status": "Από τα στοιχεία που τηρούνται στην Ενημερωτική Πύλη προκύπτει ότι, για τη θέση \"12ΧΛΜ ΗΡΑΚΛΕΙΟΥ ΒΙΑΝΝΟΥ ΘΕΣΗ ΚΕΦΑΛΑ ΚΟΥΝΑΒΩΝ ΑΡΧΑΝΕΣ\" στον Δήμο Αρχανών - Αστερουσίων Περιφέρειας  Κρήτης \n\t(κωδικός αριθμός θέσης 1271129, κωδική ονομασία \"CORAL IRAKLEIO-KOUNAVOI\") έχει κατατεθεί από την εταιρία NOVA Μ.Α.Ε.\tδήλωση εγκατάστασης κατασκευής κεραίας (αριθ. πρωτ. \n\t53072/29-09-2023) που εμπίπτει στις διατάξεις της νομοθεσίας για Εγκαταστάσεις Κατασκευών Κεραιών Χαμηλής Ηλεκτρομαγνητικής Περιβαλλοντικής Όχλησης (ΕΚΚΧΟ).",
+  "measurements_eaee": "-",
+  "documents": [
+    {
+      "document_number": "495760/28-09-2023",
+      "protocol_number": "ΑΠΕΙΚΟΝΙΣΗ GOOGLE EARTH/",
+      "type": "Άλλο",
+      "file_url": "https://silia.eett.gr/silia/download/722332b3-9d31-4c25-b62a-9727cb627e0d"
+    },
+    {
+      "document_number": "495761/28-09-2023",
+      "protocol_number": "ΦΩΤΟΓΡΑΦΙΑ ΕΚΚΧΟ/",
+      "type": "Φωτογραφικό Υλικό - Σκαρίφημα",
+      "file_url": "https://silia.eett.gr/silia/download/9b377f34-a335-4ab6-94ff-dd98fd69f6c9"
+    },
+    {
+      "document_number": "495762/28-09-2023",
+      "protocol_number": "ΣΚΑΡΙΦΗΜΑ ΕΚΚΧΟ/",
+      "type": "Φωτογραφικό Υλικό - Σκαρίφημα",
+      "file_url": "https://silia.eett.gr/silia/download/83da0be8-d22f-4c01-bc02-a861a5bba226"
+    },
+    {
+      "document_number": "495887/29-09-2023",
+      "protocol_number": "ΜΕΛΕΤΗ ΕΚΚΧΟ/",
+      "type": "Άλλο",
+      "file_url": "https://silia.eett.gr/silia/download/3b17c96b-39bf-45fb-8838-49dc7422ab13"
+    },
+    {
+      "document_number": "495888/29-09-2023",
+      "protocol_number": "ΠΕΡΙΟΧΗ ΑΠΑΓΟΡΕΥΣΗΣ/",
+      "type": "Άλλο",
+      "file_url": "https://silia.eett.gr/silia/download/00fcdf1f-145f-4f8d-915d-0d3dba4d4070"
+    },
+    {
+      "document_number": "495890/29-09-2023",
+      "protocol_number": "Αρχείο Αίτησης/",
+      "type": "Δήλωση ΕΚΚΧΟ",
+      "file_url": "https://silia.eett.gr/silia/download/4069aa63-a6d0-4134-bd6a-5e1f9a3df441"
+    },
+    {
+      "document_number": "497985/20-10-2023",
+      "protocol_number": "ΥΠΕΥΘΥΝΗ ΔΗΛΩΣΗ ΤΕΧΝΙΚΟΥ ΥΠΕΥΘΥΝΟΥ/",
+      "type": "Άλλο",
+      "file_url": "https://silia.eett.gr/silia/download/2e7dd3e0-f0c7-4c51-9516-df5dd1d9c3d0"
+    }
+  ]
+}

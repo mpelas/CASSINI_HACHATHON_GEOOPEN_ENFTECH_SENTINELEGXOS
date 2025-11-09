@@ -1,0 +1,75 @@
+{
+  "antenna_id": "160157",
+  "address": "ΚΤΙΡΙΟ ΟΤΕ, Τ.Κ. ΡΑΧΩΝΙΟΥ, ΘΑΣΟΣ",
+  "position_code": 1442036,
+  "municipality": "Θάσου",
+  "code_name": "SK RAHONIOU",
+  "region": "Ανατ. Μακεδονίας και Θράκης",
+  "latitude": 40.777222,
+  "company": "OTE",
+  "longitude": 24.611667,
+  "permit_status": "Από τα στοιχεία που τηρούνται στην Ενημερωτική Πύλη προκύπτει ότι, για τη θέση \"ΚΤΙΡΙΟ ΟΤΕ, Τ.Κ. ΡΑΧΩΝΙΟΥ, ΘΑΣΟΣ\" στον Δήμο Θάσου Περιφέρειας  Ανατ. Μακεδονίας και Θράκης \n\t(κωδικός αριθμός θέσης 1442036, κωδική ονομασία \"SK RAHONIOU\") χορηγήθηκε, με την Απόφαση της ΕΕΤΤ \n43308/08-03-2022, άδεια κατασκευής κεραίας στην εταιρία OTE. \nΑπό τo έγγραφο της άδειας μπορείτε να ενημερωθείτε για τις σχετικές εγκρίσεις των συναρμόδιων φορέων, καθώς και εάν πρόκειται για τροποποίηση παλαιότερης άδειας.",
+  "measurements_eaee": "-",
+  "documents": [
+    {
+      "document_number": "440247/06-09-2021",
+      "protocol_number": "ΜΕΣΩ ΣΗΛΥΑ/",
+      "type": "Τοπογραφικό",
+      "file_url": "https://silia.eett.gr/silia/download/ea3b80a2-670c-48fd-a081-ea6f19697119"
+    },
+    {
+      "document_number": "440248/06-09-2021",
+      "protocol_number": "ΜΕΣΩ ΣΗΛΥΑ/",
+      "type": "Αρχιτεκτονικά Σχέδια",
+      "file_url": "https://silia.eett.gr/silia/download/d193d926-6d51-4161-8621-cb6479d87178"
+    },
+    {
+      "document_number": "440249/06-09-2021",
+      "protocol_number": "ΜΕΣΩ ΣΗΛΥΑ/31-08-2021",
+      "type": "Αίτηση - Μελέτη Ραδιοεκπομπών ΕΕΑΕ",
+      "file_url": "https://silia.eett.gr/silia/download/d0c089c5-04a2-453e-9156-175e63609af3"
+    },
+    {
+      "document_number": "440250/06-09-2021",
+      "protocol_number": "ΥΠ.ΔΗΛΩΣΗ ΣΥΝΕΓΚΑΤΑΣΤΑΣΗΣ ΟΤΕ/06-09-2021",
+      "type": "Άλλο",
+      "file_url": "https://silia.eett.gr/silia/download/0371a51b-256c-4260-b0b1-c5bd9acde114"
+    },
+    {
+      "document_number": "440252/06-09-2021",
+      "protocol_number": "Αρχείο Αίτησης/",
+      "type": "Αίτηση Άδειας Κατασκευής Κεραίας ΕΕΤΤ",
+      "file_url": "https://silia.eett.gr/silia/download/17933322-69a0-4827-84ae-29a8d7ea8eaf"
+    },
+    {
+      "document_number": "441312/21-09-2021",
+      "protocol_number": "Δ3/Δ/32178/21-9-2021/21-09-2021",
+      "type": "Γνωμάτευση ΥΠΑ",
+      "file_url": "https://silia.eett.gr/silia/download/0e68d7b5-c43e-4d9d-8ac5-e56245622dd4"
+    },
+    {
+      "document_number": "448249/16-12-2021",
+      "protocol_number": "Μ.ι./411/22135/2021/16-12-2021",
+      "type": "Γνωμάτευση ΕΕΑΕ",
+      "file_url": "https://silia.eett.gr/silia/download/13a00d04-45a9-4985-9ee7-73bc555801e0"
+    },
+    {
+      "document_number": "452887/10-03-2022",
+      "protocol_number": "43308/08-03-2022",
+      "type": "Άδεια Κατασκευής  Κεραίας",
+      "file_url": "https://silia.eett.gr/silia/download/6e2be117-c89d-4fad-a73f-597db57e9c01"
+    },
+    {
+      "document_number": "440251/06-09-2021",
+      "protocol_number": "ΜΕΣΩ ΣΗΛΥΑ/",
+      "type": "Δήλωση υπαγωγής σε ΠΠΔ και Συνοδευτικά Έγγραφα",
+      "file_url": "https://silia.eett.gr/silia/download/121a60b6-32ef-4274-a218-17b50aa1e9d7"
+    },
+    {
+      "document_number": "440253/06-09-2021",
+      "protocol_number": "Αρχείο Αίτησης/",
+      "type": "Δήλωση ΠΠΔ",
+      "file_url": "https://silia.eett.gr/silia/download/25db013f-3ada-41cb-a33a-97272262e2de"
+    }
+  ]
+}

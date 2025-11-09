@@ -1,0 +1,45 @@
+{
+  "antenna_id": "113427",
+  "address": "Ι.ΝΙΚΑ 25-37, ΑΧΑΡΝΑΙ",
+  "position_code": 1267041,
+  "municipality": "Αχαρνών",
+  "code_name": "EUROBANK ΜΕΝΙΔΙ",
+  "region": "Αττικής",
+  "latitude": 38.065833,
+  "company": "NOVA Μ.Α.Ε.",
+  "longitude": 23.745,
+  "permit_status": "Από τα στοιχεία που τηρούνται στην Ενημερωτική Πύλη προκύπτει ότι, για τη θέση \"Ι.ΝΙΚΑ 25-37, ΑΧΑΡΝΑΙ\" στον Δήμο Αχαρνών Περιφέρειας  Αττικής \n\t(κωδικός αριθμός θέσης 1267041, κωδική ονομασία \"EUROBANK ΜΕΝΙΔΙ\") έχει κατατεθεί από την εταιρία NOVA Μ.Α.Ε.\tδήλωση εγκατάστασης κατασκευής κεραίας (αριθ. πρωτ. \n\t12464/04-09-2015) που εμπίπτει στις διατάξεις της νομοθεσίας για Εγκαταστάσεις Κατασκευών Κεραιών Χαμηλής Ηλεκτρομαγνητικής Περιβαλλοντικής Όχλησης (ΕΚΚΧΟ).",
+  "measurements_eaee": "-",
+  "documents": [
+    {
+      "document_number": "229005/03-09-2015",
+      "protocol_number": "EBA/259668/152143/7421/17-10-2014",
+      "type": "Γνωμοδότηση ΕΒΑ",
+      "file_url": "https://silia.eett.gr/silia/download/8f7d3427-265c-4fad-8637-053965546556"
+    },
+    {
+      "document_number": "229006/03-09-2015",
+      "protocol_number": "292133/32799/302/13-11-2014",
+      "type": "Γνωμοδότηση Υπηρεσίας Νεωτέρων Μνημείων",
+      "file_url": "https://silia.eett.gr/silia/download/6070da80-e032-4156-b0cd-a11c7396856d"
+    },
+    {
+      "document_number": "229007/03-09-2015",
+      "protocol_number": "EPKA/259406/152000/8955/17-10-2014",
+      "type": "Γνωμοδότηση ΕΠΚΑ",
+      "file_url": "https://silia.eett.gr/silia/download/e421a931-25c1-4d54-86c0-5b290d85dc49"
+    },
+    {
+      "document_number": "229008/03-09-2015",
+      "protocol_number": "ΕΠΙΣΥΝΑΠΤΟΜΕΝΟ/",
+      "type": "Φωτογραφικό Υλικό - Σκαρίφημα",
+      "file_url": "https://silia.eett.gr/silia/download/a4192764-9530-4041-b127-754c6dc73ac3"
+    },
+    {
+      "document_number": "229216/04-09-2015",
+      "protocol_number": "Αρχείο Αίτησης/",
+      "type": "Δήλωση ΕΚΚΧΟ",
+      "file_url": "https://silia.eett.gr/silia/download/8e54bcb4-7b89-4c04-baa8-a43edf604394"
+    }
+  ]
+}

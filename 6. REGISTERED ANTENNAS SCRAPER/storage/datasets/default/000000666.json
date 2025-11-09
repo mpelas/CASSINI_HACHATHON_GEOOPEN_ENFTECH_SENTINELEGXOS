@@ -1,0 +1,81 @@
+{
+  "antenna_id": "150349",
+  "address": "ΕΠΙ ΑΝΩΝΥΜΗΣ ΜΗ-ΑΣΦΑΛΤΟΣΤΡΩΜΕΝΗΣ ΟΔΟΥ ΚΑΣΤΡΟΥΓΚΑΙΝΑ Α/Δ, ΚΑΣΤΡΟΥΓΚΑΙΝΑ",
+  "position_code": 220129,
+  "municipality": "Ανδρίτσαινας - Κρεστένων",
+  "code_name": "ΚΑΣΤΡΟΥΓΚΑΙΝΑ Α/Δ",
+  "region": "Δυτικής Ελλάδας",
+  "latitude": 37.406667,
+  "company": "OTE",
+  "longitude": 21.877778,
+  "permit_status": "Από τα στοιχεία που τηρούνται στην Ενημερωτική Πύλη προκύπτει ότι, για τη θέση \"ΕΠΙ ΑΝΩΝΥΜΗΣ ΜΗ-ΑΣΦΑΛΤΟΣΤΡΩΜΕΝΗΣ ΟΔΟΥ ΚΑΣΤΡΟΥΓΚΑΙΝΑ Α/Δ, ΚΑΣΤΡΟΥΓΚΑΙΝΑ\" στον Δήμο Ανδρίτσαινας - Κρεστένων Περιφέρειας  Δυτικής Ελλάδας \n\t(κωδικός αριθμός θέσης 0220129, κωδική ονομασία \"ΚΑΣΤΡΟΥΓΚΑΙΝΑ Α/Δ\") χορηγήθηκε, με την Απόφαση της ΕΕΤΤ \n37811/09-11-2020, άδεια κατασκευής κεραίας στην εταιρία OTE. \nΑπό τo έγγραφο της άδειας μπορείτε να ενημερωθείτε για τις σχετικές εγκρίσεις των συναρμόδιων φορέων, καθώς και εάν πρόκειται για τροποποίηση παλαιότερης άδειας.\nΗ άδεια χορηγήθηκε με τη διαδικασία αδειοδότησης που ορίζει ο ν. 4635/2019, κατόπιν της με αριθ. πρωτ. 37057/14-02-2020 \n\tαίτησης, και βάσει σχετικής δήλωσης του κατόχου της περί υπαγωγή της κατασκευής κεραίας στο άρθρο 34 του ν. 4635/2019.",
+  "measurements_eaee": "-",
+  "documents": [
+    {
+      "document_number": "393983/14-02-2020",
+      "protocol_number": "ΜΕΣΩ ΣΗΛΥΑ/",
+      "type": "Τοπογραφικό",
+      "file_url": "https://silia.eett.gr/silia/download/ca7a6ce6-ca78-4089-8031-631d2c39f0d2"
+    },
+    {
+      "document_number": "393984/14-02-2020",
+      "protocol_number": "ΜΕΣΩ ΣΗΛΥΑ/",
+      "type": "Αρχιτεκτονικά Σχέδια",
+      "file_url": "https://silia.eett.gr/silia/download/e49d85c3-d8ac-49c2-ab7d-353ca8d86b33"
+    },
+    {
+      "document_number": "393985/14-02-2020",
+      "protocol_number": "Δ3/Δ/8230/2027/18-03-2005",
+      "type": "Γνωμάτευση ΥΠΑ",
+      "file_url": "https://silia.eett.gr/silia/download/208a2050-3be3-4df3-9fb3-a37692437c0a"
+    },
+    {
+      "document_number": "393986/14-02-2020",
+      "protocol_number": "ΜΕΣΩ ΣΗΛΥΑ/14-02-2020",
+      "type": "Αίτηση ΥΠΑ",
+      "file_url": "https://silia.eett.gr/silia/download/2b1bcfcb-e171-4673-a8df-5272543c6a90"
+    },
+    {
+      "document_number": "393987/14-02-2020",
+      "protocol_number": "ΜΕΣΩ ΣΗΛΥΑ/27-11-2019",
+      "type": "Αίτηση - Μελέτη Ραδιοεκπομπών ΕΕΑΕ",
+      "file_url": "https://silia.eett.gr/silia/download/f5d5afa7-501f-48ae-b27c-e42f2a4babfc"
+    },
+    {
+      "document_number": "393988/14-02-2020",
+      "protocol_number": "ΥΠ.ΔΗΛΩΣΗ ΣΥΝΕΓΚΑΤΑΣΤΑΣΗΣ COSMOTE/14-02-2020",
+      "type": "Άλλο",
+      "file_url": "https://silia.eett.gr/silia/download/e793935e-2799-4931-a913-bb22a4ec14d4"
+    },
+    {
+      "document_number": "394049/14-02-2020",
+      "protocol_number": "Αρχείο Αίτησης/",
+      "type": "Αίτηση Άδειας Κατασκευής Κεραίας ΕΕΤΤ",
+      "file_url": "https://silia.eett.gr/silia/download/53d0f31d-6b36-454c-996f-6c62f007404f"
+    },
+    {
+      "document_number": "402657/16-04-2020",
+      "protocol_number": "Μ.ι./411/5240/2020/16-04-2020",
+      "type": "Γνωμάτευση ΕΕΑΕ",
+      "file_url": "https://silia.eett.gr/silia/download/d5ee45eb-8b1f-49d8-a8c4-050c2d080412"
+    },
+    {
+      "document_number": "422102/17-11-2020",
+      "protocol_number": "37811/09-11-2020",
+      "type": "Άδεια Κατασκευής  Κεραίας",
+      "file_url": "https://silia.eett.gr/silia/download/3da24ea1-f564-4ab4-9930-4e0b20f3a5b8"
+    },
+    {
+      "document_number": "409660/02-06-2020",
+      "protocol_number": "ΣΥΝΟΔΕΥΤΙΚΑ ΕΓΓΡΑΦΑ/",
+      "type": "Δήλωση υπαγωγής σε ΠΠΔ και Συνοδευτικά Έγγραφα",
+      "file_url": "https://silia.eett.gr/silia/download/55d3fe9e-f378-4206-aa7e-4cedcab4536f"
+    },
+    {
+      "document_number": "409661/02-06-2020",
+      "protocol_number": "Αρχείο Αίτησης/",
+      "type": "Δήλωση ΠΠΔ",
+      "file_url": "https://silia.eett.gr/silia/download/c44bca40-cefc-4138-a7fe-4916e95cec33"
+    }
+  ]
+}

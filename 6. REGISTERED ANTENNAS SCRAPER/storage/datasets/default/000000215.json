@@ -1,0 +1,93 @@
+{
+  "antenna_id": "170812",
+  "address": "ΕΛΠΙΔΟΣ 6 (Ο.Τ.866)",
+  "position_code": 1007445,
+  "municipality": "Αγίου Δημητρίου",
+  "code_name": "ΕΛΠΙΔΟΣ ΑΓΙΟΣ ΔΗΜΗΤΡΙΟΣ",
+  "region": "Αττικής",
+  "latitude": 37.936111,
+  "company": "VODAFONE",
+  "longitude": 23.727222,
+  "permit_status": "Από τα στοιχεία που τηρούνται στην Ενημερωτική Πύλη προκύπτει ότι, για τη θέση \"ΕΛΠΙΔΟΣ 6 (Ο.Τ.866)\" στον Δήμο Αγίου Δημητρίου Περιφέρειας  Αττικής \n\t(κωδικός αριθμός θέσης 1007445, κωδική ονομασία \"ΕΛΠΙΔΟΣ ΑΓΙΟΣ ΔΗΜΗΤΡΙΟΣ\") χορηγήθηκε, με την Απόφαση της ΕΕΤΤ \n50088/05-12-2023, άδεια κατασκευής κεραίας στην εταιρία VODAFONE. \nΑπό τo έγγραφο της άδειας μπορείτε να ενημερωθείτε για τις σχετικές εγκρίσεις των συναρμόδιων φορέων, καθώς και εάν πρόκειται για τροποποίηση παλαιότερης άδειας.\n\tΣύμφωνα με τα στοιχεία που έχουν υποβληθεί στο ΣΗΛΥΑ, ο κάτοχος της κατασκευής κεραίας έχει δηλώσει ότι θα προβεί σε έκδοση έγκρισης δομικών κατασκευών \n\t\tκεραίας μέσω του e-Άδειες \n\t\tμετά την έκδοση της άδειας κατασκευής κεραίας / δημοσιοποίηση της δήλωσης τροποποίησης της κατασκευής κεραίας",
+  "measurements_eaee": "-",
+  "documents": [
+    {
+      "document_number": "499333/31-10-2023",
+      "protocol_number": "ΤΟΠΟΓΡΑΦΙΚΟ ΔΙΑΓΡΑΜΜΑ/",
+      "type": "Τοπογραφικό",
+      "file_url": "https://silia.eett.gr/silia/download/14d0cfdd-ed79-4401-b357-1578e92d6cc6"
+    },
+    {
+      "document_number": "499334/31-10-2023",
+      "protocol_number": "ΑΡΧΙΤΕΚΤΟΝΙΚΗ ΜΕΛΕΤΗ/",
+      "type": "Αρχιτεκτονικά Σχέδια",
+      "file_url": "https://silia.eett.gr/silia/download/65de2c64-c345-4832-8ea4-5c1efd9993a6"
+    },
+    {
+      "document_number": "499335/31-10-2023",
+      "protocol_number": "ΜΕΛΕΤΗ ΡΑΔΙΟΕΚΠΟΜΠΩΝ/31-10-2023",
+      "type": "Αίτηση - Μελέτη Ραδιοεκπομπών ΕΕΑΕ",
+      "file_url": "https://silia.eett.gr/silia/download/d0aefb38-fad5-4ee7-9acc-801c9ca12406"
+    },
+    {
+      "document_number": "499336/31-10-2023",
+      "protocol_number": "ΜΕΛΕΤΗ ΣΥΜΒΑΤΟΤΗΤΑΣ 2700MHz VF/31-10-2023",
+      "type": "Μελέτη για τη ζώνη  2,6GHz",
+      "file_url": "https://silia.eett.gr/silia/download/e3d744a5-de7b-42c9-be83-1bdc7faee2de"
+    },
+    {
+      "document_number": "499337/31-10-2023",
+      "protocol_number": "ΧΑΡΤΗΣ ΥΠΑ/",
+      "type": "Απόσπασμα Χάρτη ΓΥΣ 1:50.000",
+      "file_url": "https://silia.eett.gr/silia/download/56780456-e969-4309-9e7e-5c01ab4de99f"
+    },
+    {
+      "document_number": "499338/31-10-2023",
+      "protocol_number": "ΥΠΕΥΘΥΝΗ ΔΗΛΩΣΗ ΔΙΑΣΥΝΔΕΣΗΣ VF/31-10-2023",
+      "type": "Άλλο",
+      "file_url": "https://silia.eett.gr/silia/download/c8d31699-8c68-4aad-9dfb-4be413065cff"
+    },
+    {
+      "document_number": "499344/31-10-2023",
+      "protocol_number": "Αρχείο Αίτησης/",
+      "type": "Αίτηση Άδειας Κατασκευής Κεραίας ΕΕΤΤ",
+      "file_url": "https://silia.eett.gr/silia/download/c911e4fb-cf2e-4449-9923-817cbba45e00"
+    },
+    {
+      "document_number": "500410/14-11-2023",
+      "protocol_number": "ΤΜΙΑ/411/15437/2023/14-11-2023",
+      "type": "Γνωμάτευση ΕΕΑΕ",
+      "file_url": "https://silia.eett.gr/silia/download/aa73916b-e47f-4576-bbe0-ab79af18f3f9"
+    },
+    {
+      "document_number": "500559/15-11-2023",
+      "protocol_number": "ΚΓ/Δ3/Δ/23418/15-11-2023",
+      "type": "Γνωμάτευση ΥΠΑ",
+      "file_url": "https://silia.eett.gr/silia/download/34cbb13c-f36e-4caf-853e-44b12e138856"
+    },
+    {
+      "document_number": "502994/12-12-2023",
+      "protocol_number": "50088/05-12-2023",
+      "type": "Άδεια Κατασκευής  Κεραίας",
+      "file_url": "https://silia.eett.gr/silia/download/f9983c6f-53e5-412e-bd69-2612f8e2242c"
+    },
+    {
+      "document_number": "499345/31-10-2023",
+      "protocol_number": "ΜΕΛΕΤΗ ΡΑΔΙΟΕΚΠΟΜΠΩΝ/31-10-2023",
+      "type": "Αίτηση - Μελέτη Ραδιοεκπομπών ΕΕΑΕ",
+      "file_url": "https://silia.eett.gr/silia/download/d0aefb38-fad5-4ee7-9acc-801c9ca12406"
+    },
+    {
+      "document_number": "499346/31-10-2023",
+      "protocol_number": "ΣΥΝΟΔΕΥΤΙΚΑ ΕΓΓΡΑΦΑ ΠΠΔ/",
+      "type": "Δήλωση υπαγωγής σε ΠΠΔ και Συνοδευτικά Έγγραφα",
+      "file_url": "https://silia.eett.gr/silia/download/ce8b3293-e655-434a-9af7-b5ee769a8f25"
+    },
+    {
+      "document_number": "499347/31-10-2023",
+      "protocol_number": "Αρχείο Αίτησης/",
+      "type": "Δήλωση ΠΠΔ",
+      "file_url": "https://silia.eett.gr/silia/download/677ed75f-9711-47dc-a251-9d4688be0ade"
+    }
+  ]
+}

@@ -1,0 +1,51 @@
+{
+  "antenna_id": "174820",
+  "address": "ΗΓΟΥΜΕΝΙΤΣΑ",
+  "position_code": 1265266,
+  "municipality": "Ηγουμενίτσας",
+  "code_name": "DUTY FREE LIMANI IGOUMENITSA (Κ266)",
+  "region": "Ηπείρου",
+  "latitude": 39.488889,
+  "company": "NOVA Μ.Α.Ε.",
+  "longitude": 20.259167,
+  "permit_status": "Από τα στοιχεία που τηρούνται στην Ενημερωτική Πύλη προκύπτει ότι, για τη θέση \"ΗΓΟΥΜΕΝΙΤΣΑ\" στον Δήμο Ηγουμενίτσας Περιφέρειας  Ηπείρου \n\t(κωδικός αριθμός θέσης 1265266, κωδική ονομασία \"DUTY FREE LIMANI IGOUMENITSA (Κ266)\") έχει κατατεθεί από την εταιρία NOVA Μ.Α.Ε.\tδήλωση εγκατάστασης κατασκευής κεραίας (αριθ. πρωτ. \n\t56966/06-08-2024) που εμπίπτει στις διατάξεις της νομοθεσίας για Εγκαταστάσεις Κατασκευών Κεραιών Χαμηλής Ηλεκτρομαγνητικής Περιβαλλοντικής Όχλησης (ΕΚΚΧΟ).",
+  "measurements_eaee": "-",
+  "documents": [
+    {
+      "document_number": "522992/06-08-2024",
+      "protocol_number": "Φωτορεαλιστική απεικόνιση κεραίας ΕΚΚΧΟ/06-08-2024",
+      "type": "Φωτογραφικό Υλικό - Σκαρίφημα",
+      "file_url": "https://silia.eett.gr/silia/download/Ty6on30IGWLoDVMX1GxoEQ6UqClIpdoxLUx6"
+    },
+    {
+      "document_number": "522993/06-08-2024",
+      "protocol_number": "Ψηφιακός χάρτης με προβολή της θέσης ΕΚΚΧΟ/06-08-2024",
+      "type": "Φωτογραφικό Υλικό - Σκαρίφημα",
+      "file_url": "https://silia.eett.gr/silia/download/RZqLK7CRxsQPlMGnUaSOHF8SsOqgYduGEkPY"
+    },
+    {
+      "document_number": "522994/06-08-2024",
+      "protocol_number": "Σκαρίφημα θέσης κεραίας ΕΚΚΧΟ/06-08-2024",
+      "type": "Φωτογραφικό Υλικό - Σκαρίφημα",
+      "file_url": "https://silia.eett.gr/silia/download/cdf2SUta192wXtfHZQYAwynpHCgp60sPmAef"
+    },
+    {
+      "document_number": "522996/06-08-2024",
+      "protocol_number": "ΜΕΛΕΤΗ ΕΚΚΧΟ/06-08-2024",
+      "type": "Άλλο",
+      "file_url": "https://silia.eett.gr/silia/download/FuQ2uU8hUPuvRz4F7AOtzBiu63tfWbLfkKBH"
+    },
+    {
+      "document_number": "522997/06-08-2024",
+      "protocol_number": "Αρχείο Αίτησης/06-08-2024",
+      "type": "Δήλωση ΕΚΚΧΟ",
+      "file_url": "https://silia.eett.gr/silia/download/ta9d77yGqbEHQtT1EKwIpGdgCSt4AS4MuVlY"
+    },
+    {
+      "document_number": "539862/03-02-2025",
+      "protocol_number": "ΥΔ ΕΓΚΑΤΑΣΤΑΣΗΣ/03-02-2025",
+      "type": "Άλλο",
+      "file_url": "https://silia.eett.gr/silia/download/6D3clKzIY5yg5E5uV3ai792y5PZAhMs6bUvN"
+    }
+  ]
+}

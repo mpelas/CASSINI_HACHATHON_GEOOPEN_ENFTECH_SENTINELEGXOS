@@ -1,0 +1,45 @@
+{
+  "antenna_id": "179302",
+  "address": "ΕΠΙ ΤΗΣ ΟΔΟΥ ΑΓ. ΦΑΝΟΥΡΙΟΥ, ΘΕΣΗ \"ΜΑΝΤΗΛΑΡΑΣ\"",
+  "position_code": 1544457,
+  "municipality": "Χανίων",
+  "code_name": "GALATAS INT",
+  "region": "Κρήτης",
+  "latitude": 35.506667,
+  "company": "OTE",
+  "longitude": 23.970556,
+  "permit_status": "Από τα στοιχεία που τηρούνται στην Ενημερωτική Πύλη προκύπτει ότι, για τη θέση \"ΕΠΙ ΤΗΣ ΟΔΟΥ ΑΓ. ΦΑΝΟΥΡΙΟΥ, ΘΕΣΗ \"ΜΑΝΤΗΛΑΡΑΣ\"\" στον Δήμο Χανίων Περιφέρειας  Κρήτης \n\t(κωδικός αριθμός θέσης 1544457, κωδική ονομασία \"GALATAS INT\") έχει κατατεθεί από την εταιρία OTE\tδήλωση εγκατάστασης κατασκευής κεραίας (αριθ. πρωτ. \n\t61190/21-05-2025) που εμπίπτει στις διατάξεις της νομοθεσίας για Εγκαταστάσεις Κατασκευών Κεραιών Χαμηλής Ηλεκτρομαγνητικής Περιβαλλοντικής Όχλησης (ΕΚΚΧΟ).",
+  "measurements_eaee": "-",
+  "documents": [
+    {
+      "document_number": "548187/02-05-2025",
+      "protocol_number": "ΦΩΤΟΓΡΑΦΙΑ/02-05-2025",
+      "type": "Φωτογραφικό Υλικό - Σκαρίφημα",
+      "file_url": "https://silia.eett.gr/silia/download/gcf08HNzQhKbLSiGWEmoUi09VIg2nl5S5i4G"
+    },
+    {
+      "document_number": "548188/02-05-2025",
+      "protocol_number": "ΦΩΤΟΓΡΑΦΙΑ1/02-05-2025",
+      "type": "Φωτογραφικό Υλικό - Σκαρίφημα",
+      "file_url": "https://silia.eett.gr/silia/download/2fpkgvHeOiqFULGMzPDtVbTIpCnsguHc0Z0k"
+    },
+    {
+      "document_number": "549959/21-05-2025",
+      "protocol_number": "ΜΕΛΕΤΗ/21-05-2025",
+      "type": "Αίτηση - Μελέτη Ραδιοεκπομπών ΕΕΑΕ",
+      "file_url": "https://silia.eett.gr/silia/download/HDxduHHBcSaZbZOBy6yHCkCAzPSpMmkOch8d"
+    },
+    {
+      "document_number": "549960/21-05-2025",
+      "protocol_number": "Αρχείο Αίτησης/21-05-2025",
+      "type": "Δήλωση ΕΚΚΧΟ",
+      "file_url": "https://silia.eett.gr/silia/download/UwZ7mrtQRY9BPh2qFZ0TEFgyb4hnhZKg5glq"
+    },
+    {
+      "document_number": "555743/18-07-2025",
+      "protocol_number": "ΥΠ.ΔΗΛΩΣΗ/18-07-2025",
+      "type": "Άλλο",
+      "file_url": "https://silia.eett.gr/silia/download/Gwc1OTVvErEqReTxW61SRgR2ZF1teQyitiH0"
+    }
+  ]
+}

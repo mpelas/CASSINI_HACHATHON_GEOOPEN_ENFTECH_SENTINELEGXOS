@@ -1,0 +1,111 @@
+{
+  "antenna_id": "154835",
+  "address": "25ης ΜΑΡΤΙΟΥ 53, 0.Τ. 82, ΔΗΜΟΤΙΚΗ ΚΟΙΝΟΤΗΤΑ ΠΤΟΛΕΜΑΪΔΟΣ, ΔΗΜΟΤΙΚΗ ΕΝΟΤΗΤΑ ΠΤΟΛΕΜΑΪΔΑΣ",
+  "position_code": 1204932,
+  "municipality": "Εορδαίας",
+  "code_name": "ΠΤΟΛΕΜΑΙΔΑ CENTER",
+  "region": "Δυτικής Μακεδονίας",
+  "latitude": 40.514167,
+  "company": "NOVA Μ.Α.Ε.",
+  "longitude": 21.679167,
+  "permit_status": "Από τα στοιχεία που τηρούνται στην Ενημερωτική Πύλη προκύπτει ότι, για τη θέση \"25ης ΜΑΡΤΙΟΥ 53, 0.Τ. 82, ΔΗΜΟΤΙΚΗ ΚΟΙΝΟΤΗΤΑ ΠΤΟΛΕΜΑΪΔΟΣ, ΔΗΜΟΤΙΚΗ ΕΝΟΤΗΤΑ ΠΤΟΛΕΜΑΪΔΑΣ\" στον Δήμο Εορδαίας Περιφέρειας  Δυτικής Μακεδονίας \n\t(κωδικός αριθμός θέσης 1204932, κωδική ονομασία \"ΠΤΟΛΕΜΑΙΔΑ CENTER\") χορηγήθηκε, με την Απόφαση της ΕΕΤΤ \n39534/Φ610/26-02-2021, άδεια κατασκευής κεραίας στην εταιρία NOVA Μ.Α.Ε.. \nΑπό τo έγγραφο της άδειας μπορείτε να ενημερωθείτε για τις σχετικές εγκρίσεις των συναρμόδιων φορέων, καθώς και εάν πρόκειται για τροποποίηση παλαιότερης άδειας.\nΗ άδεια χορηγήθηκε με τη διαδικασία αδειοδότησης που ορίζει ο ν. 4635/2019, κατόπιν της με αριθ. πρωτ. 39710/28-05-2020 \n\tαίτησης, και βάσει σχετικής δήλωσης του κατόχου της περί υπαγωγή της κατασκευής κεραίας στο άρθρο 34 του ν. 4635/2019.",
+  "measurements_eaee": "-",
+  "documents": [
+    {
+      "document_number": "408937/28-05-2020",
+      "protocol_number": "33821/Φ615 /23-09-2019",
+      "type": "Χορήγηση Δικαιώματος Χρήσης Ραδιοσυχνοτήτων",
+      "file_url": null
+    },
+    {
+      "document_number": "408938/28-05-2020",
+      "protocol_number": "Δ3/Δ/13810/3288/19-04-2007",
+      "type": "Γνωμάτευση ΥΠΑ",
+      "file_url": "https://silia.eett.gr/silia/download/9a576fe2-30b4-4725-ac55-2cdf6f828c17"
+    },
+    {
+      "document_number": "408939/28-05-2020",
+      "protocol_number": "Δ3/Δ/8383/2330/10-03-2009",
+      "type": "Γνωμάτευση ΥΠΑ",
+      "file_url": "https://silia.eett.gr/silia/download/b8105729-c0ae-4615-8d13-85334300d795"
+    },
+    {
+      "document_number": "408942/28-05-2020",
+      "protocol_number": "ΜΕΛΕΤΗ ΡΑΔΙΟΕΚΠΟΜΠΩΝ/06-05-2020",
+      "type": "Αίτηση - Μελέτη Ραδιοεκπομπών ΕΕΑΕ",
+      "file_url": "https://silia.eett.gr/silia/download/9473e0ec-9dd1-4947-92b0-da4ace84a1de"
+    },
+    {
+      "document_number": "408943/28-05-2020",
+      "protocol_number": "ΤΟΠΟΓΡΑΦΙΚΟ ΚΑΙ ΑΡΧΙΤΕΚΤΟΝΙΚΑ ΣΧΕΔΙΑ/",
+      "type": "Τοπογραφικό",
+      "file_url": "https://silia.eett.gr/silia/download/a6a80a17-4573-45e1-8a76-62cb3f5f646d"
+    },
+    {
+      "document_number": "408944/28-05-2020",
+      "protocol_number": "ΧΧΓ/",
+      "type": "Χάρτης Ευαίσθητων Χρήσεων Γης",
+      "file_url": "https://silia.eett.gr/silia/download/df7d29d5-1b6d-4260-a2a9-90b42311b6b2"
+    },
+    {
+      "document_number": "408945/28-05-2020",
+      "protocol_number": "ΜΕΛΕΤΗ ΥΠΟΒΑΘΡΟΥ/06-05-2020",
+      "type": "Αίτηση - Μελέτη Ραδιοεκπομπών ΕΕΑΕ (υποβάθρου)",
+      "file_url": "https://silia.eett.gr/silia/download/065e3979-fb10-4d66-952f-b947530e9a4d"
+    },
+    {
+      "document_number": "409114/28-05-2020",
+      "protocol_number": "31819/19-05-2020",
+      "type": "Αίτηση ΓΕΑ",
+      "file_url": "https://silia.eett.gr/silia/download/6078bd78-8647-4d22-a999-757dccdf02a4"
+    },
+    {
+      "document_number": "409117/28-05-2020",
+      "protocol_number": "Αρχείο Αίτησης/",
+      "type": "Αίτηση Άδειας Κατασκευής Κεραίας ΕΕΤΤ",
+      "file_url": "https://silia.eett.gr/silia/download/e6f9b7b6-c924-4cda-bc5a-e8a3ea29bd28"
+    },
+    {
+      "document_number": "411680/24-06-2020",
+      "protocol_number": "Μ.ι./411/8209/2020/24-06-2020",
+      "type": "Γνωμάτευση ΕΕΑΕ",
+      "file_url": "https://silia.eett.gr/silia/download/3d7e8547-bc90-4a10-87ce-bbce55e597d1"
+    },
+    {
+      "document_number": "428853/04-02-2021",
+      "protocol_number": "ΕΠΙΣΤΟΛΗ ΕΞΑΙΡΕΣΗΣ ΓΕΑ 68958/11-06-2020",
+      "type": "Επιστολή Ενημέρωσης προς Αρμόδιο Φορέα",
+      "file_url": "https://silia.eett.gr/silia/download/58d70712-9e97-4e2d-9d41-e46342f65cb4"
+    },
+    {
+      "document_number": "430737/05-03-2021",
+      "protocol_number": "39534/Φ610/26-02-2021",
+      "type": "Άδεια Κατασκευής  Κεραίας",
+      "file_url": "https://silia.eett.gr/silia/download/18a7b359-4420-4a1b-8a97-d3a3282da270"
+    },
+    {
+      "document_number": "408949/28-05-2020",
+      "protocol_number": "ΜΕΛΕΤΗ ΡΑΔΙΟΕΚΠΟΜΠΩΝ/06-05-2020",
+      "type": "Αίτηση - Μελέτη Ραδιοεκπομπών ΕΕΑΕ",
+      "file_url": "https://silia.eett.gr/silia/download/9473e0ec-9dd1-4947-92b0-da4ace84a1de"
+    },
+    {
+      "document_number": "408950/28-05-2020",
+      "protocol_number": "ΧΧΓ/",
+      "type": "Χάρτης Ευαίσθητων Χρήσεων Γης",
+      "file_url": "https://silia.eett.gr/silia/download/df7d29d5-1b6d-4260-a2a9-90b42311b6b2"
+    },
+    {
+      "document_number": "408951/28-05-2020",
+      "protocol_number": "ΜΕΛΕΤΗ ΥΠΟΒΑΘΡΟΥ/06-05-2020",
+      "type": "Αίτηση - Μελέτη Ραδιοεκπομπών ΕΕΑΕ (υποβάθρου)",
+      "file_url": "https://silia.eett.gr/silia/download/065e3979-fb10-4d66-952f-b947530e9a4d"
+    },
+    {
+      "document_number": "409118/28-05-2020",
+      "protocol_number": "Αρχείο Αίτησης/",
+      "type": "Δήλωση ΠΠΔ",
+      "file_url": "https://silia.eett.gr/silia/download/1960bb44-5aeb-4e72-924e-d7b313fab353"
+    }
+  ]
+}

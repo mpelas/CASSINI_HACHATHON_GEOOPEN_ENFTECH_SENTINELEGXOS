@@ -1,0 +1,39 @@
+{
+  "antenna_id": "174506",
+  "address": "Επαρχιακή Οδού Πλατανών ? Αρκαδίου 1 , Ρεθύμνης",
+  "position_code": 1496843,
+  "municipality": "Ρεθύμνης",
+  "code_name": "ADELE_RETHYMNO",
+  "region": "Κρήτης",
+  "latitude": 35.3575,
+  "company": "OTE",
+  "longitude": 24.565,
+  "permit_status": "Από τα στοιχεία που τηρούνται στην Ενημερωτική Πύλη προκύπτει ότι, για τη θέση \"Επαρχιακή Οδού Πλατανών ? Αρκαδίου 1 , Ρεθύμνης\" στον Δήμο Ρεθύμνης Περιφέρειας  Κρήτης \n\t(κωδικός αριθμός θέσης 1496843, κωδική ονομασία \"ADELE_RETHYMNO\") έχει κατατεθεί από την εταιρία OTE\tδήλωση εγκατάστασης κατασκευής κεραίας (αριθ. πρωτ. \n\t57039/16-08-2024) που εμπίπτει στις διατάξεις της νομοθεσίας για Εγκαταστάσεις Κατασκευών Κεραιών Χαμηλής Ηλεκτρομαγνητικής Περιβαλλοντικής Όχλησης (ΕΚΚΧΟ).",
+  "measurements_eaee": "-",
+  "documents": [
+    {
+      "document_number": "521558/23-07-2024",
+      "protocol_number": "ΦΩΤΟΓΡΑΦΙΑ/23-07-2024",
+      "type": "Φωτογραφικό Υλικό - Σκαρίφημα",
+      "file_url": "https://silia.eett.gr/silia/download/GUxlEGGR8AiqBwOT8ak8xwyroIownmaz8gU9"
+    },
+    {
+      "document_number": "523306/09-08-2024",
+      "protocol_number": "ΜΕΛΕΤΗ/09-08-2024",
+      "type": "Αίτηση - Μελέτη Ραδιοεκπομπών ΕΕΑΕ",
+      "file_url": "https://silia.eett.gr/silia/download/EU3NGQgUOHTs2OFGPD9ibxL4xeexfRdgoe4D"
+    },
+    {
+      "document_number": "523462/16-08-2024",
+      "protocol_number": "Αρχείο Αίτησης/16-08-2024",
+      "type": "Δήλωση ΕΚΚΧΟ",
+      "file_url": "https://silia.eett.gr/silia/download/IgGnBHwFVaNftwpOtMxNTtUwGk5Vcl3gOhSR"
+    },
+    {
+      "document_number": "529811/23-10-2024",
+      "protocol_number": "ΥΠ.ΔΗΛΩΣΗ/23-10-2024",
+      "type": "Άλλο",
+      "file_url": "https://silia.eett.gr/silia/download/DgNGwBWvf8Sy8ik9ivhGYWwblNN8IF8SOyMi"
+    }
+  ]
+}

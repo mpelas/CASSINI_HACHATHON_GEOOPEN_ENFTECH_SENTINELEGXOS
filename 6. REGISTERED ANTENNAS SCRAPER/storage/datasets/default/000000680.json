@@ -1,0 +1,87 @@
+{
+  "antenna_id": "160369",
+  "address": "ΥΨΩΜΑ \"ΠΡΟΦΗΤΗΣ ΗΛΙΑΣ\" ΠΛΗΣΙΟΝ ΙΕΡΑΣ ΜΟΝΗΣ ΖΩΟΔΟΧΟΥ ΠΗΓΗΣ, Δ.Δ. ΜΠΑΤΣΙΟΥ",
+  "position_code": 1000246,
+  "municipality": "Άνδρου",
+  "code_name": "ΜΠΑΤΣΙ",
+  "region": "Νοτίου Αιγαίου",
+  "latitude": 37.876667,
+  "company": "VODAFONE",
+  "longitude": 24.781389,
+  "permit_status": "Από τα στοιχεία που τηρούνται στην Ενημερωτική Πύλη προκύπτει ότι, για τη θέση \"ΥΨΩΜΑ \"ΠΡΟΦΗΤΗΣ ΗΛΙΑΣ\" ΠΛΗΣΙΟΝ ΙΕΡΑΣ ΜΟΝΗΣ ΖΩΟΔΟΧΟΥ ΠΗΓΗΣ, Δ.Δ. ΜΠΑΤΣΙΟΥ\" στον Δήμο Άνδρου Περιφέρειας  Νοτίου Αιγαίου \n\t(κωδικός αριθμός θέσης 1000246, κωδική ονομασία \"ΜΠΑΤΣΙ\") χορηγήθηκε, με την Απόφαση της ΕΕΤΤ \n42798/30-12-2021, άδεια κατασκευής κεραίας στην εταιρία VODAFONE. \nΑπό τo έγγραφο της άδειας μπορείτε να ενημερωθείτε για τις σχετικές εγκρίσεις των συναρμόδιων φορέων, καθώς και εάν πρόκειται για τροποποίηση παλαιότερης άδειας.\nΗ άδεια χορηγήθηκε με τη διαδικασία αδειοδότησης που ορίζει ο ν. 4635/2019, κατόπιν της με αριθ. πρωτ. 44929/30-09-2021 \n\tαίτησης, και βάσει σχετικής δήλωσης του κατόχου της περί υπαγωγή της κατασκευής κεραίας στο άρθρο 34 του ν. 4635/2019.",
+  "measurements_eaee": "-",
+  "documents": [
+    {
+      "document_number": "442596/30-09-2021",
+      "protocol_number": "Τοπογραφικό Διάγραμμα/",
+      "type": "Τοπογραφικό",
+      "file_url": "https://silia.eett.gr/silia/download/97a92f58-33e5-4616-93ab-99f094123340"
+    },
+    {
+      "document_number": "442597/30-09-2021",
+      "protocol_number": "Αρχιτεκτονική Μελέτη/",
+      "type": "Αρχιτεκτονικά Σχέδια",
+      "file_url": "https://silia.eett.gr/silia/download/6577509a-5250-43d0-b414-75b888a83489"
+    },
+    {
+      "document_number": "442598/30-09-2021",
+      "protocol_number": "Δ3/Δ/48685/10989\t/18-12-2007",
+      "type": "Γνωμάτευση ΥΠΑ",
+      "file_url": "https://silia.eett.gr/silia/download/eaed099f-1fbf-4cef-b3f7-40ab3f2ca083"
+    },
+    {
+      "document_number": "442599/30-09-2021",
+      "protocol_number": "Μελέτη ραδιοεκπομπών/03-04-2018",
+      "type": "Αίτηση - Μελέτη Ραδιοεκπομπών ΕΕΑΕ",
+      "file_url": "https://silia.eett.gr/silia/download/a1c27ed7-5a02-4876-83e5-06d1ef1b25e4"
+    },
+    {
+      "document_number": "442600/30-09-2021",
+      "protocol_number": "Υπεύθυνη Δήλωση κοινής χρήσης Wind/24-09-2021",
+      "type": "Άλλο",
+      "file_url": "https://silia.eett.gr/silia/download/64363274-7e20-468d-b12d-7ee237dd10d9"
+    },
+    {
+      "document_number": "442601/30-09-2021",
+      "protocol_number": "Υπεύθυνη Δήλωση κοινής χρήσης Cosmote/24-09-2021",
+      "type": "Άλλο",
+      "file_url": "https://silia.eett.gr/silia/download/e8d849ba-e23f-45f9-8af7-f1e6b9e7aea0"
+    },
+    {
+      "document_number": "442602/30-09-2021",
+      "protocol_number": "Αρχείο Αίτησης/",
+      "type": "Αίτηση Άδειας Κατασκευής Κεραίας ΕΕΤΤ",
+      "file_url": "https://silia.eett.gr/silia/download/c53fd8b8-d238-43e1-bb96-d01ba506a1d1"
+    },
+    {
+      "document_number": "447689/09-12-2021",
+      "protocol_number": "Μ.ι./411/21767/2021/09-12-2021",
+      "type": "Γνωμάτευση ΕΕΑΕ",
+      "file_url": "https://silia.eett.gr/silia/download/a4207eed-5caa-422c-a57d-7f3222071946"
+    },
+    {
+      "document_number": "448978/31-12-2021",
+      "protocol_number": "42821/31-12-2021",
+      "type": "Άδεια Κατασκευής  Κεραίας",
+      "file_url": "https://silia.eett.gr/silia/download/3d9e2f29-0640-42ac-8905-899f1ec5f798"
+    },
+    {
+      "document_number": "442604/30-09-2021",
+      "protocol_number": "Μελέτη ραδιοεκπομπών/03-04-2018",
+      "type": "Αίτηση - Μελέτη Ραδιοεκπομπών ΕΕΑΕ",
+      "file_url": "https://silia.eett.gr/silia/download/a1c27ed7-5a02-4876-83e5-06d1ef1b25e4"
+    },
+    {
+      "document_number": "442605/30-09-2021",
+      "protocol_number": "Συνοδευτικά Έγγραφα ΠΠΔ/",
+      "type": "Δήλωση υπαγωγής σε ΠΠΔ και Συνοδευτικά Έγγραφα",
+      "file_url": "https://silia.eett.gr/silia/download/613e9ae1-62ad-42df-be5b-216fc8ef9209"
+    },
+    {
+      "document_number": "442606/30-09-2021",
+      "protocol_number": "Αρχείο Αίτησης/",
+      "type": "Δήλωση ΠΠΔ",
+      "file_url": "https://silia.eett.gr/silia/download/bf6c255f-07ee-49c6-ba56-5d0361b71631"
+    }
+  ]
+}

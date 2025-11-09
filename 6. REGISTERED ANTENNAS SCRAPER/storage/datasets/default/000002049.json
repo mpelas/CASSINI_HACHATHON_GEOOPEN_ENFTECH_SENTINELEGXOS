@@ -1,0 +1,99 @@
+{
+  "antenna_id": "178240",
+  "address": "Χώρος στάθμευσης, λιμάνι Ναυπλίου",
+  "position_code": 1074984,
+  "municipality": "Ναυπλιέων",
+  "code_name": "VAN NAFPLIO PORT",
+  "region": "Πελοποννήσου",
+  "latitude": 37.568333,
+  "company": "VODAFONE",
+  "longitude": 22.8025,
+  "permit_status": "Από τα στοιχεία που τηρούνται στην Ενημερωτική Πύλη προκύπτει ότι, για τη θέση \"Χώρος στάθμευσης, λιμάνι Ναυπλίου\" στον Δήμο Ναυπλιέων Περιφέρειας  Πελοποννήσου \n\t(κωδικός αριθμός θέσης 1074984, κωδική ονομασία \"VAN NAFPLIO PORT\") έχει υποβληθεί από την εταιρία VODAFONE\tη με αριθ. πρωτ. ΣΗΛΥΑ 59866/13-03-2025 δήλωση εγκατάστασης κατασκευής κεραίας μεταφερόμενου σταθμού, \n\tσύμφωνα με τα οριζόμενα στην παρ. 3 του άρθρου 13 του Κανονισμού Αδειών Κατασκευών Κεραιών της ΕΕΤΤ.",
+  "measurements_eaee": "-",
+  "documents": [
+    {
+      "document_number": "543639/13-03-2025",
+      "protocol_number": "ΤΟΠΟΓΡΑΦΙΚΟ/07-03-2025",
+      "type": "Τοπογραφικό",
+      "file_url": "https://silia.eett.gr/silia/download/gMtLGKgGsZbLWencpGXkbCIvVqbyUqWVmxYB"
+    },
+    {
+      "document_number": "543640/13-03-2025",
+      "protocol_number": "ΣΧΕΔΙΑ/07-03-2025",
+      "type": "Αρχιτεκτονικά Σχέδια",
+      "file_url": "https://silia.eett.gr/silia/download/fUYVTS0cXwOqkovwk5XSEFNoRpxag7KnR8gE"
+    },
+    {
+      "document_number": "543641/13-03-2025",
+      "protocol_number": "Μελέτη Ρ-Ε/13-03-2025",
+      "type": "Μελέτη Ραδιοεκπομπών",
+      "file_url": "https://silia.eett.gr/silia/download/ny2RNEdWu9BrbMrL5SG5w8a6itBL3KPiapHE"
+    },
+    {
+      "document_number": "543642/13-03-2025",
+      "protocol_number": "Τεχνικά Στοιχεία/13-03-2025",
+      "type": "Άλλο",
+      "file_url": "https://silia.eett.gr/silia/download/N6BwBPb9xRdGBuhxkA4yZG9hZ2CqpfBi27KC"
+    },
+    {
+      "document_number": "543643/13-03-2025",
+      "protocol_number": "Υ.Δ. Ορθότητας Στοιχείων (φιλοξενούμενου)/13-03-2025",
+      "type": "Άλλο",
+      "file_url": "https://silia.eett.gr/silia/download/82VMmOOGwl0MKW7AigoBHLg76D0Abp1awy2W"
+    },
+    {
+      "document_number": "543644/13-03-2025",
+      "protocol_number": "Υ.Δ. Διασύνδεσης (φιλοξενούμενου)/13-03-2025",
+      "type": "Άλλο",
+      "file_url": "https://silia.eett.gr/silia/download/9tKypEHtBCc5rzuHUWIOCVkaGGfyFKz0gZ78"
+    },
+    {
+      "document_number": "543645/13-03-2025",
+      "protocol_number": "Δ3/Δ/16535/04-08-2023",
+      "type": "Γνωμάτευση ΥΠΑ",
+      "file_url": "https://silia.eett.gr/silia/download/kP6vAawI0ggYRlAy9ukeZDFt5y1XbpcEi7Sn"
+    },
+    {
+      "document_number": "543646/13-03-2025",
+      "protocol_number": "102818/12-03-2025",
+      "type": "Έγκριση Αρμοδίου Φορέα",
+      "file_url": "https://silia.eett.gr/silia/download/f0vDaak47qg10BUulnaSDkK1XWiTLxGx73t4"
+    },
+    {
+      "document_number": "543647/13-03-2025",
+      "protocol_number": "Υ.Δ. Μηχανικού/24-04-2024",
+      "type": "Άλλο",
+      "file_url": "https://silia.eett.gr/silia/download/GD10iD4cRgGFgzFYppShsZW2aLiDtG0hCRr9"
+    },
+    {
+      "document_number": "543648/13-03-2025",
+      "protocol_number": "Αρχείο Αίτησης/13-03-2025",
+      "type": "Δήλωση Μεταφερόμενου Σταθμού",
+      "file_url": "https://silia.eett.gr/silia/download/qozspmIEXuxv4DwhVINU4X9vOmHcv3GFKCUM"
+    },
+    {
+      "document_number": "544210/18-03-2025",
+      "protocol_number": "ΚΓ/Δ3/Δ/5281/18-03-2025",
+      "type": "Γνωμάτευση ΥΠΑ",
+      "file_url": "https://silia.eett.gr/silia/download/LsObkSgkQlEA2NbkqseLziiMsR8HKMghSKHz"
+    },
+    {
+      "document_number": "545971/03-04-2025",
+      "protocol_number": "TMIA/411/4754/2025/03-04-2025",
+      "type": "Γνωμάτευση ΕΕΑΕ",
+      "file_url": "https://silia.eett.gr/silia/download/BWvvPeAt5toWFQNyGHmszDe4F1besFvHdo39"
+    },
+    {
+      "document_number": "546197/07-04-2025",
+      "protocol_number": "Φ1/5/102706/04-04-2025",
+      "type": "Έγκριση Αρμοδίου Φορέα",
+      "file_url": "https://silia.eett.gr/silia/download/Hrcyi3RFAYdHS0uBpElWWwqaAm8Tdunkqilu"
+    },
+    {
+      "document_number": "547114/16-04-2025",
+      "protocol_number": "Υ.Δ. Εγκατάστασης/16-04-2025",
+      "type": "Άλλο",
+      "file_url": "https://silia.eett.gr/silia/download/qPzC1hqaKVnsxkNNT3ikPnrkWhWhTNa1973g"
+    }
+  ]
+}

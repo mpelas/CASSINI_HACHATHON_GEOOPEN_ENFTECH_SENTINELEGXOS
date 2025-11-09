@@ -1,0 +1,27 @@
+{
+  "antenna_id": "136514",
+  "address": "ΑΓΗΣΙΛΑΟΥ 46",
+  "position_code": 2346380,
+  "municipality": "Αγίου Δημητρίου",
+  "code_name": "GA PHARMACEUTICALS",
+  "region": "Αττικής",
+  "latitude": 37.9325,
+  "company": "NOVA Μ.Α.Ε.",
+  "longitude": 23.716944,
+  "permit_status": "Από τα στοιχεία που τηρούνται στην Ενημερωτική Πύλη προκύπτει ότι, για τη θέση \"ΑΓΗΣΙΛΑΟΥ 46\" στον Δήμο Αγίου Δημητρίου Περιφέρειας  Αττικής \n\t(κωδικός αριθμός θέσης 2346380, κωδική ονομασία \"GA PHARMACEUTICALS\") έχει κατατεθεί από την εταιρία NOVA Μ.Α.Ε.\tδήλωση εγκατάστασης κατασκευής κεραίας (αριθ. πρωτ. \n\t30627/04-12-2018) που εμπίπτει στις διατάξεις της νομοθεσίας για Εγκαταστάσεις Κατασκευών Κεραιών Χαμηλής Ηλεκτρομαγνητικής Περιβαλλοντικής Όχλησης (ΕΚΚΧΟ).",
+  "measurements_eaee": "-",
+  "documents": [
+    {
+      "document_number": "351255/04-12-2018",
+      "protocol_number": "GA PHARMACEUTICALS New/",
+      "type": "Φωτογραφικό Υλικό - Σκαρίφημα",
+      "file_url": "https://silia.eett.gr/silia/download/2afbf4f3-17be-44dc-9c1d-fa662fae5157"
+    },
+    {
+      "document_number": "351261/04-12-2018",
+      "protocol_number": "Αρχείο Αίτησης/",
+      "type": "Δήλωση ΕΚΚΧΟ",
+      "file_url": "https://silia.eett.gr/silia/download/4f39395b-5021-4afe-a143-fbc181dd50fe"
+    }
+  ]
+}

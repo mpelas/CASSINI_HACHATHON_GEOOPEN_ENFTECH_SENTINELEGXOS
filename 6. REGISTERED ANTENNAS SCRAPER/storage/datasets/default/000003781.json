@@ -1,0 +1,51 @@
+{
+  "antenna_id": "173678",
+  "address": "ΛΙΜΕΝΑΣ ΧΕΡΣΟΝΗΣΟΥ, ΧΕΡΣΟΝΗΣΟΣ.",
+  "position_code": 1152327,
+  "municipality": "Χερσονήσου",
+  "code_name": "3032327 ELIOS HOTEL",
+  "region": "Κρήτης",
+  "latitude": 35.301667,
+  "company": "VODAFONE",
+  "longitude": 25.412222,
+  "permit_status": "Από τα στοιχεία που τηρούνται στην Ενημερωτική Πύλη προκύπτει ότι, για τη θέση \"ΛΙΜΕΝΑΣ ΧΕΡΣΟΝΗΣΟΥ, ΧΕΡΣΟΝΗΣΟΣ.\" στον Δήμο Χερσονήσου Περιφέρειας  Κρήτης \n\t(κωδικός αριθμός θέσης 1152327, κωδική ονομασία \"3032327 ELIOS HOTEL\") έχει κατατεθεί από την εταιρία VODAFONE\tδήλωση εγκατάστασης κατασκευής κεραίας (αριθ. πρωτ. \n\t56074/29-05-2024) που εμπίπτει στις διατάξεις της νομοθεσίας για Εγκαταστάσεις Κατασκευών Κεραιών Χαμηλής Ηλεκτρομαγνητικής Περιβαλλοντικής Όχλησης (ΕΚΚΧΟ).",
+  "measurements_eaee": "-",
+  "documents": [
+    {
+      "document_number": "516424/29-05-2024",
+      "protocol_number": "Φωτορεαλιστική απεικόνιση κεραίας ΕΚΚΧΟ/29-05-2024",
+      "type": "Φωτογραφικό Υλικό - Σκαρίφημα",
+      "file_url": "https://silia.eett.gr/silia/download/2C9X1QaGmdNBDhu4fRR6XM0M96vN9Ctlfr7p"
+    },
+    {
+      "document_number": "516425/29-05-2024",
+      "protocol_number": "Ψηφιακός χάρτης με προβολή της θέσης ΕΚΚΧΟ/29-05-2024",
+      "type": "Φωτογραφικό Υλικό - Σκαρίφημα",
+      "file_url": "https://silia.eett.gr/silia/download/GOa0yACHRMlBa3wNAKAdaVKg5a9FuQuDXGan"
+    },
+    {
+      "document_number": "516426/29-05-2024",
+      "protocol_number": "ΜΕΛΕΤΗ ΕΚΚΧΟ/29-05-2024",
+      "type": "Άλλο",
+      "file_url": "https://silia.eett.gr/silia/download/tHUIgV2nxT6wZcMA9GxGPLDxL5Azpm7ZKWlk"
+    },
+    {
+      "document_number": "516427/29-05-2024",
+      "protocol_number": "Σκαρίφημα με περιοχή απαγόρευσης/29-05-2024",
+      "type": "Φωτογραφικό Υλικό - Σκαρίφημα",
+      "file_url": "https://silia.eett.gr/silia/download/lFIrr26FNWDA0tXr3vwRYOpLSSv74vHCWl3X"
+    },
+    {
+      "document_number": "516428/29-05-2024",
+      "protocol_number": "Αρχείο Αίτησης/29-05-2024",
+      "type": "Δήλωση ΕΚΚΧΟ",
+      "file_url": "https://silia.eett.gr/silia/download/SGPsOcgMC5FP2zyNHgfVmqwvpsgh7AGgksDC"
+    },
+    {
+      "document_number": "531053/31-10-2024",
+      "protocol_number": "ΥΔ ΕΓΚΑΤΑΣΤΑΣΗΣ/31-10-2024",
+      "type": "Άλλο",
+      "file_url": "https://silia.eett.gr/silia/download/hiKSsVYzuGZqZ23o5iQLhUgRazfrhvpDWiwx"
+    }
+  ]
+}

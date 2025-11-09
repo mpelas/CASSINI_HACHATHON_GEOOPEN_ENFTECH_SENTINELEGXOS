@@ -1,0 +1,129 @@
+{
+  "antenna_id": "167866",
+  "address": "ΘΕΣΗ ΦΥΛΑΚΑΣ ΕΡΜΟΥΠΟΛΗ ΣΥΡΟΥ",
+  "position_code": 1291924,
+  "municipality": "Σύρου - Ερμούπολης",
+  "code_name": "SYROS CNR 1",
+  "region": "Νοτίου Αιγαίου",
+  "latitude": 37.436667,
+  "company": "NOVA Μ.Α.Ε.",
+  "longitude": 24.931389,
+  "permit_status": "Από τα στοιχεία που τηρούνται στην Ενημερωτική Πύλη προκύπτει ότι, για τη θέση \"ΘΕΣΗ ΦΥΛΑΚΑΣ ΕΡΜΟΥΠΟΛΗ ΣΥΡΟΥ\" στον Δήμο Σύρου - Ερμούπολης Περιφέρειας  Νοτίου Αιγαίου \n\t(κωδικός αριθμός θέσης 1291924, κωδική ονομασία \"SYROS CNR 1\") χορηγήθηκε, με την Απόφαση της ΕΕΤΤ \n49273/02-10-2023, άδεια κατασκευής κεραίας στην εταιρία NOVA Μ.Α.Ε.. \nΑπό τo έγγραφο της άδειας μπορείτε να ενημερωθείτε για τις σχετικές εγκρίσεις των συναρμόδιων φορέων, καθώς και εάν πρόκειται για τροποποίηση παλαιότερης άδειας.\n\tΣύμφωνα με τα στοιχεία που έχουν υποβληθεί στο ΣΗΛΥΑ, ο κάτοχος της κατασκευής κεραίας έχει δηλώσει ότι θα προβεί σε έκδοση έγκρισης δομικών κατασκευών \n\t\tκεραίας μέσω του e-Άδειες \n\t\tμετά την έκδοση της άδειας κατασκευής κεραίας / δημοσιοποίηση της δήλωσης τροποποίησης της κατασκευής κεραίας",
+  "measurements_eaee": "-",
+  "documents": [
+    {
+      "document_number": "483388/27-04-2023",
+      "protocol_number": "ΣΥΝΗΜΕΝΝΟΣ  ΜΕ ΤΗΝ ΚΑΤΑΘΕΣΗ ΣΤΗΝ ΥΠΑ/",
+      "type": "Απόσπασμα Χάρτη ΓΥΣ 1:50.000",
+      "file_url": "https://silia.eett.gr/silia/download/b6b3d194-a5fe-45fd-aa5e-8ea28f529f7c"
+    },
+    {
+      "document_number": "483389/27-04-2023",
+      "protocol_number": "ΣΥΝΗΜΕΝΝΗ  ΜΕ ΤΗΝ ΚΑΤΑΘΕΣΗ ΣΤΗΝ ΕΕΑΕ/20-04-2023",
+      "type": "Αίτηση - Μελέτη Ραδιοεκπομπών ΕΕΑΕ",
+      "file_url": "https://silia.eett.gr/silia/download/4b0d442d-5707-4a84-8d23-ffbd56e6b8bb"
+    },
+    {
+      "document_number": "483390/27-04-2023",
+      "protocol_number": "ΣΥΝΗΜΕΝΝΑ  ΜΕ ΤΗΝ ΚΑΤΑΘΕΣΗ ΣΤΗΝ ΕΕΑΕ/",
+      "type": "Αρχιτεκτονικά Σχέδια",
+      "file_url": "https://silia.eett.gr/silia/download/de2e6b36-5ea9-49cc-9305-79f9aa9e5505"
+    },
+    {
+      "document_number": "483391/27-04-2023",
+      "protocol_number": "ΣΥΝΗΜΕΝΝΟ  ΜΕ ΤΗΝ ΚΑΤΑΘΕΣΗ ΣΤΗΝ ΕΕΑΕ/",
+      "type": "Τοπογραφικό",
+      "file_url": "https://silia.eett.gr/silia/download/3efcc214-8a10-4dfa-bd62-86679d094dfe"
+    },
+    {
+      "document_number": "483392/27-04-2023",
+      "protocol_number": "ΥΠΕΥΘΗΝΗ ΔΗΛΩΣΗ ΚΟΙΝΗΣ ΧΡΗΣΗΣ VODAFONE/05-04-2023",
+      "type": "Άλλο",
+      "file_url": "https://silia.eett.gr/silia/download/2aabb175-3334-4901-ae7b-35654d09aaba"
+    },
+    {
+      "document_number": "483393/27-04-2023",
+      "protocol_number": "ΥΠΕΥΘΗΝΗ ΔΗΛΩΣΗ ΔΙΑΣΥΝΔΕΣΗΣ VODAFONE/05-04-2023",
+      "type": "Άλλο",
+      "file_url": "https://silia.eett.gr/silia/download/2fbed7d0-c9b8-481d-b81e-4c23cba95a42"
+    },
+    {
+      "document_number": "483484/28-04-2023",
+      "protocol_number": "ΣΥΝΗΜΕΝΝΗ ΜΕ ΤΗΝ ΚΑΤΑΘΕΣΗ ΣΤΗΝ  ΕΕΤΤ/27-04-2023",
+      "type": "Βεβαίωση πολιτικού μηχανικού",
+      "file_url": "https://silia.eett.gr/silia/download/8f29ab43-d730-41ed-b56c-b7f2a5f8e85e"
+    },
+    {
+      "document_number": "483488/28-04-2023",
+      "protocol_number": "Αρχείο Αίτησης/",
+      "type": "Αίτηση Άδειας Κατασκευής Κεραίας ΕΕΤΤ",
+      "file_url": "https://silia.eett.gr/silia/download/d9637ad5-851b-4e38-84a4-3986af755274"
+    },
+    {
+      "document_number": "484250/09-05-2023",
+      "protocol_number": "ΣΥΝΗΜΕΝΝΗ  ΜΕ ΤΗΝ ΚΑΤΑΘΕΣΗ ΣΤΗΝ ΕΕΑΕ/20-04-2023",
+      "type": "Αίτηση - Μελέτη Ραδιοεκπομπών ΕΕΑΕ",
+      "file_url": "https://silia.eett.gr/silia/download/6006121b-9bc6-4b51-b214-6440bccd47f0"
+    },
+    {
+      "document_number": "484568/10-05-2023",
+      "protocol_number": "ΤΜΙΑ\\411\\6122/10-05-2023",
+      "type": "Γνωμάτευση ΕΕΑΕ",
+      "file_url": "https://silia.eett.gr/silia/download/5e3fef50-ce92-4dfe-b9d6-54bb20307461"
+    },
+    {
+      "document_number": "484724/12-05-2023",
+      "protocol_number": "ΚΓ/Δ3/Δ/9924/12-05-2023",
+      "type": "Γνωμάτευση ΥΠΑ",
+      "file_url": "https://silia.eett.gr/silia/download/86e21dc8-1a85-47f9-b0e0-b58ef8d30aef"
+    },
+    {
+      "document_number": "494674/19-09-2023",
+      "protocol_number": "20325/01-09-2023",
+      "type": "Αίτηση Ραδιοσυχνοτήτων",
+      "file_url": null
+    },
+    {
+      "document_number": "496313/05-10-2023",
+      "protocol_number": "49273/02-10-2023",
+      "type": "Άδεια Κατασκευής  Κεραίας",
+      "file_url": "https://silia.eett.gr/silia/download/96576d88-f5a9-4acf-b8a4-0fbd11ac9847"
+    },
+    {
+      "document_number": "490352/18-07-2023",
+      "protocol_number": "ΤΜΙΑ\\411\\6122/10-05-2023",
+      "type": "Γνωμάτευση ΕΕΑΕ",
+      "file_url": "https://silia.eett.gr/silia/download/5e3fef50-ce92-4dfe-b9d6-54bb20307461"
+    },
+    {
+      "document_number": "490353/18-07-2023",
+      "protocol_number": "ΣΥΝΗΜΕΝΝΟΣ ΜΕ ΤΗΝ ΚΑΤΑΘΕΣΗ ΣΤΗΝ  ΕΕΤΤ/",
+      "type": "Χάρτης Ευαίσθητων Χρήσεων Γης",
+      "file_url": "https://silia.eett.gr/silia/download/eba5bc43-6cba-469b-8eb4-a60924b56d7b"
+    },
+    {
+      "document_number": "490354/18-07-2023",
+      "protocol_number": "ΣΥΝΗΜΕΝΝΗ ΜΕ ΤΗΝ ΚΑΤΑΘΕΣΗ ΣΤΗΝ  ΕΕΤΤ/20-04-2023",
+      "type": "Αίτηση - Μελέτη Ραδιοεκπομπών ΕΕΑΕ (υποβάθρου)",
+      "file_url": "https://silia.eett.gr/silia/download/e9bf4dc5-d29d-4ff7-b171-add4b0cd5c50"
+    },
+    {
+      "document_number": "490356/18-07-2023",
+      "protocol_number": "154772/15-07-2023",
+      "type": "Έγκριση Αρμοδίου Φορέα",
+      "file_url": "https://silia.eett.gr/silia/download/cdf17577-ea0f-4b25-8a4d-76d669c5a6bb"
+    },
+    {
+      "document_number": "490357/18-07-2023",
+      "protocol_number": "147135/28-04-2023",
+      "type": "Γνωμοδότηση Υπηρεσίας Νεωτέρων Μνημείων",
+      "file_url": "https://silia.eett.gr/silia/download/d4c1b91e-c236-4be8-8bf4-9e048fc27c2a"
+    },
+    {
+      "document_number": "490358/18-07-2023",
+      "protocol_number": "Αρχείο Αίτησης/",
+      "type": "Δήλωση ΠΠΔ",
+      "file_url": "https://silia.eett.gr/silia/download/65daf24b-a1be-4323-b375-aa14e2d80006"
+    }
+  ]
+}

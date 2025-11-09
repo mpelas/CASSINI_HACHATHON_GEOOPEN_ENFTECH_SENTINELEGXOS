@@ -1,0 +1,33 @@
+{
+  "antenna_id": "155447",
+  "address": "Πλησίον ΣΙΔΗΡΟΚΑΣΤΡΟΥ Σερρών",
+  "position_code": 1156168,
+  "municipality": "Σιντικής",
+  "code_name": "PAVLIDIS SIDIROKASTRO",
+  "region": "Κεντρικής Μακεδονίας",
+  "latitude": 41.214167,
+  "company": "VODAFONE",
+  "longitude": 23.380556,
+  "permit_status": "Από τα στοιχεία που τηρούνται στην Ενημερωτική Πύλη προκύπτει ότι, για τη θέση \"Πλησίον ΣΙΔΗΡΟΚΑΣΤΡΟΥ Σερρών\" στον Δήμο Σιντικής Περιφέρειας  Κεντρικής Μακεδονίας \n\t(κωδικός αριθμός θέσης 1156168, κωδική ονομασία \"PAVLIDIS SIDIROKASTRO\") έχει κατατεθεί από την εταιρία VODAFONE\tδήλωση εγκατάστασης κατασκευής κεραίας (αριθ. πρωτ. \n\t40523/07-09-2020) που εμπίπτει στις διατάξεις της νομοθεσίας για Εγκαταστάσεις Κατασκευών Κεραιών Χαμηλής Ηλεκτρομαγνητικής Περιβαλλοντικής Όχλησης (ΕΚΚΧΟ).",
+  "measurements_eaee": "-",
+  "documents": [
+    {
+      "document_number": "413273/17-07-2020",
+      "protocol_number": "ΦΩΤΟΓΡΑΦΙΑ ΘΕΣΗΣ ΚΕΡΑΙΑΣ 1/",
+      "type": "Φωτογραφικό Υλικό - Σκαρίφημα",
+      "file_url": "https://silia.eett.gr/silia/download/da1ef1c6-035d-46c5-9e7f-f12fd37c014d"
+    },
+    {
+      "document_number": "413274/17-07-2020",
+      "protocol_number": "ΦΩΤΟΓΡΑΦΙΑ ΘΕΣΗΣ ΚΕΡΑΙΑΣ ΕΚΚΧΟ ΑΠΟ GOOGLE EARTH/",
+      "type": "Φωτογραφικό Υλικό - Σκαρίφημα",
+      "file_url": "https://silia.eett.gr/silia/download/41c2963e-2afa-40c2-9e17-4ed838a3bf89"
+    },
+    {
+      "document_number": "415972/07-09-2020",
+      "protocol_number": "Αρχείο Αίτησης/",
+      "type": "Δήλωση ΕΚΚΧΟ",
+      "file_url": "https://silia.eett.gr/silia/download/a8d39a3e-5e6d-4751-9fd5-50fcf6285ad1"
+    }
+  ]
+}

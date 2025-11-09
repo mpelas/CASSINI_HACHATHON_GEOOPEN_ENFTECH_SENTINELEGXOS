@@ -1,0 +1,135 @@
+{
+  "antenna_id": "113123",
+  "address": "ΤΣΟΥΚΛΙΔΑΙΙΚΑ",
+  "position_code": 1001026,
+  "municipality": "Αγίων Αναργύρων - Καματερού",
+  "code_name": "ΑΝΑΜ.ΚΑΜΑΤΕΡΟΥ",
+  "region": "Αττικής",
+  "latitude": 38.060556,
+  "company": "VODAFONE",
+  "longitude": 23.693889,
+  "permit_status": "Από τα στοιχεία που τηρούνται στην Ενημερωτική Πύλη προκύπτει ότι, για τη θέση \"ΤΣΟΥΚΛΙΔΑΙΙΚΑ\" στον Δήμο Αγίων Αναργύρων - Καματερού Περιφέρειας  Αττικής \n\t(κωδικός αριθμός θέσης 1001026, κωδική ονομασία \"ΑΝΑΜ.ΚΑΜΑΤΕΡΟΥ\") χορηγήθηκε, με την Απόφαση της ΕΕΤΤ \n42355/01-12-2021, άδεια κατασκευής κεραίας στην εταιρία VODAFONE. \nΑπό τo έγγραφο της άδειας μπορείτε να ενημερωθείτε για τις σχετικές εγκρίσεις των συναρμόδιων φορέων, καθώς και εάν πρόκειται για τροποποίηση παλαιότερης άδειας.\nΗ άδεια χορηγήθηκε με τη διαδικασία αδειοδότησης που ορίζει ο ν. 4635/2019, κατόπιν της με αριθ. πρωτ. 12510/08-09-2015 \n\tαίτησης, και βάσει σχετικής δήλωσης του κατόχου της περί υπαγωγή της κατασκευής κεραίας στο άρθρο 34 του ν. 4635/2019.",
+  "measurements_eaee": "-",
+  "documents": [
+    {
+      "document_number": "229192/04-09-2015",
+      "protocol_number": "3186/08-05-2015",
+      "type": "Αρχιτεκτονικά Σχέδια",
+      "file_url": "https://silia.eett.gr/silia/download/1acbeef4-45b3-4f1a-ae7b-2f0ce0fa5844"
+    },
+    {
+      "document_number": "229219/04-09-2015",
+      "protocol_number": "Δ3/Δ/5960_1ο διορθωτικο/05-07-2004",
+      "type": "Γνωμάτευση ΥΠΑ",
+      "file_url": "https://silia.eett.gr/silia/download/107ad9a2-bc19-4a51-970f-91f298de389f"
+    },
+    {
+      "document_number": "229223/04-09-2015",
+      "protocol_number": "19855_2η διορθωτικη/29-05-2006",
+      "type": "Αίτηση ΥΠΑ",
+      "file_url": "https://silia.eett.gr/silia/download/f16be69d-bd72-4984-99f8-5606aee8d83c"
+    },
+    {
+      "document_number": "229224/04-09-2015",
+      "protocol_number": "Δ3/Δ/19855/4844_2η διορθωτικη/03-07-2006",
+      "type": "Γνωμάτευση ΥΠΑ",
+      "file_url": "https://silia.eett.gr/silia/download/7ce64087-5b81-4772-890d-e02c639c500e"
+    },
+    {
+      "document_number": "229230/04-09-2015",
+      "protocol_number": "1452/163 αρχικη /13-01-1998",
+      "type": "Γνωμάτευση ΥΠΑ",
+      "file_url": "https://silia.eett.gr/silia/download/cfb2c547-711d-43e7-84af-68a8c2878b77"
+    },
+    {
+      "document_number": "229234/04-09-2015",
+      "protocol_number": "ΜΕΛΕΤΗ Ρ/Ε/08-05-2015",
+      "type": "Αίτηση - Μελέτη Ραδιοεκπομπών ΕΕΑΕ",
+      "file_url": "https://silia.eett.gr/silia/download/14b90e38-c900-4a2d-bce6-b613857062bd"
+    },
+    {
+      "document_number": "229235/04-09-2015",
+      "protocol_number": "ΜΕΛΕΤΗ Η/Μ ΥΠΟΒΑΘΡΟΥ/08-06-2015",
+      "type": "Αίτηση - Μελέτη Ραδιοεκπομπών ΕΕΑΕ (υποβάθρου)",
+      "file_url": "https://silia.eett.gr/silia/download/929e67b1-27c5-4889-84e8-4cdc0f481cab"
+    },
+    {
+      "document_number": "229267/04-09-2015",
+      "protocol_number": "3186/08-05-2015",
+      "type": "Τοπογραφικό",
+      "file_url": "https://silia.eett.gr/silia/download/e4602bdf-285b-47ab-8d9e-837d2aa04282"
+    },
+    {
+      "document_number": "229464/08-09-2015",
+      "protocol_number": "Φ5809/3542/01-07-2015",
+      "type": "Αίτηση / Μελέτη για Έγκριση Περιβαλλοντικών Επιπτώσεων",
+      "file_url": "https://silia.eett.gr/silia/download/2760a62f-a864-46ae-8c31-195ca31e577d"
+    },
+    {
+      "document_number": "229606/08-09-2015",
+      "protocol_number": "Αρχείο Αίτησης/",
+      "type": "Αίτηση Άδειας Κατασκευής Κεραίας ΕΕΤΤ",
+      "file_url": "https://silia.eett.gr/silia/download/fd3bebaa-c152-497e-8b34-e866eb3eb3fd"
+    },
+    {
+      "document_number": "229678/09-09-2015",
+      "protocol_number": "ΥΔ COSMOTE/08-09-2015",
+      "type": "Άλλο",
+      "file_url": "https://silia.eett.gr/silia/download/7abf70a9-ac3e-4b8a-9e61-03f2b3009ba2"
+    },
+    {
+      "document_number": "249707/12-02-2016",
+      "protocol_number": "Μ.ι./411/1115/2016/02-02-2016",
+      "type": "Γνωμάτευση ΕΕΑΕ",
+      "file_url": "https://silia.eett.gr/silia/download/71055280-6ac1-4ad5-9843-8a6285280cf9"
+    },
+    {
+      "document_number": "312133/08-11-2017",
+      "protocol_number": "ΜΕΛΕΤΗ Η/Μ ΣΥΜΒΑΤΟΤΗΤΑΣ/07-11-2017",
+      "type": "Αποτελέσματα μελέτης στη ζώνης 2.6GHz για ΥΠΑ/ΓΕΕΘΑ",
+      "file_url": "https://silia.eett.gr/silia/download/0a5588ba-ede5-45f5-bf0e-91ef6b56b4ed"
+    },
+    {
+      "document_number": "356848/07-02-2019",
+      "protocol_number": "105963/17-04-2018",
+      "type": "Έγγραφο Αρμοδίου Φορέα",
+      "file_url": "https://silia.eett.gr/silia/download/20444b5e-8bd1-4b58-9d84-dcd9dfe00261"
+    },
+    {
+      "document_number": "365568/13-05-2019",
+      "protocol_number": "ΜΕΛΕΤΗ ΣΥΜΒΑΤΟΤΗΤΑΣ 2700 MHz/09-05-2019",
+      "type": "Μελέτη για τη ζώνη  2,6GHz",
+      "file_url": "https://silia.eett.gr/silia/download/2677ff55-dfcf-4e95-a13b-d17a9a27791a"
+    },
+    {
+      "document_number": "442851/05-10-2021",
+      "protocol_number": "119463/27-09-2021",
+      "type": "Έγκριση Περιβαλλοντικών Όρων",
+      "file_url": "https://silia.eett.gr/silia/download/302637a4-62d5-4828-906e-5a9e452e9b39"
+    },
+    {
+      "document_number": "444588/21-10-2021",
+      "protocol_number": "130342_Ορθή Επανάληψη/19-10-2021",
+      "type": "Έγκριση Περιβαλλοντικών Όρων",
+      "file_url": "https://silia.eett.gr/silia/download/f5f9fe0e-4ed1-4caf-861c-f25b86e4828b"
+    },
+    {
+      "document_number": "444589/21-10-2021",
+      "protocol_number": "Δ3/Δ/19855/4844_2η διορθωτικη/03-07-2006",
+      "type": "Γνωμάτευση ΥΠΑ",
+      "file_url": "https://silia.eett.gr/silia/download/6f957dee-873e-4509-b10f-7f47adfabf47"
+    },
+    {
+      "document_number": "444719/22-10-2021",
+      "protocol_number": "Δ3/Δ/19855/4844_2η διορθωτικη/03-07-2006",
+      "type": "Γνωμάτευση ΥΠΑ",
+      "file_url": "https://silia.eett.gr/silia/download/a45c4a54-7336-4d33-86c2-c4650a92c3c0"
+    },
+    {
+      "document_number": "447394/03-12-2021",
+      "protocol_number": "42355/01-12-2021",
+      "type": "Άδεια Κατασκευής  Κεραίας",
+      "file_url": "https://silia.eett.gr/silia/download/9f5a072f-7e0e-4eba-be42-10095789a3fe"
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "antenna_id": "141444",
+  "address": "ΚΤΙΡΙΟ ΔΗΜΟΤΙΚΗΣ ΚΟΙΝΟΤΗΤΑΣ",
+  "position_code": 1441131,
+  "municipality": "Παπάγου - Χολαργού",
+  "code_name": "DIMKINPA  SC",
+  "region": "Αττικής",
+  "latitude": 37.991111,
+  "company": "OTE",
+  "longitude": 23.798333,
+  "permit_status": "Από τα στοιχεία που τηρούνται στην Ενημερωτική Πύλη προκύπτει ότι, για τη θέση \"ΚΤΙΡΙΟ ΔΗΜΟΤΙΚΗΣ ΚΟΙΝΟΤΗΤΑΣ\" στον Δήμο Παπάγου - Χολαργού Περιφέρειας  Αττικής \n\t(κωδικός αριθμός θέσης 1441131, κωδική ονομασία \"DIMKINPA  SC\") έχει κατατεθεί από την εταιρία OTE\tδήλωση εγκατάστασης κατασκευής κεραίας (αριθ. πρωτ. \n\t32096/15-03-2019) που εμπίπτει στις διατάξεις της νομοθεσίας για Εγκαταστάσεις Κατασκευών Κεραιών Χαμηλής Ηλεκτρομαγνητικής Περιβαλλοντικής Όχλησης (ΕΚΚΧΟ).",
+  "measurements_eaee": "-",
+  "documents": [
+    {
+      "document_number": "360636/14-03-2019",
+      "protocol_number": "ΦΩΤΟΓΡΑΦΙΑ/",
+      "type": "Φωτογραφικό Υλικό - Σκαρίφημα",
+      "file_url": "https://silia.eett.gr/silia/download/cf0856a8-2717-4cfd-bbe3-02ae5ec8b04c"
+    },
+    {
+      "document_number": "360772/15-03-2019",
+      "protocol_number": "Αρχείο Αίτησης/",
+      "type": "Δήλωση ΕΚΚΧΟ",
+      "file_url": "https://silia.eett.gr/silia/download/b0382d8a-adc7-4204-9ff3-fb2c8976ba07"
+    },
+    {
+      "document_number": "361421/26-03-2019",
+      "protocol_number": "ΜΕΛΕΤΗ EMC/19-03-2019",
+      "type": "Μελέτη για τη ζώνη  2,6GHz",
+      "file_url": "https://silia.eett.gr/silia/download/beb9e224-d7a3-4f60-97c6-9f5b16f977af"
+    }
+  ]
+}

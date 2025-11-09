@@ -1,0 +1,33 @@
+{
+  "antenna_id": "174830",
+  "address": "ΓΕΩΡΓΙΟΥΠΟΛΗ, ΧΑΝΙΑ",
+  "position_code": 1496770,
+  "municipality": "Χανίων",
+  "code_name": "GEORGIOUPOLIS_HOTEL_HAN",
+  "region": "Κρήτης",
+  "latitude": 35.363333,
+  "company": "OTE",
+  "longitude": 24.261111,
+  "permit_status": "Από τα στοιχεία που τηρούνται στην Ενημερωτική Πύλη προκύπτει ότι, για τη θέση \"ΓΕΩΡΓΙΟΥΠΟΛΗ, ΧΑΝΙΑ\" στον Δήμο Χανίων Περιφέρειας  Κρήτης \n\t(κωδικός αριθμός θέσης 1496770, κωδική ονομασία \"GEORGIOUPOLIS_HOTEL_HAN\") έχει κατατεθεί από την εταιρία OTE\tδήλωση εγκατάστασης κατασκευής κεραίας (αριθ. πρωτ. \n\t60258/31-03-2025) που εμπίπτει στις διατάξεις της νομοθεσίας για Εγκαταστάσεις Κατασκευών Κεραιών Χαμηλής Ηλεκτρομαγνητικής Περιβαλλοντικής Όχλησης (ΕΚΚΧΟ).",
+  "measurements_eaee": "-",
+  "documents": [
+    {
+      "document_number": "523060/07-08-2024",
+      "protocol_number": "ΦΩΤΟΓΡΑΦΙΑ/07-08-2024",
+      "type": "Φωτογραφικό Υλικό - Σκαρίφημα",
+      "file_url": "https://silia.eett.gr/silia/download/KIRToKXp9Sf7RQzPF8YpbC6P8ewchv55fKVr"
+    },
+    {
+      "document_number": "545102/27-03-2025",
+      "protocol_number": "ΜΕΛΕΤΗ/27-03-2025",
+      "type": "Αίτηση - Μελέτη Ραδιοεκπομπών ΕΕΑΕ",
+      "file_url": "https://silia.eett.gr/silia/download/3q0hYYZFRaBF0dOTGRucayKCn5NnrVCWY2Q8"
+    },
+    {
+      "document_number": "545468/31-03-2025",
+      "protocol_number": "Αρχείο Αίτησης/31-03-2025",
+      "type": "Δήλωση ΕΚΚΧΟ",
+      "file_url": "https://silia.eett.gr/silia/download/VZGVWbLU5GEVHgSmM4l12Gh2EOCsug0qvWXE"
+    }
+  ]
+}

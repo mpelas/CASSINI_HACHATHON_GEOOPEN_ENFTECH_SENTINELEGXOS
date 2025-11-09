@@ -1,0 +1,39 @@
+{
+  "antenna_id": "142212",
+  "address": "ΛΕΩΦ. ΚΩΝΣΤΑΝΤΙΝΟΥ ΑΘΑΝΑΤΟΥ 32, ΓΛΥΦΑΔΑ",
+  "position_code": 1211202,
+  "municipality": "Γλυφάδας",
+  "code_name": "ANO GLIFADA ATHANATOU MICRO",
+  "region": "Αττικής",
+  "latitude": 37.890556,
+  "company": "NOVA Μ.Α.Ε.",
+  "longitude": 23.767778,
+  "permit_status": "Από τα στοιχεία που τηρούνται στην Ενημερωτική Πύλη προκύπτει ότι, για τη θέση \"ΛΕΩΦ. ΚΩΝΣΤΑΝΤΙΝΟΥ ΑΘΑΝΑΤΟΥ 32, ΓΛΥΦΑΔΑ\" στον Δήμο Γλυφάδας Περιφέρειας  Αττικής \n\t(κωδικός αριθμός θέσης 1211202, κωδική ονομασία \"ANO GLIFADA ATHANATOU MICRO\") έχει κατατεθεί από την εταιρία NOVA Μ.Α.Ε.\tδήλωση εγκατάστασης κατασκευής κεραίας (αριθ. πρωτ. \n\t32954/22-05-2019) που εμπίπτει στις διατάξεις της νομοθεσίας για Εγκαταστάσεις Κατασκευών Κεραιών Χαμηλής Ηλεκτρομαγνητικής Περιβαλλοντικής Όχλησης (ΕΚΚΧΟ).",
+  "measurements_eaee": "-",
+  "documents": [
+    {
+      "document_number": "364745/24-04-2019",
+      "protocol_number": "ΣΚΑΡΙΦΗΜΑ ΚΕΡΑΙΩΝ ΕΚΚΧΟ/",
+      "type": "Φωτογραφικό Υλικό - Σκαρίφημα",
+      "file_url": "https://silia.eett.gr/silia/download/766c4072-bcee-4adc-abed-7715efc11655"
+    },
+    {
+      "document_number": "364746/24-04-2019",
+      "protocol_number": "ΦΩΤΟΓΡΑΦΙΑ ΚΕΡΑΙΩΝ ΕΚΚΧΟ/",
+      "type": "Φωτογραφικό Υλικό - Σκαρίφημα",
+      "file_url": "https://silia.eett.gr/silia/download/ccce073d-67c9-41f5-a3e9-c1bbfd3c2cc7"
+    },
+    {
+      "document_number": "366103/21-05-2019",
+      "protocol_number": "ΜΕΛΕΤΗ ΣΥΜΒΑΤΟΤΗΤΑΣ ΣΤΑΘΜΟΥ/",
+      "type": "Μελέτη για τη ζώνη  2,6GHz",
+      "file_url": "https://silia.eett.gr/silia/download/0cfb096f-5269-4234-824b-6b1060343b08"
+    },
+    {
+      "document_number": "366105/22-05-2019",
+      "protocol_number": "Αρχείο Αίτησης/",
+      "type": "Δήλωση ΕΚΚΧΟ",
+      "file_url": "https://silia.eett.gr/silia/download/64324df9-147e-4de3-8e05-f4208fd4c103"
+    }
+  ]
+}

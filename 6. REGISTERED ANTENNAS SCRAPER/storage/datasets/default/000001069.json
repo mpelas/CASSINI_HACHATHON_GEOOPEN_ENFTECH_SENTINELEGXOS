@@ -1,0 +1,51 @@
+{
+  "antenna_id": "177811",
+  "address": "ΙΩΛΚΟΥ 363 ΒΟΛΟΣ",
+  "position_code": 1275643,
+  "municipality": "Βόλου",
+  "code_name": "AVIN IOLKOU VOLOS (K643)",
+  "region": "Θεσσαλίας",
+  "latitude": 39.379444,
+  "company": "NOVA Μ.Α.Ε.",
+  "longitude": 22.964444,
+  "permit_status": "Από τα στοιχεία που τηρούνται στην Ενημερωτική Πύλη προκύπτει ότι, για τη θέση \"ΙΩΛΚΟΥ 363 ΒΟΛΟΣ\" στον Δήμο Βόλου Περιφέρειας  Θεσσαλίας \n\t(κωδικός αριθμός θέσης 1275643, κωδική ονομασία \"AVIN IOLKOU VOLOS (K643)\") έχει κατατεθεί από την εταιρία NOVA Μ.Α.Ε.\tδήλωση εγκατάστασης κατασκευής κεραίας (αριθ. πρωτ. \n\t59530/25-02-2025) που εμπίπτει στις διατάξεις της νομοθεσίας για Εγκαταστάσεις Κατασκευών Κεραιών Χαμηλής Ηλεκτρομαγνητικής Περιβαλλοντικής Όχλησης (ΕΚΚΧΟ).",
+  "measurements_eaee": "-",
+  "documents": [
+    {
+      "document_number": "541850/25-02-2025",
+      "protocol_number": "Φωτορεαλιστική απεικόνιση κεραίας ΕΚΚΧΟ/25-02-2025",
+      "type": "Φωτογραφικό Υλικό - Σκαρίφημα",
+      "file_url": "https://silia.eett.gr/silia/download/4nbreNmATuadIfhd0WY1pWeurY01f18zkH9w"
+    },
+    {
+      "document_number": "541851/25-02-2025",
+      "protocol_number": "Ψηφιακός χάρτης με προβολή της θέσης ΕΚΚΧΟ/25-02-2025",
+      "type": "Φωτογραφικό Υλικό - Σκαρίφημα",
+      "file_url": "https://silia.eett.gr/silia/download/fNzVgvsEHHz6zvtr7CaZSqM117HCYceU9DhA"
+    },
+    {
+      "document_number": "541856/25-02-2025",
+      "protocol_number": "ΜΕΛΕΤΗ ΕΚΚΧΟ/25-02-2025",
+      "type": "Άλλο",
+      "file_url": "https://silia.eett.gr/silia/download/NVboMXSMkAkrOWQaGgbAvtITzMCZomRxeFHA"
+    },
+    {
+      "document_number": "541857/25-02-2025",
+      "protocol_number": "Σκαρίφημα με περιοχή απαγόρευσης/25-02-2025",
+      "type": "Φωτογραφικό Υλικό - Σκαρίφημα",
+      "file_url": "https://silia.eett.gr/silia/download/GgBtoYmpv0S18MhNDsTYG1dXmClqCHlNU3yG"
+    },
+    {
+      "document_number": "541858/25-02-2025",
+      "protocol_number": "Αρχείο Αίτησης/25-02-2025",
+      "type": "Δήλωση ΕΚΚΧΟ",
+      "file_url": "https://silia.eett.gr/silia/download/uSKrsP08Vl5EmClXipMGLCocO53zC3w4Yfu8"
+    },
+    {
+      "document_number": "550996/30-05-2025",
+      "protocol_number": "ΥΔ ΕΓΚΑΤΑΣΤΑΣΗΣ/30-05-2025",
+      "type": "Άλλο",
+      "file_url": "https://silia.eett.gr/silia/download/Uqk7ZGKnFyvxGIrV0dpPepopBVNr8QIsgYgw"
+    }
+  ]
+}

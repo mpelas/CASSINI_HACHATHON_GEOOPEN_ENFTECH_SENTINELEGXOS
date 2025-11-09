@@ -1,0 +1,69 @@
+{
+  "antenna_id": "175918",
+  "address": "ΛΕΩΦΟΡΟΣ  ΚΥΔΩΝΙΑΣ  46 , ΧΑΝΙΑ",
+  "position_code": 1405791,
+  "municipality": "Χανίων",
+  "code_name": "KIDONIA  SC",
+  "region": "Κρήτης",
+  "latitude": 35.5125,
+  "company": "OTE",
+  "longitude": 24.018889,
+  "permit_status": "Από τα στοιχεία που τηρούνται στην Ενημερωτική Πύλη προκύπτει ότι, για τη θέση \"ΛΕΩΦΟΡΟΣ  ΚΥΔΩΝΙΑΣ  46 , ΧΑΝΙΑ\" στον Δήμο Χανίων Περιφέρειας  Κρήτης \n\t(κωδικός αριθμός θέσης 1405791, κωδική ονομασία \"KIDONIA  SC\") έχει κατατεθεί από την εταιρία OTE\tδήλωση εγκατάστασης κατασκευής κεραίας (αριθ. πρωτ. \n\t57929/21-10-2024) που εμπίπτει στις διατάξεις της νομοθεσίας για Εγκαταστάσεις Κατασκευών Κεραιών Χαμηλής Ηλεκτρομαγνητικής Περιβαλλοντικής Όχλησης (ΕΚΚΧΟ).",
+  "measurements_eaee": "-",
+  "documents": [
+    {
+      "document_number": "529496/21-10-2024",
+      "protocol_number": "ΜΕΛΕΤΗ/21-10-2024",
+      "type": "Αίτηση - Μελέτη Ραδιοεκπομπών ΕΕΑΕ",
+      "file_url": "https://silia.eett.gr/silia/download/yz6OMS1fdgNzEef7qqlD48GlHGX0ooGK56L2"
+    },
+    {
+      "document_number": "529497/21-10-2024",
+      "protocol_number": "ΛΙΝΚ/21-10-2024",
+      "type": "Άλλο",
+      "file_url": "https://silia.eett.gr/silia/download/XPvv1HMlwNT1O8BaqYeg5XrVlRVgZl83lQcZ"
+    },
+    {
+      "document_number": "529498/21-10-2024",
+      "protocol_number": "ΦΩΤΟΓΡΑΦΙΑ/21-10-2024",
+      "type": "Φωτογραφικό Υλικό - Σκαρίφημα",
+      "file_url": "https://silia.eett.gr/silia/download/SIuqgomNBlkDK83L2RQvk7Vur3lWtDStynx7"
+    },
+    {
+      "document_number": "529499/21-10-2024",
+      "protocol_number": "449852/25-09-2023",
+      "type": "Γνωμοδότηση ΕΠΚΑ",
+      "file_url": "https://silia.eett.gr/silia/download/eXXkWCd6L2Txv4iaFTgzSVNAXETslBMgFvwi"
+    },
+    {
+      "document_number": "529500/21-10-2024",
+      "protocol_number": "ΟΨΗ/21-10-2024",
+      "type": "Αρχιτεκτονικά [Κάτοψη - Τομή - Όψη]",
+      "file_url": "https://silia.eett.gr/silia/download/nfZbryIZnxg7eImOensGcu1oUftDDN7Dqin5"
+    },
+    {
+      "document_number": "529501/21-10-2024",
+      "protocol_number": "ΚΑΤΟΨΗ/21-10-2024",
+      "type": "Αρχιτεκτονικά [Κάτοψη - Τομή - Όψη]",
+      "file_url": "https://silia.eett.gr/silia/download/OwWDALGEpASebuRXsPgfVMhBHNmlT4hcn7ns"
+    },
+    {
+      "document_number": "529502/21-10-2024",
+      "protocol_number": "ΤΟΠΟΓΡΑΦΙΚΟ/21-10-2024",
+      "type": "Τοπογραφικό",
+      "file_url": "https://silia.eett.gr/silia/download/SGGxT558MtKi3fFYVak4cePX3pcw01u1zdAM"
+    },
+    {
+      "document_number": "529529/21-10-2024",
+      "protocol_number": "Αρχείο Αίτησης/21-10-2024",
+      "type": "Δήλωση ΕΚΚΧΟ",
+      "file_url": "https://silia.eett.gr/silia/download/PRczf6nGvcEDesL4DuFncNal39QvrzXCz2OA"
+    },
+    {
+      "document_number": "539261/29-01-2025",
+      "protocol_number": "ΥΠ.ΔΗΛΩΣΗ/29-01-2025",
+      "type": "Άλλο",
+      "file_url": "https://silia.eett.gr/silia/download/Oqtpk9epPFYlHyMn6c7bpiHuFl8HY1mfkPw3"
+    }
+  ]
+}

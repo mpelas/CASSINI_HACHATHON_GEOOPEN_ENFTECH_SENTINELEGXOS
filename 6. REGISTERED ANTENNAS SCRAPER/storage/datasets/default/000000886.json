@@ -1,0 +1,39 @@
+{
+  "antenna_id": "179130",
+  "address": "ΕΘΝΙΚΗ ΟΔΟΣ ΑΘΗΝΩΝ-ΚΟΡΙΝΘΟΥ 21 ΑΣΠΡΟΠΥΡΓΟΣ ΑΤΤΙΚΗΣ",
+  "position_code": 1495450,
+  "municipality": "Ασπροπύργου",
+  "code_name": "FERST_ASPROPYRGOS",
+  "region": "Αττικής",
+  "latitude": 38.049722,
+  "company": "OTE",
+  "longitude": 23.571667,
+  "permit_status": "Από τα στοιχεία που τηρούνται στην Ενημερωτική Πύλη προκύπτει ότι, για τη θέση \"ΕΘΝΙΚΗ ΟΔΟΣ ΑΘΗΝΩΝ-ΚΟΡΙΝΘΟΥ 21 ΑΣΠΡΟΠΥΡΓΟΣ ΑΤΤΙΚΗΣ\" στον Δήμο Ασπροπύργου Περιφέρειας  Αττικής \n\t(κωδικός αριθμός θέσης 1495450, κωδική ονομασία \"FERST_ASPROPYRGOS\") έχει κατατεθεί από την εταιρία OTE\tδήλωση εγκατάστασης κατασκευής κεραίας (αριθ. πρωτ. \n\t60955/07-05-2025) που εμπίπτει στις διατάξεις της νομοθεσίας για Εγκαταστάσεις Κατασκευών Κεραιών Χαμηλής Ηλεκτρομαγνητικής Περιβαλλοντικής Όχλησης (ΕΚΚΧΟ).",
+  "measurements_eaee": "-",
+  "documents": [
+    {
+      "document_number": "547279/18-04-2025",
+      "protocol_number": "ΦΩΤΟΓΡΑΦΙΑ/18-04-2025",
+      "type": "Φωτογραφικό Υλικό - Σκαρίφημα",
+      "file_url": "https://silia.eett.gr/silia/download/ocWvgRM8oQQvUZmdb7lKSWCCRa5olafx4Gq5"
+    },
+    {
+      "document_number": "548560/07-05-2025",
+      "protocol_number": "ΜΕΛΕΤΗ/07-05-2025",
+      "type": "Αίτηση - Μελέτη Ραδιοεκπομπών ΕΕΑΕ",
+      "file_url": "https://silia.eett.gr/silia/download/zA6vk6NXeg0V8ItwkGYQHtd1G8KpW3SY8Wrk"
+    },
+    {
+      "document_number": "548571/07-05-2025",
+      "protocol_number": "Αρχείο Αίτησης/07-05-2025",
+      "type": "Δήλωση ΕΚΚΧΟ",
+      "file_url": "https://silia.eett.gr/silia/download/oPp5igcx1hAM1CzkiVIDbm2aAqQzKVXZGIWi"
+    },
+    {
+      "document_number": "552324/12-06-2025",
+      "protocol_number": "ΥΠ.ΔΗΛΩΣΗ/12-06-2025",
+      "type": "Άλλο",
+      "file_url": "https://silia.eett.gr/silia/download/pqz1DXEsaRfN9o0YUpA4ZkBupz14qTpaVutf"
+    }
+  ]
+}

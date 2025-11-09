@@ -1,0 +1,81 @@
+{
+  "antenna_id": "144495",
+  "address": "ΠΛΗΣΙΟΝ  ΤΟΠ.ΚΟΙΝ.ΒΕΡΒΕΝΑ",
+  "position_code": 1405374,
+  "municipality": "Βόρειας Κυνουρίας",
+  "code_name": "ΒΕΡΒΕΝΑ/Χ",
+  "region": "Πελοποννήσου",
+  "latitude": 37.361111,
+  "company": "OTE",
+  "longitude": 22.468056,
+  "permit_status": "Από τα στοιχεία που τηρούνται στην Ενημερωτική Πύλη προκύπτει ότι, για τη θέση \"ΠΛΗΣΙΟΝ  ΤΟΠ.ΚΟΙΝ.ΒΕΡΒΕΝΑ\" στον Δήμο Βόρειας Κυνουρίας Περιφέρειας  Πελοποννήσου \n\t(κωδικός αριθμός θέσης 1405374, κωδική ονομασία \"ΒΕΡΒΕΝΑ/Χ\") χορηγήθηκε, με την Απόφαση της ΕΕΤΤ \n36922/Φ610/25-09-2020, άδεια κατασκευής κεραίας στην εταιρία OTE. \nΑπό τo έγγραφο της άδειας μπορείτε να ενημερωθείτε για τις σχετικές εγκρίσεις των συναρμόδιων φορέων, καθώς και εάν πρόκειται για τροποποίηση παλαιότερης άδειας.\nΗ άδεια χορηγήθηκε με τη διαδικασία αδειοδότησης που ορίζει ο ν. 4635/2019, κατόπιν της με αριθ. πρωτ. 34828/10-10-2019 \n\tαίτησης, και βάσει σχετικής δήλωσης του κατόχου της περί υπαγωγή της κατασκευής κεραίας στο άρθρο 34 του ν. 4635/2019.",
+  "measurements_eaee": "-",
+  "documents": [
+    {
+      "document_number": "378451/07-10-2019",
+      "protocol_number": "ΜΕΣΩ ΣΗΛΥΑ/",
+      "type": "Αρχιτεκτονικά Σχέδια",
+      "file_url": "https://silia.eett.gr/silia/download/403c9ebe-375d-437d-b98e-315b68a9a2b5"
+    },
+    {
+      "document_number": "378452/07-10-2019",
+      "protocol_number": "Δ3/Δ/7770/16-09-2003",
+      "type": "Γνωμάτευση ΥΠΑ",
+      "file_url": "https://silia.eett.gr/silia/download/245848ad-c432-430c-89f6-a1f7137f8f34"
+    },
+    {
+      "document_number": "378453/07-10-2019",
+      "protocol_number": "ΜΕΣΩ ΣΗΛΥΑ/07-10-2019",
+      "type": "Αίτηση ΥΠΑ",
+      "file_url": "https://silia.eett.gr/silia/download/17958b70-99fc-4e1f-bda2-97132ba3cb32"
+    },
+    {
+      "document_number": "378454/07-10-2019",
+      "protocol_number": "ΜΕΣΩ ΣΗΛΥΑ/15-04-2019",
+      "type": "Αίτηση - Μελέτη Ραδιοεκπομπών ΕΕΑΕ",
+      "file_url": "https://silia.eett.gr/silia/download/3d21d2b8-79e9-4b04-bfaf-0c0c61084b73"
+    },
+    {
+      "document_number": "378457/07-10-2019",
+      "protocol_number": "ΥΠ.ΔΗΛΩΣΗ ΣΥΝΕΓΚΑΤΑΣΤΑΣΗΣ ΟΤΕ/07-10-2019",
+      "type": "Άλλο",
+      "file_url": "https://silia.eett.gr/silia/download/b088efc0-4e99-4bd3-b87d-b09530e86c41"
+    },
+    {
+      "document_number": "378997/10-10-2019",
+      "protocol_number": "ΜΕΣΩ ΣΗΛΥΑ/",
+      "type": "Τοπογραφικό",
+      "file_url": "https://silia.eett.gr/silia/download/40c56837-0133-412a-a5c2-2b0d91b65d4f"
+    },
+    {
+      "document_number": "379007/10-10-2019",
+      "protocol_number": "Αρχείο Αίτησης/",
+      "type": "Αίτηση Άδειας Κατασκευής Κεραίας ΕΕΤΤ",
+      "file_url": "https://silia.eett.gr/silia/download/b1a95aea-19e4-4801-9492-c85b1f7f9f7f"
+    },
+    {
+      "document_number": "397552/28-02-2020",
+      "protocol_number": "Μ.ι./411/3109/2020/27-02-2020",
+      "type": "Γνωμάτευση ΕΕΑΕ",
+      "file_url": "https://silia.eett.gr/silia/download/11e07722-7f76-4bf1-bf42-491fa5408a13"
+    },
+    {
+      "document_number": "418371/07-10-2020",
+      "protocol_number": "36922/Φ10/25-09-2020",
+      "type": "Άδεια Κατασκευής  Κεραίας",
+      "file_url": "https://silia.eett.gr/silia/download/2bda2d80-40b0-40de-b2e9-4d6118a82d70"
+    },
+    {
+      "document_number": "378458/07-10-2019",
+      "protocol_number": "ΜΕΣΩ ΣΗΛΥΑ/",
+      "type": "Δήλωση υπαγωγής σε ΠΠΔ και Συνοδευτικά Έγγραφα",
+      "file_url": "https://silia.eett.gr/silia/download/4b1af0d7-3028-4362-b688-4e9a5313f7cf"
+    },
+    {
+      "document_number": "379008/10-10-2019",
+      "protocol_number": "Αρχείο Αίτησης/",
+      "type": "Δήλωση ΠΠΔ",
+      "file_url": "https://silia.eett.gr/silia/download/d43ed96f-b2a7-44ae-89ad-7de89a3513ee"
+    }
+  ]
+}

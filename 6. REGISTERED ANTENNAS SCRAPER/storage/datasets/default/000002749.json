@@ -1,0 +1,39 @@
+{
+  "antenna_id": "132057",
+  "address": "ΑΝΔΡΕΑ ΠΑΠΑΝΔΡΕΟΥ 5, ΜΕΛΙΣΣΙΑ",
+  "position_code": 1267405,
+  "municipality": "Πεντέλης",
+  "code_name": "FROMAGERIES MELISSIA",
+  "region": "Αττικής",
+  "latitude": 38.050833,
+  "company": "NOVA Μ.Α.Ε.",
+  "longitude": 23.84,
+  "permit_status": "Από τα στοιχεία που τηρούνται στην Ενημερωτική Πύλη προκύπτει ότι, για τη θέση \"ΑΝΔΡΕΑ ΠΑΠΑΝΔΡΕΟΥ 5, ΜΕΛΙΣΣΙΑ\" στον Δήμο Πεντέλης Περιφέρειας  Αττικής \n\t(κωδικός αριθμός θέσης 1267405, κωδική ονομασία \"FROMAGERIES MELISSIA\") έχει κατατεθεί από την εταιρία NOVA Μ.Α.Ε.\tδήλωση εγκατάστασης κατασκευής κεραίας (αριθ. πρωτ. \n\t26658/16-03-2018) που εμπίπτει στις διατάξεις της νομοθεσίας για Εγκαταστάσεις Κατασκευών Κεραιών Χαμηλής Ηλεκτρομαγνητικής Περιβαλλοντικής Όχλησης (ΕΚΚΧΟ).",
+  "measurements_eaee": "-",
+  "documents": [
+    {
+      "document_number": "323397/14-03-2018",
+      "protocol_number": "ΦΩΤΟΓΡΑΦΙΑ LINK ΕΚΚΧΟ/",
+      "type": "Φωτογραφικό Υλικό - Σκαρίφημα",
+      "file_url": "https://silia.eett.gr/silia/download/d0abf0c5-7754-46db-a12e-76d9f49c6e2f"
+    },
+    {
+      "document_number": "323577/16-03-2018",
+      "protocol_number": "Αρχείο Αίτησης/",
+      "type": "Δήλωση ΕΚΚΧΟ",
+      "file_url": "https://silia.eett.gr/silia/download/6d4c760a-6004-4b9c-942a-ee72a9e61350"
+    },
+    {
+      "document_number": "358729/21-02-2019",
+      "protocol_number": "881/12 ΑΠΟΦΑΣΗ ΠΡΟΣΤΙΜΟΥ /28-01-2019",
+      "type": "Έγγραφο Αρμοδίου Φορέα",
+      "file_url": "https://silia.eett.gr/silia/download/f24ceb10-048e-410f-8169-114c5613068e"
+    },
+    {
+      "document_number": "358730/21-02-2019",
+      "protocol_number": "ΑΠΟΔΕΙΚΤΙΚΟ ΠΛΗΡΩΜΗΣ ΠΡΟΣΤΙΜΟΥ/20-02-2019",
+      "type": "Άλλο",
+      "file_url": "https://silia.eett.gr/silia/download/6624beb5-79e1-401d-b0ab-fe03326dbabf"
+    }
+  ]
+}

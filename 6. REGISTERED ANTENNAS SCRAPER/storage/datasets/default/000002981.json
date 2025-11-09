@@ -1,0 +1,45 @@
+{
+  "antenna_id": "173973",
+  "address": "ΓΙΑΛΟΒΑ",
+  "position_code": 1496801,
+  "municipality": "Πύλου - Νέστορος",
+  "code_name": "BAY_COURSE_MESS",
+  "region": "Πελοποννήσου",
+  "latitude": 36.936667,
+  "company": "OTE",
+  "longitude": 21.719167,
+  "permit_status": "Από τα στοιχεία που τηρούνται στην Ενημερωτική Πύλη προκύπτει ότι, για τη θέση \"ΓΙΑΛΟΒΑ\" στον Δήμο Πύλου - Νέστορος Περιφέρειας  Πελοποννήσου \n\t(κωδικός αριθμός θέσης 1496801, κωδική ονομασία \"BAY_COURSE_MESS\") έχει κατατεθεί από την εταιρία OTE\tδήλωση εγκατάστασης κατασκευής κεραίας (αριθ. πρωτ. \n\t57706/09-10-2024) που εμπίπτει στις διατάξεις της νομοθεσίας για Εγκαταστάσεις Κατασκευών Κεραιών Χαμηλής Ηλεκτρομαγνητικής Περιβαλλοντικής Όχλησης (ΕΚΚΧΟ).",
+  "measurements_eaee": "-",
+  "documents": [
+    {
+      "document_number": "520027/10-07-2024",
+      "protocol_number": "φωτογραφια/10-07-2024",
+      "type": "Φωτογραφικό Υλικό - Σκαρίφημα",
+      "file_url": "https://silia.eett.gr/silia/download/IO8h77ywaRuKbx1fXEGBeu1Zt4MXsbg5kHfh"
+    },
+    {
+      "document_number": "520028/10-07-2024",
+      "protocol_number": "χαρτης/10-07-2024",
+      "type": "Φωτογραφικό Υλικό - Σκαρίφημα",
+      "file_url": "https://silia.eett.gr/silia/download/bS39oTicgb5hbIddI11QL9CliGyXQXzvdrz5"
+    },
+    {
+      "document_number": "528306/09-10-2024",
+      "protocol_number": "ΜΕΛΕΤΗ/09-10-2024",
+      "type": "Αίτηση - Μελέτη Ραδιοεκπομπών ΕΕΑΕ",
+      "file_url": "https://silia.eett.gr/silia/download/mS3AA6Q7AuxDdnbMlc09aIdsEA7Iyu6X4fQO"
+    },
+    {
+      "document_number": "528318/09-10-2024",
+      "protocol_number": "Αρχείο Αίτησης/09-10-2024",
+      "type": "Δήλωση ΕΚΚΧΟ",
+      "file_url": "https://silia.eett.gr/silia/download/NTXSbKkEUzzHuYULOaUmE3auCZ8bZrhGMnrb"
+    },
+    {
+      "document_number": "534943/09-12-2024",
+      "protocol_number": "ΥΠ.ΔΗΛΩΣΗ/09-12-2024",
+      "type": "Άλλο",
+      "file_url": "https://silia.eett.gr/silia/download/A1op70gAg3QPvRDMuYWbheVHrGBL0ZlhVBZB"
+    }
+  ]
+}

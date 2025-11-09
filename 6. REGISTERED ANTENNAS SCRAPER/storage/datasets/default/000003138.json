@@ -1,0 +1,57 @@
+{
+  "antenna_id": "174934",
+  "address": "ΣΤΑΔΙΟ ΣΕΡΡΩΝ",
+  "position_code": 5000227,
+  "municipality": "Σερρών",
+  "code_name": "ΣΤΑΔΙΟ",
+  "region": "Κεντρικής Μακεδονίας",
+  "latitude": 41.085278,
+  "company": "NICE ΓΙΑΜΑΓΚΑΚΗΣ ΚΩΝΣΤΑΝΤΙΝΟΣ",
+  "longitude": 23.546944,
+  "permit_status": "Από τα στοιχεία που τηρούνται στην Ενημερωτική Πύλη προκύπτει ότι, για τη θέση \"ΣΤΑΔΙΟ ΣΕΡΡΩΝ\" στον Δήμο Σερρών Περιφέρειας  Κεντρικής Μακεδονίας \n\t(κωδικός αριθμός θέσης 5000227, κωδική ονομασία \"ΣΤΑΔΙΟ\") έχει κατατεθεί από την εταιρία NICE ΓΙΑΜΑΓΚΑΚΗΣ ΚΩΝΣΤΑΝΤΙΝΟΣ\tδήλωση εγκατάστασης κατασκευής κεραίας (αριθ. πρωτ. \n\t57092/27-08-2024) που εμπίπτει στις διατάξεις της νομοθεσίας για Εγκαταστάσεις Κατασκευών Κεραιών Χαμηλής Ηλεκτρομαγνητικής Περιβαλλοντικής Όχλησης (ΕΚΚΧΟ).",
+  "measurements_eaee": "-",
+  "documents": [
+    {
+      "document_number": "523753/27-08-2024",
+      "protocol_number": "Τοπογραφικό διάγραμμα Google/26-08-2024",
+      "type": "Τοπογραφικό",
+      "file_url": "https://silia.eett.gr/silia/download/Mzt40m11WXbQGgfKaGytuLv3vEQT2aiOpVa8"
+    },
+    {
+      "document_number": "523754/27-08-2024",
+      "protocol_number": "ΚΑΤΟΨΗ ΕΚΚΧΟ ΚΘ 5000227/26-08-2024",
+      "type": "Αρχιτεκτονικά [Κάτοψη - Τομή - Όψη]",
+      "file_url": "https://silia.eett.gr/silia/download/3g6ihfWkC0IbqCaZymtdHVPwOpB8xE5H0x3K"
+    },
+    {
+      "document_number": "523755/27-08-2024",
+      "protocol_number": "ΟΨΗ ΕΚΚΧΟ ΚΘ5000227/26-08-2024",
+      "type": "Αρχιτεκτονικά Σχέδια",
+      "file_url": "https://silia.eett.gr/silia/download/YGEzVLuHryNpn8NdD1WAz5nRuP0Nd0hOv67i"
+    },
+    {
+      "document_number": "523756/27-08-2024",
+      "protocol_number": "ΦΩΤΟΡΕΑΛΙΣΤΙΚΗ ΑΠΕΙΚΟΝΙΣΗ ΕΚΚΧΟ ΚΘ5000227/26-08-2024",
+      "type": "Φωτογραφικό Υλικό - Σκαρίφημα",
+      "file_url": "https://silia.eett.gr/silia/download/vtcgzW1YXWBvL7c6nuGsO3pVy6roGnB4nTZP"
+    },
+    {
+      "document_number": "523764/27-08-2024",
+      "protocol_number": "ΜΕΛΕΤΗ ΕΚΚΧΟ ΚΘ5000227/26-08-2024",
+      "type": "Άλλο",
+      "file_url": "https://silia.eett.gr/silia/download/cl3Xglii46GEMb3OWFagplbff99lXd8pcTG6"
+    },
+    {
+      "document_number": "523789/27-08-2024",
+      "protocol_number": "Αρχείο Αίτησης/27-08-2024",
+      "type": "Δήλωση ΕΚΚΧΟ",
+      "file_url": "https://silia.eett.gr/silia/download/PgeFZuYeSAP0P3t3d8aMIYTd7FpmRVWRDm1p"
+    },
+    {
+      "document_number": "531573/06-11-2024",
+      "protocol_number": "Υ.Δ. περί της κατασκευής της ΕΚΚΧΟ ΚΘ 5000227/06-11-2024",
+      "type": "Άλλο",
+      "file_url": "https://silia.eett.gr/silia/download/A2010zMONoxeiyN3sxN3wNlFFOO13aD2Q88D"
+    }
+  ]
+}

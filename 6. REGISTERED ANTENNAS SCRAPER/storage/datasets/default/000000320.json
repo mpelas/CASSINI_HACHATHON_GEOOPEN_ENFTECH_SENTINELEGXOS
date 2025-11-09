@@ -1,0 +1,57 @@
+{
+  "antenna_id": "177171",
+  "address": "ΟΔΟΣ ΜΕΓΑΛΗ ΧΩΡΑ, Δ.Ε. ΑΓΙΟΥ ΚΩΝΣΤΑΝΤΙΝΟΥ.",
+  "position_code": 1271305,
+  "municipality": "Αγρινίου",
+  "code_name": "LIDL AGRINIO (J305)",
+  "region": "Δυτικής Ελλάδας",
+  "latitude": 38.628333,
+  "company": "NOVA Μ.Α.Ε.",
+  "longitude": 21.396389,
+  "permit_status": "Από τα στοιχεία που τηρούνται στην Ενημερωτική Πύλη προκύπτει ότι, για τη θέση \"ΟΔΟΣ ΜΕΓΑΛΗ ΧΩΡΑ, Δ.Ε. ΑΓΙΟΥ ΚΩΝΣΤΑΝΤΙΝΟΥ.\" στον Δήμο Αγρινίου Περιφέρειας  Δυτικής Ελλάδας \n\t(κωδικός αριθμός θέσης 1271305, κωδική ονομασία \"LIDL AGRINIO (J305)\") έχει κατατεθεί από την εταιρία NOVA Μ.Α.Ε.\tδήλωση εγκατάστασης κατασκευής κεραίας (αριθ. πρωτ. \n\t58992/14-01-2025) που εμπίπτει στις διατάξεις της νομοθεσίας για Εγκαταστάσεις Κατασκευών Κεραιών Χαμηλής Ηλεκτρομαγνητικής Περιβαλλοντικής Όχλησης (ΕΚΚΧΟ).",
+  "measurements_eaee": "-",
+  "documents": [
+    {
+      "document_number": "537682/14-01-2025",
+      "protocol_number": "Φωτορεαλιστική απεικόνιση κεραίας ΕΚΚΧΟ/14-01-2025",
+      "type": "Φωτογραφικό Υλικό - Σκαρίφημα",
+      "file_url": "https://silia.eett.gr/silia/download/CMGslKtbO8CDACpaTSRMHYgrQanrTbgVH5H3"
+    },
+    {
+      "document_number": "537683/14-01-2025",
+      "protocol_number": "Ψηφιακός χάρτης με προβολή της θέσης ΕΚΚΧΟ/14-01-2025",
+      "type": "Φωτογραφικό Υλικό - Σκαρίφημα",
+      "file_url": "https://silia.eett.gr/silia/download/Dfc5XlAGEYobP2BGr8GbT9aT4ZMcgYUD59Yw"
+    },
+    {
+      "document_number": "537684/14-01-2025",
+      "protocol_number": "ΜΕΛΕΤΗ ΕΚΚΧΟ/14-01-2025",
+      "type": "Άλλο",
+      "file_url": "https://silia.eett.gr/silia/download/H2wYG7PuaaYRFXAxGYLDkswWxNRqSc8igpdZ"
+    },
+    {
+      "document_number": "537685/14-01-2025",
+      "protocol_number": "Σκαρίφημα με περιοχή απαγόρευσης/14-01-2025",
+      "type": "Φωτογραφικό Υλικό - Σκαρίφημα",
+      "file_url": "https://silia.eett.gr/silia/download/8R0gTXEhcYYLrUqKfZ3eK4Ubkd9oHZNf5rzo"
+    },
+    {
+      "document_number": "537686/14-01-2025",
+      "protocol_number": "ΑΔ.11896/Σ.2869/14-11-2024",
+      "type": "Γνωμάτευση ΓΕΑ",
+      "file_url": "https://silia.eett.gr/silia/download/G6GX9Biy1sZkGIAW1eX5qdtw9GUnDX6hDDoU"
+    },
+    {
+      "document_number": "537687/14-01-2025",
+      "protocol_number": "Αρχείο Αίτησης/14-01-2025",
+      "type": "Δήλωση ΕΚΚΧΟ",
+      "file_url": "https://silia.eett.gr/silia/download/DyBfxmq4h0w8Vwk9rWy4x1LMf6vmHacp0hiX"
+    },
+    {
+      "document_number": "549780/20-05-2025",
+      "protocol_number": "ΥΔ ΕΓΚΑΤΑΣΤΑΣΗΣ/20-05-2025",
+      "type": "Άλλο",
+      "file_url": "https://silia.eett.gr/silia/download/8SFIpKoU6W4fDUf3mTOg859tITkgUlogLiLy"
+    }
+  ]
+}

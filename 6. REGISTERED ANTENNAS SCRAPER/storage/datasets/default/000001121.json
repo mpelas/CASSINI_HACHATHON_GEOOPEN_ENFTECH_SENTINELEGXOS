@@ -1,0 +1,57 @@
+{
+  "antenna_id": "169234",
+  "address": "ΗΒΗΣ 19, ΓΑΛΑΤΣΙ",
+  "position_code": 1208341,
+  "municipality": "Γαλατσίου",
+  "code_name": "Q UNILENS GALATSI",
+  "region": "Αττικής",
+  "latitude": 38.019722,
+  "company": "NOVA Μ.Α.Ε.",
+  "longitude": 23.753889,
+  "permit_status": "Από τα στοιχεία που τηρούνται στην Ενημερωτική Πύλη προκύπτει ότι, για τη θέση \"ΗΒΗΣ 19, ΓΑΛΑΤΣΙ\" στον Δήμο Γαλατσίου Περιφέρειας  Αττικής \n\t(κωδικός αριθμός θέσης 1208341, κωδική ονομασία \"Q UNILENS GALATSI\") έχει κατατεθεί από την εταιρία NOVA Μ.Α.Ε.\tδήλωση εγκατάστασης κατασκευής κεραίας (αριθ. πρωτ. \n\t52303/12-07-2023) που εμπίπτει στις διατάξεις της νομοθεσίας για Εγκαταστάσεις Κατασκευών Κεραιών Χαμηλής Ηλεκτρομαγνητικής Περιβαλλοντικής Όχλησης (ΕΚΚΧΟ).",
+  "measurements_eaee": "-",
+  "documents": [
+    {
+      "document_number": "490051/12-07-2023",
+      "protocol_number": "ΑΠΕΙΚΟΝΙΣΗ GOOGLE EARTH/",
+      "type": "Άλλο",
+      "file_url": "https://silia.eett.gr/silia/download/fec26db4-0ef0-400f-af02-f1b31c5ed8d1"
+    },
+    {
+      "document_number": "490052/12-07-2023",
+      "protocol_number": "ΣΚΑΡΙΦΗΜΑ ΕΚΚΧΟ/",
+      "type": "Φωτογραφικό Υλικό - Σκαρίφημα",
+      "file_url": "https://silia.eett.gr/silia/download/d95b439e-4b0c-454a-b175-b6e847dd4c7b"
+    },
+    {
+      "document_number": "490053/12-07-2023",
+      "protocol_number": "ΦΩΤΟΓΡΑΦΙΑ ΕΚΚΧΟ/",
+      "type": "Φωτογραφικό Υλικό - Σκαρίφημα",
+      "file_url": "https://silia.eett.gr/silia/download/fba108be-7561-4d3d-b36d-e266a3df3e24"
+    },
+    {
+      "document_number": "490061/12-07-2023",
+      "protocol_number": "ΜΕΛΕΤΗ ΕΚΚΧΟ/",
+      "type": "Άλλο",
+      "file_url": "https://silia.eett.gr/silia/download/637e9805-0bbe-4462-ad2a-e46448e8de73"
+    },
+    {
+      "document_number": "490062/12-07-2023",
+      "protocol_number": "ΠΕΡΙΟΧΗ ΑΠΑΓΟΡΕΥΣΗΣ/",
+      "type": "Άλλο",
+      "file_url": "https://silia.eett.gr/silia/download/24979fe1-2843-4c05-b1b1-a59ff457e603"
+    },
+    {
+      "document_number": "490063/12-07-2023",
+      "protocol_number": "Αρχείο Αίτησης/",
+      "type": "Δήλωση ΕΚΚΧΟ",
+      "file_url": "https://silia.eett.gr/silia/download/6670c410-9760-407e-ac03-b63fc603af1d"
+    },
+    {
+      "document_number": "490960/21-07-2023",
+      "protocol_number": "ΥΠΕΥΘΥΝΗ ΔΗΛΩΣΗ ΤΕΧΝΙΚΟΥ ΥΠΕΥΘΥΝΟΥ/",
+      "type": "Άλλο",
+      "file_url": "https://silia.eett.gr/silia/download/5ad0a7da-4113-4d92-90ef-ead73bbe159d"
+    }
+  ]
+}

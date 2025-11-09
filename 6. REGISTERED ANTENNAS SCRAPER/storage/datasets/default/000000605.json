@@ -1,0 +1,75 @@
+{
+  "antenna_id": "133977",
+  "address": "ΧΑΛΚΙΟΠΟΥΛΟΙ",
+  "position_code": 20154,
+  "municipality": "Αμφιλοχίας",
+  "code_name": "ΠΑΛΑΙΟ ΧΑΛΚΙΟΠΟΥΛΟ Α/Δ",
+  "region": "Δυτικής Ελλάδας",
+  "latitude": 38.9775,
+  "company": "OTE",
+  "longitude": 21.386389,
+  "permit_status": "Από τα στοιχεία που τηρούνται στην Ενημερωτική Πύλη προκύπτει ότι, για τη θέση \"ΧΑΛΚΙΟΠΟΥΛΟΙ\" στον Δήμο Αμφιλοχίας Περιφέρειας  Δυτικής Ελλάδας \n\t(κωδικός αριθμός θέσης 0020154, κωδική ονομασία \"ΠΑΛΑΙΟ ΧΑΛΚΙΟΠΟΥΛΟ Α/Δ\") χορηγήθηκε, με την Απόφαση της ΕΕΤΤ \n40388/Φ610/19-04-2021, άδεια κατασκευής κεραίας στην εταιρία OTE. \nΑπό τo έγγραφο της άδειας μπορείτε να ενημερωθείτε για τις σχετικές εγκρίσεις των συναρμόδιων φορέων, καθώς και εάν πρόκειται για τροποποίηση παλαιότερης άδειας.\nΗ άδεια χορηγήθηκε με τη διαδικασία αδειοδότησης που ορίζει ο ν. 4635/2019, κατόπιν της με αριθ. πρωτ. 28411/13-07-2018 \n\tαίτησης, και βάσει σχετικής δήλωσης του κατόχου της περί υπαγωγή της κατασκευής κεραίας στο άρθρο 34 του ν. 4635/2019.",
+  "measurements_eaee": "-",
+  "documents": [
+    {
+      "document_number": "335728/13-07-2018",
+      "protocol_number": "ΜΕΣΩ ΣΗΛΥΑ/",
+      "type": "Τοπογραφικό",
+      "file_url": "https://silia.eett.gr/silia/download/c69907bd-c737-4400-b582-c75c95d5f924"
+    },
+    {
+      "document_number": "335729/13-07-2018",
+      "protocol_number": "ΜΕΣΩ ΣΗΛΥΑ/",
+      "type": "Αρχιτεκτονικά Σχέδια",
+      "file_url": "https://silia.eett.gr/silia/download/8e2eab41-f192-4c9e-86a5-55525a605676"
+    },
+    {
+      "document_number": "335730/13-07-2018",
+      "protocol_number": "ΜΕΣΩ ΣΗΛΥΑ/19-03-2018",
+      "type": "Αίτηση - Μελέτη Ραδιοεκπομπών ΕΕΑΕ",
+      "file_url": "https://silia.eett.gr/silia/download/cff7426c-084d-4753-ac1b-16059fac72d9"
+    },
+    {
+      "document_number": "335731/13-07-2018",
+      "protocol_number": "Αρχείο Αίτησης/",
+      "type": "Αίτηση Άδειας Κατασκευής Κεραίας ΕΕΤΤ",
+      "file_url": "https://silia.eett.gr/silia/download/25db532e-336f-47b9-ae5d-bbfecfd51d37"
+    },
+    {
+      "document_number": "338297/24-08-2018",
+      "protocol_number": "Δ3/Δ/19346/5788/23-8-2018/24-08-2018",
+      "type": "Γνωμάτευση ΥΠΑ",
+      "file_url": "https://silia.eett.gr/silia/download/a1ee5e9c-b5a1-4cc8-b53d-a6a14cccd881"
+    },
+    {
+      "document_number": "342654/01-10-2018",
+      "protocol_number": "Μι/411/13572/2018/21-09-2018",
+      "type": "Γνωμάτευση ΕΕΑΕ",
+      "file_url": "https://silia.eett.gr/silia/download/c33ee98f-b3a2-449a-a639-0b8f3c705893"
+    },
+    {
+      "document_number": "433105/08-04-2021",
+      "protocol_number": "ΜΕΣΩ ΣΗΛΥΑ/",
+      "type": "Τοπογραφικό",
+      "file_url": "https://silia.eett.gr/silia/download/4d6ee993-8a7e-4a16-b52f-a27ed793116a"
+    },
+    {
+      "document_number": "433106/08-04-2021",
+      "protocol_number": "ΥΔ  για το τοπογραφικό/",
+      "type": "Άλλο",
+      "file_url": "https://silia.eett.gr/silia/download/1a921900-068a-4792-9812-2f67f6bd32f7"
+    },
+    {
+      "document_number": "434166/21-04-2021",
+      "protocol_number": "40388/Φ610/19-04-2021",
+      "type": "Άδεια Κατασκευής  Κεραίας",
+      "file_url": "https://silia.eett.gr/silia/download/fae972f5-330b-4d43-9b86-83f66deb915e"
+    },
+    {
+      "document_number": "377864/02-10-2019",
+      "protocol_number": "Αρχείο Αίτησης/",
+      "type": "Δήλωση ΠΠΔ",
+      "file_url": "https://silia.eett.gr/silia/download/558bbcba-b629-4dad-8063-e6763018b415"
+    }
+  ]
+}

@@ -1,0 +1,51 @@
+{
+  "antenna_id": "174980",
+  "address": "ΚΕΝΤΡΟ ΕΚΠΟΜΠΗΣ ΜΕΤΑΞΑ",
+  "position_code": 1275095,
+  "municipality": "Σερβίων",
+  "code_name": "ERT METAXAS (DOVRAS) (K095)",
+  "region": "Δυτικής Μακεδονίας",
+  "latitude": 40.124167,
+  "company": "NOVA Μ.Α.Ε.",
+  "longitude": 22.003056,
+  "permit_status": "Από τα στοιχεία που τηρούνται στην Ενημερωτική Πύλη προκύπτει ότι, για τη θέση \"ΚΕΝΤΡΟ ΕΚΠΟΜΠΗΣ ΜΕΤΑΞΑ\" στον Δήμο Σερβίων Περιφέρειας  Δυτικής Μακεδονίας \n\t(κωδικός αριθμός θέσης 1275095, κωδική ονομασία \"ERT METAXAS (DOVRAS) (K095)\") έχει κατατεθεί από την εταιρία NOVA Μ.Α.Ε.\tδήλωση εγκατάστασης κατασκευής κεραίας (αριθ. πρωτ. \n\t57091/27-08-2024) που εμπίπτει στις διατάξεις της νομοθεσίας για Εγκαταστάσεις Κατασκευών Κεραιών Χαμηλής Ηλεκτρομαγνητικής Περιβαλλοντικής Όχλησης (ΕΚΚΧΟ).",
+  "measurements_eaee": "-",
+  "documents": [
+    {
+      "document_number": "523780/27-08-2024",
+      "protocol_number": "Φωτορεαλιστική απεικόνιση κεραίας ΕΚΚΧΟ/27-08-2024",
+      "type": "Φωτογραφικό Υλικό - Σκαρίφημα",
+      "file_url": "https://silia.eett.gr/silia/download/tdHADsWVKi57GoTQYTW44hZLuuTWfgTiMAIs"
+    },
+    {
+      "document_number": "523781/27-08-2024",
+      "protocol_number": "Ψηφιακός χάρτης με προβολή της θέσης ΕΚΚΧΟ/27-08-2024",
+      "type": "Φωτογραφικό Υλικό - Σκαρίφημα",
+      "file_url": "https://silia.eett.gr/silia/download/3gXVE9bIzgbAv353F2XmpQ8ZLusRkz4rRrEw"
+    },
+    {
+      "document_number": "523782/27-08-2024",
+      "protocol_number": "Σκαρίφημα θέσης κεραίας ΕΚΚΧΟ/27-08-2024",
+      "type": "Φωτογραφικό Υλικό - Σκαρίφημα",
+      "file_url": "https://silia.eett.gr/silia/download/3eOYvQ9bnVazZdaOA8F9XfFVLSsB9k2dgYCg"
+    },
+    {
+      "document_number": "523786/27-08-2024",
+      "protocol_number": "ΜΕΛΕΤΗ ΕΚΚΧΟ/27-08-2024",
+      "type": "Άλλο",
+      "file_url": "https://silia.eett.gr/silia/download/qOX8QTGQOSbWI2gOI9fN7QaEdWboVGpSPxWq"
+    },
+    {
+      "document_number": "523788/27-08-2024",
+      "protocol_number": "Αρχείο Αίτησης/27-08-2024",
+      "type": "Δήλωση ΕΚΚΧΟ",
+      "file_url": "https://silia.eett.gr/silia/download/iOXgsPMGgqgsGetKcqrqCmZo5dWrGAi1DH2b"
+    },
+    {
+      "document_number": "529052/16-10-2024",
+      "protocol_number": "ΥΔ ΕΓΚΑΤΑΣΤΑΣΗΣ/16-10-2024",
+      "type": "Άλλο",
+      "file_url": "https://silia.eett.gr/silia/download/sUCGX49gQpzeOi83Cv3pTnZolybuAQMR8ip6"
+    }
+  ]
+}

@@ -1,0 +1,129 @@
+{
+  "antenna_id": "102025",
+  "address": "ΘΕΣΗ ΞΥΛΟΚΕΡΙΖΑ ΠΛΗΣΙΟΝ ΛΟΥΚΙΣΙΩΝ",
+  "position_code": 1212090,
+  "municipality": "Χαλκιδέων",
+  "code_name": "ΛΟΥΚΙΣΙΑ",
+  "region": "Στερεάς Ελλάδας",
+  "latitude": 38.477222,
+  "company": "NOVA Μ.Α.Ε.",
+  "longitude": 23.466111,
+  "permit_status": "Από τα στοιχεία που τηρούνται στην Ενημερωτική Πύλη προκύπτει ότι, για τη θέση \"ΘΕΣΗ ΞΥΛΟΚΕΡΙΖΑ ΠΛΗΣΙΟΝ ΛΟΥΚΙΣΙΩΝ\" στον Δήμο Χαλκιδέων Περιφέρειας  Στερεάς Ελλάδας \n\t(κωδικός αριθμός θέσης 1212090, κωδική ονομασία \"ΛΟΥΚΙΣΙΑ\") χορηγήθηκε, με την Απόφαση της ΕΕΤΤ \n12550/Φ610/25-06-2014, άδεια κατασκευής κεραίας στην εταιρία NOVA Μ.Α.Ε.. \nΑπό τo έγγραφο της άδειας μπορείτε να ενημερωθείτε για τις σχετικές εγκρίσεις των συναρμόδιων φορέων, καθώς και εάν πρόκειται για τροποποίηση παλαιότερης άδειας.\nΗ άδεια χορηγήθηκε, κατόπιν της με Αριθ. Πρωτ. 4704/06-11-2013 αίτησης, \n\tμε τη διαδικασία αδειοδότησης της παρ. 17 του άρθρου 30 του Ν.4070/2012 που πλέον έχει αντικατασταθεί από τη διαδικασία που ορίζει ο ν. 4635/2019.\n\tΣύμφωνα με τα στοιχεία που έχουν υποβληθεί στο ΣΗΛΥΑ για την κατασκευή κεραίας από τον κάτοχό της, έχει εκδοθεί έγκριση δομικών κατασκευών κεραίας",
+  "measurements_eaee": "-",
+  "documents": [
+    {
+      "document_number": "109871/04-11-2013",
+      "protocol_number": "932/Φ615/25-09-2013",
+      "type": "Χορήγηση Δικαιώματος Χρήσης Ραδιοσυχνοτήτων",
+      "file_url": null
+    },
+    {
+      "document_number": "109882/04-11-2013",
+      "protocol_number": "T:Ε27677 ΑΡ. ΠΑΡΑΣΤΑΣΤΙΚΟΥ :64/16-10-2013",
+      "type": "Αποδεικτικό Καταβολής Τελών ΕΕΤΤ",
+      "file_url": "https://silia.eett.gr/silia/download/57e942db-6294-4768-8eac-f6ba718f269a"
+    },
+    {
+      "document_number": "109895/04-11-2013",
+      "protocol_number": "10148/29-03-2012",
+      "type": "Αίτηση ΥΠΑ",
+      "file_url": "https://silia.eett.gr/silia/download/e30ac8f6-3a24-470c-8c58-7fa3efa4998c"
+    },
+    {
+      "document_number": "109896/04-11-2013",
+      "protocol_number": "10148/2701/06-04-2012",
+      "type": "Γνωμάτευση ΥΠΑ",
+      "file_url": "https://silia.eett.gr/silia/download/88ee6177-5906-442f-9c45-bc7c6e2766b8"
+    },
+    {
+      "document_number": "109897/04-11-2013",
+      "protocol_number": "8024/28-12-2007",
+      "type": "Έγκριση Αρμοδίου Φορέα",
+      "file_url": "https://silia.eett.gr/silia/download/6f682223-eae2-47e0-a059-cf084ff4d724"
+    },
+    {
+      "document_number": "109898/04-11-2013",
+      "protocol_number": "6432/18-03-2008",
+      "type": "Έγκριση Αρμοδίου Φορέα",
+      "file_url": "https://silia.eett.gr/silia/download/cc981537-fb14-4fc8-90ff-3278c24bafcb"
+    },
+    {
+      "document_number": "109899/04-11-2013",
+      "protocol_number": "131782/18950/5825/12-08-2013",
+      "type": "Έγκριση Αρμοδίου Φορέα",
+      "file_url": "https://silia.eett.gr/silia/download/8fdef460-46c5-4c13-9cd0-3bb13efeefc7"
+    },
+    {
+      "document_number": "109900/04-11-2013",
+      "protocol_number": "1742/103472 ΠΡΑΞΗ ΧΑΡΑΚΤΗΡΙΣΜΟΥ/06-06-2013",
+      "type": "Έγκριση Αρμοδίου Φορέα",
+      "file_url": "https://silia.eett.gr/silia/download/0a1195bc-f181-4618-accb-7562301225f3"
+    },
+    {
+      "document_number": "109901/04-11-2013",
+      "protocol_number": "3665/204961 ΤΕΛΕΣΙΔΙΚΕΙΑ/19-10-2013",
+      "type": "Έγκριση Αρμοδίου Φορέα",
+      "file_url": "https://silia.eett.gr/silia/download/a283ee66-90c5-4fc8-9d7a-4cdf7d42bfcc"
+    },
+    {
+      "document_number": "109902/04-11-2013",
+      "protocol_number": "3828/24-05-2012",
+      "type": "Βεβαίωση ΕΕΑΕ περί Υποβολής Μελέτης Ραδιοεκπομπών",
+      "file_url": "https://silia.eett.gr/silia/download/c70fce87-2375-4d46-87f7-4e9231d35d4c"
+    },
+    {
+      "document_number": "109908/04-11-2013",
+      "protocol_number": "411/1789/14-09-2012",
+      "type": "Γνωμάτευση ΕΕΑΕ",
+      "file_url": "https://silia.eett.gr/silia/download/5a39d685-9221-4f72-9a0d-2afc1771135e"
+    },
+    {
+      "document_number": "109914/04-11-2013",
+      "protocol_number": "451 (ΣΥΝΗΜΕΝΝΟ ΜΕ ΤΗΝ ΚΑΤΑΘΕΣΗ ΣΤΗΝ ΠΟΛΕΟΔΟΜΙΑ)/28-01-2013",
+      "type": "Τοπογραφικό",
+      "file_url": "https://silia.eett.gr/silia/download/4bb74326-627f-4f9d-bc4f-c5bb05f684b9"
+    },
+    {
+      "document_number": "109915/04-11-2013",
+      "protocol_number": "451 (ΣΥΝΗΜΕΝΝΑ ΜΕ ΤΗΝ ΚΑΤΑΘΕΣΗ ΣΤΗΝ ΠΟΛΕΟΔΟΜΙΑ)/28-01-2013",
+      "type": "Αρχιτεκτονικά Σχέδια",
+      "file_url": "https://silia.eett.gr/silia/download/1964c6c7-c563-440e-9274-152c9ab394c0"
+    },
+    {
+      "document_number": "109918/04-11-2013",
+      "protocol_number": "ΑΔΑ/ΒΛΩΤΩΗΑ-10Θ /20-08-2013",
+      "type": "Έγκριση δομικών κατασκευών (έντυπη)",
+      "file_url": "https://silia.eett.gr/silia/download/6ed13c9e-97e5-4654-bbe8-6b209cdc1225"
+    },
+    {
+      "document_number": "110376/06-11-2013",
+      "protocol_number": "ΣΥΝΗΜΕΝΗ ΤΗΣ ΚΑΤΑΘΕΣΗΣ ΜΕΣΩ ΣΗΛΥΑ /05-11-2013",
+      "type": "Δήλωση υπαγωγής σε ΠΠΔ και Συνοδευτικά Έγγραφα",
+      "file_url": "https://silia.eett.gr/silia/download/2a631da9-cc0d-4bd5-9b80-5c0f5ce67290"
+    },
+    {
+      "document_number": "110402/06-11-2013",
+      "protocol_number": "Αρχείο Αίτησης/",
+      "type": "Αίτηση Άδειας Κατασκευής Κεραίας ΕΕΤΤ",
+      "file_url": "https://silia.eett.gr/silia/download/479a9d15-61b3-4121-9b8b-c62306b68364"
+    },
+    {
+      "document_number": "176808/20-06-2014",
+      "protocol_number": "ΥΠΕΥΘΗΝΗ ΔΗΛΩΣΗ ΛΟΓΟ ΔΗΜΟΥ/ΠΕΡΙΦΕΡΕΙΑΚΗ ΕΝΟΤΗΤΑΣ /19-06-2014",
+      "type": "Άλλο",
+      "file_url": "https://silia.eett.gr/silia/download/b7737d30-f725-4800-b2e8-964a2b962987"
+    },
+    {
+      "document_number": "177248/27-06-2014",
+      "protocol_number": "12550/Φ610/25-06-2014",
+      "type": "Άδεια Κατασκευής  Κεραίας",
+      "file_url": "https://silia.eett.gr/silia/download/f843e263-efd6-4d07-a075-be0b79b376e0"
+    },
+    {
+      "document_number": "109918/04-11-2013",
+      "protocol_number": "ΑΔΑ/ΒΛΩΤΩΗΑ-10Θ /20-08-2013",
+      "type": "Έγκριση δομικών κατασκευών (έντυπη)",
+      "file_url": "https://silia.eett.gr/silia/download/6ed13c9e-97e5-4654-bbe8-6b209cdc1225"
+    }
+  ]
+}

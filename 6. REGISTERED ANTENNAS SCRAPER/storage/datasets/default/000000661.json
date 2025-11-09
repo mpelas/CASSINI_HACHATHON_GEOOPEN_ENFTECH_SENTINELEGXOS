@@ -1,0 +1,45 @@
+{
+  "antenna_id": "179220",
+  "address": "42 ΧΛΜ ΠΑΤΡΑΣ-ΠΥΡΓΟΥ",
+  "position_code": 1275661,
+  "municipality": "Ανδραβίδας - Κυλλήνης",
+  "code_name": "CORAL MANOLADA (K661)",
+  "region": "Δυτικής Ελλάδας",
+  "latitude": 38.055556,
+  "company": "NOVA Μ.Α.Ε.",
+  "longitude": 21.389167,
+  "permit_status": "Από τα στοιχεία που τηρούνται στην Ενημερωτική Πύλη προκύπτει ότι, για τη θέση \"42 ΧΛΜ ΠΑΤΡΑΣ-ΠΥΡΓΟΥ\" στον Δήμο Ανδραβίδας - Κυλλήνης Περιφέρειας  Δυτικής Ελλάδας \n\t(κωδικός αριθμός θέσης 1275661, κωδική ονομασία \"CORAL MANOLADA (K661)\") έχει κατατεθεί από την εταιρία NOVA Μ.Α.Ε.\tδήλωση εγκατάστασης κατασκευής κεραίας (αριθ. πρωτ. \n\t60789/28-04-2025) που εμπίπτει στις διατάξεις της νομοθεσίας για Εγκαταστάσεις Κατασκευών Κεραιών Χαμηλής Ηλεκτρομαγνητικής Περιβαλλοντικής Όχλησης (ΕΚΚΧΟ).",
+  "measurements_eaee": "-",
+  "documents": [
+    {
+      "document_number": "547740/28-04-2025",
+      "protocol_number": "Φωτορεαλιστική απεικόνιση κεραίας ΕΚΚΧΟ/28-04-2025",
+      "type": "Φωτογραφικό Υλικό - Σκαρίφημα",
+      "file_url": "https://silia.eett.gr/silia/download/nM3nGhdF9aggAdcCeh3XgngrUtAu39x2ysrs"
+    },
+    {
+      "document_number": "547741/28-04-2025",
+      "protocol_number": "Ψηφιακός χάρτης με προβολή της θέσης ΕΚΚΧΟ/28-04-2025",
+      "type": "Φωτογραφικό Υλικό - Σκαρίφημα",
+      "file_url": "https://silia.eett.gr/silia/download/y3pGyEuAogGFACCXeKSnkC4iW7UbDYnMK7ed"
+    },
+    {
+      "document_number": "547742/28-04-2025",
+      "protocol_number": "ΜΕΛΕΤΗ ΕΚΚΧΟ/28-04-2025",
+      "type": "Άλλο",
+      "file_url": "https://silia.eett.gr/silia/download/ivqvflPCGXSyXUpgVgUHaf7tNIeg78F6bOGa"
+    },
+    {
+      "document_number": "547743/28-04-2025",
+      "protocol_number": "Σκαρίφημα με περιοχή απαγόρευσης/28-04-2025",
+      "type": "Φωτογραφικό Υλικό - Σκαρίφημα",
+      "file_url": "https://silia.eett.gr/silia/download/k7s5wCDIsx2mBFhb5W2MnhPC6VV9BdcKSWFW"
+    },
+    {
+      "document_number": "547744/28-04-2025",
+      "protocol_number": "Αρχείο Αίτησης/28-04-2025",
+      "type": "Δήλωση ΕΚΚΧΟ",
+      "file_url": "https://silia.eett.gr/silia/download/gi3qZyGXlfG5uWR4aPgDkEea2Csucfx4qB8z"
+    }
+  ]
+}

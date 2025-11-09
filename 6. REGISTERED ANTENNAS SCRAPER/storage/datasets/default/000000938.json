@@ -1,0 +1,93 @@
+{
+  "antenna_id": "161750",
+  "address": "ΑΓΑΜΕΜΝΩΝΟΣ 58",
+  "position_code": 1410981,
+  "municipality": "Αχαρνών",
+  "code_name": "KOLOKACHA",
+  "region": "Αττικής",
+  "latitude": 38.086389,
+  "company": "OTE",
+  "longitude": 23.734167,
+  "permit_status": "Από τα στοιχεία που τηρούνται στην Ενημερωτική Πύλη προκύπτει ότι, για τη θέση \"ΑΓΑΜΕΜΝΩΝΟΣ 58\" στον Δήμο Αχαρνών Περιφέρειας  Αττικής \n\t(κωδικός αριθμός θέσης 1410981, κωδική ονομασία \"KOLOKACHA\") χορηγήθηκε, με την Απόφαση της ΕΕΤΤ \n45930/10-11-2022, άδεια κατασκευής κεραίας στην εταιρία OTE. \nΑπό τo έγγραφο της άδειας μπορείτε να ενημερωθείτε για τις σχετικές εγκρίσεις των συναρμόδιων φορέων, καθώς και εάν πρόκειται για τροποποίηση παλαιότερης άδειας.\nΕπιπλέον, έχει υποβληθεί η με αριθ. πρωτ. ΣΗΛΥΑ 62404/23-07-2025 (Δήλωση παρ. 7 αρθ. 20 ΑΠ ΕΕΤΤ 919/26/2019) δήλωση που αφορά σε τροποποίηση/επικαιροποίηση στοιχείων της κατασκευής κεραίας που αφορούν τον(ους) Τομέα(εις) Αδειοδότησης:Περιβάλλον.\n\tΔιευκρινίζεται ότι υπό ορισμένες προϋποθέσεις για την τροποποίηση αδειοδοτημένης κατασκευής κεραίας ή/και την επικαιροποίηση στοιχείων της δεν απαιτείται η έκδοση νέας άδειας \n\tκατασκευής κεραίας ή η τροποποίηση της υφιστάμενης άδειας κατασκευής κεραίας, αλλά απαιτείται η υποβολή κατάλληλης δήλωσης από τον κάτοχο της κατασκευής κεραίας συνοδευόμενη \n\tαπό επικαιροποίηση επιμέρους εγκρίσεων.",
+  "measurements_eaee": "-",
+  "documents": [
+    {
+      "document_number": "448415/21-12-2021",
+      "protocol_number": "ΜΕΣΩ ΣΗΛΥΑ/",
+      "type": "Τοπογραφικό",
+      "file_url": "https://silia.eett.gr/silia/download/168b71b4-54df-4584-9c49-cd888c535caf"
+    },
+    {
+      "document_number": "448416/21-12-2021",
+      "protocol_number": "ΜΕΣΩ ΣΗΛΥΑ/",
+      "type": "Αρχιτεκτονικά Σχέδια",
+      "file_url": "https://silia.eett.gr/silia/download/fa9e2ad4-4f34-47ea-bdf5-2719d986f6dd"
+    },
+    {
+      "document_number": "448417/21-12-2021",
+      "protocol_number": "ΜΕΣΩ ΣΗΛΥΑ/30-11-2021",
+      "type": "Αίτηση - Μελέτη Ραδιοεκπομπών ΕΕΑΕ",
+      "file_url": "https://silia.eett.gr/silia/download/b0c4bd2f-d0a1-4a6e-a55e-d37da7875021"
+    },
+    {
+      "document_number": "448418/21-12-2021",
+      "protocol_number": "ΜΕΛΕΤΗ ΕΜC/15-12-2021",
+      "type": "Αποτελέσματα μελέτης στη ζώνης 2.6GHz για ΥΠΑ/ΓΕΕΘΑ",
+      "file_url": "https://silia.eett.gr/silia/download/f8f25def-9380-46b1-a7db-980ac2e9cb6e"
+    },
+    {
+      "document_number": "448419/21-12-2021",
+      "protocol_number": "132260/06-12-2021",
+      "type": "Επιστολή Ενημέρωσης προς Αρμόδιο Φορέα",
+      "file_url": "https://silia.eett.gr/silia/download/7839828b-1017-48b0-9a87-9ed0453e6f9c"
+    },
+    {
+      "document_number": "448421/21-12-2021",
+      "protocol_number": "Αρχείο Αίτησης/",
+      "type": "Αίτηση Άδειας Κατασκευής Κεραίας ΕΕΤΤ",
+      "file_url": "https://silia.eett.gr/silia/download/a9e5a11c-c4ac-4ee8-9f43-fa93a2c569b3"
+    },
+    {
+      "document_number": "449704/18-01-2022",
+      "protocol_number": "Μ.ι./411/966/2022/18-01-2022",
+      "type": "Γνωμάτευση ΕΕΑΕ",
+      "file_url": "https://silia.eett.gr/silia/download/578eae06-aeb6-4922-9b4e-1c183e925a07"
+    },
+    {
+      "document_number": "460729/02-06-2022",
+      "protocol_number": "ΚΓ/Δ3/Δ/14107/2-6-2022/02-06-2022",
+      "type": "Γνωμάτευση ΥΠΑ",
+      "file_url": "https://silia.eett.gr/silia/download/24c1659d-8dd1-4b13-958b-e409f1fe59bb"
+    },
+    {
+      "document_number": "473229/23-11-2022",
+      "protocol_number": "45930/10-11-2022",
+      "type": "Άδεια Κατασκευής  Κεραίας",
+      "file_url": "https://silia.eett.gr/silia/download/d1b2bc2e-0dbb-4b84-9217-a563e1edf806"
+    },
+    {
+      "document_number": "556287/23-07-2025",
+      "protocol_number": "ΠΠΔ/23-07-2025",
+      "type": "Δήλωση υπαγωγής σε ΠΠΔ και Συνοδευτικά Έγγραφα",
+      "file_url": "https://silia.eett.gr/silia/download/FPpsftnxG0OQLw4iXgo5xfi0Te5KqxlGpl0Q"
+    },
+    {
+      "document_number": "556288/23-07-2025",
+      "protocol_number": "ΜΕΛΕΤΗ Ρ/Ε/30-11-2021",
+      "type": "Αίτηση - Μελέτη Ραδιοεκπομπών ΕΕΑΕ",
+      "file_url": "https://silia.eett.gr/silia/download/gs768hRtGCzZdgg3UXdaCVXTeiz9YHxmi14k"
+    },
+    {
+      "document_number": "556301/23-07-2025",
+      "protocol_number": "Μ.ι./411/966/2022/18-01-2022",
+      "type": "Γνωμάτευση ΕΕΑΕ",
+      "file_url": "https://silia.eett.gr/silia/download/soCl2hcGb1xGyPww0TnVhMUqyAFYBuRaPFfh"
+    },
+    {
+      "document_number": "556302/23-07-2025",
+      "protocol_number": "Αρχείο Αίτησης/23-07-2025",
+      "type": "Δήλωση ΔΤΚΚ",
+      "file_url": "https://silia.eett.gr/silia/download/RGOSCoUKZBQNqYc0boygnloR8GxQKwq49TdH"
+    }
+  ]
+}

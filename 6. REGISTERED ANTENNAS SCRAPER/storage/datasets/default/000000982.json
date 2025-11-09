@@ -1,0 +1,87 @@
+{
+  "antenna_id": "167349",
+  "address": "ΜΑΚΡΟΧΩΡΙ ΗΜΑΘΙΑΣ",
+  "position_code": 1441586,
+  "municipality": "Βέροιας",
+  "code_name": "LONGVILLE_MI",
+  "region": "Κεντρικής Μακεδονίας",
+  "latitude": 40.554722,
+  "company": "OTE",
+  "longitude": 22.256667,
+  "permit_status": "Από τα στοιχεία που τηρούνται στην Ενημερωτική Πύλη προκύπτει ότι, για τη θέση \"ΜΑΚΡΟΧΩΡΙ ΗΜΑΘΙΑΣ\" στον Δήμο Βέροιας Περιφέρειας  Κεντρικής Μακεδονίας \n\t(κωδικός αριθμός θέσης 1441586, κωδική ονομασία \"LONGVILLE_MI\") έχει κατατεθεί από την εταιρία OTE\tδήλωση εγκατάστασης κατασκευής κεραίας (αριθ. πρωτ. \n\t50826/24-02-2023) που εμπίπτει στις διατάξεις της νομοθεσίας για Εγκαταστάσεις Κατασκευών Κεραιών Χαμηλής Ηλεκτρομαγνητικής Περιβαλλοντικής Όχλησης (ΕΚΚΧΟ).",
+  "measurements_eaee": "-",
+  "documents": [
+    {
+      "document_number": "478821/23-02-2023",
+      "protocol_number": "ΣΤΟΙΧΕΙΑ ΜΙΚΡΟΚΥΜΑΤΙΚΗΣ ΖΕΥΞΗΣ/",
+      "type": "Άλλο",
+      "file_url": "https://silia.eett.gr/silia/download/c1062810-7619-49f3-9ef3-15efce0be4de"
+    },
+    {
+      "document_number": "478822/23-02-2023",
+      "protocol_number": "ΦΩΤΟΓΡΑΦΙΑ/",
+      "type": "Φωτογραφικό Υλικό - Σκαρίφημα",
+      "file_url": "https://silia.eett.gr/silia/download/65083262-e646-4993-9a47-f9aae5c54cdd"
+    },
+    {
+      "document_number": "478823/23-02-2023",
+      "protocol_number": "ΦΩΤΟΓΡΑΦΙΑ/",
+      "type": "Φωτογραφικό Υλικό - Σκαρίφημα",
+      "file_url": "https://silia.eett.gr/silia/download/6cb486d6-eaa3-474f-bce2-1a6cc21bf7a3"
+    },
+    {
+      "document_number": "478824/23-02-2023",
+      "protocol_number": "ΦΩΤΟΓΡΑΦΙΑ/",
+      "type": "Φωτογραφικό Υλικό - Σκαρίφημα",
+      "file_url": "https://silia.eett.gr/silia/download/4f212091-aee5-41aa-bb8d-f2360dddc539"
+    },
+    {
+      "document_number": "478825/23-02-2023",
+      "protocol_number": "ΜΕΛΕΤΗ ΡΑΔΙΟΕΚΠΟΜΠΩΝ ΕΚΚΧΟ/",
+      "type": "Αίτηση - Μελέτη Ραδιοεκπομπών ΕΕΑΕ",
+      "file_url": "https://silia.eett.gr/silia/download/8957f955-60b4-4579-8c16-57a8a7f45ec9"
+    },
+    {
+      "document_number": "478826/23-02-2023",
+      "protocol_number": "ΣΚΑΡΙΦΗΜΑ/",
+      "type": "Φωτογραφικό Υλικό - Σκαρίφημα",
+      "file_url": "https://silia.eett.gr/silia/download/d645518a-be27-4b15-8a2b-7cd82ad7ada6"
+    },
+    {
+      "document_number": "478827/23-02-2023",
+      "protocol_number": "ΣΚΑΡΙΦΗΜΑ/",
+      "type": "Φωτογραφικό Υλικό - Σκαρίφημα",
+      "file_url": "https://silia.eett.gr/silia/download/9c871dbd-2928-43eb-8178-382777616237"
+    },
+    {
+      "document_number": "478858/24-02-2023",
+      "protocol_number": "Αρχείο Αίτησης/",
+      "type": "Δήλωση ΕΚΚΧΟ",
+      "file_url": "https://silia.eett.gr/silia/download/467249be-78b4-42a6-9bc3-31089ea6ae9a"
+    },
+    {
+      "document_number": "483046/25-04-2023",
+      "protocol_number": "ΥΠ.ΔΗΛΩΣΗ ΕΓΚΑΤΑΣΤΑΣΗΣ/25-04-2023",
+      "type": "Άλλο",
+      "file_url": "https://silia.eett.gr/silia/download/ec5ed727-173d-40be-8ce8-d1e09d620ed0"
+    },
+    {
+      "document_number": "483047/25-04-2023",
+      "protocol_number": "ΥΠ.ΔΗΛΩΣΗ ΕΓΚΑΤΑΣΤΑΣΗΣ/25-04-2023",
+      "type": "Άλλο",
+      "file_url": "https://silia.eett.gr/silia/download/1fb44531-5657-4853-82c2-d25d73c37b42"
+    },
+    {
+      "document_number": "484596/11-05-2023",
+      "protocol_number": "ΥΠ.ΔΗΛΩΣΗ ΕΓΚΑΤΑΣΤΑΣΗΣ/",
+      "type": "Άλλο",
+      "file_url": "https://silia.eett.gr/silia/download/8f4c1d45-0876-4a17-ad75-97f56631f020"
+    },
+    {
+      "document_number": "487030/02-06-2023",
+      "protocol_number": "ΣΚΑΡΙΦΗΜΑ/02-06-2023",
+      "type": "Φωτογραφικό Υλικό - Σκαρίφημα",
+      "file_url": "https://silia.eett.gr/silia/download/78f4d6a5-58c7-4c78-9d28-00f205616447"
+    }
+  ]
+}

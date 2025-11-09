@@ -1,0 +1,51 @@
+{
+  "antenna_id": "168046",
+  "address": "ΒΙΠΕ Καβάλας, Χρυσούπολη Καβάλας.",
+  "position_code": 1150873,
+  "municipality": "Νέστου",
+  "code_name": "3030873 NEDELTZIDIS VIPE KAVALAS",
+  "region": "Ανατ. Μακεδονίας και Θράκης",
+  "latitude": 40.978056,
+  "company": "VODAFONE",
+  "longitude": 24.600556,
+  "permit_status": "Από τα στοιχεία που τηρούνται στην Ενημερωτική Πύλη προκύπτει ότι, για τη θέση \"ΒΙΠΕ Καβάλας, Χρυσούπολη Καβάλας.\" στον Δήμο Νέστου Περιφέρειας  Ανατ. Μακεδονίας και Θράκης \n\t(κωδικός αριθμός θέσης 1150873, κωδική ονομασία \"3030873 NEDELTZIDIS VIPE KAVALAS\") έχει κατατεθεί από την εταιρία VODAFONE\tδήλωση εγκατάστασης κατασκευής κεραίας (αριθ. πρωτ. \n\t51362/21-04-2023) που εμπίπτει στις διατάξεις της νομοθεσίας για Εγκαταστάσεις Κατασκευών Κεραιών Χαμηλής Ηλεκτρομαγνητικής Περιβαλλοντικής Όχλησης (ΕΚΚΧΟ).",
+  "measurements_eaee": "-",
+  "documents": [
+    {
+      "document_number": "482848/21-04-2023",
+      "protocol_number": "Μελέτη ΕΚΚΧΟ/21-04-2023",
+      "type": "Άλλο",
+      "file_url": "https://silia.eett.gr/silia/download/fca37efb-d86d-4579-b6c5-7d2794ab4154"
+    },
+    {
+      "document_number": "482849/21-04-2023",
+      "protocol_number": "Φωτορεαλιστική απεικόνιση κεραιών ΕΚΚΧΟ/",
+      "type": "Φωτογραφικό Υλικό - Σκαρίφημα",
+      "file_url": "https://silia.eett.gr/silia/download/f90b6507-87dd-4554-9b37-4c15e4ba07fa"
+    },
+    {
+      "document_number": "482850/21-04-2023",
+      "protocol_number": "Ψηφιακός Χάρτης με προβολή της θέσης ΕΚΚΧΟ/",
+      "type": "Φωτογραφικό Υλικό - Σκαρίφημα",
+      "file_url": "https://silia.eett.gr/silia/download/532f8ead-4daa-4f15-83c5-ffa2080a6041"
+    },
+    {
+      "document_number": "482851/21-04-2023",
+      "protocol_number": "Σκαρίφημα με περιοχή απαγόρευσης/",
+      "type": "Φωτογραφικό Υλικό - Σκαρίφημα",
+      "file_url": "https://silia.eett.gr/silia/download/ba057ddc-5469-48b9-bdde-93fdd22b36ab"
+    },
+    {
+      "document_number": "482852/21-04-2023",
+      "protocol_number": "Αρχείο Αίτησης/",
+      "type": "Δήλωση ΕΚΚΧΟ",
+      "file_url": "https://silia.eett.gr/silia/download/bdd08581-949a-47f6-879e-637181e202c0"
+    },
+    {
+      "document_number": "486708/30-05-2023",
+      "protocol_number": "ΥΔ εγκατάστασης/30-05-2023",
+      "type": "Άλλο",
+      "file_url": "https://silia.eett.gr/silia/download/56fdc111-f91e-4dca-bf82-e5a1d24a489d"
+    }
+  ]
+}

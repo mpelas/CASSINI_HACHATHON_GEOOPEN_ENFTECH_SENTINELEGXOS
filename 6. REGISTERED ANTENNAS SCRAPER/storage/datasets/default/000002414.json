@@ -1,0 +1,45 @@
+{
+  "antenna_id": "159791",
+  "address": "LAMDA FLISVOS MARINA S.A., ΜΑΡΙΝΑ ΦΛΟΙΣΒΟΥ",
+  "position_code": 1125373,
+  "municipality": "Παλαιού Φαλήρου",
+  "code_name": "MARINA FLISVOU",
+  "region": "Αττικής",
+  "latitude": 37.928333,
+  "company": "VODAFONE",
+  "longitude": 23.683889,
+  "permit_status": "Από τα στοιχεία που τηρούνται στην Ενημερωτική Πύλη προκύπτει ότι, για τη θέση \"LAMDA FLISVOS MARINA S.A., ΜΑΡΙΝΑ ΦΛΟΙΣΒΟΥ\" στον Δήμο Παλαιού Φαλήρου Περιφέρειας  Αττικής \n\t(κωδικός αριθμός θέσης 1125373, κωδική ονομασία \"MARINA FLISVOU\") έχει κατατεθεί από την εταιρία VODAFONE\tδήλωση εγκατάστασης κατασκευής κεραίας (αριθ. πρωτ. \n\t44257/14-07-2021) που εμπίπτει στις διατάξεις της νομοθεσίας για Εγκαταστάσεις Κατασκευών Κεραιών Χαμηλής Ηλεκτρομαγνητικής Περιβαλλοντικής Όχλησης (ΕΚΚΧΟ).",
+  "measurements_eaee": "-",
+  "documents": [
+    {
+      "document_number": "438021/08-07-2021",
+      "protocol_number": "ΦΩΤΟΓΡΑΦΙΑ ΘΕΣΗΣ ΚΕΡΑΙΩΝ ΕΚΚΧΟ 1 & 2/",
+      "type": "Φωτογραφικό Υλικό - Σκαρίφημα",
+      "file_url": "https://silia.eett.gr/silia/download/8f75c09d-f1ae-473a-aab3-fa6db4be92d8"
+    },
+    {
+      "document_number": "438022/08-07-2021",
+      "protocol_number": "ΣΚΑΡΙΦΗΜΑ ΘΕΣΗΣ ΚΕΡΑΙΩΝ ΕΚΚΧΟ/",
+      "type": "Φωτογραφικό Υλικό - Σκαρίφημα",
+      "file_url": "https://silia.eett.gr/silia/download/9cc67500-b778-4692-bb52-3f908ad052ed"
+    },
+    {
+      "document_number": "438023/08-07-2021",
+      "protocol_number": "Μελέτη συμβατότητας 2700 MHz WIND/",
+      "type": "Μελέτη για τη ζώνη  2,6GHz",
+      "file_url": "https://silia.eett.gr/silia/download/efe94af8-4ca8-4890-aa4d-245b876f8f29"
+    },
+    {
+      "document_number": "438473/14-07-2021",
+      "protocol_number": "ΥΔ κοινής χρήσης Wind/14-07-2021",
+      "type": "Άλλο",
+      "file_url": "https://silia.eett.gr/silia/download/8b77c2d3-a5ce-4fb4-8fc1-46248eb1fc29"
+    },
+    {
+      "document_number": "438474/14-07-2021",
+      "protocol_number": "Αρχείο Αίτησης/",
+      "type": "Δήλωση ΕΚΚΧΟ",
+      "file_url": "https://silia.eett.gr/silia/download/1157fc40-0550-44ed-880e-67503696a565"
+    }
+  ]
+}

@@ -1,0 +1,57 @@
+{
+  "antenna_id": "175852",
+  "address": "ΚΑΡΑΪΣΚΑΚΗ 17 , ΝΕΟΣ ΜΑΡΜΑΡΑΣ",
+  "position_code": 1403699,
+  "municipality": "Σιθωνίας",
+  "code_name": "MARMARIN_MI",
+  "region": "Κεντρικής Μακεδονίας",
+  "latitude": 40.093056,
+  "company": "OTE",
+  "longitude": 23.788056,
+  "permit_status": "Από τα στοιχεία που τηρούνται στην Ενημερωτική Πύλη προκύπτει ότι, για τη θέση \"ΚΑΡΑΪΣΚΑΚΗ 17 , ΝΕΟΣ ΜΑΡΜΑΡΑΣ\" στον Δήμο Σιθωνίας Περιφέρειας  Κεντρικής Μακεδονίας \n\t(κωδικός αριθμός θέσης 1403699, κωδική ονομασία \"MARMARIN_MI\") έχει κατατεθεί από την εταιρία OTE\tδήλωση εγκατάστασης κατασκευής κεραίας (αριθ. πρωτ. \n\t57819/16-10-2024) που εμπίπτει στις διατάξεις της νομοθεσίας για Εγκαταστάσεις Κατασκευών Κεραιών Χαμηλής Ηλεκτρομαγνητικής Περιβαλλοντικής Όχλησης (ΕΚΚΧΟ).",
+  "measurements_eaee": "-",
+  "documents": [
+    {
+      "document_number": "528973/16-10-2024",
+      "protocol_number": "ΜΕΛΕΤΗ/16-10-2024",
+      "type": "Αίτηση - Μελέτη Ραδιοεκπομπών ΕΕΑΕ",
+      "file_url": "https://silia.eett.gr/silia/download/ZTOeffgiyRNZQ9aurDREqI1whp6yBVR2xxyi"
+    },
+    {
+      "document_number": "528974/16-10-2024",
+      "protocol_number": "ΤΟΠΟΓΡΑΦΙΚΟ/16-10-2024",
+      "type": "Τοπογραφικό",
+      "file_url": "https://silia.eett.gr/silia/download/Q2GQRpEABNfakhOWYVg2wEx6LmOqNTO3wCpt"
+    },
+    {
+      "document_number": "528975/16-10-2024",
+      "protocol_number": "ΚΑΤΟΨΗ/16-10-2024",
+      "type": "Αρχιτεκτονικά [Κάτοψη - Τομή - Όψη]",
+      "file_url": "https://silia.eett.gr/silia/download/efYfXhEHDg5ET0aES6dB830f5XlS7a7zb2Yg"
+    },
+    {
+      "document_number": "528976/16-10-2024",
+      "protocol_number": "ΤΟΜΗ/16-10-2024",
+      "type": "Αρχιτεκτονικά [Κάτοψη - Τομή - Όψη]",
+      "file_url": "https://silia.eett.gr/silia/download/a8tEXGqGXkNfAEnipURY6xcsg0rvtLTx1Lgi"
+    },
+    {
+      "document_number": "528977/16-10-2024",
+      "protocol_number": "ΦΩΤΟΓΡΑΦΙΑ/16-10-2024",
+      "type": "Φωτογραφικό Υλικό - Σκαρίφημα",
+      "file_url": "https://silia.eett.gr/silia/download/iDFBxuONduqZyBZl1tYavN9IaquoHnTaNdS0"
+    },
+    {
+      "document_number": "528978/16-10-2024",
+      "protocol_number": "ΛΙΝΚ/16-10-2024",
+      "type": "Άλλο",
+      "file_url": "https://silia.eett.gr/silia/download/AyDgCoK803g928aiUeBEzuBUg6qETrpla52e"
+    },
+    {
+      "document_number": "528999/16-10-2024",
+      "protocol_number": "Αρχείο Αίτησης/16-10-2024",
+      "type": "Δήλωση ΕΚΚΧΟ",
+      "file_url": "https://silia.eett.gr/silia/download/owaIvK6pI3YBiYpewBVEeph6MTkogYF1ZmdB"
+    }
+  ]
+}

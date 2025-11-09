@@ -1,0 +1,75 @@
+{
+  "antenna_id": "170606",
+  "address": "ΠΛΗΣΙΟΝ ΟΙΚΙΣΜΟΥ ΜΟΙΡΑΙΪΚΑ",
+  "position_code": 1200267,
+  "municipality": "Πατρέων",
+  "code_name": "ΠΑΤΡΑ IND ZONE",
+  "region": "Δυτικής Ελλάδας",
+  "latitude": 38.130278,
+  "company": "NOVA Μ.Α.Ε.",
+  "longitude": 21.669722,
+  "permit_status": "Από τα στοιχεία που τηρούνται στην Ενημερωτική Πύλη προκύπτει ότι, για τη θέση \"ΠΛΗΣΙΟΝ ΟΙΚΙΣΜΟΥ ΜΟΙΡΑΙΪΚΑ\" στον Δήμο Πατρέων Περιφέρειας  Δυτικής Ελλάδας \n\t(κωδικός αριθμός θέσης 1200267, κωδική ονομασία \"ΠΑΤΡΑ IND ZONE\") χορηγήθηκε, με την Απόφαση της ΕΕΤΤ \n50325/13-12-2023, άδεια κατασκευής κεραίας στην εταιρία NOVA Μ.Α.Ε.. \nΑπό τo έγγραφο της άδειας μπορείτε να ενημερωθείτε για τις σχετικές εγκρίσεις των συναρμόδιων φορέων, καθώς και εάν πρόκειται για τροποποίηση παλαιότερης άδειας.\n\tΣύμφωνα με τα στοιχεία που έχουν υποβληθεί στο ΣΗΛΥΑ, ο κάτοχος της κατασκευής κεραίας έχει δηλώσει ότι θα προβεί σε έκδοση έγκρισης δομικών κατασκευών \n\t\tκεραίας μέσω του e-Άδειες \n\t\tμετά την έκδοση της άδειας κατασκευής κεραίας / δημοσιοποίηση της δήλωσης τροποποίησης της κατασκευής κεραίας",
+  "measurements_eaee": "-",
+  "documents": [
+    {
+      "document_number": "498360/24-10-2023",
+      "protocol_number": "ΤΟΠΟΓΡΑΦΙΚΟ & ΑΡΧΙΤΕΚΤΟΝΙΚΑ/",
+      "type": "Αρχιτεκτονικά Σχέδια",
+      "file_url": "https://silia.eett.gr/silia/download/c36bccdf-4777-4ba8-8990-27edb47472c4"
+    },
+    {
+      "document_number": "498361/24-10-2023",
+      "protocol_number": "ΜΕΣΩ ΣΗΛΥΑ/12-10-2023",
+      "type": "Αίτηση - Μελέτη Ραδιοεκπομπών ΕΕΑΕ",
+      "file_url": "https://silia.eett.gr/silia/download/afa59b43-382b-42ef-b445-bf3603de3d2c"
+    },
+    {
+      "document_number": "498362/24-10-2023",
+      "protocol_number": "115181/19-10-2023",
+      "type": "Αποτελέσματα μελέτης στη ζώνης 2.6GHz για ΥΠΑ/ΓΕΕΘΑ",
+      "file_url": "https://silia.eett.gr/silia/download/edc62735-f645-4b5f-b936-28fbfa5d3940"
+    },
+    {
+      "document_number": "498363/24-10-2023",
+      "protocol_number": "Δ3/Δ/2742/719/05-02-2010",
+      "type": "Γνωμάτευση ΥΠΑ",
+      "file_url": "https://silia.eett.gr/silia/download/d289bc75-4549-40a7-a965-dfc1bb93d6ad"
+    },
+    {
+      "document_number": "498364/24-10-2023",
+      "protocol_number": "25442/3632/25-06-1996",
+      "type": "Γνωμάτευση ΥΠΑ",
+      "file_url": "https://silia.eett.gr/silia/download/f1e7b965-0310-4043-b9c7-7136804bcdb6"
+    },
+    {
+      "document_number": "498365/24-10-2023",
+      "protocol_number": "ΥΔ ΚΟΙΝΗΣ ΧΡΗΣΗΣ VODAFONE/20-10-2023",
+      "type": "Άλλο",
+      "file_url": "https://silia.eett.gr/silia/download/8b1654ee-8b87-4e8f-b97e-60da7b7b2bbb"
+    },
+    {
+      "document_number": "498366/24-10-2023",
+      "protocol_number": "Αρχείο Αίτησης/",
+      "type": "Αίτηση Άδειας Κατασκευής Κεραίας ΕΕΤΤ",
+      "file_url": "https://silia.eett.gr/silia/download/5f7eaf3c-ca88-4bfa-9ba1-5e5dd4ced032"
+    },
+    {
+      "document_number": "501662/28-11-2023",
+      "protocol_number": "ΤΜΙΑ\\411\\16101/27-11-2023",
+      "type": "Γνωμάτευση ΕΕΑΕ",
+      "file_url": "https://silia.eett.gr/silia/download/ddb50ccc-2c27-40bf-af9e-2cd9d0c240c3"
+    },
+    {
+      "document_number": "503327/15-12-2023",
+      "protocol_number": "50325/13-12-2023",
+      "type": "Άδεια Κατασκευής  Κεραίας",
+      "file_url": "https://silia.eett.gr/silia/download/1d3f87ff-4373-452f-90b1-9355c045be0e"
+    },
+    {
+      "document_number": "498367/24-10-2023",
+      "protocol_number": "Αρχείο Αίτησης/",
+      "type": "Δήλωση ΠΠΔ",
+      "file_url": "https://silia.eett.gr/silia/download/5886ea0c-87fc-4128-950c-a79dab08a537"
+    }
+  ]
+}

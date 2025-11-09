@@ -1,0 +1,87 @@
+{
+  "antenna_id": "144887",
+  "address": "ΠΛΗΣΙΟΝ ΠΕΤΡΟΧΩΡΙΟΥ , Τ.Κ.ΠΕΤΡΟΧΩΡΙΟΥ,Δ.Ε. ΑΝΑΤΟΛΙΚΗΣ ΑΡΓΙΘΕΑΣ",
+  "position_code": 270155,
+  "municipality": "Αργιθέας",
+  "code_name": "ΠΕΤΡΟΧΩΡΙ Α/Δ",
+  "region": "Θεσσαλίας",
+  "latitude": 39.28,
+  "company": "OTE",
+  "longitude": 21.530833,
+  "permit_status": "Από τα στοιχεία που τηρούνται στην Ενημερωτική Πύλη προκύπτει ότι, για τη θέση \"ΠΛΗΣΙΟΝ ΠΕΤΡΟΧΩΡΙΟΥ , Τ.Κ.ΠΕΤΡΟΧΩΡΙΟΥ,Δ.Ε. ΑΝΑΤΟΛΙΚΗΣ ΑΡΓΙΘΕΑΣ\" στον Δήμο Αργιθέας Περιφέρειας  Θεσσαλίας \n\t(κωδικός αριθμός θέσης 0270155, κωδική ονομασία \"ΠΕΤΡΟΧΩΡΙ Α/Δ \") χορηγήθηκε, με την Απόφαση της ΕΕΤΤ \n37413/26-10-2020, άδεια κατασκευής κεραίας στην εταιρία OTE. \nΑπό τo έγγραφο της άδειας μπορείτε να ενημερωθείτε για τις σχετικές εγκρίσεις των συναρμόδιων φορέων, καθώς και εάν πρόκειται για τροποποίηση παλαιότερης άδειας.\nΗ άδεια χορηγήθηκε με τη διαδικασία αδειοδότησης που ορίζει ο ν. 4635/2019, κατόπιν της με αριθ. πρωτ. 35120/24-10-2019 \n\tαίτησης, και βάσει σχετικής δήλωσης του κατόχου της περί υπαγωγή της κατασκευής κεραίας στο άρθρο 34 του ν. 4635/2019.",
+  "measurements_eaee": "-",
+  "documents": [
+    {
+      "document_number": "380908/24-10-2019",
+      "protocol_number": "ΜΕΣΩ ΣΗΛΥΑ/",
+      "type": "Τοπογραφικό",
+      "file_url": "https://silia.eett.gr/silia/download/7798db65-618a-45fa-81cf-b20a8bf9a6a1"
+    },
+    {
+      "document_number": "380909/24-10-2019",
+      "protocol_number": "ΜΕΣΩ ΣΗΛΥΑ/",
+      "type": "Αρχιτεκτονικά Σχέδια",
+      "file_url": "https://silia.eett.gr/silia/download/8eddc17b-db22-48ea-80a5-75b23f3b4448"
+    },
+    {
+      "document_number": "380910/24-10-2019",
+      "protocol_number": "Δ3/Δ/21696/5302/20-07-2011",
+      "type": "Γνωμάτευση ΥΠΑ",
+      "file_url": "https://silia.eett.gr/silia/download/288a2a38-5ad5-4779-ac80-f40cda9c6a89"
+    },
+    {
+      "document_number": "380911/24-10-2019",
+      "protocol_number": "Δ3/Δ/15120/3414/18-05-2011",
+      "type": "Γνωμάτευση ΥΠΑ",
+      "file_url": "https://silia.eett.gr/silia/download/00324c58-5ba3-4096-899e-3bd9523df1bd"
+    },
+    {
+      "document_number": "380912/24-10-2019",
+      "protocol_number": "ΜΕΣΩ ΣΗΛΥΑ/24-10-2019",
+      "type": "Αίτηση ΥΠΑ",
+      "file_url": "https://silia.eett.gr/silia/download/e83159a0-7b07-4a01-abef-3649dbe27f97"
+    },
+    {
+      "document_number": "380913/24-10-2019",
+      "protocol_number": "ΜΕΣΩ ΣΗΛΥΑ/14-10-2019",
+      "type": "Αίτηση - Μελέτη Ραδιοεκπομπών ΕΕΑΕ",
+      "file_url": "https://silia.eett.gr/silia/download/3f5516e0-8121-4ba6-843d-7b646a8b6463"
+    },
+    {
+      "document_number": "380915/24-10-2019",
+      "protocol_number": "ΥΠ.ΔΗΛΩΣΗ ΣΥΝΕΓΚΑΤΑΣΤΑΣΗΣ COSMOTE/24-10-2019",
+      "type": "Άλλο",
+      "file_url": "https://silia.eett.gr/silia/download/ce5cbaec-1cc3-4180-964f-84feae59dda7"
+    },
+    {
+      "document_number": "380978/24-10-2019",
+      "protocol_number": "Αρχείο Αίτησης/",
+      "type": "Αίτηση Άδειας Κατασκευής Κεραίας ΕΕΤΤ",
+      "file_url": "https://silia.eett.gr/silia/download/581e62d5-a35a-4c77-8f1c-2cb96fde6c55"
+    },
+    {
+      "document_number": "391931/30-01-2020",
+      "protocol_number": "Μι/411/1615/2020/30-01-2020",
+      "type": "Γνωμάτευση ΕΕΑΕ",
+      "file_url": "https://silia.eett.gr/silia/download/452f99c4-873d-4638-9c4e-aa04eecbb1fe"
+    },
+    {
+      "document_number": "421148/06-11-2020",
+      "protocol_number": "37413/Φ610/26-10-2020",
+      "type": "Άδεια Κατασκευής  Κεραίας",
+      "file_url": "https://silia.eett.gr/silia/download/fc72a76a-b05d-4e2e-9ff9-dcb2b2fcea13"
+    },
+    {
+      "document_number": "380918/24-10-2019",
+      "protocol_number": "ΜΕΣΩ ΣΗΛΥΑ/",
+      "type": "Δήλωση υπαγωγής σε ΠΠΔ και Συνοδευτικά Έγγραφα",
+      "file_url": "https://silia.eett.gr/silia/download/62e8a55d-acc2-4663-90a3-e4fd9835f3d6"
+    },
+    {
+      "document_number": "380979/24-10-2019",
+      "protocol_number": "Αρχείο Αίτησης/",
+      "type": "Δήλωση ΠΠΔ",
+      "file_url": "https://silia.eett.gr/silia/download/a5c50143-4d3e-42ae-97cb-30001b3da147"
+    }
+  ]
+}

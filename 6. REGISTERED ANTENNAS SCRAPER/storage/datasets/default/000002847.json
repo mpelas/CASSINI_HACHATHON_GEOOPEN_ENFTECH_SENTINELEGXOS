@@ -1,0 +1,51 @@
+{
+  "antenna_id": "142663",
+  "address": "Ύψωμα εντός Μονής Όσιου Αρσενίου",
+  "position_code": 8000799,
+  "municipality": "Πολυγύρου",
+  "code_name": "Όσιος Αρσένιος",
+  "region": "Κεντρικής Μακεδονίας",
+  "latitude": 40.241944,
+  "company": "GREEKSTREAM NETWORKS",
+  "longitude": 23.568333,
+  "permit_status": "Από τα στοιχεία που τηρούνται στην Ενημερωτική Πύλη προκύπτει ότι, για τη θέση \"Ύψωμα εντός Μονής Όσιου Αρσενίου\" στον Δήμο Πολυγύρου Περιφέρειας  Κεντρικής Μακεδονίας \n\t(κωδικός αριθμός θέσης 8000799, κωδική ονομασία \"Όσιος Αρσένιος \") έχει κατατεθεί από την εταιρία GREEKSTREAM NETWORKS\tδήλωση εγκατάστασης κατασκευής κεραίας (αριθ. πρωτ. \n\t33147/05-06-2019) που εμπίπτει στις διατάξεις της νομοθεσίας για Εγκαταστάσεις Κατασκευών Κεραιών Χαμηλής Ηλεκτρομαγνητικής Περιβαλλοντικής Όχλησης (ΕΚΚΧΟ).",
+  "measurements_eaee": "-",
+  "documents": [
+    {
+      "document_number": "367303/05-06-2019",
+      "protocol_number": "Σχέδιο κάτοψης ΕΚΚΧΟ/05-06-2019",
+      "type": "Φωτογραφικό Υλικό - Σκαρίφημα",
+      "file_url": "https://silia.eett.gr/silia/download/849e22d0-993f-46cf-9105-a07168ca04bd"
+    },
+    {
+      "document_number": "367304/05-06-2019",
+      "protocol_number": "Σχέδιο όψης ΕΚΚΧΟ/05-06-2019",
+      "type": "Φωτογραφικό Υλικό - Σκαρίφημα",
+      "file_url": "https://silia.eett.gr/silia/download/3ee9625e-acd0-4347-b71d-d9d5c539d85b"
+    },
+    {
+      "document_number": "367305/05-06-2019",
+      "protocol_number": "Σχέδιο κάτοψης κεραιών/05-06-2019",
+      "type": "Φωτογραφικό Υλικό - Σκαρίφημα",
+      "file_url": "https://silia.eett.gr/silia/download/b0690d50-675c-4ba3-979b-70f70ad39b43"
+    },
+    {
+      "document_number": "367306/05-06-2019",
+      "protocol_number": "Σχέδιο κάτοψης χώρου προστασίας/05-06-2019",
+      "type": "Φωτογραφικό Υλικό - Σκαρίφημα",
+      "file_url": "https://silia.eett.gr/silia/download/38f5877e-2a48-4a79-82dc-dc5792d0c18a"
+    },
+    {
+      "document_number": "367307/05-06-2019",
+      "protocol_number": "Σχέδιο όψης χώρου προστασίας/05-06-2019",
+      "type": "Φωτογραφικό Υλικό - Σκαρίφημα",
+      "file_url": "https://silia.eett.gr/silia/download/34328864-6c30-4f90-aad4-7faf8a936487"
+    },
+    {
+      "document_number": "367308/05-06-2019",
+      "protocol_number": "Αρχείο Αίτησης/",
+      "type": "Δήλωση ΕΚΚΧΟ",
+      "file_url": "https://silia.eett.gr/silia/download/74d4d997-de0a-40f0-8ed6-942e23c512fc"
+    }
+  ]
+}

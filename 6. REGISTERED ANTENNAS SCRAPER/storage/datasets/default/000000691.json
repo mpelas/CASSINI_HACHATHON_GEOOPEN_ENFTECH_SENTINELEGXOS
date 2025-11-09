@@ -1,0 +1,81 @@
+{
+  "antenna_id": "174068",
+  "address": "Χώρα Αντίπαρου",
+  "position_code": 1102757,
+  "municipality": "Αντιπάρου",
+  "code_name": "ΑΝΤΙΠΑΡΟΣ ΚΕΝΤΡΟ",
+  "region": "Νοτίου Αιγαίου",
+  "latitude": 37.040278,
+  "company": "VODAFONE",
+  "longitude": 25.079722,
+  "permit_status": "Από τα στοιχεία που τηρούνται στην Ενημερωτική Πύλη προκύπτει ότι, για τη θέση \"Χώρα Αντίπαρου\" στον Δήμο Αντιπάρου Περιφέρειας  Νοτίου Αιγαίου \n\t(κωδικός αριθμός θέσης 1102757, κωδική ονομασία \"ΑΝΤΙΠΑΡΟΣ ΚΕΝΤΡΟ\") έχει κατατεθεί από την εταιρία VODAFONE\tδήλωση εγκατάστασης κατασκευής κεραίας (αριθ. πρωτ. \n\t56449/28-06-2024) που εμπίπτει στις διατάξεις της νομοθεσίας για Εγκαταστάσεις Κατασκευών Κεραιών Χαμηλής Ηλεκτρομαγνητικής Περιβαλλοντικής Όχλησης (ΕΚΚΧΟ).",
+  "measurements_eaee": "-",
+  "documents": [
+    {
+      "document_number": "519203/28-06-2024",
+      "protocol_number": "Φωτορεαλιστική απεικόνιση ιστού κεραίων & ερμαρίου ΕΚΚΧΟ/28-06-2024",
+      "type": "Φωτογραφικό Υλικό - Σκαρίφημα",
+      "file_url": "https://silia.eett.gr/silia/download/0L0hCUkenxkVBFogYG8ZRhdUN2RyrRBzWYdV"
+    },
+    {
+      "document_number": "519204/28-06-2024",
+      "protocol_number": "Φωτορεαλιστική απεικόνιση υποδέκτη link ΕΚΚΧΟ/28-06-2024",
+      "type": "Φωτογραφικό Υλικό - Σκαρίφημα",
+      "file_url": "https://silia.eett.gr/silia/download/rvGk0gTUO9iMIHYrFbG7sDNqtubLSY5ePKLd"
+    },
+    {
+      "document_number": "519205/28-06-2024",
+      "protocol_number": "Ψηφιακός χάρτης με προβολή της θέσης ΕΚΚΧΟ/28-06-2024",
+      "type": "Φωτογραφικό Υλικό - Σκαρίφημα",
+      "file_url": "https://silia.eett.gr/silia/download/HvDVR4QH98hbegBk4x2bVAuuMA5gaWT1ms0T"
+    },
+    {
+      "document_number": "519206/28-06-2024",
+      "protocol_number": "381107/13-09-2023",
+      "type": "Έγκριση Αρμοδίου Φορέα",
+      "file_url": "https://silia.eett.gr/silia/download/xrX8Ktn3E7KSYwRUP6tN2Hu4h7vp14Dn5oCg"
+    },
+    {
+      "document_number": "519209/28-06-2024",
+      "protocol_number": "262596/20-06-2024",
+      "type": "Έγκριση Αρμοδίου Φορέα",
+      "file_url": "https://silia.eett.gr/silia/download/T7bIodRid23xgBXldrOIY1uX2IPmAawBgvfr"
+    },
+    {
+      "document_number": "519211/28-06-2024",
+      "protocol_number": "Αρχιτεκτονικά Σχέδια ΕΚΚΧΟ/01-05-2024",
+      "type": "Αρχιτεκτονικά Σχέδια",
+      "file_url": "https://silia.eett.gr/silia/download/xcVuoxqaI2gWflngFh2pl6dwpkmlUgZGRXhX"
+    },
+    {
+      "document_number": "519213/28-06-2024",
+      "protocol_number": "Αρχείο Αίτησης/28-06-2024",
+      "type": "Δήλωση ΕΚΚΧΟ",
+      "file_url": "https://silia.eett.gr/silia/download/xcKQbo41g7419PSnrlozQ0fGhe8vgkBquXGt"
+    },
+    {
+      "document_number": "520743/16-07-2024",
+      "protocol_number": "Μελέτη ΕΚΚΧΟ/21-06-2024",
+      "type": "Άλλο",
+      "file_url": "https://silia.eett.gr/silia/download/PeEF4TM9uWfGGig5986EuOKQS9WukQessGe0"
+    },
+    {
+      "document_number": "520802/16-07-2024",
+      "protocol_number": "Μελέτη ΕΚΚΧΟ1/21-06-2024",
+      "type": "Άλλο",
+      "file_url": "https://silia.eett.gr/silia/download/e569v3zq1fRghaIpdhgwN77OQIxfVsHog7KQ"
+    },
+    {
+      "document_number": "520803/16-07-2024",
+      "protocol_number": "ΥΔ κοινής χρήσης NOVA/28-06-2024",
+      "type": "Άλλο",
+      "file_url": "https://silia.eett.gr/silia/download/aFtMHdMbeWghxEGlfxW2sU097NGGSMgXqtiA"
+    },
+    {
+      "document_number": "529751/22-10-2024",
+      "protocol_number": "ΥΔ εγκατάστασης/22-10-2024",
+      "type": "Άλλο",
+      "file_url": "https://silia.eett.gr/silia/download/sH891gTkAh07o3ZagCRLHBYEF3pSxBmXYAPH"
+    }
+  ]
+}

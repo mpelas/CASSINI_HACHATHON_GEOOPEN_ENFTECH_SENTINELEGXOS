@@ -1,0 +1,33 @@
+{
+  "antenna_id": "155988",
+  "address": "ΑΜΜΟΥΔΙΑ ΦΑΝΑΡΙΟΥ ΔΗΜΟΥ ΠΑΡΓΑΣ , HOTEL ELENI",
+  "position_code": 1445940,
+  "municipality": "Πρέβεζας",
+  "code_name": "AMMOUD_MI",
+  "region": "Ηπείρου",
+  "latitude": 39.236667,
+  "company": "OTE",
+  "longitude": 20.483056,
+  "permit_status": "Από τα στοιχεία που τηρούνται στην Ενημερωτική Πύλη προκύπτει ότι, για τη θέση \"ΑΜΜΟΥΔΙΑ ΦΑΝΑΡΙΟΥ ΔΗΜΟΥ ΠΑΡΓΑΣ , HOTEL ELENI\" στον Δήμο Πρέβεζας Περιφέρειας  Ηπείρου \n\t(κωδικός αριθμός θέσης 1445940, κωδική ονομασία \"AMMOUD_MI\") έχει κατατεθεί από την εταιρία OTE\tδήλωση εγκατάστασης κατασκευής κεραίας (αριθ. πρωτ. \n\t40522/07-09-2020) που εμπίπτει στις διατάξεις της νομοθεσίας για Εγκαταστάσεις Κατασκευών Κεραιών Χαμηλής Ηλεκτρομαγνητικής Περιβαλλοντικής Όχλησης (ΕΚΚΧΟ).",
+  "measurements_eaee": "-",
+  "documents": [
+    {
+      "document_number": "415941/07-09-2020",
+      "protocol_number": "ΣΚΑΡΙΦΗΜΑ/",
+      "type": "Φωτογραφικό Υλικό - Σκαρίφημα",
+      "file_url": "https://silia.eett.gr/silia/download/d3edda7d-c0e9-4d2a-9211-6a9da7a7d1be"
+    },
+    {
+      "document_number": "415942/07-09-2020",
+      "protocol_number": "448 (ΕΓΚΡΙΣΗ ΑΠΟ ΦΟΡΕΑ ΔΙΑΧΕΙΡΙΣΗΣ)/10-06-2020",
+      "type": "Άλλο",
+      "file_url": "https://silia.eett.gr/silia/download/db08a733-8aad-444d-9b05-1613fb7b2573"
+    },
+    {
+      "document_number": "415971/07-09-2020",
+      "protocol_number": "Αρχείο Αίτησης/",
+      "type": "Δήλωση ΕΚΚΧΟ",
+      "file_url": "https://silia.eett.gr/silia/download/c7e01fdc-3d16-408a-af9c-853b427c732c"
+    }
+  ]
+}

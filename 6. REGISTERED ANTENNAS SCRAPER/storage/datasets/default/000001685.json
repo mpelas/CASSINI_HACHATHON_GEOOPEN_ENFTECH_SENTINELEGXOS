@@ -1,0 +1,87 @@
+{
+  "antenna_id": "171506",
+  "address": "ΓΡΑΝΙΤΣΟΠΟΥΛΑ",
+  "position_code": 3006043,
+  "municipality": "Ζίτσας",
+  "code_name": "ΓΡΑΝΙΤΣΟΠΟΥΛΑ",
+  "region": "Ηπείρου",
+  "latitude": 39.716111,
+  "company": "DIGEA",
+  "longitude": 20.533056,
+  "permit_status": "Από τα στοιχεία που τηρούνται στην Ενημερωτική Πύλη προκύπτει ότι, για τη θέση \"ΓΡΑΝΙΤΣΟΠΟΥΛΑ\" στον Δήμο Ζίτσας Περιφέρειας  Ηπείρου \n\t(κωδικός αριθμός θέσης 3006043, κωδική ονομασία \"ΓΡΑΝΙΤΣΟΠΟΥΛΑ\") χορηγήθηκε, με την Απόφαση της ΕΕΤΤ \n50442/09-01-2024, άδεια κατασκευής κεραίας στην εταιρία DIGEA. \nΑπό τo έγγραφο της άδειας μπορείτε να ενημερωθείτε για τις σχετικές εγκρίσεις των συναρμόδιων φορέων, καθώς και εάν πρόκειται για τροποποίηση παλαιότερης άδειας.\n\tΣύμφωνα με τα στοιχεία που έχουν υποβληθεί στο ΣΗΛΥΑ, ο κάτοχος της κατασκευής κεραίας έχει δηλώσει ότι θα προβεί σε έκδοση έγκρισης δομικών κατασκευών \n\t\tκεραίας μέσω του e-Άδειες \n\t\tμετά την έκδοση της άδειας κατασκευής κεραίας / δημοσιοποίηση της δήλωσης τροποποίησης της κατασκευής κεραίας",
+  "measurements_eaee": "-",
+  "documents": [
+    {
+      "document_number": "503420/19-12-2023",
+      "protocol_number": "ΜΕΣΩ ΣΗΛΥΑ/",
+      "type": "Αίτηση ΥΠΑ",
+      "file_url": "https://silia.eett.gr/silia/download/e08990b3-6e61-467b-96cd-d8d3f665189d"
+    },
+    {
+      "document_number": "503422/19-12-2023",
+      "protocol_number": "26916/",
+      "type": "Χορήγηση Δικαιώματος Χρήσης Ραδιοσυχνοτήτων",
+      "file_url": "https://silia.eett.gr/silia/download/0b09d321-9e73-47de-8154-0b254d06439c"
+    },
+    {
+      "document_number": "503423/19-12-2023",
+      "protocol_number": "29288/",
+      "type": "Χορήγηση Δικαιώματος Χρήσης Ραδιοσυχνοτήτων",
+      "file_url": "https://silia.eett.gr/silia/download/249aef7f-c559-494a-b583-c1d5cf5b1359"
+    },
+    {
+      "document_number": "503424/19-12-2023",
+      "protocol_number": "ΜΕΣΩ ΣΗΛΥΑ/",
+      "type": "Αρχιτεκτονικά Σχέδια",
+      "file_url": "https://silia.eett.gr/silia/download/27f16783-a008-488d-9d61-e35d2ecc538f"
+    },
+    {
+      "document_number": "503425/19-12-2023",
+      "protocol_number": "81656/",
+      "type": "Αίτηση / Μελέτη για Έγκριση Περιβαλλοντικών Επιπτώσεων",
+      "file_url": "https://silia.eett.gr/silia/download/82018c2e-18c6-4da4-b0d9-086b02d0a06c"
+    },
+    {
+      "document_number": "503426/19-12-2023",
+      "protocol_number": "115825/2071/",
+      "type": "Έγκριση Περιβαλλοντικών Όρων",
+      "file_url": "https://silia.eett.gr/silia/download/fc3a6107-7d43-4990-89ce-c0ffdd146140"
+    },
+    {
+      "document_number": "503427/19-12-2023",
+      "protocol_number": "ΜΕΣΩ ΣΗΛΥΑ/",
+      "type": "Τοπογραφικό",
+      "file_url": "https://silia.eett.gr/silia/download/f2cbfac1-6e9a-4bd1-a00c-e3d9ce9376f0"
+    },
+    {
+      "document_number": "503451/19-12-2023",
+      "protocol_number": "ΜΕΣΩ ΣΗΛΥΑ/",
+      "type": "Αίτηση - Μελέτη Ραδιοεκπομπών ΕΕΑΕ",
+      "file_url": "https://silia.eett.gr/silia/download/062b8c97-5869-4ab1-ab94-cd5556b8ae0a"
+    },
+    {
+      "document_number": "503453/19-12-2023",
+      "protocol_number": "Αρχείο Αίτησης/",
+      "type": "Αίτηση Άδειας Κατασκευής Κεραίας ΕΕΤΤ",
+      "file_url": "https://silia.eett.gr/silia/download/b4821c2e-71cc-49cb-bb59-ed5343d9d765"
+    },
+    {
+      "document_number": "503635/20-12-2023",
+      "protocol_number": "ΤΜΙΑ/411/17320/2023/20-12-2023",
+      "type": "Γνωμάτευση ΕΕΑΕ",
+      "file_url": "https://silia.eett.gr/silia/download/87602480-6c7d-4269-9abe-26b65fa0f8a7"
+    },
+    {
+      "document_number": "503919/22-12-2023",
+      "protocol_number": "Κ.Γ./Δ3/Δ 19769/26-9-2023/26-09-2023",
+      "type": "Γνωμάτευση ΥΠΑ",
+      "file_url": "https://silia.eett.gr/silia/download/b739c616-5ab3-419b-9108-aca6f3fbb7fd"
+    },
+    {
+      "document_number": "504467/11-01-2024",
+      "protocol_number": "50442/09-01-2024",
+      "type": "Άδεια Κατασκευής  Κεραίας",
+      "file_url": "https://silia.eett.gr/silia/download/f9b243db-69b2-42ba-85d5-6de6915ca185"
+    }
+  ]
+}

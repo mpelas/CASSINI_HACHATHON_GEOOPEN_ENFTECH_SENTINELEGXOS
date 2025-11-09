@@ -1,0 +1,57 @@
+{
+  "antenna_id": "177203",
+  "address": "Λεωφ. Ν. Πλαστήρα & Ρωμανού",
+  "position_code": 1153069,
+  "municipality": "Ηρακλείου Κρήτης",
+  "code_name": "POLITISTIKO KENTRO HRAKLEIOU REP.",
+  "region": "Κρήτης",
+  "latitude": 35.334167,
+  "company": "VODAFONE",
+  "longitude": 25.129722,
+  "permit_status": "Από τα στοιχεία που τηρούνται στην Ενημερωτική Πύλη προκύπτει ότι, για τη θέση \"Λεωφ. Ν. Πλαστήρα & Ρωμανού\" στον Δήμο Ηρακλείου Κρήτης Περιφέρειας  Κρήτης \n\t(κωδικός αριθμός θέσης 1153069, κωδική ονομασία \"POLITISTIKO KENTRO HRAKLEIOU REP.\") έχει κατατεθεί από την εταιρία VODAFONE\tδήλωση εγκατάστασης κατασκευής κεραίας (αριθ. πρωτ. \n\t59023/15-01-2025) που εμπίπτει στις διατάξεις της νομοθεσίας για Εγκαταστάσεις Κατασκευών Κεραιών Χαμηλής Ηλεκτρομαγνητικής Περιβαλλοντικής Όχλησης (ΕΚΚΧΟ).",
+  "measurements_eaee": "-",
+  "documents": [
+    {
+      "document_number": "537919/15-01-2025",
+      "protocol_number": "Φωτορεαλιστική απεικόνιση ΕΚΚΧΟ/15-01-2025",
+      "type": "Φωτογραφικό Υλικό - Σκαρίφημα",
+      "file_url": "https://silia.eett.gr/silia/download/UNPPUTtGR1KfIQXEgcKKXpwI3ToT6VdIqYgY"
+    },
+    {
+      "document_number": "537920/15-01-2025",
+      "protocol_number": "Ψηφιακός χάρτης με προβολή της θέσης ΕΚΚΧΟ/15-01-2025",
+      "type": "Φωτογραφικό Υλικό - Σκαρίφημα",
+      "file_url": "https://silia.eett.gr/silia/download/S85UiGFclqeW4RgK7KNLIOcg1yHvStZ3YkLk"
+    },
+    {
+      "document_number": "537921/15-01-2025",
+      "protocol_number": "Αρχιτεκτονικά σχέδια ΕΚΚΧΟ/20-03-2024",
+      "type": "Αρχιτεκτονικά Σχέδια",
+      "file_url": "https://silia.eett.gr/silia/download/vC1vzG4nCGdUFoqPByEqhnpxGQFBTFpN78LC"
+    },
+    {
+      "document_number": "537924/15-01-2025",
+      "protocol_number": "Μελέτη ΕΚΚΧΟ/10-01-2025",
+      "type": "Άλλο",
+      "file_url": "https://silia.eett.gr/silia/download/lvvfiDccCXiKUmfdKTWzYwMxM55T6l4OG5Dd"
+    },
+    {
+      "document_number": "537925/15-01-2025",
+      "protocol_number": "159362/19-12-2024",
+      "type": "Έγκριση Αρμοδίου Φορέα",
+      "file_url": "https://silia.eett.gr/silia/download/1s6Rlr8q8GrsGy5XcGAQkRkTxFN2Xe3IV6BP"
+    },
+    {
+      "document_number": "537927/15-01-2025",
+      "protocol_number": "159231/12-07-2024",
+      "type": "Έγκριση Αρμοδίου Φορέα",
+      "file_url": "https://silia.eett.gr/silia/download/z4xwiKG5Rm0UzTPKPuzQ1WvgYhUQTyaSIkhf"
+    },
+    {
+      "document_number": "537928/15-01-2025",
+      "protocol_number": "Αρχείο Αίτησης/15-01-2025",
+      "type": "Δήλωση ΕΚΚΧΟ",
+      "file_url": "https://silia.eett.gr/silia/download/D30qDlgGRSOe1TzK5tdiGba4DkGmRLtEM8SI"
+    }
+  ]
+}

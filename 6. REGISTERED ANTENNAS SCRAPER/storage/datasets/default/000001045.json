@@ -1,0 +1,87 @@
+{
+  "antenna_id": "169663",
+  "address": "ΥΨΩΜΑ \"ΜΕΓΑΒΟΥΝΙ\", ΓΛΑΦΥΡΑ",
+  "position_code": 1404253,
+  "municipality": "Βόλου",
+  "code_name": "Π/Κ ΚΑΝΑΛΙΩΝ",
+  "region": "Θεσσαλίας",
+  "latitude": 39.433333,
+  "company": "OTE",
+  "longitude": 22.8575,
+  "permit_status": "Από τα στοιχεία που τηρούνται στην Ενημερωτική Πύλη προκύπτει ότι, για τη θέση \"ΥΨΩΜΑ \"ΜΕΓΑΒΟΥΝΙ\", ΓΛΑΦΥΡΑ\" στον Δήμο Βόλου Περιφέρειας  Θεσσαλίας \n\t(κωδικός αριθμός θέσης 1404253, κωδική ονομασία \"Π/Κ ΚΑΝΑΛΙΩΝ\") χορηγήθηκε, με την Απόφαση της ΕΕΤΤ \n51614/04-11-2024, άδεια κατασκευής κεραίας στην εταιρία OTE. \nΑπό τo έγγραφο της άδειας μπορείτε να ενημερωθείτε για τις σχετικές εγκρίσεις των συναρμόδιων φορέων, καθώς και εάν πρόκειται για τροποποίηση παλαιότερης άδειας.\n\tΣύμφωνα με τα στοιχεία που έχουν υποβληθεί στο ΣΗΛΥΑ, ο κάτοχος της κατασκευής κεραίας έχει δηλώσει ότι θα προβεί σε έκδοση έγκρισης δομικών κατασκευών \n\t\tκεραίας μέσω του e-Άδειες \n\t\tμετά την έκδοση της άδειας κατασκευής κεραίας / δημοσιοποίηση της δήλωσης τροποποίησης της κατασκευής κεραίας",
+  "measurements_eaee": "-",
+  "documents": [
+    {
+      "document_number": "493819/06-09-2023",
+      "protocol_number": "ΜΕΣΩ ΣΗΛΥΑ    /",
+      "type": "Τοπογραφικό",
+      "file_url": "https://silia.eett.gr/silia/download/7582ad5c-dfcf-4796-80fe-0e92296bf2a6"
+    },
+    {
+      "document_number": "493820/06-09-2023",
+      "protocol_number": "ΜΕΣΩ ΣΗΛΥΑ    /",
+      "type": "Αρχιτεκτονικά Σχέδια",
+      "file_url": "https://silia.eett.gr/silia/download/b273f686-7474-460c-a5b8-1dbc9576c03f"
+    },
+    {
+      "document_number": "493821/06-09-2023",
+      "protocol_number": "ΜΕΣΩ ΣΗΛΥΑ    /03-08-2023",
+      "type": "Αίτηση - Μελέτη Ραδιοεκπομπών ΕΕΑΕ",
+      "file_url": "https://silia.eett.gr/silia/download/768c83ce-a6b9-4e57-a7a4-f7470f404a2e"
+    },
+    {
+      "document_number": "493822/06-09-2023",
+      "protocol_number": "Δ3/Δ/12350/1993/16-03-2000",
+      "type": "Γνωμάτευση ΥΠΑ",
+      "file_url": "https://silia.eett.gr/silia/download/d30abbba-cde9-418d-8889-271bf5ef0151"
+    },
+    {
+      "document_number": "493823/06-09-2023",
+      "protocol_number": "ΜΕΣΩ ΣΗΛΥΑ    /",
+      "type": "Αίτηση ΥΠΑ",
+      "file_url": "https://silia.eett.gr/silia/download/40383988-3896-4293-9d7a-26e3fd27f618"
+    },
+    {
+      "document_number": "493824/06-09-2023",
+      "protocol_number": "ΥΔ ΣΥΝΕΓΚΑΤΑΣΤΑΣΗΣ ΟΤΕ/",
+      "type": "Άλλο",
+      "file_url": "https://silia.eett.gr/silia/download/62a093c6-a99d-45f0-957e-87078ec97ca7"
+    },
+    {
+      "document_number": "493825/06-09-2023",
+      "protocol_number": "93869/31-08-2023",
+      "type": "Επιστολή Ενημέρωσης προς Αρμόδιο Φορέα",
+      "file_url": "https://silia.eett.gr/silia/download/6f695b06-84e5-47cc-903c-5a1e97e81895"
+    },
+    {
+      "document_number": "493826/06-09-2023",
+      "protocol_number": "Αρχείο Αίτησης/",
+      "type": "Αίτηση Άδειας Κατασκευής Κεραίας ΕΕΤΤ",
+      "file_url": "https://silia.eett.gr/silia/download/9aab3577-153e-4754-ad6c-41c3fb21a7a6"
+    },
+    {
+      "document_number": "496215/04-10-2023",
+      "protocol_number": "ΤΜΙΑ/411/12267/2023/03-10-2023",
+      "type": "Γνωμάτευση ΕΕΑΕ",
+      "file_url": "https://silia.eett.gr/silia/download/69ddd4c2-2ceb-4f16-8165-c31563ca2806"
+    },
+    {
+      "document_number": "532623/15-11-2024",
+      "protocol_number": "51614/04-11-2024",
+      "type": "Άδεια Κατασκευής  Κεραίας",
+      "file_url": "https://silia.eett.gr/silia/download/9g5k5wfaBESk0F2BGYn0yS9fwhAHkh6mGWUD"
+    },
+    {
+      "document_number": "520401/12-07-2024",
+      "protocol_number": "ΠΠΔ/12-07-2024",
+      "type": "Δήλωση υπαγωγής σε ΠΠΔ και Συνοδευτικά Έγγραφα",
+      "file_url": "https://silia.eett.gr/silia/download/prK9przun5sBLplfi3BGNTVDp07cBd9v72CN"
+    },
+    {
+      "document_number": "520402/12-07-2024",
+      "protocol_number": "Αρχείο Αίτησης/12-07-2024",
+      "type": "Δήλωση ΠΠΔ",
+      "file_url": "https://silia.eett.gr/silia/download/L6UNmCP7pmx8l1c6YQZaYs8TGlI3TdPyiywk"
+    }
+  ]
+}

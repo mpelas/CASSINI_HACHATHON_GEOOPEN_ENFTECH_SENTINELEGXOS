@@ -1,0 +1,39 @@
+{
+  "antenna_id": "154703",
+  "address": "Δ.Ε. Πλατάνου, Δήμος Σάμου, Π.Ε. Σάμου, Περιφ. Βορείου Αιγαίου",
+  "position_code": 3207543,
+  "municipality": "Σάμου",
+  "code_name": "ΠΛΑΤΑΝΟΣ ΣΑΜΟΥ-Δ",
+  "region": "Βορείου Αιγαίου",
+  "latitude": 37.741944,
+  "company": "ΕΡΤ ΑΕ",
+  "longitude": 26.748056,
+  "permit_status": "Από τα στοιχεία που τηρούνται στην Ενημερωτική Πύλη προκύπτει ότι για τη  θέση \"Δ.Ε. Πλατάνου, Δήμος Σάμου, Π.Ε. Σάμου, Περιφ. Βορείου Αιγαίου\" στον Δήμο Σάμου Περιφέρειας  Βορείου Αιγαίου έχει κατατεθεί από την εταιρία ΕΡΤ ΑΕ δήλωση δομικών κατασκευών κεραιών  \nμε αριθ. πρωτ. ΣΗΛΥΑ 39265/23-05-2020 κατά τα οριζόμενα στην παρ. 7 του άρθρου 34 του Ν.4635/2019.",
+  "measurements_eaee": "-",
+  "documents": [
+    {
+      "document_number": "407504/23-05-2020",
+      "protocol_number": "δορυφορική λήψη και στοιχεία δομικών κατασκευών/",
+      "type": "Άλλο",
+      "file_url": "https://silia.eett.gr/silia/download/a447bd97-68bf-466a-ac1a-4e1851ecff1c"
+    },
+    {
+      "document_number": "407505/23-05-2020",
+      "protocol_number": "απογραφή 1987/",
+      "type": "Άλλο",
+      "file_url": "https://silia.eett.gr/silia/download/7187492c-0d29-4b20-89c6-c14fa98fb462"
+    },
+    {
+      "document_number": "407506/23-05-2020",
+      "protocol_number": "πίνακας 51 απογραφής ΕΡΤ 1987/",
+      "type": "Άλλο",
+      "file_url": "https://silia.eett.gr/silia/download/1a805aba-2e10-4acc-a139-88750eb72510"
+    },
+    {
+      "document_number": "407702/23-05-2020",
+      "protocol_number": "Αρχείο Αίτησης/",
+      "type": "Δήλωση Δομικών ΕΡΤ",
+      "file_url": "https://silia.eett.gr/silia/download/d7e235cb-254c-4ddc-a2ef-7d0f185cc08b"
+    }
+  ]
+}

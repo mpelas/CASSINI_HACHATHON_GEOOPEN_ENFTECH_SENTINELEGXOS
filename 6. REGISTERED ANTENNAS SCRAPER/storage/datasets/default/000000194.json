@@ -1,0 +1,33 @@
+{
+  "antenna_id": "159559",
+  "address": "Μονεμβασιάς 2 & Στρατηγού Καπετανάκη, Αγ. Δημήτριος.",
+  "position_code": 1157785,
+  "municipality": "Αγίου Δημητρίου",
+  "code_name": "3027785 RADICAL COMMUNICATIONS AG DIMITRIOS",
+  "region": "Αττικής",
+  "latitude": 37.919722,
+  "company": "VODAFONE",
+  "longitude": 23.724722,
+  "permit_status": "Από τα στοιχεία που τηρούνται στην Ενημερωτική Πύλη προκύπτει ότι, για τη θέση \"Μονεμβασιάς 2 & Στρατηγού Καπετανάκη, Αγ. Δημήτριος.\" στον Δήμο Αγίου Δημητρίου Περιφέρειας  Αττικής \n\t(κωδικός αριθμός θέσης 1157785, κωδική ονομασία \"3027785 RADICAL COMMUNICATIONS AG DIMITRIOS\") έχει κατατεθεί από την εταιρία VODAFONE\tδήλωση εγκατάστασης κατασκευής κεραίας (αριθ. πρωτ. \n\t44012/16-06-2021) που εμπίπτει στις διατάξεις της νομοθεσίας για Εγκαταστάσεις Κατασκευών Κεραιών Χαμηλής Ηλεκτρομαγνητικής Περιβαλλοντικής Όχλησης (ΕΚΚΧΟ).",
+  "measurements_eaee": "-",
+  "documents": [
+    {
+      "document_number": "436506/16-06-2021",
+      "protocol_number": "Φωτογραφία θέσης κεραίας ΕΚΚΧΟ/",
+      "type": "Φωτογραφικό Υλικό - Σκαρίφημα",
+      "file_url": "https://silia.eett.gr/silia/download/48ffd910-6bc3-4135-bb13-d84057777897"
+    },
+    {
+      "document_number": "436507/16-06-2021",
+      "protocol_number": "Φωτογραφία θέσης ΕΚΚΧΟ από Google Earth/",
+      "type": "Φωτογραφικό Υλικό - Σκαρίφημα",
+      "file_url": "https://silia.eett.gr/silia/download/5959eebb-d4bc-49c6-8f95-5920d542fdc2"
+    },
+    {
+      "document_number": "436508/16-06-2021",
+      "protocol_number": "Αρχείο Αίτησης/",
+      "type": "Δήλωση ΕΚΚΧΟ",
+      "file_url": "https://silia.eett.gr/silia/download/9809afa9-2e2b-42f2-aca1-4ccd7cfbd2b4"
+    }
+  ]
+}

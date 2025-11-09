@@ -1,0 +1,123 @@
+{
+  "antenna_id": "159278",
+  "address": "ΠΑΡΟΔΟΣ ΣΟΦΟΚΛΗ ΒΕΝΙΖΕΛΟΥ,ΛΑΧΑΝΑΓΟΡΑ,ΘΕΣΣΑΛΟΝΙΚΗ",
+  "position_code": 1413767,
+  "municipality": "Αμπελοκήπων - Μενεμένης",
+  "code_name": "SOFOVENIZ2",
+  "region": "Κεντρικής Μακεδονίας",
+  "latitude": 40.660556,
+  "company": "OTE",
+  "longitude": 22.885833,
+  "permit_status": "Από τα στοιχεία που τηρούνται στην Ενημερωτική Πύλη προκύπτει ότι, για τη θέση \"ΠΑΡΟΔΟΣ ΣΟΦΟΚΛΗ ΒΕΝΙΖΕΛΟΥ,ΛΑΧΑΝΑΓΟΡΑ,ΘΕΣΣΑΛΟΝΙΚΗ\" στον Δήμο Αμπελοκήπων - Μενεμένης Περιφέρειας  Κεντρικής Μακεδονίας \n\t(κωδικός αριθμός θέσης 1413767, κωδική ονομασία \"SOFOVENIZ2\") χορηγήθηκε, με την Απόφαση της ΕΕΤΤ \n43580/29-03-2022, άδεια κατασκευής κεραίας στην εταιρία OTE. \nΑπό τo έγγραφο της άδειας μπορείτε να ενημερωθείτε για τις σχετικές εγκρίσεις των συναρμόδιων φορέων, καθώς και εάν πρόκειται για τροποποίηση παλαιότερης άδειας.\nΕπιπλέον, έχει υποβληθεί η με αριθ. πρωτ. ΣΗΛΥΑ 58023/25-10-2024 (Δήλωση παρ. 1Β, άρθρ. 28, ν. 4635/2019) δήλωση που αφορά σε τροποποίηση/επικαιροποίηση στοιχείων της κατασκευής κεραίας που αφορούν τον(ους) Τομέα(εις) Αδειοδότησης:Κεραιοσυστήματα, Περιβάλλον.\n\tΔιευκρινίζεται ότι υπό ορισμένες προϋποθέσεις για την τροποποίηση αδειοδοτημένης κατασκευής κεραίας ή/και την επικαιροποίηση στοιχείων της δεν απαιτείται η έκδοση νέας άδειας \n\tκατασκευής κεραίας ή η τροποποίηση της υφιστάμενης άδειας κατασκευής κεραίας, αλλά απαιτείται η υποβολή κατάλληλης δήλωσης από τον κάτοχο της κατασκευής κεραίας συνοδευόμενη \n\tαπό επικαιροποίηση επιμέρους εγκρίσεων.",
+  "measurements_eaee": "-",
+  "documents": [
+    {
+      "document_number": "434847/13-05-2021",
+      "protocol_number": "ΜΕΣΩ ΣΗΛΥΑ    /",
+      "type": "Τοπογραφικό",
+      "file_url": "https://silia.eett.gr/silia/download/4cac24e9-cb5d-4082-9f67-58c98682a790"
+    },
+    {
+      "document_number": "434848/13-05-2021",
+      "protocol_number": "ΜΕΣΩ ΣΗΛΥΑ    /",
+      "type": "Αρχιτεκτονικά Σχέδια",
+      "file_url": "https://silia.eett.gr/silia/download/6e33a4b3-0d09-47d0-9bf2-6cad12e77866"
+    },
+    {
+      "document_number": "434849/13-05-2021",
+      "protocol_number": "ΜΕΣΩ ΣΗΛΥΑ    /20-04-2021",
+      "type": "Αίτηση - Μελέτη Ραδιοεκπομπών ΕΕΑΕ",
+      "file_url": "https://silia.eett.gr/silia/download/a34b08f2-97b8-496d-b3d9-e88e02735653"
+    },
+    {
+      "document_number": "434850/13-05-2021",
+      "protocol_number": "EMC/22-04-2021",
+      "type": "Αποτελέσματα μελέτης στη ζώνης 2.6GHz για ΥΠΑ/ΓΕΕΘΑ",
+      "file_url": "https://silia.eett.gr/silia/download/14c69fc3-5f48-4701-82f2-46aca9785548"
+    },
+    {
+      "document_number": "434884/14-05-2021",
+      "protocol_number": "Αρχείο Αίτησης/",
+      "type": "Αίτηση Άδειας Κατασκευής Κεραίας ΕΕΤΤ",
+      "file_url": "https://silia.eett.gr/silia/download/9de978ad-614d-4e43-8b3f-dbdc3aee637b"
+    },
+    {
+      "document_number": "435900/04-06-2021",
+      "protocol_number": "Μ.ι./411/10934/2021/04-06-2021",
+      "type": "Γνωμάτευση ΕΕΑΕ",
+      "file_url": "https://silia.eett.gr/silia/download/aa09351e-8d63-4ff0-b0fb-b8ca28131457"
+    },
+    {
+      "document_number": "440246/06-09-2021",
+      "protocol_number": "Δ3/Δ/30063/6-9-2021/06-09-2021",
+      "type": "Γνωμάτευση ΥΠΑ",
+      "file_url": "https://silia.eett.gr/silia/download/00f14c35-2e59-4d09-b4e4-2f10812a4f8d"
+    },
+    {
+      "document_number": "455897/06-04-2022",
+      "protocol_number": "43580/29-03-2022",
+      "type": "Άδεια Κατασκευής  Κεραίας",
+      "file_url": "https://silia.eett.gr/silia/download/58f166c3-0114-46bc-bed1-4e07c86d2838"
+    },
+    {
+      "document_number": "553609/24-06-2025",
+      "protocol_number": "52764/24-06-2025",
+      "type": "Διαπιστωτική Πράξη Υπαγωγής σε ΠΠΔ",
+      "file_url": "https://silia.eett.gr/silia/download/4tcGbwUUfd176kT15ySklcBpziKLSOev8Dx7"
+    },
+    {
+      "document_number": "553747/25-06-2025",
+      "protocol_number": "52760/24-06-2025",
+      "type": "Διαπιστωτική Πράξη Υπαγωγής σε ΠΠΔ",
+      "file_url": "https://silia.eett.gr/silia/download/rKCDNyqR3GvOzChWkCvPWGRGGT5VZwQwGm9w"
+    },
+    {
+      "document_number": "530084/24-10-2024",
+      "protocol_number": "ΤΟΠΟΓΡΑΦΙΚΟ/02-01-2024",
+      "type": "Τοπογραφικό",
+      "file_url": "https://silia.eett.gr/silia/download/vd8elsDq58woiQdfL4zkCgL3pgrQLQPumIZ8"
+    },
+    {
+      "document_number": "530085/24-10-2024",
+      "protocol_number": "ΑΡΧΙΤΕΚΤΟΝΙΚΑ/02-01-2024",
+      "type": "Αρχιτεκτονικά Σχέδια",
+      "file_url": "https://silia.eett.gr/silia/download/I2tfSpn4rNxEUDkqN1f7Lng9VPkKEE7CBxby"
+    },
+    {
+      "document_number": "530086/24-10-2024",
+      "protocol_number": "ΜΕΛΕΤΗ ΡΕ/20-09-2024",
+      "type": "Αίτηση - Μελέτη Ραδιοεκπομπών ΕΕΑΕ",
+      "file_url": "https://silia.eett.gr/silia/download/asLEYtXWWLGzOYsxaQieFY8aiT1LhE4YfsHW"
+    },
+    {
+      "document_number": "530087/24-10-2024",
+      "protocol_number": "ΜΕΛΕΤΗ emc/03-10-2024",
+      "type": "Αποτελέσματα μελέτης στη ζώνης 2.6GHz για ΥΠΑ/ΓΕΕΘΑ",
+      "file_url": "https://silia.eett.gr/silia/download/uTBSx8A1u3MvP9PYV1KE7NTmYzZM5LAvMi4x"
+    },
+    {
+      "document_number": "530088/24-10-2024",
+      "protocol_number": "14137670437528/27-04-2022",
+      "type": "Έγκριση δομικών κατασκευών (e-Άδειες, αντίγραφο)",
+      "file_url": "https://silia.eett.gr/silia/download/XnBRffdzFkzw6rzGkhR3RWM5v4sTl00i3bUK"
+    },
+    {
+      "document_number": "530262/25-10-2024",
+      "protocol_number": "Αρχείο Αίτησης/25-10-2024",
+      "type": "Δήλωση ΔΤΚΚ",
+      "file_url": "https://silia.eett.gr/silia/download/EvglFeBPiy336ExvOdKCpHByNNRQRhmIgdU7"
+    },
+    {
+      "document_number": "538254/17-01-2025",
+      "protocol_number": "TMIA/411/915/2025/17-01-2025",
+      "type": "Γνωμάτευση ΕΕΑΕ",
+      "file_url": "https://silia.eett.gr/silia/download/sfEG8a75ic2DzFFC3tmOfpbswQWW6GgWu6NL"
+    },
+    {
+      "document_number": "549466/15-05-2025",
+      "protocol_number": "ΜΕΛΕΤΗ EMC/15-05-2025",
+      "type": "Αποτελέσματα μελέτης στη ζώνης 2.6GHz για ΥΠΑ/ΓΕΕΘΑ",
+      "file_url": "https://silia.eett.gr/silia/download/05XT1MMMRMiY2ENydUdKRv9dhyT2LXV0AWE1"
+    }
+  ]
+}

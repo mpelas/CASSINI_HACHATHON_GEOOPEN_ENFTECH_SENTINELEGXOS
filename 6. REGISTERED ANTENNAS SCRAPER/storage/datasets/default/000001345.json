@@ -1,0 +1,51 @@
+{
+  "antenna_id": "165523",
+  "address": "ΛΕΥΚΗΣ 128 ΚΡΥΟΝΕΡΙ",
+  "position_code": 2340633,
+  "municipality": "Διονύσου",
+  "code_name": "ΕΛΤΑ ΤΑΧΥΜΕΤΑΦΟΡΕΣ  ΚΡΥΟΝΕΡΙ",
+  "region": "Αττικής",
+  "latitude": 38.143889,
+  "company": "NOVA Μ.Α.Ε.",
+  "longitude": 23.841389,
+  "permit_status": "Από τα στοιχεία που τηρούνται στην Ενημερωτική Πύλη προκύπτει ότι, για τη θέση \"ΛΕΥΚΗΣ 128 ΚΡΥΟΝΕΡΙ\" στον Δήμο Διονύσου Περιφέρειας  Αττικής \n\t(κωδικός αριθμός θέσης 2340633, κωδική ονομασία \"ΕΛΤΑ ΤΑΧΥΜΕΤΑΦΟΡΕΣ  ΚΡΥΟΝΕΡΙ\") έχει κατατεθεί από την εταιρία NOVA Μ.Α.Ε.\tδήλωση εγκατάστασης κατασκευής κεραίας (αριθ. πρωτ. \n\t49309/15-09-2022) που εμπίπτει στις διατάξεις της νομοθεσίας για Εγκαταστάσεις Κατασκευών Κεραιών Χαμηλής Ηλεκτρομαγνητικής Περιβαλλοντικής Όχλησης (ΕΚΚΧΟ).",
+  "measurements_eaee": "-",
+  "documents": [
+    {
+      "document_number": "467812/15-09-2022",
+      "protocol_number": "δικαιωμα χρήσης/",
+      "type": "Χορήγηση Δικαιώματος Χρήσης Ραδιοσυχνοτήτων",
+      "file_url": "https://silia.eett.gr/silia/download/7be7c2aa-9c09-4d57-9d68-bde88ce746be"
+    },
+    {
+      "document_number": "467813/15-09-2022",
+      "protocol_number": "δικαιωμα χρήσης/",
+      "type": "Χορήγηση Δικαιώματος Χρήσης Ραδιοσυχνοτήτων",
+      "file_url": "https://silia.eett.gr/silia/download/51614b9b-7031-4478-91e3-d1c7d73e5c20"
+    },
+    {
+      "document_number": "467814/15-09-2022",
+      "protocol_number": "δικαιωμα χρήσης/",
+      "type": "Χορήγηση Δικαιώματος Χρήσης Ραδιοσυχνοτήτων",
+      "file_url": "https://silia.eett.gr/silia/download/58825e3d-2da5-445f-8495-ccd6fda8a02e"
+    },
+    {
+      "document_number": "467815/15-09-2022",
+      "protocol_number": "δικαιωμα χρήσης/",
+      "type": "Χορήγηση Δικαιώματος Χρήσης Ραδιοσυχνοτήτων",
+      "file_url": "https://silia.eett.gr/silia/download/bd871283-f29a-4078-a597-a9dcedb5bb62"
+    },
+    {
+      "document_number": "467816/15-09-2022",
+      "protocol_number": "FOTO /",
+      "type": "Φωτογραφικό Υλικό - Σκαρίφημα",
+      "file_url": "https://silia.eett.gr/silia/download/4d0416a6-008d-4fc2-91eb-388564471c19"
+    },
+    {
+      "document_number": "467817/15-09-2022",
+      "protocol_number": "Αρχείο Αίτησης/",
+      "type": "Δήλωση ΕΚΚΧΟ",
+      "file_url": "https://silia.eett.gr/silia/download/ca141d5a-9373-4a04-a592-7abd036994ee"
+    }
+  ]
+}

@@ -1,0 +1,93 @@
+{
+  "antenna_id": "166731",
+  "address": "ΥΨΩΜΑ \"ΣΤΑΥΡΟΣ ΜΑΝΑΣ\" (ΔΥΤΙΚΗ ΚΟΡΥΦΗ), ΠΕΡΙΟΧΗ \"ΜΕΝΤΕΛΙΔΩΠΗ\"",
+  "position_code": 1000462,
+  "municipality": "Σύρου - Ερμούπολης",
+  "code_name": "ΝΕΩΡΙΟ",
+  "region": "Νοτίου Αιγαίου",
+  "latitude": 37.421111,
+  "company": "VODAFONE",
+  "longitude": 24.934444,
+  "permit_status": "Από τα στοιχεία που τηρούνται στην Ενημερωτική Πύλη προκύπτει ότι, για τη θέση \"ΥΨΩΜΑ \"ΣΤΑΥΡΟΣ ΜΑΝΑΣ\" (ΔΥΤΙΚΗ ΚΟΡΥΦΗ), ΠΕΡΙΟΧΗ \"ΜΕΝΤΕΛΙΔΩΠΗ\"\" στον Δήμο Σύρου - Ερμούπολης Περιφέρειας  Νοτίου Αιγαίου \n\t(κωδικός αριθμός θέσης 1000462, κωδική ονομασία \"ΝΕΩΡΙΟ\") χορηγήθηκε, με την Απόφαση της ΕΕΤΤ \n47666/04-04-2023, άδεια κατασκευής κεραίας στην εταιρία VODAFONE. \nΑπό τo έγγραφο της άδειας μπορείτε να ενημερωθείτε για τις σχετικές εγκρίσεις των συναρμόδιων φορέων, καθώς και εάν πρόκειται για τροποποίηση παλαιότερης άδειας.\n\tΣύμφωνα με τα στοιχεία που έχουν υποβληθεί στο ΣΗΛΥΑ, ο κάτοχος της κατασκευής κεραίας έχει δηλώσει ότι θα προβεί σε έκδοση έγκρισης δομικών κατασκευών \n\t\tκεραίας μέσω του e-Άδειες \n\t\tμετά την έκδοση της άδειας κατασκευής κεραίας / δημοσιοποίηση της δήλωσης τροποποίησης της κατασκευής κεραίας",
+  "measurements_eaee": "-",
+  "documents": [
+    {
+      "document_number": "475460/22-12-2022",
+      "protocol_number": "Τοπογραφικό Διάγραμμα/",
+      "type": "Τοπογραφικό",
+      "file_url": "https://silia.eett.gr/silia/download/0cdacd1f-7868-4a79-9d1d-ae9daef3b588"
+    },
+    {
+      "document_number": "475461/22-12-2022",
+      "protocol_number": "Αρχιτεκτονική Μελέτη/",
+      "type": "Αρχιτεκτονικά Σχέδια",
+      "file_url": "https://silia.eett.gr/silia/download/9c1398d1-60ae-4fb2-9a2a-223bbac576bd"
+    },
+    {
+      "document_number": "475462/22-12-2022",
+      "protocol_number": "Δ3/Δ/37197/7931/12-09-2008",
+      "type": "Γνωμάτευση ΥΠΑ",
+      "file_url": "https://silia.eett.gr/silia/download/2d8dcafb-8783-40c8-8a65-30846ce14b1d"
+    },
+    {
+      "document_number": "475463/22-12-2022",
+      "protocol_number": "Μελέτη ραδιοεκπομπών/05-12-2022",
+      "type": "Αίτηση - Μελέτη Ραδιοεκπομπών ΕΕΑΕ",
+      "file_url": "https://silia.eett.gr/silia/download/ea2d3079-bbed-428c-b1fd-640f397b8cf7"
+    },
+    {
+      "document_number": "475464/22-12-2022",
+      "protocol_number": "Αρχείο Αίτησης/",
+      "type": "Αίτηση Άδειας Κατασκευής Κεραίας ΕΕΤΤ",
+      "file_url": "https://silia.eett.gr/silia/download/618ecf0e-7776-4120-96c5-6d0d821e0a63"
+    },
+    {
+      "document_number": "479402/03-03-2023",
+      "protocol_number": "Μ.ι./411/3069/2023/02-03-2023",
+      "type": "Γνωμάτευση ΕΕΑΕ",
+      "file_url": "https://silia.eett.gr/silia/download/40e91cd8-3daa-4054-9822-e9162eee3832"
+    },
+    {
+      "document_number": "479696/07-03-2023",
+      "protocol_number": "Υπεύθυνη Δήλωση κοινής χρήσης Nova/06-03-2023",
+      "type": "Άλλο",
+      "file_url": "https://silia.eett.gr/silia/download/8a6defd4-84cb-48d9-a16b-0391459d03fa"
+    },
+    {
+      "document_number": "479697/07-03-2023",
+      "protocol_number": "Υπεύθυνη Δήλωση Διασύνδεσης Nova/06-03-2023",
+      "type": "Άλλο",
+      "file_url": "https://silia.eett.gr/silia/download/5c2df516-b6b0-4c8e-9f06-11224a8911b2"
+    },
+    {
+      "document_number": "480780/22-03-2023",
+      "protocol_number": "127990/15-03-2023",
+      "type": "Επιστολή Ενημέρωσης προς Αρμόδιο Φορέα",
+      "file_url": "https://silia.eett.gr/silia/download/23bdb97f-6707-4e8c-832c-c2c904d0858e"
+    },
+    {
+      "document_number": "482250/10-04-2023",
+      "protocol_number": "47666/04-04-2023",
+      "type": "Άδεια Κατασκευής  Κεραίας",
+      "file_url": "https://silia.eett.gr/silia/download/2f14d83d-e4d6-467b-9fb6-1fd236c6a936"
+    },
+    {
+      "document_number": "475465/22-12-2022",
+      "protocol_number": "Μελέτη ραδιοεκπομπών/05-12-2022",
+      "type": "Αίτηση - Μελέτη Ραδιοεκπομπών ΕΕΑΕ",
+      "file_url": "https://silia.eett.gr/silia/download/ea2d3079-bbed-428c-b1fd-640f397b8cf7"
+    },
+    {
+      "document_number": "475466/22-12-2022",
+      "protocol_number": "Συνοδευτικά Έγγραφα ΠΠΔ/",
+      "type": "Δήλωση υπαγωγής σε ΠΠΔ και Συνοδευτικά Έγγραφα",
+      "file_url": "https://silia.eett.gr/silia/download/5002762f-77d2-482e-bb63-78a7c594a820"
+    },
+    {
+      "document_number": "475467/22-12-2022",
+      "protocol_number": "Αρχείο Αίτησης/",
+      "type": "Δήλωση ΠΠΔ",
+      "file_url": "https://silia.eett.gr/silia/download/3fd326c8-20f8-49db-8a0a-1f903a9fce28"
+    }
+  ]
+}

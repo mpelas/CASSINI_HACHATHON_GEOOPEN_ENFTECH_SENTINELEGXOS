@@ -1,0 +1,45 @@
+{
+  "antenna_id": "172767",
+  "address": "ΣΤΥΛΙΑ",
+  "position_code": 20296,
+  "municipality": "Ναυπακτίας",
+  "code_name": "ΣΤΥΛΙΑ Τ/Σ",
+  "region": "Δυτικής Ελλάδας",
+  "latitude": 38.496944,
+  "company": "OTE",
+  "longitude": 21.804167,
+  "permit_status": "Από τα στοιχεία που τηρούνται στην Ενημερωτική Πύλη προκύπτει ότι, για τη θέση \"ΣΤΥΛΙΑ\" στον Δήμο Ναυπακτίας Περιφέρειας  Δυτικής Ελλάδας \n\t(κωδικός αριθμός θέσης 0020296, κωδική ονομασία \"ΣΤΥΛΙΑ Τ/Σ\") έχει κατατεθεί από την εταιρία OTE\tδήλωση εγκατάστασης κατασκευής κεραίας (αριθ. πρωτ. \n\t55493/05-04-2024) που εμπίπτει στις διατάξεις της νομοθεσίας για Εγκαταστάσεις Κατασκευών Κεραιών Χαμηλής Ηλεκτρομαγνητικής Περιβαλλοντικής Όχλησης (ΕΚΚΧΟ).",
+  "measurements_eaee": "-",
+  "documents": [
+    {
+      "document_number": "510893/22-03-2024",
+      "protocol_number": "ΜΕΛΕΤΗ/06-02-2024",
+      "type": "Αίτηση - Μελέτη Ραδιοεκπομπών ΕΕΑΕ",
+      "file_url": "https://silia.eett.gr/silia/download/rpH4moGpyyDvsa9WuDfde8p0QSVXYGkPKsh1"
+    },
+    {
+      "document_number": "510894/22-03-2024",
+      "protocol_number": "ΧΑΡΤΗΣ/06-02-2024",
+      "type": "Φωτογραφικό Υλικό - Σκαρίφημα",
+      "file_url": "https://silia.eett.gr/silia/download/uVZ2Y0hYLqRVspPixUpApxiAqoSafs3ZqkMY"
+    },
+    {
+      "document_number": "510895/22-03-2024",
+      "protocol_number": "ΦΩΤΟΓΡΑΦΙΑ/06-02-2024",
+      "type": "Φωτογραφικό Υλικό - Σκαρίφημα",
+      "file_url": "https://silia.eett.gr/silia/download/7mUaPmm9qP03I8z8YxkbWHgiOBGYvaOU2O4f"
+    },
+    {
+      "document_number": "512212/05-04-2024",
+      "protocol_number": "Αρχείο Αίτησης/05-04-2024",
+      "type": "Δήλωση ΕΚΚΧΟ",
+      "file_url": "https://silia.eett.gr/silia/download/GFps3H4HPeK1hpyTa7XgrdgBNBSO86sgzcmo"
+    },
+    {
+      "document_number": "528445/10-10-2024",
+      "protocol_number": "ΥΠ.ΔΗΛΩΣΗ/10-10-2024",
+      "type": "Άλλο",
+      "file_url": "https://silia.eett.gr/silia/download/Lek3pP0ht5eeSKrq2gE6Z3kWN6meGFg1E4th"
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "antenna_id": "164562",
+  "address": "Eντος Πρώην Αεροδρομίου ΕΛΛΗΝΙΚΟΥ",
+  "position_code": 1158279,
+  "municipality": "Ελληνικού - Αργυρούπολης",
+  "code_name": "3028279 LAMDA DEVELOPMENT ELLINIKO",
+  "region": "Αττικής",
+  "latitude": 37.895556,
+  "company": "VODAFONE",
+  "longitude": 23.735556,
+  "permit_status": "Από τα στοιχεία που τηρούνται στην Ενημερωτική Πύλη προκύπτει ότι, για τη θέση \"Eντος Πρώην Αεροδρομίου ΕΛΛΗΝΙΚΟΥ\" στον Δήμο Ελληνικού - Αργυρούπολης Περιφέρειας  Αττικής \n\t(κωδικός αριθμός θέσης 1158279, κωδική ονομασία \"3028279 LAMDA DEVELOPMENT ELLINIKO\") έχει κατατεθεί από την εταιρία VODAFONE\tδήλωση εγκατάστασης κατασκευής κεραίας (αριθ. πρωτ. \n\t48445/29-06-2022) που εμπίπτει στις διατάξεις της νομοθεσίας για Εγκαταστάσεις Κατασκευών Κεραιών Χαμηλής Ηλεκτρομαγνητικής Περιβαλλοντικής Όχλησης (ΕΚΚΧΟ).",
+  "measurements_eaee": "-",
+  "documents": [
+    {
+      "document_number": "462918/28-06-2022",
+      "protocol_number": "ΣΚΑΡΙΦΗΜΑ ΘΕΣΗΣ ΙΣΤΟΥ ΕΚΚΧΟ - ΟΨΗ ΚΕΡΑΙΑΣ/",
+      "type": "Φωτογραφικό Υλικό - Σκαρίφημα",
+      "file_url": "https://silia.eett.gr/silia/download/6c6eae4a-40b1-4b3a-b39c-9c7072f06c0f"
+    },
+    {
+      "document_number": "462919/28-06-2022",
+      "protocol_number": "Φωτογραφία θέσης ΕΚΚΧΟ από Google Earth/",
+      "type": "Φωτογραφικό Υλικό - Σκαρίφημα",
+      "file_url": "https://silia.eett.gr/silia/download/cc2659fd-5bd4-4227-9dcc-469caa3859bc"
+    },
+    {
+      "document_number": "462952/29-06-2022",
+      "protocol_number": "Αρχείο Αίτησης/",
+      "type": "Δήλωση ΕΚΚΧΟ",
+      "file_url": "https://silia.eett.gr/silia/download/394e5ccc-2d16-4b3b-baca-ea2dad16e6b0"
+    }
+  ]
+}

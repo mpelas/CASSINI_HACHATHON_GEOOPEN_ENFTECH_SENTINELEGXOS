@@ -1,0 +1,51 @@
+{
+  "antenna_id": "174942",
+  "address": "Οδός Νεοχωρακίου - Φυλής, ΔΕΡΒΕΝΟΧΩΡΙΑ.",
+  "position_code": 1143213,
+  "municipality": "Τανάγρας",
+  "code_name": "3033213 EDP RENEWABLES DERVENOHORIA",
+  "region": "Στερεάς Ελλάδας",
+  "latitude": 38.195833,
+  "company": "VODAFONE",
+  "longitude": 23.5475,
+  "permit_status": "Από τα στοιχεία που τηρούνται στην Ενημερωτική Πύλη προκύπτει ότι, για τη θέση \"Οδός Νεοχωρακίου - Φυλής, ΔΕΡΒΕΝΟΧΩΡΙΑ.\" στον Δήμο Τανάγρας Περιφέρειας  Στερεάς Ελλάδας \n\t(κωδικός αριθμός θέσης 1143213, κωδική ονομασία \"3033213 EDP RENEWABLES DERVENOHORIA\") έχει κατατεθεί από την εταιρία VODAFONE\tδήλωση εγκατάστασης κατασκευής κεραίας (αριθ. πρωτ. \n\t57061/22-08-2024) που εμπίπτει στις διατάξεις της νομοθεσίας για Εγκαταστάσεις Κατασκευών Κεραιών Χαμηλής Ηλεκτρομαγνητικής Περιβαλλοντικής Όχλησης (ΕΚΚΧΟ).",
+  "measurements_eaee": "-",
+  "documents": [
+    {
+      "document_number": "523558/22-08-2024",
+      "protocol_number": "Φωτορεαλιστική απεικόνιση κεραίας ΕΚΚΧΟ/22-08-2024",
+      "type": "Φωτογραφικό Υλικό - Σκαρίφημα",
+      "file_url": "https://silia.eett.gr/silia/download/46EOgU8g4U4OIkyxIRsNUu0yd2g5O3QE3p0A"
+    },
+    {
+      "document_number": "523559/22-08-2024",
+      "protocol_number": "Ψηφιακός χάρτης με προβολή της θέσης ΕΚΚΧΟ/22-08-2024",
+      "type": "Φωτογραφικό Υλικό - Σκαρίφημα",
+      "file_url": "https://silia.eett.gr/silia/download/Ze68VaaRMYgngDqDrcNPVqn1ivXtW5qEmDsk"
+    },
+    {
+      "document_number": "523560/22-08-2024",
+      "protocol_number": "Σκαρίφημα θέσης κεραίας ΕΚΚΧΟ/22-08-2024",
+      "type": "Φωτογραφικό Υλικό - Σκαρίφημα",
+      "file_url": "https://silia.eett.gr/silia/download/GDRLADxMvs0nr11QNu9TqtBONzLuZA2iMFp0"
+    },
+    {
+      "document_number": "523561/22-08-2024",
+      "protocol_number": "ΜΕΛΕΤΗ ΕΚΚΧΟ/22-08-2024",
+      "type": "Άλλο",
+      "file_url": "https://silia.eett.gr/silia/download/S6i9KQVOdoYRrw2nhuWEkTvSG1KoMHXItyIV"
+    },
+    {
+      "document_number": "523562/22-08-2024",
+      "protocol_number": "Αρχείο Αίτησης/22-08-2024",
+      "type": "Δήλωση ΕΚΚΧΟ",
+      "file_url": "https://silia.eett.gr/silia/download/B2OtkzWxQvnCDpUfogb2TCpyuZ0PKDg2CBiT"
+    },
+    {
+      "document_number": "539904/03-02-2025",
+      "protocol_number": "ΥΔ ΕΓΚΑΤΑΣΤΑΣΗΣ/03-02-2025",
+      "type": "Άλλο",
+      "file_url": "https://silia.eett.gr/silia/download/NYbSYgVgqYbNATPIkvCDXQld6zUCOzugDqik"
+    }
+  ]
+}

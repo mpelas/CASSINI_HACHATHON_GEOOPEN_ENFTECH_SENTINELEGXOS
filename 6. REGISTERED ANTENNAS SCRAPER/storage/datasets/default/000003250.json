@@ -1,0 +1,39 @@
+{
+  "antenna_id": "152394",
+  "address": "ΣΚΥΡΟΣ ΠΕΡ. ΣΤΕΡΕΑΣ ΕΛΛΑΔΑΣ",
+  "position_code": 3207054,
+  "municipality": "Σκύρου",
+  "code_name": "ΣΚΥΡΟΣ-Δ",
+  "region": "Στερεάς Ελλάδας",
+  "latitude": 38.885278,
+  "company": "ΕΡΤ ΑΕ",
+  "longitude": 24.5475,
+  "permit_status": "Από τα στοιχεία που τηρούνται στην Ενημερωτική Πύλη προκύπτει ότι για τη  θέση \"ΣΚΥΡΟΣ ΠΕΡ. ΣΤΕΡΕΑΣ ΕΛΛΑΔΑΣ\" στον Δήμο Σκύρου Περιφέρειας  Στερεάς Ελλάδας έχει κατατεθεί από την εταιρία ΕΡΤ ΑΕ δήλωση δομικών κατασκευών κεραιών  \nμε αριθ. πρωτ. ΣΗΛΥΑ 38052/08-04-2020 κατά τα οριζόμενα στην παρ. 7 του άρθρου 34 του Ν.4635/2019.",
+  "measurements_eaee": "-",
+  "documents": [
+    {
+      "document_number": "400041/25-03-2020",
+      "protocol_number": "δορυφορική λήψη και στοιχεία δομικών κατασκευών/",
+      "type": "Άλλο",
+      "file_url": "https://silia.eett.gr/silia/download/aea3af8c-4f95-40d0-b65d-caf9195eaf60"
+    },
+    {
+      "document_number": "400635/30-03-2020",
+      "protocol_number": "απογραφή 1987/",
+      "type": "Άλλο",
+      "file_url": "https://silia.eett.gr/silia/download/2172ce49-d4e0-4e90-a7ea-010d7d1d87f0"
+    },
+    {
+      "document_number": "400636/30-03-2020",
+      "protocol_number": "πίνακας 49 απογραφής ΕΡΤ 1987/",
+      "type": "Άλλο",
+      "file_url": "https://silia.eett.gr/silia/download/464f7506-bae0-4037-b078-4a327bfd24a0"
+    },
+    {
+      "document_number": "401651/08-04-2020",
+      "protocol_number": "Αρχείο Αίτησης/",
+      "type": "Δήλωση Δομικών ΕΡΤ",
+      "file_url": "https://silia.eett.gr/silia/download/53f6ebff-0cd9-4432-b8d9-ed98c9bd9107"
+    }
+  ]
+}

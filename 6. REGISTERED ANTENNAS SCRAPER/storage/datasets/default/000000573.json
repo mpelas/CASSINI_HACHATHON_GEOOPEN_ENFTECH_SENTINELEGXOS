@@ -1,0 +1,51 @@
+{
+  "antenna_id": "179579",
+  "address": "ΚΟΝΙΤΣΗΣ 3, ΜΑΡΟΥΣΙ.",
+  "position_code": 1152316,
+  "municipality": "Αμαρουσίου",
+  "code_name": "3032316 MITSUBISHI MAROUSI",
+  "region": "Αττικής",
+  "latitude": 38.048056,
+  "company": "VODAFONE",
+  "longitude": 23.808333,
+  "permit_status": "Από τα στοιχεία που τηρούνται στην Ενημερωτική Πύλη προκύπτει ότι, για τη θέση \"ΚΟΝΙΤΣΗΣ 3, ΜΑΡΟΥΣΙ.\" στον Δήμο Αμαρουσίου Περιφέρειας  Αττικής \n\t(κωδικός αριθμός θέσης 1152316, κωδική ονομασία \"3032316 MITSUBISHI MAROUSI\") έχει κατατεθεί από την εταιρία VODAFONE\tδήλωση εγκατάστασης κατασκευής κεραίας (αριθ. πρωτ. \n\t61107/16-05-2025) που εμπίπτει στις διατάξεις της νομοθεσίας για Εγκαταστάσεις Κατασκευών Κεραιών Χαμηλής Ηλεκτρομαγνητικής Περιβαλλοντικής Όχλησης (ΕΚΚΧΟ).",
+  "measurements_eaee": "-",
+  "documents": [
+    {
+      "document_number": "549531/16-05-2025",
+      "protocol_number": "Φωτορεαλιστική απεικόνιση κεραίας ΕΚΚΧΟ/16-05-2025",
+      "type": "Φωτογραφικό Υλικό - Σκαρίφημα",
+      "file_url": "https://silia.eett.gr/silia/download/ZSbaZNHotyPIZGUeAVkS07rw0DgpdBCvMtnG"
+    },
+    {
+      "document_number": "549532/16-05-2025",
+      "protocol_number": "Ψηφιακός χάρτης με προβολή της θέσης ΕΚΚΧΟ/16-05-2025",
+      "type": "Φωτογραφικό Υλικό - Σκαρίφημα",
+      "file_url": "https://silia.eett.gr/silia/download/Sx7f0ACEdimCRED3F4y464v0G8459otUZLhi"
+    },
+    {
+      "document_number": "549533/16-05-2025",
+      "protocol_number": "Σκαρίφημα θέσης κεραίας ΕΚΚΧΟ/16-05-2025",
+      "type": "Φωτογραφικό Υλικό - Σκαρίφημα",
+      "file_url": "https://silia.eett.gr/silia/download/L7HvewOK2xhIxrzlXd12W92QQIbcKkdRiuQt"
+    },
+    {
+      "document_number": "549540/16-05-2025",
+      "protocol_number": "ΜΕΛΕΤΗ ΕΚΚΧΟ/16-05-2025",
+      "type": "Άλλο",
+      "file_url": "https://silia.eett.gr/silia/download/D3tzsmZKkBppGG3BA4mGtdbKvBh8XvD0GGeY"
+    },
+    {
+      "document_number": "549541/16-05-2025",
+      "protocol_number": "Αρχείο Αίτησης/16-05-2025",
+      "type": "Δήλωση ΕΚΚΧΟ",
+      "file_url": "https://silia.eett.gr/silia/download/0vAZ6hgtiSQTgy982I36RTg4Lv64rq6zbW9g"
+    },
+    {
+      "document_number": "554928/10-07-2025",
+      "protocol_number": "ΥΔ ΕΓΚΑΤΑΣΤΑΣΗΣ/10-07-2025",
+      "type": "Άλλο",
+      "file_url": "https://silia.eett.gr/silia/download/47gYu5tbxexZyIwWIuo6YsDMexMGFlNlFZzN"
+    }
+  ]
+}

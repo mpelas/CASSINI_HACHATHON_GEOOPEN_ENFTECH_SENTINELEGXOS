@@ -1,0 +1,111 @@
+{
+  "antenna_id": "156375",
+  "address": "ΑΝΤΛΙΟΣΤΑΣΙΟ Α5 ΙΟΝΙΑΣ ΟΔΟΥ Χ.Θ. 169+130, ΔΗΜΟΣ ΖΗΡΟΥ, Τ.Κ.ΚΛΕΙΣΟΥΡΑΣ.",
+  "position_code": 1104525,
+  "municipality": "Ζηρού",
+  "code_name": "ΑΝΤΛΙΟΣΤΑΣΙΟ Νο 5",
+  "region": "Ηπείρου",
+  "latitude": 39.381389,
+  "company": "VODAFONE",
+  "longitude": 20.911389,
+  "permit_status": "Από τα στοιχεία που τηρούνται στην Ενημερωτική Πύλη προκύπτει ότι, για τη θέση \"ΑΝΤΛΙΟΣΤΑΣΙΟ Α5 ΙΟΝΙΑΣ ΟΔΟΥ Χ.Θ. 169+130, ΔΗΜΟΣ ΖΗΡΟΥ, Τ.Κ.ΚΛΕΙΣΟΥΡΑΣ.\" στον Δήμο Ζηρού Περιφέρειας  Ηπείρου \n\t(κωδικός αριθμός θέσης 1104525, κωδική ονομασία \"ΑΝΤΛΙΟΣΤΑΣΙΟ Νο 5\") χορηγήθηκε, με την Απόφαση της ΕΕΤΤ \n38220/25-11-2020, άδεια κατασκευής κεραίας στην εταιρία VODAFONE. \nΑπό τo έγγραφο της άδειας μπορείτε να ενημερωθείτε για τις σχετικές εγκρίσεις των συναρμόδιων φορέων, καθώς και εάν πρόκειται για τροποποίηση παλαιότερης άδειας.",
+  "measurements_eaee": "-",
+  "documents": [
+    {
+      "document_number": "418159/05-10-2020",
+      "protocol_number": "Τοπογραφικό διάγραμμα/",
+      "type": "Τοπογραφικό",
+      "file_url": "https://silia.eett.gr/silia/download/b0d04ec5-be4d-4291-85c7-ded9067034ca"
+    },
+    {
+      "document_number": "418160/05-10-2020",
+      "protocol_number": "Αρχιτεκτονικά Σχέδια/",
+      "type": "Αρχιτεκτονικά Σχέδια",
+      "file_url": "https://silia.eett.gr/silia/download/fd70352e-38f8-4cfc-92f5-e261d107e3ef"
+    },
+    {
+      "document_number": "418161/05-10-2020",
+      "protocol_number": "Χάρτης ΥΠΑ/",
+      "type": "Απόσπασμα Χάρτη ΓΥΣ 1:50.000",
+      "file_url": "https://silia.eett.gr/silia/download/b165ffc6-1110-4e30-b0e7-37eb38b45955"
+    },
+    {
+      "document_number": "418162/05-10-2020",
+      "protocol_number": "ΜΕΛΕΤΗ ΡΑΔΙΟΕΚΠΟΜΠΩΝ /08-11-2019",
+      "type": "Αίτηση - Μελέτη Ραδιοεκπομπών ΕΕΑΕ",
+      "file_url": "https://silia.eett.gr/silia/download/0110f297-abac-48f3-bcaa-cdf8b415e83e"
+    },
+    {
+      "document_number": "418163/05-10-2020",
+      "protocol_number": "Υπεύθυνη Δήλωση κοινής χρήσης - Wind/29-05-2020",
+      "type": "Άλλο",
+      "file_url": "https://silia.eett.gr/silia/download/5ab030b7-b2ba-4b82-b76b-5a0c0e390dc6"
+    },
+    {
+      "document_number": "418164/05-10-2020",
+      "protocol_number": "Υπεύθυνη Δήλωση Διασύνδεσης - Wind/29-05-2020",
+      "type": "Άλλο",
+      "file_url": "https://silia.eett.gr/silia/download/65e542f5-49b5-403e-846c-70191299cc1e"
+    },
+    {
+      "document_number": "418165/05-10-2020",
+      "protocol_number": "Υπεύθυνη Δήλωση κοινής χρήσης - Cosmote/29-05-2020",
+      "type": "Άλλο",
+      "file_url": "https://silia.eett.gr/silia/download/4d964b6b-6c94-468e-95e4-3426e37b982f"
+    },
+    {
+      "document_number": "418166/05-10-2020",
+      "protocol_number": "Δ3/Δ/32491/29-09-2020/29-09-2020",
+      "type": "Γνωμάτευση ΥΠΑ",
+      "file_url": "https://silia.eett.gr/silia/download/0277141e-8e69-4d5d-bd5d-b5cdee775634"
+    },
+    {
+      "document_number": "418167/05-10-2020",
+      "protocol_number": "Μ.ι./411/9727/2020/27-07-2020",
+      "type": "Γνωμάτευση ΕΕΑΕ",
+      "file_url": "https://silia.eett.gr/silia/download/3ba6a59b-e77f-415f-9c0f-81c595443480"
+    },
+    {
+      "document_number": "418193/06-10-2020",
+      "protocol_number": "Αρχείο Αίτησης/",
+      "type": "Αίτηση Άδειας Κατασκευής Κεραίας ΕΕΤΤ",
+      "file_url": "https://silia.eett.gr/silia/download/771e881c-0057-4a4d-8570-948bb5145d2e"
+    },
+    {
+      "document_number": "420984/05-11-2020",
+      "protocol_number": "Μ.ι./411/14106/2020/04-11-2020",
+      "type": "Γνωμάτευση ΕΕΑΕ",
+      "file_url": "https://silia.eett.gr/silia/download/2c8790ed-3086-4106-b3f1-b431fea21963"
+    },
+    {
+      "document_number": "421269/09-11-2020",
+      "protocol_number": "4157/14-11-2019",
+      "type": "Έγκριση Αρμοδίου Φορέα",
+      "file_url": "https://silia.eett.gr/silia/download/3769fefa-1271-41db-8afb-691d8a90c39a"
+    },
+    {
+      "document_number": "423250/26-11-2020",
+      "protocol_number": "38220/25-11-2020",
+      "type": "Άδεια Κατασκευής  Κεραίας",
+      "file_url": "https://silia.eett.gr/silia/download/04513718-af35-4579-80b1-f0db33eb1631"
+    },
+    {
+      "document_number": "418169/05-10-2020",
+      "protocol_number": "ΜΕΛΕΤΗ ΡΑΔΙΟΕΚΠΟΜΠΩΝ /08-11-2019",
+      "type": "Αίτηση - Μελέτη Ραδιοεκπομπών ΕΕΑΕ",
+      "file_url": "https://silia.eett.gr/silia/download/0110f297-abac-48f3-bcaa-cdf8b415e83e"
+    },
+    {
+      "document_number": "418184/05-10-2020",
+      "protocol_number": "ΣΥΝΟΔΕΥΤΙΚΑ ΕΓΓΡΑΦΑ ΠΠΔ\t/",
+      "type": "Δήλωση υπαγωγής σε ΠΠΔ και Συνοδευτικά Έγγραφα",
+      "file_url": "https://silia.eett.gr/silia/download/fff70ed3-2c82-4204-9c8a-0f3ebae8a066"
+    },
+    {
+      "document_number": "418194/06-10-2020",
+      "protocol_number": "Αρχείο Αίτησης/",
+      "type": "Δήλωση ΠΠΔ",
+      "file_url": "https://silia.eett.gr/silia/download/46a41a98-821a-4b3a-9576-950c1131a78c"
+    }
+  ]
+}

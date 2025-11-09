@@ -1,0 +1,51 @@
+{
+  "antenna_id": "171548",
+  "address": "Κωνσταντινουπόλεως 41 Ορεστιάδα.",
+  "position_code": 1152246,
+  "municipality": "Ορεστιάδας",
+  "code_name": "3032246 DIXONS ORESTIADA",
+  "region": "Ανατ. Μακεδονίας και Θράκης",
+  "latitude": 41.487778,
+  "company": "VODAFONE",
+  "longitude": 26.535,
+  "permit_status": "Από τα στοιχεία που τηρούνται στην Ενημερωτική Πύλη προκύπτει ότι, για τη θέση \"Κωνσταντινουπόλεως 41 Ορεστιάδα.\" στον Δήμο Ορεστιάδας Περιφέρειας  Ανατ. Μακεδονίας και Θράκης \n\t(κωδικός αριθμός θέσης 1152246, κωδική ονομασία \"3032246 DIXONS ORESTIADA\") έχει κατατεθεί από την εταιρία VODAFONE\tδήλωση εγκατάστασης κατασκευής κεραίας (αριθ. πρωτ. \n\t54246/21-12-2023) που εμπίπτει στις διατάξεις της νομοθεσίας για Εγκαταστάσεις Κατασκευών Κεραιών Χαμηλής Ηλεκτρομαγνητικής Περιβαλλοντικής Όχλησης (ΕΚΚΧΟ).",
+  "measurements_eaee": "-",
+  "documents": [
+    {
+      "document_number": "503673/20-12-2023",
+      "protocol_number": "Φωτορεαλιστική απεικόνιση κεραιας ΕΚΚΧΟ/",
+      "type": "Φωτογραφικό Υλικό - Σκαρίφημα",
+      "file_url": "https://silia.eett.gr/silia/download/27718ebb-3fe6-47a0-8af1-2c392927bd8c"
+    },
+    {
+      "document_number": "503674/20-12-2023",
+      "protocol_number": "Ψηφιακός Χάρτης με προβολή της θέσης της κεραίας ΕΚΚΧΟ/",
+      "type": "Φωτογραφικό Υλικό - Σκαρίφημα",
+      "file_url": "https://silia.eett.gr/silia/download/3f99c332-6736-4156-b0c0-6b5865e1db34"
+    },
+    {
+      "document_number": "503807/21-12-2023",
+      "protocol_number": "Μελέτη ΕΚΚΧΟ/21-12-2023",
+      "type": "Άλλο",
+      "file_url": "https://silia.eett.gr/silia/download/23adee59-8330-4c2e-b23c-06ce9908ad23"
+    },
+    {
+      "document_number": "503808/21-12-2023",
+      "protocol_number": "Σκαρίφημα με περιοχή απαγόρευσης/",
+      "type": "Φωτογραφικό Υλικό - Σκαρίφημα",
+      "file_url": "https://silia.eett.gr/silia/download/305b55d8-50e1-4dad-8302-962e347cd07f"
+    },
+    {
+      "document_number": "503810/21-12-2023",
+      "protocol_number": "Αρχείο Αίτησης/",
+      "type": "Δήλωση ΕΚΚΧΟ",
+      "file_url": "https://silia.eett.gr/silia/download/2b140f17-5909-4a34-9e3c-6f20d44331c8"
+    },
+    {
+      "document_number": "507452/13-02-2024",
+      "protocol_number": "ΥΔ εγκατάστασης/13-02-2024",
+      "type": "Άλλο",
+      "file_url": "https://silia.eett.gr/silia/download/a486bc24-fd46-45a7-af02-22b407aa1b7c"
+    }
+  ]
+}

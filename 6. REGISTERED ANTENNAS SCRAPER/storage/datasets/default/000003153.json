@@ -1,0 +1,39 @@
+{
+  "antenna_id": "171451",
+  "address": "ΒΑΣΙΛΕΩΣ ΓΕΩΡΓΙΟΥ  -ΣΙΔΗΡΟΚΑΣΤΡΟ ΣΕΡΡΩΝ",
+  "position_code": 1496502,
+  "municipality": "Σερρών",
+  "code_name": "TOEB_SIDIROKASTRO",
+  "region": "Κεντρικής Μακεδονίας",
+  "latitude": 41.225,
+  "company": "OTE",
+  "longitude": 23.391111,
+  "permit_status": "Από τα στοιχεία που τηρούνται στην Ενημερωτική Πύλη προκύπτει ότι, για τη θέση \"ΒΑΣΙΛΕΩΣ ΓΕΩΡΓΙΟΥ  -ΣΙΔΗΡΟΚΑΣΤΡΟ ΣΕΡΡΩΝ\" στον Δήμο Σερρών Περιφέρειας  Κεντρικής Μακεδονίας \n\t(κωδικός αριθμός θέσης 1496502, κωδική ονομασία \"TOEB_SIDIROKASTRO\") έχει κατατεθεί από την εταιρία OTE\tδήλωση εγκατάστασης κατασκευής κεραίας (αριθ. πρωτ. \n\t59418/17-02-2025) που εμπίπτει στις διατάξεις της νομοθεσίας για Εγκαταστάσεις Κατασκευών Κεραιών Χαμηλής Ηλεκτρομαγνητικής Περιβαλλοντικής Όχλησης (ΕΚΚΧΟ).",
+  "measurements_eaee": "-",
+  "documents": [
+    {
+      "document_number": "503150/14-12-2023",
+      "protocol_number": "ΦΩΤΟΓΡΑΦΙΑ/",
+      "type": "Φωτογραφικό Υλικό - Σκαρίφημα",
+      "file_url": "https://silia.eett.gr/silia/download/f544ff14-8eef-4494-b0d1-6e4f3ac9cfff"
+    },
+    {
+      "document_number": "540961/17-02-2025",
+      "protocol_number": "ΜΕΛΕΤΗ/17-02-2025",
+      "type": "Αίτηση - Μελέτη Ραδιοεκπομπών ΕΕΑΕ",
+      "file_url": "https://silia.eett.gr/silia/download/dAKBgrVILlooiPvBTMTbDKXtmszU6b2ZRm3n"
+    },
+    {
+      "document_number": "541010/17-02-2025",
+      "protocol_number": "Αρχείο Αίτησης/17-02-2025",
+      "type": "Δήλωση ΕΚΚΧΟ",
+      "file_url": "https://silia.eett.gr/silia/download/gmQ4HghnQ8OzyMdFBeqk97z5Gk9HVeFlFgVA"
+    },
+    {
+      "document_number": "550630/28-05-2025",
+      "protocol_number": "ΥΠ.ΔΗΛΩΣΗ/28-05-2025",
+      "type": "Άλλο",
+      "file_url": "https://silia.eett.gr/silia/download/xOQEmdwXRnKTbNr78oF5noltdggHP9A2rDCo"
+    }
+  ]
+}

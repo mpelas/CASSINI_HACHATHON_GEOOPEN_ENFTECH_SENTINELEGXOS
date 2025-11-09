@@ -1,0 +1,39 @@
+{
+  "antenna_id": "165474",
+  "address": "Δήμος Τρίπολης, Π.Ε Αρκαδίας, Περιφέρεια Πελοποννήσου",
+  "position_code": 3206332,
+  "municipality": "Τρίπολης",
+  "code_name": "ΒΟΥΡΒΟΥΡΑ",
+  "region": "Πελοποννήσου",
+  "latitude": 37.331389,
+  "company": "ΕΡΤ ΑΕ",
+  "longitude": 22.49,
+  "permit_status": "Από τα στοιχεία που τηρούνται στην Ενημερωτική Πύλη προκύπτει ότι για τη  θέση \"Δήμος Τρίπολης, Π.Ε Αρκαδίας, Περιφέρεια Πελοποννήσου\" στον Δήμο Τρίπολης Περιφέρειας  Πελοποννήσου έχει κατατεθεί από την εταιρία ΕΡΤ ΑΕ δήλωση κατασκευής κεραίας τηλεοπτικής ευρυεκπομπής με αριθ. πρωτ. ΣΗΛΥΑ \n49258/09-09-2022 κατά τα οριζόμενα στην παρ. 7 του άρθρου 39 του Ν.4635/2019.",
+  "measurements_eaee": "-",
+  "documents": [
+    {
+      "document_number": "467389/09-09-2022",
+      "protocol_number": "screenshot/",
+      "type": "Φωτογραφικό Υλικό - Σκαρίφημα",
+      "file_url": "https://silia.eett.gr/silia/download/b55177c9-1be8-43b2-bff3-9dca7d97a9f4"
+    },
+    {
+      "document_number": "467390/09-09-2022",
+      "protocol_number": "ΓΝΩΜΑΤΕΥΣΗ ΥΠΑ/",
+      "type": "Γνωμάτευση ΥΠΑ",
+      "file_url": "https://silia.eett.gr/silia/download/ae225458-02d0-4582-b766-69e4b1d85830"
+    },
+    {
+      "document_number": "467391/09-09-2022",
+      "protocol_number": "Αίτηση ΥΠΑ/",
+      "type": "Αίτηση ΥΠΑ",
+      "file_url": "https://silia.eett.gr/silia/download/b87a50ce-3a08-4ad6-8240-1f503b5bae23"
+    },
+    {
+      "document_number": "467392/09-09-2022",
+      "protocol_number": "Αρχείο Αίτησης/",
+      "type": "Δήλωση Τηλεοπτικής Ευρυεκπομπής",
+      "file_url": "https://silia.eett.gr/silia/download/e86bc0b3-2bae-444f-a5d4-830ab1b3fcb9"
+    }
+  ]
+}

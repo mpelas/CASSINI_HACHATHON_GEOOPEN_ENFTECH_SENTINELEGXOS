@@ -1,0 +1,63 @@
+{
+  "antenna_id": "172982",
+  "address": "ΣΗΡΑΓΓΑ Τ8 ΕΓΝΑΤΙΑΣ ΟΔΟΥ [δυτική είσοδος]",
+  "position_code": 1404850,
+  "municipality": "Ζαγορίου",
+  "code_name": "EOT8WEST MI",
+  "region": "Ηπείρου",
+  "latitude": 39.718333,
+  "company": "OTE",
+  "longitude": 21.021389,
+  "permit_status": "Από τα στοιχεία που τηρούνται στην Ενημερωτική Πύλη προκύπτει ότι, για τη θέση \"ΣΗΡΑΓΓΑ Τ8 ΕΓΝΑΤΙΑΣ ΟΔΟΥ [δυτική είσοδος]\" στον Δήμο Ζαγορίου Περιφέρειας  Ηπείρου \n\t(κωδικός αριθμός θέσης 1404850, κωδική ονομασία \"EOT8WEST MI\") έχει κατατεθεί από την εταιρία OTE\tδήλωση εγκατάστασης κατασκευής κεραίας (αριθ. πρωτ. \n\t55498/05-04-2024) που εμπίπτει στις διατάξεις της νομοθεσίας για Εγκαταστάσεις Κατασκευών Κεραιών Χαμηλής Ηλεκτρομαγνητικής Περιβαλλοντικής Όχλησης (ΕΚΚΧΟ).",
+  "measurements_eaee": "-",
+  "documents": [
+    {
+      "document_number": "512067/04-04-2024",
+      "protocol_number": "ΜΕΛΕΤΗ/04-04-2024",
+      "type": "Αίτηση - Μελέτη Ραδιοεκπομπών ΕΕΑΕ",
+      "file_url": "https://silia.eett.gr/silia/download/0Vfiuvsck5YtSo6Gof4VPlY0c5gsLZeE39OH"
+    },
+    {
+      "document_number": "512068/04-04-2024",
+      "protocol_number": "ΦΩΤΟΓΡΑΦΙΑ/04-04-2024",
+      "type": "Φωτογραφικό Υλικό - Σκαρίφημα",
+      "file_url": "https://silia.eett.gr/silia/download/YAXRNUxPTqbS25AwR83ffHpinpKydUMl8o68"
+    },
+    {
+      "document_number": "512069/04-04-2024",
+      "protocol_number": "ΦΩΤΟΓΡΑΦΙΑ1/04-04-2024",
+      "type": "Φωτογραφικό Υλικό - Σκαρίφημα",
+      "file_url": "https://silia.eett.gr/silia/download/cGYk2Chmf3WxTyAx4AwtkTzGRQQdw97BvZSg"
+    },
+    {
+      "document_number": "512070/04-04-2024",
+      "protocol_number": "ΚΑΤΟΨΗ/04-04-2024",
+      "type": "Αρχιτεκτονικά [Κάτοψη - Τομή - Όψη]",
+      "file_url": "https://silia.eett.gr/silia/download/h121GYAo0XGhrXRHl0Zg3c8u6AegyhlWYvog"
+    },
+    {
+      "document_number": "512071/04-04-2024",
+      "protocol_number": "ΤΟΜΗ/04-04-2024",
+      "type": "Αρχιτεκτονικά [Κάτοψη - Τομή - Όψη]",
+      "file_url": "https://silia.eett.gr/silia/download/gzeaP1QfSvA0GeHRgqy1bxd7biGBLrvgFB0F"
+    },
+    {
+      "document_number": "512072/04-04-2024",
+      "protocol_number": "ΤΟΠΟΓΡΑΦΙΚΟ/04-04-2024",
+      "type": "Τοπογραφικό",
+      "file_url": "https://silia.eett.gr/silia/download/yIuywGzyQGZZfVgDF5XSdF9yTTtkQmRoRP42"
+    },
+    {
+      "document_number": "512233/05-04-2024",
+      "protocol_number": "Αρχείο Αίτησης/05-04-2024",
+      "type": "Δήλωση ΕΚΚΧΟ",
+      "file_url": "https://silia.eett.gr/silia/download/TxU9VldsoyDU2QQzzBL7t1wko0CksOZpI9Bp"
+    },
+    {
+      "document_number": "518690/25-06-2024",
+      "protocol_number": "ΥΠ.ΔΗΛΩΣΗ/25-06-2024",
+      "type": "Άλλο",
+      "file_url": "https://silia.eett.gr/silia/download/sXFuHLUS9GEC49ylvxAl54cR5QdbZgSAoxkk"
+    }
+  ]
+}

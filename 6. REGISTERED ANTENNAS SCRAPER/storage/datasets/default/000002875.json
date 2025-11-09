@@ -1,0 +1,111 @@
+{
+  "antenna_id": "146404",
+  "address": "ΘΕΣΗ \"ΓΩΓΟΥ ΚΕΦΑΛΗ, ΒΙΓΛΑ\", ΤΟΠΙΚΗ ΚΟΙΝΟΤΗΤΑ ΠΙΣΟΔΕΡΙΟΥ",
+  "position_code": 1000672,
+  "municipality": "Πρεσπών",
+  "code_name": "ΠΙΣΟΔΕΡΙ",
+  "region": "Δυτικής Μακεδονίας",
+  "latitude": 40.766944,
+  "company": "NOVA Μ.Α.Ε.",
+  "longitude": 21.254167,
+  "permit_status": "Από τα στοιχεία που τηρούνται στην Ενημερωτική Πύλη προκύπτει ότι, για τη θέση \"ΘΕΣΗ \"ΓΩΓΟΥ ΚΕΦΑΛΗ, ΒΙΓΛΑ\", ΤΟΠΙΚΗ ΚΟΙΝΟΤΗΤΑ ΠΙΣΟΔΕΡΙΟΥ\" στον Δήμο Πρεσπών Περιφέρειας  Δυτικής Μακεδονίας \n\t(κωδικός αριθμός θέσης 1000672, κωδική ονομασία \"ΠΙΣΟΔΕΡΙ\") χορηγήθηκε, με την Απόφαση της ΕΕΤΤ \n38091/Φ610/18-11-2020, άδεια κατασκευής κεραίας στην εταιρία NOVA Μ.Α.Ε.. \nΑπό τo έγγραφο της άδειας μπορείτε να ενημερωθείτε για τις σχετικές εγκρίσεις των συναρμόδιων φορέων, καθώς και εάν πρόκειται για τροποποίηση παλαιότερης άδειας.\nΗ άδεια χορηγήθηκε με τη διαδικασία αδειοδότησης που ορίζει ο ν. 4635/2019, κατόπιν της με αριθ. πρωτ. 36568/20-01-2020 \n\tαίτησης, και βάσει σχετικής δήλωσης του κατόχου της περί υπαγωγή της κατασκευής κεραίας στο άρθρο 34 του ν. 4635/2019.",
+  "measurements_eaee": "-",
+  "documents": [
+    {
+      "document_number": "389868/17-01-2020",
+      "protocol_number": "Δ3/Δ/45377/6621\t/20-11-1996",
+      "type": "Γνωμάτευση ΥΠΑ",
+      "file_url": "https://silia.eett.gr/silia/download/635e290f-c1a8-4b45-b3ee-7a117614948a"
+    },
+    {
+      "document_number": "389869/17-01-2020",
+      "protocol_number": "Δ3/Δ/1171/261 - ΔΙΟΡΘΩΤΙΚΟ/21-01-2008",
+      "type": "Γνωμάτευση ΥΠΑ",
+      "file_url": "https://silia.eett.gr/silia/download/e85b607c-510c-48cb-abec-bbd25bbcb676"
+    },
+    {
+      "document_number": "389906/17-01-2020",
+      "protocol_number": "Τοπογραφικό Διάγραμμα/",
+      "type": "Τοπογραφικό",
+      "file_url": "https://silia.eett.gr/silia/download/7d3cda53-3cf6-4b01-bd6b-b8af99a6f3e5"
+    },
+    {
+      "document_number": "389907/17-01-2020",
+      "protocol_number": "Αρχιτεκτονικά σχέδια/",
+      "type": "Αρχιτεκτονικά Σχέδια",
+      "file_url": "https://silia.eett.gr/silia/download/dbb8402a-84a4-4dd3-a611-dc40ab585393"
+    },
+    {
+      "document_number": "390037/20-01-2020",
+      "protocol_number": "Υπεύθυνη Δήλωση κοινής χρήσης - Wind\t/20-01-2020",
+      "type": "Άλλο",
+      "file_url": "https://silia.eett.gr/silia/download/69b4c193-eb6d-4626-8fb3-49af0ae0d242"
+    },
+    {
+      "document_number": "390038/20-01-2020",
+      "protocol_number": "Υπεύθυνη Δήλωση Διασύνδεσης - Wind\t/20-01-2020",
+      "type": "Άλλο",
+      "file_url": "https://silia.eett.gr/silia/download/3867e27f-cc8b-496e-8849-cc3b9cbf140f"
+    },
+    {
+      "document_number": "390135/20-01-2020",
+      "protocol_number": "ΜΕΛΕΤΗ ΡΑΔΙΟΕΚΠΟΜΠΩΝ/10-01-2020",
+      "type": "Αίτηση - Μελέτη Ραδιοεκπομπών ΕΕΑΕ",
+      "file_url": "https://silia.eett.gr/silia/download/fed19e77-e17a-46ed-9b9c-41f9bfc87c61"
+    },
+    {
+      "document_number": "390164/20-01-2020",
+      "protocol_number": "Αρχείο Αίτησης/",
+      "type": "Αίτηση Άδειας Κατασκευής Κεραίας ΕΕΤΤ",
+      "file_url": "https://silia.eett.gr/silia/download/767839d4-3899-4f18-a1e7-72a917d40000"
+    },
+    {
+      "document_number": "401961/10-04-2020",
+      "protocol_number": "ΜΕΛΕΤΗ Ρ-Ε/10-04-2020",
+      "type": "Αίτηση - Μελέτη Ραδιοεκπομπών ΕΕΑΕ",
+      "file_url": "https://silia.eett.gr/silia/download/9868409e-2db7-4a42-9f98-21ff51e68bb6"
+    },
+    {
+      "document_number": "402148/13-04-2020",
+      "protocol_number": "Μ.ι./411/5059/2020/13-04-2020",
+      "type": "Γνωμάτευση ΕΕΑΕ",
+      "file_url": "https://silia.eett.gr/silia/download/58baafe2-d117-44b8-bd5f-3f327461cdd2"
+    },
+    {
+      "document_number": "421567/12-11-2020",
+      "protocol_number": "Τοπογραφικό διάγραμμα/",
+      "type": "Τοπογραφικό",
+      "file_url": "https://silia.eett.gr/silia/download/b266be66-50a8-4c32-b912-6922bd4ba777"
+    },
+    {
+      "document_number": "421568/12-11-2020",
+      "protocol_number": "Αρχιτεκτονικά Σχέδια/",
+      "type": "Αρχιτεκτονικά Σχέδια",
+      "file_url": "https://silia.eett.gr/silia/download/a52738c0-be00-4ca4-9518-d0d704bea1b7"
+    },
+    {
+      "document_number": "423103/24-11-2020",
+      "protocol_number": "38091/Φ610/18-11-2020",
+      "type": "Άδεια Κατασκευής  Κεραίας",
+      "file_url": "https://silia.eett.gr/silia/download/fabb984a-217e-42eb-8c36-fda399a160b8"
+    },
+    {
+      "document_number": "401967/10-04-2020",
+      "protocol_number": "ΜΕΛΕΤΗ Ρ-Ε/10-04-2020",
+      "type": "Αίτηση - Μελέτη Ραδιοεκπομπών ΕΕΑΕ",
+      "file_url": "https://silia.eett.gr/silia/download/9868409e-2db7-4a42-9f98-21ff51e68bb6"
+    },
+    {
+      "document_number": "408118/25-05-2020",
+      "protocol_number": "ΣΥΝΟΔΕΥΤΙΚΑ ΕΓΓΡΑΦΑ ΠΠΔ/",
+      "type": "Δήλωση υπαγωγής σε ΠΠΔ και Συνοδευτικά Έγγραφα",
+      "file_url": "https://silia.eett.gr/silia/download/e1c28983-e2f2-4fc0-af34-2d3d717d729e"
+    },
+    {
+      "document_number": "409093/28-05-2020",
+      "protocol_number": "Αρχείο Αίτησης/",
+      "type": "Δήλωση ΠΠΔ",
+      "file_url": "https://silia.eett.gr/silia/download/2be0e247-14b1-42ae-8ae3-06e6ebc14277"
+    }
+  ]
+}

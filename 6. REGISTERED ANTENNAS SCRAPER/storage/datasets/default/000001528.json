@@ -1,0 +1,39 @@
+{
+  "antenna_id": "159310",
+  "address": "ΧΑΡΙΛΑΟΥ ΤΡΙΚΟΥΠΗ 43, ΕΛΕΥΣΙΝΑ",
+  "position_code": 1488601,
+  "municipality": "Ελευσίνας",
+  "code_name": "KY_ELEFSINA",
+  "region": "Αττικής",
+  "latitude": 38.04,
+  "company": "OTE",
+  "longitude": 23.550278,
+  "permit_status": "Από τα στοιχεία που τηρούνται στην Ενημερωτική Πύλη προκύπτει ότι, για τη θέση \"ΧΑΡΙΛΑΟΥ ΤΡΙΚΟΥΠΗ 43, ΕΛΕΥΣΙΝΑ\" στον Δήμο Ελευσίνας Περιφέρειας  Αττικής \n\t(κωδικός αριθμός θέσης 1488601, κωδική ονομασία \"KY_ELEFSINA\") έχει κατατεθεί από την εταιρία OTE\tδήλωση εγκατάστασης κατασκευής κεραίας (αριθ. πρωτ. \n\t43783/18-05-2021) που εμπίπτει στις διατάξεις της νομοθεσίας για Εγκαταστάσεις Κατασκευών Κεραιών Χαμηλής Ηλεκτρομαγνητικής Περιβαλλοντικής Όχλησης (ΕΚΚΧΟ).",
+  "measurements_eaee": "-",
+  "documents": [
+    {
+      "document_number": "435094/18-05-2021",
+      "protocol_number": "ΦΩΤΟΓΡΑΦΙΑ/",
+      "type": "Φωτογραφικό Υλικό - Σκαρίφημα",
+      "file_url": "https://silia.eett.gr/silia/download/63da240f-a738-4def-9236-90e02f54ba08"
+    },
+    {
+      "document_number": "435095/18-05-2021",
+      "protocol_number": "ΦΩΤΟΓΡΑΦΙΑ/",
+      "type": "Φωτογραφικό Υλικό - Σκαρίφημα",
+      "file_url": "https://silia.eett.gr/silia/download/914e6d46-9c31-477c-91af-d312714bfcc2"
+    },
+    {
+      "document_number": "435096/18-05-2021",
+      "protocol_number": "30527/10-05-2021",
+      "type": "Άλλο",
+      "file_url": "https://silia.eett.gr/silia/download/119b8b8d-e0e7-49b5-b683-b0439be4587e"
+    },
+    {
+      "document_number": "435105/18-05-2021",
+      "protocol_number": "Αρχείο Αίτησης/",
+      "type": "Δήλωση ΕΚΚΧΟ",
+      "file_url": "https://silia.eett.gr/silia/download/30c9036d-6d1d-472a-b3f1-b1deb70cf05e"
+    }
+  ]
+}

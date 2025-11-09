@@ -1,0 +1,57 @@
+{
+  "antenna_id": "167799",
+  "address": "ΟΔΟΣ ΒΛΑΣΤΗΣ 2 (ΠΡΩΗΝ ΟΛΥΜΠΙΑΔΟΣ), ΠΤΟΛΕΜΑΪΔΑ",
+  "position_code": 1441333,
+  "municipality": "Εορδαίας",
+  "code_name": "EORD1_MI",
+  "region": "Δυτικής Μακεδονίας",
+  "latitude": 40.506944,
+  "company": "OTE",
+  "longitude": 21.673889,
+  "permit_status": "Από τα στοιχεία που τηρούνται στην Ενημερωτική Πύλη προκύπτει ότι, για τη θέση \"ΟΔΟΣ ΒΛΑΣΤΗΣ 2 (ΠΡΩΗΝ ΟΛΥΜΠΙΑΔΟΣ), ΠΤΟΛΕΜΑΪΔΑ\" στον Δήμο Εορδαίας Περιφέρειας  Δυτικής Μακεδονίας \n\t(κωδικός αριθμός θέσης 1441333, κωδική ονομασία \" EORD1_MI\") έχει κατατεθεί από την εταιρία OTE\tδήλωση εγκατάστασης κατασκευής κεραίας (αριθ. πρωτ. \n\t51178/30-03-2023) που εμπίπτει στις διατάξεις της νομοθεσίας για Εγκαταστάσεις Κατασκευών Κεραιών Χαμηλής Ηλεκτρομαγνητικής Περιβαλλοντικής Όχλησης (ΕΚΚΧΟ).",
+  "measurements_eaee": "-",
+  "documents": [
+    {
+      "document_number": "481574/30-03-2023",
+      "protocol_number": "ΜΕΣΩ ΣΗΛΥΑ/",
+      "type": "Αίτηση - Μελέτη Ραδιοεκπομπών ΕΕΑΕ",
+      "file_url": "https://silia.eett.gr/silia/download/6ec6ab8b-a891-4148-8604-daf6310d1b8b"
+    },
+    {
+      "document_number": "481575/30-03-2023",
+      "protocol_number": "ΣΚΑΡΙΦΗΜΑ/",
+      "type": "Φωτογραφικό Υλικό - Σκαρίφημα",
+      "file_url": "https://silia.eett.gr/silia/download/ff1af958-02f3-4b83-89e7-c8f7ed8ebb9a"
+    },
+    {
+      "document_number": "481576/30-03-2023",
+      "protocol_number": "ΣΚΑΡΙΦΗΜΑ/",
+      "type": "Φωτογραφικό Υλικό - Σκαρίφημα",
+      "file_url": "https://silia.eett.gr/silia/download/ff078172-d414-4cd3-a96e-bd9895f35ba9"
+    },
+    {
+      "document_number": "481578/30-03-2023",
+      "protocol_number": "ΦΩΤΟΓΡΑΦΙΑ/",
+      "type": "Φωτογραφικό Υλικό - Σκαρίφημα",
+      "file_url": "https://silia.eett.gr/silia/download/142c5de3-4ae1-4c58-9207-b9d352d353ed"
+    },
+    {
+      "document_number": "481581/30-03-2023",
+      "protocol_number": "ΦΩΤΟΓΡΑΦΙΑ/30-03-2023",
+      "type": "Φωτογραφικό Υλικό - Σκαρίφημα",
+      "file_url": "https://silia.eett.gr/silia/download/87b77812-c96e-4559-a184-ab61e887b7e8"
+    },
+    {
+      "document_number": "481582/30-03-2023",
+      "protocol_number": "Αρχείο Αίτησης/",
+      "type": "Δήλωση ΕΚΚΧΟ",
+      "file_url": "https://silia.eett.gr/silia/download/983b5ad1-554b-4553-a6b7-882889f4b6d6"
+    },
+    {
+      "document_number": "539235/29-01-2025",
+      "protocol_number": "ΥΠ.ΔΗΛΩΣΗ/29-01-2025",
+      "type": "Άλλο",
+      "file_url": "https://silia.eett.gr/silia/download/M9Znxhw0UqBcDFdd9GcW4poVP8eCgCq1V4II"
+    }
+  ]
+}

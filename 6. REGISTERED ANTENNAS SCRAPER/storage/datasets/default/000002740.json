@@ -1,0 +1,81 @@
+{
+  "antenna_id": "100286",
+  "address": "28ΗΣ ΟΚΤΩΒΡΙΟΥ 61",
+  "position_code": 1105242,
+  "municipality": "Πεντέλης",
+  "code_name": "ΜΑΚΕΔΟΝΙΑΣ ΝΕΑ ΠΕΝΤΕΛΗ",
+  "region": "Αττικής",
+  "latitude": 38.063889,
+  "company": "VODAFONE",
+  "longitude": 23.858056,
+  "permit_status": "Από τα στοιχεία που τηρούνται στην Ενημερωτική Πύλη προκύπτει ότι, για τη θέση \"28ΗΣ ΟΚΤΩΒΡΙΟΥ 61\" στον Δήμο Πεντέλης Περιφέρειας  Αττικής \n\t(κωδικός αριθμός θέσης 1105242, κωδική ονομασία \"ΜΑΚΕΔΟΝΙΑΣ ΝΕΑ ΠΕΝΤΕΛΗ\") χορηγήθηκε, με την Απόφαση της ΕΕΤΤ \n35012/Φ610/18-02-2020, άδεια κατασκευής κεραίας στην εταιρία VODAFONE. \nΑπό τo έγγραφο της άδειας μπορείτε να ενημερωθείτε για τις σχετικές εγκρίσεις των συναρμόδιων φορέων, καθώς και εάν πρόκειται για τροποποίηση παλαιότερης άδειας.",
+  "measurements_eaee": "-",
+  "documents": [
+    {
+      "document_number": "55830/05-02-2013",
+      "protocol_number": "50620/28-12-2009",
+      "type": "Αίτηση ΥΠΑ",
+      "file_url": "https://silia.eett.gr/silia/download/398c2e05-1c95-4d32-a5a0-d4c19eeb6d86"
+    },
+    {
+      "document_number": "55831/05-02-2013",
+      "protocol_number": "Δ3/Δ/1306/251/15-01-2010",
+      "type": "Γνωμάτευση ΥΠΑ",
+      "file_url": "https://silia.eett.gr/silia/download/39b0715b-2ecd-457b-853b-a1fd5177aa4d"
+    },
+    {
+      "document_number": "55834/05-02-2013",
+      "protocol_number": "11034/23-12-2009",
+      "type": "Αίτηση - Μελέτη Ραδιοεκπομπών ΕΕΑΕ",
+      "file_url": "https://silia.eett.gr/silia/download/aa0e530d-9710-4d38-89e6-1599d2078414"
+    },
+    {
+      "document_number": "55835/05-02-2013",
+      "protocol_number": "Μ.ι./411/1602/03-05-2010",
+      "type": "Γνωμάτευση ΕΕΑΕ",
+      "file_url": "https://silia.eett.gr/silia/download/febdfdb7-7ee6-4d87-bca6-b06d629a879e"
+    },
+    {
+      "document_number": "55848/05-02-2013",
+      "protocol_number": "16312/31-10-2012",
+      "type": "Τοπογραφικό",
+      "file_url": "https://silia.eett.gr/silia/download/362efaac-267c-42f4-9cb6-42bd4fddc98f"
+    },
+    {
+      "document_number": "55849/05-02-2013",
+      "protocol_number": "41801/09-11-2012",
+      "type": "Δήλωση υπαγωγής σε ΠΠΔ και Συνοδευτικά Έγγραφα",
+      "file_url": "https://silia.eett.gr/silia/download/c4223fb5-d915-43e4-9340-9008eabc96fa"
+    },
+    {
+      "document_number": "55851/05-02-2013",
+      "protocol_number": "3231002494/06-11-2012",
+      "type": "Αποδεικτικό Καταβολής Τελών ΕΕΤΤ",
+      "file_url": "https://silia.eett.gr/silia/download/846c22a3-0f58-462d-accc-613358487e56"
+    },
+    {
+      "document_number": "55970/05-02-2013",
+      "protocol_number": "Αρχείο Αίτησης/",
+      "type": "Αίτηση Άδειας Κατασκευής Κεραίας ΕΕΤΤ",
+      "file_url": "https://silia.eett.gr/silia/download/95c48521-7d07-4113-90d4-c26be62c10a4"
+    },
+    {
+      "document_number": "56193/07-02-2013",
+      "protocol_number": "606/96/09-06-2011",
+      "type": "Διοικητική Πράξη / Γνωμάτευση",
+      "file_url": "https://silia.eett.gr/silia/download/273abbaf-6138-4091-bafd-5744a0b60b5c"
+    },
+    {
+      "document_number": "65259/12-04-2013",
+      "protocol_number": "9459/Φ610/29-03-2013",
+      "type": "Πιστοποιητικό Πληρότητας ΕΕΤΤ",
+      "file_url": "https://silia.eett.gr/silia/download/a947aaf6-8dab-44ac-9f6d-3dd0393f92eb"
+    },
+    {
+      "document_number": "399802/23-03-2020",
+      "protocol_number": "35012/Φ610/18-02-2020",
+      "type": "Άδεια Κατασκευής  Κεραίας",
+      "file_url": "https://silia.eett.gr/silia/download/4c63087d-395d-4ea1-bdbe-2186eb057335"
+    }
+  ]
+}
